@@ -1,0 +1,12 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "industry": "REIT - Retail",
+  "long_name": "Federal Realty Investment Trust",
+  "provider": "yfinance",
+  "quote_type": "EQUITY",
+  "sector": "Real Estate",
+  "short_name": "Federal Realty Investment Trust",
+  "symbol": "FRT"
+}

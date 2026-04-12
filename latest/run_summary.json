@@ -1,0 +1,25 @@
+{
+  "analysis_summary": {
+    "generated_at_utc": "2026-04-12T10:15:13.780899+00:00",
+    "ok": false,
+    "reports_failed": 28,
+    "reports_written": 28,
+    "run_id": "2026-04-11_2cc47b69",
+    "symbols_total": 28
+  },
+  "candidate_count": 5,
+  "entry_ready_count": 23,
+  "generated_at_utc": "2026-04-12T10:15:13.781721+00:00",
+  "news_summary": {
+    "ok": true,
+    "providers": {
+      "yfinance": 28
+    },
+    "symbols_failed": 0,
+    "symbols_ok": 28,
+    "symbols_total": 28
+  },
+  "ok": false,
+  "run_id": "2026-04-11_2cc47b69",
+  "shortlist_size": 28
+}

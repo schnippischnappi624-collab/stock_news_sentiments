@@ -1,0 +1,12 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "industry": "Semiconductors",
+  "long_name": "Marvell Technology, Inc.",
+  "provider": "yfinance",
+  "quote_type": "EQUITY",
+  "sector": "Technology",
+  "short_name": "Marvell Technology, Inc.",
+  "symbol": "MRVL"
+}

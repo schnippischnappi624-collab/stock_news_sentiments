@@ -1,0 +1,8 @@
+symbol,provider,ok,from,to,n_raw,n_articles,n_days_total,error,skipped,message
+LOYAL ALRIB NEWCAP KREATE ALNSE AKVA RIO1 LOUP SQU ARVOSK WMA 0QMG QH9 BOHO-PREF BIJ ALNT LOIHDE 0DNW 0AA9 BALYO YHSP ILKKA2,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty
+SPIR,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty
+FRT,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty
+TIMB,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty
+MRVL,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty
+AXIA,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty
+LION,yfinance,True,2026-03-13,2026-04-12,0,0,0,,False,bootstrapped_empty

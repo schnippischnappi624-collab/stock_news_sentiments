@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BreakoutAnalysis",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "symbol",
+    "company_name",
+    "analysis_date",
+    "summary",
+    "recent_weakness",
+    "recovery_signals",
+    "catalysts",
+    "risks",
+    "news_support",
+    "breakout_stance",
+    "sources",
+    "analysis_error"
+  ],
+  "properties": {
+    "symbol": {
+      "type": "string"
+    },
+    "company_name": {
+      "type": "string"
+    },
+    "analysis_date": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "recent_weakness": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pointItem"
+      }
+    },
+    "recovery_signals": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pointItem"
+      }
+    },
+    "catalysts": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pointItem"
+      }
+    },
+    "risks": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pointItem"
+      }
+    },
+    "news_support": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "stance",
+        "explanation"
+      ],
+      "properties": {
+        "stance": {
+          "type": "string"
+        },
+        "explanation": {
+          "type": "string"
+        }
+      }
+    },
+    "breakout_stance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "label",
+        "score_0_to_100",
+        "confidence",
+        "thesis"
+      ],
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "score_0_to_100": {
+          "type": "number"
+        },
+        "confidence": {
+          "type": "string"
+        },
+        "thesis": {
+          "type": "string"
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/sourceItem"
+      }
+    },
+    "analysis_error": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "$defs": {
+    "pointItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "point",
+        "confidence"
+      ],
+      "properties": {
+        "point": {
+          "type": "string"
+        },
+        "confidence": {
+          "type": "string"
+        }
+      }
+    },
+    "sourceItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "url",
+        "publisher",
+        "published_at"
+      ],
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "published_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

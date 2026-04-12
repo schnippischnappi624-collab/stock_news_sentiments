@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BreakoutSummarySynthesis",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "summary",
+    "news_support_explanation",
+    "breakout_thesis",
+    "analysis_error"
+  ],
+  "properties": {
+    "summary": {
+      "type": "string"
+    },
+    "news_support_explanation": {
+      "type": "string"
+    },
+    "breakout_thesis": {
+      "type": "string"
+    },
+    "analysis_error": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

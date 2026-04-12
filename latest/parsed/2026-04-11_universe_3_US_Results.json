@@ -1,0 +1,119 @@
+{
+  "feed": {
+    "feed_date": "2026-04-11",
+    "filename": "2026-04-11_universe_3_US_Results.txt",
+    "kind": "Results",
+    "region": "US",
+    "universe": "3",
+    "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results.txt"
+  },
+  "run_date": "2026-04-11",
+  "table_count": 2,
+  "tables": [
+    {
+      "columns": [
+        "asof_date",
+        "exchange_code",
+        "mic",
+        "symbol",
+        "company_name",
+        "isin",
+        "type",
+        "currency",
+        "country",
+        "state",
+        "state_since",
+        "last_run_id",
+        "reason",
+        "updated_ts_utc",
+        "close",
+        "volume",
+        "vol_anom",
+        "hh20_prev",
+        "close_vs_hh20_prev",
+        "ema20",
+        "ema50",
+        "ema200",
+        "atr14"
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "asof_date": 20260410,
+          "atr14": 1.77765425721949,
+          "close": 21.56,
+          "close_vs_hh20_prev": 0.0517073170731708,
+          "company_name": "Spire Global Inc",
+          "country": "USA",
+          "currency": "USD",
+          "ema20": 14.6891003311866,
+          "ema200": 10.8712944580551,
+          "ema50": 12.4493253116836,
+          "exchange_code": "US",
+          "hh20_prev": 20.5,
+          "isin": null,
+          "last_run_id": 105,
+          "mic": null,
+          "reason": "setup+breakout",
+          "state": "ENTRY_READY",
+          "state_since": 20260410,
+          "symbol": "SPIR",
+          "type": "Common Stock",
+          "updated_ts_utc": "2026-04-11T08:45:50Z",
+          "vol_anom": 3.35228005264403,
+          "volume": 6064844.0
+        }
+      ],
+      "table_key": "universe_3_us_entry_ready_neu_heute",
+      "title": "Universe 3 US - ENTRY_READY (neu, heute)"
+    },
+    {
+      "columns": [
+        "asof_date",
+        "exchange_code",
+        "symbol",
+        "company_name",
+        "currency",
+        "country",
+        "close",
+        "volume",
+        "vol_anom",
+        "hh20_prev",
+        "atr14",
+        "entry_limit",
+        "stop_init",
+        "r_dist",
+        "tp_2r",
+        "tp_3r",
+        "risk_eur",
+        "qty_for_risk"
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "asof_date": 20260410,
+          "atr14": 1.77765425721949,
+          "close": 21.56,
+          "company_name": "Spire Global Inc",
+          "country": "USA",
+          "currency": "USD",
+          "entry_limit": 20.5,
+          "exchange_code": "US",
+          "hh20_prev": 20.5,
+          "qty_for_risk": 562.54,
+          "r_dist": 2.666481,
+          "risk_eur": 1500.0,
+          "stop_init": 17.833519,
+          "symbol": "SPIR",
+          "tp_2r": 25.832963,
+          "tp_3r": 28.499444,
+          "vol_anom": 3.35228005264403,
+          "volume": 6064844.0
+        }
+      ],
+      "table_key": "universe_3_us_entry_stop_targets_neu_heute",
+      "title": "Universe 3 US - Entry/Stop/Targets (neu, heute)"
+    }
+  ],
+  "timezone": "Europe/Berlin"
+}

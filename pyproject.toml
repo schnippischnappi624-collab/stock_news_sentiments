@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "stock-news"
+version = "0.1.0"
+description = "Daily breakout-oriented stock news analysis with Codex"
+authors = ["mothe-server"]
+readme = "README.md"
+packages = [{ include = "stock_news" }]
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4.0"
+pandas = "^2.2"
+requests = "^2.31"
+yfinance = "^0.2.54"
+pyarrow = ">=14,<20"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3"
+
+[tool.poetry.scripts]
+stock-news = "stock_news.cli:main"
+
+[build-system]
+requires = ["poetry-core>=1.8.0"]
+build-backend = "poetry.core.masonry.api"

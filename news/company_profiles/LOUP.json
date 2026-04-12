@@ -1,0 +1,12 @@
+{
+  "country": null,
+  "exchange": "PCX",
+  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "industry": null,
+  "long_name": "Innovator Deepwater Frontier Tech ETF",
+  "provider": "yfinance",
+  "quote_type": "ETF",
+  "sector": null,
+  "short_name": "Innovator Deepwater Frontier Te",
+  "symbol": "LOUP"
+}

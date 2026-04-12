@@ -1,0 +1,12 @@
+{
+  "country": "Brazil",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "industry": "Telecom Services",
+  "long_name": "TIM S.A.",
+  "provider": "yfinance",
+  "quote_type": "EQUITY",
+  "sector": "Communication Services",
+  "short_name": "TIM S.A.",
+  "symbol": "TIMB"
+}

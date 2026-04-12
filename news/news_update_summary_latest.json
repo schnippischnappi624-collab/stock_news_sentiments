@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "symbols_total": 28,
+  "symbols_ok": 28,
+  "symbols_failed": 0,
+  "providers": {
+    "cooldown": 28
+  }
+}

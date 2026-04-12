@@ -1,0 +1,12 @@
+{
+  "country": "Brazil",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "industry": "Utilities - Renewable",
+  "long_name": "AXIA Energia SA",
+  "provider": "yfinance",
+  "quote_type": "EQUITY",
+  "sector": "Utilities",
+  "short_name": "AXIA Energia",
+  "symbol": "AXIA"
+}

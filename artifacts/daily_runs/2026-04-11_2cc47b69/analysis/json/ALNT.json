@@ -1,0 +1,457 @@
+{
+  "analysis_date": "2026-04-12",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "medium",
+    "label": "constructive_bullish",
+    "score_0_to_100": 75,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 9.34 and attract follow-through volume."
+    }
+  ],
+  "company_name": "Alantra Partners S.A.",
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "At least 30 killed in crush at historic fortress in Haiti - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkJLcThwaE1rbGcxb1BEOXItZlJ4bVFlWXZIcEIzOHBTUGNSVHBZM1BuRm5BOUR1Q0N4RkRveS04d0lPM25Sakx3WGlBVGNDdEZCVGhFSGpVRXJ4RVRTRGM5eXRRbEZRRFo2RDBaWFRZZ3Z0ejE0b3lJT3VZRUgxRTV2X2dhU0lhN2VQLWhOR3FORlVpYWNDNDNxY3pTZ0JXa0RjY2VB?oc=5\" target=\"_blank\">At least 30 killed in crush at historic fortress in Haiti</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaUVvR1dHd1Jnbk11YzZhU1RvSWN2R0RUTWtmRk5MOTBWZ0d3c1R6ZDF5TmpOYU5wcmd1Nk4weXpVLU9EdjR4MmdnUmpkbWpDdVF2OWxkeVAwSEJrZ0ZNajBiWF9QeFNIUThYMkhTa1dsc1gtSHBQTFFoUzFhZF9NM3ZoeXBteWRHWUV2MkVMancycDI5dWVVVFBzemZJQQ?oc=5\" target=\"_blank\">Mass Stampede at Haitian Tourist Site Leaves Dozens Dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpOZm1fa1AtbVpwdGExUnU1RDF0dnR1alhiaGJjNlBpeGJWalV6TVN6MG83aHRjajRSQWdxaFlDNEVQcEdEdHBRLXNEbFI3cTg1THpucXpKWWZmazhMdERCLXp0WU9aMFQzYVo3YnVnXzh6LUN3RVE2TlRwU1pjaWJXUmp1emNlWEhOVDlheXg1Sno0LTJhQUdQNWNIQmVIVnYwQ3ZCeGxYaENY?oc=5\" target=\"_blank\">At least 30 dead in stampede at Haiti\u2019s historic Laferriere Citadel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUm8yT1U1akd6eVZ1Q0ZuZmlaeTBkV3dBYVVpYU1wdm5XTFphZWtwVm5qMUJRdEFYWF9GSXFtdXJ3TXRZeVdidXdBU1I2U2VaNnpVeGUweTM2cER1dDVqdUh4ckQ3b2M1b0YzUmx3UFp4ckJKTmJVVUtEbWdOOWhBSEowSkc3bFBSYXd4WEIwUWpPdw?oc=5\" target=\"_blank\">At least 30 dead in Haiti after visit to mountaintop fortress turns tragic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miami Herald</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wM1hIZzNoZXNMeklVSkJmN0FPOGN3dzNwVHJZSHp3Z0FiSFVhbHoyUWpXOFZ2ay1uQ2pQaERCcloyaUR5YmE3THVCcjUxOWM1dWFTRzJLSDFNZw?oc=5\" target=\"_blank\">At least 30 feared dead in crush at Haitian tourist site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkJLcThwaE1rbGcxb1BEOXItZlJ4bVFlWXZIcEIzOHBTUGNSVHBZM1BuRm5BOUR1Q0N4RkRveS04d0lPM25Sakx3WGlBVGNDdEZCVGhFSGpVRXJ4RVRTRGM5eXRRbEZRRFo2RDBaWFRZZ3Z0ejE0b3lJT3VZRUgxRTV2X2dhU0lhN2VQLWhOR3FORlVpYWNDNDNxY3pTZ0JXa0RjY2VB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Israeli strike kills infant girl in south Lebanon during father's funeral - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.011494252873563218,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHBqS1VsaVZTNXpSUUxGRm83eVdKSllKTG9PaXhxN0hBZ1ZyMHVXQmFMN1pvelRTSUhZTUJEWmVEajBEV01ERWRpQU1iZEVZS0ZRZ2xVSm1OclAtbklOaWF5cDY0RjhCa082dW0yVE5hN2M1TUd4Z0poX2hPMjdJbEFSSENWUjJ6ekVjNVRUVFppcWMzdHladFcwRk5RNkt5c3FtSWNEdTc3N21oV2VacmU5MGRoSElpQjduazFnSjY?oc=5\" target=\"_blank\">Israeli strike kills infant girl in south Lebanon during father's funeral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlhnQUk5bWFzMjRLNXBmWjhGVVVYTUxVMmc3eWJlQi1UWTJ1WDRrRDZUdWtuelY3a1hlalhXamdrSFdRellUdDdyRzlFOVFTS1MxOXQ5T0N6Y19DSk43R2xtU3lnODFZbDUtSVJRdUZnVW4xM2k3RDN4dEdyS09wVDUwQXF5ZGxPZnV0YmVKTUpQcTMzZm1FUG1fNA?oc=5\" target=\"_blank\">\u2018I Can\u2019t Endure This\u2019: Inside a Bombarded City in Southern Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUhHalQzTUJIZW5FOEd6NjQ1Zy1zX3pkWlRuMlV2UmhLWnRnVWE1aEctUE44cldJWXlHZ09seUZXWGNyY2Z4a293WkdZX0ZvVmdIQnVRN2hSb1REclFtZUxUMmJSVTYxVUhCZk5xMHk4LVpOY2JFSkZ2bXMxYk1WSXd0YXM3QS02ck9KRDdTbGh3U1ZxdVgzWGxYTXo1aTMwUEoxUVVZaS0wUXc4S2U3ZUVGNNIBuAFBVV95cUxQNXNjb3RtWElmZUFXY0c1Ym0xbVdpb3ZHUnpHTWV2dzVjQkw5VkM4bE56VktyUmRKdkt2Mmg5SG50Zi1RMGhJV3F5Mk9Ld1VzN09sM2taRExMbHZXVTZncHE4R2xPT0hQVlV5OHFITU9vWUI1S2pkcjEwRmV6R1cxTmJSXzdtakNqT19PUXlvdE1fS1pXdmpBMmRxTU13RFdqNjMwVXJtNEczZXNnRzlLOHhPNklKMzNh?oc=5\" target=\"_blank\">Israel rejects ceasefire with Hezbollah before Lebanon talks next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpGYklsUkhfU0xZTTBqTmdVVzlBTUh0OHBiWHc1aDNwSlN0Q1EtMmdUVUNybklUOUNGenhUQWdUTEk4eFFjYjlSbGxKam1pX0xJa0dFRjBpSWxwVE1xcGN0S09McGVOaXJFQWdpOS1LOGltbGU3NzZXNGFoVWZrdXZyMHJKWHgwYzFCbDRYMmZXWWxuMkFNYkZxYmE?oc=5\" target=\"_blank\">Israel's attacks devastate Beirut and threaten U.S.-Iran ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjU1ZGJWYUI4N2NnaVByVDhYNXBlZTQ3SW1yNnQ5ejlFT0p0aW5GVTR1RU1lYW14VHViODFodHRKVzd5Z1dMNm80MHhyT3NkTHNOUmxNdnY4VlhiVEVNUHZkeUJ0cEJVUzRDZ0FyRTktbUdHQUNKWDdPRWpVNERmMTNjbTNiQVZPMEJuM1V4QThORHhsd0ROemdpUV96R2VpUk93?oc=5\" target=\"_blank\">Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHBqS1VsaVZTNXpSUUxGRm83eVdKSllKTG9PaXhxN0hBZ1ZyMHVXQmFMN1pvelRTSUhZTUJEWmVEajBEV01ERWRpQU1iZEVZS0ZRZ2xVSm1OclAtbklOaWF5cDY0RjhCa082dW0yVE5hN2M1TUd4Z0poX2hPMjdJbEFSSENWUjJ6ekVjNVRUVFppcWMzdHladFcwRk5RNkt5c3FtSWNEdTc3N21oV2VacmU5MGRoSElpQjduazFnSjY?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-12",
+          "headline": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "As U.S.-Iran talks in Pakistan ended without a deal, U.S. stock futures were sliding and oil was climbing, based on trading via a crypto-based trading platform.",
+          "url": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-12",
+          "headline": "On Africa trip, Pope Leo will face debate over polygamy as Catholicism booms - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTVhVTRPRjFLOUFJNmRKamM4RVBEYmZjLWg1a3BNRWNmdFhqYkwwQVpmY0lkcW5IZTFtVjRRejFsVE1DTHdyeVJIcHVMbmhzZEpWTldSOTNkSEpyMFN1UHlBV1VUNFg3QXRldHQ5VEFyMmU4SDBhSWs2NXF2NzFsaWtTbzA?oc=5\" target=\"_blank\">On Africa trip, Pope Leo will face debate over polygamy as Catholicism booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHNlYmsxMk9wVktFelgyRkRKWHV1ZXZZV2RGUnhsUGFOOGhxWGdNNEJIM3o4bEo4MEZBRGVEVUxLdXc1ZDZNREN3VWExS1NwUjdyRzRzbHRqeTAtRHRLV1Q5NlhrU2pNTDJ3cjl0ZUxhQU5XSDBBZ3pFSE9xaHduV25BRUFMb0F4cTlISkZOTFVRLThnRU5NdnMyLW5NRHJEQ0RwVF9rWlZMX3Nq?oc=5\" target=\"_blank\">Pope Leo XIV Visiting Algeria as a Messenger of Peace and as a Pilgrim to the Birthplace of his Spiritual Identity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ18tNS11V1g1S3U1NF9BMzIxR1JZSXRpYlpJX1FON2hHVFZ0alFUNFRYS2FTalE3eEVrWG8zWDFTWWFJazdXM1lTNGl5M2tRRFJjbjFXNTd3eGp6bDJkSkx5VHlYd0hDZGZuaTdDT0hEZzloN0ZWY3RRUUtIY2Zmb05EaTlucHJPWUZvY19MU2tFYzc4clgxa3lzTXY2aGMwMGU4V081cl9ScU91VjlsYQ?oc=5\" target=\"_blank\">A Papal Visit Rooted in Algeria\u2019s Christian Past</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RealClearWorld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbGZKTDNRWjdQZm1TZXF0ZWhUcHpxSGhHWGZCaFFuN1VIcldWVDJfVkxSMXlQaHpJcUZqSFYwTFE4U21nZjJoYWZqTVNzM3dFSUd0bHR5X3RLelp2cENheFM3SGlEOExiZjBFdVhwSnlNam9pTkM4OGVzRkZ2OEI3VXh3eUhYSV9rdnFweGs5NFVRUlZUcnNzV0ZQdm5vZw?oc=5\" target=\"_blank\">Pope Leo is not traveling to bring hope to Africa, but to find hope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Catholic Reporter</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5zcmFQOE5sdzNxZzg1Xzh2SFVVMzlwN1U5S2k0WFFPMVQxSVoxYU5KTF9SVG5yeG10cFR0NFBaRnF5WWlBZ2RyWUJ4MlNienlBQlMtb0VnajZwend0b09MOGNvX1Z6N3ZRdERGQ1dHOFo1YjFrRFVwVUtaaw?oc=5\" target=\"_blank\">In first papal trip, Leo will encounter \u2018the now-adult Church in Africa\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pillar</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTVhVTRPRjFLOUFJNmRKamM4RVBEYmZjLWg1a3BNRWNmdFhqYkwwQVpmY0lkcW5IZTFtVjRRejFsVE1DTHdyeVJIcHVMbmhzZEpWTldSOTNkSEpyMFN1UHlBV1VUNFg3QXRldHQ5VEFyMmU4SDBhSWs2NXF2NzFsaWtTbzA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "China, Iran weaponized the global economy to beat the U.S. at its own game - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.03529411764705882,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTTTRONFFaYWx2MV9NZ0ZJdVJySUhqbkJwWlZ3Nk04STZLdDhiRFlfUVJYYVdXQkJzS25aMGI4X2I4LUxFbnZXdXo1VThqTFRXc0JtVzFaMnBjWXp3UkhzYmlPaXVobzhnNk40OXlibHRZQkVHRVMtQzNWTm9icg?oc=5\" target=\"_blank\">China, Iran weaponized the global economy to beat the U.S. at its own game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDZZVE5ZdXpuN2dwZzdNdGtXQWI0Y3hQRWhGNjdRMDd3LWIzbUtJWmEwbGhFdk9TZzVOTGt4cmllX3NvT0t3UDFTQzRNczFobXBmdjY3RVFpaGIyZmpQZUVHT213WldYYjlRRTJWR2E1Tmp4YW5Ib0RWaFFMdFowZjIweTYyQ2tGeHcxNTFjaw?oc=5\" target=\"_blank\">Rival Nations Seize On Choke Points to Counter Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaW1oY0JGQVZlWmJrUjVmYW1LSVpyaklIdnc4MzNFUGJkSWo2ejFrMWctMUVDaE1FVUhZOTd6X0tOc2NINFRYVmN5WGF2MEsxU0VEcXRITDRKTnA2QmIyQzBWTkxMSzhzUkxoSXEwUEhXYjM4NXFNZmlLUlVCaEhMRVNyNXBzYTdHWTR3RnhVUVJ6V2FXTUdqSGxBTjRnUlhsT1E?oc=5\" target=\"_blank\">Kryptonite to America\u2019s Economic Super Powers: Chokepoints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXZVQ0Y4VUJIOTV2bEljcDZWRzNkcWVYakhsMWlvSUtGUFFXMTNkaXZfRFF2SnhBNkxRVE1lRFRfX2ZFNExOM1BlQ3lmU0dMOWZDcUNzUDRQZ1d1R01SVkt4aTFWOExOUEVZbHZfWG1SWFFzMFNDRHhTUUV0LUVxdHVxOGEzZFpDekhvMGN6WGVLV0ZRZmRMUE1XblhrOG5jaXNwaTVub2I0MS1sbjFJa3F6MTUyb0h3c1BiQ19kUHprWWRJNXVQVFQ4M2dKdGtpdDZadHFPMnM?oc=5\" target=\"_blank\">China, Iran weaponised global economy to beat US at its own game: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGliT3E2RmZsR2VhWjJMSUtyblN5eVhLVV9MMEdFcEh2QzYwTkY2eFRGUzZ5OGlnTTF1OVh6QTBuQWFNQkNLYlZVN1dSOFQyTm5oOHh2Wnl0enhHeWJCOGdyZWQyd2RRUVUwUW5hX3lIaHctOElpbE44NjVKakV5THQ0dGNONkk5X0ZaRVZCdWVpU0g0MHdSVzRHTU5lVU9xOFZuR2xVX3ZXZnVKTWfSAbMBQVVfeXFMTlNHeUZvT0ktckNMMHJEY3hOTU5oejd4MG1FcWxWMkFsOXNDLWdIMlI4cXFwNlJXSnFrbXg5TjNmUTBodzRXSFJfSUtGM3Nvdmx1VFVDdHRoMUk3TnFSZDVDdThZcHd0UXNvSko3aFRVMV9MUDJQSjdoMTBld3Q1UUJCOFJPbmluTkdRWDhBQlk4Tzh0Rm1tVWJ2RmFXbHA2THlOMW5hRVN5MGhHWGdlSWZkWmM?oc=5\" target=\"_blank\">Economic Warfare: The New Battlefield in Global Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTTTRONFFaYWx2MV9NZ0ZJdVJySUhqbkJwWlZ3Nk04STZLdDhiRFlfUVJYYVdXQkJzS25aMGI4X2I4LUxFbnZXdXo1VThqTFRXc0JtVzFaMnBjWXp3UkhzYmlPaXVobzhnNk40OXlibHRZQkVHRVMtQzNWTm9icg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.03125,
+          "source": "marketwatch_topstories",
+          "summary": "There\u2019s a lot more to Beyond Meat\u2019s fall from grace than just falling sales and mounting losses.",
+          "url": "https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Why inflation is the economic problem of the decade - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_business",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE44bnVTWnVteEQ2V200QlNSc05xTlNVcklydDZVQk1sazVCcnBvbU04WkxGdmdqcWtERTgxNC03dnItUkZ2ZHF2a1lPMjdRQm54NUxYZFRJR0NFNlRWYnBISGhpOVpPU0FYTWhqUkVHOW9aelQy?oc=5\" target=\"_blank\">Why inflation is the economic problem of the decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXFGaWVmNHA3NGFRQy1NcmF5N0wzT1VvRnI3eTRkRzFnQmQwRTgwMDRzZjFmMzVHdVRMSVAwTWlueXcwRlVYbW9ZWnVNel91U0R5MGlKcEx1MVdnYnRtWDB6clZ6eV9LOVkzTnF1QVc0dV82Z210QUxqZXFkM0dUZ3IxdnRJRmtZY1VuS0x4RUNoSG16RVRSdDZfMUQ?oc=5\" target=\"_blank\">Paychecks were on track to catch up to prices. Now they might not.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBxNjJCVnBNWmRhWUNhc1lHS2Y3eE9lWU50SUdZcDdGbUY5WnRDZEliczB3b0NqaFV5eUJ5YWF3QXhFNXB4c3hSQ2MwRDBadU42YUMwemJNdGlBVnVMaXlQT245N21ERXZVMHpUcW96S3lNamdvU3c?oc=5\" target=\"_blank\">Uncomfortably high inflation is a real problem and it\u2019s not going away anytime soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnBINEo4U3UzQ0VpWWpzalptS1lWRlZXaGNtZ3IydzdPdGEwdmFrX1liZE9yb2xFVWdXU0I1blJacXFGNkk2VVNzX21ibWlrX0psd21PTm9HQ2JtWG92ZFZEdmljNTF3bEFOS1hYbFJfdTZmZUhkMHZaRHVlX2JyVDZ1WjFBN2hacVgwb0lmNXZGcmN5WXNiY2FZcGU0d25NOFpzcXU3VEFXN2Z4VGdQQ3ZtWlFFQQ?oc=5\" target=\"_blank\">\u2018That is painful\u2019: Inflation is on the verge of rising faster than your pay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFZfSms1elBCeG04TTJxWVZzbnZQZXAtTzNQNF92N0kybU5hOWp1bXVORDZzTmozMVFjSzJlV3hTNFhocFc1dzQ4Ty1Hel9VWkh2ZzhnZ2dXdEEycjk0NGZoTTdqVUt5WUVsUnVuZ2hNRlYwSTNuMHV4S2tVakxtd1VRdzExZ1l1US1YVThubEg5NHRRREx1SWtrZUdHYVJFemtIeHlR?oc=5\" target=\"_blank\">Pay Increases Outpaced by Inflation; Ohio Farms Adjust to Rising Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Journal Daily</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bnVTWnVteEQ2V200QlNSc05xTlNVcklydDZVQk1sazVCcnBvbU04WkxGdmdqcWtERTgxNC03dnItUkZ2ZHF2a1lPMjdRQm54NUxYZFRJR0NFNlRWYnBISGhpOVpPU0FYTWhqUkVHOW9aelQy?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Ukraine-Russia blame game over Easter ceasefire violations - politico.eu",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1EY2lEUG5JNTdnWS1TemI5ZElSMGxMeGo0OE1Lbm94bktteF9vUW15ekJsQTZvc3FiZFJiWFh2cW5JNkdsYXBZbEZDM3B1LVdaTk4xRThLNG1vWGNsYzlRbE5nUnk4cG1kTENvczBZS3dPRFBpZjQzeGoySE0tckxIb1pEVDkwNC1tVXdyNUxtZTlKQ0E?oc=5\" target=\"_blank\">Ukraine-Russia blame game over Easter ceasefire violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXRQZnNjcmFBSGlSbWREQTZUZ2prc0RfVm91bnF4Q1NJMUdZRlU4Wm5xSFVzX1l1NEpwMkZUUzF4Qko2bzgxWElLc3pMelBGYWZlN3A2dEV2NFVJSU1ZZFZwenVhNTY0azllaDRpSThZREx4MUFlV09WSGVSaV9ZcTVVcDViTjhBLXF2N09fOUlFemZxNmlKZGRMWWExNnphN1pMbEl4M2Y?oc=5\" target=\"_blank\">Russian Offensive Campaign Assessment, April 11, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWh4aHE3R3l1Q1pZdWNEWWlmUVo3VlN2M3JSeTZKbmNzMlQ2UzFsaHJEb2FnaXh0UlViZm5tVUJxOHNSWUNRTXhxc1VIUkdsVVdwWHNPdlVNcG96SFFUaktDczYtZUdVVUNyb19scDktc1ltVm1TRFJpR1ZiNWxwNDdIZjNoeFhXcnlNNUZXQTIzUnJEbzVtbHJyVmlNNnAzYTRtNFJ1T21DQVdranJtUTlUd2hQU3M?oc=5\" target=\"_blank\">Russia, Ukraine trade accusations of Orthodox Easter ceasefire violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJZ1N0WTRFR09aNFJfZ0RfRE5VUW8tRU1VUUtuOTlpaDkwVDE2N1JmVFZjZm15WlQybldSeldCY2ZUOG04Tk55ZG1FZHZHZk5XLWdxa0w1VHdmdw?oc=5\" target=\"_blank\">'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9EZ2dPMTFTVDFtd1haWHdsOHpJdXJVdnNvNDZWaV9FV3BCRmlEOWdOOEVVVnlNNlRjbGo2RmpvXy12V0JWZVo4X3I1ZDhwOVpTbE5KT25pd2dYaFV5Rkxab1NEN2N2ZEJBNTVGM0p1MHVfTmlfQ3A1bENfMTQ?oc=5\" target=\"_blank\">Russia\u2019s Putin declares ceasefire with Ukraine for Orthodox Easter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1EY2lEUG5JNTdnWS1TemI5ZElSMGxMeGo0OE1Lbm94bktteF9vUW15ekJsQTZvc3FiZFJiWFh2cW5JNkdsYXBZbEZDM3B1LVdaTk4xRThLNG1vWGNsYzlRbE5nUnk4cG1kTENvczBZS3dPRFBpZjQzeGoySE0tckxIb1pEVDkwNC1tVXdyNUxtZTlKQ0E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Hungarian election tests Trump\u2019s global reach as Orban fights for survival - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.01,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHhIMFhEZ0ZiTWNFV0JpMTZYUXhMNURxVVp2b1dnZEg0RlZQaE9GNDYwX3RWRXFSRTBBWFRUaF85TkF5eFlhSk8wSm5XNE93UzB6dlNveG5PMVVZWTROZ0ViaVNrd3VGU2pNNUVvLXJ3SUs4NmFwOTRHQWlBWHgzU2IyZExFNU1Ub3VZMw?oc=5\" target=\"_blank\">Hungarian election tests Trump\u2019s global reach as Orban fights for survival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEJCUzJHTnpaaXA3bk12SnM3Vnd4SVlsN2lFanVuOGUxSDNZNmhOelpDMDlIR0Zqb1JRT2tHU3Z2NE1ZdGJMQzkydl80LTZyOGtWTXU2c2F3SXZkQU5wX3h3WDMwNTZpRlFPM1RhUmVGZ2Y0eUh3NWtrRlV3VzdBZA?oc=5\" target=\"_blank\">Trump\u2019s closest ally in Europe faces toughest test yet as Hungary votes. Here\u2019s what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVVJuU09WNV9GNUJranB6Nmw4WUZkZFdXeGJtME1hbG9RUkVMOTJhREhvcDVJRmJGNFVOUEVEU25fWjJ4azlIVkdiLW9sMnJ3alg3cQ?oc=5\" target=\"_blank\">Voters in Hungary set to decide whether Viktor Orb\u00e1n remains in power after 16 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUFjMklCT1ZCUzVXbTZpLTZWUUdCMGlaZEczVkxTRXdVZnJBSlNfbHJUcXhLaE5aT2o1emV3UnlmN1lVWjA4Q1FqcUFMQVlrT3ZlYTd1anJXT3BSM0xoV3F2d05uRnllYzdLdHFoc0o0T19fTll2TW9YMHV1cnQ3MA?oc=5\" target=\"_blank\">Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0FINjZHRk5nTFlkMEtuX2JQd2Z6em82LUxYUXR1YUduaEl5ODR2Mng4bXBPNnd5aVE2dHBPQTB6SGJqRFdkcVl6ejRNNUx5R2hMYktNOGRBRmlwME5RUl9ZUnBoV1hmLURYOGtUNi1vSFRLdU9ZYmVrZkd3Y1A4ZUNBUkN4ZmdwNFp1bDlNbDhyNmtOcFliUDhsQ3EyblFJMURPT0RMWF8wWFRpbmYzTDd3SWY?oc=5\" target=\"_blank\">Hungarians vote in record numbers in election that could oust Orban, rattle Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHhIMFhEZ0ZiTWNFV0JpMTZYUXhMNURxVVp2b1dnZEg0RlZQaE9GNDYwX3RWRXFSRTBBWFRUaF85TkF5eFlhSk8wSm5XNE93UzB6dlNveG5PMVVZWTROZ0ViaVNrd3VGU2pNNUVvLXJ3SUs4NmFwOTRHQWlBWHgzU2IyZExFNU1Ub3VZMw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "China, Iran weaponized the global economy to beat the U.S. at its own game - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.03529411764705882,
+          "source": "google_business",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTTTRONFFaYWx2MV9NZ0ZJdVJySUhqbkJwWlZ3Nk04STZLdDhiRFlfUVJYYVdXQkJzS25aMGI4X2I4LUxFbnZXdXo1VThqTFRXc0JtVzFaMnBjWXp3UkhzYmlPaXVobzhnNk40OXlibHRZQkVHRVMtQzNWTm9icg?oc=5\" target=\"_blank\">China, Iran weaponized the global economy to beat the U.S. at its own game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDZZVE5ZdXpuN2dwZzdNdGtXQWI0Y3hQRWhGNjdRMDd3LWIzbUtJWmEwbGhFdk9TZzVOTGt4cmllX3NvT0t3UDFTQzRNczFobXBmdjY3RVFpaGIyZmpQZUVHT213WldYYjlRRTJWR2E1Tmp4YW5Ib0RWaFFMdFowZjIweTYyQ2tGeHcxNTFjaw?oc=5\" target=\"_blank\">Rival Nations Seize On Choke Points to Counter Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaW1oY0JGQVZlWmJrUjVmYW1LSVpyaklIdnc4MzNFUGJkSWo2ejFrMWctMUVDaE1FVUhZOTd6X0tOc2NINFRYVmN5WGF2MEsxU0VEcXRITDRKTnA2QmIyQzBWTkxMSzhzUkxoSXEwUEhXYjM4NXFNZmlLUlVCaEhMRVNyNXBzYTdHWTR3RnhVUVJ6V2FXTUdqSGxBTjRnUlhsT1E?oc=5\" target=\"_blank\">Kryptonite to America\u2019s Economic Super Powers: Chokepoints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXZVQ0Y4VUJIOTV2bEljcDZWRzNkcWVYakhsMWlvSUtGUFFXMTNkaXZfRFF2SnhBNkxRVE1lRFRfX2ZFNExOM1BlQ3lmU0dMOWZDcUNzUDRQZ1d1R01SVkt4aTFWOExOUEVZbHZfWG1SWFFzMFNDRHhTUUV0LUVxdHVxOGEzZFpDekhvMGN6WGVLV0ZRZmRMUE1XblhrOG5jaXNwaTVub2I0MS1sbjFJa3F6MTUyb0h3c1BiQ19kUHprWWRJNXVQVFQ4M2dKdGtpdDZadHFPMnM?oc=5\" target=\"_blank\">China, Iran weaponised global economy to beat US at its own game: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGliT3E2RmZsR2VhWjJMSUtyblN5eVhLVV9MMEdFcEh2QzYwTkY2eFRGUzZ5OGlnTTF1OVh6QTBuQWFNQkNLYlZVN1dSOFQyTm5oOHh2Wnl0enhHeWJCOGdyZWQyd2RRUVUwUW5hX3lIaHctOElpbE44NjVKakV5THQ0dGNONkk5X0ZaRVZCdWVpU0g0MHdSVzRHTU5lVU9xOFZuR2xVX3ZXZnVKTWfSAbMBQVVfeXFMTlNHeUZvT0ktckNMMHJEY3hOTU5oejd4MG1FcWxWMkFsOXNDLWdIMlI4cXFwNlJXSnFrbXg5TjNmUTBodzRXSFJfSUtGM3Nvdmx1VFVDdHRoMUk3TnFSZDVDdThZcHd0UXNvSko3aFRVMV9MUDJQSjdoMTBld3Q1UUJCOFJPbmluTkdRWDhBQlk4Tzh0Rm1tVWJ2RmFXbHA2THlOMW5hRVN5MGhHWGdlSWZkWmM?oc=5\" target=\"_blank\">Economic Warfare: The New Battlefield in Global Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTTTRONFFaYWx2MV9NZ0ZJdVJySUhqbkJwWlZ3Nk04STZLdDhiRFlfUVJYYVdXQkJzS25aMGI4X2I4LUxFbnZXdXo1VThqTFRXc0JtVzFaMnBjWXp3UkhzYmlPaXVobzhnNk40OXlibHRZQkVHRVMtQzNWTm9icg?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-12",
+          "headline": "Two Supertankers U-Turn in Hormuz as US-Iran Talks Break Down - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPajJwRHBwYjZaVHlQQlZ5ZDdyR01ZZkx3T2E5LTZPbEQ4eThTNklRc29OaTZxTGdKOHBCTjV3N0VBcEVvTWlBSUhZN1ZTaVBObWNNdE5EWTFsaktjVHNhaXd4UzQ4SmR5dnU0bWVZN2ZEN29KZ0dTUm1fR19nSkY2T2YwZFFtMTJ2dUVleXg5OE1JQ1BEYlJVR2pwX0xLa1BBNW1rVW5xTG1Xa0pUaGM2RWpR?oc=5\" target=\"_blank\">Two Supertankers U-Turn in Hormuz as US-Iran Talks Break Down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzBmVERzY290LUo3UFBmVHNZT0lhbE1rcXlHQ052Zmx6Z29yckJMNl9GZWlKVEFYMFJ2eUhNV1VhejRDZ2RSck5hZ1B6cXowZWxOS29RTmplbzU3aHluUlJPZ0h0QnhiOGUtcmpQOXhtdEhPcDZzRzF5R1VxNmQ0NzZuWFEtRldhREotWVQ2YWJoQQ?oc=5\" target=\"_blank\">Three oil supertankers sail through the Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXk1M1JtR28yZ2RhWlVoQ3dvQW1RcHozYUVUdHBsVVBHYmRNaFNaVFdLNlZOekJNejVkMWx6RUNRRHdpdlkwcHp6Wngtb0swRFFtS3ljdTI0RWYzblNiTDBSZWdQV1gzSmo3ZFFKQ08yX1p5RGtyQkNTNEROVWZoT0t1RVBZN2J0cERWczdmNUZZVjJEV0RfUlV3MU02Q1U0cS1EcEktWWQ4aXRK?oc=5\" target=\"_blank\">Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQejktSEtSZFlnTU5LUEthclF0M1p5UXQ5dGl4Z3lpV2dvNDhWbHZLdlp3c0l6a3FpbUIxQlY5b1RXcUhTRVBBUXZSWHBjX2ZwbnNaUXZ5TVdJNjhMVmRod1VtNUM4RjRDYUhCVjNqWjNkR1dpUnAzU29MR19yTW9FbElkbkVxU3VNSEJZSldMRjBfWm5hUlVWNkZwSjRQWnI1OXJqbEJKcnlrVkNXRGZGUzNpYWdwSGFrOVVySEpPN3h6VEJjTk9lY3ZYMmxWNWJCRjFKTnROUGhKcFhQWWZMRXgxWHdqbkFGOENLaU5pS2RGeWd0T0ttXw?oc=5\" target=\"_blank\">Two Chinese Tankers Carrying Iraqi and Saudi Crude Exit Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTZDZTZKbE9Qc0tncVVRME45QmQyOTg5LVc0ZGtiZ2pBdzlDal8zZnlkQWtMTE9mQUN2azJYUmhwVlcyNXk0U0ZfcG1INUlmRmM1dlE1djVVRzg5VW93RDNJSUxGZG5fLWh3WVFTQXEwREJNeVRQNERHckFQTDBvREUwNHM0WnlER3NMN0JjUE5QbEtMc0U3RHFNdkhzTEo5YWxDNFVR?oc=5\" target=\"_blank\">Cosco VLCCs break through Hormuz even as US-Iran diplomacy falters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lloyd's List</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajJwRHBwYjZaVHlQQlZ5ZDdyR01ZZkx3T2E5LTZPbEQ4eThTNklRc29OaTZxTGdKOHBCTjV3N0VBcEVvTWlBSUhZN1ZTaVBObWNNdE5EWTFsaktjVHNhaXd4UzQ4SmR5dnU0bWVZN2ZEN29KZ0dTUm1fR19nSkY2T2YwZFFtMTJ2dUVleXg5OE1JQ1BEYlJVR2pwX0xLa1BBNW1rVW5xTG1Xa0pUaGM2RWpR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Israel's Ben-Gvir visits flashpoint Al-Aqsa Mosque compound - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzFVMkVqQXgtQVBnT2k2TUF5SmFQbF9yR2VwRW11TlNDU21RTDNXUXZvbV9Nb1IzT2NxTmpDNENEeHVrTDBWcldxdGxCRFJJcGcwWFlseV9TRjJvNVRUcEtDdkZXUFNJbFFER1BiQmRtYWZ5OGNqaTFVMVFjejlCeFNoYlE4N3g3ZERlaDVyVUJkZDFSTHNpY0k1SjhoTWtJSHU0NnQ5RThxRTFGcGM1eWtn?oc=5\" target=\"_blank\">Israel's Ben-Gvir visits flashpoint Al-Aqsa Mosque compound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHFKTWlEejlBWWJvTkF4c3VkaEV3V3FBV0Q5Y3drV1lJV1J5el8td2w5Z0hoLXRodjY4cFZ1UlkyWWhOZ2NYOExsS3Z6UnNiSUlRcE0wY2lJenVrT1lET3JoWnRlNVM3QWNnTjRKaHVnVXVrRFVUS09KdmxYZUdFaHI4bVg2VmlmQzdja2xia1R5X2NDWkxGZmpXcndweC0xSnR4LXVQQUd3eTRp0gGyAUFVX3lxTE92b1dKR29NZ0xWLVNjSFQ4QVVfcEFEaWtuT091bUNjUVRyX3o4QnBXenFwZlVYMHZJMkJEa0RKelpQRW5qTmh1c0c0Tk9GaTlsYlNwTzlvVy1tX3NWa2d2alZrVEVhZmRodFdQZC0zSm1WNEV0bGROa3E0OTRhbXByWDNidnpfa2g5TWFRMXItbTRnZGlKcGc1TFV3TnQ0ZDJOaTBfUkdyN0ZobDBTX21Zb3c?oc=5\" target=\"_blank\">Palestinians condemn storming of Al-Aqsa Mosque by Israel\u2019s Ben-Gvir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXozMHRod2ViVlhOTjdRaEIwN3c2TmlGLUJqazd6SnU5ZG4zUVlMZ3BES0hDY3czdVZlTlRCMWtwSDNpbXZfLTdkaFBVbC1DQkRXT1piVGVEcGg4MGhLVVJMdW9XVmdtbHNtM2xmYVhqN1BLaEdXMEUta1N1S3V5dzdyMmdqSWdlN0dPU3VFVVliQ0NMa0pLM1hBSk9peUY0Q2dtcEgwWS05UjY2QmRIdUhnV1U?oc=5\" target=\"_blank\">Over 100,000 Muslim worshipers perform Friday prayers at Temple Mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xeGE1N2tuVnlMbElybldtRHIxZWJuSklqUUsyeWJhNXZEaGNId0lOMFRHcjJucmxKNXR0NWJ0VmRZR2x4ZFNHR1VyeUNxTFdlQllHOFlpdDbSAV5BVV95cUxQeEo1c2R3VktuMXJ6TkU4SzdaN2VicktTU1BENG5od1RMaWVRVWNYNW9iSmtuV2paWEIwaEtoVnVRbGFyaFZDN2ZrMkxmYXBpUmN4Wjd2ODByX3RPTk9R?oc=5\" target=\"_blank\">How Israel's Al-Aqsa reopening plan quietly dismantles decades of international law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPR21OM3JFMXNydVJra21MRjJ4QW95dEo4MjhaZlJxS1hYaWZpSTFJRW9mVV9NRDN0NlVsVnNhZDlMakFrWDRsWnBZYjhfRTRRb0dtbWJTNlB0dER4dEtzOF9MQjk3ZE1OOVlXQU9Ka1BZVGgtRXd1N3hWNTlOOEFZOWhCNllrUUJuSEZMdHdaY3FfcFpwSjB0dlJITS1IUm5DRjJySjdfNA?oc=5\" target=\"_blank\">As Jerusalem holy sites reopen, Jews, Muslims, and Christians flock to pray</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Christian Century</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzFVMkVqQXgtQVBnT2k2TUF5SmFQbF9yR2VwRW11TlNDU21RTDNXUXZvbV9Nb1IzT2NxTmpDNENEeHVrTDBWcldxdGxCRFJJcGcwWFlseV9TRjJvNVRUcEtDdkZXUFNJbFFER1BiQmRtYWZ5OGNqaTFVMVFjejlCeFNoYlE4N3g3ZERlaDVyVUJkZDFSTHNpY0k1SjhoTWtJSHU0NnQ5RThxRTFGcGM1eWtn?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-12",
+          "headline": "Saudi Arabia says key oil pipeline back to full capacity after attacks - Al Jazeera",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUZBTDloZEVlQ0pOM0djRk1CZEJfcEFSYW04cVdvdmN3akNDNWVONEREak03eFRha2h2VTNUSzJpbG1tTzN5WVRxRkFYYjh3ZWtpRFNlZFZmeHBMdmF5cWxfOFd0VG1LM2JhbTlKWjFsbm9mS0VnczgtSzJSUFc5VUMyOGFna2MyN19MM3RBWjBfS2g1YUFrWXI5c254aXIzRDBSUUZVd0JranBYbXNoOFVoSU_SAboBQVVfeXFMUHFzYjA0OWNydC1pdTZrTS1WS0FFbV9XTzNVbFc0U3E5RDhQZDdxVXNzUjdvUGZrcnRuU0tPUzFNSUczOC14ZGVVbWttbFY5MGp0bzZOZDV3cVdCTTdVM0IyeHZCaVhKdkgzSFZHM2tweVRLUGFSLU5MRFRuRjdtV29FU2VvOVVZR1JpTnl5Smplb05RNXdOVDBwUk0wV0dSSEs2bFVMY3N4UVBqR2JwZTRpVWhFWUFHcUVB?oc=5\" target=\"_blank\">Saudi Arabia says key oil pipeline back to full capacity after attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVJ3VWQ0ZUJKRy14QmdRY19vakdRQklhRVhIeW9fSEVTYnZnelBlQ3hfWkQ2YldGSDdXTnJiNWt1M0UybWVGaWtENGw1eTVwb3JxTHFVRGRURl9teWxST18tNDlIYk1Qb055ZktRUlhkUGZ0ZzRZZk1YclJuV3JjLTE3WVd2YU84Vjg1d0FuTVNZamprSGxSN3V3MUFMaUhrWjZ6dkhvb0ZISnBKOThfSUFDeXNXSTBmZmlLUFctYjVOY3Bhdnl6ZUFn?oc=5\" target=\"_blank\">Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHRuTDBuSGppZWJhMmZ5UkQ3dGR0MWR3c3p0ZGlTbEhubVBHelN5QzR4QjZUZHhPZE15R25fZDNNaDdDUGRjbWpScnZtY2IweXJ2QnlVd1lpbHgwdzlWRzVOV042SVdtSU9QSmxLYjJ5d1ZtaXBtOXZiT3NVMlJmSDlCRFV2ZUdL0gGOAUFVX3lxTFBFZmxuZ0tESF9EaldiQ2IzNEZDbGE5c1o4RDdkVGhMNXZncE9XNHhVMHRXRnRzYUFINi1UbU1Cd081WDdJa3dJQWhiVGVqaHQyN29LQ3lnVk5TVUd2YlFaOEgtU3NmV01pN0d1WF9pYTVqVjI1YU9vRkxDRFZzdWd5bWViMW0za3V2MV9BOVE?oc=5\" target=\"_blank\">Iran attacks on crucial Saudi pipeline and production facilities slash kingdom's oil output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPamJUUEFBNHZNempqY3ZLM2JIMmUzU0plVy04UENtNUpCYU5RdnRtT3gwYmRLamFQNHc1UkJ6S1l1dDZYeGs5S3hjRnZOTktBSzNZZUQyem5UdFQzR0U5STdsUXVCakJMWl85ZEQzVmhfQnhTb1J1WlM5emloeWNsT2o2LUU3aGNXX2Rnb3FfMUxzb3I5Tzd2ZTdzMGRKNEdxSkx6LXNfVzRrcmpDUDdNY01rOA?oc=5\" target=\"_blank\">Saudi Arabia Says East-West Pipeline Restored to Full Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ2d1bURiTlVwajVHRzVzMW10eE4yN1NsamhwQmQ2MEY1YnotSVFwVnNRNnFpcFdIVlRLSXFmUnI4eTRhY2FYSlh5VGR1YkJWNjhfenZaR1c3RlZkYmo0WG9jbEZjVmM5SHZkc0s0cVJCOFdwQXRqOVROU2ZSRTNnN1h1SGVvRXJBem1CVkJ3TkNtTWtHUE5udUs5cjFveXZVZEE4eXNuZ2pQMG5DSFJ4Tm1Da3RXeldnQU83Y1QtaXhvV3d0d1Q1ZEFHek9tc3R0UVI4UVFON0dZZGdhWkwxLWhDdm5SSDl0SWppaG9wMkIzZw?oc=5\" target=\"_blank\">Saudi Pipeline for Crude Exports Hit in Drone Attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUZBTDloZEVlQ0pOM0djRk1CZEJfcEFSYW04cVdvdmN3akNDNWVONEREak03eFRha2h2VTNUSzJpbG1tTzN5WVRxRkFYYjh3ZWtpRFNlZFZmeHBMdmF5cWxfOFd0VG1LM2JhbTlKWjFsbm9mS0VnczgtSzJSUFc5VUMyOGFna2MyN19MM3RBWjBfS2g1YUFrWXI5c254aXIzRDBSUUZVd0JranBYbXNoOFVoSU_SAboBQVVfeXFMUHFzYjA0OWNydC1pdTZrTS1WS0FFbV9XTzNVbFc0U3E5RDhQZDdxVXNzUjdvUGZrcnRuU0tPUzFNSUczOC14ZGVVbWttbFY5MGp0bzZOZDV3cVdCTTdVM0IyeHZCaVhKdkgzSFZHM2tweVRLUGFSLU5MRFRuRjdtV29FU2VvOVVZR1JpTnl5Smplb05RNXdOVDBwUk0wV0dSSEs2bFVMY3N4UVBqR2JwZTRpVWhFWUFHcUVB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Lessons learned in '70s have made the US and world economies less vulnerable to oil shocks - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_business",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW9ncDltbXZpckVTYjQwbWN6OTlEbnRiaGVpNTFJWnZTWXoyVTlNODUyRU56dnc4cWF6UTZOZ3RwQlV2OEpxencwUmRTVG1pSkpOdXpvM3hUdVoxYjlZb1FYVHpUdTRDekpJZ0N4LV9GUE5NcnFaYTJST1JqQWRkeERaOF9jQmdBOTN0N25helpFaFdrc0JrdXZQOHgyaXAybFBjMVVhVHE?oc=5\" target=\"_blank\">Lessons learned in '70s have made the US and world economies less vulnerable to oil shocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lhNGNEdkVCRVFTMWFDTm5KNkVpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW9ncDltbXZpckVTYjQwbWN6OTlEbnRiaGVpNTFJWnZTWXoyVTlNODUyRU56dnc4cWF6UTZOZ3RwQlV2OEpxencwUmRTVG1pSkpOdXpvM3hUdVoxYjlZb1FYVHpUdTRDekpJZ0N4LV9GUE5NcnFaYTJST1JqQWRkeERaOF9jQmdBOTN0N25helpFaFdrc0JrdXZQOHgyaXAybFBjMVVhVHE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Economic shock of Middle East war to cast shadow over IMF, World Bank meetings - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_business",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjVjWTRTMHFUV2RHeTIzQVlNcmJicEJZQVhsSVpOOTVhVnY2SmdDeEpON09iSHE3TFg0bi15NE9EQlV6TktBSllHQTd2V2JfRGlBT1Z5UUZnZU44NGxza2hlbmFLNnJKLWRvdTdQSEx5R0Y3M191czA1bERveEFYV1hoR2JPeVNaVC1rT1UzeHFhZW5mc1F0bWl3RzQ2NEF2MjZWV2pEZVBCWDdVSVBUM2hhdzNoTldYc1FzT01HZm9vOFhC?oc=5\" target=\"_blank\">Economic shock of Middle East war to cast shadow over IMF, World Bank meetings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTFKOEVDNDVMUURVOW5sRlp6T3hhNVJlMUdBd3h3OUtWRlFaNGZKNUpFOHh5RDh5aUNFM3p4X0pTVVhrcmE1UlFudkV0cEpBLV9tMHNxeE9RUmUyaGdzNkxzenBXWlBtRWxuWlpvRkFkQnRfYmtNcE1xcTBIczdGdmZ0SElUVU9GcEJMc1JDT3JGeDNOckVWLUxTd1hWX09lX2Vmak1SSFFJSk5mTzZDX2FvSkFaRHQtbDdncA?oc=5\" target=\"_blank\">Charting the Global Economy: War Fuels Inflation, Saps Sentiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkcyMk52YUtpZ01JNnR1LWN2NlJybE83Y0VaZDFBYWsxU3RPd3VJVDlkTFNBWUM2cjU5OGk3MmxVRU1qYnVibjBpOVVqZUNMcmltbklUVTh1WGlfUktRM250M2VUdGxFNWl1ZEVRbHBrN3ZueXB5cnM4STlsc0NCMmpDM2Y1cm5lYzJJb2c5eHNDbnVjWTBhWjNn?oc=5\" target=\"_blank\">World Finance Chiefs Head to IMF With a Sense of D\u00e9j\u00e0 Vu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnhBVzY5ekdEX09OMzhyYlFUUGk1QnFlN1JldUpYYkRuRTlZdHExUHdhbjlCbkJZSXI1eHpPb1FlRUZZcjF1V0tYSG1rU1YtdjMyc0ZqMmdCOEFhcjV3b3hVWTFROVlCaUtjMGgyb25zWlhTRGpIUTU3a0dJWWVzd0VKbjV6c2M?oc=5\" target=\"_blank\">Dazed delegates to IMF spring meetings wait in suspense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OMFIF</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzhLOTB5Ym8xZVdacnNWU3dlMDZEaUtTZjk5TWdjWGhlalJBbjU2Vk1QaFE0QTBVZnhGdTlNa1B4eml2cnc5YWFWQmdkSHZkWUhFaHdXZXZWTVN5VVYxZ0dXdWVmblhPckZKeXNzRUZMS3g2b3RZbFFrVTZENkhzMTJyT3hHNmZEci1yWFdFSzlLd1dOX2U0WkN4Q0I0RjZfOUh6Yy12Ym1naTI1TTMzXw?oc=5\" target=\"_blank\">Task for the week: limit the fallout from biggest oil shock in decades | Richard Partington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjVjWTRTMHFUV2RHeTIzQVlNcmJicEJZQVhsSVpOOTVhVnY2SmdDeEpON09iSHE3TFg0bi15NE9EQlV6TktBSllHQTd2V2JfRGlBT1Z5UUZnZU44NGxza2hlbmFLNnJKLWRvdTdQSEx5R0Y3M191czA1bERveEFYV1hoR2JPeVNaVC1rT1UzeHFhZW5mc1F0bWl3RzQ2NEF2MjZWV2pEZVBCWDdVSVBUM2hhdzNoTldYc1FzT01HZm9vOFhC?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "\u2018We aren't in it to make 5% or 6%': Warren Buffett calls Iran war market dip 'nothing.\u2019 What he sees that others don't - Yahoo Finance",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.0070921985815602835,
+          "source": "google_business",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFFYWnlUZDhaaFRlQ0c3STlES1pFWXJDdXM4XzU2Smp4TXgtdDEtaWhTSGVRY2c5ZldQRzBUT1d6Mm1vLTFZVXlPTjhHVFNCRmtibk5xRTdjM0dHQ1hGVzNSSzRFWG1xdEhQQUg2cGxjMWQtQTRZb2g3QV9UR0QzaXJIM0xhbERDdWlMTVppTWdlc28?oc=5\" target=\"_blank\">\u2018We aren't in it to make 5% or 6%': Warren Buffett calls Iran war market dip 'nothing.\u2019 What he sees that others don't</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQYXRaVkZNc3FPdHJjSjFyR1RMLTh4MEh4dlFIMDNRTnR2UFJCdWZlSC1kT1l5VGhkaUxtOHh3SmdiMmRCVXNUOEJjVDVpa08zQ0RfVWV2dHFrTjNhMHdMdHEwVlR1UkpaLWVKM05WcWxGZEN1RXJIR2JaVEk2cDUyd20yQ1YyUTM2OHVZLTNpWjR0eElmTXVjOURGcTBjZjdlLXR3cDcyV3V2T3kxc2JFOVRlSEU2RVdlTHdaMlNvT0pKSXVzc0dXd0VjdEtQWThFY3c2Y1lqTUwteTBwc2FieUhiZGtxdUJtUlh1aHVzd3Bpa2F2cXA0NDVzc1ZzNUNsWmR4WWd0Uld5VzRlTVQ5cWVXVzB3MmxBcXF0UndMTlR4bmotNWlYRWhXZw?oc=5\" target=\"_blank\">Have President Donald Trump's Actions in Iran Done Irreparable Damage to the Stock Market? One Data Point Tells the Tale.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUliSWhIY2pSSVE2bC02Y1lLQUwwb0tIMFZQN09uSjVSMHUyU1ZUSGNmdDNkZHcxNVFfSERiTmZLSC15RWRlNjd0Y1VZN2RTZzZMTTVJTGRpTzQ3TWxEOVRkNURhSHI1Ry1RLXNRbUNQQnZ5LWdyNFdQU1I5QXI2UHRfblplMGc5aFkwOXgzMlA1NVZVcjNSNA?oc=5\" target=\"_blank\">Is the Iran War Market Dip a Buying Opportunity? Here's What Warren Buffett Had To Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUl5c0ZGV0MtdHZ0SVFnOFFWdmFjSmFLQlNLWmpsSTVEX1g2ZGxBODdKTS1vZVVQU1p0Ym9HaWdTTWNpZjJHTVd0Y3VwaUFhWDBrWU9kRUM5VnY0RElmRTNuWjJiSTlLazB2clJmdnltU1M1UjljQTBJYWh5ZWx3MVhHdUJlaXBnNGs2dzAzdHhGR1drRy1fczktSTdJejJ3MjhfX2U2S0JmR3JHWkZQNVBYcE5nSUpUWkQyUHViWmU0OUU?oc=5\" target=\"_blank\">The Iran war and your portfolio: 7 things those nearing retirement need to know now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWjk0ZmtwbHlPUnBXV01jZUtLemVDeE41LTNpT21HS1NUbFlBTXkzT0NiM2ZQOENpQ2ZWQW9RVXdqX3FzMXBUMUEzUUpCZlJHazlXaGtUTjVoLXJtU2pwSnNVeTlySC1Bb2ZrNTlCZ0NQOVhmeFBxVjFtQlc3aU4wZVJSai1JMnM2NllMMjFveS1QRC01STMxRjl0RTIzbF9tZ0pUNDVScnRfckNjMklqRjY1WWU1NHo5ZDRQUm9ILUQ0ell6MFFwemtrZ3doMjhMZjVnWVFzV19zcnU2NGRyUXhMZERscmxVbnNpdTdxRVRibGZJcjEwci1aNjk4a0dSTkhkbTRqT0x0VjJNWjBLRTBJWHA5QW0wd1h4eU9hczZmeDQ2dkczTEpDelBkMTVWMjZQVVYyZHNmTWdyT3pfcXFnVnhhODdpQlZPSXpNRlZyUQ?oc=5\" target=\"_blank\">Experts warn the Iran war is 'bad for stocks.' Should you pivot to these 4 alternative assets rich young Americans are already taking advantage of?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFFYWnlUZDhaaFRlQ0c3STlES1pFWXJDdXM4XzU2Smp4TXgtdDEtaWhTSGVRY2c5ZldQRzBUT1d6Mm1vLTFZVXlPTjhHVFNCRmtibk5xRTdjM0dHQ1hGVzNSSzRFWG1xdEhQQUg2cGxjMWQtQTRZb2g3QV9UR0QzaXJIM0xhbERDdWlMTVppTWdlc28?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough",
+            "product_followthrough"
+          ],
+          "date": "2026-04-12",
+          "headline": "A Hezbollah commander describes battling Israel in Lebanon - NPR",
+          "kind": "mixed",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [
+            "commercial",
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHVCY0RTVXF3bnVpSWdzMVNOY2lray1wSTMwVzd2SlA2dEdKZ2ptLTRtMjY0NXl3RklrZ2pEeHVBem02czNpY1FQNzZCeFlGaUcxUnJ1ZWNSZzFlZTBMUGZieE1pLU9TcnV4TDVvRzItYS1aVXdlOFZmMV96UjI4bnY1bw?oc=5\" target=\"_blank\">A Hezbollah commander describes battling Israel in Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFNGN3M3c1VVTWZaX2pNa2hueG9RU3VKSER1ZzhTTkJ2Z2RkTUM4UGlKSWYyM3EtT3kxMWs0a1FuYmVJNU9VNm9SUnVqMWhoTHBETzh0NkVtNUtDSjhMbHFITzdwSTZlNEQwZnV0ZlQ0eXRzRmxDV2hYWU1EbUEtVkZGMzF3RHNHQnlJ?oc=5\" target=\"_blank\">\u2018Endless war\u2019: inside an Israeli kibbutz near Lebanon\u2019s volatile border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNaWFoaGN3WkN2aHd5STM4VmdWZXZ1c1dTVFNwZnAtcko0aTFHSEVCVURzc1RRVkhfWDdfOUhsdWhiX04tc0VNLXZsd0V4ZlJmbmNQUTllWjhaWHRQVThuaXZvekYzYWJjcVJaY0MzOGFOakhvLVBRQjlhOUtOQXRfMU03TkNVTU5odVRkdmE1cFNSb0dfUVZhVWthNmFaUHAta29PV04zdjZJUUU0Uk1QRm8yOHFGMS1oZTU5b0R4VjNOaHRCZ1VvaE84ZVdrcGFNR1FhWnBTcjk4WmRlQkk4cTN0WG5uckNKelJBeFc1UTFpTmdLT0F2MXdqOVJQXzdFUkVPbHdrS1RxOENLTHFqZG04S2JSNjdL?oc=5\" target=\"_blank\">Hezbollah rockets fired at Israel cause heavy damage; IDF strikes south Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPemVCLTlHMXRiaUVQQVFlMUJJUFZCRlpfeW1rUmxVa3pLUFJYVkhFQ2ZocUVBQ0psUnlETVlnSkpZajVSUGRVM1BxTE00QU04cFpxRDZSMVFFa3gwR1ltc1BNeVdDdklVcmlQOGtCaGltU3l4aElDLWt6YklBZ2JUaWlFbU5IN0FkbG5ZcVJpUFVRZnhWVUg3YjRNbnpSMEN1X1RRbFdjR28wZ08zR2JTTlRPY1pIVnhYaTdhem02MTlpS0F5LVdJ?oc=5\" target=\"_blank\">Israeli military says Hezbollah launched missile at Israel, triggering sirens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1YVzhvdi0zeF85QVlSV0hwRFJhd19NNXlwN1pnY1RGTFg0MTA5VVc3VGdxQjhNZllqZ0VxbzhyTWp4dUF6bEhoWXdWOHU5U2lTa3E2Uk9GZzVoYnNQNUdfb2Z4NnNfYUpZOWpZY0RCMUcwSjdqd3NlWlZKWldWUQ?oc=5\" target=\"_blank\">In New War With Israel, Hezbollah Defies Notion That It Was Crippled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHVCY0RTVXF3bnVpSWdzMVNOY2lray1wSTMwVzd2SlA2dEdKZ2ptLTRtMjY0NXl3RklrZ2pEeHVBem02czNpY1FQNzZCeFlGaUcxUnJ1ZWNSZzFlZTBMUGZieE1pLU9TcnV4TDVvRzItYS1aVXdlOFZmMV96UjI4bnY1bw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Peruvians vote in crowded presidential race as runoff looms - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_world",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTZjcUFtVjFpT1RYUlBJbWxxalZtSmE4TW9CdjVGUlFjUXNGQm9VdkYtdktMZXBJYjlqMGZxSDVKY1B5dXpKYjY3ZmN2TnFtYzJLcngwR1hEeTIzQ1Ntb2hmeFpKRVJjUzhCRU5ZUFhHYXZLMlhnRnlXcjIzZFp4YTVCd0hSZjJzWVNqWDQyMmp5QWlrajlOTjlwODJVMHllbW9fMWFEMA?oc=5\" target=\"_blank\">Peruvians vote in crowded presidential race as runoff looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzlTWVFCRURBb2ZnWklYYUJVLVN4TmRGenBicktyTWloekhRMEQyeF9uWHdLcHVENjNycjNGWU5zSXpaTU5laGxjalRZNk1RcUFVUDYzT0pyX184MlBib0xxLXVWamhfQTZ3MWdFT090OEFuUl9jRHg3eGVrb3kyZnZIQ1hKdldV?oc=5\" target=\"_blank\">Peru Votes for President, With 35 Names on the Ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAtZExGQm5STXVXdktITU9sLTAzdk5ERVBhZ21KeUlNSDh6cEF3clpUYUJrZEgxOFJTUGszUnVCZWczYW44RjZ5UGVXV1JYSm8tOXFnblUzTWw5Uk1POGppaVBjclA5N1JZU1RSYmYyS1M?oc=5\" target=\"_blank\">The Peruvian leading the presidential race with 15% in the polls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ3R1WTBuNDB5dld6U2xJcUV0SkRpeUhOaU9FV3dkVjM0cXdMOGVXRWRSYUFJTDNJa004UUh6ajA3SHlrMmwzNTBFVkNYY3A4ckdWZDIzanh2RkNWTTREMklTTmRZQXZPbnRDN0lpRzByMWpXcUdEMEpZZU9GbHk4b28wcw?oc=5\" target=\"_blank\">10 years, 10 presidents. Peru\u2019s leaders don\u2019t last. Voters will try again.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDFPbUdpbUFCQjU2NTNxcmhNMjNJS2FESV9lcDJBSTZ3WC1CTnJZTkRfWm9BS0Q1UTJvV01xRnhxWEhDZE9zSThHeGRDTk8wanpSNzBlWFlUS3NQS25oNC1zWms3b19ENUN4US16TXU2Q3RnNmVnVGpob2NNeHlKaXpSRQ?oc=5\" target=\"_blank\">Peruvians go to polls hoping to break cycle of instability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTZjcUFtVjFpT1RYUlBJbWxxalZtSmE4TW9CdjVGUlFjUXNGQm9VdkYtdktMZXBJYjlqMGZxSDVKY1B5dXpKYjY3ZmN2TnFtYzJLcngwR1hEeTIzQ1Ntb2hmeFpKRVJjUzhCRU5ZUFhHYXZLMlhnRnlXcjIzZFp4YTVCd0hSZjJzWVNqWDQyMmp5QWlrajlOTjlwODJVMHllbW9fMWFEMA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "The tale of L.A.\u2019s iconic hot sauce and how Ozempic is making it even hotter - Los Angeles Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_business",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXEycWFyWHdUQzJvVkIweVZsNGxITDVvaGZsZXFTQ2FTSjVmZno3SC00SmxJdFhqbS1GRnV4N0s2RU9vQzdwUEFmdnZPTUhDM0ZLR3p4aU9weWVIc2Q0a092X3l6eGdjY2Uwd2plMzViUW42Z2FLd0RGZXZvdkQyNEV3Mlo4RTJoZXMwU1o5ZWJETDBDZFQxUjVlYkVVOWNy?oc=5\" target=\"_blank\">The tale of L.A.\u2019s iconic hot sauce and how Ozempic is making it even hotter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXEycWFyWHdUQzJvVkIweVZsNGxITDVvaGZsZXFTQ2FTSjVmZno3SC00SmxJdFhqbS1GRnV4N0s2RU9vQzdwUEFmdnZPTUhDM0ZLR3p4aU9weWVIc2Q0a092X3l6eGdjY2Uwd2plMzViUW42Z2FLd0RGZXZvdkQyNEV3Mlo4RTJoZXMwU1o5ZWJETDBDZFQxUjVlYkVVOWNy?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "How Much Do You Need To Invest To Make $100k On Dividends Right Now? New PF Investment Income Series - 24/7 Wall St.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "google_business",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdFdxdlh6Y2hheUVZRnVzcGhVOGxad1VKOEtHaTlxRzNFemVYbnV0cktRZzFuc3VrVElwaTBOcGwtNTVQTkJVNlZCSGhBdF9FeENUTjNacGoxQnVaaF96aVNHMmdoVVJTMEpyTDg3M0o1eTZ3NzV2end6S2kzOGhJMlFaMURLOG1EWG5JTHBweXloY3FEM2twQ3BoNG01UkhMS2FXbDZqNVN2ZU52dUQ0M1ZWZGdSNGgxSVIzeGlvekJpajA1UEFrSlNIRjI5V1VtUjN0dkF4Q2pyUQ?oc=5\" target=\"_blank\">How Much Do You Need To Invest To Make $100k On Dividends Right Now? New PF Investment Income Series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lhNzR2eEVCR1Axc2Z3TXgzLU9pZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdFdxdlh6Y2hheUVZRnVzcGhVOGxad1VKOEtHaTlxRzNFemVYbnV0cktRZzFuc3VrVElwaTBOcGwtNTVQTkJVNlZCSGhBdF9FeENUTjNacGoxQnVaaF96aVNHMmdoVVJTMEpyTDg3M0o1eTZ3NzV2end6S2kzOGhJMlFaMURLOG1EWG5JTHBweXloY3FEM2twQ3BoNG01UkhMS2FXbDZqNVN2ZU52dUQ0M1ZWZGdSNGgxSVIzeGlvekJpajA1UEFrSlNIRjI5V1VtUjN0dkF4Q2pyUQ?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "software"
+      ],
+      "company_profile": {
+        "industry": "Electronic Components",
+        "provider": "yfinance",
+        "sector": "Technology"
+      },
+      "matched_effects": [],
+      "supportive_effect_count": 0
+    },
+    "news": {
+      "article_count": 0,
+      "catalyst_signal_count": 0,
+      "classified_articles": [],
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 0,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": null
+    },
+    "technical": {
+      "atr14": 0.282152355490244,
+      "close": 9.42,
+      "close_vs_ema200_pct": 9.362147193921087,
+      "close_vs_ema20_pct": 5.106214309609271,
+      "close_vs_ema50_pct": 5.610302241597751,
+      "close_vs_hh20_pct": 0.856531049250536,
+      "ema20": 8.96236256045879,
+      "ema200": 8.61358362258236,
+      "ema50": 8.91958435877826,
+      "entry_ready": true,
+      "hh20_prev": 9.34,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 4.01136365221199
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "exposures": [
+      "software"
+    ],
+    "industry": "Electronic Components",
+    "sector": "Technology",
+    "supportive_effects": 0
+  },
+  "news_support": {
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (9.34), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 4.01, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 9.34 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.86
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 4.01
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 5.11
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 5.61
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 9.36
+      }
+    ],
+    "confidence": "medium",
+    "label": "constructive_bullish",
+    "score_0_to_100": 75
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-11",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
+    }
+  ],
+  "summary": "ALNT scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.",
+  "symbol": "ALNT"
+}

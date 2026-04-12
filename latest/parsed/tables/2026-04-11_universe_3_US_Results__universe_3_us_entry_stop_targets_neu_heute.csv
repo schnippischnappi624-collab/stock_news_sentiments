@@ -1,0 +1,2 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,entry_limit,stop_init,r_dist,tp_2r,tp_3r,risk_eur,qty_for_risk
+20260410,US,SPIR,Spire Global Inc,USD,USA,21.56,6064844.0,3.35228005264403,20.5,1.77765425721949,20.5,17.833519,2.666481,25.832963,28.499444,1500.0,562.54
