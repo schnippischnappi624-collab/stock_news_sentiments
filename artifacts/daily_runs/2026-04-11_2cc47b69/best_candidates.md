@@ -4,7 +4,7 @@
 - Feed dates: `2026-04-11`
 - Table size: `15`
 
-| Rank | Symbol | Company | Bucket | Score | Confidence | Stance |
+| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [AKVA](analysis/markdown/AKVA.md) | Akva Group | entry_ready | 81 | high | constructive_bullish |
 | 2 | [ALNSE](analysis/markdown/ALNSE.md) | NSE SA | entry_ready | 78 | medium | constructive_bullish |

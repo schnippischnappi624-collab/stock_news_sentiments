@@ -14,7 +14,7 @@ Quick links:
 
 ## Best Scoring Candidates
 
-| Rank | Symbol | Company | Bucket | Score | Confidence | Stance |
+| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [AKVA](latest/analysis/markdown/AKVA.md) | Akva Group | entry_ready | 81 | high | constructive_bullish |
 | 2 | [ALNSE](latest/analysis/markdown/ALNSE.md) | NSE SA | entry_ready | 78 | medium | constructive_bullish |
@@ -31,3 +31,12 @@ Quick links:
 | 13 | [BIJ](latest/analysis/markdown/BIJ.md) | Bijou Brigitte modische Accessoires Aktiengesellschaft | entry_ready | 75 | medium | constructive_bullish |
 | 14 | [BOHO-PREF](latest/analysis/markdown/BOHO-PREF.md) | Boho Group AB | entry_ready | 75 | medium | constructive_bullish |
 | 15 | [QH9](latest/analysis/markdown/QH9.md) | ADTRAN Holdings Inc. | entry_ready | 75 | medium | constructive_bullish |
+
+## Column Guide
+
+- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.
+  Worst to best: `avoid` -> `fragile_watch` -> `mixed_watch` -> `constructive_watch` -> `constructive_bullish`
+- `Confidence`: how much usable evidence supports the current stance.
+  Worst to best: `low` -> `medium` -> `high`
+- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.
+  Worst to best: `candidate` -> `entry_ready`

@@ -253,7 +253,7 @@ def render_best_candidates(
         f"- Feed dates: `{', '.join(manifest.get('feed_dates', []))}`",
         f"- Table size: `{len(top_items)}`",
         "",
-        "| Rank | Symbol | Company | Bucket | Score | Confidence | Stance |",
+        "| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |",
         "| --- | --- | --- | --- | --- | --- | --- |",
     ]
 
@@ -305,7 +305,7 @@ def render_project_readme(
         "",
         "## Best Scoring Candidates",
         "",
-        "| Rank | Symbol | Company | Bucket | Score | Confidence | Stance |",
+        "| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |",
         "| --- | --- | --- | --- | --- | --- | --- |",
     ]
 
@@ -326,5 +326,19 @@ def render_project_readme(
 
     if not top_items:
         lines.extend(["", "No scored candidates were available for this run."])
+
+    lines.extend(
+        [
+            "",
+            "## Column Guide",
+            "",
+            "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",
+            "  Worst to best: `avoid` -> `fragile_watch` -> `mixed_watch` -> `constructive_watch` -> `constructive_bullish`",
+            "- `Confidence`: how much usable evidence supports the current stance.",
+            "  Worst to best: `low` -> `medium` -> `high`",
+            "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
+            "  Worst to best: `candidate` -> `entry_ready`",
+        ]
+    )
 
     return "\n".join(lines).strip() + "\n"
