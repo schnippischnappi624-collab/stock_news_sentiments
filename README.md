@@ -3,7 +3,7 @@
 Auto-generated daily breakout dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-04-11`
+- Feed dates: `2026-04-11, 2026-04-13`
 - Symbols analyzed: `24`
 
 Quick links:
@@ -37,18 +37,18 @@ Quick links:
 
 ## US Best Scoring Candidates
 
-- Run ID: `2026-04-11_2cc47b69`
-- Feed dates: `2026-04-11`
+- Run ID: `2026-04-13_us_6c8c1d3c`
+- Feed dates: `2026-04-13`
 - Symbols analyzed: `6`
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SPIR](latest/analysis/markdown/SPIR.md) | Spire Global Inc | $\color{#cf222e}{\textsf{+5.17\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 2 | [FRT](latest/analysis/markdown/FRT.md) | Federal Realty Investment Trust | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{63}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 3 | [MRVL](latest/analysis/markdown/MRVL.md) | Marvell Technology Group Ltd | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{61}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 4 | [AXIA](latest/analysis/markdown/AXIA.md) | AXIA Energia | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
-| 5 | [LION](latest/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
-| 6 | [TIMB](latest/analysis/markdown/TIMB.md) | TIM Participacoes SA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{50}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 1 | [SPIR](latest/us/analysis/markdown/SPIR.md) | Spire Global Inc | $\color{#cf222e}{\textsf{+5.17\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 2 | [MRVL](latest/us/analysis/markdown/MRVL.md) | Marvell Technology Group Ltd | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{61}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 3 | [AXIA](latest/us/analysis/markdown/AXIA.md) | AXIA Energia | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 4 | [FRT](latest/us/analysis/markdown/FRT.md) | Federal Realty Investment Trust | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{56}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 5 | [LION](latest/us/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 6 | [TIMB](latest/us/analysis/markdown/TIMB.md) | TIM Participacoes SA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{50}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
 
 ## Column Guide
 

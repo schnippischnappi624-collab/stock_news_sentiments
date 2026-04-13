@@ -1,0 +1,24 @@
+{
+  "company_profiles": {
+    "ok": true,
+    "profiles_errors": 0,
+    "profiles_fetched": 0,
+    "profiles_skipped": 6,
+    "symbols_total": 6
+  },
+  "market_news": {
+    "articles_appended": 64,
+    "errors": [],
+    "feeds_total": 3,
+    "ok": true,
+    "provider": "rss",
+    "skipped": false
+  },
+  "ok": true,
+  "providers": {
+    "google_news_rss": 6
+  },
+  "symbols_failed": 0,
+  "symbols_ok": 6,
+  "symbols_total": 6
+}

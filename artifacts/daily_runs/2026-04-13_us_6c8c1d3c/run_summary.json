@@ -1,0 +1,41 @@
+{
+  "analysis_summary": {
+    "analysis_mode": "hybrid",
+    "generated_at_utc": "2026-04-13T14:45:31.465120+00:00",
+    "ok": true,
+    "reports_failed": 0,
+    "reports_written": 6,
+    "run_id": "2026-04-13_us_6c8c1d3c",
+    "symbols_total": 6
+  },
+  "candidate_count": 5,
+  "entry_ready_count": 1,
+  "generated_at_utc": "2026-04-13T14:45:31.466019+00:00",
+  "news_summary": {
+    "company_profiles": {
+      "ok": true,
+      "profiles_errors": 0,
+      "profiles_fetched": 0,
+      "profiles_skipped": 6,
+      "symbols_total": 6
+    },
+    "market_news": {
+      "articles_appended": 64,
+      "errors": [],
+      "feeds_total": 3,
+      "ok": true,
+      "provider": "rss",
+      "skipped": false
+    },
+    "ok": true,
+    "providers": {
+      "google_news_rss": 6
+    },
+    "symbols_failed": 0,
+    "symbols_ok": 6,
+    "symbols_total": 6
+  },
+  "ok": true,
+  "run_id": "2026-04-13_us_6c8c1d3c",
+  "shortlist_size": 6
+}

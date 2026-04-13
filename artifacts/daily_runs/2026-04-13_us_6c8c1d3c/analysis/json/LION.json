@@ -1,0 +1,453 @@
+{
+  "analysis_date": "2026-04-13",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "low",
+    "label": "mixed_watch",
+    "score_0_to_100": 52,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 10.72 and attract follow-through volume."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.)",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Stock Market Today: Oil Jumps Back Above $100, Dow Slips on Hormuz Blockade \u2014 Live Updates - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeS1vaW9MN2dqLTR0bDZud0ZJMDlKaXFPVXBkRXh6LWRCSmtUS0xjOW8wbE5DSDZBcjA1VFJiT2xnQTJsY08xTzRyM2Ezblg1c0I2Y3l1WWVXQnlzVW5LbVNLVXlhNVBCU1E0TVU3OE9BcldzT28yNVBFeUE1X2hRY3dOUkdGVGc?oc=5\" target=\"_blank\">Stock Market Today: Oil Jumps Back Above $100, Dow Slips on Hormuz Blockade \u2014 Live Updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5\" target=\"_blank\">S&P 500 is flat as investors bet on eventual Iran resolution, Dow dragged down by Goldman: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLTI0Z0R0M1NSUkktSzRGOUJfUk5ZVkRTdWJSLTYzMUcybnRoUHNGRGY1VS1PaXBWN2xIZC1HdGFKcFJHRWtWWElQbHBIOEs4TlBPMUl1N2tIaGZOM2VmSFFOQUNHaTFTdzFPM0h3Mk1EVFVwcGs3NXAxM2NYSV9hZFR1ejdqcnBHOGg5azh1MTNjNTZsUXZOY3N0V2F1WlhiVUFRbFhGUjNxOWtrMXhkcURCRnVoZTFiX2UzQmdzcVZ5ckdmNmZiYnpMNzFpVEJNaVBkSDJ1UDQ?oc=5\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq slide after Trump orders Hormuz blockade against Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9lTGVSaGRfSFNsX1ByeERMLWoxdWREdGtBVXNaQy1EeUdZeU9RSVZYY1UxcVh6NzRadndia294eTlGbUtLOVl3N2wySTZ6aVZlMWtjRmlWNF9rVG81NDltb2ZJTU9QWVRGS1JaUUlPaHNZdjA?oc=5\" target=\"_blank\">Iran War Live Updates: Deadline Passes for U.S. Blockade in Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5oc3RISTkxVkY4ODl3Vk91a3VyS3FfYWwxODF3NWF5QUJBYzBVNnFGLW9OYl95OTlxUUZyZjFuS0xNUXlVSExodXJlX3BWdTFPeExSVDE2TExfVXFGZE9RTVVxWTdBQ1UxQ0ttSzdqQmJyZGkxX3ZPY01kZ2FoYTQ?oc=5\" target=\"_blank\">Oil prices jump on US plans to blockade Iranian ports in Strait of Hormuz | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeS1vaW9MN2dqLTR0bDZud0ZJMDlKaXFPVXBkRXh6LWRCSmtUS0xjOW8wbE5DSDZBcjA1VFJiT2xnQTJsY08xTzRyM2Ezblg1c0I2Y3l1WWVXQnlzVW5LbVNLVXlhNVBCU1E0TVU3OE9BcldzT28yNVBFeUE1X2hRY3dOUkdGVGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Trump\u2019s blockade takes effect. Here\u2019s why stocks are only off modestly for now.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The American military on Monday was implementing a blockade on all ships entering and exiting Iranian ports. President Donald Trump and the Pentagon both said the blockade would be starting at 10 a.m. Eastern.",
+          "url": "https://www.marketwatch.com/story/trumps-blockade-is-starting-heres-why-stocks-are-only-off-modestly-for-now-bcbb67d8?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5\" target=\"_blank\">Global Bonds Slide as Failure of Talks Adds to Inflation Fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUIzQnVRTE04V2lfZU8waVhqN256WHNRN0F0cGh5OVBPa1VFeWdnT3RDUHc1aS1Yektzb1IzVmhaamJwVGFmWGVRSzlEYW9JU1BiTU5WOFFiMXhzNHltNjl6TDJ2dkRvaElHR1RQNEU2YmFmUVhFcGdIcUFjQWNvMVRQTjNUWTB1d2w4TmthUkkwb3hBRjVvai00eElqcXBoWmNrTEw3RndqQdIBrwFBVV95cUxNb2ppYWk2MlI4eXhYb1ZWdUxMYWlxZFV1MHNUejFVQkNNQWR4bHFFaTBlRmxqdEtfNGFJT190OUJRR2F2MENWdXVYQjlqSnNWajNjNEVNTW00ekpPUjgtVm1QOGtiRFlDV3lNZ2d4STd5b05tTy1SOGpoOE5uMTlyejJkUXdVbTFqby1sNDZUQ1BZcUtNVlN4NktEUkxrYm9nWFBmX0dvSDRPaEZ3RWl3?oc=5\" target=\"_blank\">Treasury yields rise as collapse of Iran talks clouds inflation outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGNzV0xMMGxjYU1BX0V6aE44WkItUTNWd3BNdlhGQUhnTVlWazYxeXJxVUxkYzFZdjBINlZFblNJVVFhWU9KdTlHRlJPb1VBX21DR1VkQWhHd2VyXzZKcmJrVFdfSzlxdTBCNXFrTG4xUW1yWElhcUlaOVFBd2tBblVEbWVhMGZ0akp3NmxBOWU4WU1ZT3ZGeUVBbkgtc1FlM2VDQVNGcDg1WEZ6UmNjZDZCQWZIdnRPU0dQQUVn?oc=5\" target=\"_blank\">US Treasury yield forecasts creep up, but strategists cling to benign inflation view: Reuters poll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYm9vWXZBNk1zUnBHSUVoOFpqdjN2RC11TXZDdlVhWE9MYjZhbUpMRU9FYWM2Rl9zZkpLaTR4d1dGWWtGeG9KZzZTelpPaXZFUzhTc0hqX0Fha2FBd1FMc3c2WmxuSWVxanRLT2hIOUpTZTIyN1l3ako1a0Z0aXFRRHNIYkJfWjROWFZVU1ZTSjhQS0hfTjc4NUdWUEpXQXlUdW1qa040X3dibUhZVmlLcjU1bmRLeWw5cnlEdVM0TzhRcjBfVkt5Vmh1eWg5Z2RPd0JXNWhqdEhISEJMY2QyWUtycXZOZzVsT3N3WEFTSEtUTGJVOUE?oc=5\" target=\"_blank\">Treasury Yields Hold Declines After 10-Year Note Auction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNEhoX3NvWTRmX3drSGlzSkdMbmhCY0VQQnMxclNwbWdpelpXMXN3S3U2UFBkVHhoWUs3SUE5ZjdDNVYtQjFNR1d1ZktlUmZkLXlPNnJIbXp4VWFkdFhKR2ZtcU9fc0J2UktnMHBGcDN6dWV6eFU2cmFYYUhTSXhnS3pNajJSMXZtUmFMN3h2ZEVQTTFlRENMLUxZNkhQbHJnaUs4ODVITnlkemg2TXRDRFVKcElhbkFGX00xZFQyc2hadDZpdDJFZy1ja0RSYkx3NG1OUHNEaTNnd3ZzNXpURw?oc=5\" target=\"_blank\">Treasury Yields Rise as Middle East Tensions Increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Private credit not only won\u2019t spark a financial crisis \u2014 it may be more stable than your bank",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "With 65% equity cushions and 10-year lockups, Wall Street\u2019s \u2018anti-banks\u2019 won\u2019t face a \u2018Lehman moment.\u2019",
+          "url": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Already under financial pressure, Midwest soybean farmers are squeezed further by tariffs, Iran war - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDlZVlVsdVJnT0MwMzc3QWNsaGpqVVg4S0QyWkdvUzY0UmUzelZ1Mm5jNHc5cG5yTF9vR1dSbzVWdDZocmNUT1M1a3JKekNmU2FGbVpRb1dycFRZZDQxRU9aUHhjTkVGR3NZSm1ELUVtSFpQVUhEcDd0QlVlZ0hnN1lGbTBRUlh2aEhkVXV2ZVdua0JISUlUVkpIWnl2a0xRdVhwcWY0QlV0UQ?oc=5\" target=\"_blank\">Already under financial pressure, Midwest soybean farmers are squeezed further by tariffs, Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l1cThmekVCSHE4T05zSl82ZU9pZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDlZVlVsdVJnT0MwMzc3QWNsaGpqVVg4S0QyWkdvUzY0UmUzelZ1Mm5jNHc5cG5yTF9vR1dSbzVWdDZocmNUT1M1a3JKekNmU2FGbVpRb1dycFRZZDQxRU9aUHhjTkVGR3NZSm1ELUVtSFpQVUhEcDd0QlVlZ0hnN1lGbTBRUlh2aEhkVXV2ZVdua0JISUlUVkpIWnl2a0xRdVhwcWY0QlV0UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Veteran pilot\u2019s final flight included a daredevil stunt that horrified passengers: \u2018A very serious matter\u2019 - New York Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "New York Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjdoYk1WUE9zSmpjTVlNcmQ1NEpPekxHaTZuZnYxRFU0Nl9maHAzSmtaaDZqUXBvVFAwQXlHcFBaU0dxWU1LOHgxRldxdFVNRzdNT0V1REVkU2lhdGhSeVRraUlSY29SUjk0dVpfQXlvMzlIM2xVME1aVExKT3hldllpWVhvVmc3TnJIZ2pqNzZzTFo4d3VCdEJCSTlFSnRuTU5jc3hSMFEwdFU?oc=5\" target=\"_blank\">Veteran pilot\u2019s final flight included a daredevil stunt that horrified passengers: \u2018A very serious matter\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPOU81ZkJ2SFkyeDZMS1I1VC1WOEFwcTB0X2hjTThtbUROQ1RCWktfUDhMLXhFWm5jd2d6eWFISEY1YWR0VW1YNkkzTWdENHdicW1xMlFWQzd3SUtYdjBKRGpJb3c0eDhvM0p0T2dhNEJOQ3BtcWRLVVdjUHU3S3p1MEtpZ0x6cFJ3bjRZUkNHM2tTMmdVc1FUTnBrNlo?oc=5\" target=\"_blank\">Inquiry into pilot for flying low over home town in Iceland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlBySHVPOHpKT2s1UFpGbm9IdjhXdGVvZmR2akZQd2N1VXF2UnNqNTAtU2d0M1VSSU92QkRzeUtKSjIzNHl5b2VzSjhEY00zNUNrd1RXYlhpUUxtTTlxendqRjBYWW9CUmpBVE9kczRRR1d2MjNQLWlLUU1WS2N4VWNOdTRlWUpsa3A0OTdiSGFJczlWbXg1TXJRbzg5bFBpOHlOQmdn?oc=5\" target=\"_blank\">Final flight takes an unexpected turn with a low flyover of hometown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iceland Monitor</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTBEVEhKdWhtWXFlaTB2MEwzanJycG1VWUhLcG5HSEEtdTJoY3R5QUpNamdqR1VMalY5b3BxLUREV3pjeEhXbHFhNmNNQWpoczJ6NHdPcUZxbWRQSGlhT0FoTGYxUDR3TmNnbF9EX2o1YnI3a1BGVXROU1RfNnV5eW52RkdqWm5Fd1NLN0YzNGtlcFBQeU5mZHRMREZWM1A1Mm95aFR1QzNGZzd0MEd3WGZTRkJleDlUWmfSAcIBQVVfeXFMUDkxTzRrRlU4bEZQRm8xQ2I4YXJ4Szc2RWE5amtBa2thRWJFX3Rrb0xORHlpQXgtU1JXTXRKd0s4X3BGU3pCVDBUVFBoZnotdmJvbXV0NTB5dHpJRnZ2b0xkNERpZ1BYZ0lKQVBQZmM1YjFlZVJVYlc4WHBwOUNUaVdJRjNNMmEzMVFDeFdZNEhWTEhOTmU1OHhGbUhTWkdXcDJiSVdhOFRyWVIzNmZWajIzMXNBUjBmaGdKMWs0NlgzS0E?oc=5\" target=\"_blank\">Icelandair Pilot Took A Mid-Air Trip Over His Childhood Home. He Is Now In Trouble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOR01pRTBqS2Z2Ump4Y2FCUXNuU095alJsdWRoS2lUVl81VGJHX09wdVVNLVZHelE5MG1UNDJsbmhQQmdhVWN1U09zUkpPelBLNHBWN0JkZmxmcVdjVXl6ODFZYXhtU29BbEZjZW9lZEFxTm00LVh3bWdJWm5uamJfaE9IZ1B4OVZoYXN0NDNIekZ3bmxYaGpkaEcxV1p4N3hxYjkzMw?oc=5\" target=\"_blank\">Icelandair Reports Veteran Pilot To Police After Unauthorized Flyover On Farewell Flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simple Flying</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjdoYk1WUE9zSmpjTVlNcmQ1NEpPekxHaTZuZnYxRFU0Nl9maHAzSmtaaDZqUXBvVFAwQXlHcFBaU0dxWU1LOHgxRldxdFVNRzdNT0V1REVkU2lhdGhSeVRraUlSY29SUjk0dVpfQXlvMzlIM2xVME1aVExKT3hldllpWVhvVmc3TnJIZ2pqNzZzTFo4d3VCdEJCSTlFSnRuTU5jc3hSMFEwdFU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Why \u2018Rule of 10\u2019 stocks like Nvidia and Meta are now poised for a comeback, according to Goldman Sachs",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02857142857142857,
+          "source": "marketwatch_topstories",
+          "summary": "Higher bond yields have been hitting secular growth stocks, but that may be about to change.",
+          "url": "https://www.marketwatch.com/story/why-rule-of-10-stocks-like-nvidia-and-meta-are-now-poised-for-a-comeback-according-to-goldman-sachs-349b5531?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Kremlin says it hopes for pragmatic ties with new Hungarian leadership after Orban defeat - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzZsVXJJZ01xSC1uSTdFeGY0b3d0QU1xc1FEZHhRTXJMUEpwT0VrSW9Bb0VIU0VtRlJid2V0eGFPemZnLThHMWdCeGtwc3BYbEl4UmhJbXJhZ1JOLW1yN1RCRzZVbGdHdGI2bEF0N2xaNjVnUXZxQm53MmZBZW91UHdiZWJwTDNPZWxwUzhwdERzSmxPZWNpTUNSMmVmanR3WHhRb1B4MzFqc2xUSU5BazVWWUxMM2VYeHNVcUs1V0hmaUZvNnc?oc=5\" target=\"_blank\">Kremlin says it hopes for pragmatic ties with new Hungarian leadership after Orban defeat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnprZW9RZENsSkE2TnBUcmhnNFpQTzI5MkowZHpwZnNuSU1zdll2bXB5WTBiQnRDNlhlREVJVmVnS0ItTS1iQ183cW5QaVBfalFERXlDei04VWt1QW5ad3Ytejg2WnlQODQyVzlKd0lZXzZadW11Yy0xNFplaHNUcUlHbzkxaklqMFZHWTRUM25EYzA0LUhQRXBPeGlYd2xwVkQySjZxMXI4QQ?oc=5\" target=\"_blank\">Orb\u00e1n\u2019s Defeat Shows What Trump\u2019s Opponents Keep Doing Wrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTVCQ2JmVmlHMnFveGVrMWVIbFMwbTJCTS1PeXlCbHBrZG5za1U3aWZmZnVucWtYaWlTWDNyem9OOVFWNDMtVWxQV3VaQmFSRy0zdDhQQXRTdEVjMFVQcmVUelZxTkpQcG1mNXgteTdGb0JvS1F0S0RtdHJub2dkb1piUQ?oc=5\" target=\"_blank\">Illiberalism Is Not Inevitable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmtDdjZDVms1dGJuMm5wR0NKenEtWDhrelFBNUpTLXJZTThVaUM0QmhrMExiX3J5aEhqWVlMVmp0VFFNaXdpYWtqVTVyZm5NTk51Y20wM25adjk1RnNFWUpXTW5sMEZINEZBeEJIa3ZrV0ExUXZzSHl0cE9LQlBkc2dtSU15M3BB?oc=5\" target=\"_blank\">E.U. revels in defeat of Hungary\u2019s Orban, Trump ally who defied Brussels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NXUjdTZlVCN0VaMUNSaW9jUFdnbnNOWFRRekxLcm1LR2VUN3ZsaXRjWEJtd01CalI4aGViOVpIRERHaURtaFRRT0NfeThQYy1WZ0M3Z2R1LWNHNVZqOThOZGNhOWp3UnY0THBrNDJoNk5yMUxxZDZoeXhMWDNEZi1VTmNNYWJOdlZQT1JFU0R3dnNQTnc?oc=5\" target=\"_blank\">How Orban, a Wizard of Populism, Lost His Magic Touch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzZsVXJJZ01xSC1uSTdFeGY0b3d0QU1xc1FEZHhRTXJMUEpwT0VrSW9Bb0VIU0VtRlJid2V0eGFPemZnLThHMWdCeGtwc3BYbEl4UmhJbXJhZ1JOLW1yN1RCRzZVbGdHdGI2bEF0N2xaNjVnUXZxQm53MmZBZW91UHdiZWJwTDNPZWxwUzhwdERzSmxPZWNpTUNSMmVmanR3WHhRb1B4MzFqc2xUSU5BazVWWUxMM2VYeHNVcUs1V0hmaUZvNnc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after he gave his kids $19,000 a year. Is this a red flag?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cHe spent $1,000 on his girlfriend at Christmas and several hundred dollars on each of her children.\u201d",
+          "url": "https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "The best places to invest now are Chinese tech stocks and this out-of-fashion sector, according to Bank of America",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The stock market is now too big to fail, Bank of America\u2019s Michael Hartnett reckons. So no rate increases before the midterms and a Sino-American detente in May",
+          "url": "https://www.marketwatch.com/story/why-the-best-stock-markets-bets-are-chinese-tech-stocks-and-this-out-of-fashion-sector-according-to-bank-of-america-d2ec6b6d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-13",
+          "headline": "Delta unveils new suite design, posh plane; plans upgrade for old, dated cabins - The Points Guy",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product",
+            "sell_side"
+          ],
+          "provider": "rss",
+          "sentiment": 0.02197802197802198,
+          "source": "The Points Guy",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUlTeUxGa3llWDhsSFpCRFpMTno1OGdzM1FzS2tLZG5BMEJPT3Vpa0VJVGFBT1dZeTF5S3QzdnVrMTJWOTlEWFd1dVpHbGdGQTBkOGpqNFRHWGN3a3duQTNybUpZeXllajVLWVVkTC1EN1ktSV8zdUtGVXlyd2tTcVg0eTZOMUhoZmEyRGZTN0JGVkN0VGxUd3NNSQ?oc=5\" target=\"_blank\">Delta unveils new suite design, posh plane; plans upgrade for old, dated cabins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Points Guy</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GN0lFM1g1bm5lYjREX0kyckZpSmpHUTRJQ05DYmJJNmFiSVRMY2Z1RUdfak1Hdm1xdHFCVFNHMTVkYkc3TzVCQllieGNIcEZ2Nl9zbWV4bURXTWg0Z29NRVFR0gFnQVVfeXFMTXh2VTVUNmdXV3YwelhkT0k4VVJsVHlMYzhIQzZNNFFBcG1fUVd1TFdUc2pLYjM1c01ZOGktWUtvVzJQRXQtNVBmVXRHd2lFTmdyaTNLWjhSWjNieXh5OVFpcVJxd1VyTQ?oc=5\" target=\"_blank\">Delta Air Lines unveils first new Delta One suite in premium cabin arms race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFFkODZXQW51NmxYLWl1WXBVOFlOWnNFYzZTZk91bm1tNmg1Sm5jZTdoenZ2bVFMX0NDNGc0QTc5ckhhRG1ILVBwQmh2R0RaeTExV051UVNvWUtMTjE5aHpjYjJ5SWh0TlcwaGVvaGh5VkVVdGN4ZDJGbWtTN1Q3TUQzR21SekR2MGZCN0NvZzZ3SUZaRURqOFBIU0RlMVU0ZTNnYkUyZnFaTTk1?oc=5\" target=\"_blank\">Delta Rolls Out New Business Class Suites in Premium Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkliWHAwU1NfVTc0cGZIdDhaUGVELTdaSlBCZ0dNMGcxclRseks0SWVkM0diMUhLeXhUd2JYUENfXy1yc09BVEZJZk51NzczaDdZMU5wd2QtNmJaT1B4ZmlSaDJoS1R2WWFwcVotenpuZGpFMUhQV3FCMmlzWE5vR2RJaF9FWEpLQnZYTkZCOFRSdUdQTzBTN28tVQ?oc=5\" target=\"_blank\">Delta is rolling out a new business class suite on Airbus widebody planes. Here's what it will look like.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0U1FiT0hiY2VDNWJmMEIwN203bGVveDlPdDAySTVzRXR2cXktODlrZ2hMTmgxWW5QR1hlbmVZVWtqZmNkTkVlbA?oc=5\" target=\"_blank\">The Suite Spot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delta News Hub</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUlTeUxGa3llWDhsSFpCRFpMTno1OGdzM1FzS2tLZG5BMEJPT3Vpa0VJVGFBT1dZeTF5S3QzdnVrMTJWOTlEWFd1dVpHbGdGQTBkOGpqNFRHWGN3a3duQTNybUpZeXllajVLWVVkTC1EN1ktSV8zdUtGVXlyd2tTcVg0eTZOMUhoZmEyRGZTN0JGVkN0VGxUd3NNSQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Meta is reportedly building an AI clone of Mark Zuckerberg - Engadget",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Engadget",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2p4R2dqckphU1p1cWo5cEZMaUxycW43SG0wUzctRk1YT1hWOWhyckRoaFhyTnVSbWZKRHhKTllVUkI3d2lLbW5NODkzSVN0YmpCTlpFMmk1RjJJM1VLaUhOOXFCLUVaN3lGNTRNMVhjS1g0WDM2QWtod2NnbjdZbU1xU3VMUVRmcmlWVGFOUE1obVU1M05LYzhta0NBQjhFSmsw?oc=5\" target=\"_blank\">Meta is reportedly building an AI clone of Mark Zuckerberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWRsVTAzWDBkc3daQlRFZGZYYjdsd1BfNnBiSG9LT1JXb3NvcFE3Q0RId2ZwNUtPZlpGaEpwd2pGLTRQaExYR3Q3MERuN0VQVlBCWGs5Mzc2bXhJdGN6Snl0bW5ZVEliR2tScGgtb0JqMHNlYmo1bk92VnkxVlBfcEo2WmY?oc=5\" target=\"_blank\">Meta builds AI version of Mark Zuckerberg to interact with staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9PZ2tGWE1kZXRjQ2s0RmlSSFFETmtmY0wxR0s1WWY2bzBJSVdhTjZ2ak5RdlVyZXRiX1lDc2xwMzM4WmFma2tjTGhFbW9ZaXBvNE1ZNlg0elhDRDlpVE5rcXdob20xdnhnTWZrRlBtNGhpWGt2aC10bERB?oc=5\" target=\"_blank\">Mark Zuckerberg is reportedly building an AI clone to replace him in meetings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbl8yeDMza1VEVHBqeUxYaEJRX2k4RXNwRWlpSExQbkE0cTlUN2tGSFd5VTI3ODBpQ2pubGtkRi0zeno3aDZkN0MxeVJVN250djZaNlVPOVJTZlBFdU1JZzJ1bFh0MDRzSldRTVZGY3VWTktPMklsR1d0ZGNyeV9uRVJjVElQcDFKNFVINQ?oc=5\" target=\"_blank\">Meta Developing AI Likeness of CEO Mark Zuckerberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBNbnl6Vm55OVNXazVhUG4zM0RVejFBNWJocW9ENHV0Z3kzUUZnSThaZmVxMWxteUFjaUNvUVlZTU9xRFF1dUE2MUVzUDRRUGJNRlBXenpLNE1IU0hsTmlyQ1RkTFlORWVwWWItcVVXLXlZeFU?oc=5\" target=\"_blank\">Meta building AI Mark Zuckerberg to interact with staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2p4R2dqckphU1p1cWo5cEZMaUxycW43SG0wUzctRk1YT1hWOWhyckRoaFhyTnVSbWZKRHhKTllVUkI3d2lLbW5NODkzSVN0YmpCTlpFMmk1RjJJM1VLaUhOOXFCLUVaN3lGNTRNMVhjS1g0WDM2QWtod2NnbjdZbU1xU3VMUVRmcmlWVGFOUE1obVU1M05LYzhta0NBQjhFSmsw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Energy prices have probably peaked, according to Morgan Stanley\u2019s top strategist. Here\u2019s what that means for stocks.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Investors should be keeping a close eye on the difference between Brent and U.S. crude, which is sending a message that market worries over the crisis in Iran have peaked, says Morgan Stanley.",
+          "url": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Microsoft Plots New Copilot Features Inspired by OpenClaw - The Information",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Information",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEN0NWFRNV9jeEZycHdybDR1blMyVzJGWVcxa3V2LXhUSVYzNmFqNjhkSkZLbWFvT3M5VldEdGItMTl4T2lnT2RTQkZfbUItTm8yT04xOXA0dzNUc19GQTJSeDVwbkNVS1JDSDdjWXF0VWVWZmUtXzhaOGxLWkpFZUNqOXBlZWRFMFN0Vkg3YjFBVjZyRjNuZGdn?oc=5\" target=\"_blank\">Microsoft Plots New Copilot Features Inspired by OpenClaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3NFQkVZbjNITkhPcHJxWVNoMVJwTjNpNGM3M1dIX1l0eVZOcWR2Y0hHTC1qTXc1OS05T1pzMUR6WjBadUxxbnhHVmc4Ykt4VWN4X0JOZUFvMlJZZUhGRER1QmJiQlR1U0dfOGM2aFloMXEyOVA5Mk14RjFaWnBSZk1ZTUU2TGVwS2ZmZE5pOA?oc=5\" target=\"_blank\">How OpenClaw Could Transform Microsoft 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Economy | Ken Yeung</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEN0NWFRNV9jeEZycHdybDR1blMyVzJGWVcxa3V2LXhUSVYzNmFqNjhkSkZLbWFvT3M5VldEdGItMTl4T2lnT2RTQkZfbUItTm8yT04xOXA0dzNUc19GQTJSeDVwbkNVS1JDSDdjWXF0VWVWZmUtXzhaOGxLWkpFZUNqOXBlZWRFMFN0Vkg3YjFBVjZyRjNuZGdn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Stocks can rally even without a \u2018full return to normality,\u2019 says HSBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "There\u2019s too much focus from investors on the war in Iran, analysts led by Max Kettner wrote in a note.",
+          "url": "https://www.marketwatch.com/story/stocks-can-rally-even-without-a-full-return-to-normality-says-hsbc-ea0f2987?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "U.S. oil prices rise back above $104 a barrel after Trump threatens to blockade Strait of Hormuz",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Oil prices were surging back above $100 per barrel on Monday morning after a breakdown in talks between the U.S. and Iran over the weekend.",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Fidelity, AARP warn Americans on 401(k)s - thestreet.com",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.08695652173913043,
+          "source": "thestreet.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9OLWtvb2tLOHNwaG1felFLdGUwNVdtWDBOQmpDR3JQNDZuQTdXeDljbU5lUGRTUnF0WGgxa1pBaVdjYXBvOWdSOERhWmRLNDBHNE9hR0R4MDVsekU2T1IySEQzZllldkpocWc4MXFkNVdkaFNnUmVydGNmWTJnNUk?oc=5\" target=\"_blank\">Fidelity, AARP warn Americans on 401(k)s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k4dnQzeUVCSDgtazduRHBaRzBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OLWtvb2tLOHNwaG1felFLdGUwNVdtWDBOQmpDR3JQNDZuQTdXeDljbU5lUGRTUnF0WGgxa1pBaVdjYXBvOWdSOERhWmRLNDBHNE9hR0R4MDVsekU2T1IySEQzZllldkpocWc4MXFkNVdkaFNnUmVydGNmWTJnNUk?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-13",
+          "headline": "Goldman didn\u2019t deliver the blowout earnings that was expected, and the stock is falling",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.034482758620689655,
+          "source": "marketwatch_topstories",
+          "summary": "Goldman\u2019s earnings and revenue beat expectations, but not by as much as investors had hoped.",
+          "url": "https://www.marketwatch.com/story/goldman-didnt-deliver-the-blowout-earnings-that-was-expected-and-the-stock-is-falling-377694f6?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-13",
+          "headline": "Roblox defends expanded age\u2011checks after parents raise concerns over errors - BBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.02631578947368421,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rbHM1LU9zcmFEbGswYjJNZHp0WWJTek9FN1JPX3psS2JrSmJTbnBDdFJRQldSU1hqU09Ldzh1Rzdrb0h5MXFYcUExU0xYeDRtbWtQQWFfeVpEQQ?oc=5\" target=\"_blank\">Roblox defends expanded age\u2011checks after parents raise concerns over errors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlI2MTN5UmxyWG1mVk5ULWt5NU93U1I1THBRLTJmWXhqRV9kRzVEdmZzSktnRTQ5eDBEa3ZlVEIwUW5GTy1QWDRacmQ0WW1MZERGSV9BQVpaWXhGSWR1OVNaNzRfbWlTMEJSZkhHYVBQRTlHMUplWmJwQ3ZVMnhkV19OUGNGYkFiazdIeW01ci1hMU8wZHJXNjZIOVNaM0xjYXpaT1kxdw?oc=5\" target=\"_blank\">Roblox to introduce age-based accounts in child safety push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnJfUlEzSmRqckFlUGdXLVZVNmtic3VmQ2VCTDJ4MVdtWUpXU3FHRENFb29iX21YSFZvWXNJYmVYN1Q4Xzkzd0dqbU1QbU9rS2xQX2ZjbTZPWHo3aVBvbzdWcVgtWWpVcW1NbjVsdUNZaFJ5cDJZaEQwZFhBOVN2cF9KTnQxYVgxQmhWVkVR?oc=5\" target=\"_blank\">Roblox Introduces New Age-Based Accounts and Expanded Parental Controls for Users Under 16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roblox</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeThEOVgyZ2Z4Z3U5dHVOY2NwYVotbmZPSFNwTV9HWHg0UnF1YS01blJtUFAxcjJZaVh3LVNrUEtPdVZ1eXM3di1sTEJwZVlzb09oWHhzNVJqTTh6bTViMGFtbGN3MEppVVYydlRlUEVVYXFleFdaS1JNV2RvMTlSUVQwRW1RRGFSZ0hCMTR0Q2NzaW4wQ1ZZVTRGU1RHdXM?oc=5\" target=\"_blank\">Roblox introduces mandatory age-gated account tiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUhaNEVWRnFja1NpR2d1ZzFQMmMwZDZ2Z3lzM094VVpqdkVlZzMwbVhUTjZjLXlKZzZQOThmTE1UWUt1S25WOEZKeHlUNnVFWHd3TF9TbzdxZmhjZjdRWlZ4ek9BYU9IQlRYLVh2Y3lxQ2hlMmttcU8tb0N4dHlqZG9OSUhpOGFnZGlUaXJQdTAyNHlvakwwZEpR?oc=5\" target=\"_blank\">Roblox will need age verification to make sure you\u2019re at least 9 years old</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rbHM1LU9zcmFEbGswYjJNZHp0WWJTek9FN1JPX3psS2JrSmJTbnBDdFJRQldSU1hqU09Ldzh1Rzdrb0h5MXFYcUExU0xYeDRtbWtQQWFfeVpEQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Southport killer's parents failed in 'moral duty' to report son - BBC",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BX1hBMzltM3k3b0ZnYTFSQi14QmFra3hrUS16TC1jNFJrZXdOLU9XVEZiRzF3eDZXZkREU1ltOElSOXMtU1RqMkszaW5kTWp2WnBWaWhrU01SUQ?oc=5\" target=\"_blank\">Southport killer's parents failed in 'moral duty' to report son</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFJXYUhJQ2ppdDJLWGRjQ1VQNEdhYW5OdVBjeDZFZnVuRmtTNmZJajMzaXF5Y0JUY3U0aE5IR3lQWlNDdzZXdHZhM2xsTnp3TDNvWGhaYnZpOV9fbGx6SV9TNWd6N2Y4QXVQdzc3OUtjUndtZUFxUTRqNUpxMGFETVJTUFZ2dS1FVkFvazQ5OWlqMHZJLTJvek9WZWRNM3dvOEVoa2dFaWEwU1lieWRvOUo1SC1yZGI5enNhZ29Pbjktc0xxVlZFNktIYXpyYUkxcHMwemlsRW56UQ?oc=5\" target=\"_blank\">Southport attack blamed on \u2018catastrophic\u2019 failures by agencies and killer\u2019s \u2018irresponsible\u2019 parents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3Q4ZzJYQjVidllWMnRmVzRWV0ktc3JuZmF4cGxpWHdtRE9XdHNUQktVZmZocktxMGZ4ejNraTN4Y01qeV9sb2FEUmhWVFdEQ2owX1VKVjktdVpzczRhZ1VFOWRKdVA2TDJaQ25fMHV6MVd0VFFmLUZlY0xEUFhSaTlwRzdUVWh3X01ETVlWRFV0YUdpZUdfU2Q1bjEzSlNIX2VQOHgwelA5ZERzaVEzckl5TVdXandLd2hzdlJOZm1raVZxLWVodWVLYVpjX2Jqdkw5Ykk1eXhWMXp3?oc=5\" target=\"_blank\">Taylor Swift dance party stabbing spree was 'avoidable,' UK inquiry finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Monde.fr</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPalN6QnVXOGRncHdBSVFVSXBRaHZneDBtQ2ljYkFvQXRieEhtN3ZmcUVJZVA0MTFwb0xjX3FBWTRfUWMyT0hocVdGQWFhaFZvMkswZjZxQi00YmxJbDNrUnNfZXN0MFp2RU00aUdIMFBlTHp0azU0VmtEWTZEcTVFN1lqLTlmMkw4Y2hORVRMeDJKREdCUXg1XzlnQ2RpT3FBclJsTEJ1dGNWUzM3b1Z6NHh0M29URjZtN3pxYWF0MW40cmVsYi10ZmZRQnBmNDFFTW0tR2JCdTI1aGpYMEhlYnJhUkpYV25RZWc?oc=5\" target=\"_blank\">A UK report lays bare 'catastrophic' missed chances before stabbings at girls' dance class</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZzFLZkU5aGg2TUphMTlxT09mOGl6WXo5TV9JV2pHTVNtS1UwNk1oSERpS0NQbkhDU1ZoQ044blM5T1lreXB4aGRKUTd4WlJXY0dxRXotc3pNX3dpREVGOEhfWGNoc2RJYS1JVzN4TjR0V0Z2bllJQlc0Tm9tbUN0NDNma3lkNUplaS1sNWdqTlFMaXVqVTAzOVhPbHRKT2dabDF4SHkxS2dIRTdUVEhaWnBLYnNHcmJCZVE?oc=5\" target=\"_blank\">\u2018Failure\u2019: UK murder of 3 girls should have been prevented, says inquiry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BX1hBMzltM3k3b0ZnYTFSQi14QmFra3hrUS16TC1jNFJrZXdOLU9XVEZiRzF3eDZXZkREU1ltOElSOXMtU1RqMkszaW5kTWp2WnBWaWhrU01SUQ?oc=5"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": null,
+        "provider": "yfinance",
+        "sector": null
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
+    },
+    "news": {
+      "article_count": 0,
+      "catalyst_signal_count": 0,
+      "classified_articles": [],
+      "coverage_quality": "none",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 0,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": null
+    },
+    "technical": {
+      "atr14": 0.414931227092603,
+      "close": 10.88,
+      "close_vs_ema200_pct": 32.82847731996371,
+      "close_vs_ema20_pct": 10.580532238839346,
+      "close_vs_ema50_pct": 15.353819998786117,
+      "close_vs_hh20_pct": 1.492537313432837,
+      "ema20": 9.83898320954057,
+      "ema200": 8.19101462240791,
+      "ema50": 9.4318506314871,
+      "entry_ready": false,
+      "hh20_prev": 10.72,
+      "selection_bucket": "candidate",
+      "vol_anom": 1.73402776357413
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": null,
+    "sector": null,
+    "supportive_effects": 0,
+    "weight_scale": 0.35
+  },
+  "news_support": {
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (10.72), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 10.72 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 1.49
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 10.58
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 15.35
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 32.83
+      }
+    ],
+    "confidence": "low",
+    "label": "mixed_watch",
+    "score_0_to_100": 52
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-13",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-13_universe_3_US_Results_CANDIDATES.txt"
+    }
+  ],
+  "summary": "LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
+  "symbol": "LION"
+}

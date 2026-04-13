@@ -1,0 +1,2 @@
+asof_date,exchange_code,mic,symbol,company_name,isin,type,currency,country,state,state_since,last_run_id,reason,updated_ts_utc,close,volume,vol_anom,hh20_prev,close_vs_hh20_prev,ema20,ema50,ema200,atr14
+20260410,US,,SPIR,Spire Global Inc,,Common Stock,USD,USA,ENTRY_READY,20260410,112,setup+breakout,2026-04-13T08:46:16Z,21.56,6218600.0,3.35228005264403,20.5,0.0517073170731708,14.6891003311866,12.4493253116836,10.8712944580551,1.77765425721949

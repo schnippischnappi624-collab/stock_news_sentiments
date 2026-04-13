@@ -32,7 +32,7 @@
     "provider": "google_news_rss"
   },
   "AXIA": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-13T14:45:05.900322+00:00",
     "provider": "google_news_rss"
   },
   "BALYO": {
@@ -48,7 +48,7 @@
     "provider": "google_news_rss"
   },
   "FRT": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-13T14:45:05.900322+00:00",
     "provider": "google_news_rss"
   },
   "ILKKA2": {
@@ -60,7 +60,7 @@
     "provider": "google_news_rss"
   },
   "LION": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-13T14:45:05.900322+00:00",
     "provider": "google_news_rss"
   },
   "LOIHDE": {
@@ -80,7 +80,7 @@
     "provider": "yfinance"
   },
   "MRVL": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-13T14:45:05.900322+00:00",
     "provider": "google_news_rss"
   },
   "NEWCAP": {
@@ -96,7 +96,7 @@
     "provider": "google_news_rss"
   },
   "SPIR": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-13T14:45:05.900322+00:00",
     "provider": "google_news_rss"
   },
   "SQU": {
@@ -104,7 +104,7 @@
     "provider": "google_news_rss"
   },
   "TIMB": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-13T14:45:05.900322+00:00",
     "provider": "google_news_rss"
   },
   "WMA": {

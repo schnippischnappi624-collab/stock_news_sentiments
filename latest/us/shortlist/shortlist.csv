@@ -1,0 +1,7 @@
+display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
+1,SPIR,Spire Global Inc,entry_ready,True,,setup+breakout,ENTRY_READY,4.05,,3.35228005264403,21.56,6218600.0,20.5,1.77765425721949,20.5,17.8335,2.6665,25.833,28.4994,,
+2,FRT,Federal Realty Investment Trust,candidate,False,1.0,setup,CANDIDATE,5.87,2.17027229214198,2.17027229214198,109.05,2051640.0,108.54,1.874712205766,,,,,,,
+3,TIMB,TIM Participacoes SA,candidate,False,2.0,setup,CANDIDATE,4.63,2.33320294230495,2.33320294230495,27.96,997000.0,27.64,0.7470327154956,,,,,,,
+4,MRVL,Marvell Technology Group Ltd,candidate,False,3.0,setup,CANDIDATE,4.44,1.73734666318208,1.73734666318208,128.49,41187042.0,121.97,6.10025849281422,,,,,,,
+5,AXIA,AXIA Energia,candidate,False,4.0,setup,CANDIDATE,4.35,1.84622376965111,1.84622376965111,13.03,5966100.0,12.695,0.47165616333186,,,,,,,
+6,LION,Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.),candidate,False,5.0,setup,CANDIDATE,4.03,1.73402776357413,1.73402776357413,10.88,3072100.0,10.72,0.414931227092603,,,,,,,
