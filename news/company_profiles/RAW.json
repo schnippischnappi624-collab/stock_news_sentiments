@@ -1,0 +1,14 @@
+{
+  "country": "Austria",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Raiffeisen Bank International AG",
+  "provider": "yfinance",
+  "query_symbol": "RAW.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RAW",
+  "sector": "Financial Services",
+  "short_name": "Raiffeisen Bank Intl AG       I",
+  "symbol": "RAW.DE"
+}

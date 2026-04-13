@@ -1,0 +1,14 @@
+{
+  "country": "Brazil",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Oil & Gas Drilling",
+  "long_name": "Ventura Offshore Holding Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "VTURA.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "VTURA",
+  "sector": "Energy",
+  "short_name": "VENTURA OFFSHORE HOLDING LTD.",
+  "symbol": "VTURA.OL"
+}

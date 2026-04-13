@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Aluminum",
+  "long_name": "Gr\u00e4nges AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "GRNG.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GRNG",
+  "sector": "Basic Materials",
+  "short_name": "Gr\u00e4nges AB",
+  "symbol": "GRNG.ST"
+}

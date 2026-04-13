@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Electrical Equipment & Parts",
+  "long_name": "CTEK AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "CTEK.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CTEK",
+  "sector": "Industrials",
+  "short_name": "CTEK AB",
+  "symbol": "CTEK.ST"
+}

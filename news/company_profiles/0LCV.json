@@ -1,0 +1,9 @@
+{
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "provider": "yfinance",
+  "query_candidates": [
+    "0LCV"
+  ],
+  "symbol": "0LCV",
+  "warning": "no_plausible_match"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Oil & Gas Refining & Marketing",
+  "long_name": "Rubis",
+  "provider": "yfinance",
+  "query_symbol": "RUI.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RUI",
+  "sector": "Energy",
+  "short_name": "RUBIS",
+  "symbol": "RUI.PA"
+}

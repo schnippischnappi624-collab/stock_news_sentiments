@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Engineering & Construction",
+  "long_name": "Eiffage SA",
+  "provider": "yfinance",
+  "query_symbol": "FGR.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FGR",
+  "sector": "Industrials",
+  "short_name": "EIFFAGE",
+  "symbol": "FGR.PA"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "SpareBank 1 Nord-Norge",
+  "provider": "yfinance",
+  "query_symbol": "NONG.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NONG",
+  "sector": "Financial Services",
+  "short_name": "SPAREBANK 1 NORD-NORGE",
+  "symbol": "NONG.OL"
+}

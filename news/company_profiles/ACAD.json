@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Education & Training Services",
+  "long_name": "AcadeMedia AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "ACAD.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ACAD",
+  "sector": "Consumer Defensive",
+  "short_name": "AcadeMedia AB",
+  "symbol": "ACAD.ST"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Spain",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-04-13T14:46:41.072653+00:00",
+  "industry": "Specialty Industrial Machinery",
+  "long_name": "Nicol\u00e1s Correa, S.A.",
+  "provider": "yfinance",
+  "query_symbol": "NEA.MC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NEA",
+  "sector": "Industrials",
+  "short_name": "NICOLAS CORREA",
+  "symbol": "NEA.MC"
+}
