@@ -6,7 +6,7 @@
 - Bucket: `entry_ready`
 
 ## Investment View
-0DNW scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 11 adverse matched macro effects.
+0DNW scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -16,14 +16,14 @@
 
 ## Risks / Invalidation
 - A close back below 1.05 would weaken or invalidate the current breakout picture. (high)
-- Broader market headwind remains relevant (Middle East conflict / commodity shock): 2026-04-12: Israeli strike kills infant girl in south Lebanon during father's funeral - Reuters. (medium)
+- Broader market headwind remains relevant (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind, Shipping disruption / freight stress): 2026-04-13: Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC. (medium)
 
 ## Catalysts
 - The next 1 to 4 weeks matter most around whether price can keep holding above 1.05 and attract follow-through volume. (medium)
 
 ## News Read
 - Stance: `conflicting`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 11 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.
 
 ## Key Levels
 - Volume anomaly: `3.5741071103506`
@@ -44,14 +44,12 @@
 ## Market Overlay
 - Exposures: `consumer`
 - Supportive macro effects: `0`
-- Adverse macro effects: `11`
+- Adverse macro effects: `5`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
-- [Israeli strike kills infant girl in south Lebanon during father's funeral - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHBqS1VsaVZTNXpSUUxGRm83eVdKSllKTG9PaXhxN0hBZ1ZyMHVXQmFMN1pvelRTSUhZTUJEWmVEajBEV01ERWRpQU1iZEVZS0ZRZ2xVSm1OclAtbklOaWF5cDY0RjhCa082dW0yVE5hN2M1TUd4Z0poX2hPMjdJbEFSSENWUjJ6ekVjNVRUVFppcWMzdHladFcwRk5RNkt5c3FtSWNEdTc3N21oV2VacmU5MGRoSElpQjduazFnSjY?oc=5) - 2026-04-12
-- [Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.](https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories) - 2026-04-12
-- [China, Iran weaponized the global economy to beat the U.S. at its own game - The Washington Post](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTTTRONFFaYWx2MV9NZ0ZJdVJySUhqbkJwWlZ3Nk04STZLdDhiRFlfUVJYYVdXQkJzS25aMGI4X2I4LUxFbnZXdXo1VThqTFRXc0JtVzFaMnBjWXp3UkhzYmlPaXVobzhnNk40OXlibHRZQkVHRVMtQzNWTm9icg?oc=5) - 2026-04-12
-- [Ukraine-Russia blame game over Easter ceasefire violations - politico.eu](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1EY2lEUG5JNTdnWS1TemI5ZElSMGxMeGo0OE1Lbm94bktteF9vUW15ekJsQTZvc3FiZFJiWFh2cW5JNkdsYXBZbEZDM3B1LVdaTk4xRThLNG1vWGNsYzlRbE5nUnk4cG1kTENvczBZS3dPRFBpZjQzeGoySE0tckxIb1pEVDkwNC1tVXdyNUxtZTlKQ0E?oc=5) - 2026-04-12
-- [Two Supertankers U-Turn in Hormuz as US-Iran Talks Break Down - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajJwRHBwYjZaVHlQQlZ5ZDdyR01ZZkx3T2E5LTZPbEQ4eThTNklRc29OaTZxTGdKOHBCTjV3N0VBcEVvTWlBSUhZN1ZTaVBObWNNdE5EWTFsaktjVHNhaXd4UzQ4SmR5dnU0bWVZN2ZEN29KZ0dTUm1fR19nSkY2T2YwZFFtMTJ2dUVleXg5OE1JQ1BEYlJVR2pwX0xLa1BBNW1rVW5xTG1Xa0pUaGM2RWpR?oc=5) - 2026-04-12
-- [Israel's Ben-Gvir visits flashpoint Al-Aqsa Mosque compound - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzFVMkVqQXgtQVBnT2k2TUF5SmFQbF9yR2VwRW11TlNDU21RTDNXUXZvbV9Nb1IzT2NxTmpDNENEeHVrTDBWcldxdGxCRFJJcGcwWFlseV9TRjJvNVRUcEtDdkZXUFNJbFFER1BiQmRtYWZ5OGNqaTFVMVFjejlCeFNoYlE4N3g3ZERlaDVyVUJkZDFSTHNpY0k1SjhoTWtJSHU0NnQ5RThxRTFGcGM1eWtn?oc=5) - 2026-04-12
-- [Saudi Arabia says key oil pipeline back to full capacity after attacks - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUZBTDloZEVlQ0pOM0djRk1CZEJfcEFSYW04cVdvdmN3akNDNWVONEREak03eFRha2h2VTNUSzJpbG1tTzN5WVRxRkFYYjh3ZWtpRFNlZFZmeHBMdmF5cWxfOFd0VG1LM2JhbTlKWjFsbm9mS0VnczgtSzJSUFc5VUMyOGFna2MyN19MM3RBWjBfS2g1YUFrWXI5c254aXIzRDBSUUZVd0JranBYbXNoOFVoSU_SAboBQVVfeXFMUHFzYjA0OWNydC1pdTZrTS1WS0FFbV9XTzNVbFc0U3E5RDhQZDdxVXNzUjdvUGZrcnRuU0tPUzFNSUczOC14ZGVVbWttbFY5MGp0bzZOZDV3cVdCTTdVM0IyeHZCaVhKdkgzSFZHM2tweVRLUGFSLU5MRFRuRjdtV29FU2VvOVVZR1JpTnl5Smplb05RNXdOVDBwUk0wV0dSSEs2bFVMY3N4UVBqR2JwZTRpVWhFWUFHcUVB?oc=5) - 2026-04-12
+- [Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5) - 2026-04-13
+- [Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley’s Mike Wilson.](https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories) - 2026-04-13
+- [Populism lost in Hungary but still might win the war, one strategist argues](https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories) - 2026-04-13
+- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13
+- [Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war](https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories) - 2026-04-13

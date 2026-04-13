@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Engineering & Construction",
+  "long_name": "Kreate Group Oyj",
   "provider": "yfinance",
-  "quote_type": null,
-  "sector": null,
-  "short_name": null,
-  "symbol": "KREATE"
+  "query_symbol": "KREATE.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "KREATE",
+  "sector": "Industrials",
+  "short_name": "Kreate Group Plc",
+  "symbol": "KREATE.HE"
 }

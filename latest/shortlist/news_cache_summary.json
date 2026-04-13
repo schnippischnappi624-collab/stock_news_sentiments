@@ -2,21 +2,21 @@
   "company_profiles": {
     "ok": true,
     "profiles_errors": 0,
-    "profiles_fetched": 0,
-    "profiles_skipped": 28,
+    "profiles_fetched": 22,
+    "profiles_skipped": 6,
     "symbols_total": 28
   },
   "market_news": {
-    "articles_appended": 0,
+    "articles_appended": 96,
+    "errors": [],
     "feeds_total": 3,
-    "message": "cooldown_skip",
     "ok": true,
     "provider": "rss",
-    "skipped": true
+    "skipped": false
   },
   "ok": true,
   "providers": {
-    "cooldown": 28
+    "yfinance": 28
   },
   "symbols_failed": 0,
   "symbols_ok": 28,

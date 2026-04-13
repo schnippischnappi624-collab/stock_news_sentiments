@@ -1,12 +1,12 @@
 # AXIA - AXIA Energia
 
 - Breakout stance: `mixed_watch`
-- Score: `55`
+- Score: `53`
 - Confidence: `medium`
 - Bucket: `candidate`
 
 ## Investment View
-AXIA scores 55/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.
+AXIA scores 53/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.
 
 - Thesis: The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate.
 
@@ -23,7 +23,7 @@ AXIA scores 55/100 as a mixed_watch setup. The score is driven mainly by the tec
 
 ## News Read
 - Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.
 
 ## Key Levels
 - Volume anomaly: `1.84622376965111`
@@ -44,7 +44,8 @@ AXIA scores 55/100 as a mixed_watch setup. The score is driven mainly by the tec
 ## Market Overlay
 - Exposures: `utilities`
 - Supportive macro effects: `0`
-- Adverse macro effects: `0`
+- Adverse macro effects: `1`
 
 ## Sources
 - [Feed snapshot: Universe 3 US - CANDIDATES (Top 20)](https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt) - 2026-04-11
+- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13

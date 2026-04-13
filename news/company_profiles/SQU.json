@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": "NMS",
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "country": "France",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Engineering & Construction",
+  "long_name": "Vinci SA",
   "provider": "yfinance",
-  "quote_type": "ECNQUOTE",
-  "sector": null,
-  "short_name": null,
-  "symbol": "SQU"
+  "query_symbol": "SQU.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SQU",
+  "sector": "Industrials",
+  "short_name": "VINCI S.A.                    A",
+  "symbol": "SQU.DE"
 }

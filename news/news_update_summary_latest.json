@@ -4,6 +4,6 @@
   "symbols_ok": 28,
   "symbols_failed": 0,
   "providers": {
-    "cooldown": 28
+    "yfinance": 28
   }
 }

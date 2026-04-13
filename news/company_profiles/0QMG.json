@@ -1,12 +1,9 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
   "provider": "yfinance",
-  "quote_type": null,
-  "sector": null,
-  "short_name": null,
-  "symbol": "0QMG"
+  "query_candidates": [
+    "0QMG"
+  ],
+  "symbol": "0QMG",
+  "warning": "no_plausible_match"
 }

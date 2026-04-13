@@ -18,6 +18,36 @@ MARKET_RSS_FEEDS: dict[str, str] = {
     "marketwatch_topstories": "https://feeds.marketwatch.com/marketwatch/topstories/",
 }
 
+YFINANCE_SUFFIX_BY_EXCHANGE: dict[str, str] = {
+    "CO": ".CO",
+    "HE": ".HE",
+    "MC": ".MC",
+    "OL": ".OL",
+    "PA": ".PA",
+    "ST": ".ST",
+    "XETRA": ".DE",
+}
+
+NAME_STOPWORDS = {
+    "ab",
+    "ag",
+    "asa",
+    "corp",
+    "corporation",
+    "company",
+    "group",
+    "holding",
+    "holdings",
+    "inc",
+    "limited",
+    "ltd",
+    "nv",
+    "oy",
+    "oyj",
+    "plc",
+    "sa",
+}
+
 POS_WORDS = {
     "beat",
     "beats",
@@ -69,6 +99,141 @@ def simple_sentiment(text: str) -> float:
     pos = sum(1 for token in tokens if token in POS_WORDS)
     neg = sum(1 for token in tokens if token in NEG_WORDS)
     return (pos - neg) / max(len(tokens), 1)
+
+
+def _normalize_symbol_request(item: Any) -> dict[str, Any]:
+    if isinstance(item, dict):
+        source_rows = item.get("source_rows", []) or []
+        region = None
+        for row in source_rows:
+            candidate = str(row.get("_source_region") or "").strip().upper()
+            if candidate:
+                region = candidate
+                break
+        exchange_code = str(item.get("exchange_code") or "").strip().upper() or None
+        if not region and exchange_code:
+            region = "US" if exchange_code == "US" else "EU"
+        return {
+            "symbol": str(item.get("symbol") or "").strip(),
+            "company_name": str(item.get("company_name") or "").strip(),
+            "exchange_code": exchange_code,
+            "country": str(item.get("country") or "").strip(),
+            "region": region,
+        }
+    return {
+        "symbol": str(item or "").strip(),
+        "company_name": "",
+        "exchange_code": None,
+        "country": "",
+        "region": None,
+    }
+
+
+def _dedupe_keep_order(items: list[str]) -> list[str]:
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for item in items:
+        if item in seen or not item:
+            continue
+        seen.add(item)
+        ordered.append(item)
+    return ordered
+
+
+def _yfinance_query_symbols(request: dict[str, Any]) -> list[str]:
+    symbol = str(request.get("symbol") or "").strip()
+    if not symbol:
+        return []
+    exchange_code = str(request.get("exchange_code") or "").strip().upper()
+    suffix = YFINANCE_SUFFIX_BY_EXCHANGE.get(exchange_code)
+    if "." in symbol or not suffix:
+        return [symbol]
+    return _dedupe_keep_order([f"{symbol}{suffix}", symbol])
+
+
+def _name_tokens(value: str) -> set[str]:
+    tokens = []
+    for raw in str(value or "").replace("/", " ").replace("-", " ").split():
+        token = "".join(ch for ch in raw.lower() if ch.isalnum())
+        if len(token) < 3 or token in NAME_STOPWORDS:
+            continue
+        tokens.append(token)
+    return set(tokens)
+
+
+def _profile_has_content(profile: dict[str, Any]) -> bool:
+    return any(
+        str(profile.get(key) or "").strip()
+        for key in ("short_name", "long_name", "sector", "industry", "exchange", "country")
+    )
+
+
+def _profile_matches_request(request: dict[str, Any], profile: dict[str, Any], *, query_symbol: str) -> bool:
+    if not _profile_has_content(profile):
+        return False
+
+    expected_name = str(request.get("company_name") or "").strip()
+    actual_name = " ".join(
+        [
+            str(profile.get("short_name") or ""),
+            str(profile.get("long_name") or ""),
+        ]
+    ).strip()
+    name_match = False
+    if expected_name and actual_name:
+        name_match = bool(_name_tokens(expected_name).intersection(_name_tokens(actual_name)))
+
+    region = str(request.get("region") or "").strip().upper()
+    country = str(profile.get("country") or "").strip().lower()
+    exchange_code = str(request.get("exchange_code") or "").strip().upper()
+    expected_suffix = YFINANCE_SUFFIX_BY_EXCHANGE.get(exchange_code)
+    used_suffix = bool(expected_suffix and str(query_symbol).upper().endswith(expected_suffix.upper()))
+
+    if name_match:
+        if region == "EU" and country == "united states":
+            return False
+        return True
+
+    if used_suffix:
+        if region == "EU" and country == "united states":
+            return False
+        return True
+
+    return False
+
+
+def _resolved_yfinance_news(request: dict[str, Any]) -> list[dict]:
+    last_items: list[dict] = []
+    for query_symbol in _yfinance_query_symbols(request):
+        items = yfinance_fetch_news(query_symbol)
+        if items:
+            return items
+        last_items = items
+    return last_items
+
+
+def _resolved_yfinance_profile(request: dict[str, Any]) -> dict[str, Any]:
+    query_symbols = _yfinance_query_symbols(request)
+    symbol = str(request.get("symbol") or "").strip()
+    if not query_symbols and symbol:
+        query_symbols = [symbol]
+
+    for query_symbol in query_symbols:
+        profile = yfinance_fetch_profile(query_symbol)
+        if not isinstance(profile, dict):
+            continue
+        candidate = {
+            **profile,
+            "query_symbol": query_symbol,
+            "requested_symbol": symbol,
+        }
+        if not request.get("company_name") and not request.get("exchange_code") and not request.get("region"):
+            if _profile_has_content(candidate):
+                return candidate
+            continue
+        if _profile_matches_request(request, candidate, query_symbol=query_symbol):
+            return candidate
+    return {}
 
 
 def _load_api_key(api_key_path: Path | None = None) -> str:
@@ -144,7 +309,7 @@ def rss_fetch_news(feed_name: str, url: str) -> list[dict[str, Any]]:
 
 
 def update_news_history(
-    symbols: list[str],
+    symbols: list[Any],
     *,
     headlines_dir: Path,
     sentiment_dir: Path,
@@ -184,7 +349,11 @@ def update_news_history(
     cooldown = pd.Timedelta(minutes=int(max(0, min_fetch_minutes)))
     rows: list[dict[str, Any]] = []
 
-    for idx, symbol in enumerate(symbols, start=1):
+    for idx, raw_request in enumerate(symbols, start=1):
+        request = _normalize_symbol_request(raw_request)
+        symbol = request["symbol"]
+        if not symbol:
+            continue
         safe_symbol = str(symbol).replace("/", "_")
         headlines_path = headlines_dir / f"{safe_symbol}.parquet"
         sentiment_path = sentiment_dir / f"{safe_symbol}.parquet"
@@ -238,7 +407,7 @@ def update_news_history(
                 error = f"finnhub:{type(exc).__name__}:{exc}"
                 if provider == "auto":
                     try:
-                        news_items = yfinance_fetch_news(symbol)
+                        news_items = _resolved_yfinance_news(request)
                         used_provider = "yfinance"
                         error = ""
                     except Exception as fallback_exc:
@@ -246,7 +415,7 @@ def update_news_history(
                         news_items = []
         else:
             try:
-                news_items = yfinance_fetch_news(symbol)
+                news_items = _resolved_yfinance_news(request)
             except Exception as exc:
                 error = f"yfinance:{type(exc).__name__}:{exc}"
                 news_items = []
@@ -668,7 +837,7 @@ def update_market_news_history(
 
 
 def update_company_profiles(
-    symbols: list[str],
+    symbols: list[Any],
     *,
     profiles_dir: Path,
     min_refresh_hours: int = 24 * 7,
@@ -681,26 +850,37 @@ def update_company_profiles(
     fetched = 0
     skipped = 0
     errors = 0
-    for symbol in symbols:
+    for raw_request in symbols:
+        request = _normalize_symbol_request(raw_request)
+        symbol = request["symbol"]
+        if not symbol:
+            continue
         safe_symbol = str(symbol).replace("/", "_")
         profile_path = profiles_dir / f"{safe_symbol}.json"
         if profile_path.exists():
             try:
                 payload = json.loads(profile_path.read_text(encoding="utf-8"))
                 fetched_at = pd.to_datetime(payload.get("fetched_at_utc"), utc=True, errors="coerce")
+                if isinstance(payload, dict) and payload.get("warning") == "no_plausible_match":
+                    cached_is_valid = True
+                else:
+                    cached_is_valid = _profile_matches_request(
+                        request,
+                        payload,
+                        query_symbol=str(payload.get("query_symbol") or payload.get("symbol") or ""),
+                    ) if isinstance(payload, dict) and (request.get("company_name") or request.get("exchange_code") or request.get("region")) else bool(payload)
             except Exception:
                 fetched_at = pd.NaT
-            if pd.notna(fetched_at) and (now - fetched_at) < cooldown:
+                cached_is_valid = False
+            if cached_is_valid and pd.notna(fetched_at) and (now - fetched_at) < cooldown:
                 skipped += 1
                 continue
         try:
-            profile = yfinance_fetch_profile(symbol)
-            payload = {
-                **profile,
-                "symbol": symbol,
-                "provider": "yfinance",
-                "fetched_at_utc": now.isoformat(),
-            }
+            profile = _resolved_yfinance_profile(request)
+            payload = {"symbol": symbol, "provider": "yfinance", "fetched_at_utc": now.isoformat(), **profile}
+            if not profile:
+                payload["query_candidates"] = _yfinance_query_symbols(request)
+                payload["warning"] = "no_plausible_match"
             profile_path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
             fetched += 1
         except Exception as exc:

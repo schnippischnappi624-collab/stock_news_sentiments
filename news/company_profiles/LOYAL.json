@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "country": "Denmark",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Software - Application",
+  "long_name": "Loyal Solutions A/S",
   "provider": "yfinance",
-  "quote_type": null,
-  "sector": null,
-  "short_name": null,
-  "symbol": "LOYAL"
+  "query_symbol": "LOYAL.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "LOYAL",
+  "sector": "Technology",
+  "short_name": "Loyal Solutions A/S",
+  "symbol": "LOYAL.ST"
 }

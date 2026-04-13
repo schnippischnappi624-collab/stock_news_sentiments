@@ -1,12 +1,14 @@
 {
-  "country": "United States",
-  "exchange": "NGM",
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": "Electronic Components",
-  "long_name": "Allient Inc.",
+  "country": "Spain",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Capital Markets",
+  "long_name": "Alantra Partners, S.A.",
   "provider": "yfinance",
+  "query_symbol": "ALNT.MC",
   "quote_type": "EQUITY",
-  "sector": "Technology",
-  "short_name": "Allient Inc.",
-  "symbol": "ALNT"
+  "requested_symbol": "ALNT",
+  "sector": "Financial Services",
+  "short_name": "ALANTRA PARTNERS, S.A.",
+  "symbol": "ALNT.MC"
 }

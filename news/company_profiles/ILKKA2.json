@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Publishing",
+  "long_name": "Ilkka Oyj",
   "provider": "yfinance",
-  "quote_type": null,
-  "sector": null,
-  "short_name": null,
-  "symbol": "ILKKA2"
+  "query_symbol": "ILKKA2.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ILKKA2",
+  "sector": "Communication Services",
+  "short_name": "Ilkka Oyj 2",
+  "symbol": "ILKKA2.HE"
 }

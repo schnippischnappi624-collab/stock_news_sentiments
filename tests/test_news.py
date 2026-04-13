@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 import pandas as pd
@@ -106,3 +107,110 @@ def test_company_profiles_are_cached(monkeypatch, tmp_path: Path) -> None:
     assert summary_one["ok"] is True
     assert summary_two["ok"] is True
     assert calls["profiles"] == 1
+
+
+def test_company_profiles_prefer_exchange_qualified_symbols(monkeypatch, tmp_path: Path) -> None:
+    profiles_dir = tmp_path / "news" / "company_profiles"
+    calls: list[str] = []
+
+    def fake_profile(symbol: str) -> dict:
+        calls.append(symbol)
+        if symbol == "AKVA.OL":
+            return {
+                "symbol": symbol,
+                "short_name": "AKVA group ASA",
+                "long_name": "AKVA group ASA",
+                "sector": "Industrials",
+                "industry": "Farm & Heavy Construction Machinery",
+                "exchange": "OSL",
+                "country": "Norway",
+            }
+        return {
+            "symbol": symbol,
+            "short_name": "ARKANOVA ENERGY COMPANY",
+            "long_name": "Arkanova Energy Corporation",
+            "sector": "Energy",
+            "industry": "Oil & Gas E&P",
+            "exchange": "PNK",
+            "country": "United States",
+        }
+
+    monkeypatch.setattr(news_module, "yfinance_fetch_profile", fake_profile)
+
+    summary = news_module.update_company_profiles(
+        [
+            {
+                "symbol": "AKVA",
+                "company_name": "Akva Group",
+                "exchange_code": "OL",
+                "country": "Norway",
+                "source_rows": [{"_source_region": "EU"}],
+            }
+        ],
+        profiles_dir=profiles_dir,
+        min_refresh_hours=999,
+        sleep_s=0.0,
+    )
+
+    payload = json.loads((profiles_dir / "AKVA.json").read_text(encoding="utf-8"))
+    assert summary["ok"] is True
+    assert calls == ["AKVA.OL"]
+    assert payload["query_symbol"] == "AKVA.OL"
+    assert payload["country"] == "Norway"
+    assert payload["sector"] == "Industrials"
+
+
+def test_invalid_cached_profile_is_refreshed_when_it_mismatches_listing(monkeypatch, tmp_path: Path) -> None:
+    profiles_dir = tmp_path / "news" / "company_profiles"
+    profiles_dir.mkdir(parents=True, exist_ok=True)
+    (profiles_dir / "AKVA.json").write_text(
+        json.dumps(
+            {
+                "symbol": "AKVA",
+                "provider": "yfinance",
+                "fetched_at_utc": "2026-04-12T14:31:24+00:00",
+                "short_name": "ARKANOVA ENERGY COMPANY",
+                "long_name": "Arkanova Energy Corporation",
+                "sector": "Energy",
+                "industry": "Oil & Gas E&P",
+                "exchange": "PNK",
+                "country": "United States",
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    def fake_profile(symbol: str) -> dict:
+        assert symbol == "AKVA.OL"
+        return {
+            "symbol": symbol,
+            "short_name": "AKVA group ASA",
+            "long_name": "AKVA group ASA",
+            "sector": "Industrials",
+            "industry": "Farm & Heavy Construction Machinery",
+            "exchange": "OSL",
+            "country": "Norway",
+        }
+
+    monkeypatch.setattr(news_module, "yfinance_fetch_profile", fake_profile)
+
+    summary = news_module.update_company_profiles(
+        [
+            {
+                "symbol": "AKVA",
+                "company_name": "Akva Group",
+                "exchange_code": "OL",
+                "country": "Norway",
+                "source_rows": [{"_source_region": "EU"}],
+            }
+        ],
+        profiles_dir=profiles_dir,
+        min_refresh_hours=999,
+        sleep_s=0.0,
+    )
+
+    payload = json.loads((profiles_dir / "AKVA.json").read_text(encoding="utf-8"))
+    assert summary["profiles_fetched"] == 1
+    assert summary["profiles_skipped"] == 0
+    assert payload["query_symbol"] == "AKVA.OL"
+    assert payload["country"] == "Norway"

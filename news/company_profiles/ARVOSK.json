@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Asset Management",
+  "long_name": "Pohjanmaan Arvo Sijoitusosuuskunta",
   "provider": "yfinance",
-  "quote_type": null,
-  "sector": null,
-  "short_name": null,
-  "symbol": "ARVOSK"
+  "query_symbol": "ARVOSK.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ARVOSK",
+  "sector": "Financial Services",
+  "short_name": "Arvo Sijoitusosuuskunta",
+  "symbol": "ARVOSK.HE"
 }

@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
-  "industry": null,
-  "long_name": null,
+  "country": "United Kingdom",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
+  "industry": "Other Industrial Metals & Mining",
+  "long_name": "Rio Tinto Group",
   "provider": "yfinance",
-  "quote_type": null,
-  "sector": null,
-  "short_name": null,
-  "symbol": "RIO1"
+  "query_symbol": "RIO1.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RIO1",
+  "sector": "Basic Materials",
+  "short_name": "RIO TINTO PLC                 R",
+  "symbol": "RIO1.DE"
 }

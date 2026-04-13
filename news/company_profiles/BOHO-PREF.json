@@ -1,12 +1,14 @@
 {
-  "country": null,
-  "exchange": null,
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-13T12:06:25.579998+00:00",
   "industry": null,
-  "long_name": null,
+  "long_name": "Boho Group AB (publ)",
   "provider": "yfinance",
-  "quote_type": null,
+  "query_symbol": "BOHO-PREF.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BOHO-PREF",
   "sector": null,
-  "short_name": null,
-  "symbol": "BOHO-PREF"
+  "short_name": "Boho Group AB Pref",
+  "symbol": "BOHO-PREF.ST"
 }

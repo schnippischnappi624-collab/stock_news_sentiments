@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+import re
 from typing import Any
 
 from stock_news.news import simple_sentiment
@@ -41,10 +42,28 @@ SECTOR_EXPOSURE_MAP: dict[str, tuple[str, ...]] = {
 MARKET_THEME_RULES: list[dict[str, Any]] = [
     {
         "id": "middle_east_conflict",
-        "label": "Middle East conflict / commodity shock",
-        "keywords": ("iran", "israel", "war", "missile", "strike", "hormuz", "crude", "oil prices", "oil supply"),
-        "supports": ("energy", "defense"),
+        "label": "Middle East conflict / defense tailwind",
+        "keywords": ("iran", "israel", "war", "missile", "strike", "hezbollah", "airstrike", "ceasefire"),
+        "supports": ("defense",),
         "hurts": ("airlines", "consumer", "reits", "industrials"),
+    },
+    {
+        "id": "oil_supply_shock",
+        "label": "Oil supply shock / energy tailwind",
+        "keywords": (
+            "hormuz",
+            "crude",
+            "oil prices",
+            "oil supply",
+            "pipeline",
+            "refinery",
+            "supertanker",
+            "tanker",
+            "opec",
+            "barrels per day",
+        ),
+        "supports": ("energy", "shipping"),
+        "hurts": ("airlines", "consumer", "industrials"),
     },
     {
         "id": "shipping_disruption",
@@ -123,7 +142,15 @@ def _date_label(value: Any) -> str | None:
 
 
 def _contains_any(text: str, needles: tuple[str, ...]) -> bool:
-    return any(needle in text for needle in needles)
+    normalized_text = re.sub(r"[^a-z0-9]+", " ", str(text or "").lower()).strip()
+    if not normalized_text:
+        return False
+    padded_text = f" {normalized_text} "
+    for needle in needles:
+        normalized_needle = re.sub(r"[^a-z0-9]+", " ", str(needle or "").lower()).strip()
+        if normalized_needle and f" {normalized_needle} " in padded_text:
+            return True
+    return False
 
 
 def _pick_primary_source_row(item: dict[str, Any]) -> dict[str, Any]:

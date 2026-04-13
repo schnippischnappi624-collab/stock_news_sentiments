@@ -301,9 +301,10 @@ def update_news_cache_step(run_id: str | None = None, *, region: str | None = No
     paths = get_paths()
     layout = _ensure_layout(paths.daily_run_dir(manifest["run_id"]))
     shortlist = read_json(layout["shortlist_dir"] / "shortlist.json")
-    symbols = [item["symbol"] for item in shortlist.get("symbols", []) if item.get("symbol")]
+    shortlist_items = [item for item in shortlist.get("symbols", []) if item.get("symbol")]
+    symbols = [item["symbol"] for item in shortlist_items]
     symbol_summary = update_news_history(
-        symbols,
+        shortlist_items,
         headlines_dir=paths.news_headlines_dir,
         sentiment_dir=paths.news_daily_sentiment_dir,
         api_key_path=paths.finnhub_key_path,
@@ -319,7 +320,7 @@ def update_news_cache_step(run_id: str | None = None, *, region: str | None = No
         sleep_s=0.05,
     )
     profile_summary = update_company_profiles(
-        symbols,
+        shortlist_items,
         profiles_dir=paths.company_profiles_dir,
         min_refresh_hours=24 * 7,
         sleep_s=0.05,
