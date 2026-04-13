@@ -2,7 +2,7 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |
 | **Score** | $\color{#9a6700}{\texttt{61}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |

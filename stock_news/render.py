@@ -70,6 +70,27 @@ def _colorize(
     return f"$\\color{{{color}}}{{{command}{{{inner}}}}}$"
 
 
+def _bucket_display_label(bucket: Any) -> str:
+    normalized = str(bucket or "").strip().lower()
+    lookup = {
+        "entry_ready": "entry ready",
+        "candidate": "candidate",
+    }
+    return lookup.get(normalized, normalized.replace("_", " ") or "n/a")
+
+
+def _stance_display_label(stance: Any) -> str:
+    normalized = str(stance or "").strip().lower()
+    lookup = {
+        "constructive_bullish": "constructive bullish",
+        "constructive_watch": "constructive watch",
+        "mixed_watch": "mixed watch",
+        "fragile_watch": "fragile watch",
+        "avoid": "avoid",
+    }
+    return lookup.get(normalized, normalized.replace("_", " ") or "unknown")
+
+
 def _score_color(score: Any) -> str:
     try:
         numeric = float(score)
@@ -281,7 +302,7 @@ def _summary_table_lines(
         (
             "Breakout stance",
             _colorize(
-                stance.get("label", "unknown"),
+                _stance_display_label(stance.get("label", "unknown")),
                 color=_stance_color(stance.get("label")),
                 code=True,
             ),
@@ -305,7 +326,7 @@ def _summary_table_lines(
         (
             "Bucket",
             _colorize(
-                item.get("selection_bucket"),
+                _bucket_display_label(item.get("selection_bucket")),
                 color=_bucket_color(item.get("selection_bucket")),
                 code=True,
             ),
@@ -367,7 +388,7 @@ def _distance_to_entry_cell(
 
 
 def _bucket_cell(bucket: Any) -> str:
-    return _colorize(bucket or "n/a", color=_bucket_color(bucket))
+    return _colorize(_bucket_display_label(bucket), color=_bucket_color(bucket))
 
 
 def _score_cell(score: Any) -> str:
@@ -379,7 +400,7 @@ def _confidence_cell(confidence: Any) -> str:
 
 
 def _stance_cell(stance: Any) -> str:
-    return _colorize(stance or "unknown", color=_stance_color(stance))
+    return _colorize(_stance_display_label(stance), color=_stance_color(stance))
 
 
 def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -851,11 +872,11 @@ def render_project_readme(
             "## Column Guide",
             "",
             "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",
-            "  Worst to best: `avoid` -> `fragile_watch` -> `mixed_watch` -> `constructive_watch` -> `constructive_bullish`",
+            "  Worst to best: `avoid` -> `fragile watch` -> `mixed watch` -> `constructive watch` -> `constructive bullish`",
             "- `Confidence`: how much usable evidence supports the current stance.",
             "  Worst to best: `low` -> `medium` -> `high`",
             "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
-            "  Worst to best: `candidate` -> `entry_ready`",
+            "  Worst to best: `candidate` -> `entry ready`",
         ]
     )
 
@@ -972,11 +993,11 @@ def render_regional_project_readme(sections: list[dict[str, Any]], *, best_candi
             "## Column Guide",
             "",
             "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",
-            "  Worst to best: `avoid` -> `fragile_watch` -> `mixed_watch` -> `constructive_watch` -> `constructive_bullish`",
+            "  Worst to best: `avoid` -> `fragile watch` -> `mixed watch` -> `constructive watch` -> `constructive bullish`",
             "- `Confidence`: how much usable evidence supports the current stance.",
             "  Worst to best: `low` -> `medium` -> `high`",
             "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
-            "  Worst to best: `candidate` -> `entry_ready`",
+            "  Worst to best: `candidate` -> `entry ready`",
             "",
             *_filtered_symbol_lines(section_lookup),
         ]

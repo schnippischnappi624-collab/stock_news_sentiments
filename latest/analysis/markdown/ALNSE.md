@@ -2,10 +2,10 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |
 | **Score** | $\color{#1a7f37}{\texttt{82}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
-| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
 | **Current price** | `53.00 EUR` |
 | **Entry limit** | `50.74 EUR` |
 | **Distance to entry limit** | $\color{#bc4c00}{\texttt{2.26 EUR / +4.44\%}}$ |

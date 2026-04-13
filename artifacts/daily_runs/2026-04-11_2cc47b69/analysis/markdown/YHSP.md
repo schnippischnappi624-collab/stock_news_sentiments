@@ -2,10 +2,10 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |
 | **Score** | $\color{#9a6700}{\texttt{66}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
-| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
 | **Current price** | `9.05 EUR` |
 | **Entry limit** | `9.00 EUR` |
 | **Distance to entry limit** | $\color{#1a7f37}{\texttt{0.05 EUR / +0.50\%}}$ |

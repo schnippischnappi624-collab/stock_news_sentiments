@@ -2,10 +2,10 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |
 | **Score** | $\color{#1a7f37}{\texttt{77}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
-| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
 | **Current price** | `113.50 NOK (10.21 EUR)` |
 | **Entry limit** | `109.45 NOK (9.85 EUR)` |
 | **Distance to entry limit** | $\color{#bc4c00}{\texttt{4.05 NOK (0.36 EUR) / +3.70\%}}$ |

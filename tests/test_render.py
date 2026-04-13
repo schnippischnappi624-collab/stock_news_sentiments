@@ -141,7 +141,7 @@ def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
     assert "Distance to entry" in markdown
     assert "[AKVA](latest/eu/analysis/markdown/AKVA.md)" in markdown
     assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in markdown
-    assert r"$\color{#1a7f37}{\textsf{entry\_ready}}$" in markdown
-    assert r"$\color{#9a6700}{\textsf{mixed\_watch}}$" in markdown
+    assert r"$\color{#1a7f37}{\textsf{entry ready}}$" in markdown
+    assert r"$\color{#9a6700}{\textsf{mixed watch}}$" in markdown
     assert "## Temporarily Omitted Penny Stocks" in markdown
     assert "`EU` `CHEAP` - Cheap Nordic - `8.00 SEK` (0.80 EUR)" in markdown

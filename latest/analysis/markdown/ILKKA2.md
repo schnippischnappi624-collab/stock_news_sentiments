@@ -2,10 +2,10 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#9a6700}{\texttt{mixed\_watch}}$ |
+| **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |
 | **Score** | $\color{#bc4c00}{\texttt{57}}$ |
 | **Confidence** | $\color{#cf222e}{\texttt{low}}$ |
-| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
 | **Current price** | `4.32 EUR` |
 | **Entry limit** | `4.31 EUR` |
 | **Distance to entry limit** | $\color{#1a7f37}{\texttt{0.01 EUR / +0.27\%}}$ |

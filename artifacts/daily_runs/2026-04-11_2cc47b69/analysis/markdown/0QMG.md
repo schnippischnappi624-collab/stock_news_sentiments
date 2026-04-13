@@ -2,10 +2,10 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |
 | **Score** | $\color{#1a7f37}{\texttt{77}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
-| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
 | **Current price** | `9.04 CHF (9.78 EUR)` |
 | **Entry limit** | `8.90 CHF (9.63 EUR)` |
 | **Distance to entry limit** | $\color{#9a6700}{\texttt{0.14 CHF (0.16 EUR) / +1.63\%}}$ |

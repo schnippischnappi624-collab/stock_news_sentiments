@@ -2,10 +2,10 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |
 | **Score** | $\color{#9a6700}{\texttt{66}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
-| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
 | **Current price** | `940.00 DKK (125.79 EUR)` |
 | **Entry limit** | `920.38 DKK (123.16 EUR)` |
 | **Distance to entry limit** | $\color{#9a6700}{\texttt{19.62 DKK (2.63 EUR) / +2.13\%}}$ |

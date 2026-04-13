@@ -2,7 +2,7 @@
 
 |  |  |
 | --- | --- |
-| **Breakout stance** | $\color{#9a6700}{\texttt{mixed\_watch}}$ |
+| **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |
 | **Score** | $\color{#bc4c00}{\texttt{52}}$ |
 | **Confidence** | $\color{#cf222e}{\texttt{low}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
