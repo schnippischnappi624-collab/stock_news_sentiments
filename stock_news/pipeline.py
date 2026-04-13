@@ -17,6 +17,7 @@ from stock_news.analysis import (
 )
 from stock_news.feed_discovery import discover_latest_feeds, download_feed_text
 from stock_news.feed_parser import parse_feed_text
+from stock_news.fx import load_or_update_ecb_rates, select_eur_rates
 from stock_news.models import FeedFile
 from stock_news.news import load_news_context, update_company_profiles, update_market_news_history, update_news_history
 from stock_news.paths import get_paths
@@ -62,6 +63,16 @@ def _ensure_layout(run_dir: Path) -> dict[str, Path]:
         if key.endswith("_dir"):
             path.mkdir(parents=True, exist_ok=True)
     return layout
+
+
+def _load_eur_rates_context(manifest: dict[str, Any], *, paths: Any) -> dict[str, Any]:
+    target_date = max(manifest.get("feed_dates", []) or [None])
+    payload = load_or_update_ecb_rates(
+        cache_path=paths.ecb_fx_cache_path,
+        min_refresh_hours=12,
+        timeout=30.0,
+    )
+    return select_eur_rates(payload, target_date=target_date)
 
 
 def _load_manifest(run_id: str | None = None, *, region: str | None = None) -> dict[str, Any]:
@@ -352,6 +363,7 @@ def run_analysis_step(
     if analysis_mode not in {"python", "hybrid", "codex-full"}:
         analysis_mode = "hybrid"
 
+    eur_rates_context = _load_eur_rates_context(manifest, paths=paths)
     results = []
     for item in shortlist.get("symbols", []):
         symbol = item.get("symbol")
@@ -415,7 +427,7 @@ def run_analysis_step(
 
             write_json(report_json_path, report)
 
-        markdown = render_analysis_markdown(report, item)
+        markdown = render_analysis_markdown(report, item, eur_rates_context=eur_rates_context)
         markdown_path = layout["analysis_markdown_dir"] / f"{safe_symbol_name(symbol)}.md"
         markdown_path.write_text(markdown, encoding="utf-8")
         results.append(report)

@@ -1,7 +1,7 @@
 {
   "analysis_summary": {
     "analysis_mode": "python",
-    "generated_at_utc": "2026-04-13T13:00:12.773044+00:00",
+    "generated_at_utc": "2026-04-13T13:07:49.883830+00:00",
     "ok": true,
     "reports_failed": 0,
     "reports_written": 28,
@@ -10,7 +10,7 @@
   },
   "candidate_count": 5,
   "entry_ready_count": 23,
-  "generated_at_utc": "2026-04-13T13:00:12.775056+00:00",
+  "generated_at_utc": "2026-04-13T13:07:49.886294+00:00",
   "news_summary": {
     "company_profiles": {
       "ok": true,

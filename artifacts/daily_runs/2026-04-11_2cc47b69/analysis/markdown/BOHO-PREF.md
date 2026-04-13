@@ -4,13 +4,13 @@
 - Score: `75`
 - Confidence: `high`
 - Bucket: `entry_ready`
-- Current price: `11.10 SEK`
-- Entry limit: `10.95 SEK`
-- Initial stop: `10.34 SEK`
-- Prior 20d high trigger: `11.00 SEK`
-- 2R target: `12.16 SEK`
-- 3R target: `12.77 SEK`
-- Risk distance: `0.61 SEK`
+- Current price: `11.10 SEK (1.02 EUR)`
+- Entry limit: `10.95 SEK (1.01 EUR)`
+- Initial stop: `10.34 SEK (0.95 EUR)`
+- Prior 20d high trigger: `11.00 SEK (1.02 EUR)`
+- 2R target: `12.16 SEK (1.12 EUR)`
+- 3R target: `12.77 SEK (1.18 EUR)`
+- Risk distance: `0.61 SEK (0.06 EUR)`
 
 ## Investment View
 BOHO-PREF scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

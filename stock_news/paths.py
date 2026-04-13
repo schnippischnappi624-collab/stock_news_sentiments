@@ -71,6 +71,14 @@ class Paths:
         return self.news_root / "company_profiles"
 
     @property
+    def fx_cache_dir(self) -> Path:
+        return self.maintenance_dir / "fx"
+
+    @property
+    def ecb_fx_cache_path(self) -> Path:
+        return self.fx_cache_dir / "ecb_eurofxref_hist_90d.json"
+
+    @property
     def secrets_dir(self) -> Path:
         return self.root / "secrets"
 
@@ -122,6 +130,7 @@ class Paths:
             self.news_daily_sentiment_dir,
             self.news_market_dir,
             self.company_profiles_dir,
+            self.fx_cache_dir,
             self.schemas_dir,
             self.scripts_dir,
         ]:

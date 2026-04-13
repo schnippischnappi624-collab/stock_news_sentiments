@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 
+from stock_news.fx import convert_to_eur
 from stock_news.regions import REGION_ORDER, normalize_region
 from stock_news.utils import safe_symbol_name
 
@@ -15,7 +16,7 @@ def _metric_num(value: Any, *, digits: int = 2) -> str | None:
         return str(value)
 
 
-def _execution_lines(item: dict[str, Any]) -> list[str]:
+def _execution_lines(item: dict[str, Any], *, eur_rates_context: dict[str, Any] | None = None) -> list[str]:
     metrics = item.get("metrics", {}) or {}
     currency = str(item.get("currency") or "").strip()
 
@@ -23,7 +24,11 @@ def _execution_lines(item: dict[str, Any]) -> list[str]:
         text = _metric_num(value, digits=digits)
         if text is None:
             return None
-        return f"{text} {currency}".strip()
+        label = f"{text} {currency}".strip()
+        eur_value = convert_to_eur(value, currency, eur_rates_context)
+        if currency.upper() != "EUR" and eur_value is not None:
+            label += f" ({eur_value:,.{digits}f} EUR)"
+        return label
 
     lines: list[str] = []
 
@@ -238,7 +243,12 @@ def _dashboard_section_lines(
     return lines
 
 
-def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> str:
+def render_analysis_markdown(
+    report: dict[str, Any],
+    item: dict[str, Any],
+    *,
+    eur_rates_context: dict[str, Any] | None = None,
+) -> str:
     stance = report.get("breakout_stance", {}) or {}
     news_support = report.get("news_support", {}) or {}
     coverage = report.get("coverage", {}) or {}
@@ -264,7 +274,7 @@ def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> st
         f"- Confidence: `{stance.get('confidence', 'n/a')}`",
         f"- Bucket: `{item.get('selection_bucket')}`",
     ]
-    execution_lines = _execution_lines(item)
+    execution_lines = _execution_lines(item, eur_rates_context=eur_rates_context)
     if execution_lines:
         lines.extend(execution_lines)
 

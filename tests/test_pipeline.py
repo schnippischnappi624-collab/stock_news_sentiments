@@ -75,6 +75,7 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
 
     monkeypatch.setattr(pipeline, "discover_latest_feeds", fake_discover)
     monkeypatch.setattr(pipeline, "download_feed_text", fake_download)
+    monkeypatch.setattr(pipeline, "_load_eur_rates_context", lambda manifest, paths: {})
     monkeypatch.setattr(pipeline, "update_news_history", fake_update_news_history)
     monkeypatch.setattr(pipeline, "update_market_news_history", fake_update_market_news_history)
     monkeypatch.setattr(pipeline, "update_company_profiles", fake_update_company_profiles)

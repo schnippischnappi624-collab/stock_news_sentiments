@@ -4,8 +4,8 @@
 - Score: `63`
 - Confidence: `high`
 - Bucket: `candidate`
-- Current price: `109.05`
-- Prior 20d high trigger: `108.54`
+- Current price: `109.05 (109.05 EUR)`
+- Prior 20d high trigger: `108.54 (108.54 EUR)`
 
 ## Investment View
 FRT scores 63/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 7 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.
