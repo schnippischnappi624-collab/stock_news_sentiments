@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 
+from stock_news.regions import REGION_ORDER, normalize_region
 from stock_news.utils import safe_symbol_name
 
 
@@ -70,6 +71,119 @@ def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[s
         )
     )
     return ranked_items
+
+
+def _section_lookup(sections: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    lookup: dict[str, dict[str, Any]] = {}
+    for section in sections:
+        region = normalize_region(section.get("region"))
+        if region:
+            lookup[region] = section
+    return lookup
+
+
+def _best_candidate_section_lines(
+    section: dict[str, Any] | None,
+    *,
+    region: str,
+    report_prefix: str,
+    top_n: int,
+    heading: str,
+) -> list[str]:
+    lines = [heading, ""]
+    if section is None:
+        lines.append(f"No {region} snapshot is available yet.")
+        return lines
+
+    manifest = section.get("manifest", {}) or {}
+    shortlist = section.get("shortlist", {}) or {}
+    analysis_rows = section.get("analysis_rows", []) or []
+    report_prefix = str(section.get("report_prefix") or report_prefix)
+    top_items = _ranked_candidate_rows(shortlist, analysis_rows)[: int(max(1, top_n))]
+
+    lines.extend(
+        [
+            f"- Run ID: `{manifest.get('run_id', 'n/a')}`",
+            f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
+            f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
+            "",
+            "| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+        ]
+    )
+
+    for idx, row in enumerate(top_items, start=1):
+        symbol = row.get("symbol")
+        lines.append(
+            "| {rank} | [{symbol}]({report_prefix}/{file_name}.md) | {company} | {bucket} | {score} | {confidence} | {stance} |".format(
+                rank=idx,
+                symbol=symbol,
+                report_prefix=report_prefix,
+                file_name=safe_symbol_name(symbol),
+                company=row.get("company_name") or "Unknown Company",
+                bucket=row.get("bucket") or "n/a",
+                score=row.get("score", "n/a"),
+                confidence=row.get("confidence", "n/a"),
+                stance=row.get("stance", "unknown"),
+            )
+        )
+
+    if not top_items:
+        lines.extend(["", f"No scored {region} candidates were available in this snapshot."])
+
+    return lines
+
+
+def _dashboard_section_lines(
+    section: dict[str, Any] | None,
+    *,
+    region: str,
+    report_prefix: str,
+    heading: str,
+) -> list[str]:
+    lines = [heading, ""]
+    if section is None:
+        lines.append(f"No {region} snapshot is available yet.")
+        return lines
+
+    manifest = section.get("manifest", {}) or {}
+    shortlist = section.get("shortlist", {}) or {}
+    analysis_rows = section.get("analysis_rows", []) or []
+    report_prefix = str(section.get("report_prefix") or report_prefix)
+    lookup = {row["symbol"]: row for row in analysis_rows}
+
+    lines.extend(
+        [
+            f"- Run ID: `{manifest.get('run_id', 'n/a')}`",
+            f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
+            f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
+            "",
+            "| Rank | Symbol | Bucket | Breakout stance | Score | Confidence | Report |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+        ]
+    )
+
+    for item in shortlist.get("symbols", []):
+        symbol = item.get("symbol")
+        report = lookup.get(symbol, {})
+        stance = report.get("breakout_stance", {}) or {}
+        lines.append(
+            "| {rank} | {symbol} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_prefix}/{file_name}.md) |".format(
+                rank=item.get("display_rank"),
+                symbol=symbol,
+                bucket=item.get("selection_bucket"),
+                stance_label=stance.get("label", "unknown"),
+                score=stance.get("score_0_to_100", "n/a"),
+                confidence=stance.get("confidence", "n/a"),
+                report_prefix=report_prefix,
+                file_name=safe_symbol_name(symbol),
+            )
+        )
+
+    if not shortlist.get("symbols"):
+        lines.extend(["", f"No {region} shortlist symbols were generated for this snapshot."])
+
+    return lines
 
 
 def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> str:
@@ -330,6 +444,127 @@ def render_project_readme(
     lines.extend(
         [
             "",
+            "## Column Guide",
+            "",
+            "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",
+            "  Worst to best: `avoid` -> `fragile_watch` -> `mixed_watch` -> `constructive_watch` -> `constructive_bullish`",
+            "- `Confidence`: how much usable evidence supports the current stance.",
+            "  Worst to best: `low` -> `medium` -> `high`",
+            "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
+            "  Worst to best: `candidate` -> `entry_ready`",
+        ]
+    )
+
+    return "\n".join(lines).strip() + "\n"
+
+
+def render_regional_dashboard(sections: list[dict[str, Any]]) -> str:
+    section_lookup = _section_lookup(sections)
+    available_regions = [region for region in REGION_ORDER if section_lookup.get(region)]
+    total_symbols = sum(len((section_lookup.get(region) or {}).get("shortlist", {}).get("symbols", [])) for region in REGION_ORDER)
+
+    lines = [
+        "# Latest Regional Breakout Dashboard",
+        "",
+        f"- Regions available: `{', '.join(available_regions) or 'none'}`",
+        f"- Symbols analyzed: `{total_symbols}`",
+    ]
+
+    for region in REGION_ORDER:
+        lines.extend(
+            [
+                "",
+                *_dashboard_section_lines(
+                    section_lookup.get(region),
+                    region=region,
+                    report_prefix=f"{region.lower()}/analysis/markdown",
+                    heading=f"## {region} Daily Dashboard",
+                ),
+            ]
+        )
+
+    return "\n".join(lines).strip() + "\n"
+
+
+def render_regional_best_candidates(sections: list[dict[str, Any]], *, top_n: int = 15) -> str:
+    section_lookup = _section_lookup(sections)
+    available_regions = [region for region in REGION_ORDER if section_lookup.get(region)]
+
+    lines = [
+        "# Latest Regional Best Candidates",
+        "",
+        f"- Regions available: `{', '.join(available_regions) or 'none'}`",
+        "",
+    ]
+
+    for region in REGION_ORDER:
+        lines.extend(
+            [
+                *_best_candidate_section_lines(
+                    section_lookup.get(region),
+                    region=region,
+                    report_prefix=f"{region.lower()}/analysis/markdown",
+                    top_n=top_n,
+                    heading=f"## {region} Best Scoring Candidates",
+                ),
+                "",
+            ]
+        )
+
+    return "\n".join(lines).strip() + "\n"
+
+
+def render_regional_project_readme(sections: list[dict[str, Any]], *, best_candidates_top_n: int = 15) -> str:
+    section_lookup = _section_lookup(sections)
+    available_regions = [region for region in REGION_ORDER if section_lookup.get(region)]
+    total_symbols = sum(len((section_lookup.get(region) or {}).get("shortlist", {}).get("symbols", [])) for region in REGION_ORDER)
+    feed_dates = sorted(
+        {
+            feed_date
+            for section in section_lookup.values()
+            for feed_date in (section.get("manifest", {}) or {}).get("feed_dates", [])
+        }
+    )
+
+    lines = [
+        "# stock_news_sentiments",
+        "",
+        "Auto-generated daily breakout dashboard for the latest committed regional runs.",
+        "",
+        f"- Regions available: `{', '.join(available_regions) or 'none'}`",
+        f"- Feed dates: `{', '.join(feed_dates) or 'n/a'}`",
+        f"- Symbols analyzed: `{total_symbols}`",
+        "",
+        "Quick links:",
+        "- [Regional best candidates](latest/best_candidates.md)",
+        "- [Regional dashboard](latest/dashboard.md)",
+        "- [Operational notes](docs/OPERATIONS.md)",
+        "",
+    ]
+
+    for region in REGION_ORDER:
+        section = section_lookup.get(region)
+        readme_report_prefix = (
+            f"latest/{section.get('report_prefix')}"
+            if section and section.get("report_prefix")
+            else f"latest/{region.lower()}/analysis/markdown"
+        )
+        readme_section = dict(section, report_prefix=readme_report_prefix) if section else None
+        lines.extend(
+            [
+                *_best_candidate_section_lines(
+                    readme_section,
+                    region=region,
+                    report_prefix=readme_report_prefix,
+                    top_n=best_candidates_top_n,
+                    heading=f"## {region} Best Scoring Candidates",
+                ),
+                "",
+            ]
+        )
+
+    lines.extend(
+        [
             "## Column Guide",
             "",
             "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",

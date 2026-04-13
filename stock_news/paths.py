@@ -4,6 +4,8 @@ import os
 from dataclasses import dataclass
 from pathlib import Path
 
+from stock_news.regions import region_slug
+
 
 def _find_repo_root(start: Path) -> Path:
     env = os.getenv("STOCK_NEWS_ROOT")
@@ -36,6 +38,9 @@ class Paths:
     @property
     def latest_dir(self) -> Path:
         return self.root / "latest"
+
+    def latest_region_dir(self, region: str) -> Path:
+        return self.latest_dir / region_slug(region)
 
     @property
     def news_root(self) -> Path:
@@ -92,6 +97,16 @@ class Paths:
     @property
     def active_manifest_path(self) -> Path:
         return self.maintenance_dir / "active_manifest.json"
+
+    def last_manifest_path_for_region(self, region: str | None = None) -> Path:
+        if not region:
+            return self.last_manifest_path
+        return self.maintenance_dir / f"last_processed_manifest_{region_slug(region)}.json"
+
+    def active_manifest_path_for_region(self, region: str | None = None) -> Path:
+        if not region:
+            return self.active_manifest_path
+        return self.maintenance_dir / f"active_manifest_{region_slug(region)}.json"
 
     def daily_run_dir(self, run_id: str) -> Path:
         return self.daily_runs_dir / run_id

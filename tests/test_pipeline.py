@@ -79,38 +79,57 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
     monkeypatch.setattr(pipeline, "update_market_news_history", fake_update_market_news_history)
     monkeypatch.setattr(pipeline, "update_company_profiles", fake_update_company_profiles)
 
-    rc_one = pipeline.daily_run_command(
+    rc_eu = pipeline.daily_run_command(
         base_url="https://stock.sdc-fried.de/",
         force=True,
+        region="EU",
         extra_candidates=1,
         max_news=5,
         analysis_mode="python",
     )
-    rc_two = pipeline.daily_run_command(
+    rc_us = pipeline.daily_run_command(
+        base_url="https://stock.sdc-fried.de/",
+        force=True,
+        region="US",
+        extra_candidates=1,
+        max_news=5,
+        analysis_mode="python",
+    )
+    rc_us_skip = pipeline.daily_run_command(
         base_url="https://stock.sdc-fried.de/",
         force=False,
+        region="US",
         extra_candidates=1,
         max_news=5,
         analysis_mode="python",
     )
 
-    assert rc_one == 0
-    assert rc_two == 0
+    assert rc_eu == 0
+    assert rc_us == 0
+    assert rc_us_skip == 0
     assert (tmp_path / "README.md").exists()
     assert (tmp_path / "latest" / "dashboard.md").exists()
     assert (tmp_path / "latest" / "best_candidates.md").exists()
-    assert (tmp_path / "latest" / "analysis" / "markdown" / "SPIR.md").exists()
-    shortlist = read_json(tmp_path / "latest" / "shortlist" / "shortlist.json")
-    assert len(shortlist["symbols"]) == 3
-    spir_report = read_json(tmp_path / "latest" / "analysis" / "json" / "SPIR.json")
+    assert (tmp_path / "latest" / "eu" / "analysis" / "markdown" / "NXT.md").exists()
+    assert (tmp_path / "latest" / "us" / "analysis" / "markdown" / "SPIR.md").exists()
+    eu_shortlist = read_json(tmp_path / "latest" / "eu" / "shortlist" / "shortlist.json")
+    us_shortlist = read_json(tmp_path / "latest" / "us" / "shortlist" / "shortlist.json")
+    assert len(eu_shortlist["symbols"]) == 2
+    assert len(us_shortlist["symbols"]) == 2
+    spir_report = read_json(tmp_path / "latest" / "us" / "analysis" / "json" / "SPIR.json")
     assert spir_report["analysis_mode"] == "python"
     assert spir_report["analysis_error"] is None
     assert "scorecard" in spir_report
-    assert (tmp_path / "latest" / "analysis" / "evidence" / "SPIR.json").exists()
-    summary = read_json(tmp_path / "latest" / "run_summary.json")
+    assert (tmp_path / "latest" / "us" / "analysis" / "evidence" / "SPIR.json").exists()
+    summary = read_json(tmp_path / "latest" / "us" / "run_summary.json")
     assert summary["news_summary"]["market_news"]["ok"] is True
     best_candidates = (tmp_path / "latest" / "best_candidates.md").read_text(encoding="utf-8")
-    assert "[SPIR](analysis/markdown/SPIR.md)" in best_candidates
+    assert "## EU Best Scoring Candidates" in best_candidates
+    assert "## US Best Scoring Candidates" in best_candidates
+    assert "[SPIR](us/analysis/markdown/SPIR.md)" in best_candidates
     root_readme = (tmp_path / "README.md").read_text(encoding="utf-8")
-    assert "[SPIR](latest/analysis/markdown/SPIR.md)" in root_readme
-    assert len(list((tmp_path / "artifacts" / "daily_runs").iterdir())) == 1
+    assert "## EU Best Scoring Candidates" in root_readme
+    assert "## US Best Scoring Candidates" in root_readme
+    assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in root_readme
+    assert "[NXT](latest/eu/analysis/markdown/NXT.md)" in root_readme
+    assert len(list((tmp_path / "artifacts" / "daily_runs").iterdir())) == 2

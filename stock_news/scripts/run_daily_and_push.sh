@@ -4,11 +4,28 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 cd "$ROOT"
 
-LOCKFILE="$ROOT/.daily_run.lock"
+REGION="${1:-}"
+ARGS=()
+LOCK_SUFFIX=""
+
+if [[ -n "$REGION" ]]; then
+  REGION="$(printf "%s" "$REGION" | tr '[:lower:]' '[:upper:]')"
+  case "$REGION" in
+    EU|US) ;;
+    *)
+      echo "usage: $0 [EU|US]" >&2
+      exit 2
+      ;;
+  esac
+  ARGS=(--region "$REGION")
+  LOCK_SUFFIX="_${REGION,,}"
+fi
+
+LOCKFILE="$ROOT/.daily_run${LOCK_SUFFIX}.lock"
 exec 9>"$LOCKFILE"
 flock -n 9 || exit 0
 
-poetry run stock-news daily-run
+poetry run stock-news daily-run "${ARGS[@]}"
 
 PATHS=(artifacts latest news README.md)
 

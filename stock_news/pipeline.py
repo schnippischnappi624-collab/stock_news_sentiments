@@ -20,7 +20,15 @@ from stock_news.feed_parser import parse_feed_text
 from stock_news.models import FeedFile
 from stock_news.news import load_news_context, update_company_profiles, update_market_news_history, update_news_history
 from stock_news.paths import get_paths
-from stock_news.render import render_analysis_markdown, render_best_candidates, render_dashboard, render_project_readme
+from stock_news.regions import REGION_ORDER, normalize_region, region_slug
+from stock_news.render import (
+    render_analysis_markdown,
+    render_best_candidates,
+    render_dashboard,
+    render_regional_best_candidates,
+    render_regional_dashboard,
+    render_regional_project_readme,
+)
 from stock_news.shortlist import build_shortlist, shortlist_to_frame
 from stock_news.utils import manifest_hash, read_json, replace_dir_contents, safe_symbol_name, write_json
 
@@ -56,9 +64,13 @@ def _ensure_layout(run_dir: Path) -> dict[str, Path]:
     return layout
 
 
-def _load_manifest(run_id: str | None = None) -> dict[str, Any]:
+def _load_manifest(run_id: str | None = None, *, region: str | None = None) -> dict[str, Any]:
     paths = get_paths()
-    manifest_path = paths.active_manifest_path if run_id is None else paths.daily_run_dir(run_id) / "source_manifest.json"
+    manifest_path = (
+        paths.active_manifest_path_for_region(normalize_region(region))
+        if run_id is None
+        else paths.daily_run_dir(run_id) / "source_manifest.json"
+    )
     if not manifest_path.exists():
         raise FileNotFoundError(f"missing manifest: {manifest_path}")
     return read_json(manifest_path)
@@ -74,28 +86,121 @@ def _write_table_csvs(parsed_payload: dict[str, Any], parsed_tables_dir: Path, s
     return written
 
 
-def _sync_latest_outputs(run_id: str) -> None:
+def _load_analysis_reports(analysis_json_dir: Path) -> list[dict[str, Any]]:
+    payloads = []
+    for json_path in sorted(analysis_json_dir.glob("*.json")):
+        payloads.append(read_json(json_path))
+    return payloads
+
+
+def _shortlist_item_region(item: dict[str, Any]) -> str | None:
+    for row in item.get("source_rows", []) or []:
+        region = normalize_region(row.get("_source_region"))
+        if region:
+            return region
+    return normalize_region(item.get("region"))
+
+
+def _subset_shortlist(shortlist: dict[str, Any], region: str) -> dict[str, Any]:
+    normalized_region = normalize_region(region)
+    items = [dict(item) for item in shortlist.get("symbols", []) if _shortlist_item_region(item) == normalized_region]
+    for idx, item in enumerate(items, start=1):
+        item["display_rank"] = idx
+
+    subset = dict(shortlist)
+    subset["symbols"] = items
+    subset["entry_ready_count"] = sum(1 for item in items if item.get("entry_ready"))
+    subset["candidate_count"] = sum(1 for item in items if not item.get("entry_ready"))
+    return subset
+
+
+def _subset_analysis_rows(analysis_rows: list[dict[str, Any]], symbols: set[str]) -> list[dict[str, Any]]:
+    return [row for row in analysis_rows if row.get("symbol") in symbols]
+
+
+def _latest_snapshot_sections() -> list[dict[str, Any]]:
+    paths = get_paths()
+    sections: dict[str, dict[str, Any]] = {}
+
+    for region in REGION_ORDER:
+        region_dir = paths.latest_region_dir(region)
+        manifest_path = region_dir / "source_manifest.json"
+        shortlist_path = region_dir / "shortlist" / "shortlist.json"
+        analysis_json_dir = region_dir / "analysis" / "json"
+        if not (manifest_path.exists() and shortlist_path.exists() and analysis_json_dir.exists()):
+            continue
+        sections[region] = {
+            "region": region,
+            "manifest": read_json(manifest_path),
+            "shortlist": read_json(shortlist_path),
+            "analysis_rows": _load_analysis_reports(analysis_json_dir),
+            "report_prefix": f"{region_slug(region)}/analysis/markdown",
+        }
+
+    manifest_path = paths.latest_dir / "source_manifest.json"
+    shortlist_path = paths.latest_dir / "shortlist" / "shortlist.json"
+    analysis_json_dir = paths.latest_dir / "analysis" / "json"
+    if manifest_path.exists() and shortlist_path.exists() and analysis_json_dir.exists():
+        manifest = read_json(manifest_path)
+        shortlist = read_json(shortlist_path)
+        analysis_rows = _load_analysis_reports(analysis_json_dir)
+        for region in REGION_ORDER:
+            if region in sections:
+                continue
+            shortlist_subset = _subset_shortlist(shortlist, region)
+            if not shortlist_subset.get("symbols"):
+                continue
+            symbols = {item.get("symbol") for item in shortlist_subset.get("symbols", []) if item.get("symbol")}
+            sections[region] = {
+                "region": region,
+                "manifest": manifest,
+                "shortlist": shortlist_subset,
+                "analysis_rows": _subset_analysis_rows(analysis_rows, symbols),
+                "report_prefix": "analysis/markdown",
+            }
+
+    return [sections[region] for region in REGION_ORDER if region in sections]
+
+
+def _refresh_latest_surfaces() -> None:
+    paths = get_paths()
+    paths.latest_dir.mkdir(parents=True, exist_ok=True)
+    sections = _latest_snapshot_sections()
+    (paths.latest_dir / "dashboard.md").write_text(render_regional_dashboard(sections), encoding="utf-8")
+    (paths.latest_dir / "best_candidates.md").write_text(
+        render_regional_best_candidates(sections, top_n=15),
+        encoding="utf-8",
+    )
+    (paths.root / "README.md").write_text(render_regional_project_readme(sections, best_candidates_top_n=15), encoding="utf-8")
+
+
+def _sync_latest_outputs(run_id: str, *, region: str | None = None) -> None:
     paths = get_paths()
     run_dir = paths.daily_run_dir(run_id)
     layout = _run_layout(run_dir)
-    paths.latest_dir.mkdir(parents=True, exist_ok=True)
+    latest_target_dir = paths.latest_region_dir(region) if normalize_region(region) else paths.latest_dir
+    latest_target_dir.mkdir(parents=True, exist_ok=True)
 
     for name in ["feeds", "parsed", "shortlist", "analysis"]:
         src = layout[f"{name}_dir"]
-        dest = paths.latest_dir / name
+        dest = latest_target_dir / name
         replace_dir_contents(src, dest)
 
-    shutil.copy2(layout["dashboard_path"], paths.latest_dir / "dashboard.md")
-    shutil.copy2(layout["best_candidates_path"], paths.latest_dir / "best_candidates.md")
-    shutil.copy2(layout["source_manifest_path"], paths.latest_dir / "source_manifest.json")
-    shutil.copy2(layout["run_summary_path"], paths.latest_dir / "run_summary.json")
+    shutil.copy2(layout["dashboard_path"], latest_target_dir / "dashboard.md")
+    shutil.copy2(layout["best_candidates_path"], latest_target_dir / "best_candidates.md")
+    shutil.copy2(layout["source_manifest_path"], latest_target_dir / "source_manifest.json")
+    shutil.copy2(layout["run_summary_path"], latest_target_dir / "run_summary.json")
+    _refresh_latest_surfaces()
 
 
-def fetch_feeds(base_url: str, *, force: bool = False) -> dict[str, Any]:
+def fetch_feeds(base_url: str, *, force: bool = False, region: str | None = None) -> dict[str, Any]:
     paths = get_paths()
     paths.ensure_base_dirs()
 
+    normalized_region = normalize_region(region)
     feeds = discover_latest_feeds(base_url)
+    if normalized_region:
+        feeds = [feed for feed in feeds if feed.region == normalized_region]
     if not feeds:
         raise RuntimeError("no feed files discovered from source index")
 
@@ -103,7 +208,8 @@ def fetch_feeds(base_url: str, *, force: bool = False) -> dict[str, Any]:
     digest = manifest_hash(manifest_items)
     feed_dates = sorted({feed.feed_date for feed in feeds})
     primary_date = max(feed_dates)
-    run_id = f"{primary_date}_{digest[:8]}"
+    region_part = f"_{region_slug(normalized_region)}" if normalized_region else ""
+    run_id = f"{primary_date}{region_part}_{digest[:8]}"
 
     run_dir = paths.daily_run_dir(run_id)
     layout = _ensure_layout(run_dir)
@@ -117,17 +223,18 @@ def fetch_feeds(base_url: str, *, force: bool = False) -> dict[str, Any]:
         "run_id": run_id,
         "manifest_hash": digest,
         "base_url": base_url,
+        "region": normalized_region or "ALL",
         "feed_dates": feed_dates,
         "selected_at_utc": _now_utc(),
         "feeds": manifest_items,
     }
     write_json(layout["source_manifest_path"], manifest)
-    write_json(paths.active_manifest_path, manifest)
+    write_json(paths.active_manifest_path_for_region(normalized_region), manifest)
     return manifest
 
 
-def parse_feeds(run_id: str | None = None) -> dict[str, Any]:
-    manifest = _load_manifest(run_id)
+def parse_feeds(run_id: str | None = None, *, region: str | None = None) -> dict[str, Any]:
+    manifest = _load_manifest(run_id, region=region)
     paths = get_paths()
     layout = _ensure_layout(paths.daily_run_dir(manifest["run_id"]))
 
@@ -172,8 +279,8 @@ def _load_parsed_payloads(run_id: str) -> list[dict[str, Any]]:
     return payloads
 
 
-def build_shortlist_step(run_id: str | None = None, *, extra_candidates: int = 10) -> dict[str, Any]:
-    manifest = _load_manifest(run_id)
+def build_shortlist_step(run_id: str | None = None, *, region: str | None = None, extra_candidates: int = 10) -> dict[str, Any]:
+    manifest = _load_manifest(run_id, region=region)
     paths = get_paths()
     layout = _ensure_layout(paths.daily_run_dir(manifest["run_id"]))
     payloads = _load_parsed_payloads(manifest["run_id"])
@@ -189,8 +296,8 @@ def build_shortlist_step(run_id: str | None = None, *, extra_candidates: int = 1
     return shortlist
 
 
-def update_news_cache_step(run_id: str | None = None) -> dict[str, Any]:
-    manifest = _load_manifest(run_id)
+def update_news_cache_step(run_id: str | None = None, *, region: str | None = None) -> dict[str, Any]:
+    manifest = _load_manifest(run_id, region=region)
     paths = get_paths()
     layout = _ensure_layout(paths.daily_run_dir(manifest["run_id"]))
     shortlist = read_json(layout["shortlist_dir"] / "shortlist.json")
@@ -228,11 +335,12 @@ def update_news_cache_step(run_id: str | None = None) -> dict[str, Any]:
 def run_analysis_step(
     run_id: str | None = None,
     *,
+    region: str | None = None,
     max_news: int = 15,
     force: bool = False,
     analysis_mode: str = "hybrid",
 ) -> dict[str, Any]:
-    manifest = _load_manifest(run_id)
+    manifest = _load_manifest(run_id, region=region)
     paths = get_paths()
     layout = _ensure_layout(paths.daily_run_dir(manifest["run_id"]))
     shortlist = read_json(layout["shortlist_dir"] / "shortlist.json")
@@ -326,8 +434,6 @@ def run_analysis_step(
         top_n=15,
     )
     layout["best_candidates_path"].write_text(best_candidates, encoding="utf-8")
-    project_readme = render_project_readme(manifest, shortlist, results, best_candidates_top_n=15)
-    (paths.root / "README.md").write_text(project_readme, encoding="utf-8")
 
     summary = {
         "ok": all(not report.get("analysis_error") for report in results),
@@ -342,8 +448,14 @@ def run_analysis_step(
     return summary
 
 
-def run_codex_analysis_step(run_id: str | None = None, *, max_news: int = 15, force: bool = False) -> dict[str, Any]:
-    return run_analysis_step(run_id, max_news=max_news, force=force, analysis_mode="codex-full")
+def run_codex_analysis_step(
+    run_id: str | None = None,
+    *,
+    region: str | None = None,
+    max_news: int = 15,
+    force: bool = False,
+) -> dict[str, Any]:
+    return run_analysis_step(run_id, region=region, max_news=max_news, force=force, analysis_mode="codex-full")
 
 
 def _write_run_summary(
@@ -369,20 +481,30 @@ def _write_run_summary(
     return summary
 
 
-def fetch_feeds_command(*, base_url: str, force: bool) -> int:
-    manifest = fetch_feeds(base_url, force=force)
-    print(json.dumps({"ok": True, "run_id": manifest["run_id"], "feeds": len(manifest["feeds"])}, indent=2))
+def fetch_feeds_command(*, base_url: str, force: bool, region: str | None) -> int:
+    manifest = fetch_feeds(base_url, force=force, region=region)
+    print(
+        json.dumps(
+            {
+                "ok": True,
+                "run_id": manifest["run_id"],
+                "region": manifest.get("region"),
+                "feeds": len(manifest["feeds"]),
+            },
+            indent=2,
+        )
+    )
     return 0
 
 
-def parse_feeds_command(*, run_id: str | None) -> int:
-    summary = parse_feeds(run_id)
+def parse_feeds_command(*, run_id: str | None, region: str | None) -> int:
+    summary = parse_feeds(run_id, region=region)
     print(json.dumps(summary, indent=2))
     return 0
 
 
-def build_shortlist_command(*, run_id: str | None, extra_candidates: int) -> int:
-    shortlist = build_shortlist_step(run_id, extra_candidates=extra_candidates)
+def build_shortlist_command(*, run_id: str | None, region: str | None, extra_candidates: int) -> int:
+    shortlist = build_shortlist_step(run_id, region=region, extra_candidates=extra_candidates)
     print(
         json.dumps(
             {
@@ -398,28 +520,51 @@ def build_shortlist_command(*, run_id: str | None, extra_candidates: int) -> int
     return 0
 
 
-def update_news_cache_command(*, run_id: str | None) -> int:
-    summary = update_news_cache_step(run_id)
+def update_news_cache_command(*, run_id: str | None, region: str | None) -> int:
+    summary = update_news_cache_step(run_id, region=region)
     print(json.dumps(summary, indent=2))
     return 0 if summary.get("ok", False) else 1
 
 
-def run_analysis_command(*, run_id: str | None, max_news: int, force: bool, analysis_mode: str) -> int:
-    summary = run_analysis_step(run_id, max_news=max_news, force=force, analysis_mode=analysis_mode)
+def run_analysis_command(*, run_id: str | None, region: str | None, max_news: int, force: bool, analysis_mode: str) -> int:
+    summary = run_analysis_step(run_id, region=region, max_news=max_news, force=force, analysis_mode=analysis_mode)
     print(json.dumps(summary, indent=2))
     return 0
 
 
-def run_codex_analysis_command(*, run_id: str | None, max_news: int, force: bool, analysis_mode: str = "codex-full") -> int:
-    return run_analysis_command(run_id=run_id, max_news=max_news, force=force, analysis_mode=analysis_mode)
+def run_codex_analysis_command(
+    *,
+    run_id: str | None,
+    region: str | None,
+    max_news: int,
+    force: bool,
+    analysis_mode: str = "codex-full",
+) -> int:
+    return run_analysis_command(
+        run_id=run_id,
+        region=region,
+        max_news=max_news,
+        force=force,
+        analysis_mode=analysis_mode,
+    )
 
 
-def daily_run_command(*, base_url: str, force: bool, extra_candidates: int, max_news: int, analysis_mode: str = "hybrid") -> int:
+def daily_run_command(
+    *,
+    base_url: str,
+    force: bool,
+    region: str | None,
+    extra_candidates: int,
+    max_news: int,
+    analysis_mode: str = "hybrid",
+) -> int:
     paths = get_paths()
     paths.ensure_base_dirs()
+    normalized_region = normalize_region(region)
 
-    manifest = fetch_feeds(base_url, force=force)
-    previous = read_json(paths.last_manifest_path) if paths.last_manifest_path.exists() else {}
+    manifest = fetch_feeds(base_url, force=force, region=normalized_region)
+    last_manifest_path = paths.last_manifest_path_for_region(normalized_region)
+    previous = read_json(last_manifest_path) if last_manifest_path.exists() else {}
     if (
         not force
         and previous.get("manifest_hash") == manifest["manifest_hash"]
@@ -439,11 +584,12 @@ def daily_run_command(*, base_url: str, force: bool, extra_candidates: int, max_
         )
         return 0
 
-    parse_feeds(manifest["run_id"])
-    shortlist = build_shortlist_step(manifest["run_id"], extra_candidates=extra_candidates)
-    news_summary = update_news_cache_step(manifest["run_id"])
+    parse_feeds(manifest["run_id"], region=normalized_region)
+    shortlist = build_shortlist_step(manifest["run_id"], region=normalized_region, extra_candidates=extra_candidates)
+    news_summary = update_news_cache_step(manifest["run_id"], region=normalized_region)
     analysis_summary = run_analysis_step(
         manifest["run_id"],
+        region=normalized_region,
         max_news=max_news,
         force=force,
         analysis_mode=analysis_mode,
@@ -454,14 +600,15 @@ def daily_run_command(*, base_url: str, force: bool, extra_candidates: int, max_
         news_summary=news_summary,
         analysis_summary=analysis_summary,
     )
-    _sync_latest_outputs(manifest["run_id"])
+    _sync_latest_outputs(manifest["run_id"], region=normalized_region)
     write_json(
-        paths.last_manifest_path,
+        last_manifest_path,
         {
             "run_id": manifest["run_id"],
             "manifest_hash": manifest["manifest_hash"],
             "status": "ok" if run_summary.get("ok") else "failed",
             "completed_at_utc": _now_utc(),
+            "region": manifest.get("region"),
             "feeds": manifest["feeds"],
             "feed_dates": manifest["feed_dates"],
         },

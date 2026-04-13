@@ -1,4 +1,4 @@
-from stock_news.render import render_analysis_markdown
+from stock_news.render import render_analysis_markdown, render_regional_project_readme
 
 
 def test_render_analysis_markdown_includes_sections() -> None:
@@ -39,3 +39,51 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "constructive" in markdown
     assert "## Why This Score" in markdown
     assert "## Market Overlay" in markdown
+
+
+def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
+    sections = [
+        {
+            "region": "EU",
+            "report_prefix": "eu/analysis/markdown",
+            "manifest": {"run_id": "2026-04-13_eu_deadbeef", "feed_dates": ["2026-04-13"]},
+            "shortlist": {
+                "symbols": [
+                    {
+                        "symbol": "AKVA",
+                        "company_name": "Akva Group",
+                        "selection_bucket": "entry_ready",
+                        "display_rank": 1,
+                    }
+                ]
+            },
+            "analysis_rows": [
+                {"symbol": "AKVA", "breakout_stance": {"label": "constructive_bullish", "score_0_to_100": 81, "confidence": "high"}}
+            ],
+        },
+        {
+            "region": "US",
+            "report_prefix": "us/analysis/markdown",
+            "manifest": {"run_id": "2026-04-13_us_cafebabe", "feed_dates": ["2026-04-13"]},
+            "shortlist": {
+                "symbols": [
+                    {
+                        "symbol": "SPIR",
+                        "company_name": "Spire Global Inc",
+                        "selection_bucket": "candidate",
+                        "display_rank": 1,
+                    }
+                ]
+            },
+            "analysis_rows": [
+                {"symbol": "SPIR", "breakout_stance": {"label": "mixed_watch", "score_0_to_100": 52, "confidence": "medium"}}
+            ],
+        },
+    ]
+
+    markdown = render_regional_project_readme(sections, best_candidates_top_n=10)
+
+    assert "## EU Best Scoring Candidates" in markdown
+    assert "## US Best Scoring Candidates" in markdown
+    assert "[AKVA](latest/eu/analysis/markdown/AKVA.md)" in markdown
+    assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in markdown

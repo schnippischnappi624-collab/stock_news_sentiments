@@ -31,6 +31,13 @@ Run the full workflow:
 poetry run stock-news daily-run
 ```
 
+Run only one region, for separate scheduled pipelines:
+
+```bash
+poetry run stock-news daily-run --region EU
+poetry run stock-news daily-run --region US
+```
+
 Individual steps:
 
 ```bash
@@ -41,6 +48,8 @@ poetry run stock-news update-news-cache
 poetry run stock-news run-analysis
 poetry run stock-news run-codex-analysis
 ```
+
+Each step also accepts `--region EU` or `--region US` when you want to work against the region-specific active manifest.
 
 Analysis mode options:
 
@@ -59,12 +68,12 @@ Historical daily runs are written under:
 
 Stable latest outputs are refreshed under:
 
-- `latest/feeds`
-- `latest/parsed`
-- `latest/shortlist`
-- `latest/analysis`
+- `latest/eu/*`
+- `latest/us/*`
 - `latest/dashboard.md`
 - `latest/best_candidates.md`
+
+The root `latest/dashboard.md`, root `latest/best_candidates.md`, and root `README.md` are combined regional landing pages. They render separate EU and US tables from the newest available regional snapshots.
 
 Reusable news caches live under:
 
@@ -81,16 +90,31 @@ The wrapper script for scheduled execution and GitHub push is:
 stock_news/scripts/run_daily_and_push.sh
 ```
 
+For separate pipelines:
+
+```bash
+stock_news/scripts/run_daily_and_push.sh EU
+stock_news/scripts/run_daily_and_push.sh US
+```
+
 An idempotent cron installer is also included:
 
 ```bash
 stock_news/scripts/install_daily_cron.sh
 ```
 
-Suggested cron entry for the default schedule from the implementation plan:
+Or install region-specific jobs:
+
+```bash
+stock_news/scripts/install_daily_cron.sh EU
+stock_news/scripts/install_daily_cron.sh US
+```
+
+Suggested cron entries for separate pipelines:
 
 ```cron
-15 11 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash stock_news/scripts/run_daily_and_push.sh
+15 11 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash stock_news/scripts/run_daily_and_push.sh EU
+25 11 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash stock_news/scripts/run_daily_and_push.sh US
 ```
 
 ## Notes
@@ -102,3 +126,4 @@ Suggested cron entry for the default schedule from the implementation plan:
 - Legacy `codex-full` mode still uses `schemas/breakout_analysis.schema.json`.
 - If the newest remote feed set has already been processed successfully, `daily-run` exits early without regenerating artifacts.
 - The push wrapper commits generated changes in `artifacts`, `latest`, `news`, and the generated root `README.md`.
+- If only one region has run so far, the combined landing pages show that region and leave the other region empty until its pipeline produces a snapshot.
