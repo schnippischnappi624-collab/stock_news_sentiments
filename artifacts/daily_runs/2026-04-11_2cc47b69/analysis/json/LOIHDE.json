@@ -15,6 +15,12 @@
     }
   ],
   "company_name": "Loihde Oyj",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.85,
+    "quality": "good",
+    "stock_articles": 4
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 1,
@@ -323,6 +329,8 @@
         "provider": "yfinance",
         "sector": "Technology"
       },
+      "effective_adverse_effect_count": 1,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -334,20 +342,75 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 0.85
     },
     "news": {
-      "article_count": 0,
+      "article_count": 4,
       "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Revenue per share of Loihde Oyj \u2013 LSX:A3C5G5 - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZE4zWUQwbzZaZmRjR1h6N3pYVjZiekd1anpmZ2VPUklwbXFPT0dhWmlOWVduYnpKb1dOZjUySmRxbm1aWjRQNDl1alktR25JLUFLYUVmZWpfRVoxcWlxb3hOczFYdUVaejVETzN2dHdSUzBucEJHV3RvZUhsNzV4T2VZdlJMMUlmczNXa2oxenVKbzQ0cjUzZXBTMWlQUVE?oc=5\" target=\"_blank\">Revenue per share of Loihde Oyj \u2013 LSX:A3C5G5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZE4zWUQwbzZaZmRjR1h6N3pYVjZiekd1anpmZ2VPUklwbXFPT0dhWmlOWVduYnpKb1dOZjUySmRxbm1aWjRQNDl1alktR25JLUFLYUVmZWpfRVoxcWlxb3hOczFYdUVaejVETzN2dHdSUzBucEJHV3RvZUhsNzV4T2VZdlJMMUlmczNXa2oxenVKbzQ0cjUzZXBTMWlQUVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-25",
+          "headline": "Loihde Plc: Managers\u2019 Transactions \u2013 Teutari - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1gxakNHeEFaWjVRcmt0UEd0TUdmd3BuMEFfd3BjWGlqS1poR05XcjNlbGFKdnFLTVRBVUhWeml2d0NEcUxSMlNMRThyRExCV1RUWms2UXJDUkVhSDhxWERlV29EMHBjZGZxaUxrWjdTeEtvOW1LRnRjbFlKUHVvcFNuNGhOUGJXWm5GMEk2T08yLVVyQjNKVGNTM1k?oc=5\" target=\"_blank\">Loihde Plc: Managers\u2019 Transactions \u2013 Teutari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1gxakNHeEFaWjVRcmt0UEd0TUdmd3BuMEFfd3BjWGlqS1poR05XcjNlbGFKdnFLTVRBVUhWeml2d0NEcUxSMlNMRThyRExCV1RUWms2UXJDUkVhSDhxWERlV29EMHBjZGZxaUxrWjdTeEtvOW1LRnRjbFlKUHVvcFNuNGhOUGJXWm5GMEk2T08yLVVyQjNKVGNTM1k?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-24",
+          "headline": "Loihde Plc conducts a directed share issue to deliver the savings shares that are part of its Employee Share Savings Plan (ESSP) - STT Info",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "STT Info",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1zc0szZHo1VEVySEkyUG5HalUySlhQVWRKcll2MGU2WFJKQlNwTXZpNnB3RWxHeHUydW1PNTI5eThnNkNtbXhnbnc1NlBneXhwdTh5anZrZFZwSnA3WUZfZERfcW1Qc0FzUTBoOVNQTHVJaVh1TGdyTjJrVWkzQQ?oc=5\" target=\"_blank\">Loihde Plc conducts a directed share issue to deliver the savings shares that are part of its Employee Share Savings Plan (ESSP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STT Info</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zc0szZHo1VEVySEkyUG5HalUySlhQVWRKcll2MGU2WFJKQlNwTXZpNnB3RWxHeHUydW1PNTI5eThnNkNtbXhnbnc1NlBneXhwdTh5anZrZFZwSnA3WUZfZERfcW1Qc0FzUTBoOVNQTHVJaVh1TGdyTjJrVWkzQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-24",
+          "headline": "Loihde\u2019s Annual Report for 2025 has been published - STT Info",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "STT Info",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5UeXlVZ0NWbnJBZkkxMUg1aGNSMElmYzMwNmJTZlpGVWNGU3Nuc2pHeXB6TVlUd1JvdVFMYS1Xc25ySnA5cnNFMm9HRjdNTVhHczhrWnJaRmYzMUgyQ0JVSnFZVXdNV1NKVVdiazdibmUwNWpUaWJHeU1INk1PZw?oc=5\" target=\"_blank\">Loihde\u2019s Annual Report for 2025 has been published</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STT Info</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UeXlVZ0NWbnJBZkkxMUg1aGNSMElmYzMwNmJTZlpGVWNGU3Nuc2pHeXB6TVlUd1JvdVFMYS1Xc25ySnA5cnNFMm9HRjdNTVhHczhrWnJaRmYzMUgyQ0JVSnFZVXdNV1NKVVdiazdibmUwNWpUaWJHeU1INk1PZw?oc=5"
+        }
+      ],
+      "coverage_quality": "good",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 3,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 0.307426152933791,
@@ -367,15 +430,18 @@
   },
   "market_overlay": {
     "adverse_effects": 1,
+    "effective_adverse_effects": 1,
+    "effective_supportive_effects": 0,
     "exposures": [
       "software"
     ],
     "industry": "Software - Infrastructure",
     "sector": "Technology",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 0.85
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 4 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is good. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.85 macro weight because company-specific coverage is good.",
     "stance": "mixed"
   },
   "recent_weakness": [
@@ -448,7 +514,7 @@
         "value": 11.89
       },
       {
-        "label": "Adverse market / sector theme overlay",
+        "label": "Adverse market / sector theme overlay (downweighted because company-specific coverage is limited)",
         "points": -2,
         "value": 1
       }
@@ -466,11 +532,35 @@
     },
     {
       "published_at": "2026-04-13",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "Revenue per share of Loihde Oyj \u2013 LSX:A3C5G5 - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZE4zWUQwbzZaZmRjR1h6N3pYVjZiekd1anpmZ2VPUklwbXFPT0dhWmlOWVduYnpKb1dOZjUySmRxbm1aWjRQNDl1alktR25JLUFLYUVmZWpfRVoxcWlxb3hOczFYdUVaejVETzN2dHdSUzBucEJHV3RvZUhsNzV4T2VZdlJMMUlmczNXa2oxenVKbzQ0cjUzZXBTMWlQUVE?oc=5"
+    },
+    {
+      "published_at": "2026-03-25",
+      "publisher": "marketscreener.com",
+      "title": "Loihde Plc: Managers\u2019 Transactions \u2013 Teutari - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1gxakNHeEFaWjVRcmt0UEd0TUdmd3BuMEFfd3BjWGlqS1poR05XcjNlbGFKdnFLTVRBVUhWeml2d0NEcUxSMlNMRThyRExCV1RUWms2UXJDUkVhSDhxWERlV29EMHBjZGZxaUxrWjdTeEtvOW1LRnRjbFlKUHVvcFNuNGhOUGJXWm5GMEk2T08yLVVyQjNKVGNTM1k?oc=5"
+    },
+    {
+      "published_at": "2026-03-24",
+      "publisher": "STT Info",
+      "title": "Loihde Plc conducts a directed share issue to deliver the savings shares that are part of its Employee Share Savings Plan (ESSP) - STT Info",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zc0szZHo1VEVySEkyUG5HalUySlhQVWRKcll2MGU2WFJKQlNwTXZpNnB3RWxHeHUydW1PNTI5eThnNkNtbXhnbnc1NlBneXhwdTh5anZrZFZwSnA3WUZfZERfcW1Qc0FzUTBoOVNQTHVJaVh1TGdyTjJrVWkzQQ?oc=5"
+    },
+    {
+      "published_at": "2026-03-24",
+      "publisher": "STT Info",
+      "title": "Loihde\u2019s Annual Report for 2025 has been published - STT Info",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UeXlVZ0NWbnJBZkkxMUg1aGNSMElmYzMwNmJTZlpGVWNGU3Nuc2pHeXB6TVlUd1JvdVFMYS1Xc25ySnA5cnNFMm9HRjdNTVhHczhrWnJaRmYzMUgyQ0JVSnFZVXdNV1NKVVdiazdibmUwNWpUaWJHeU1INk1PZw?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
       "publisher": "google_business",
       "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
     }
   ],
-  "summary": "LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.",
+  "summary": "LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.",
   "symbol": "LOIHDE"
 }

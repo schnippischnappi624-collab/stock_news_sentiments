@@ -22,11 +22,27 @@ def test_render_analysis_markdown_includes_sections() -> None:
         "news_support": {"stance": "supportive", "explanation": "Recent headlines are improving."},
         "breakout_stance": {"label": "constructive", "score_0_to_100": 72, "confidence": "medium", "thesis": "The setup is improving."},
         "scorecard": {"components": [{"label": "Breakout above prior high", "points": 8}]},
+        "coverage": {"quality": "good", "stock_articles": 3, "market_articles": 12, "market_overlay_weight": 0.85},
         "evidence": {
-            "news": {"article_count": 3, "positive_signal_count": 2, "negative_signal_count": 1, "catalyst_signal_count": 1},
+            "news": {
+                "article_count": 3,
+                "coverage_quality": "good",
+                "positive_signal_count": 2,
+                "negative_signal_count": 1,
+                "catalyst_signal_count": 1,
+            },
             "market": {"article_count": 12},
         },
-        "market_overlay": {"sector": "Technology", "industry": "Software", "exposures": ["software"], "supportive_effects": 1, "adverse_effects": 0},
+        "market_overlay": {
+            "sector": "Technology",
+            "industry": "Software",
+            "exposures": ["software"],
+            "supportive_effects": 1,
+            "adverse_effects": 0,
+            "effective_supportive_effects": 1,
+            "effective_adverse_effects": 0,
+            "weight_scale": 0.85,
+        },
         "sources": [{"title": "Example", "url": "https://example.com", "published_at": "2026-04-11"}],
     }
 
@@ -39,6 +55,8 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "constructive" in markdown
     assert "## Why This Score" in markdown
     assert "## Market Overlay" in markdown
+    assert "Stock-news coverage quality" in markdown
+    assert "Macro overlay weight used in scoring" in markdown
 
 
 def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:

@@ -19,21 +19,21 @@ Quick links:
 
 | Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [NEWCAP](latest/analysis/markdown/NEWCAP.md) | Newcap Holding A/S | entry_ready | 80 | medium | constructive_bullish |
-| 2 | [0QMG](latest/analysis/markdown/0QMG.md) | Swiss Life Holding AG | entry_ready | 77 | medium | constructive_bullish |
-| 3 | [ALNT](latest/analysis/markdown/ALNT.md) | Alantra Partners S.A. | entry_ready | 77 | medium | constructive_bullish |
-| 4 | [ARVOSK](latest/analysis/markdown/ARVOSK.md) | Pohjanmaan Arvo Sijoitusosuuskunta | entry_ready | 77 | medium | constructive_bullish |
-| 5 | [ALNSE](latest/analysis/markdown/ALNSE.md) | NSE SA | entry_ready | 76 | medium | constructive_bullish |
-| 6 | [ALRIB](latest/analysis/markdown/ALRIB.md) | Riber S.A | entry_ready | 76 | medium | constructive_bullish |
-| 7 | [LOYAL](latest/analysis/markdown/LOYAL.md) | Loyal Solutions AS | entry_ready | 76 | medium | constructive_bullish |
-| 8 | [0AA9](latest/analysis/markdown/0AA9.md) | Storskogen Group AB Series B | entry_ready | 75 | medium | constructive_bullish |
-| 9 | [BOHO-PREF](latest/analysis/markdown/BOHO-PREF.md) | Boho Group AB | entry_ready | 75 | medium | constructive_bullish |
-| 10 | [QH9](latest/analysis/markdown/QH9.md) | ADTRAN Holdings Inc. | entry_ready | 75 | medium | constructive_bullish |
-| 11 | [KREATE](latest/analysis/markdown/KREATE.md) | Kreate Group Oyj | entry_ready | 72 | high | constructive_watch |
-| 12 | [LOUP](latest/analysis/markdown/LOUP.md) | Societe LDC SA | entry_ready | 72 | high | constructive_watch |
-| 13 | [LOIHDE](latest/analysis/markdown/LOIHDE.md) | Loihde Oyj | entry_ready | 70 | medium | constructive_watch |
-| 14 | [0DNW](latest/analysis/markdown/0DNW.md) | Austevoll Seafood ASA | entry_ready | 69 | high | constructive_watch |
-| 15 | [AKVA](latest/analysis/markdown/AKVA.md) | Akva Group | entry_ready | 69 | high | constructive_watch |
+| 1 | [ALRIB](latest/analysis/markdown/ALRIB.md) | Riber S.A | entry_ready | 87 | high | constructive_bullish |
+| 2 | [QH9](latest/analysis/markdown/QH9.md) | ADTRAN Holdings Inc. | entry_ready | 83 | high | constructive_bullish |
+| 3 | [ALNSE](latest/analysis/markdown/ALNSE.md) | NSE SA | entry_ready | 82 | high | constructive_bullish |
+| 4 | [NEWCAP](latest/analysis/markdown/NEWCAP.md) | Newcap Holding A/S | entry_ready | 80 | medium | constructive_bullish |
+| 5 | [ALNT](latest/analysis/markdown/ALNT.md) | Alantra Partners S.A. | entry_ready | 79 | medium | constructive_bullish |
+| 6 | [LOYAL](latest/analysis/markdown/LOYAL.md) | Loyal Solutions AS | entry_ready | 78 | low | constructive_bullish |
+| 7 | [0QMG](latest/analysis/markdown/0QMG.md) | Swiss Life Holding AG | entry_ready | 77 | medium | constructive_bullish |
+| 8 | [AKVA](latest/analysis/markdown/AKVA.md) | Akva Group | entry_ready | 77 | high | constructive_bullish |
+| 9 | [ARVOSK](latest/analysis/markdown/ARVOSK.md) | Pohjanmaan Arvo Sijoitusosuuskunta | entry_ready | 77 | medium | constructive_bullish |
+| 10 | [0AA9](latest/analysis/markdown/0AA9.md) | Storskogen Group AB Series B | entry_ready | 75 | low | constructive_bullish |
+| 11 | [BOHO-PREF](latest/analysis/markdown/BOHO-PREF.md) | Boho Group AB | entry_ready | 75 | high | constructive_bullish |
+| 12 | [RIO1](latest/analysis/markdown/RIO1.md) | Rio Tinto Group | entry_ready | 75 | high | constructive_bullish |
+| 13 | [LOUP](latest/analysis/markdown/LOUP.md) | Societe LDC SA | entry_ready | 74 | low | constructive_watch |
+| 14 | [KREATE](latest/analysis/markdown/KREATE.md) | Kreate Group Oyj | entry_ready | 72 | high | constructive_watch |
+| 15 | [LOIHDE](latest/analysis/markdown/LOIHDE.md) | Loihde Oyj | entry_ready | 70 | medium | constructive_watch |
 
 ## US Best Scoring Candidates
 
@@ -43,12 +43,12 @@ Quick links:
 
 | Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SPIR](latest/analysis/markdown/SPIR.md) | Spire Global Inc | entry_ready | 72 | high | constructive_watch |
-| 2 | [TIMB](latest/analysis/markdown/TIMB.md) | TIM Participacoes SA | candidate | 58 | medium | mixed_watch |
-| 3 | [MRVL](latest/analysis/markdown/MRVL.md) | Marvell Technology Group Ltd | candidate | 53 | medium | mixed_watch |
-| 4 | [AXIA](latest/analysis/markdown/AXIA.md) | AXIA Energia | candidate | 53 | medium | mixed_watch |
-| 5 | [FRT](latest/analysis/markdown/FRT.md) | Federal Realty Investment Trust | candidate | 52 | high | mixed_watch |
-| 6 | [LION](latest/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | candidate | 52 | medium | mixed_watch |
+| 1 | [SPIR](latest/analysis/markdown/SPIR.md) | Spire Global Inc | entry_ready | 66 | high | constructive_watch |
+| 2 | [FRT](latest/analysis/markdown/FRT.md) | Federal Realty Investment Trust | candidate | 63 | high | constructive_watch |
+| 3 | [MRVL](latest/analysis/markdown/MRVL.md) | Marvell Technology Group Ltd | candidate | 61 | high | constructive_watch |
+| 4 | [AXIA](latest/analysis/markdown/AXIA.md) | AXIA Energia | candidate | 57 | high | mixed_watch |
+| 5 | [LION](latest/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | candidate | 52 | low | mixed_watch |
+| 6 | [TIMB](latest/analysis/markdown/TIMB.md) | TIM Participacoes SA | candidate | 50 | high | mixed_watch |
 
 ## Column Guide
 

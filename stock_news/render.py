@@ -189,6 +189,7 @@ def _dashboard_section_lines(
 def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> str:
     stance = report.get("breakout_stance", {}) or {}
     news_support = report.get("news_support", {}) or {}
+    coverage = report.get("coverage", {}) or {}
     metrics = item.get("metrics", {}) or {}
     scorecard = report.get("scorecard", {}) or {}
     evidence = report.get("evidence", {}) or {}
@@ -268,10 +269,15 @@ def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> st
         [
             "",
             "## Coverage",
+            f"- Stock-news coverage quality: `{coverage.get('quality', news_evidence.get('coverage_quality', 'n/a'))}`",
             f"- Stock-specific articles scored: `{news_evidence.get('article_count', 0)}`",
             f"- Market headlines scanned: `{market_evidence.get('article_count', 0)}`",
         ]
     )
+
+    market_weight = coverage.get("market_overlay_weight", market_overlay.get("weight_scale"))
+    if market_weight is not None:
+        lines.append(f"- Macro overlay weight used in scoring: `{market_weight}`")
 
     if show_market_overlay:
         lines.extend(
@@ -279,10 +285,17 @@ def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> st
                 "",
                 "## Market Overlay",
                 f"- Exposures: `{', '.join(market_overlay.get('exposures', [])) or 'none'}`",
-                f"- Supportive macro effects: `{market_overlay.get('supportive_effects', 0)}`",
-                f"- Adverse macro effects: `{market_overlay.get('adverse_effects', 0)}`",
+                f"- Matched supportive macro effects: `{market_overlay.get('supportive_effects', 0)}`",
+                f"- Matched adverse macro effects: `{market_overlay.get('adverse_effects', 0)}`",
             ]
         )
+        if market_overlay.get("effective_supportive_effects") is not None or market_overlay.get("effective_adverse_effects") is not None:
+            lines.extend(
+                [
+                    f"- Effective supportive effects after coverage weighting: `{market_overlay.get('effective_supportive_effects', 0)}`",
+                    f"- Effective adverse effects after coverage weighting: `{market_overlay.get('effective_adverse_effects', 0)}`",
+                ]
+            )
 
     lines.extend(
         [

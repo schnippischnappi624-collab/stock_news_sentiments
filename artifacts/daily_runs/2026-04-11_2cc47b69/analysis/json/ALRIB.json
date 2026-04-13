@@ -3,18 +3,32 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
-    "score_0_to_100": 76,
+    "score_0_to_100": 87,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 6.15 and attract follow-through volume."
+      "point": "2026-04-13: Riber continues to rally on strong earnings and breakthrough technology - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-08: Riber delivers strong earnings growth in 2025 - Compound Semiconductor Magazine."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-08: ALRIB: Profitability surged in 2025, driven by ROSIE's launch and strong photonics market positioning - TradingView \u2014 Track All Markets."
     }
   ],
   "company_name": "Riber S.A",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 11
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 1,
@@ -324,6 +338,8 @@
         "provider": "yfinance",
         "sector": "Technology"
       },
+      "effective_adverse_effect_count": 1,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -335,20 +351,190 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 11,
+      "catalyst_signal_count": 6,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-13",
+          "headline": "Riber continues to rally on strong earnings and breakthrough technology - marketscreener.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.08333333333333333,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVl2SFZFMW9GdGwzSUFmN0xqMS16OHNEa0Y4ZXE2M1ljdGRFRHloMWpXNjIxSUcxVUkzV1ptX2U2VFN3R1YwVk9VYTROZlR2T2ZrZnQzSWxaSVVuSTJJdmhpZmxkYWZvaU1LMzd5SUtKQmV4TVZlMkNFN3lVcWstOXFGX0tMN3Q0bGpWSTJOUkxQbFlTXzd0NmNDS1oxQWpHSVlyUlEzM3NWSDliTUZoS3R5Q05PeTZVRFFhbHcySTdDUQ?oc=5\" target=\"_blank\">Riber continues to rally on strong earnings and breakthrough technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVl2SFZFMW9GdGwzSUFmN0xqMS16OHNEa0Y4ZXE2M1ljdGRFRHloMWpXNjIxSUcxVUkzV1ptX2U2VFN3R1YwVk9VYTROZlR2T2ZrZnQzSWxaSVVuSTJJdmhpZmxkYWZvaU1LMzd5SUtKQmV4TVZlMkNFN3lVcWstOXFGX0tMN3Q0bGpWSTJOUkxQbFlTXzd0NmNDS1oxQWpHSVlyUlEzM3NWSDliTUZoS3R5Q05PeTZVRFFhbHcySTdDUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Riber (ALRIB.PA) up 29.64% on heavy volume at EURONEXT after hours: what to watch 08 Apr 2026 - Meyka",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Meyka",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdLQjlDaldxVy1KM2JkdW5TdFBqbWlER3Y1dFRRZlR3MEdXRWNHWkI3R1NfaDVhSkJjb1JESmxIXzl2d3k0N1E1amw1RVZjVF8yMG5kd3RFNFJNemFFZXBkZHZNMXpWOUYxb0VYTmN3NVVPYmdEX3VCYnMyYThTZzFib3pmb2dROElrSlg1dVhxYjB4NzZFLUQxMHVabktWUG54a3VKeFdEVTk5ZklnSkR0Z0tYX2s?oc=5\" target=\"_blank\">Riber (ALRIB.PA) up 29.64% on heavy volume at EURONEXT after hours: what to watch 08 Apr 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdLQjlDaldxVy1KM2JkdW5TdFBqbWlER3Y1dFRRZlR3MEdXRWNHWkI3R1NfaDVhSkJjb1JESmxIXzl2d3k0N1E1amw1RVZjVF8yMG5kd3RFNFJNemFFZXBkZHZNMXpWOUYxb0VYTmN3NVVPYmdEX3VCYnMyYThTZzFib3pmb2dROElrSlg1dVhxYjB4NzZFLUQxMHVabktWUG54a3VKeFdEVTk5ZklnSkR0Z0tYX2s?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-08",
+          "headline": "Riber delivers strong earnings growth in 2025 - Compound Semiconductor Magazine",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.18181818181818182,
+          "source": "Compound Semiconductor Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1BlRVhMMEVSY2pfMDlfd0lnMTI0RGlEVTd0TjZOTDJEckV3UmxRbVh2b2ZSOWlaeDNHRmFqY1YtcURvV2w2aHI2Ry1qd0NqMExyRW50ckJfODVFU1FsVlY5d18wVTFuWm82S2hFaUdoN3hHZ2dTYWUtLTBWWHBkRnhxa196RFZRRTVGSEVkdENVNWRZVWZCcG1n?oc=5\" target=\"_blank\">Riber delivers strong earnings growth in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Compound Semiconductor Magazine</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1BlRVhMMEVSY2pfMDlfd0lnMTI0RGlEVTd0TjZOTDJEckV3UmxRbVh2b2ZSOWlaeDNHRmFqY1YtcURvV2w2aHI2Ry1qd0NqMExyRW50ckJfODVFU1FsVlY5d18wVTFuWm82S2hFaUdoN3hHZ2dTYWUtLTBWWHBkRnhxa196RFZRRTVGSEVkdENVNWRZVWZCcG1n?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-08",
+          "headline": "ALRIB: Profitability surged in 2025, driven by ROSIE's launch and strong photonics market positioning - TradingView \u2014 Track All Markets",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "product"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQci1FUVZGYm9paFBVbXF3cC1SWlZXR2xyWnZUci1LSHZyMHdUb19ER0xDLVVtWkYxUGhoRVdNSzZNdDlJWVZib3dqTXZlYzg4alFDdTByT2lySXNBaTJkWndrTlFFaEhLVnBNTVlEd29xYzUyblloczJ6TDdGQ2xTeDllN1NsYy1fZVJzeURuT0FUUXhZWmNXNi1OMVF2TG9tcTFicHVnQjhDcWxndXZXcnNHQlExTTUzRGc2bWNlajMxZGxBQUt6bUE0YU9walNORXQ2WHJEQkdIMkZfeWl5Y1htMHFLTXBxVUhVQUFVeG42NFNFTDZIUlJMV3hmVmh2ODFlMDFRcmVEc3dkcHEw?oc=5\" target=\"_blank\">ALRIB: Profitability surged in 2025, driven by ROSIE's launch and strong photonics market positioning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQci1FUVZGYm9paFBVbXF3cC1SWlZXR2xyWnZUci1LSHZyMHdUb19ER0xDLVVtWkYxUGhoRVdNSzZNdDlJWVZib3dqTXZlYzg4alFDdTByT2lySXNBaTJkWndrTlFFaEhLVnBNTVlEd29xYzUyblloczJ6TDdGQ2xTeDllN1NsYy1fZVJzeURuT0FUUXhZWmNXNi1OMVF2TG9tcTFicHVnQjhDcWxndXZXcnNHQlExTTUzRGc2bWNlajMxZGxBQUt6bUE0YU9walNORXQ2WHJEQkdIMkZfeWl5Y1htMHFLTXBxVUhVQUFVeG42NFNFTDZIUlJMV3hmVmh2ODFlMDFRcmVEc3dkcHEw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-08",
+          "headline": "Riber reports improved annual results - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzJkUmpyUkpuRnp0NjBOSnVqYm5rVWx3VmY2OHl2bTRsQ1lrcDk2R1lMa2tyUVdYY1ZNMUVRQmRLaWtDZTloR19WQUhUNnpnWkc1SFQyM3hjQXF4SzVaSGFMekpET1NsZHpMd3BTMkRUSUpxdi00VWlpWmRZekFIT1Y2eWxITGZmUnpmVHpTaWxwZ09i?oc=5\" target=\"_blank\">Riber reports improved annual results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzJkUmpyUkpuRnp0NjBOSnVqYm5rVWx3VmY2OHl2bTRsQ1lrcDk2R1lMa2tyUVdYY1ZNMUVRQmRLaWtDZTloR19WQUhUNnpnWkc1SFQyM3hjQXF4SzVaSGFMekpET1NsZHpMd3BTMkRUSUpxdi00VWlpWmRZekFIT1Y2eWxITGZmUnpmVHpTaWxwZ09i?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-08",
+          "headline": "ALRIB: Net income up 27% and strong order growth signal robust prospects for 2026 - TradingView \u2014 Track All Markets",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial",
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.1,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGlmR0YxdEZNTjc0TlZ2MFhqaW1WN3I3LXg3eVJHSEQzc3ZYYUxJUnM0WVhWUTVBM01tVlZSQ0M4dnlUNS0yZDZTRUZVMU5TT2s5bG03UlhvbEJCWUR4OWl3bEp3RlpYQ2xDUWhwcmtrRy1HbHo1YnQ3bkpXQl8waUhpeEVyOC05RkJBSnJDNVNDM2FVRkp1dWlwaW4zTWVoWl8xZjNUNVB3dEhPdDAxX2FDaHEzNFFEMlRqLW9nd190WmZDbTZqMDYzM0cxTTN2M1RNbU1aU3Nkbld5STFidXBHazZDazZicGNfNkVfUml3TzZF?oc=5\" target=\"_blank\">ALRIB: Net income up 27% and strong order growth signal robust prospects for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGlmR0YxdEZNTjc0TlZ2MFhqaW1WN3I3LXg3eVJHSEQzc3ZYYUxJUnM0WVhWUTVBM01tVlZSQ0M4dnlUNS0yZDZTRUZVMU5TT2s5bG03UlhvbEJCWUR4OWl3bEp3RlpYQ2xDUWhwcmtrRy1HbHo1YnQ3bkpXQl8waUhpeEVyOC05RkJBSnJDNVNDM2FVRkp1dWlwaW4zTWVoWl8xZjNUNVB3dEhPdDAxX2FDaHEzNFFEMlRqLW9nd190WmZDbTZqMDYzM0cxTTN2M1RNbU1aU3Nkbld5STFidXBHazZDazZicGNfNkVfUml3TzZF?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Riber S.A. Proposes Cash Distribution for the Year Ended December 31, 2025, Payable on June 24, 2026 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnBFUmdwYk5haTVYWnVRQmtSNnF1SjhyTHl4MEZBTnAta3BUMVJ4M016MkRYTkVTWFZYcnkyM0p4eDhQZzgzUm5rVHRCQnJITDQ3RnNkbUhLLTZTbFR0UVF1M2dKQ3BULVRmb1o1TEhrQ3dpYnVPNHhYUi1MYlU4eHJqeEtfanFfMC0xaHJvWG5IX0NYQ0JkaTJJTWpBZ2xYbTJvM3RxeU5mM1c3ZDBQdWtYTXRmTWtRN3lDVG93eFRjemtPWGNfbHlXeGczc0YtMzlmYzFRU1pNbDBPSUsyMkFybw?oc=5\" target=\"_blank\">Riber S.A. Proposes Cash Distribution for the Year Ended December 31, 2025, Payable on June 24, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnBFUmdwYk5haTVYWnVRQmtSNnF1SjhyTHl4MEZBTnAta3BUMVJ4M016MkRYTkVTWFZYcnkyM0p4eDhQZzgzUm5rVHRCQnJITDQ3RnNkbUhLLTZTbFR0UVF1M2dKQ3BULVRmb1o1TEhrQ3dpYnVPNHhYUi1MYlU4eHJqeEtfanFfMC0xaHJvWG5IX0NYQ0JkaTJJTWpBZ2xYbTJvM3RxeU5mM1c3ZDBQdWtYTXRmTWtRN3lDVG93eFRjemtPWGNfbHlXeGczc0YtMzlmYzFRU1pNbDBPSUsyMkFybw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-08",
+          "headline": "RIBER delivers strong earnings growth in 2025 - GlobeNewswire",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.2222222222222222,
+          "source": "GlobeNewswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWJoRWpzM21HNTNNRThrWjAzZ1pMMjZiWTczLWdGa2kyOTBPZnR3eFVkczZtbVlyU1ZEOVhSMDdMZDVGU1NycVZtTmxoa0xiU3pOeWZJNWJkZVhEdkgwbE9nT0N3TmFtSVNWT2FMOW1qeFhGNlBRN0kyUVdWMW5kQl8wSHczQ3RCU3JIWHlaSHdvbjJEeGNTUzNEZUpxU0JzczJrRTVrdGZyRkU0ZENKeldvczI3OUds?oc=5\" target=\"_blank\">RIBER delivers strong earnings growth in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWJoRWpzM21HNTNNRThrWjAzZ1pMMjZiWTczLWdGa2kyOTBPZnR3eFVkczZtbVlyU1ZEOVhSMDdMZDVGU1NycVZtTmxoa0xiU3pOeWZJNWJkZVhEdkgwbE9nT0N3TmFtSVNWT2FMOW1qeFhGNlBRN0kyUVdWMW5kQl8wSHczQ3RCU3JIWHlaSHdvbjJEeGNTUzNEZUpxU0JzczJrRTVrdGZyRkU0ZENKeldvczI3OUds?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-01",
+          "headline": "Riber SA Financial Disclosures & Filings - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9lOF9UQ2VXbnRFdUlrQl9fSHdVXzZFNTVVMzlxX2M4bXpfTy0tT0FnUHNTQkZ4dVNQczB3UXZramxXaFYyRUIzSmx4TFdyb25idklONGk3bHNXYUNDN0hLTmdNcjBpNGxyRXhZR0RR?oc=5\" target=\"_blank\">Riber SA Financial Disclosures & Filings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lOF9UQ2VXbnRFdUlrQl9fSHdVXzZFNTVVMzlxX2M4bXpfTy0tT0FnUHNTQkZ4dVNQczB3UXZramxXaFYyRUIzSmx4TFdyb25idklONGk3bHNXYUNDN0hLTmdNcjBpNGxyRXhZR0RR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-21",
+          "headline": "Press release: The Best of Evie Riber is set for March 28th - LINK nky",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "LINK nky",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVWWFJ6ak1CWEI3bDVRaVlCRGZXZ0ZKNUl3YW45V0MzMnZwOGVjMjNwaDJBVnBVdGo3VHJCRDhkZEFmb2ZtYlppRDJ3d1RLb2hzN1BRU1MyM0RqMDI3ckM1MDZjS3pFZ2puVlBfVjlCVlNDYjY5WGJrdC1FQUdveThDWmltc2J4Ym5yb2RFRFV6QVB5ZDA5c2swUUNJMHZnakJ6SkU4akE?oc=5\" target=\"_blank\">Press release: The Best of Evie Riber is set for March 28th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINK nky</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVVWWFJ6ak1CWEI3bDVRaVlCRGZXZ0ZKNUl3YW45V0MzMnZwOGVjMjNwaDJBVnBVdGo3VHJCRDhkZEFmb2ZtYlppRDJ3d1RLb2hzN1BRU1MyM0RqMDI3ckM1MDZjS3pFZ2puVlBfVjlCVlNDYjY5WGJrdC1FQUdveThDWmltc2J4Ym5yb2RFRFV6QVB5ZDA5c2swUUNJMHZnakJ6SkU4akE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-19",
+          "headline": "Best Real Estate Agent in Jacksonville, FL: Jeff Riber - newswire.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "newswire.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVpYbnhSakRBVW05WkhyM19sM3U4bExzRHZKZ2JjWVJmcW4wT1BHLUJSUDhpOTI5T0h2elhLaks2Q1pZMGxPc2ZzeFJHX25vTXhxU1RtUFRRMi0zOEZ6NlZXSVhNZ25veFVMbmpnXzBPWG4yNDVDYU9OMXlEUC1peXRmNFhLZkFuOXc?oc=5\" target=\"_blank\">Best Real Estate Agent in Jacksonville, FL: Jeff Riber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newswire.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVpYbnhSakRBVW05WkhyM19sM3U4bExzRHZKZ2JjWVJmcW4wT1BHLUJSUDhpOTI5T0h2elhLaks2Q1pZMGxPc2ZzeFJHX25vTXhxU1RtUFRRMi0zOEZ6NlZXSVhNZ25veFVMbmpnXzBPWG4yNDVDYU9OMXlEUC1peXRmNFhLZkFuOXc?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 5
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 5,
+      "delta": 0.054160654160654166,
+      "prior_mean": 0.0,
+      "recent_mean": 0.054160654160654166
     },
     "technical": {
       "atr14": 0.45068073485364,
@@ -368,17 +554,20 @@
   },
   "market_overlay": {
     "adverse_effects": 1,
+    "effective_adverse_effects": 1,
+    "effective_supportive_effects": 0,
     "exposures": [
       "semiconductors",
       "software"
     ],
     "industry": "Semiconductor Equipment & Materials",
     "sector": "Technology",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.",
-    "stance": "mixed"
+    "explanation": "Python classified 11 stock-specific articles into 5 constructive, 0 adverse, and 6 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
   },
   "recent_weakness": [
     {
@@ -402,6 +591,10 @@
     {
       "confidence": "high",
       "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-13: Riber continues to rally on strong earnings and breakthrough technology - marketscreener.com."
     }
   ],
   "risks": [
@@ -450,14 +643,24 @@
         "value": 68.23
       },
       {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 5
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -2,
         "value": 1
+      },
+      {
+        "label": "Headline sentiment is improving",
+        "points": 3,
+        "value": 0.054
       }
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
-    "score_0_to_100": 76
+    "score_0_to_100": 87
   },
   "sources": [
     {
@@ -468,11 +671,47 @@
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "publisher": "marketscreener.com",
+      "title": "Riber continues to rally on strong earnings and breakthrough technology - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVl2SFZFMW9GdGwzSUFmN0xqMS16OHNEa0Y4ZXE2M1ljdGRFRHloMWpXNjIxSUcxVUkzV1ptX2U2VFN3R1YwVk9VYTROZlR2T2ZrZnQzSWxaSVVuSTJJdmhpZmxkYWZvaU1LMzd5SUtKQmV4TVZlMkNFN3lVcWstOXFGX0tMN3Q0bGpWSTJOUkxQbFlTXzd0NmNDS1oxQWpHSVlyUlEzM3NWSDliTUZoS3R5Q05PeTZVRFFhbHcySTdDUQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "Meyka",
+      "title": "Riber (ALRIB.PA) up 29.64% on heavy volume at EURONEXT after hours: what to watch 08 Apr 2026 - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdLQjlDaldxVy1KM2JkdW5TdFBqbWlER3Y1dFRRZlR3MEdXRWNHWkI3R1NfaDVhSkJjb1JESmxIXzl2d3k0N1E1amw1RVZjVF8yMG5kd3RFNFJNemFFZXBkZHZNMXpWOUYxb0VYTmN3NVVPYmdEX3VCYnMyYThTZzFib3pmb2dROElrSlg1dVhxYjB4NzZFLUQxMHVabktWUG54a3VKeFdEVTk5ZklnSkR0Z0tYX2s?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "Compound Semiconductor Magazine",
+      "title": "Riber delivers strong earnings growth in 2025 - Compound Semiconductor Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1BlRVhMMEVSY2pfMDlfd0lnMTI0RGlEVTd0TjZOTDJEckV3UmxRbVh2b2ZSOWlaeDNHRmFqY1YtcURvV2w2aHI2Ry1qd0NqMExyRW50ckJfODVFU1FsVlY5d18wVTFuWm82S2hFaUdoN3hHZ2dTYWUtLTBWWHBkRnhxa196RFZRRTVGSEVkdENVNWRZVWZCcG1n?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "ALRIB: Profitability surged in 2025, driven by ROSIE's launch and strong photonics market positioning - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQci1FUVZGYm9paFBVbXF3cC1SWlZXR2xyWnZUci1LSHZyMHdUb19ER0xDLVVtWkYxUGhoRVdNSzZNdDlJWVZib3dqTXZlYzg4alFDdTByT2lySXNBaTJkWndrTlFFaEhLVnBNTVlEd29xYzUyblloczJ6TDdGQ2xTeDllN1NsYy1fZVJzeURuT0FUUXhZWmNXNi1OMVF2TG9tcTFicHVnQjhDcWxndXZXcnNHQlExTTUzRGc2bWNlajMxZGxBQUt6bUE0YU9walNORXQ2WHJEQkdIMkZfeWl5Y1htMHFLTXBxVUhVQUFVeG42NFNFTDZIUlJMV3hmVmh2ODFlMDFRcmVEc3dkcHEw?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "marketscreener.com",
+      "title": "Riber reports improved annual results - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzJkUmpyUkpuRnp0NjBOSnVqYm5rVWx3VmY2OHl2bTRsQ1lrcDk2R1lMa2tyUVdYY1ZNMUVRQmRLaWtDZTloR19WQUhUNnpnWkc1SFQyM3hjQXF4SzVaSGFMekpET1NsZHpMd3BTMkRUSUpxdi00VWlpWmRZekFIT1Y2eWxITGZmUnpmVHpTaWxwZ09i?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "ALRIB: Net income up 27% and strong order growth signal robust prospects for 2026 - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGlmR0YxdEZNTjc0TlZ2MFhqaW1WN3I3LXg3eVJHSEQzc3ZYYUxJUnM0WVhWUTVBM01tVlZSQ0M4dnlUNS0yZDZTRUZVMU5TT2s5bG03UlhvbEJCWUR4OWl3bEp3RlpYQ2xDUWhwcmtrRy1HbHo1YnQ3bkpXQl8waUhpeEVyOC05RkJBSnJDNVNDM2FVRkp1dWlwaW4zTWVoWl8xZjNUNVB3dEhPdDAxX2FDaHEzNFFEMlRqLW9nd190WmZDbTZqMDYzM0cxTTN2M1RNbU1aU3Nkbld5STFidXBHazZDazZicGNfNkVfUml3TzZF?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "marketscreener.com",
+      "title": "Riber S.A. Proposes Cash Distribution for the Year Ended December 31, 2025, Payable on June 24, 2026 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnBFUmdwYk5haTVYWnVRQmtSNnF1SjhyTHl4MEZBTnAta3BUMVJ4M016MkRYTkVTWFZYcnkyM0p4eDhQZzgzUm5rVHRCQnJITDQ3RnNkbUhLLTZTbFR0UVF1M2dKQ3BULVRmb1o1TEhrQ3dpYnVPNHhYUi1MYlU4eHJqeEtfanFfMC0xaHJvWG5IX0NYQ0JkaTJJTWpBZ2xYbTJvM3RxeU5mM1c3ZDBQdWtYTXRmTWtRN3lDVG93eFRjemtPWGNfbHlXeGczc0YtMzlmYzFRU1pNbDBPSUsyMkFybw?oc=5"
     }
   ],
-  "summary": "ALRIB scores 76/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.",
+  "summary": "ALRIB scores 87/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.",
   "symbol": "ALRIB"
 }

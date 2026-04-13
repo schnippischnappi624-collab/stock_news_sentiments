@@ -3,18 +3,24 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "high",
     "label": "mixed_watch",
-    "score_0_to_100": 58,
+    "score_0_to_100": 50,
     "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 27.64 and attract follow-through volume."
+      "point": "2026-03-26: TIM S.A. (NYSE: TIMB) IR officer exits direct stake after 22,368-share sale - Stock Titan."
     }
   ],
   "company_name": "TIM Participacoes SA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 13
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 0,
@@ -311,21 +317,199 @@
         "provider": "yfinance",
         "sector": "Communication Services"
       },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
-      "negative_signal_count": 0,
+      "article_count": 13,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-07",
+          "headline": "TIM S.A. (TIMB) director Greco Camillo files initial Form 3 with no trades - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHRTTXhjRS1ueHBwTHRvbW1IM3VJa3BtcDNwcXVtSXdOTFNmanZTVUJFZExzSzFJLUZJN3B4LTdxYXU3OHB5VGdXMjRlbHhzd2djZGt6TjVSMnFQTklhcGhFMzB2b1NCdXdQa21mamlnc1FLcm9OOUpxOUtrNVNCeFM2OVRGYWQzcDZabnpFbUtjbmhUZ2t3Q3loQjJEY1poMjNPU2EzaGxobGZ6OHhsLThQQ0t4X0JJNVE?oc=5\" target=\"_blank\">TIM S.A. (TIMB) director Greco Camillo files initial Form 3 with no trades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHRTTXhjRS1ueHBwTHRvbW1IM3VJa3BtcDNwcXVtSXdOTFNmanZTVUJFZExzSzFJLUZJN3B4LTdxYXU3OHB5VGdXMjRlbHhzd2djZGt6TjVSMnFQTklhcGhFMzB2b1NCdXdQa21mamlnc1FLcm9OOUpxOUtrNVNCeFM2OVRGYWQzcDZabnpFbUtjbmhUZ2t3Q3loQjJEY1poMjNPU2EzaGxobGZ6OHhsLThQQ0t4X0JJNVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-31",
+          "headline": "TIM S.A. (TIMB) legal officer Fabiane Reschke resigns - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlBxZUFQQTdJS2w0SzFXNmxJM1AzdnhKMTZKTUxPMWhVLW1RWkpGSkdoWko1eGtWbU5pUjRyX1FxNnlSOGFXOFBOWUtKX0E3dVVReW9qdWRvN1U5OW5jYjZYTTJyYjIza1lSaHJTNlRZcEdrNnlnMGswQlRQdTl6QzZXa2FLRi1UMm1rUl90WnlRTUZhcVRuQ3BzSDNPNVBWMGE3ZUFR?oc=5\" target=\"_blank\">TIM S.A. (TIMB) legal officer Fabiane Reschke resigns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlBxZUFQQTdJS2w0SzFXNmxJM1AzdnhKMTZKTUxPMWhVLW1RWkpGSkdoWko1eGtWbU5pUjRyX1FxNnlSOGFXOFBOWUtKX0E3dVVReW9qdWRvN1U5OW5jYjZYTTJyYjIza1lSaHJTNlRZcEdrNnlnMGswQlRQdTl6QzZXa2FLRi1UMm1rUl90WnlRTUZhcVRuQ3BzSDNPNVBWMGE3ZUFR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-30",
+          "headline": "[IRANNOTICE] TIM S.A. SEC Filing - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTRjZWNwQklia0NaVURyc2NyUDZnWWxoOGdxZzUzbTFmMm5PMUoya09DVVA2cnBZTnNUYUFPT0JycDhMZjduaVJ4SHFWdE5wWFRoLTZHVkVBa0Fkbm5BY3VKa1g0ZmY0U2hzeVN3MzBWLTBUb0lpenFKeFE1UFhIbmhzRllLSXlxWVFoemZPaUpibURuR0E?oc=5\" target=\"_blank\">[IRANNOTICE] TIM S.A. SEC Filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTRjZWNwQklia0NaVURyc2NyUDZnWWxoOGdxZzUzbTFmMm5PMUoya09DVVA2cnBZTnNUYUFPT0JycDhMZjduaVJ4SHFWdE5wWFRoLTZHVkVBa0Fkbm5BY3VKa1g0ZmY0U2hzeVN3MzBWLTBUb0lpenFKeFE1UFhIbmhzRllLSXlxWVFoemZPaUpibURuR0E?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-03-26",
+          "headline": "TIM S.A. (NYSE: TIMB) IR officer exits direct stake after 22,368-share sale - Stock Titan",
+          "kind": "negative",
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhfSldOSGZpNk1RYUllWGdQUC05aUtpOW85LWU3dkRZbDRuU01FSmRscEhlR2toTzNzeHNFaGFzbHlSVHA4OTZ3LVFBcFJseUp4ckVuQXhBeU5YckMwcFgyeExpekNhazdWc3hnRTRoa1ZRNmFUWDlNZ0JUdEk2Q1BuUDNEdGZ0b1VkMFJzQXhEMXd5M0ZHSU15WWwzNUFiYmVj?oc=5\" target=\"_blank\">TIM S.A. (NYSE: TIMB) IR officer exits direct stake after 22,368-share sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhfSldOSGZpNk1RYUllWGdQUC05aUtpOW85LWU3dkRZbDRuU01FSmRscEhlR2toTzNzeHNFaGFzbHlSVHA4OTZ3LVFBcFJseUp4ckVuQXhBeU5YckMwcFgyeExpekNhazdWc3hnRTRoa1ZRNmFUWDlNZ0JUdEk2Q1BuUDNEdGZ0b1VkMFJzQXhEMXd5M0ZHSU15WWwzNUFiYmVj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-23",
+          "headline": "TIM S.A. (NYSE: TIMB) notes parent Telecom Italia public offer discussions - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjZCMjFJblB3VUppeFJkcV9xVW1ycnd3ZVR1NktZTk11V1JDclRrY0NoZ2pvZHNWVDJrem9DbkZubDVwcVpEWXc5dzBZNE5Id1hMVTFUUWRYeW5GaTYwc0tHLTBTYUdhSmNWOEx0UlJ3UExTMnVjcjVWN3RUcFl1Q0hDSEhRT0t4RG5ob1FxT2FjcmM4a2NEaEJDQkdyVWNnOXQzSnV3?oc=5\" target=\"_blank\">TIM S.A. (NYSE: TIMB) notes parent Telecom Italia public offer discussions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjZCMjFJblB3VUppeFJkcV9xVW1ycnd3ZVR1NktZTk11V1JDclRrY0NoZ2pvZHNWVDJrem9DbkZubDVwcVpEWXc5dzBZNE5Id1hMVTFUUWRYeW5GaTYwc0tHLTBTYUdhSmNWOEx0UlJ3UExTMnVjcjVWN3RUcFl1Q0hDSEhRT0t4RG5ob1FxT2FjcmM4a2NEaEJDQkdyVWNnOXQzSnV3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "New TIM S.A. (NYSE: TIMB) director submits initial Form 3 ownership - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1KT1ZMNURUNjh4NktjS3FFWi1nNEdLUldPU3hETEN1djMtdUQwcTd5Z1FLNWlNTnRXVi1rMmRUNzJNVmx5ZV8wWFl2RV8zb1g0SlJOb3ZJVzlmZjczZ3FWdm1UX1VSRkN1ZVVMTHpGWkJraW1yMmhWT21ZdlZBMWNxbzlfSkFIeFJ1M1RSaDZXaXptYzFNN2FKWHdCelZIVWE1eUV4ZDc0QVZHRFJ0NFFaaUY4QkxfSHc?oc=5\" target=\"_blank\">New TIM S.A. (NYSE: TIMB) director submits initial Form 3 ownership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1KT1ZMNURUNjh4NktjS3FFWi1nNEdLUldPU3hETEN1djMtdUQwcTd5Z1FLNWlNTnRXVi1rMmRUNzJNVmx5ZV8wWFl2RV8zb1g0SlJOb3ZJVzlmZjczZ3FWdm1UX1VSRkN1ZVVMTHpGWkJraW1yMmhWT21ZdlZBMWNxbzlfSkFIeFJ1M1RSaDZXaXptYzFNN2FKWHdCelZIVWE1eUV4ZDc0QVZHRFJ0NFFaaUY4QkxfSHc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "[Form 3] TIM S.A. Initial Statement of Beneficial Ownership - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVY0WllSeHhOMllMME5vSURMOEEwOUdRZEJTVmtvZDZNcG9SWkdTZTQxa21HWWVNWGNvOG5tVW5WMU5WQlZXWU9WRDZZeVFvdm9HczF6T2c4TVFHVERENTREY2wxc0lXRG1iYktub0l6MlBsWkxlbXBVSVRDZjlVanJWOUF5a2FUOEtEQnhNSWRpTW9QR3RSSldFbktWVnJHYUQ1OFkxMGRMSWwxaFVBZDFCN3R0SkRySHc?oc=5\" target=\"_blank\">[Form 3] TIM S.A. Initial Statement of Beneficial Ownership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVY0WllSeHhOMllMME5vSURMOEEwOUdRZEJTVmtvZDZNcG9SWkdTZTQxa21HWWVNWGNvOG5tVW5WMU5WQlZXWU9WRDZZeVFvdm9HczF6T2c4TVFHVERENTREY2wxc0lXRG1iYktub0l6MlBsWkxlbXBVSVRDZjlVanJWOUF5a2FUOEtEQnhNSWRpTW9QR3RSSldFbktWVnJHYUQ1OFkxMGRMSWwxaFVBZDFCN3R0SkRySHc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "TIM S.A. (TIMB) director Flavia Bittencourt files initial Form 3 report - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnNBSWVwQzhPSDQ5c09GZFV3ME1VYTFyT2xtd3R2MGl2OUNWX1lLSmFsVjJBRlhvemo1bEVnY2hweG0zMkJHSGN3NXRtLXY1d0wyT2hWdzlyV2lEMUthamNNQWJZUEg2c25LbmNaTkVWakRKMFVVSktzaHNORi1DVmV1V0M0cXNjVHY0Vk8zUWc5Q081M01aamF1Q1hKOFF6blR6SGNZMThnWFZ2dXdnTzNER1BkTnlQUEE?oc=5\" target=\"_blank\">TIM S.A. (TIMB) director Flavia Bittencourt files initial Form 3 report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnNBSWVwQzhPSDQ5c09GZFV3ME1VYTFyT2xtd3R2MGl2OUNWX1lLSmFsVjJBRlhvemo1bEVnY2hweG0zMkJHSGN3NXRtLXY1d0wyT2hWdzlyV2lEMUthamNNQWJZUEg2c25LbmNaTkVWakRKMFVVSktzaHNORi1DVmV1V0M0cXNjVHY0Vk8zUWc5Q081M01aamF1Q1hKOFF6blR6SGNZMThnWFZ2dXdnTzNER1BkTnlQUEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "TIM S.A. (NYSE: TIMB) VP B2B Fabio De Moura Costa files Form 3 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmhVUEViQjYxOVlPVGw3MjJRTUtDbU53THFNVTM2dzVFVWlTWnVVaHdVQnJtUzgtZWRTYTZtT1ZLcDVKYVVBcnVHR25KUFFCcG1qb3hXeVUwVW5LZ1oyLU82UEdBcVFiQy01YXBsTWdUQU9lRHc1THZPQ0tzZ3hURVJQbWc0T3ljbk9XSEcxTTdQNlR2ZUtHVjZjUFFNY3BvMnhVR2xIZzktOVViUi1PeUhmdE1zeVR3QlE?oc=5\" target=\"_blank\">TIM S.A. (NYSE: TIMB) VP B2B Fabio De Moura Costa files Form 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmhVUEViQjYxOVlPVGw3MjJRTUtDbU53THFNVTM2dzVFVWlTWnVVaHdVQnJtUzgtZWRTYTZtT1ZLcDVKYVVBcnVHR25KUFFCcG1qb3hXeVUwVW5LZ1oyLU82UEdBcVFiQy01YXBsTWdUQU9lRHc1THZPQ0tzZ3hURVJQbWc0T3ljbk9XSEcxTTdQNlR2ZUtHVjZjUFFNY3BvMnhVR2xIZzktOVViUi1PeUhmdE1zeVR3QlE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "TIM S.A. (NYSE: TIMB) director Leonardo de Carvalho Capdeville files Form 3 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUhXTnZHUURkRHB1X2JoTDVpaWQ1eFdpQnJqcUdDU0tjSUlsbjBKVTlqNzk1c01LMHdiT0lKclVFY1JOREozdGdCWXNFVWZLSzZWUUNtS1RKYUZZQTZ5UUhjYURPOXA2VjlVOGplZmViSkdtNnR5dG5UUlF1V2JFaVRXNDlJTW9rZTdSS3JGaEx1eFpQTkZTbmFOZVpHVWxlcG03ZmFwa2pfNmgwTmZTdG1rWmdMWmhsR0E?oc=5\" target=\"_blank\">TIM S.A. (NYSE: TIMB) director Leonardo de Carvalho Capdeville files Form 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUhXTnZHUURkRHB1X2JoTDVpaWQ1eFdpQnJqcUdDU0tjSUlsbjBKVTlqNzk1c01LMHdiT0lKclVFY1JOREozdGdCWXNFVWZLSzZWUUNtS1RKYUZZQTZ5UUhjYURPOXA2VjlVOGplZmViSkdtNnR5dG5UUlF1V2JFaVRXNDlJTW9rZTdSS3JGaEx1eFpQTkZTbmFOZVpHVWxlcG03ZmFwa2pfNmgwTmZTdG1rWmdMWmhsR0E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "TIM S.A. (TIMB) director records insider status with Form 3 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmYxVGJWZTcyek05NE84ejFQYTMyamdNa2pqd0JjU2xwYTZ6TWdTZXRIR25oaHVxSWxxNklZWk81NG5TM3pGcmxUQ0NpNlBDenlGQVhoRXhDdFJCcThZWHFoa2UzWmV2VDFDNUprdjlzLXFsYl93bEJ3Q19PdHg5YWRMX1JIaGFPT2lFbUo5VFQyMlpaa3ljV0h2c2ppcE9WZkZuTXo4bWdXVjh0eW0tT2FabElLQm9SNXc?oc=5\" target=\"_blank\">TIM S.A. (TIMB) director records insider status with Form 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmYxVGJWZTcyek05NE84ejFQYTMyamdNa2pqd0JjU2xwYTZ6TWdTZXRIR25oaHVxSWxxNklZWk81NG5TM3pGcmxUQ0NpNlBDenlGQVhoRXhDdFJCcThZWHFoa2UzWmV2VDFDNUprdjlzLXFsYl93bEJ3Q19PdHg5YWRMX1JIaGFPT2lFbUo5VFQyMlpaa3ljV0h2c2ppcE9WZkZuTXo4bWdXVjh0eW0tT2FabElLQm9SNXc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "TIM S.A. (TIMB) officer Formica Piero submits initial Form 3 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTRLRUNiN2ZfUndFMWE1T05LN1BwMTBvZlBxRTkwSURYVFI5dnN1X29XZWxIeWdGcjVwT3pDSUg3TlV0QXlsTGRzcmQ5VWxVNEh3M1F2RzF4NWhBODBOckdhUXBjQ0ZoZ0RUX1kzTFBGUzhPQ2dNYjM0b3ZJOUlmQVFkTG02QjNsaGZBM3NkR1piNzVXdTJGc19nYlVpTG82aGZnYXhDRXdydFFJM2RtdzB5VUR5S2dQeVE?oc=5\" target=\"_blank\">TIM S.A. (TIMB) officer Formica Piero submits initial Form 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTRLRUNiN2ZfUndFMWE1T05LN1BwMTBvZlBxRTkwSURYVFI5dnN1X29XZWxIeWdGcjVwT3pDSUg3TlV0QXlsTGRzcmQ5VWxVNEh3M1F2RzF4NWhBODBOckdhUXBjQ0ZoZ0RUX1kzTFBGUzhPQ2dNYjM0b3ZJOUlmQVFkTG02QjNsaGZBM3NkR1piNzVXdTJGc19nYlVpTG82aGZnYXhDRXdydFFJM2RtdzB5VUR5S2dQeVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-18",
+          "headline": "TIM S.A. (NYSE: TIMB) VP named as reporting insider in Form 3 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUC1JZlBGRWk2U2J1SkZMQVgzS2xSYzc0NllkRjB5Sm1Hci03c180RFZHYlVhbFBKOG1MTDlHNTVGUGZqSXotLWZzbWc1UlhwLVZYOEpXekdLWTJlLTNsd2FGSkdmV3phSkNSTjQzbVdJYXB2SEdnczBqWVBfSEVDNk9Xdi14ZTlnajZ0Qk5BRklDTGxYSElLbkJDejNnT2dPcy1EZ1Z2QWNpWU92OWpCaDA4R29vdVVKT3c?oc=5\" target=\"_blank\">TIM S.A. (NYSE: TIMB) VP named as reporting insider in Form 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUC1JZlBGRWk2U2J1SkZMQVgzS2xSYzc0NllkRjB5Sm1Hci03c180RFZHYlVhbFBKOG1MTDlHNTVGUGZqSXotLWZzbWc1UlhwLVZYOEpXekdLWTJlLTNsd2FGSkdmV3phSkNSTjQzbVdJYXB2SEdnczBqWVBfSEVDNk9Xdi14ZTlnajZ0Qk5BRklDTGxYSElLbkJDejNnT2dPcy1EZ1Z2QWNpWU92OWpCaDA4R29vdVVKT3c?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 1,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 6,
+      "delta": 0.0,
+      "prior_mean": 0.0,
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 0.7470327154956,
@@ -345,19 +529,22 @@
   },
   "market_overlay": {
     "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
     "exposures": [],
     "industry": "Telecom Services",
     "sector": "Communication Services",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 13 stock-specific articles into 0 constructive, 1 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "mixed"
   },
   "recent_weakness": [
     {
-      "confidence": "low",
-      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+      "confidence": "medium",
+      "point": "2026-03-26: TIM S.A. (NYSE: TIMB) IR officer exits direct stake after 22,368-share sale - Stock Titan."
     }
   ],
   "recovery_signals": [
@@ -382,6 +569,10 @@
     {
       "confidence": "high",
       "point": "A close back below 27.64 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "high",
+      "point": "Dilution or share-supply risk remains relevant: 2026-03-26: TIM S.A. (NYSE: TIMB) IR officer exits direct stake after 22,368-share sale - Stock Titan."
     }
   ],
   "scorecard": {
@@ -418,11 +609,20 @@
         "label": "Price is above EMA200",
         "points": 3,
         "value": 25.46
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -2,
+        "value": 1
+      },
+      {
+        "label": "Dilution or share-supply overhang detected",
+        "points": -6
       }
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "label": "mixed_watch",
-    "score_0_to_100": 58
+    "score_0_to_100": 50
   },
   "sources": [
     {
@@ -430,8 +630,50 @@
       "publisher": "stock.sdc-fried.de",
       "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-04-07",
+      "publisher": "Stock Titan",
+      "title": "TIM S.A. (TIMB) director Greco Camillo files initial Form 3 with no trades - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHRTTXhjRS1ueHBwTHRvbW1IM3VJa3BtcDNwcXVtSXdOTFNmanZTVUJFZExzSzFJLUZJN3B4LTdxYXU3OHB5VGdXMjRlbHhzd2djZGt6TjVSMnFQTklhcGhFMzB2b1NCdXdQa21mamlnc1FLcm9OOUpxOUtrNVNCeFM2OVRGYWQzcDZabnpFbUtjbmhUZ2t3Q3loQjJEY1poMjNPU2EzaGxobGZ6OHhsLThQQ0t4X0JJNVE?oc=5"
+    },
+    {
+      "published_at": "2026-03-31",
+      "publisher": "Stock Titan",
+      "title": "TIM S.A. (TIMB) legal officer Fabiane Reschke resigns - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlBxZUFQQTdJS2w0SzFXNmxJM1AzdnhKMTZKTUxPMWhVLW1RWkpGSkdoWko1eGtWbU5pUjRyX1FxNnlSOGFXOFBOWUtKX0E3dVVReW9qdWRvN1U5OW5jYjZYTTJyYjIza1lSaHJTNlRZcEdrNnlnMGswQlRQdTl6QzZXa2FLRi1UMm1rUl90WnlRTUZhcVRuQ3BzSDNPNVBWMGE3ZUFR?oc=5"
+    },
+    {
+      "published_at": "2026-03-30",
+      "publisher": "Stock Titan",
+      "title": "[IRANNOTICE] TIM S.A. SEC Filing - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTRjZWNwQklia0NaVURyc2NyUDZnWWxoOGdxZzUzbTFmMm5PMUoya09DVVA2cnBZTnNUYUFPT0JycDhMZjduaVJ4SHFWdE5wWFRoLTZHVkVBa0Fkbm5BY3VKa1g0ZmY0U2hzeVN3MzBWLTBUb0lpenFKeFE1UFhIbmhzRllLSXlxWVFoemZPaUpibURuR0E?oc=5"
+    },
+    {
+      "published_at": "2026-03-26",
+      "publisher": "Stock Titan",
+      "title": "TIM S.A. (NYSE: TIMB) IR officer exits direct stake after 22,368-share sale - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhfSldOSGZpNk1RYUllWGdQUC05aUtpOW85LWU3dkRZbDRuU01FSmRscEhlR2toTzNzeHNFaGFzbHlSVHA4OTZ3LVFBcFJseUp4ckVuQXhBeU5YckMwcFgyeExpekNhazdWc3hnRTRoa1ZRNmFUWDlNZ0JUdEk2Q1BuUDNEdGZ0b1VkMFJzQXhEMXd5M0ZHSU15WWwzNUFiYmVj?oc=5"
+    },
+    {
+      "published_at": "2026-03-23",
+      "publisher": "Stock Titan",
+      "title": "TIM S.A. (NYSE: TIMB) notes parent Telecom Italia public offer discussions - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjZCMjFJblB3VUppeFJkcV9xVW1ycnd3ZVR1NktZTk11V1JDclRrY0NoZ2pvZHNWVDJrem9DbkZubDVwcVpEWXc5dzBZNE5Id1hMVTFUUWRYeW5GaTYwc0tHLTBTYUdhSmNWOEx0UlJ3UExTMnVjcjVWN3RUcFl1Q0hDSEhRT0t4RG5ob1FxT2FjcmM4a2NEaEJDQkdyVWNnOXQzSnV3?oc=5"
+    },
+    {
+      "published_at": "2026-03-18",
+      "publisher": "Stock Titan",
+      "title": "New TIM S.A. (NYSE: TIMB) director submits initial Form 3 ownership - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1KT1ZMNURUNjh4NktjS3FFWi1nNEdLUldPU3hETEN1djMtdUQwcTd5Z1FLNWlNTnRXVi1rMmRUNzJNVmx5ZV8wWFl2RV8zb1g0SlJOb3ZJVzlmZjczZ3FWdm1UX1VSRkN1ZVVMTHpGWkJraW1yMmhWT21ZdlZBMWNxbzlfSkFIeFJ1M1RSaDZXaXptYzFNN2FKWHdCelZIVWE1eUV4ZDc0QVZHRFJ0NFFaaUY4QkxfSHc?oc=5"
+    },
+    {
+      "published_at": "2026-03-18",
+      "publisher": "Stock Titan",
+      "title": "[Form 3] TIM S.A. Initial Statement of Beneficial Ownership - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVY0WllSeHhOMllMME5vSURMOEEwOUdRZEJTVmtvZDZNcG9SWkdTZTQxa21HWWVNWGNvOG5tVW5WMU5WQlZXWU9WRDZZeVFvdm9HczF6T2c4TVFHVERENTREY2wxc0lXRG1iYktub0l6MlBsWkxlbXBVSVRDZjlVanJWOUF5a2FUOEtEQnhNSWRpTW9QR3RSSldFbktWVnJHYUQ1OFkxMGRMSWwxaFVBZDFCN3R0SkRySHc?oc=5"
     }
   ],
-  "summary": "TIMB scores 58/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.",
+  "summary": "TIMB scores 50/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
   "symbol": "TIMB"
 }

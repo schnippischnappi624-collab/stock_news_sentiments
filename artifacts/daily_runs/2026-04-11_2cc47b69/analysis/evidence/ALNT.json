@@ -5,7 +5,7 @@
   "breakout_stance": {
     "confidence": "medium",
     "label": "constructive_bullish",
-    "score_0_to_100": 77,
+    "score_0_to_100": 79,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
@@ -19,6 +19,12 @@
     }
   ],
   "company_name": "Alantra Partners S.A.",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.6,
+    "quality": "thin",
+    "stock_articles": 1
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 0,
@@ -329,6 +335,8 @@
         "provider": "yfinance",
         "sector": "Financial Services"
       },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 1,
       "matched_effects": [
         {
           "adverse_exposures": [],
@@ -341,20 +349,38 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 1
+      "supportive_effect_count": 1,
+      "weight_scale": 0.6
     },
     "news": {
-      "article_count": 0,
+      "article_count": 1,
       "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-27",
+          "headline": "Alantra Investment Managers sells its stake in Access Capital Partners for \u20ac115.1mn to boost its growth strategy - Alantra",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05263157894736842,
+          "source": "Alantra",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDNkcmxjMndsc2l3TDhFVEVkVVhIanRsRDR3UlB3RTd4NS1qeU5pWl83WkFZVEZJRUZJbnFFNVF2YlJOREhHRFNqZmxSb1hUVm1oX1htS192Z3hhRXpYMmpzLVRXTzJiMWgzMHRrWGZNZFEtU2NGcmpTOHNBVXdjNUdjbDYzRTVzQnBhekFYeUZidlo4NldvNEQzY2xRQjV3VHBuQzdrWWEtdjhNUHZyREtWbm52NHBOdlFqZFRzeTRxczN4ZTllQUlPOE1NV2VwR2FMWURWdw?oc=5\" target=\"_blank\">Alantra Investment Managers sells its stake in Access Capital Partners for \u20ac115.1mn to boost its growth strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alantra</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDNkcmxjMndsc2l3TDhFVEVkVVhIanRsRDR3UlB3RTd4NS1qeU5pWl83WkFZVEZJRUZJbnFFNVF2YlJOREhHRFNqZmxSb1hUVm1oX1htS192Z3hhRXpYMmpzLVRXTzJiMWgzMHRrWGZNZFEtU2NGcmpTOHNBVXdjNUdjbDYzRTVzQnBhekFYeUZidlo4NldvNEQzY2xRQjV3VHBuQzdrWWEtdjhNUHZyREtWbm52NHBOdlFqZFRzeTRxczN4ZTllQUlPOE1NV2VwR2FMWURWdw?oc=5"
+        }
+      ],
+      "coverage_quality": "thin",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 1
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 1,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": 0.05263157894736842
     },
     "technical": {
       "atr14": 0.282152355490244,
@@ -374,17 +400,20 @@
   },
   "market_overlay": {
     "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 1,
     "exposures": [
       "banks",
       "insurance"
     ],
     "industry": "Capital Markets",
     "sector": "Financial Services",
-    "supportive_effects": 1
+    "supportive_effects": 1,
+    "weight_scale": 0.6
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
-    "stance": "mixed"
+    "explanation": "Python classified 1 stock-specific articles into 1 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is thin. It matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.60 macro weight because company-specific coverage is thin.",
+    "stance": "supportive"
   },
   "recent_weakness": [
     {
@@ -411,7 +440,7 @@
     },
     {
       "confidence": "medium",
-      "point": "2026-04-13: Supportive market tailwind for this exposure set (Higher yields / hawkish rates): Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com."
+      "point": "2026-03-27: Alantra Investment Managers sells its stake in Access Capital Partners for \u20ac115.1mn to boost its growth strategy - Alantra."
     }
   ],
   "risks": [
@@ -456,14 +485,19 @@
         "value": 9.36
       },
       {
-        "label": "Supportive market / sector theme overlay",
+        "label": "Constructive local news signals",
+        "points": 2,
+        "value": 1
+      },
+      {
+        "label": "Supportive market / sector theme overlay (downweighted because company-specific coverage is limited)",
         "points": 2,
         "value": 1
       }
     ],
     "confidence": "medium",
     "label": "constructive_bullish",
-    "score_0_to_100": 77
+    "score_0_to_100": 79
   },
   "sources": [
     {
@@ -473,12 +507,18 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
     },
     {
+      "published_at": "2026-03-27",
+      "publisher": "Alantra",
+      "title": "Alantra Investment Managers sells its stake in Access Capital Partners for \u20ac115.1mn to boost its growth strategy - Alantra",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDNkcmxjMndsc2l3TDhFVEVkVVhIanRsRDR3UlB3RTd4NS1qeU5pWl83WkFZVEZJRUZJbnFFNVF2YlJOREhHRFNqZmxSb1hUVm1oX1htS192Z3hhRXpYMmpzLVRXTzJiMWgzMHRrWGZNZFEtU2NGcmpTOHNBVXdjNUdjbDYzRTVzQnBhekFYeUZidlo4NldvNEQzY2xRQjV3VHBuQzdrWWEtdjhNUHZyREtWbm52NHBOdlFqZFRzeTRxczN4ZTllQUlPOE1NV2VwR2FMWURWdw?oc=5"
+    },
+    {
       "published_at": "2026-04-13",
       "publisher": "google_business",
       "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
     }
   ],
-  "summary": "ALNT scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 1 supportive versus 0 adverse matched macro effects.",
+  "summary": "ALNT scores 79/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.",
   "symbol": "ALNT"
 }

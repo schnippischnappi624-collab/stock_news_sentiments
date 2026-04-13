@@ -3,10 +3,12 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import re
 import time
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote_plus
 
 import pandas as pd
 import requests
@@ -161,6 +163,69 @@ def _name_tokens(value: str) -> set[str]:
     return set(tokens)
 
 
+def _normalize_match_text(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", str(value or "").lower()).strip()
+
+
+def _company_name_variants(company_name: str) -> list[str]:
+    raw_name = " ".join(str(company_name or "").split()).strip()
+    if not raw_name:
+        return []
+
+    filtered_tokens = []
+    for token in raw_name.split():
+        normalized = "".join(ch for ch in token.lower() if ch.isalnum())
+        if not normalized or normalized in NAME_STOPWORDS:
+            continue
+        filtered_tokens.append(token)
+
+    variants = [raw_name]
+    filtered_name = " ".join(filtered_tokens).strip()
+    if filtered_name and filtered_name.lower() != raw_name.lower():
+        variants.append(filtered_name)
+    if len(filtered_tokens) >= 2:
+        variants.append(" ".join(filtered_tokens[:2]))
+    return _dedupe_keep_order(variants)
+
+
+def _article_matches_request(article: dict[str, Any], request: dict[str, Any]) -> bool:
+    text = _normalize_match_text(f"{article.get('headline') or ''} {article.get('summary') or ''}")
+    if not text:
+        return False
+    padded_text = f" {text} "
+
+    for variant in _company_name_variants(str(request.get("company_name") or "")):
+        normalized_variant = _normalize_match_text(variant)
+        if normalized_variant and f" {normalized_variant} " in padded_text:
+            return True
+
+    name_tokens = _name_tokens(str(request.get("company_name") or ""))
+    if name_tokens:
+        overlap = len(name_tokens.intersection(set(text.split())))
+        min_overlap = 2 if len(name_tokens) >= 3 else 1
+        if overlap >= min_overlap:
+            return True
+
+    normalized_symbol = _normalize_match_text(str(request.get("symbol") or ""))
+    if normalized_symbol and len(normalized_symbol) >= 3 and f" {normalized_symbol} " in padded_text:
+        return True
+    return False
+
+
+def _google_news_search_queries(request: dict[str, Any]) -> list[str]:
+    symbol = str(request.get("symbol") or "").strip()
+    name_variants = _company_name_variants(str(request.get("company_name") or ""))
+
+    queries: list[str] = []
+    for variant in name_variants[:2]:
+        queries.append(f"\"{variant}\"")
+        if symbol:
+            queries.append(f"\"{variant}\" \"{symbol}\"")
+    if not queries and symbol:
+        queries.append(f"\"{symbol}\" stock")
+    return _dedupe_keep_order(queries[:4])
+
+
 def _profile_has_content(profile: dict[str, Any]) -> bool:
     return any(
         str(profile.get(key) or "").strip()
@@ -293,6 +358,7 @@ def rss_fetch_news(feed_name: str, url: str) -> list[dict[str, Any]]:
         link = (item.findtext("link") or "").strip()
         description = (item.findtext("description") or "").strip()
         published = (item.findtext("pubDate") or "").strip()
+        source = (item.findtext("source") or "").strip() or feed_name
         if not title:
             continue
         entries.append(
@@ -300,12 +366,122 @@ def rss_fetch_news(feed_name: str, url: str) -> list[dict[str, Any]]:
                 "headline": title,
                 "summary": description,
                 "url": link,
-                "source": feed_name,
+                "source": source,
+                "feed_name": feed_name,
                 "provider": "rss",
                 "published_at": published,
             }
         )
     return entries
+
+
+def google_news_search_fetch(request: dict[str, Any], *, max_items_per_query: int = 10) -> list[dict[str, Any]]:
+    entries: list[dict[str, Any]] = []
+    seen: set[str] = set()
+
+    for query in _google_news_search_queries(request):
+        url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
+        items = rss_fetch_news("google_news_search", url)
+        for item in items[: int(max_items_per_query)]:
+            if not _article_matches_request(item, request):
+                continue
+            dedupe_key = str(item.get("url") or "") or str(item.get("headline") or "")
+            if not dedupe_key or dedupe_key in seen:
+                continue
+            seen.add(dedupe_key)
+            entries.append(
+                {
+                    **item,
+                    "provider": "google_news_rss",
+                    "search_query": query,
+                }
+            )
+    return entries
+
+
+def _news_records_from_items(symbol: str, from_date: str, provider_name: str, news_items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    records: list[dict[str, Any]] = []
+    min_dt = pd.Timestamp(from_date, tz="UTC")
+
+    if provider_name == "finnhub":
+        for item in news_items:
+            ts = item.get("datetime")
+            if ts is None:
+                continue
+            dt = pd.to_datetime(int(ts), unit="s", utc=True)
+            if dt < min_dt:
+                continue
+            headline = str(item.get("headline", "") or "")
+            summary = str(item.get("summary", "") or "")
+            url = str(item.get("url", "") or "")
+            signature = f"{symbol}|{provider_name}|{int(ts)}|{headline}|{url}"
+            records.append(
+                {
+                    "symbol": symbol,
+                    "datetime_utc": dt,
+                    "date": dt.normalize(),
+                    "headline": headline,
+                    "summary": summary,
+                    "url": url,
+                    "source": str(item.get("source", "finnhub") or "finnhub"),
+                    "provider": "finnhub",
+                    "sentiment": simple_sentiment(f"{headline} {summary}"),
+                    "id_hash": hashlib.sha1(signature.encode("utf-8")).hexdigest(),
+                }
+            )
+        return records
+
+    if provider_name == "yfinance":
+        for item in news_items:
+            ts = item.get("providerPublishTime")
+            if ts is None:
+                continue
+            dt = pd.to_datetime(int(ts), unit="s", utc=True)
+            if dt < min_dt:
+                continue
+            headline = str(item.get("title", "") or "")
+            url = str(item.get("link", "") or "")
+            publisher = str(item.get("publisher", "yfinance") or "yfinance")
+            signature = f"{symbol}|{provider_name}|{int(ts)}|{headline}|{url}"
+            records.append(
+                {
+                    "symbol": symbol,
+                    "datetime_utc": dt,
+                    "date": dt.normalize(),
+                    "headline": headline,
+                    "summary": "",
+                    "url": url,
+                    "source": publisher,
+                    "provider": "yfinance",
+                    "sentiment": simple_sentiment(headline),
+                    "id_hash": hashlib.sha1(signature.encode("utf-8")).hexdigest(),
+                }
+            )
+        return records
+
+    for item in news_items:
+        dt = pd.to_datetime(item.get("published_at"), utc=True, errors="coerce")
+        if pd.isna(dt) or dt < min_dt:
+            continue
+        headline = str(item.get("headline", "") or "")
+        summary = str(item.get("summary", "") or "")
+        url = str(item.get("url", "") or "")
+        signature = f"{symbol}|{provider_name}|{dt.isoformat()}|{headline}|{url}"
+        records.append(
+            {
+                "symbol": symbol,
+                "datetime_utc": dt,
+                "date": dt.normalize(),
+                "headline": headline,
+                "summary": summary,
+                "url": url,
+                "source": str(item.get("source") or "google_news_search"),
+                "provider": "google_news_rss",
+                "sentiment": simple_sentiment(f"{headline} {summary}"),
+                "id_hash": hashlib.sha1(signature.encode("utf-8")).hexdigest(),
+            }
+        )
+    return records
 
 
 def update_news_history(
@@ -320,7 +496,7 @@ def update_news_history(
     sleep_s: float = 0.05,
 ) -> dict[str, Any]:
     provider = str(provider).strip().lower()
-    if provider not in {"auto", "finnhub", "yfinance"}:
+    if provider not in {"auto", "finnhub", "yfinance", "google"}:
         provider = "auto"
 
     api_key: str | None = None
@@ -396,84 +572,37 @@ def update_news_history(
             except Exception:
                 pass
 
-        used_provider = "yfinance" if (provider == "yfinance" or api_key is None) else "finnhub"
-        error = ""
-        news_items: list[dict[str, Any]] = []
-
-        if used_provider == "finnhub":
-            try:
-                news_items = finnhub_fetch(symbol, from_date, today, api_key or "")
-            except Exception as exc:
-                error = f"finnhub:{type(exc).__name__}:{exc}"
-                if provider == "auto":
-                    try:
-                        news_items = _resolved_yfinance_news(request)
-                        used_provider = "yfinance"
-                        error = ""
-                    except Exception as fallback_exc:
-                        error = error + f" | yfinance:{type(fallback_exc).__name__}:{fallback_exc}"
-                        news_items = []
+        if provider == "finnhub":
+            provider_chain = ["finnhub"]
+        elif provider == "yfinance":
+            provider_chain = ["yfinance", "google_news_rss"]
+        elif provider == "google":
+            provider_chain = ["google_news_rss"]
         else:
-            try:
-                news_items = _resolved_yfinance_news(request)
-            except Exception as exc:
-                error = f"yfinance:{type(exc).__name__}:{exc}"
-                news_items = []
+            provider_chain = ["finnhub", "yfinance", "google_news_rss"] if api_key else ["yfinance", "google_news_rss"]
 
+        used_provider = provider_chain[0]
+        error_parts: list[str] = []
         records: list[dict[str, Any]] = []
-        min_dt = pd.Timestamp(from_date, tz="UTC")
-        if used_provider == "finnhub":
-            for item in news_items:
-                ts = item.get("datetime")
-                if ts is None:
-                    continue
-                dt = pd.to_datetime(int(ts), unit="s", utc=True)
-                if dt < min_dt:
-                    continue
-                headline = str(item.get("headline", "") or "")
-                summary = str(item.get("summary", "") or "")
-                url = str(item.get("url", "") or "")
-                signature = f"{symbol}|{int(ts)}|{headline}|{url}"
-                records.append(
-                    {
-                        "symbol": symbol,
-                        "datetime_utc": dt,
-                        "date": dt.normalize(),
-                        "headline": headline,
-                        "summary": summary,
-                        "url": url,
-                        "source": str(item.get("source", "finnhub") or "finnhub"),
-                        "provider": "finnhub",
-                        "sentiment": simple_sentiment(f"{headline} {summary}"),
-                        "id_hash": hashlib.sha1(signature.encode("utf-8")).hexdigest(),
-                    }
-                )
-        else:
-            for item in news_items:
-                ts = item.get("providerPublishTime")
-                if ts is None:
-                    continue
-                dt = pd.to_datetime(int(ts), unit="s", utc=True)
-                if dt < min_dt:
-                    continue
-                headline = str(item.get("title", "") or "")
-                url = str(item.get("link", "") or "")
-                publisher = str(item.get("publisher", "yfinance") or "yfinance")
-                signature = f"{symbol}|{int(ts)}|{headline}|{url}"
-                records.append(
-                    {
-                        "symbol": symbol,
-                        "datetime_utc": dt,
-                        "date": dt.normalize(),
-                        "headline": headline,
-                        "summary": "",
-                        "url": url,
-                        "source": publisher,
-                        "provider": "yfinance",
-                        "sentiment": simple_sentiment(headline),
-                        "id_hash": hashlib.sha1(signature.encode("utf-8")).hexdigest(),
-                    }
-                )
+
+        for provider_name in provider_chain:
+            used_provider = provider_name
+            try:
+                if provider_name == "finnhub":
+                    news_items = finnhub_fetch(symbol, from_date, today, api_key or "")
+                elif provider_name == "yfinance":
+                    news_items = _resolved_yfinance_news(request)
+                else:
+                    news_items = google_news_search_fetch(request)
+            except Exception as exc:
+                error_parts.append(f"{provider_name}:{type(exc).__name__}:{exc}")
+                continue
+
+            records = _news_records_from_items(symbol, from_date, provider_name, news_items)
+            if records:
+                break
+
+        error = " | ".join(error_parts)
 
         new_headlines = pd.DataFrame(records)
         state[symbol] = {"last_fetch_utc": now.isoformat(), "provider": used_provider}
@@ -540,7 +669,10 @@ def update_news_history(
         except Exception:
             old_headlines = pd.DataFrame()
 
-        headlines = pd.concat([old_headlines, new_headlines], ignore_index=True)
+        if old_headlines.empty:
+            headlines = new_headlines.copy()
+        else:
+            headlines = pd.concat([old_headlines, new_headlines], ignore_index=True)
         headlines["datetime_utc"] = pd.to_datetime(headlines["datetime_utc"], utc=True, errors="coerce")
         headlines["date"] = pd.to_datetime(headlines["date"], utc=True, errors="coerce").dt.normalize()
         headlines = headlines.dropna(subset=["datetime_utc", "date"]).drop_duplicates(subset=["id_hash"], keep="last")

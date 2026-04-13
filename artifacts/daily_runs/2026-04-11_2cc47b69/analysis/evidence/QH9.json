@@ -3,18 +3,28 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
-    "score_0_to_100": 75,
+    "score_0_to_100": 83,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 11.53 and attract follow-through volume."
+      "point": "2026-04-08: Adtran Holdings, Inc.: Timothy P. Santo, Acquisition of 28,252 RSUs as part of Equity Incentive Compensation. The RSUs will pay out in shares in ADTRAN Holdings, Inc. (ISIN ) on a ... - TradingView \u2014 Track All Markets."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-08: Adtran Holdings, Inc.: Thomas R. Stanton, Acquisition of 170,723 PSUs as part of Equity Incentive Compensation. The PSUs will pay out in up to 307,301.40 shares in ADTRAN Holdings, Inc. ... - marketscreener.com."
     }
   ],
   "company_name": "ADTRAN Holdings Inc.",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 0,
@@ -311,21 +321,235 @@
         "provider": "yfinance",
         "sector": null
       },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 15,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "ADTRAN (ADTN) Pushes Deeper Into AI Edge Networking Is Its Portfolio Now Better Aligned With Demand? - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2RNVk5zQk90VmNRdUZRRmJIT2tyR1lzSXJyMmxzeU9scTRTLXpWdVRwZzZKbFdna0NoelFrMWt3Y2NEMTFqUlhBOUpxMWJhNGU5MzkzcU5EdkppdFVjZ20zLTQ5amU1ZWJYUE5UWUU0MFVxNFRxUjRQNUFhckpHMEZyd3pFX0pQU3AxcXhFT2NqbkdrTXNXamozTE90YkV6OFNaMFFtZ3BDQVgxZ3dIV2t3VnRlRm52S21PTzBxY3RnaDNsUFFTbEV30gHPAUFVX3lxTE4tRWNLaXNxaHAtNzdwSHo1TldjRmZVdkQwQ2c5LWR2d3NWcGViNE42ekswRVlLNkpaRTQyUng3NE80ZkdfelVzMlM3b0ZhUVNnUTVMbmV0SGNOM1p6Q21JcUZkcnVTYm1fYUJzWEU3alpKMXVvaDBkVEcyaXpFMjVLOXcyMWgzUFlQZ0NxazJ1VlRKQmJRd0x3Y1FsRkMzdDZoMGNzVWV0SjhuQ3hVVDJyRUI2S08wVjdOSDg3R2tHNXB0YXFDNDdGWnFUeVAzbw?oc=5\" target=\"_blank\">ADTRAN (ADTN) Pushes Deeper Into AI Edge Networking Is Its Portfolio Now Better Aligned With Demand?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2RNVk5zQk90VmNRdUZRRmJIT2tyR1lzSXJyMmxzeU9scTRTLXpWdVRwZzZKbFdna0NoelFrMWt3Y2NEMTFqUlhBOUpxMWJhNGU5MzkzcU5EdkppdFVjZ20zLTQ5amU1ZWJYUE5UWUU0MFVxNFRxUjRQNUFhckpHMEZyd3pFX0pQU3AxcXhFT2NqbkdrTXNXamozTE90YkV6OFNaMFFtZ3BDQVgxZ3dIV2t3VnRlRm52S21PTzBxY3RnaDNsUFFTbEV30gHPAUFVX3lxTE4tRWNLaXNxaHAtNzdwSHo1TldjRmZVdkQwQ2c5LWR2d3NWcGViNE42ekswRVlLNkpaRTQyUng3NE80ZkdfelVzMlM3b0ZhUVNnUTVMbmV0SGNOM1p6Q21JcUZkcnVTYm1fYUJzWEU3alpKMXVvaDBkVEcyaXpFMjVLOXcyMWgzUFlQZ0NxazJ1VlRKQmJRd0x3Y1FsRkMzdDZoMGNzVWV0SjhuQ3hVVDJyRUI2S08wVjdOSDg3R2tHNXB0YXFDNDdGWnFUeVAzbw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Networking top dog Adtran is another beneficiary of the AI megatrend - MSN",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFU4OUdsT1djcTYtbGRFRlk5WnM0djZzMlhpSGhvWWlrOFE5TjdaMjFnbEVhQTNmRHBDejdBSDY1UUxjamJ2d2V4NWRYRFl3WWc5Mnp6azR1Nkp4dnJmenFiY3Q2UEZibUJ6U0pSUVEtUkxkVlZkOVl1dnpGb0p4VlZORjFUSnlQa2NNVkplN1JkOXNWazFkSmktMF9qX2FOUTlHbndiOE8wM0V5dndFbUk2dUNVSFdMVTBCeHdFQ0Y?oc=5\" target=\"_blank\">Networking top dog Adtran is another beneficiary of the AI megatrend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFU4OUdsT1djcTYtbGRFRlk5WnM0djZzMlhpSGhvWWlrOFE5TjdaMjFnbEVhQTNmRHBDejdBSDY1UUxjamJ2d2V4NWRYRFl3WWc5Mnp6azR1Nkp4dnJmenFiY3Q2UEZibUJ6U0pSUVEtUkxkVlZkOVl1dnpGb0p4VlZORjFUSnlQa2NNVkplN1JkOXNWazFkSmktMF9qX2FOUTlHbndiOE8wM0V5dndFbUk2dUNVSFdMVTBCeHdFQ0Y?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "ADTRAN Holdings (ADTN) Surges 7.9%: Is This an Indication of Further Gains? - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.03333333333333333,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQME9hWDFQMy1pdGl2Tk1lTjk2V3I3UzBvRmZrdWl1TF9pTnpkS1hDOXhoTi1vTVZfS1RPSHlVTERtTWx2dmszd21tbUROWkpXUUlyMDdielN4ZVVQSFhOY3V2WVlZei02X3FXT2Z3TGdXckpaWUdyTmhya3lidGx0ZnF1TWp1c01mLUViZDl5SlhKZ2pJTWxJRk5B?oc=5\" target=\"_blank\">ADTRAN Holdings (ADTN) Surges 7.9%: Is This an Indication of Further Gains?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQME9hWDFQMy1pdGl2Tk1lTjk2V3I3UzBvRmZrdWl1TF9pTnpkS1hDOXhoTi1vTVZfS1RPSHlVTERtTWx2dmszd21tbUROWkpXUUlyMDdielN4ZVVQSFhOY3V2WVlZei02X3FXT2Z3TGdXckpaWUdyTmhya3lidGx0ZnF1TWp1c01mLUViZDl5SlhKZ2pJTWxJRk5B?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Adtran Stock (+7.9%): Needham Raises Price Target to $18 From $14 - Trefis",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Trefis",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWJ2R1hTdmNKaUxPY2wweV8xMWlpeUthWEhYaUk4YUotWXFzWXp0MVh1Z1RZb2tFYTJEeHE2U0dLQzlsRFBmX1plclNGVHg5TGdWM2RoMEZnYnQ4UE1MV2U2LVFpbHdpaW5GQTRQR0JCT3JvUzRrTTFMXzJ5dlJMZ3ZBalprVlJaQjc1TTNoNXk2WFFxUFVYVkM0blBCQ1ZDUnNOOGhoYjlHLW5NUVJjdkNWWTNVeGd0bDVJ?oc=5\" target=\"_blank\">Adtran Stock (+7.9%): Needham Raises Price Target to $18 From $14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWJ2R1hTdmNKaUxPY2wweV8xMWlpeUthWEhYaUk4YUotWXFzWXp0MVh1Z1RZb2tFYTJEeHE2U0dLQzlsRFBmX1plclNGVHg5TGdWM2RoMEZnYnQ4UE1MV2U2LVFpbHdpaW5GQTRQR0JCT3JvUzRrTTFMXzJ5dlJMZ3ZBalprVlJaQjc1TTNoNXk2WFFxUFVYVkM0blBCQ1ZDUnNOOGhoYjlHLW5NUVJjdkNWWTNVeGd0bDVJ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "ADTRAN Holdings (ADTN) Surges 7.9%: Is This an Indication of Further Gains? - qz.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.03571428571428571,
+          "source": "qz.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlpQVEdLN0NLYW5wSW51Z0Q5NlhhZlkzQldOejBkUTd4VUVtdWd0MUtmZWptN3l5MTlLVW1tQ0FsdVF0QS1kX3FGazMxX2RwVlZnMU4zRmQ2MGhxOFA3c1llRm9oWUZ6WHF0TVBEOWZDSktHS1d3TzdKbWI1VFdWWGd5cnhEMUxzYnNlRVFR?oc=5\" target=\"_blank\">ADTRAN Holdings (ADTN) Surges 7.9%: Is This an Indication of Further Gains?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlpQVEdLN0NLYW5wSW51Z0Q5NlhhZlkzQldOejBkUTd4VUVtdWd0MUtmZWptN3l5MTlLVW1tQ0FsdVF0QS1kX3FGazMxX2RwVlZnMU4zRmQ2MGhxOFA3c1llRm9oWUZ6WHF0TVBEOWZDSktHS1d3TzdKbWI1VFdWWGd5cnhEMUxzYnNlRVFR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Adtran Networks SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNU2dqeXh1ZmhfNjlQazJydzN2UGw3RnNSZUdGNlR3c1RRWVg4dnZucDJrQThiY3FPQkl2dFNGSS16enBsdjNvbVpVaHowdW0wUzdXNTVObU9KMG1MeGY4OURPX3Y4N2JlVWY1cXdSQ3RLd211Ym1TeTI1SWc2b21mckpJOHdYUjlyZjVHb3NWZ1Raa005aEV0c0tWUGpaeW14SEdmZUQwQ21MX0F2c3Z6eVZ1OFNZU01OSUhvZWxfZGlfZE9yN3lrd0hzekp1Y3d4RHJfTmhCYWh6SmYtV0ktY0dIVHVVRGNxRlJ5b1ZrWTJ4VzNRd3FmdjlNc2VzNFdXLUo2TERDQ0pIWDJlbC1WV1J5aE5vWlRsV3Rub0xVUVByYjY4dTg1b2drVjRGOVQt?oc=5\" target=\"_blank\">Adtran Networks SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNU2dqeXh1ZmhfNjlQazJydzN2UGw3RnNSZUdGNlR3c1RRWVg4dnZucDJrQThiY3FPQkl2dFNGSS16enBsdjNvbVpVaHowdW0wUzdXNTVObU9KMG1MeGY4OURPX3Y4N2JlVWY1cXdSQ3RLd211Ym1TeTI1SWc2b21mckpJOHdYUjlyZjVHb3NWZ1Raa005aEV0c0tWUGpaeW14SEdmZUQwQ21MX0F2c3Z6eVZ1OFNZU01OSUhvZWxfZGlfZE9yN3lrd0hzekp1Y3d4RHJfTmhCYWh6SmYtV0ktY0dIVHVVRGNxRlJ5b1ZrWTJ4VzNRd3FmdjlNc2VzNFdXLUo2TERDQ0pIWDJlbC1WV1J5aE5vWlRsV3Rub0xVUVByYjY4dTg1b2drVjRGOVQt?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "ProRail Deploys Adtran ALM for Nationwide Fiber Network Monitoring - The Fast Mode",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Fast Mode",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnBobGxWa2dNeDFIYU05UGd6NzV5Y3czVk9wMWNvamNpNk1USm81cURwd0pSTnlpT2NibnFfQlJEUlBNVEZLRkpEZVZFYVctb1dGZ1VqUUhtOTd5OEZlZVhOMnNDNVF2bW1wZWlleURCTFc3QlZ5UnM2ZElDa0JRSmJGbW9aY1gwNXh3b0Q4dzNIZUp1V3NIdkpyYWl4VG1DYnNucGUzQThBd3ZZd2w2eldlTlkzVnFyMnZHcE9R?oc=5\" target=\"_blank\">ProRail Deploys Adtran ALM for Nationwide Fiber Network Monitoring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fast Mode</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnBobGxWa2dNeDFIYU05UGd6NzV5Y3czVk9wMWNvamNpNk1USm81cURwd0pSTnlpT2NibnFfQlJEUlBNVEZLRkpEZVZFYVctb1dGZ1VqUUhtOTd5OEZlZVhOMnNDNVF2bW1wZWlleURCTFc3QlZ5UnM2ZElDa0JRSmJGbW9aY1gwNXh3b0Q4dzNIZUp1V3NIdkpyYWl4VG1DYnNucGUzQThBd3ZZd2w2eldlTlkzVnFyMnZHcE9R?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "Why Adtran Holdings Stock Is Climbing Today - The Motley Fool",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Motley Fool",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2pFSkQ3NXpwbnVBTXFfOTQ2MnRrcTZ0LWJpWXo0SkJmVFVpQ0Q4RFhpbGFhVTZiVWM1cWZUdEo1OFFxenlaaDZqSU4zZXg5UFVkV29IN0l6TjdNaHBJb29MRTB2SmExNUxDVjNZWDkzLVdZNF95QnVHNFFnc2VoWTctSXRlVThHNmdjb1ZOOA?oc=5\" target=\"_blank\">Why Adtran Holdings Stock Is Climbing Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2pFSkQ3NXpwbnVBTXFfOTQ2MnRrcTZ0LWJpWXo0SkJmVFVpQ0Q4RFhpbGFhVTZiVWM1cWZUdEo1OFFxenlaaDZqSU4zZXg5UFVkV29IN0l6TjdNaHBJb29MRTB2SmExNUxDVjNZWDkzLVdZNF95QnVHNFFnc2VoWTctSXRlVThHNmdjb1ZOOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "ADTRAN Stock Surges 6.2% - Is It Time to Buy? - National Today",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.041666666666666664,
+          "source": "National Today",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUR4d3JTZWpmYjBzdklNNGU3bXlTUDZKTndzYXZuTnpmUWE0RFBndTNJSTUyNlR5TUtNTTFLbU5hZXBrZW44Y3B5ZUdFSUJqa2hUYXcwYUNjNmtKalViSDkxM1pVTVZwbU1JNUVBY0VhZTA4bWU5b2RvOW9SWUNvd0doYWJ1SllCMS1OM3NlSHJIR0Y0V0VUR0ZjV01NaW5oUS1V?oc=5\" target=\"_blank\">ADTRAN Stock Surges 6.2% - Is It Time to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUR4d3JTZWpmYjBzdklNNGU3bXlTUDZKTndzYXZuTnpmUWE0RFBndTNJSTUyNlR5TUtNTTFLbU5hZXBrZW44Y3B5ZUdFSUJqa2hUYXcwYUNjNmtKalViSDkxM1pVTVZwbU1JNUVBY0VhZTA4bWU5b2RvOW9SWUNvd0doYWJ1SllCMS1OM3NlSHJIR0Y0V0VUR0ZjV01NaW5oUS1V?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "ADTRAN (NASDAQ:ADTN) Shares Up 6.2% - Time to Buy? - MarketBeat",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHVObmhNUWpITlpGdHdZcG52SlhTbVp0aks1dzAyWXpkS0M0dW9vZHA4bXVBcEg3eGk5WDh4ZjNfRVlRck1naGt0TnN6U0J0bktFU2JEaGk4a3NmZTUzX0VBU01PQzlfZ1dmLS16LTRCOE5wOVBjc29vdEh5enJyc3BqQ2FLY1RhbzV1OGhpdFJsbW8wN1p4ek8zbk8?oc=5\" target=\"_blank\">ADTRAN (NASDAQ:ADTN) Shares Up 6.2% - Time to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHVObmhNUWpITlpGdHdZcG52SlhTbVp0aks1dzAyWXpkS0M0dW9vZHA4bXVBcEg3eGk5WDh4ZjNfRVlRck1naGt0TnN6U0J0bktFU2JEaGk4a3NmZTUzX0VBU01PQzlfZ1dmLS16LTRCOE5wOVBjc29vdEh5enJyc3BqQ2FLY1RhbzV1OGhpdFJsbW8wN1p4ek8zbk8?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "ADTRAN Holdings, Inc. (NASDAQ:ADTN) Receives Consensus Rating of \"Hold\" from Analysts - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWY4Y3pvT2Yxd0tkdkFzXzRFLXJnX2J1ci1VRGNoR1ZqS01mVUZLLUU5M2F3dDRURmk2YS1TSlN3cnFSZkJOLTlyaTdsdnNmYWE2STB3SnJkNk9PSVJGb1h5eXBLN3RfaFc2bjcxb05yZThoME8zcVJNdUxneS1FT3J2YklfZGxCbjJQdjhyUGlXWnRBNDhoQktZV0dhaU1RVkZnbXlUVDJUVThtVXA4c1hDNDZWc3M0eUY2QUxYc2RiZkdzbTVVMUl5QVk?oc=5\" target=\"_blank\">ADTRAN Holdings, Inc. (NASDAQ:ADTN) Receives Consensus Rating of \"Hold\" from Analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWY4Y3pvT2Yxd0tkdkFzXzRFLXJnX2J1ci1VRGNoR1ZqS01mVUZLLUU5M2F3dDRURmk2YS1TSlN3cnFSZkJOLTlyaTdsdnNmYWE2STB3SnJkNk9PSVJGb1h5eXBLN3RfaFc2bjcxb05yZThoME8zcVJNdUxneS1FT3J2YklfZGxCbjJQdjhyUGlXWnRBNDhoQktZV0dhaU1RVkZnbXlUVDJUVThtVXA4c1hDNDZWc3M0eUY2QUxYc2RiZkdzbTVVMUl5QVk?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Adtran Holdings, Inc.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOM0dVci0talRFR0hzYVN3ZHBkZlV6bjhzOUlqOXc3OTdNNHBLRVpJV21PWlRzM2dwbmlsaXJfTHk1U1FHMkxJcDc2U19rNlpaUldYZHlIb2E4Mk1lNW4zMENVcnI5QnZKTHUwbkNMbHVLYkVkdGJPaVJNcktBZDVVN05yS21Ybmk2bF9LdWhOSkxRRWlNZHplT1ZMNG9Ma2ZwOHQ2UzZMZWNqdzlHZHpHWC02VlRlbndndnlocDdfRGY3aTk4WGVId19lSmh4LUtaZGJmUzJyZ2JwNE9lVXZNVHFqQXN2aW0tT2FVS29yeU5JWS0wNnYtVlFLMU9meDg1bE1SbHk0OG9xT255aThweHpyeUZRUTlWbTFxNlZvYV9WQXhq?oc=5\" target=\"_blank\">Adtran Holdings, Inc.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOM0dVci0talRFR0hzYVN3ZHBkZlV6bjhzOUlqOXc3OTdNNHBLRVpJV21PWlRzM2dwbmlsaXJfTHk1U1FHMkxJcDc2U19rNlpaUldYZHlIb2E4Mk1lNW4zMENVcnI5QnZKTHUwbkNMbHVLYkVkdGJPaVJNcktBZDVVN05yS21Ybmk2bF9LdWhOSkxRRWlNZHplT1ZMNG9Ma2ZwOHQ2UzZMZWNqdzlHZHpHWC02VlRlbndndnlocDdfRGY3aTk4WGVId19lSmh4LUtaZGJmUzJyZ2JwNE9lVXZNVHFqQXN2aW0tT2FVS29yeU5JWS0wNnYtVlFLMU9meDg1bE1SbHk0OG9xT255aThweHpyeUZRUTlWbTFxNlZvYV9WQXhq?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-08",
+          "headline": "Adtran Holdings, Inc.: Timothy P. Santo, Acquisition of 28,252 RSUs as part of Equity Incentive Compensation. The RSUs will pay out in shares in ADTRAN Holdings, Inc. (ISIN ) on a ... - TradingView \u2014 Track All Markets",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxNOWh5VnVCTzR2NnM5ejZHSXFUSXNPbWlWUlJNcnR6eGdDTURrZkQtYllqa2Y4Y1JLSTJTbURTWUZUUWRJS09OeDBWZmYwd2tYa1pRN3F5VVFRVHFMYm1lQkxKeHhINmk1UGRzMUNXdEJuZlJ2U2t0Rl80dTN2b1RjZVdNTmM0TGtaLTFhMDJNTWI0aVZ1Uy1BaDhrV0h2dlRSZDJBQk8zYy1KUzFyZG1lOEwwNkVTQy1vZ0lOazZaeFFzbnREYTk4eTRVbkFTY1c5LVctMExMcW0yeDZjV040TDZOU1FETFhKbllJeXpyUmVwbUc5TVllVHJqXzA2eWZvdnFfcGk0Und2V1lTQkNqczZFRUJyYS0xN2RndTN3dGJFYUx1UVVpdGJvN1RPeThoNkFaUWlhQ1QzUGJKVEVMNFVBYlk?oc=5\" target=\"_blank\">Adtran Holdings, Inc.: Timothy P. Santo, Acquisition of 28,252 RSUs as part of Equity Incentive Compensation. The RSUs will pay out in shares in ADTRAN Holdings, Inc. (ISIN ) on a ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNOWh5VnVCTzR2NnM5ejZHSXFUSXNPbWlWUlJNcnR6eGdDTURrZkQtYllqa2Y4Y1JLSTJTbURTWUZUUWRJS09OeDBWZmYwd2tYa1pRN3F5VVFRVHFMYm1lQkxKeHhINmk1UGRzMUNXdEJuZlJ2U2t0Rl80dTN2b1RjZVdNTmM0TGtaLTFhMDJNTWI0aVZ1Uy1BaDhrV0h2dlRSZDJBQk8zYy1KUzFyZG1lOEwwNkVTQy1vZ0lOazZaeFFzbnREYTk4eTRVbkFTY1c5LVctMExMcW0yeDZjV040TDZOU1FETFhKbllJeXpyUmVwbUc5TVllVHJqXzA2eWZvdnFfcGk0Und2V1lTQkNqczZFRUJyYS0xN2RndTN3dGJFYUx1UVVpdGJvN1RPeThoNkFaUWlhQ1QzUGJKVEVMNFVBYlk?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-08",
+          "headline": "Adtran Holdings, Inc.: Thomas R. Stanton, Acquisition of 170,723 PSUs as part of Equity Incentive Compensation. The PSUs will pay out in up to 307,301.40 shares in ADTRAN Holdings, Inc. ... - marketscreener.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVEU3TGVTTkZ3akpwd1BGSDVaMldkXzVheXk2RHRKc2RmUHNsZktJcVJLZWpWcVVDSE1BMXZHZlNfWXFTNmlOS2pmTlA5QlJ4VlZRbHVGaUd6d3FnUmxORGRxZHFvWVBpTEVORGh1UDZtaGNkR081VmNVYm1fNUtJQ01QV1kzVm9yQkdkalhxSm1TNmhkUjJzb010aEFzLVlOdThQSFVwb0dfenF4OFJGVnJoTlJ4T0ppc3hLaENWenhPRWpLREFmTncwNVNDSUF5REVldWhPVHpoRmVGS0FnVlJB?oc=5\" target=\"_blank\">Adtran Holdings, Inc.: Thomas R. Stanton, Acquisition of 170,723 PSUs as part of Equity Incentive Compensation. The PSUs will pay out in up to 307,301.40 shares in ADTRAN Holdings, Inc. ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVEU3TGVTTkZ3akpwd1BGSDVaMldkXzVheXk2RHRKc2RmUHNsZktJcVJLZWpWcVVDSE1BMXZHZlNfWXFTNmlOS2pmTlA5QlJ4VlZRbHVGaUd6d3FnUmxORGRxZHFvWVBpTEVORGh1UDZtaGNkR081VmNVYm1fNUtJQ01QV1kzVm9yQkdkalhxSm1TNmhkUjJzb010aEFzLVlOdThQSFVwb0dfenF4OFJGVnJoTlJ4T0ppc3hLaENWenhPRWpLREFmTncwNVNDSUF5REVldWhPVHpoRmVGS0FnVlJB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-07",
+          "headline": "Adtran amps up AI on the edge with 400G-ready routers - SDxCentral",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "SDxCentral",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWNpTzlFR05LMjYxVVVNeE9yTWEyTlZMeEJjY1J2eEZKZ1pKcU5HY0x3bTdTQk9PUVVSRTVHbkV0LVZWREIyX2JKNEh4cTZzVWRYUmwxQ005ZUFxbmZiNDdZaUUteTNHdVVLbnlVekJicXFCeG5lbGY1eVVoSjl3VDR1VTZ1eW55MWlTQllrZw?oc=5\" target=\"_blank\">Adtran amps up AI on the edge with 400G-ready routers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWNpTzlFR05LMjYxVVVNeE9yTWEyTlZMeEJjY1J2eEZKZ1pKcU5HY0x3bTdTQk9PUVVSRTVHbkV0LVZWREIyX2JKNEh4cTZzVWRYUmwxQ005ZUFxbmZiNDdZaUUteTNHdVVLbnlVekJicXFCeG5lbGY1eVVoSjl3VDR1VTZ1eW55MWlTQllrZw?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 5
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 6,
+      "delta": -0.005582010582010583,
+      "prior_mean": 0.010185185185185186,
+      "recent_mean": 0.004603174603174603
     },
     "technical": {
       "atr14": 0.433108163679053,
@@ -345,14 +569,17 @@
   },
   "market_overlay": {
     "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
     "exposures": [],
     "industry": null,
     "sector": null,
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
-    "stance": "mixed"
+    "explanation": "Python classified 15 stock-specific articles into 5 constructive, 0 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
   },
   "recent_weakness": [
     {
@@ -376,6 +603,10 @@
     {
       "confidence": "high",
       "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-10: Adtran Stock (+7.9%): Needham Raises Price Target to $18 From $14 - Trefis."
     }
   ],
   "risks": [
@@ -418,11 +649,16 @@
         "label": "Price is above EMA200",
         "points": 3,
         "value": 41.27
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 5
       }
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
-    "score_0_to_100": 75
+    "score_0_to_100": 83
   },
   "sources": [
     {
@@ -430,8 +666,50 @@
       "publisher": "stock.sdc-fried.de",
       "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "simplywall.st",
+      "title": "ADTRAN (ADTN) Pushes Deeper Into AI Edge Networking Is Its Portfolio Now Better Aligned With Demand? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2RNVk5zQk90VmNRdUZRRmJIT2tyR1lzSXJyMmxzeU9scTRTLXpWdVRwZzZKbFdna0NoelFrMWt3Y2NEMTFqUlhBOUpxMWJhNGU5MzkzcU5EdkppdFVjZ20zLTQ5amU1ZWJYUE5UWUU0MFVxNFRxUjRQNUFhckpHMEZyd3pFX0pQU3AxcXhFT2NqbkdrTXNXamozTE90YkV6OFNaMFFtZ3BDQVgxZ3dIV2t3VnRlRm52S21PTzBxY3RnaDNsUFFTbEV30gHPAUFVX3lxTE4tRWNLaXNxaHAtNzdwSHo1TldjRmZVdkQwQ2c5LWR2d3NWcGViNE42ekswRVlLNkpaRTQyUng3NE80ZkdfelVzMlM3b0ZhUVNnUTVMbmV0SGNOM1p6Q21JcUZkcnVTYm1fYUJzWEU3alpKMXVvaDBkVEcyaXpFMjVLOXcyMWgzUFlQZ0NxazJ1VlRKQmJRd0x3Y1FsRkMzdDZoMGNzVWV0SjhuQ3hVVDJyRUI2S08wVjdOSDg3R2tHNXB0YXFDNDdGWnFUeVAzbw?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "MSN",
+      "title": "Networking top dog Adtran is another beneficiary of the AI megatrend - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFU4OUdsT1djcTYtbGRFRlk5WnM0djZzMlhpSGhvWWlrOFE5TjdaMjFnbEVhQTNmRHBDejdBSDY1UUxjamJ2d2V4NWRYRFl3WWc5Mnp6azR1Nkp4dnJmenFiY3Q2UEZibUJ6U0pSUVEtUkxkVlZkOVl1dnpGb0p4VlZORjFUSnlQa2NNVkplN1JkOXNWazFkSmktMF9qX2FOUTlHbndiOE8wM0V5dndFbUk2dUNVSFdMVTBCeHdFQ0Y?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "Yahoo Finance",
+      "title": "ADTRAN Holdings (ADTN) Surges 7.9%: Is This an Indication of Further Gains? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQME9hWDFQMy1pdGl2Tk1lTjk2V3I3UzBvRmZrdWl1TF9pTnpkS1hDOXhoTi1vTVZfS1RPSHlVTERtTWx2dmszd21tbUROWkpXUUlyMDdielN4ZVVQSFhOY3V2WVlZei02X3FXT2Z3TGdXckpaWUdyTmhya3lidGx0ZnF1TWp1c01mLUViZDl5SlhKZ2pJTWxJRk5B?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "Trefis",
+      "title": "Adtran Stock (+7.9%): Needham Raises Price Target to $18 From $14 - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWJ2R1hTdmNKaUxPY2wweV8xMWlpeUthWEhYaUk4YUotWXFzWXp0MVh1Z1RZb2tFYTJEeHE2U0dLQzlsRFBmX1plclNGVHg5TGdWM2RoMEZnYnQ4UE1MV2U2LVFpbHdpaW5GQTRQR0JCT3JvUzRrTTFMXzJ5dlJMZ3ZBalprVlJaQjc1TTNoNXk2WFFxUFVYVkM0blBCQ1ZDUnNOOGhoYjlHLW5NUVJjdkNWWTNVeGd0bDVJ?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "qz.com",
+      "title": "ADTRAN Holdings (ADTN) Surges 7.9%: Is This an Indication of Further Gains? - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlpQVEdLN0NLYW5wSW51Z0Q5NlhhZlkzQldOejBkUTd4VUVtdWd0MUtmZWptN3l5MTlLVW1tQ0FsdVF0QS1kX3FGazMxX2RwVlZnMU4zRmQ2MGhxOFA3c1llRm9oWUZ6WHF0TVBEOWZDSktHS1d3TzdKbWI1VFdWWGd5cnhEMUxzYnNlRVFR?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "Adtran Networks SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNU2dqeXh1ZmhfNjlQazJydzN2UGw3RnNSZUdGNlR3c1RRWVg4dnZucDJrQThiY3FPQkl2dFNGSS16enBsdjNvbVpVaHowdW0wUzdXNTVObU9KMG1MeGY4OURPX3Y4N2JlVWY1cXdSQ3RLd211Ym1TeTI1SWc2b21mckpJOHdYUjlyZjVHb3NWZ1Raa005aEV0c0tWUGpaeW14SEdmZUQwQ21MX0F2c3Z6eVZ1OFNZU01OSUhvZWxfZGlfZE9yN3lrd0hzekp1Y3d4RHJfTmhCYWh6SmYtV0ktY0dIVHVVRGNxRlJ5b1ZrWTJ4VzNRd3FmdjlNc2VzNFdXLUo2TERDQ0pIWDJlbC1WV1J5aE5vWlRsV3Rub0xVUVByYjY4dTg1b2drVjRGOVQt?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "The Fast Mode",
+      "title": "ProRail Deploys Adtran ALM for Nationwide Fiber Network Monitoring - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnBobGxWa2dNeDFIYU05UGd6NzV5Y3czVk9wMWNvamNpNk1USm81cURwd0pSTnlpT2NibnFfQlJEUlBNVEZLRkpEZVZFYVctb1dGZ1VqUUhtOTd5OEZlZVhOMnNDNVF2bW1wZWlleURCTFc3QlZ5UnM2ZElDa0JRSmJGbW9aY1gwNXh3b0Q4dzNIZUp1V3NIdkpyYWl4VG1DYnNucGUzQThBd3ZZd2w2eldlTlkzVnFyMnZHcE9R?oc=5"
     }
   ],
-  "summary": "QH9 scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.",
+  "summary": "QH9 scores 83/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
   "symbol": "QH9"
 }

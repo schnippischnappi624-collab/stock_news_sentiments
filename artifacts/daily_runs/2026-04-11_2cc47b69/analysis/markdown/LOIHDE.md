@@ -6,7 +6,7 @@
 - Bucket: `entry_ready`
 
 ## Investment View
-LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.
+LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -23,7 +23,7 @@ LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly b
 
 ## News Read
 - Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 4 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is good. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.85 macro weight because company-specific coverage is good.
 
 ## Key Levels
 - Volume anomaly: `2.41525591721841`
@@ -38,14 +38,22 @@ LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly b
 - Volume confirmation is supportive: `+6` (value: `2.42`)
 
 ## Coverage
-- Stock-specific articles scored: `0`
+- Stock-news coverage quality: `good`
+- Stock-specific articles scored: `4`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.85`
 
 ## Market Overlay
 - Exposures: `software`
-- Supportive macro effects: `0`
-- Adverse macro effects: `1`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `1`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `1`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
+- [Revenue per share of Loihde Oyj – LSX:A3C5G5 - TradingView — Track All Markets](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZE4zWUQwbzZaZmRjR1h6N3pYVjZiekd1anpmZ2VPUklwbXFPT0dhWmlOWVduYnpKb1dOZjUySmRxbm1aWjRQNDl1alktR25JLUFLYUVmZWpfRVoxcWlxb3hOczFYdUVaejVETzN2dHdSUzBucEJHV3RvZUhsNzV4T2VZdlJMMUlmczNXa2oxenVKbzQ0cjUzZXBTMWlQUVE?oc=5) - 2026-04-13
+- [Loihde Plc: Managers’ Transactions – Teutari - marketscreener.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1gxakNHeEFaWjVRcmt0UEd0TUdmd3BuMEFfd3BjWGlqS1poR05XcjNlbGFKdnFLTVRBVUhWeml2d0NEcUxSMlNMRThyRExCV1RUWms2UXJDUkVhSDhxWERlV29EMHBjZGZxaUxrWjdTeEtvOW1LRnRjbFlKUHVvcFNuNGhOUGJXWm5GMEk2T08yLVVyQjNKVGNTM1k?oc=5) - 2026-03-25
+- [Loihde Plc conducts a directed share issue to deliver the savings shares that are part of its Employee Share Savings Plan (ESSP) - STT Info](https://news.google.com/rss/articles/CBMifkFVX3lxTE1zc0szZHo1VEVySEkyUG5HalUySlhQVWRKcll2MGU2WFJKQlNwTXZpNnB3RWxHeHUydW1PNTI5eThnNkNtbXhnbnc1NlBneXhwdTh5anZrZFZwSnA3WUZfZERfcW1Qc0FzUTBoOVNQTHVJaVh1TGdyTjJrVWkzQQ?oc=5) - 2026-03-24
+- [Loihde’s Annual Report for 2025 has been published - STT Info](https://news.google.com/rss/articles/CBMifkFVX3lxTE5UeXlVZ0NWbnJBZkkxMUg1aGNSMElmYzMwNmJTZlpGVWNGU3Nuc2pHeXB6TVlUd1JvdVFMYS1Xc25ySnA5cnNFMm9HRjdNTVhHczhrWnJaRmYzMUgyQ0JVSnFZVXdNV1NKVVdiazdibmUwNWpUaWJHeU1INk1PZw?oc=5) - 2026-03-24
 - [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13

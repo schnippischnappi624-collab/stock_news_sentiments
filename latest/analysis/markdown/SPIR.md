@@ -1,12 +1,12 @@
 # SPIR - Spire Global Inc
 
 - Breakout stance: `constructive_watch`
-- Score: `72`
+- Score: `66`
 - Confidence: `high`
 - Bucket: `entry_ready`
 
 ## Investment View
-SPIR scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.
+SPIR scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 2 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -16,14 +16,15 @@ SPIR scores 72/100 as a constructive_watch setup. The score is driven mainly by 
 
 ## Risks / Invalidation
 - A close back below 20.50 would weaken or invalidate the current breakout picture. (high)
-- Broader market headwind remains relevant (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind, Shipping disruption / freight stress): 2026-04-13: Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC. (medium)
+- Dilution or share-supply risk remains relevant: 2026-04-10: Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing - marketscreener.com. (high)
 
 ## Catalysts
-- The next 1 to 4 weeks matter most around whether price can keep holding above 20.50 and attract follow-through volume. (medium)
+- 2026-04-10: Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing - marketscreener.com. (medium)
+- 2026-04-10: Spire Global Inc - Announces Private Placement Of 5 Million Shares At $14.00 Per Share - SEC Filing - TradingView — Track All Markets. (medium)
 
 ## News Read
 - Stance: `conflicting`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 15 stock-specific articles into 2 constructive, 2 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.
 
 ## Key Levels
 - Volume anomaly: `3.35228005264403`
@@ -38,18 +39,24 @@ SPIR scores 72/100 as a constructive_watch setup. The score is driven mainly by 
 - Volume confirmation is very strong: `+9` (value: `3.35`)
 
 ## Coverage
-- Stock-specific articles scored: `0`
+- Stock-news coverage quality: `strong`
+- Stock-specific articles scored: `15`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `1.0`
 
 ## Market Overlay
 - Exposures: `industrials`
-- Supportive macro effects: `0`
-- Adverse macro effects: `5`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `5`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `5`
 
 ## Sources
 - [Feed snapshot: Universe 3 US - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results.txt) - 2026-04-11
-- [Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5) - 2026-04-13
-- [Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley’s Mike Wilson.](https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories) - 2026-04-13
-- [Populism lost in Hungary but still might win the war, one strategist argues](https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories) - 2026-04-13
-- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13
-- [Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war](https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories) - 2026-04-13
+- [Spire (SPIR) Soars 20.3%: Is Further Upside Left in the Stock? - Zacks Investment Research](https://news.google.com/rss/articles/CBMingFBVV95cUxPZjlHV241RGxvNWNFbmlLM2VicmE0M043LWFiX0l3Tmd5RGZFZHIyS2JoUHB6TFJma2taa0pjQWNqZUVRNVZDbThqaVduSU5UX2RvUzhLNjI5ZklZZlhPV2w5QVc4T2xWa1RIOEx1NGplcjdNMjZ6NDA4T2F4NzNZODRDQ05EWlhyV2s2eFBhQU44ZS01Umo0T3l2OWxWQQ?oc=5) - 2026-04-13
+- [How The Spire Global (SPIR) Story Is Shifting As Analysts Lift Fair Value Targets - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxNZURFaHl4MHFmTHVvYnpOdXBPd0ctZUxmcmhwMmtndWdwbG5qODBlOVM1bklfTkdiYmtmLV81d0VyR0IyM0lSdkszNXB2blNrcE5YTlItYURZeEJTejNSZnZwdTdoVFdKdFpMRXdzZUhMU2dxZzRPbzh3alFjNExrS3l6dEZKWXB0cXdEODRSN1o1bTlVQmlHbFBnZTJCZw?oc=5) - 2026-04-12
+- [Why Spire Global (SPIR) Is Up 35.5% After $70 Million Raise And New Agri-Satellite Push - And What's Next - simplywall.st](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1NrSkxic1ZmSl9UZl9nUDd5V1FyLTN5Sm1JOWVaTnB4SjNMYjdkV2lQcTFIWFE2YnpiMTBLMWR4eWVmLWJyT0ZXcHNxeGd1UGhObEFpN0lNZ2ZaWGJhNk9pR0Z6cHd5NWxEbEo1eHhnQXFHNjhYZV9NSXd3NTdGMlVlOThscy1vZDVIMmRweTZUYlBBd2RaaTlTTXkzbnAxNHpBUVJhbXdkOTdfVkpGTFZ1WnBKS1FXT0xqai16S0dyaUl5TFNDT0l1bm1La1JmR2dGX2VGQdIB3AFBVV95cUxQUDh5TGNYNjFzb1FzUlBPMTVUbWVtMmRfODRaSldHYm1nSTFlYzhPaEV1U3A2SU9maHptYm5PZUl4MFJnWV9DZGpvMmxhZS1jSF9jN3JwN0t4RmJQa0JKYnJyYy1zTGhpUTZzM29NekZ3WnFfVmZsRjZPTHlGVnpQdG42SVBOWmt4bV9SNXlfS3pYbDQzcFhYa0dXd3R0TzR1eElNWWxTSzFQR3JvMEs5TzhsNFBLcnVkUGdyd3ZpLXJhTGZzNW1lWFNNX3dUbGY3azRwS21PZ1pzUng0?oc=5) - 2026-04-11
+- [Insider Selling: Spire Global (NYSE:SPIR) Chairman Sells 54,793 Shares of Stock - MarketBeat](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmZxWlBYM1VYRWZzLWVKN20zSExPdDgtN2pPNUFfaFoyR1NXWGdpQmkyZDhzanRIUE9WTkFJV1JWR1lMRWR1T1Z0MjAySFFudnpEMEhCZXhNYnZCWGo1R2o3Mmpkam1MaktmdXNYVnVGQUZ4aVB6Z05YcFd1Nm1vYm14bWltaV9zdU0zUURLUE9uLU9ram9QakN2dUR0WU9TUFVCT1o5ZUhQbDBtaklNWF9mUkJoZGg0a2FFUGtwRmE1VmNEek5v?oc=5) - 2026-04-11
+- [Insider Selling: Spire Global (NYSE:SPIR) CEO Sells 39,119 Shares of Stock - MarketBeat](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0RRV0llckQ1TTZUeHhQbWpxOUxwUkFpVXpiTVU0SVVyR3g2bU14U1RWYUE3TUY4Sk5nNmpEUU9ET0pDZmtFM1NPMXpiZ3JkcFdaVUdGU0Q4S2N1WDJLWFFRUjNTLUdZa3kyZHlnaGY1LVRoUmR5ZzhGWXp2c3BPNDlfa29SZFdLekFIOHJ6ZGM2VGxuSllBUGQyVU9Samg5dXlISTBnbWsyQjNxWWJCSU40VVE4THlJQWRFekxPVEU?oc=5) - 2026-04-11
+- [Spire Global (NYSE:SPIR) Chairman Peter Platzer Sells 1,817 Shares - MarketBeat](https://news.google.com/rss/articles/CBMitwFBVV95cUxONTJXWU1PMHp1bkJHaFE0NGZKNzhHME9wd3Z0dzBKc1A1SEVkQk1MUUxITlp5clRBOWpRLW9iYnJIS3FxSFFtd3B6Nl9jaDZmQUFYNmJzNnpxaXVzRlZnNUZ4LWhfNWhsTlJGR0VsT2lGTjBwR1BueTg0ZV9yeW9lLXBmWWdKR3B6V1VQLTF1TjhreTlWWkxHZVJ4MWtLTnhlNE8zNG1JT2piZGZENU9VYTBGZ1hyLWM?oc=5) - 2026-04-11
+- [Oehme, Spire Global CTO, sells $108k in shares - Investing.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPaW4tOEdhdUczaHc5NU9hamQyZGUteGdGSXpRWkFEbUJvTUh0QVF1X3BPcmlDczQyQ09XeVpDSnlFTVBRUHQzS3hDZDdLbG5LbFh6eEQyZjEyUXlBcnZEdXItazZYOUcwOFZMMndSTktmR1VYSHpEcDhTc3lfV3A1VFdQa1hHd0V3YUJqZWFXOVRDeWctRm5OdnhncGF5QURZQVR5TjVDQkxrOExx?oc=5) - 2026-04-10

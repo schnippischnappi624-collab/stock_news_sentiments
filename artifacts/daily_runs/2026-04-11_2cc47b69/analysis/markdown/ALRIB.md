@@ -1,12 +1,12 @@
 # ALRIB - Riber S.A
 
 - Breakout stance: `constructive_bullish`
-- Score: `76`
-- Confidence: `medium`
+- Score: `87`
+- Confidence: `high`
 - Bucket: `entry_ready`
 
 ## Investment View
-ALRIB scores 76/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.
+ALRIB scores 87/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -19,11 +19,12 @@ ALRIB scores 76/100 as a constructive_bullish setup. The score is driven mainly 
 - Broader market headwind remains relevant (Higher yields / hawkish rates): 2026-04-13: Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com. (medium)
 
 ## Catalysts
-- The next 1 to 4 weeks matter most around whether price can keep holding above 6.15 and attract follow-through volume. (medium)
+- 2026-04-13: Riber continues to rally on strong earnings and breakthrough technology - marketscreener.com. (medium)
+- 2026-04-08: Riber delivers strong earnings growth in 2025 - Compound Semiconductor Magazine. (medium)
 
 ## News Read
-- Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.
+- Stance: `supportive`
+- Explanation: Python classified 11 stock-specific articles into 5 constructive, 0 adverse, and 6 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.
 
 ## Key Levels
 - Volume anomaly: `8.51150516465956`
@@ -38,14 +39,24 @@ ALRIB scores 76/100 as a constructive_bullish setup. The score is driven mainly 
 - Volume confirmation is very strong: `+9` (value: `8.51`)
 
 ## Coverage
-- Stock-specific articles scored: `0`
+- Stock-news coverage quality: `strong`
+- Stock-specific articles scored: `11`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `1.0`
 
 ## Market Overlay
 - Exposures: `semiconductors, software`
-- Supportive macro effects: `0`
-- Adverse macro effects: `1`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `1`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `1`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
-- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13
+- [Riber continues to rally on strong earnings and breakthrough technology - marketscreener.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVl2SFZFMW9GdGwzSUFmN0xqMS16OHNEa0Y4ZXE2M1ljdGRFRHloMWpXNjIxSUcxVUkzV1ptX2U2VFN3R1YwVk9VYTROZlR2T2ZrZnQzSWxaSVVuSTJJdmhpZmxkYWZvaU1LMzd5SUtKQmV4TVZlMkNFN3lVcWstOXFGX0tMN3Q0bGpWSTJOUkxQbFlTXzd0NmNDS1oxQWpHSVlyUlEzM3NWSDliTUZoS3R5Q05PeTZVRFFhbHcySTdDUQ?oc=5) - 2026-04-13
+- [Riber (ALRIB.PA) up 29.64% on heavy volume at EURONEXT after hours: what to watch 08 Apr 2026 - Meyka](https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdLQjlDaldxVy1KM2JkdW5TdFBqbWlER3Y1dFRRZlR3MEdXRWNHWkI3R1NfaDVhSkJjb1JESmxIXzl2d3k0N1E1amw1RVZjVF8yMG5kd3RFNFJNemFFZXBkZHZNMXpWOUYxb0VYTmN3NVVPYmdEX3VCYnMyYThTZzFib3pmb2dROElrSlg1dVhxYjB4NzZFLUQxMHVabktWUG54a3VKeFdEVTk5ZklnSkR0Z0tYX2s?oc=5) - 2026-04-08
+- [Riber delivers strong earnings growth in 2025 - Compound Semiconductor Magazine](https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1BlRVhMMEVSY2pfMDlfd0lnMTI0RGlEVTd0TjZOTDJEckV3UmxRbVh2b2ZSOWlaeDNHRmFqY1YtcURvV2w2aHI2Ry1qd0NqMExyRW50ckJfODVFU1FsVlY5d18wVTFuWm82S2hFaUdoN3hHZ2dTYWUtLTBWWHBkRnhxa196RFZRRTVGSEVkdENVNWRZVWZCcG1n?oc=5) - 2026-04-08
+- [ALRIB: Profitability surged in 2025, driven by ROSIE's launch and strong photonics market positioning - TradingView — Track All Markets](https://news.google.com/rss/articles/CBMijwJBVV95cUxQci1FUVZGYm9paFBVbXF3cC1SWlZXR2xyWnZUci1LSHZyMHdUb19ER0xDLVVtWkYxUGhoRVdNSzZNdDlJWVZib3dqTXZlYzg4alFDdTByT2lySXNBaTJkWndrTlFFaEhLVnBNTVlEd29xYzUyblloczJ6TDdGQ2xTeDllN1NsYy1fZVJzeURuT0FUUXhZWmNXNi1OMVF2TG9tcTFicHVnQjhDcWxndXZXcnNHQlExTTUzRGc2bWNlajMxZGxBQUt6bUE0YU9walNORXQ2WHJEQkdIMkZfeWl5Y1htMHFLTXBxVUhVQUFVeG42NFNFTDZIUlJMV3hmVmh2ODFlMDFRcmVEc3dkcHEw?oc=5) - 2026-04-08
+- [Riber reports improved annual results - marketscreener.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzJkUmpyUkpuRnp0NjBOSnVqYm5rVWx3VmY2OHl2bTRsQ1lrcDk2R1lMa2tyUVdYY1ZNMUVRQmRLaWtDZTloR19WQUhUNnpnWkc1SFQyM3hjQXF4SzVaSGFMekpET1NsZHpMd3BTMkRUSUpxdi00VWlpWmRZekFIT1Y2eWxITGZmUnpmVHpTaWxwZ09i?oc=5) - 2026-04-08
+- [ALRIB: Net income up 27% and strong order growth signal robust prospects for 2026 - TradingView — Track All Markets](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGlmR0YxdEZNTjc0TlZ2MFhqaW1WN3I3LXg3eVJHSEQzc3ZYYUxJUnM0WVhWUTVBM01tVlZSQ0M4dnlUNS0yZDZTRUZVMU5TT2s5bG03UlhvbEJCWUR4OWl3bEp3RlpYQ2xDUWhwcmtrRy1HbHo1YnQ3bkpXQl8waUhpeEVyOC05RkJBSnJDNVNDM2FVRkp1dWlwaW4zTWVoWl8xZjNUNVB3dEhPdDAxX2FDaHEzNFFEMlRqLW9nd190WmZDbTZqMDYzM0cxTTN2M1RNbU1aU3Nkbld5STFidXBHazZDazZicGNfNkVfUml3TzZF?oc=5) - 2026-04-08
+- [Riber S.A. Proposes Cash Distribution for the Year Ended December 31, 2025, Payable on June 24, 2026 - marketscreener.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnBFUmdwYk5haTVYWnVRQmtSNnF1SjhyTHl4MEZBTnAta3BUMVJ4M016MkRYTkVTWFZYcnkyM0p4eDhQZzgzUm5rVHRCQnJITDQ3RnNkbUhLLTZTbFR0UVF1M2dKQ3BULVRmb1o1TEhrQ3dpYnVPNHhYUi1MYlU4eHJqeEtfanFfMC0xaHJvWG5IX0NYQ0JkaTJJTWpBZ2xYbTJvM3RxeU5mM1c3ZDBQdWtYTXRmTWtRN3lDVG93eFRjemtPWGNfbHlXeGczc0YtMzlmYzFRU1pNbDBPSUsyMkFybw?oc=5) - 2026-04-08

@@ -167,6 +167,32 @@ def _format_num(value: Any, *, digits: int = 2) -> str:
     return f"{num:.{digits}f}"
 
 
+def _coverage_quality_label(article_count: int) -> str:
+    if article_count >= 5:
+        return "strong"
+    if article_count >= 3:
+        return "good"
+    if article_count >= 1:
+        return "thin"
+    return "none"
+
+
+def _market_overlay_weight(article_count: int) -> float:
+    if article_count >= 5:
+        return 1.0
+    if article_count >= 3:
+        return 0.85
+    if article_count >= 1:
+        return 0.6
+    return 0.35
+
+
+def _weighted_market_effect_count(count: int, *, article_count: int) -> int:
+    if count <= 0:
+        return 0
+    return min(int(count), max(0, int(round(count * _market_overlay_weight(article_count)))))
+
+
 def _add_point(target: list[dict[str, Any]], point: str, confidence: str) -> None:
     normalized = point.strip()
     if not normalized:
@@ -436,6 +462,11 @@ def build_evidence_snapshot(item: dict[str, Any], news_context: dict[str, Any]) 
         for article in classified_market_articles
         if any(effect["direction"] in {"adverse", "mixed"} and effect["adverse_exposures"] for effect in article.get("matched_effects", []))
     ]
+    stock_article_count = len(classified_articles)
+    coverage_quality = _coverage_quality_label(stock_article_count)
+    market_weight_scale = _market_overlay_weight(stock_article_count)
+    effective_supportive_market_count = _weighted_market_effect_count(len(supportive_market_articles), article_count=stock_article_count)
+    effective_adverse_market_count = _weighted_market_effect_count(len(adverse_market_articles), article_count=stock_article_count)
 
     technical = {
         "close": close,
@@ -456,7 +487,8 @@ def build_evidence_snapshot(item: dict[str, Any], news_context: dict[str, Any]) 
     return {
         "technical": technical,
         "news": {
-            "article_count": len(classified_articles),
+            "article_count": stock_article_count,
+            "coverage_quality": coverage_quality,
             "positive_signal_count": len(positive_articles),
             "negative_signal_count": len(negative_articles),
             "catalyst_signal_count": len(catalyst_articles),
@@ -473,6 +505,9 @@ def build_evidence_snapshot(item: dict[str, Any], news_context: dict[str, Any]) 
             "classified_articles": classified_market_articles,
             "supportive_effect_count": len(supportive_market_articles),
             "adverse_effect_count": len(adverse_market_articles),
+            "effective_supportive_effect_count": effective_supportive_market_count,
+            "effective_adverse_effect_count": effective_adverse_market_count,
+            "weight_scale": market_weight_scale,
             "company_profile": {
                 "sector": company_profile.get("sector"),
                 "industry": company_profile.get("industry"),
@@ -489,6 +524,9 @@ def _build_scorecard(item: dict[str, Any], evidence: dict[str, Any]) -> dict[str
     news = evidence["news"]
     sentiment = evidence["sentiment"]
     market = evidence["market"]
+    article_count = int(news.get("article_count") or 0)
+    coverage_quality = str(news.get("coverage_quality") or _coverage_quality_label(article_count))
+    market_weight_scale = float(market.get("weight_scale") or _market_overlay_weight(article_count))
 
     score = 40
     components: list[dict[str, Any]] = [{"label": "Base breakout score", "points": 40}]
@@ -561,16 +599,24 @@ def _build_scorecard(item: dict[str, Any], evidence: dict[str, Any]) -> dict[str
         score -= 5
         components.append({"label": "Legal or investigation headline detected", "points": -5})
 
-    supportive_market = int(market.get("supportive_effect_count") or 0)
-    adverse_market = int(market.get("adverse_effect_count") or 0)
+    supportive_market_raw = int(market.get("supportive_effect_count") or 0)
+    adverse_market_raw = int(market.get("adverse_effect_count") or 0)
+    supportive_market = int(market.get("effective_supportive_effect_count") or 0)
+    adverse_market = int(market.get("effective_adverse_effect_count") or 0)
     if supportive_market:
         points = min(supportive_market * 2, 6)
         score += points
-        components.append({"label": "Supportive market / sector theme overlay", "points": points, "value": supportive_market})
+        label = "Supportive market / sector theme overlay"
+        if market_weight_scale < 1.0:
+            label += " (downweighted because company-specific coverage is limited)"
+        components.append({"label": label, "points": points, "value": supportive_market_raw})
     if adverse_market:
         points = min(adverse_market * 2, 6)
         score -= points
-        components.append({"label": "Adverse market / sector theme overlay", "points": -points, "value": adverse_market})
+        label = "Adverse market / sector theme overlay"
+        if market_weight_scale < 1.0:
+            label += " (downweighted because company-specific coverage is limited)"
+        components.append({"label": label, "points": -points, "value": adverse_market_raw})
 
     sentiment_delta = sentiment.get("delta")
     if sentiment_delta is not None:
@@ -585,10 +631,14 @@ def _build_scorecard(item: dict[str, Any], evidence: dict[str, Any]) -> dict[str
     confidence = "low"
     if technical.get("close") is not None and technical.get("hh20_prev") is not None:
         confidence = "medium"
-    market_matched = int(market.get("supportive_effect_count", 0) or 0) + int(market.get("adverse_effect_count", 0) or 0)
-    if (news.get("article_count", 0) >= 5 or market_matched >= 3) and len(components) >= 5:
+    market_matched = supportive_market + adverse_market
+    if article_count >= 5 and len(components) >= 5:
         confidence = "high"
-    elif news.get("article_count", 0) <= 1 and market_matched == 0 and len(components) <= 4:
+    elif article_count >= 3 and len(components) >= 5 and market_matched + positive_count + negative_count >= 3:
+        confidence = "high"
+    elif coverage_quality == "none":
+        confidence = "low"
+    elif article_count <= 1 and market_matched == 0 and len(components) <= 4:
         confidence = "low"
 
     if score >= 75:
@@ -795,8 +845,14 @@ def generate_python_report(
     positive_count = int(news.get("positive_signal_count") or 0)
     negative_count = int(news.get("negative_signal_count") or 0)
     article_count = int(news.get("article_count") or 0)
-    market_supportive = int(market.get("supportive_effect_count") or 0)
-    market_adverse = int(market.get("adverse_effect_count") or 0)
+    coverage_quality = str(news.get("coverage_quality") or _coverage_quality_label(article_count))
+    market_supportive_raw = int(market.get("supportive_effect_count") or 0)
+    market_adverse_raw = int(market.get("adverse_effect_count") or 0)
+    effective_supportive_value = market.get("effective_supportive_effect_count")
+    effective_adverse_value = market.get("effective_adverse_effect_count")
+    market_supportive = int(effective_supportive_value) if effective_supportive_value is not None else market_supportive_raw
+    market_adverse = int(effective_adverse_value) if effective_adverse_value is not None else market_adverse_raw
+    market_weight_scale = float(market.get("weight_scale") or _market_overlay_weight(article_count))
 
     if positive_count + market_supportive >= negative_count + market_adverse + 2:
         news_support_stance = "supportive"
@@ -810,10 +866,14 @@ def generate_python_report(
         f"The score is driven mainly by the technical breakout picture"
         f"{' and ENTRY_READY status' if item.get('entry_ready') else ''}"
         f", with {positive_count} constructive versus {negative_count} adverse stock-specific signals"
-        f" and a market overlay of {market_supportive} supportive versus {market_adverse} adverse matched macro effects."
+        f" and a market overlay impact of {market_supportive} supportive versus {market_adverse} adverse effects."
     )
 
-    if not article_count and not market.get("article_count"):
+    if coverage_quality == "none":
+        summary += " No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence."
+    elif coverage_quality == "thin":
+        summary += " Company-specific news coverage is still thin, so macro effects are treated as secondary evidence."
+    elif not article_count and not market.get("article_count"):
         summary += " Local symbol and market news coverage is thin, so the stance leans heavily on the feed and price/volume evidence."
 
     thesis = (
@@ -837,8 +897,16 @@ def generate_python_report(
             "explanation": (
                 f"Python classified {article_count} stock-specific articles into {positive_count} constructive, "
                 f"{negative_count} adverse, and {int(news.get('catalyst_signal_count') or 0)} catalyst-tagged signals. "
-                f"It also matched {market_supportive} supportive and {market_adverse} adverse market-theme effects against this name's inferred sector exposures."
+                f"Coverage quality is {coverage_quality}. "
+                f"It matched {market_supportive_raw} supportive and {market_adverse_raw} adverse market-theme effects against this name's inferred sector exposures, "
+                f"then applied a {market_weight_scale:.2f} macro weight because company-specific coverage is {coverage_quality}."
             ),
+        },
+        "coverage": {
+            "quality": coverage_quality,
+            "stock_articles": article_count,
+            "market_articles": int(market.get("article_count") or 0),
+            "market_overlay_weight": round(market_weight_scale, 2),
         },
         "breakout_stance": {
             "label": scorecard["label"],
@@ -854,8 +922,11 @@ def generate_python_report(
             "sector": market["company_profile"].get("sector"),
             "industry": market["company_profile"].get("industry"),
             "exposures": market.get("company_exposures", []),
-            "supportive_effects": market_supportive,
-            "adverse_effects": market_adverse,
+            "supportive_effects": market_supportive_raw,
+            "adverse_effects": market_adverse_raw,
+            "effective_supportive_effects": market_supportive,
+            "effective_adverse_effects": market_adverse,
+            "weight_scale": round(market_weight_scale, 2),
         },
     }
     return report

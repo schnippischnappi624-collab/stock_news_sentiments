@@ -4,17 +4,27 @@
   "analysis_mode": "python",
   "breakout_stance": {
     "confidence": "high",
-    "label": "mixed_watch",
-    "score_0_to_100": 52,
-    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+    "label": "constructive_watch",
+    "score_0_to_100": 63,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 108.54 and attract follow-through volume."
+      "point": "2026-04-10: Federal Realty (FRT) acquires Congressional North Center for $72.3M in Maryland - MSN."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-03: News | Federal Realty acquires Congressional North Shopping Center for $72.3 million - CoStar."
     }
   ],
   "company_name": "Federal Realty Investment Trust",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 13
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -414,6 +424,8 @@
         "provider": "yfinance",
         "sector": "Real Estate"
       },
+      "effective_adverse_effect_count": 5,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -511,20 +523,211 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 13,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Federal Realty Investment Trust stock outperforms competitors on strong trading day - MarketWatch",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "MarketWatch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeFZtRTFjbjlJODdjV1h1SVpzR25Hc2NZcUx0d0Flbm83VUg0YWtxV0dpSHdhcEd3TVZWczNVUVBpNWFZYlJfSVB6WHBhd2hJalduTktCSXRwT2RpSmJMU2cxR1lOLUVpeEdEc3ZrZDl4dUFpTElEUEFVQVhFNTFCMmVBbk9LMmc1MVBYcFFIczBmcnF5WDdaajFZMWl6Uzh2aXo0VlRTdnVfOHNvZWZnMEJackctQmgtOXg4enI0b19tdWNjcGtpVXV1OGk3cWNScUl1MXpLSzV4RVpiT1VrYzEwRzVMRVdYb0poX2YyYkpRQWs?oc=5\" target=\"_blank\">Federal Realty Investment Trust stock outperforms competitors on strong trading day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeFZtRTFjbjlJODdjV1h1SVpzR25Hc2NZcUx0d0Flbm83VUg0YWtxV0dpSHdhcEd3TVZWczNVUVBpNWFZYlJfSVB6WHBhd2hJalduTktCSXRwT2RpSmJMU2cxR1lOLUVpeEdEc3ZrZDl4dUFpTElEUEFVQVhFNTFCMmVBbk9LMmc1MVBYcFFIczBmcnF5WDdaajFZMWl6Uzh2aXo0VlRTdnVfOHNvZWZnMEJackctQmgtOXg4enI0b19tdWNjcGtpVXV1OGk3cWNScUl1MXpLSzV4RVpiT1VrYzEwRzVMRVdYb0poX2YyYkpRQWs?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Federal Realty Investment Trust stock outperforms competitors on strong trading day - MarketWatch",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "MarketWatch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0drNFNGUWNIbWtDMF8wS2ZHaGxrSVpodW5WUldSSEdMckVRQ0FtWWlmbGQtdDJ1QWpaNUI3TUZEYVdndlhqSkFQNjR3czlacFRqUy1kMkNPUjJIMjlNNnFuektXQllfNGFrTFNXdTd0VjcxUF9RMFJsYnlwSTdQMjNOOGJ6TkZPUmpXb0F5OGtScEY5X2g0R3N6UmlOLTNSeklZTmVxNE03ajFSZWN5d2NuLVREdktvTk9XNnJxSlZzYjlHeUhmMHdRVUNnUVRrNFV3NmhEZjA1ZzQ?oc=5\" target=\"_blank\">Federal Realty Investment Trust stock outperforms competitors on strong trading day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0drNFNGUWNIbWtDMF8wS2ZHaGxrSVpodW5WUldSSEdMckVRQ0FtWWlmbGQtdDJ1QWpaNUI3TUZEYVdndlhqSkFQNjR3czlacFRqUy1kMkNPUjJIMjlNNnFuektXQllfNGFrTFNXdTd0VjcxUF9RMFJsYnlwSTdQMjNOOGJ6TkZPUmpXb0F5OGtScEY5X2g0R3N6UmlOLTNSeklZTmVxNE03ajFSZWN5d2NuLVREdktvTk9XNnJxSlZzYjlHeUhmMHdRVUNnUVRrNFV3NmhEZjA1ZzQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-10",
+          "headline": "Federal Realty (FRT) acquires Congressional North Center for $72.3M in Maryland - MSN",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOU1FcHJ2ZVQ1VzRkcVB4TlpZUWRKdzF1TmZ4RnZSNFpkOTJEcWxtZWRHNU1XTUVnem9JX1VpaEFvQjRZUVBrUkllcFBSSklGTm5XY2NzLTZ2X1ZKcVBxWmpqWGdpNmpzVGNXMTUzcVphOFk0MXROZVhfVXVRSU00TnpGVjhQZndVY05uRTVtYnZWazV5dzF2OHpmeFpaMlM2VUljM3cyZmlDT1FGNWJaaTBhN1RIcXA4SU9KbmVZeFI4bE83MzFmN3F2UzBROVFhS0xXX01vanVYMzFrc1p0Rzl4WWMtNDQ4VXl6MlpQbGwxNkZMd0J6U2p1Um1OeTBVWjh5TjlYLWdrQmtpb3N2dkJNU1hBdEF1dk5fNWxxN0hxNTdwSDlaRFRDejJCamo1Ymp2V3BTSmhGNjI4X3k1ZlZnQXptV0RfN2s1WlM2WUI3eFlxNEZOQXo3eXQzS3c?oc=5\" target=\"_blank\">Federal Realty (FRT) acquires Congressional North Center for $72.3M in Maryland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOU1FcHJ2ZVQ1VzRkcVB4TlpZUWRKdzF1TmZ4RnZSNFpkOTJEcWxtZWRHNU1XTUVnem9JX1VpaEFvQjRZUVBrUkllcFBSSklGTm5XY2NzLTZ2X1ZKcVBxWmpqWGdpNmpzVGNXMTUzcVphOFk0MXROZVhfVXVRSU00TnpGVjhQZndVY05uRTVtYnZWazV5dzF2OHpmeFpaMlM2VUljM3cyZmlDT1FGNWJaaTBhN1RIcXA4SU9KbmVZeFI4bE83MzFmN3F2UzBROVFhS0xXX01vanVYMzFrc1p0Rzl4WWMtNDQ4VXl6MlpQbGwxNkZMd0J6U2p1Um1OeTBVWjh5TjlYLWdrQmtpb3N2dkJNU1hBdEF1dk5fNWxxN0hxNTdwSDlaRFRDejJCamo1Ymp2V3BTSmhGNjI4X3k1ZlZnQXptV0RfN2s1WlM2WUI3eFlxNEZOQXo3eXQzS3c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Ladenburg Thalmann Adjusts Price Target on Federal Realty Investment Trust to $125 From $106.79, Maintains Buy Rating - marketscreener.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05263157894736842,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVldsVFNCQWdNUTRPOWhOVEZ5b0NJTHRIQzJrMEowWEhHR0k2Znc5V3IzVm81WXpOWDlGZHdPRnR2MFp2clZoR2dUcTBFZk1fSEpQdDgwUE9zM3ZNRWE4LTFmOG1hbFA3UEhPNFFjR2NKbVJzNUNsSmtoUE9TdlZQZVlqZ2hPclNqVVRRSjRGUVpSR0xGbC1wR3pzeWViUktwWndvc0tILXRsSkhvN1R5UEIyVjFTMjdiQ0FnNEVWVUdYSDNQUXF3UVkwY081TjZZSkV4eFJIQ2pBdHV3S0ZLMDl2V0Q?oc=5\" target=\"_blank\">Ladenburg Thalmann Adjusts Price Target on Federal Realty Investment Trust to $125 From $106.79, Maintains Buy Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVldsVFNCQWdNUTRPOWhOVEZ5b0NJTHRIQzJrMEowWEhHR0k2Znc5V3IzVm81WXpOWDlGZHdPRnR2MFp2clZoR2dUcTBFZk1fSEpQdDgwUE9zM3ZNRWE4LTFmOG1hbFA3UEhPNFFjR2NKbVJzNUNsSmtoUE9TdlZQZVlqZ2hPclNqVVRRSjRGUVpSR0xGbC1wR3pzeWViUktwWndvc0tILXRsSkhvN1R5UEIyVjFTMjdiQ0FnNEVWVUdYSDNQUXF3UVkwY081TjZZSkV4eFJIQ2pBdHV3S0ZLMDl2V0Q?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "A Look At Federal Realty (FRT) Valuation After Recent Mixed Return Performance - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlh3UnFfZXdDLWpydzd6ZDlTUk1qbTRzVkE2VjgwYTkycy05NVlBZ2tpSl9yWi1nVFM2bXJIWW9yM0hCYTJEWGVaWGh0YXZ6YkI5ekEySWVYNDBteEQ0WHBLcnlMRm1MTHRPU3hFd3pzZmd4ekEwNHVieWJmT01YSUdhR1RSdnR2ZEN6WkFWajl2WDZOYXFkODQ4Q2dBaGs?oc=5\" target=\"_blank\">A Look At Federal Realty (FRT) Valuation After Recent Mixed Return Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlh3UnFfZXdDLWpydzd6ZDlTUk1qbTRzVkE2VjgwYTkycy05NVlBZ2tpSl9yWi1nVFM2bXJIWW9yM0hCYTJEWGVaWGh0YXZ6YkI5ekEySWVYNDBteEQ0WHBLcnlMRm1MTHRPU3hFd3pzZmd4ekEwNHVieWJmT01YSUdhR1RSdnR2ZEN6WkFWajl2WDZOYXFkODQ4Q2dBaGs?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Oak Thistle LLC Buys 18,834 Shares of Federal Realty Investment Trust $FRT - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMm9Ja2JId1NRejVsU3h3eWVUbVRxUU1pUjlhWFgybEY1dnM2UnRUWlE4ZlVXZ3hLNUg5MExWcEFjY0ZPMTFzV295dzhFQ1U0ejFkWHRLU2M1anJleGVBdXkxVW9WUVgtMUZ2dDBGRTdTVkM0ZlZRNXhwSTBzZi1xV0JWMXFLbjlUekNvRURYRDZ3YzBBUG9TaXdwR3ZkNWJLRVBtUWZrSGJtcUUtM0ItTkNFcFdIMUN2SlZObjg2eV9qS2U0U1gzTXBoczYtZw?oc=5\" target=\"_blank\">Oak Thistle LLC Buys 18,834 Shares of Federal Realty Investment Trust $FRT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMm9Ja2JId1NRejVsU3h3eWVUbVRxUU1pUjlhWFgybEY1dnM2UnRUWlE4ZlVXZ3hLNUg5MExWcEFjY0ZPMTFzV295dzhFQ1U0ejFkWHRLU2M1anJleGVBdXkxVW9WUVgtMUZ2dDBGRTdTVkM0ZlZRNXhwSTBzZi1xV0JWMXFLbjlUekNvRURYRDZ3YzBBUG9TaXdwR3ZkNWJLRVBtUWZrSGJtcUUtM0ItTkNFcFdIMUN2SlZObjg2eV9qS2U0U1gzTXBoczYtZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "FRT Stock Price, Quote & Chart | FEDERAL REALTY INVS TRUST (NYSE:FRT) - ChartMill",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "ChartMill",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zekRXWF9HcVFWMHZlcEZvbmpUSndReFg4em1qdTB3YlJLQ2pxN2w4Z0RGRlFpUnVlTmNtY2NiTzBGXzhsc0JBdjY2TEFUQ1hOYjZMb1NyYTRtaXVsNEE?oc=5\" target=\"_blank\">FRT Stock Price, Quote & Chart | FEDERAL REALTY INVS TRUST (NYSE:FRT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChartMill</font>",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zekRXWF9HcVFWMHZlcEZvbmpUSndReFg4em1qdTB3YlJLQ2pxN2w4Z0RGRlFpUnVlTmNtY2NiTzBGXzhsc0JBdjY2TEFUQ1hOYjZMb1NyYTRtaXVsNEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Federal Realty Dividend King Record And Portfolio Recycling Under Scrutiny - Sahm",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.08333333333333333,
+          "source": "Sahm",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXZhc1RqUXBtQUxjeG00N3FwNnBnRF9uN211S080OEUxaGx1MlB3bndPNmZGbWRqUm00bExYODJzZUpEX2ItZG5zcTk4QWVOUUs4RXJhbFc1WDl5eWllc2tYVXA4d2psY0FGS2FXenMxVENVZVY2S0ctTG5ObnJqTFNYSnNOQ1gwMHlnUC0yRjRSN09qNDFzUkQxNkNnOGlNanJFWDRYTWZfY3RsZTNmR0JYbGExNFRCUHE0cF94NndZY3lE?oc=5\" target=\"_blank\">Federal Realty Dividend King Record And Portfolio Recycling Under Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXZhc1RqUXBtQUxjeG00N3FwNnBnRF9uN211S080OEUxaGx1MlB3bndPNmZGbWRqUm00bExYODJzZUpEX2ItZG5zcTk4QWVOUUs4RXJhbFc1WDl5eWllc2tYVXA4d2psY0FGS2FXenMxVENVZVY2S0ctTG5ObnJqTFNYSnNOQ1gwMHlnUC0yRjRSN09qNDFzUkQxNkNnOGlNanJFWDRYTWZfY3RsZTNmR0JYbGExNFRCUHE0cF94NndZY3lE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-07",
+          "headline": "Federal Realty Dividend King Record And Portfolio Recycling Under Scrutiny - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.08333333333333333,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWROUEEycGVvSi1EYndxQ0otN0prQjl2d1lKRFBXbFdfcklfSDQ1cWVJSGY4VEtnYTF1b3JyMVczQVNRNzRSMDBpYzdESDc3N1VCTkRfUWJOOWs4bjlZdnRFREROMTdTYnlyQ1RTMmNtQnVzMjFTUFkxalJDNmlwamQ5N2ZfMzdiYzVXekswRTlEcmN2TTNFSkR2WmFvd2NVNW8yLWU1THhldzRwRWR5ZjI4bWNza0ltbWhIZlRTZjNPLW15OTBBbFBZV2lLR3ZkVUtsU1NGcEs4aEs0cGx4WVJMUdIB6AFBVV95cUxOVDFkbVVUSHZPZS01MGQyWWVoempnS25VZ3ZoWHpTMFlDeTMzUnZZRmw0Ry1sSE55ZEM5N2cyR19tQ0RYNTA3anFneEFya0hGVTY2S0trR3RKbUliaFdGY19TQ25MaFQ0bjFsemsyak5Jb25IeDA2V0lFLUo1dVZmdk1BVms2Y1k5MG45WEplMVVOamZBbERObGxTaTRPMlpzV2hxLVE5WDdxaGNMbDZaNl9sMVV5Zk1iZ19pWUpmTVFOeGgzb2R4RE8tM0pfbkFCVF9Ea0NCSFA0U2s5QjY3S1pFYTFYTkQ5?oc=5\" target=\"_blank\">Federal Realty Dividend King Record And Portfolio Recycling Under Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWROUEEycGVvSi1EYndxQ0otN0prQjl2d1lKRFBXbFdfcklfSDQ1cWVJSGY4VEtnYTF1b3JyMVczQVNRNzRSMDBpYzdESDc3N1VCTkRfUWJOOWs4bjlZdnRFREROMTdTYnlyQ1RTMmNtQnVzMjFTUFkxalJDNmlwamQ5N2ZfMzdiYzVXekswRTlEcmN2TTNFSkR2WmFvd2NVNW8yLWU1THhldzRwRWR5ZjI4bWNza0ltbWhIZlRTZjNPLW15OTBBbFBZV2lLR3ZkVUtsU1NGcEs4aEs0cGx4WVJMUdIB6AFBVV95cUxOVDFkbVVUSHZPZS01MGQyWWVoempnS25VZ3ZoWHpTMFlDeTMzUnZZRmw0Ry1sSE55ZEM5N2cyR19tQ0RYNTA3anFneEFya0hGVTY2S0trR3RKbUliaFdGY19TQ25MaFQ0bjFsemsyak5Jb25IeDA2V0lFLUo1dVZmdk1BVms2Y1k5MG45WEplMVVOamZBbERObGxTaTRPMlpzV2hxLVE5WDdxaGNMbDZaNl9sMVV5Zk1iZ19pWUpmTVFOeGgzb2R4RE8tM0pfbkFCVF9Ea0NCSFA0U2s5QjY3S1pFYTFYTkQ5?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-06",
+          "headline": "Federal Realty pivots again at Pike & Rose, nixing lab space in favor of boutique office - The Business Journals",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Business Journals",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONTRUbmp4YjFJek90Wk12TGhiRDBXOUEtUXlCSTNLellUbWswa05uS2xqcmhHWHgwbGtZdTViTlhmY0pyclhhZGkwWHgyT01MQkdIc3N1R0hSUVBBd205MkcyZnlDclI0ci1mR2tCT1doSW10bWttSHdVTU9maDhUbHM1VWcyWmp1ZWRkZXlBb2xiSzkzbkF1WDNPZnpmSTAyblFXX1NTZEVibWZW?oc=5\" target=\"_blank\">Federal Realty pivots again at Pike & Rose, nixing lab space in favor of boutique office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTRUbmp4YjFJek90Wk12TGhiRDBXOUEtUXlCSTNLellUbWswa05uS2xqcmhHWHgwbGtZdTViTlhmY0pyclhhZGkwWHgyT01MQkdIc3N1R0hSUVBBd205MkcyZnlDclI0ci1mR2tCT1doSW10bWttSHdVTU9maDhUbHM1VWcyWmp1ZWRkZXlBb2xiSzkzbkF1WDNPZnpmSTAyblFXX1NTZEVibWZW?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-03",
+          "headline": "News | Federal Realty acquires Congressional North Shopping Center for $72.3 million - CoStar",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "CoStar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWtMaEhCaTNPQ21teU1jb3UwSmlWX2c3MU5ZdlAzNHFnTmRVUmxaM0JLN2VvTldqQ3MzRnVRNExjbE1haTNtRGgtLVFDd3hGWnJwQVFzblB2VHBuSERTQm1lUnhKaFJET2NQTnBLMHlFXzBSVFVhdVRZSXNBSUJXMC0wSF9hTFpSZGUwZHpUdkJ2emgzQ1J0Z1VMbDVodEpVV0RkQk1Hd2w3a1FYYXUxcWJpdlRFV0JJcVE?oc=5\" target=\"_blank\">News | Federal Realty acquires Congressional North Shopping Center for $72.3 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoStar</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWtMaEhCaTNPQ21teU1jb3UwSmlWX2c3MU5ZdlAzNHFnTmRVUmxaM0JLN2VvTldqQ3MzRnVRNExjbE1haTNtRGgtLVFDd3hGWnJwQVFzblB2VHBuSERTQm1lUnhKaFJET2NQTnBLMHlFXzBSVFVhdVRZSXNBSUJXMC0wSF9hTFpSZGUwZHpUdkJ2emgzQ1J0Z1VMbDVodEpVV0RkQk1Hd2w3a1FYYXUxcWJpdlRFV0JJcVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-30",
+          "headline": "How The Federal Realty (FRT) Story Is Shifting As Analysts Rework Valuation Targets - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFc5UjQ5eHM2MlhzdXMyajBKbDNYNEcyVFlnSkNhbndwcUU3elEwZkZzRG1zWlFyVnpuUnZobHZyRTlFRkVNZ1diMHVIRVpma0NRRFY2Y3hHd3dQb0taQU5BWVJtSzJLUHU3Z2tKZjNxaXhtOXVseWxRWk1IMnJQOWRONzhvS3Y0aHo1d0Z5OWNISWQzVjVCbzhmbkxCM2s?oc=5\" target=\"_blank\">How The Federal Realty (FRT) Story Is Shifting As Analysts Rework Valuation Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFc5UjQ5eHM2MlhzdXMyajBKbDNYNEcyVFlnSkNhbndwcUU3elEwZkZzRG1zWlFyVnpuUnZobHZyRTlFRkVNZ1diMHVIRVpma0NRRFY2Y3hHd3dQb0taQU5BWVJtSzJLUHU3Z2tKZjNxaXhtOXVseWxRWk1IMnJQOWRONzhvS3Y0aHo1d0Z5OWNISWQzVjVCbzhmbkxCM2s?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-28",
+          "headline": "Federal Realty Stock: A Dividend King Built For Market Volatility (NYSE:FRT) - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTBKeUc3NUtzN3ZBRHY2d1JyV3FTU1I0T0lxUWpuUTVEdVhHSm9LVmNHRjhXTGxtZHhxdWtRU012Mk1CRHdRMGtULWNOS2huVUg5V2JoUUgtcElpQ0x6RHhoYnpmd3JVTTlYY3NHamhnaU5Rc3FpUEpXaVRmR3RaRGNPMldRWkwzSUJ3cW5EdG5HekQwMlpDaVV4R20xSkpj?oc=5\" target=\"_blank\">Federal Realty Stock: A Dividend King Built For Market Volatility (NYSE:FRT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTBKeUc3NUtzN3ZBRHY2d1JyV3FTU1I0T0lxUWpuUTVEdVhHSm9LVmNHRjhXTGxtZHhxdWtRU012Mk1CRHdRMGtULWNOS2huVUg5V2JoUUgtcElpQ0x6RHhoYnpmd3JVTTlYY3NHamhnaU5Rc3FpUEpXaVRmR3RaRGNPMldRWkwzSUJ3cW5EdG5HekQwMlpDaVV4R20xSkpj?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 7
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 7,
+      "delta": 0.05192869995501575,
+      "prior_mean": 0.0,
+      "recent_mean": 0.05192869995501575
     },
     "technical": {
       "atr14": 1.874712205766,
@@ -544,17 +747,20 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 5,
+    "effective_supportive_effects": 0,
     "exposures": [
       "consumer",
       "reits"
     ],
     "industry": "REIT - Retail",
     "sector": "Real Estate",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
-    "stance": "conflicting"
+    "explanation": "Python classified 13 stock-specific articles into 7 constructive, 0 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
   },
   "recent_weakness": [
     {
@@ -578,6 +784,14 @@
     {
       "confidence": "medium",
       "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-10: Federal Realty Investment Trust stock outperforms competitors on strong trading day - MarketWatch."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-10: Federal Realty (FRT) acquires Congressional North Center for $72.3M in Maryland - MSN."
     }
   ],
   "risks": [
@@ -634,14 +848,24 @@
         "value": 7.06
       },
       {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 7
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -6,
         "value": 5
+      },
+      {
+        "label": "Headline sentiment is improving",
+        "points": 3,
+        "value": 0.052
       }
     ],
     "confidence": "high",
-    "label": "mixed_watch",
-    "score_0_to_100": 52
+    "label": "constructive_watch",
+    "score_0_to_100": 63
   },
   "sources": [
     {
@@ -651,36 +875,48 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5"
+      "published_at": "2026-04-10",
+      "publisher": "MarketWatch",
+      "title": "Federal Realty Investment Trust stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeFZtRTFjbjlJODdjV1h1SVpzR25Hc2NZcUx0d0Flbm83VUg0YWtxV0dpSHdhcEd3TVZWczNVUVBpNWFZYlJfSVB6WHBhd2hJalduTktCSXRwT2RpSmJMU2cxR1lOLUVpeEdEc3ZrZDl4dUFpTElEUEFVQVhFNTFCMmVBbk9LMmc1MVBYcFFIczBmcnF5WDdaajFZMWl6Uzh2aXo0VlRTdnVfOHNvZWZnMEJackctQmgtOXg4enI0b19tdWNjcGtpVXV1OGk3cWNScUl1MXpLSzV4RVpiT1VrYzEwRzVMRVdYb0poX2YyYkpRQWs?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley\u2019s Mike Wilson.",
-      "url": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories"
+      "published_at": "2026-04-10",
+      "publisher": "MarketWatch",
+      "title": "Federal Realty Investment Trust stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0drNFNGUWNIbWtDMF8wS2ZHaGxrSVpodW5WUldSSEdMckVRQ0FtWWlmbGQtdDJ1QWpaNUI3TUZEYVdndlhqSkFQNjR3czlacFRqUy1kMkNPUjJIMjlNNnFuektXQllfNGFrTFNXdTd0VjcxUF9RMFJsYnlwSTdQMjNOOGJ6TkZPUmpXb0F5OGtScEY5X2g0R3N6UmlOLTNSeklZTmVxNE03ajFSZWN5d2NuLVREdktvTk9XNnJxSlZzYjlHeUhmMHdRVUNnUVRrNFV3NmhEZjA1ZzQ?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Populism lost in Hungary but still might win the war, one strategist argues",
-      "url": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories"
+      "published_at": "2026-04-10",
+      "publisher": "MSN",
+      "title": "Federal Realty (FRT) acquires Congressional North Center for $72.3M in Maryland - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOU1FcHJ2ZVQ1VzRkcVB4TlpZUWRKdzF1TmZ4RnZSNFpkOTJEcWxtZWRHNU1XTUVnem9JX1VpaEFvQjRZUVBrUkllcFBSSklGTm5XY2NzLTZ2X1ZKcVBxWmpqWGdpNmpzVGNXMTUzcVphOFk0MXROZVhfVXVRSU00TnpGVjhQZndVY05uRTVtYnZWazV5dzF2OHpmeFpaMlM2VUljM3cyZmlDT1FGNWJaaTBhN1RIcXA4SU9KbmVZeFI4bE83MzFmN3F2UzBROVFhS0xXX01vanVYMzFrc1p0Rzl4WWMtNDQ4VXl6MlpQbGwxNkZMd0J6U2p1Um1OeTBVWjh5TjlYLWdrQmtpb3N2dkJNU1hBdEF1dk5fNWxxN0hxNTdwSDlaRFRDejJCamo1Ymp2V3BTSmhGNjI4X3k1ZlZnQXptV0RfN2s1WlM2WUI3eFlxNEZOQXo3eXQzS3c?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "published_at": "2026-04-10",
+      "publisher": "marketscreener.com",
+      "title": "Ladenburg Thalmann Adjusts Price Target on Federal Realty Investment Trust to $125 From $106.79, Maintains Buy Rating - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVldsVFNCQWdNUTRPOWhOVEZ5b0NJTHRIQzJrMEowWEhHR0k2Znc5V3IzVm81WXpOWDlGZHdPRnR2MFp2clZoR2dUcTBFZk1fSEpQdDgwUE9zM3ZNRWE4LTFmOG1hbFA3UEhPNFFjR2NKbVJzNUNsSmtoUE9TdlZQZVlqZ2hPclNqVVRRSjRGUVpSR0xGbC1wR3pzeWViUktwWndvc0tILXRsSkhvN1R5UEIyVjFTMjdiQ0FnNEVWVUdYSDNQUXF3UVkwY081TjZZSkV4eFJIQ2pBdHV3S0ZLMDl2V0Q?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
+      "published_at": "2026-04-08",
+      "publisher": "Yahoo Finance",
+      "title": "A Look At Federal Realty (FRT) Valuation After Recent Mixed Return Performance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlh3UnFfZXdDLWpydzd6ZDlTUk1qbTRzVkE2VjgwYTkycy05NVlBZ2tpSl9yWi1nVFM2bXJIWW9yM0hCYTJEWGVaWGh0YXZ6YkI5ekEySWVYNDBteEQ0WHBLcnlMRm1MTHRPU3hFd3pzZmd4ekEwNHVieWJmT01YSUdhR1RSdnR2ZEN6WkFWajl2WDZOYXFkODQ4Q2dBaGs?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "MarketBeat",
+      "title": "Oak Thistle LLC Buys 18,834 Shares of Federal Realty Investment Trust $FRT - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMm9Ja2JId1NRejVsU3h3eWVUbVRxUU1pUjlhWFgybEY1dnM2UnRUWlE4ZlVXZ3hLNUg5MExWcEFjY0ZPMTFzV295dzhFQ1U0ejFkWHRLU2M1anJleGVBdXkxVW9WUVgtMUZ2dDBGRTdTVkM0ZlZRNXhwSTBzZi1xV0JWMXFLbjlUekNvRURYRDZ3YzBBUG9TaXdwR3ZkNWJLRVBtUWZrSGJtcUUtM0ItTkNFcFdIMUN2SlZObjg2eV9qS2U0U1gzTXBoczYtZw?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "ChartMill",
+      "title": "FRT Stock Price, Quote & Chart | FEDERAL REALTY INVS TRUST (NYSE:FRT) - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zekRXWF9HcVFWMHZlcEZvbmpUSndReFg4em1qdTB3YlJLQ2pxN2w4Z0RGRlFpUnVlTmNtY2NiTzBGXzhsc0JBdjY2TEFUQ1hOYjZMb1NyYTRtaXVsNEE?oc=5"
     }
   ],
-  "summary": "FRT scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "FRT scores 63/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 7 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.",
   "symbol": "FRT"
 }

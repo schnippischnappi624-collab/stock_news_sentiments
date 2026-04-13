@@ -3,18 +3,32 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
-    "score_0_to_100": 76,
+    "score_0_to_100": 82,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 51.00 and attract follow-through volume."
+      "point": "2026-04-13: NSE's Rs 20,000 crore mega IPO gears up for launch: Who can sell shares via OFS? Check eligibility, rules, - The Economic Times."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-13: NSE\u2019s Nanosecond-level order acknowledgement: Transformative upgrade - How it will benefit - Business Today."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-06: India's NSE to launch Platts\u2011based crude futures in tie-up with S&P Global Energy - Reuters."
     }
   ],
   "company_name": "NSE SA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 9
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 1,
@@ -323,6 +337,8 @@
         "provider": "yfinance",
         "sector": "Technology"
       },
+      "effective_adverse_effect_count": 1,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -334,20 +350,154 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 9,
+      "catalyst_signal_count": 3,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "NSE gets MCA nod for coal exchange entity name - BusinessLine",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "BusinessLine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVQxczhkRktGeVdUVmFfRXNoVllRVkV2RWZsamRrYjZueUYwT3hrSDhUWmxGY2J0N3UyLXpkRXRGT3JTWEpFTVJ5Zzc0OThnRU5zNjk5c01nVkk4c3hkRXVuV0d3akdHVnlMYXVQaXFNc01XajgyQUxJYkx1NDNHSENOaDdwZUZXbTJwSW1yRHExMThfeGhjbl92YWFuaXNDUWE5X3NPdDQ0QXYtOFA5SNIBtwFBVV95cUxNQkVLbVJZUTEweTBacEJJa05iOER2c1dqeVFCVmxMMW54QmFzQTZ1dmd6UHJjMDMyMXFoMG9wYTFFNGQ5YjNOaWdBdzlzbGloR3VPRFBaZTdHekItNllKalktbUdfX1lrRU1saVRkWWFLWHgxeXNWZ1ZuaEhRM1lRdWhxT1dLM1BtTVV5RmtsWFNvMzA4N0Q2OU5EVm5kNjA4czU4NF96MkEzVVdRTVgxcElucGVBZVE?oc=5\" target=\"_blank\">NSE gets MCA nod for coal exchange entity name</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVQxczhkRktGeVdUVmFfRXNoVllRVkV2RWZsamRrYjZueUYwT3hrSDhUWmxGY2J0N3UyLXpkRXRGT3JTWEpFTVJ5Zzc0OThnRU5zNjk5c01nVkk4c3hkRXVuV0d3akdHVnlMYXVQaXFNc01XajgyQUxJYkx1NDNHSENOaDdwZUZXbTJwSW1yRHExMThfeGhjbl92YWFuaXNDUWE5X3NPdDQ0QXYtOFA5SNIBtwFBVV95cUxNQkVLbVJZUTEweTBacEJJa05iOER2c1dqeVFCVmxMMW54QmFzQTZ1dmd6UHJjMDMyMXFoMG9wYTFFNGQ5YjNOaWdBdzlzbGloR3VPRFBaZTdHekItNllKalktbUdfX1lrRU1saVRkWWFLWHgxeXNWZ1ZuaEhRM1lRdWhxT1dLM1BtTVV5RmtsWFNvMzA4N0Q2OU5EVm5kNjA4czU4NF96MkEzVVdRTVgxcElucGVBZVE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-13",
+          "headline": "NSE's Rs 20,000 crore mega IPO gears up for launch: Who can sell shares via OFS? Check eligibility, rules, - The Economic Times",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Economic Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNcTlFYkN5QkxGNjY4SHZ2NzFTNUM3eHR3NHNzWFZjWnZ1WnoxdDVjRE1MQWpQa3NqOGM3RmpIbEtDMEJfZGI4RmQzOHhqZlVFbVV5ZHRTbEJfYTJ2UktKaTRRLUloR216UHRuRWl6MXdWbVN3RFVEREVxcXhLZE4teFZ3NXJoYUdtWXhHVTYzVjVfdzgzN2FOcmh0SXpoNF8zQml6Z1NlNUtfelp3Rm1fWWFWLThrSldndTBIWTUyYVF0QVlFaHpaWXFEV0NwZWIzdXh4SC1WQTNkQXQxb0tyRkJpVTJJcmEtUlVVaVNFRC1TOUJXSVd0STJyTHRzV09FM2hwYzZLMlAtUHVhTmNiSGpOQ2x0c3Y3UTFj0gGgAkFVX3lxTE5kakZpRmE4NTZLNWlxTVFvUzl0U014M0ZyQjVJWGJteUpValRvdkRiUVhWLTdyQkIwYnlURTJxMXIyLU9EZkY1TGYta0ljXzhSQVVWb3NCd3lPa01DT3RNZ29LWTEzbkZOUHRaV24tRHp5X0diVXdPX0NmVU9zRERTNWpZYXRwd1NyT21RV29MaU96ZUhUdXdBOFRDSTh6TDVrUnRNWjY5bVJ4dV9TX0tfUlhRM1JLNVoyQzMzMFpuQnRZYVgyTFFNdmdybDE2SV9vM0s0bUdvRkctOHA4VkNvWGNHSUk3Z0RuSEZObXVBT2JIWlJQdWVsVVJKSUhhdmt2RzZDRzFMaEVXOS1sekZTWDIySXJteXNjRTRpSk9DRQ?oc=5\" target=\"_blank\">NSE's Rs 20,000 crore mega IPO gears up for launch: Who can sell shares via OFS? Check eligibility, rules,</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcTlFYkN5QkxGNjY4SHZ2NzFTNUM3eHR3NHNzWFZjWnZ1WnoxdDVjRE1MQWpQa3NqOGM3RmpIbEtDMEJfZGI4RmQzOHhqZlVFbVV5ZHRTbEJfYTJ2UktKaTRRLUloR216UHRuRWl6MXdWbVN3RFVEREVxcXhLZE4teFZ3NXJoYUdtWXhHVTYzVjVfdzgzN2FOcmh0SXpoNF8zQml6Z1NlNUtfelp3Rm1fWWFWLThrSldndTBIWTUyYVF0QVlFaHpaWXFEV0NwZWIzdXh4SC1WQTNkQXQxb0tyRkJpVTJJcmEtUlVVaVNFRC1TOUJXSVd0STJyTHRzV09FM2hwYzZLMlAtUHVhTmNiSGpOQ2x0c3Y3UTFj0gGgAkFVX3lxTE5kakZpRmE4NTZLNWlxTVFvUzl0U014M0ZyQjVJWGJteUpValRvdkRiUVhWLTdyQkIwYnlURTJxMXIyLU9EZkY1TGYta0ljXzhSQVVWb3NCd3lPa01DT3RNZ29LWTEzbkZOUHRaV24tRHp5X0diVXdPX0NmVU9zRERTNWpZYXRwd1NyT21RV29MaU96ZUhUdXdBOFRDSTh6TDVrUnRNWjY5bVJ4dV9TX0tfUlhRM1JLNVoyQzMzMFpuQnRZYVgyTFFNdmdybDE2SV9vM0s0bUdvRkctOHA4VkNvWGNHSUk3Z0RuSEZObXVBT2JIWlJQdWVsVVJKSUhhdmt2RzZDRzFMaEVXOS1sekZTWDIySXJteXNjRTRpSk9DRQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Stock market holiday: NSE, BSE to remain shut on this date in April. Here's why | Business News - Hindustan Times",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Hindustan Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjI3dmNJdEUwSzVQWmRMODVwSnFHT2gwMmR2Mm5kdXc3SkY2djhEeHlOT3hMVGM2c3lmWmIyc0lYaHNEbG1mNEw0UlFyRXJ2dmdaRm9sZXJOa2lGM0tObGpiNmlLSVdIenp3X1luMnBDWDFhU21xTGhoMXdveVBFZGhTeFFIRGxOS2JmMWtfNTBVUzBsRm0wSG1QQ05xNGQ1MG9aWDI1bnMyc2FTWFgwSmloc2RycnREWmlabWdJbUVVR3VW0gHKAUFVX3lxTFBKbms1N1o2cFF3bGVralplSFJJNk9TNHBqV1JPTmxQbUZqdDJLa3RhODhHVHp1YWRfNHBkcWoxdUxfYWhpbDhWVHJ6M2trbVZ0azRhVnpKM0tGbk92VEdMXzZtMnpoZUpoS0lnX0U1YnBvRWp0c3RxYlpfQWUweFhtNFVDODFUNG94cFJVRmQ1aHo0SlJxUTFINjdrYnJMS1o5WXlaMTAtUEJCSGh2RDh6eG1WbUJxLXFhWGttclpickZZS3JzMGJhaVE?oc=5\" target=\"_blank\">Stock market holiday: NSE, BSE to remain shut on this date in April. Here's why | Business News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjI3dmNJdEUwSzVQWmRMODVwSnFHT2gwMmR2Mm5kdXc3SkY2djhEeHlOT3hMVGM2c3lmWmIyc0lYaHNEbG1mNEw0UlFyRXJ2dmdaRm9sZXJOa2lGM0tObGpiNmlLSVdIenp3X1luMnBDWDFhU21xTGhoMXdveVBFZGhTeFFIRGxOS2JmMWtfNTBVUzBsRm0wSG1QQ05xNGQ1MG9aWDI1bnMyc2FTWFgwSmloc2RycnREWmlabWdJbUVVR3VW0gHKAUFVX3lxTFBKbms1N1o2cFF3bGVralplSFJJNk9TNHBqV1JPTmxQbUZqdDJLa3RhODhHVHp1YWRfNHBkcWoxdUxfYWhpbDhWVHJ6M2trbVZ0azRhVnpKM0tGbk92VEdMXzZtMnpoZUpoS0lnX0U1YnBvRWp0c3RxYlpfQWUweFhtNFVDODFUNG94cFJVRmQ1aHo0SlJxUTFINjdrYnJMS1o5WXlaMTAtUEJCSGh2RDh6eG1WbUJxLXFhWGttclpickZZS3JzMGJhaVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Vodafone Idea, Ola Electric, Suzlon Energy\u2014 These are among most traded stocks on NSE today, April 13, 2026 - Mint",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Mint",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNemFBVDZQYkpUUjZLVDJJU3NQX0ItUmkxTGVxbzFnczlUMnBHekJmWXpMTFZNSC02S1NkTkw5MHFmWE9kSDVWVHFMVDhVYkY1bGZNeUNKMzJ1M1FYLWRzSEZSNm9BYjZjeGNRUEI5Sl9OMjJ2OW9pcEFLcDJDNG9wTmdBQ0dJbkFfeVhjUmh0LW9FOE5tSGlDQnZuQjZ3QVJRZjZwSGRrSjc4QVBSY1NLd0pYWUxoN2xvd1RqNFNwbHRwSUlDT0hiLV9xU0JrQmcwUXY4SXF3LTQtbXdZRTJ3dXZ0cmF6WThWenIwYmxjZVR2MzF2MHFqUlVubDRpaFZWWEHSAYcCQVVfeXFMTXNRb2ptVklLY3pOSGdYUjhxc1ZJUmEwVTVMOHkwZVdTWjFfb2tSck8wekFPY2NDWmkwaEhrSGp3X091TWJiSHNIZ3F0aGJaMlUxSnFWU3JFR3pJYmlEU3VKLW9Uc3UwVXUwbHZsdjV1dmpCSHVLQ0doZXFycGNTTXJkdmItZWhta3otajU3V3Y5UF9RRHdwUTlYcDZERDRlLXhPQWZRX0U1VUpaRjZJLWFWNFFXczdjaFJROTNYWG4tYlJzajItVUk2VzhaS3RRSkRfMTV2dnpqQ0N1ZGpjUmFnY0RVX0lYUlNfVktXUjdNLTIwX3VwLXUyQkZya25DYUhkVmRNUW8?oc=5\" target=\"_blank\">Vodafone Idea, Ola Electric, Suzlon Energy\u2014 These are among most traded stocks on NSE today, April 13, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNemFBVDZQYkpUUjZLVDJJU3NQX0ItUmkxTGVxbzFnczlUMnBHekJmWXpMTFZNSC02S1NkTkw5MHFmWE9kSDVWVHFMVDhVYkY1bGZNeUNKMzJ1M1FYLWRzSEZSNm9BYjZjeGNRUEI5Sl9OMjJ2OW9pcEFLcDJDNG9wTmdBQ0dJbkFfeVhjUmh0LW9FOE5tSGlDQnZuQjZ3QVJRZjZwSGRrSjc4QVBSY1NLd0pYWUxoN2xvd1RqNFNwbHRwSUlDT0hiLV9xU0JrQmcwUXY4SXF3LTQtbXdZRTJ3dXZ0cmF6WThWenIwYmxjZVR2MzF2MHFqUlVubDRpaFZWWEHSAYcCQVVfeXFMTXNRb2ptVklLY3pOSGdYUjhxc1ZJUmEwVTVMOHkwZVdTWjFfb2tSck8wekFPY2NDWmkwaEhrSGp3X091TWJiSHNIZ3F0aGJaMlUxSnFWU3JFR3pJYmlEU3VKLW9Uc3UwVXUwbHZsdjV1dmpCSHVLQ0doZXFycGNTTXJkdmItZWhta3otajU3V3Y5UF9RRHdwUTlYcDZERDRlLXhPQWZRX0U1VUpaRjZJLWFWNFFXczdjaFJROTNYWG4tYlJzajItVUk2VzhaS3RRSkRfMTV2dnpqQ0N1ZGpjUmFnY0RVX0lYUlNfVktXUjdNLTIwX3VwLXUyQkZya25DYUhkVmRNUW8?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-13",
+          "headline": "NSE\u2019s Nanosecond-level order acknowledgement: Transformative upgrade - How it will benefit - Business Today",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial",
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "Business Today",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOajFheG5YOVAzWldjdGdTYVNjZ19URlBmQ0toS0xxZDlQMkExZjBabkVTYmEzUkJYZjVBWTFMQzM4ZlUwc0gwTVJJUXRlM0hmeTB3dGJMVHpMTmlMWFMyNVQ4Tzd1bVd3czRvWVViMkxnN3JSMGp2MkhkZExheXBGYjlnR2ltNHAzclZzNC1hcEJpR1AtLW5SN2djZm51dGVUTWtMY0tNZ0RDVTNCcG5wSnJGem9PQ0pfWnEySkdjWmg1aVpjZVVuSE5UNjdUajlERGU0ZEh4VFRrUXh2V0NRX9IB5gFBVV95cUxPeldiYjdFQzRGYmZIeHJ6dHo1bnpNWXZJLWZ5NHk0Vk83LTNFTlc0MC1ZbEtGS0kxTTNnLW1VS2JtbFk4UDI1cjhCd2p3bW5GdG5SVmhfWDA5bEduVzZPVGV1S3pXRXcwajFZNXJTcWxCWHdpeGM3UlNwRFhHNFhoYkVULU8xYnFfSlVBS3o1dEJqNjZONF9MWEl3TE1lM1IwczBrRlN2ekhGMThtTG53U0tXVGtyYlNfOVpheDVkWmhsa0pxSEJYclRtTlp2OVNEVlBnVlprSzdNWTkzQ0MwQlB0VVZOZw?oc=5\" target=\"_blank\">NSE\u2019s Nanosecond-level order acknowledgement: Transformative upgrade - How it will benefit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOajFheG5YOVAzWldjdGdTYVNjZ19URlBmQ0toS0xxZDlQMkExZjBabkVTYmEzUkJYZjVBWTFMQzM4ZlUwc0gwTVJJUXRlM0hmeTB3dGJMVHpMTmlMWFMyNVQ4Tzd1bVd3czRvWVViMkxnN3JSMGp2MkhkZExheXBGYjlnR2ltNHAzclZzNC1hcEJpR1AtLW5SN2djZm51dGVUTWtMY0tNZ0RDVTNCcG5wSnJGem9PQ0pfWnEySkdjWmg1aVpjZVVuSE5UNjdUajlERGU0ZEh4VFRrUXh2V0NRX9IB5gFBVV95cUxPeldiYjdFQzRGYmZIeHJ6dHo1bnpNWXZJLWZ5NHk0Vk83LTNFTlc0MC1ZbEtGS0kxTTNnLW1VS2JtbFk4UDI1cjhCd2p3bW5GdG5SVmhfWDA5bEduVzZPVGV1S3pXRXcwajFZNXJTcWxCWHdpeGM3UlNwRFhHNFhoYkVULU8xYnFfSlVBS3o1dEJqNjZONF9MWEl3TE1lM1IwczBrRlN2ekhGMThtTG53U0tXVGtyYlNfOVpheDVkWmhsa0pxSEJYclRtTlp2OVNEVlBnVlprSzdNWTkzQ0MwQlB0VVZOZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Are NSE, BSE Closed On April 14 For Ambedkar Jayanti? Check Stock Market Holiday Schedule - NDTV Profit",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.027777777777777776,
+          "source": "NDTV Profit",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUwtZTN5UE1uenBCMUtUQWRLN3N0RXlNeGxYSENwbjAySFIxRFdULTk4NGFqcUFnZDZvZE9VdnlnQzl6MW0xcWpKbzY4SlRpRXVVRHZZWlY3LW5xN2hrTEdHNmpvVllPX2hFRFU3RUh2VEdqbUVHc3VZSWpSOUZ3TVJWWVc4Nm9XMnB2V2R1WVNuTXJfZEpiRXBGY2gwNVByOTN3QnZuOUtqWmlEUk0zQnhUZEdHcjJ5QS1sT3d2X2ZhR09KQUtGbXBBNNIB0wFBVV95cUxOdG5TNDdnYzB6NkFWSDZuLXJ6eU55Qk9TTnJiRDY1TFVUX3dWM0FPU2NZekJFVEk4M0FjNTdud1FIbWdMSUk1bEtDQ3h5c3g2S1h3T2tLcDc2U0ZreXdTQThNYWF6enpydl8wV0U0THR2Sk16c1RhLVJnTmJ4aE15QU5Hb21Kc1lodGFEYktQSEtCLXpFcU1DU3NIeU9hR3VFM1l5QTdEekY4ZGlBdkNXalJxVnI4a2dRbkJBNGpzYlh6OU9jWUQzUU5vYW5PRVpJbW00?oc=5\" target=\"_blank\">Are NSE, BSE Closed On April 14 For Ambedkar Jayanti? Check Stock Market Holiday Schedule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUwtZTN5UE1uenBCMUtUQWRLN3N0RXlNeGxYSENwbjAySFIxRFdULTk4NGFqcUFnZDZvZE9VdnlnQzl6MW0xcWpKbzY4SlRpRXVVRHZZWlY3LW5xN2hrTEdHNmpvVllPX2hFRFU3RUh2VEdqbUVHc3VZSWpSOUZ3TVJWWVc4Nm9XMnB2V2R1WVNuTXJfZEpiRXBGY2gwNVByOTN3QnZuOUtqWmlEUk0zQnhUZEdHcjJ5QS1sT3d2X2ZhR09KQUtGbXBBNNIB0wFBVV95cUxOdG5TNDdnYzB6NkFWSDZuLXJ6eU55Qk9TTnJiRDY1TFVUX3dWM0FPU2NZekJFVEk4M0FjNTdud1FIbWdMSUk1bEtDQ3h5c3g2S1h3T2tLcDc2U0ZreXdTQThNYWF6enpydl8wV0U0THR2Sk16c1RhLVJnTmJ4aE15QU5Hb21Kc1lodGFEYktQSEtCLXpFcU1DU3NIeU9hR3VFM1l5QTdEekY4ZGlBdkNXalJxVnI4a2dRbkJBNGpzYlh6OU9jWUQzUU5vYW5PRVpJbW00?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Stock market open or closed tomorrow for Ambedkar Jayanti 2026 gazetted holiday? Check NSE, BSE calendar - MSN",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXZGQ3o1UVM3R19nRjZfbFFIS2dvY1NwWXNoQmtLek5iREJwaEhXV3h1QUh2YlNKcFZHRThaaDU4NGxsMlBZeURKVmVuU2dMaTlUSndXeFF6dkYwV3N1aktmMmZoMEpZdzl0dUVCUGs2cHhVQlA3bVV1OWhMWWhGUEF1NzBnTnd0S092Nm82ODZOVjBqQ1RZT2NJV2FGelJTNVZub2FiUjY0WmI1Q2o0UERvM3p2VnFJVlN3MHNlMVZab1hfUGFIc2RqTzRsS3ZjbXE2eU02d0lIb0FtNnZfeGx0d3cxVFJ6OWZjOW9LVzZOc3l1NmMxRDZBVEpqUHlIekNQN3M2aEJFT2E5RjRTdA?oc=5\" target=\"_blank\">Stock market open or closed tomorrow for Ambedkar Jayanti 2026 gazetted holiday? Check NSE, BSE calendar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXZGQ3o1UVM3R19nRjZfbFFIS2dvY1NwWXNoQmtLek5iREJwaEhXV3h1QUh2YlNKcFZHRThaaDU4NGxsMlBZeURKVmVuU2dMaTlUSndXeFF6dkYwV3N1aktmMmZoMEpZdzl0dUVCUGs2cHhVQlA3bVV1OWhMWWhGUEF1NzBnTnd0S092Nm82ODZOVjBqQ1RZT2NJV2FGelJTNVZub2FiUjY0WmI1Q2o0UERvM3p2VnFJVlN3MHNlMVZab1hfUGFIc2RqTzRsS3ZjbXE2eU02d0lIb0FtNnZfeGx0d3cxVFJ6OWZjOW9LVzZOc3l1NmMxRDZBVEpqUHlIekNQN3M2aEJFT2E5RjRTdA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-06",
+          "headline": "Lauren Fortier: Working to automate nuclear plant operations - MIT NSE",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MIT NSE",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzFlUGhNNkF6blRNM096QnZ1eXZTM2xZNGs0QVhUNjJvWFN6b25qWXoxeFNzZXlUdG0tdEwzUE5wWjd4aWpGSl9EVmpqeVBEVVRpNkpPRkJZOGRnMlJoYnFES0gwcGhNTU5IcGJoeWZJY3FpZmxOc3pLQzZTX05xa0tuU2NQR28?oc=5\" target=\"_blank\">Lauren Fortier: Working to automate nuclear plant operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT NSE</font>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzFlUGhNNkF6blRNM096QnZ1eXZTM2xZNGs0QVhUNjJvWFN6b25qWXoxeFNzZXlUdG0tdEwzUE5wWjd4aWpGSl9EVmpqeVBEVVRpNkpPRkJZOGRnMlJoYnFES0gwcGhNTU5IcGJoeWZJY3FpZmxOc3pLQzZTX05xa0tuU2NQR28?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-06",
+          "headline": "India's NSE to launch Platts\u2011based crude futures in tie-up with S&P Global Energy - Reuters",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEVudDZDQlhtTkN0aHF3RUdvTlNmM2ZLMlBZVjhPUVZPQ3NteHNxeVFFVnhrSFVVSERIajFtME92WXUxOFlqUkFlNlJmc3o0Y2lFWmN6aWtRbnp1UFZpSGdia3NmRjV0c2Rya2hlZWU3ZFM1cmJ2T250MjRaZ2k2RWZHNUszb3I5UFhZNW53ai0tQ3RZOU1HcG9uMTNpVXdSdzVjQ1dHUjk2QVZ0bjVEWXIxZ2FydEZFazRXd1hSdEdxc0hKcEdURUR6M29nTVlwSU9jT0I5WFJqNkZLX1I2SXpB?oc=5\" target=\"_blank\">India's NSE to launch Platts\u2011based crude futures in tie-up with S&P Global Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEVudDZDQlhtTkN0aHF3RUdvTlNmM2ZLMlBZVjhPUVZPQ3NteHNxeVFFVnhrSFVVSERIajFtME92WXUxOFlqUkFlNlJmc3o0Y2lFWmN6aWtRbnp1UFZpSGdia3NmRjV0c2Rya2hlZWU3ZFM1cmJ2T250MjRaZ2k2RWZHNUszb3I5UFhZNW53ai0tQ3RZOU1HcG9uMTNpVXdSdzVjQ1dHUjk2QVZ0bjVEWXIxZ2FydEZFazRXd1hSdEdxc0hKcEdURUR6M29nTVlwSU9jT0I5WFJqNkZLX1I2SXpB?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 3
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 2,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": 0.007478632478632479
     },
     "technical": {
       "atr14": 1.60150298810774,
@@ -367,16 +517,19 @@
   },
   "market_overlay": {
     "adverse_effects": 1,
+    "effective_adverse_effects": 1,
+    "effective_supportive_effects": 0,
     "exposures": [
       "software"
     ],
     "industry": "Scientific & Technical Instruments",
     "sector": "Technology",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.",
-    "stance": "mixed"
+    "explanation": "Python classified 9 stock-specific articles into 3 constructive, 0 adverse, and 3 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
   },
   "recent_weakness": [
     {
@@ -400,6 +553,10 @@
     {
       "confidence": "high",
       "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-13: NSE's Rs 20,000 crore mega IPO gears up for launch: Who can sell shares via OFS? Check eligibility, rules, - The Economic Times."
     }
   ],
   "risks": [
@@ -448,14 +605,19 @@
         "value": 22.81
       },
       {
+        "label": "Constructive local news signals",
+        "points": 6,
+        "value": 3
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -2,
         "value": 1
       }
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
-    "score_0_to_100": 76
+    "score_0_to_100": 82
   },
   "sources": [
     {
@@ -466,11 +628,47 @@
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "publisher": "BusinessLine",
+      "title": "NSE gets MCA nod for coal exchange entity name - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVQxczhkRktGeVdUVmFfRXNoVllRVkV2RWZsamRrYjZueUYwT3hrSDhUWmxGY2J0N3UyLXpkRXRGT3JTWEpFTVJ5Zzc0OThnRU5zNjk5c01nVkk4c3hkRXVuV0d3akdHVnlMYXVQaXFNc01XajgyQUxJYkx1NDNHSENOaDdwZUZXbTJwSW1yRHExMThfeGhjbl92YWFuaXNDUWE5X3NPdDQ0QXYtOFA5SNIBtwFBVV95cUxNQkVLbVJZUTEweTBacEJJa05iOER2c1dqeVFCVmxMMW54QmFzQTZ1dmd6UHJjMDMyMXFoMG9wYTFFNGQ5YjNOaWdBdzlzbGloR3VPRFBaZTdHekItNllKalktbUdfX1lrRU1saVRkWWFLWHgxeXNWZ1ZuaEhRM1lRdWhxT1dLM1BtTVV5RmtsWFNvMzA4N0Q2OU5EVm5kNjA4czU4NF96MkEzVVdRTVgxcElucGVBZVE?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "The Economic Times",
+      "title": "NSE's Rs 20,000 crore mega IPO gears up for launch: Who can sell shares via OFS? Check eligibility, rules, - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcTlFYkN5QkxGNjY4SHZ2NzFTNUM3eHR3NHNzWFZjWnZ1WnoxdDVjRE1MQWpQa3NqOGM3RmpIbEtDMEJfZGI4RmQzOHhqZlVFbVV5ZHRTbEJfYTJ2UktKaTRRLUloR216UHRuRWl6MXdWbVN3RFVEREVxcXhLZE4teFZ3NXJoYUdtWXhHVTYzVjVfdzgzN2FOcmh0SXpoNF8zQml6Z1NlNUtfelp3Rm1fWWFWLThrSldndTBIWTUyYVF0QVlFaHpaWXFEV0NwZWIzdXh4SC1WQTNkQXQxb0tyRkJpVTJJcmEtUlVVaVNFRC1TOUJXSVd0STJyTHRzV09FM2hwYzZLMlAtUHVhTmNiSGpOQ2x0c3Y3UTFj0gGgAkFVX3lxTE5kakZpRmE4NTZLNWlxTVFvUzl0U014M0ZyQjVJWGJteUpValRvdkRiUVhWLTdyQkIwYnlURTJxMXIyLU9EZkY1TGYta0ljXzhSQVVWb3NCd3lPa01DT3RNZ29LWTEzbkZOUHRaV24tRHp5X0diVXdPX0NmVU9zRERTNWpZYXRwd1NyT21RV29MaU96ZUhUdXdBOFRDSTh6TDVrUnRNWjY5bVJ4dV9TX0tfUlhRM1JLNVoyQzMzMFpuQnRZYVgyTFFNdmdybDE2SV9vM0s0bUdvRkctOHA4VkNvWGNHSUk3Z0RuSEZObXVBT2JIWlJQdWVsVVJKSUhhdmt2RzZDRzFMaEVXOS1sekZTWDIySXJteXNjRTRpSk9DRQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "Hindustan Times",
+      "title": "Stock market holiday: NSE, BSE to remain shut on this date in April. Here's why | Business News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjI3dmNJdEUwSzVQWmRMODVwSnFHT2gwMmR2Mm5kdXc3SkY2djhEeHlOT3hMVGM2c3lmWmIyc0lYaHNEbG1mNEw0UlFyRXJ2dmdaRm9sZXJOa2lGM0tObGpiNmlLSVdIenp3X1luMnBDWDFhU21xTGhoMXdveVBFZGhTeFFIRGxOS2JmMWtfNTBVUzBsRm0wSG1QQ05xNGQ1MG9aWDI1bnMyc2FTWFgwSmloc2RycnREWmlabWdJbUVVR3VW0gHKAUFVX3lxTFBKbms1N1o2cFF3bGVralplSFJJNk9TNHBqV1JPTmxQbUZqdDJLa3RhODhHVHp1YWRfNHBkcWoxdUxfYWhpbDhWVHJ6M2trbVZ0azRhVnpKM0tGbk92VEdMXzZtMnpoZUpoS0lnX0U1YnBvRWp0c3RxYlpfQWUweFhtNFVDODFUNG94cFJVRmQ1aHo0SlJxUTFINjdrYnJMS1o5WXlaMTAtUEJCSGh2RDh6eG1WbUJxLXFhWGttclpickZZS3JzMGJhaVE?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "Mint",
+      "title": "Vodafone Idea, Ola Electric, Suzlon Energy\u2014 These are among most traded stocks on NSE today, April 13, 2026 - Mint",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNemFBVDZQYkpUUjZLVDJJU3NQX0ItUmkxTGVxbzFnczlUMnBHekJmWXpMTFZNSC02S1NkTkw5MHFmWE9kSDVWVHFMVDhVYkY1bGZNeUNKMzJ1M1FYLWRzSEZSNm9BYjZjeGNRUEI5Sl9OMjJ2OW9pcEFLcDJDNG9wTmdBQ0dJbkFfeVhjUmh0LW9FOE5tSGlDQnZuQjZ3QVJRZjZwSGRrSjc4QVBSY1NLd0pYWUxoN2xvd1RqNFNwbHRwSUlDT0hiLV9xU0JrQmcwUXY4SXF3LTQtbXdZRTJ3dXZ0cmF6WThWenIwYmxjZVR2MzF2MHFqUlVubDRpaFZWWEHSAYcCQVVfeXFMTXNRb2ptVklLY3pOSGdYUjhxc1ZJUmEwVTVMOHkwZVdTWjFfb2tSck8wekFPY2NDWmkwaEhrSGp3X091TWJiSHNIZ3F0aGJaMlUxSnFWU3JFR3pJYmlEU3VKLW9Uc3UwVXUwbHZsdjV1dmpCSHVLQ0doZXFycGNTTXJkdmItZWhta3otajU3V3Y5UF9RRHdwUTlYcDZERDRlLXhPQWZRX0U1VUpaRjZJLWFWNFFXczdjaFJROTNYWG4tYlJzajItVUk2VzhaS3RRSkRfMTV2dnpqQ0N1ZGpjUmFnY0RVX0lYUlNfVktXUjdNLTIwX3VwLXUyQkZya25DYUhkVmRNUW8?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "Business Today",
+      "title": "NSE\u2019s Nanosecond-level order acknowledgement: Transformative upgrade - How it will benefit - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOajFheG5YOVAzWldjdGdTYVNjZ19URlBmQ0toS0xxZDlQMkExZjBabkVTYmEzUkJYZjVBWTFMQzM4ZlUwc0gwTVJJUXRlM0hmeTB3dGJMVHpMTmlMWFMyNVQ4Tzd1bVd3czRvWVViMkxnN3JSMGp2MkhkZExheXBGYjlnR2ltNHAzclZzNC1hcEJpR1AtLW5SN2djZm51dGVUTWtMY0tNZ0RDVTNCcG5wSnJGem9PQ0pfWnEySkdjWmg1aVpjZVVuSE5UNjdUajlERGU0ZEh4VFRrUXh2V0NRX9IB5gFBVV95cUxPeldiYjdFQzRGYmZIeHJ6dHo1bnpNWXZJLWZ5NHk0Vk83LTNFTlc0MC1ZbEtGS0kxTTNnLW1VS2JtbFk4UDI1cjhCd2p3bW5GdG5SVmhfWDA5bEduVzZPVGV1S3pXRXcwajFZNXJTcWxCWHdpeGM3UlNwRFhHNFhoYkVULU8xYnFfSlVBS3o1dEJqNjZONF9MWEl3TE1lM1IwczBrRlN2ekhGMThtTG53U0tXVGtyYlNfOVpheDVkWmhsa0pxSEJYclRtTlp2OVNEVlBnVlprSzdNWTkzQ0MwQlB0VVZOZw?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "NDTV Profit",
+      "title": "Are NSE, BSE Closed On April 14 For Ambedkar Jayanti? Check Stock Market Holiday Schedule - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUwtZTN5UE1uenBCMUtUQWRLN3N0RXlNeGxYSENwbjAySFIxRFdULTk4NGFqcUFnZDZvZE9VdnlnQzl6MW0xcWpKbzY4SlRpRXVVRHZZWlY3LW5xN2hrTEdHNmpvVllPX2hFRFU3RUh2VEdqbUVHc3VZSWpSOUZ3TVJWWVc4Nm9XMnB2V2R1WVNuTXJfZEpiRXBGY2gwNVByOTN3QnZuOUtqWmlEUk0zQnhUZEdHcjJ5QS1sT3d2X2ZhR09KQUtGbXBBNNIB0wFBVV95cUxOdG5TNDdnYzB6NkFWSDZuLXJ6eU55Qk9TTnJiRDY1TFVUX3dWM0FPU2NZekJFVEk4M0FjNTdud1FIbWdMSUk1bEtDQ3h5c3g2S1h3T2tLcDc2U0ZreXdTQThNYWF6enpydl8wV0U0THR2Sk16c1RhLVJnTmJ4aE15QU5Hb21Kc1lodGFEYktQSEtCLXpFcU1DU3NIeU9hR3VFM1l5QTdEekY4ZGlBdkNXalJxVnI4a2dRbkJBNGpzYlh6OU9jWUQzUU5vYW5PRVpJbW00?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "MSN",
+      "title": "Stock market open or closed tomorrow for Ambedkar Jayanti 2026 gazetted holiday? Check NSE, BSE calendar - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXZGQ3o1UVM3R19nRjZfbFFIS2dvY1NwWXNoQmtLek5iREJwaEhXV3h1QUh2YlNKcFZHRThaaDU4NGxsMlBZeURKVmVuU2dMaTlUSndXeFF6dkYwV3N1aktmMmZoMEpZdzl0dUVCUGs2cHhVQlA3bVV1OWhMWWhGUEF1NzBnTnd0S092Nm82ODZOVjBqQ1RZT2NJV2FGelJTNVZub2FiUjY0WmI1Q2o0UERvM3p2VnFJVlN3MHNlMVZab1hfUGFIc2RqTzRsS3ZjbXE2eU02d0lIb0FtNnZfeGx0d3cxVFJ6OWZjOW9LVzZOc3l1NmMxRDZBVEpqUHlIekNQN3M2aEJFT2E5RjRTdA?oc=5"
     }
   ],
-  "summary": "ALNSE scores 76/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.",
+  "summary": "ALNSE scores 82/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.",
   "symbol": "ALNSE"
 }

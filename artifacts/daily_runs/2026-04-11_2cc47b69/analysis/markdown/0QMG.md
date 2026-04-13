@@ -6,7 +6,7 @@
 - Bucket: `entry_ready`
 
 ## Investment View
-0QMG scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 1 supportive versus 0 adverse matched macro effects.
+0QMG scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -23,7 +23,7 @@
 
 ## News Read
 - Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 4 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is good. It matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.85 macro weight because company-specific coverage is good.
 
 ## Key Levels
 - Volume anomaly: `3.41510701393174`
@@ -38,14 +38,22 @@
 - Price is holding above the 20-day high trigger: `+7` (value: `1.12`)
 
 ## Coverage
-- Stock-specific articles scored: `0`
+- Stock-news coverage quality: `good`
+- Stock-specific articles scored: `4`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.85`
 
 ## Market Overlay
 - Exposures: `insurance`
-- Supportive macro effects: `1`
-- Adverse macro effects: `0`
+- Matched supportive macro effects: `1`
+- Matched adverse macro effects: `0`
+- Effective supportive effects after coverage weighting: `1`
+- Effective adverse effects after coverage weighting: `0`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
+- [Swiss Life Holding AG stock (CH0014852781): Why does its life insurance focus matter more for U.S. i - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnRwU3FkZExlUG1CUkpMRWlHc0JpOFptcHBHTVVqNHBvcXVfNHd5aUIxaFp5Q2xEQXRuUGdoVUg1cnV0bXRpVGhYdmtmb09wZUstRUM5MHNObHpJend2aFE1c2RfYkktMlBDb2Vlc3BjYVNOOWxrSFZaNDNhYUVaRkN0alFzdzY5RmxZR1RWdUFqcTBzQWR4TmMyRzNtaFdvdjF2cTlESE5VdEMtNzVjc3V5b1VuYmc4S29KVWc1MA?oc=5) - 2026-04-10
+- [Swiss Life Holding AG (MIL:1SLHN) - Valuation Measures & Financial Statistics - GuruFocus](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OcGNNNUZ1WFViNGVmdWN6eFVTWG1EcjhrYi05UVZhZlVSeFplWVZtb0psdDNXaVdDeEx2UEdCbDRYZlFkUGtXT0RrdGlJWVY0VWh5LXByOE9sRm9fODhwcUhn?oc=5) - 2026-04-10
+- [Kingstone buys Frankfurt residential asset from Swiss Life - Green Street News](https://news.google.com/rss/articles/CBMimwFBVV95cUxNckI5cjgzRzc3ZTBFdjFQcFZrbXdUV2VkVzJtM3J1NldzY2d5N3NWWVUzWklkQVNrdlR3ckMzdHdHSGczNHFTOV8xODNUSmkzTUFCUU1JbjY0VmRRRnJSLXdFb1NOTVgtWGdPeGdBZ2k3dHZCTXlmYWtVLUMxcGIzdmN2TEJtTlBNV2lMcldoZGdUR2p5QjRVQkFsVQ?oc=5) - 2026-04-09
+- [Swiss Life Holding AG Stock: A Stable Leader in Life Insurance for Long-Term Investors - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXEyVWtnd1p1M2VkNXpmRTRFcVhKWnFqcmFuRmw3U05JczRPbE1mbWxmSUcxVzdfN2QwQVBrUkhCZG9JMVUxUTBURzBxZFk0TG1CZHlSVmtIX3hwb2RLWW1wcmZoR2h2YVl5YWYzcDNwYW5BSUxFbUJlbkJhSVhEcjdMMHdLdlF6b2hMQ0tsVkhCdUYtS0Q1X2RQWmt4ZmRSbWYyeW1DZ2dzenVPbE45RE12ZFNIUFF5Y21z?oc=5) - 2026-04-03
 - [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13

@@ -3,7 +3,7 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
     "score_0_to_100": 75,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
@@ -15,6 +15,12 @@
     }
   ],
   "company_name": "Boho Group AB",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 9
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 0,
@@ -311,21 +317,143 @@
         "provider": "yfinance",
         "sector": null
       },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
+      "article_count": 9,
       "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Rachel Zoe Rocks Boho Style at a Coachella Party, Plus Cate Blanchett, Rachel Zegler and More - People.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "People.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1dULVdxTnJubGdTOFd2NEJESk5mazFDUHExaGdxSTZTeGRTMGxPcUVCRHZoUmZoMVQweDlTeTY4ejRVZzRjZGxRQTRRQkdOUjNnd3RDZlREenhMMS1FRlJMV2Myelp0VHpQaWQxRGJrS3Y1dkEwLXN6UjQtck9vZFFhZ2E5d25DTG1lTk53am53ZTBzRHFrNnBtUQ?oc=5\" target=\"_blank\">Rachel Zoe Rocks Boho Style at a Coachella Party, Plus Cate Blanchett, Rachel Zegler and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1dULVdxTnJubGdTOFd2NEJESk5mazFDUHExaGdxSTZTeGRTMGxPcUVCRHZoUmZoMVQweDlTeTY4ejRVZzRjZGxRQTRRQkdOUjNnd3RDZlREenhMMS1FRlJMV2Myelp0VHpQaWQxRGJrS3Y1dkEwLXN6UjQtck9vZFFhZ2E5d25DTG1lTk53am53ZTBzRHFrNnBtUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "lush d\u00e9cor Boho Kendra Tufted Yarn Dyed Recycled Cotton Blend Shower Curtain on Sale | Home & Garden - bahmut1571.com.ua",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "bahmut1571.com.ua",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNEE1UkZCa0RoUVpHRklIeGtZamM2SDFfWEdUdGxQOE1iaGgyTTRQRm1pUklGbkY4QzJqSDd0NlRwVDNrUVpjNEltOUY1XzRMSVlRRlAtQUQ?oc=5\" target=\"_blank\">lush d\u00e9cor Boho Kendra Tufted Yarn Dyed Recycled Cotton Blend Shower Curtain on Sale | Home & Garden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bahmut1571.com.ua</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNEE1UkZCa0RoUVpHRklIeGtZamM2SDFfWEdUdGxQOE1iaGgyTTRQRm1pUklGbkY4QzJqSDd0NlRwVDNrUVpjNEltOUY1XzRMSVlRRlAtQUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "39-Piece BOHO Affirmation Station Bulletin Board Set - Rainbow Inspirational Cutouts For Classroom, Office, Or Home Decor - kliksolonews.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "kliksolonews.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0FoUkQ3NTlvUUZZbGFNR2dIWnVEMjdLY3lyV1I3SGZpbENBRm1oZDh1ejBEbkhJdVZuakJRbFNucWc1aFM4MlluZjZQNjFoQ2pWeWVXLWhiUlJDN2RSLTRHbVpnNXBLNjYzMlExYnBJVjBKQW1GZG5LNkpJdC1oMzhpZDByTENKeXY2T2dMd3FHdExneXU3d1N3?oc=5\" target=\"_blank\">39-Piece BOHO Affirmation Station Bulletin Board Set - Rainbow Inspirational Cutouts For Classroom, Office, Or Home Decor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kliksolonews.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0FoUkQ3NTlvUUZZbGFNR2dIWnVEMjdLY3lyV1I3SGZpbENBRm1oZDh1ejBEbkhJdVZuakJRbFNucWc1aFM4MlluZjZQNjFoQ2pWeWVXLWhiUlJDN2RSLTRHbVpnNXBLNjYzMlExYnBJVjBKQW1GZG5LNkpJdC1oMzhpZDByTENKeXY2T2dMd3FHdExneXU3d1N3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Amabro Small Coin Purse For Women \u2013 Boho Zipper Pouch With Keychain, Beige Change Wallet For Cash, Coins, Lipstick - umlconnector.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "umlconnector.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUlDcHNVWlN1ZmhKMV9tbEc1YnByTHlXeUFmeVhkOTY3dW5Da1l0SWNHejVhczdQQ3M3aHRKNDdVdG9XdldQRDdKaWJmaENKbTM1azNLYnd1cWZJQTVXLTBLdElKV01VaGY2Q0JEQ1ljNW1aYTAyRmNFbExCYXZVV2pjRk1ScEpHVVl2OHhlU1E5OWd5?oc=5\" target=\"_blank\">Amabro Small Coin Purse For Women \u2013 Boho Zipper Pouch With Keychain, Beige Change Wallet For Cash, Coins, Lipstick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">umlconnector.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUlDcHNVWlN1ZmhKMV9tbEc1YnByTHlXeUFmeVhkOTY3dW5Da1l0SWNHejVhczdQQ3M3aHRKNDdVdG9XdldQRDdKaWJmaENKbTM1azNLYnd1cWZJQTVXLTBLdElKV01VaGY2Q0JEQ1ljNW1aYTAyRmNFbExCYXZVV2pjRk1ScEpHVVl2OHhlU1E5OWd5?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Kylie Jenner Pairs Her Ruffled Boho Crop Top With a Y2K Waist Chain at Coachella 2026 - instyle.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "instyle.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPeklQVUpwRU5BRDVNRkc2VWlGVWhsZjBlaTlmNFhRWGJZT2s1TUNZal9XQUtKV2p5X0NXd1U0UllfWklEWU5qcm5nLThXaDRLWHdLbmFfNzBmUTJEUHF6dzdjQjdaai1KeWtZbmtLRG14eXBNRURzVnJlQlFvMnR2R1gyMm5oQnl3ek1xVTNR?oc=5\" target=\"_blank\">Kylie Jenner Pairs Her Ruffled Boho Crop Top With a Y2K Waist Chain at Coachella 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeklQVUpwRU5BRDVNRkc2VWlGVWhsZjBlaTlmNFhRWGJZT2s1TUNZal9XQUtKV2p5X0NXd1U0UllfWklEWU5qcm5nLThXaDRLWHdLbmFfNzBmUTJEUHF6dzdjQjdaai1KeWtZbmtLRG14eXBNRURzVnJlQlFvMnR2R1gyMm5oQnl3ek1xVTNR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Manoush announces the end of its boho-chic journey - FashionNetwork USA",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "FashionNetwork USA",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlBfa1RVUFowUG1JMDhUMXZKLXFzRENBN09KbnRYZHRKSlNTOU9GcldVZFlxNWN1QTA2YjBmUHhXd1lpMUxWZDlXeW9ubkxmTGlwQzRxOERjRFRxWFNETGlrbGhzOG9VU1hUc1lBWVpDRlplekVIYlVIQTNpZzJURzdWcF9HX2FoWTc1MTVELVRzcDJDeUFqcVE0UC1pMW8?oc=5\" target=\"_blank\">Manoush announces the end of its boho-chic journey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FashionNetwork USA</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlBfa1RVUFowUG1JMDhUMXZKLXFzRENBN09KbnRYZHRKSlNTOU9GcldVZFlxNWN1QTA2YjBmUHhXd1lpMUxWZDlXeW9ubkxmTGlwQzRxOERjRFRxWFNETGlrbGhzOG9VU1hUc1lBWVpDRlplekVIYlVIQTNpZzJURzdWcF9HX2FoWTc1MTVELVRzcDJDeUFqcVE0UC1pMW8?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "Coachella 2026 Trends To Watch For: Western, Boho and More - WWD",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "WWD",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0I1UGpIWUlZQ0Z0T0Rxb2x0dVgza19YV1VndXZ1RnJ1ck5xS1h4eGc1YkJoMkR4R0x0dUhIRGdhcC1LbjM2SWI2UHA2N0ozc3hadWdKa1RWaThFZUx2R2RwSlk1RjJVNXJnQW5Uc2tsRDBNNklQclFyLTlvTl93QjI4OEVrYUFCQ0Q1QmRGR0V1NmRqZXJ3?oc=5\" target=\"_blank\">Coachella 2026 Trends To Watch For: Western, Boho and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0I1UGpIWUlZQ0Z0T0Rxb2x0dVgza19YV1VndXZ1RnJ1ck5xS1h4eGc1YkJoMkR4R0x0dUhIRGdhcC1LbjM2SWI2UHA2N0ozc3hadWdKa1RWaThFZUx2R2RwSlk1RjJVNXJnQW5Uc2tsRDBNNklQclFyLTlvTl93QjI4OEVrYUFCQ0Q1QmRGR0V1NmRqZXJ3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-29",
+          "headline": "Margot Robbie Is Going Full Boho for Spring - Vogue",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Vogue",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZUNmTmkyZkoyc0VrdkZ2emprd0RGcHdwb2dzXzJKR2JCX3JlZ0djOGc4dWtESkJQWEhaa1pMSTR5WF9UejJxOExSak92emZCUlhRNkhoZmRSel83SEg5c0paZG9aMWNWS0lhZFdkSXR4SGcyRlVVa0gxaw?oc=5\" target=\"_blank\">Margot Robbie Is Going Full Boho for Spring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZUNmTmkyZkoyc0VrdkZ2emprd0RGcHdwb2dzXzJKR2JCX3JlZ0djOGc4dWtESkJQWEhaa1pMSTR5WF9UejJxOExSak92emZCUlhRNkhoZmRSel83SEg5c0paZG9aMWNWS0lhZFdkSXR4SGcyRlVVa0gxaw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-26",
+          "headline": "I Found So Many Ways to Wear This Boho Dress for Spring - glamour.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "glamour.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE05c1FnWDBkS1R1dFZaSjcyVXhFUHh6dGFvM0w0NzZqZHFLbFMtU1JxelBrb253TTVPM1pmSGdsOUdXRU41bVhaeFdCSkx4dEFTMEpseDNReVRscGREb1dIR0VQcGlRZw?oc=5\" target=\"_blank\">I Found So Many Ways to Wear This Boho Dress for Spring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">glamour.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05c1FnWDBkS1R1dFZaSjcyVXhFUHh6dGFvM0w0NzZqZHFLbFMtU1JxelBrb253TTVPM1pmSGdsOUdXRU41bVhaeFdCSkx4dEFTMEpseDNReVRscGREb1dIR0VQcGlRZw?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 7,
+      "delta": 0.0,
+      "prior_mean": 0.0,
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 0.404522448978204,
@@ -345,13 +473,16 @@
   },
   "market_overlay": {
     "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
     "exposures": [],
     "industry": null,
     "sector": null,
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 9 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "mixed"
   },
   "recent_weakness": [
@@ -420,7 +551,7 @@
         "value": 12.06
       }
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "label": "constructive_bullish",
     "score_0_to_100": 75
   },
@@ -430,8 +561,50 @@
       "publisher": "stock.sdc-fried.de",
       "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "People.com",
+      "title": "Rachel Zoe Rocks Boho Style at a Coachella Party, Plus Cate Blanchett, Rachel Zegler and More - People.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1dULVdxTnJubGdTOFd2NEJESk5mazFDUHExaGdxSTZTeGRTMGxPcUVCRHZoUmZoMVQweDlTeTY4ejRVZzRjZGxRQTRRQkdOUjNnd3RDZlREenhMMS1FRlJMV2Myelp0VHpQaWQxRGJrS3Y1dkEwLXN6UjQtck9vZFFhZ2E5d25DTG1lTk53am53ZTBzRHFrNnBtUQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "bahmut1571.com.ua",
+      "title": "lush d\u00e9cor Boho Kendra Tufted Yarn Dyed Recycled Cotton Blend Shower Curtain on Sale | Home & Garden - bahmut1571.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNEE1UkZCa0RoUVpHRklIeGtZamM2SDFfWEdUdGxQOE1iaGgyTTRQRm1pUklGbkY4QzJqSDd0NlRwVDNrUVpjNEltOUY1XzRMSVlRRlAtQUQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-12",
+      "publisher": "kliksolonews.com",
+      "title": "39-Piece BOHO Affirmation Station Bulletin Board Set - Rainbow Inspirational Cutouts For Classroom, Office, Or Home Decor - kliksolonews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0FoUkQ3NTlvUUZZbGFNR2dIWnVEMjdLY3lyV1I3SGZpbENBRm1oZDh1ejBEbkhJdVZuakJRbFNucWc1aFM4MlluZjZQNjFoQ2pWeWVXLWhiUlJDN2RSLTRHbVpnNXBLNjYzMlExYnBJVjBKQW1GZG5LNkpJdC1oMzhpZDByTENKeXY2T2dMd3FHdExneXU3d1N3?oc=5"
+    },
+    {
+      "published_at": "2026-04-12",
+      "publisher": "umlconnector.com",
+      "title": "Amabro Small Coin Purse For Women \u2013 Boho Zipper Pouch With Keychain, Beige Change Wallet For Cash, Coins, Lipstick - umlconnector.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUlDcHNVWlN1ZmhKMV9tbEc1YnByTHlXeUFmeVhkOTY3dW5Da1l0SWNHejVhczdQQ3M3aHRKNDdVdG9XdldQRDdKaWJmaENKbTM1azNLYnd1cWZJQTVXLTBLdElKV01VaGY2Q0JEQ1ljNW1aYTAyRmNFbExCYXZVV2pjRk1ScEpHVVl2OHhlU1E5OWd5?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "instyle.com",
+      "title": "Kylie Jenner Pairs Her Ruffled Boho Crop Top With a Y2K Waist Chain at Coachella 2026 - instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeklQVUpwRU5BRDVNRkc2VWlGVWhsZjBlaTlmNFhRWGJZT2s1TUNZal9XQUtKV2p5X0NXd1U0UllfWklEWU5qcm5nLThXaDRLWHdLbmFfNzBmUTJEUHF6dzdjQjdaai1KeWtZbmtLRG14eXBNRURzVnJlQlFvMnR2R1gyMm5oQnl3ek1xVTNR?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "FashionNetwork USA",
+      "title": "Manoush announces the end of its boho-chic journey - FashionNetwork USA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlBfa1RVUFowUG1JMDhUMXZKLXFzRENBN09KbnRYZHRKSlNTOU9GcldVZFlxNWN1QTA2YjBmUHhXd1lpMUxWZDlXeW9ubkxmTGlwQzRxOERjRFRxWFNETGlrbGhzOG9VU1hUc1lBWVpDRlplekVIYlVIQTNpZzJURzdWcF9HX2FoWTc1MTVELVRzcDJDeUFqcVE0UC1pMW8?oc=5"
+    },
+    {
+      "published_at": "2026-04-09",
+      "publisher": "WWD",
+      "title": "Coachella 2026 Trends To Watch For: Western, Boho and More - WWD",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0I1UGpIWUlZQ0Z0T0Rxb2x0dVgza19YV1VndXZ1RnJ1ck5xS1h4eGc1YkJoMkR4R0x0dUhIRGdhcC1LbjM2SWI2UHA2N0ozc3hadWdKa1RWaThFZUx2R2RwSlk1RjJVNXJnQW5Uc2tsRDBNNklQclFyLTlvTl93QjI4OEVrYUFCQ0Q1QmRGR0V1NmRqZXJ3?oc=5"
     }
   ],
-  "summary": "BOHO-PREF scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.",
+  "summary": "BOHO-PREF scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
   "symbol": "BOHO-PREF"
 }

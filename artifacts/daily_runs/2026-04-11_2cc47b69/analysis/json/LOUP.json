@@ -3,9 +3,9 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "high",
+    "confidence": "low",
     "label": "constructive_watch",
-    "score_0_to_100": 72,
+    "score_0_to_100": 74,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
@@ -15,6 +15,12 @@
     }
   ],
   "company_name": "Societe LDC SA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -399,6 +405,8 @@
         "provider": "yfinance",
         "sector": "Consumer Defensive"
       },
+      "effective_adverse_effect_count": 2,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -482,12 +490,14 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
     },
     "news": {
       "article_count": 0,
       "catalyst_signal_count": 0,
       "classified_articles": [],
+      "coverage_quality": "none",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
@@ -515,15 +525,18 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 2,
+    "effective_supportive_effects": 0,
     "exposures": [
       "consumer"
     ],
     "industry": "Farm Products",
     "sector": "Consumer Defensive",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 0.35
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
     "stance": "conflicting"
   },
   "recent_weakness": [
@@ -604,14 +617,14 @@
         "value": 11.24
       },
       {
-        "label": "Adverse market / sector theme overlay",
-        "points": -6,
+        "label": "Adverse market / sector theme overlay (downweighted because company-specific coverage is limited)",
+        "points": -4,
         "value": 5
       }
     ],
-    "confidence": "high",
+    "confidence": "low",
     "label": "constructive_watch",
-    "score_0_to_100": 72
+    "score_0_to_100": 74
   },
   "sources": [
     {
@@ -651,6 +664,6 @@
       "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
     }
   ],
-  "summary": "LOUP scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "LOUP scores 74/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 2 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
   "symbol": "LOUP"
 }

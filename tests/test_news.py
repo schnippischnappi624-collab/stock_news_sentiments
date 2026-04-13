@@ -55,6 +55,53 @@ def test_news_history_falls_back_to_yfinance_and_reuses_cooldown(monkeypatch, tm
     assert len(headlines) == 1
 
 
+def test_news_history_falls_back_to_google_news_search_when_yfinance_is_empty(monkeypatch, tmp_path: Path) -> None:
+    headlines_dir = tmp_path / "news" / "headlines"
+    sentiment_dir = tmp_path / "news" / "daily_sentiment"
+
+    def fake_yfinance_fetch(symbol: str) -> list[dict]:
+        return []
+
+    def fake_google_fetch(request: dict, *, max_items_per_query: int = 10) -> list[dict]:
+        assert request["symbol"] == "AKVA"
+        return [
+            {
+                "headline": "Akva Group wins new aquaculture systems contract",
+                "summary": "Akva Group said it secured a new farming systems order.",
+                "url": "https://example.com/akva-contract",
+                "source": "Example News",
+                "provider": "google_news_rss",
+                "published_at": "Mon, 13 Apr 2026 09:00:00 GMT",
+            }
+        ]
+
+    monkeypatch.setattr(news_module, "yfinance_fetch_news", fake_yfinance_fetch)
+    monkeypatch.setattr(news_module, "google_news_search_fetch", fake_google_fetch)
+
+    summary = news_module.update_news_history(
+        [
+            {
+                "symbol": "AKVA",
+                "company_name": "Akva Group",
+                "exchange_code": "OL",
+                "source_rows": [{"_source_region": "EU"}],
+            }
+        ],
+        headlines_dir=headlines_dir,
+        sentiment_dir=sentiment_dir,
+        provider="auto",
+        min_fetch_minutes=0,
+        sleep_s=0.0,
+    )
+
+    headlines = pd.read_parquet(headlines_dir / "AKVA.parquet")
+    assert summary["ok"] is True
+    assert summary["providers"]["google_news_rss"] == 1
+    assert len(headlines) == 1
+    assert headlines.iloc[0]["provider"] == "google_news_rss"
+    assert "Akva Group" in headlines.iloc[0]["headline"]
+
+
 def test_market_news_history_uses_rss_and_loads_context(monkeypatch, tmp_path: Path) -> None:
     market_dir = tmp_path / "news" / "market"
 

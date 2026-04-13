@@ -11,7 +11,7 @@
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 0.13 and attract follow-through volume."
+      "point": "2026-03-25: Newcap Holding A/S Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com."
     },
     {
       "confidence": "low",
@@ -19,6 +19,12 @@
     }
   ],
   "company_name": "Newcap Holding A/S",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.6,
+    "quality": "thin",
+    "stock_articles": 1
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 0,
@@ -329,6 +335,8 @@
         "provider": "yfinance",
         "sector": "Financial Services"
       },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 1,
       "matched_effects": [
         {
           "adverse_exposures": [],
@@ -341,20 +349,38 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 1
+      "supportive_effect_count": 1,
+      "weight_scale": 0.6
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 1,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-03-25",
+          "headline": "Newcap Holding A/S Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWRHalZMUms2LWhnVUJjbjR6VVJkVEd1UG5ldzNXeV8xT3BXbkVkWnBxbDNYdXNQQ0VSNkwzQkJiZ2JqRnROYzNSSXpOY05iWXF0d2VIWFNMR1FueS1pdExVMVlNcDlhbEVzX2VadkpodGJCRzFnTUZsNGlKRGI5aURqYTVkSk50WWxva24zVXNfTU92eXdfNzl5ckszbnh5WlVrVWd0XzM5VXJUeGRrTWFpam9oME1nSGI3eE5HU1JrLUFfak1QbVA4N3VUZ3NEWEFJ?oc=5\" target=\"_blank\">Newcap Holding A/S Reports Earnings Results for the Full Year Ended December 31, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWRHalZMUms2LWhnVUJjbjR6VVJkVEd1UG5ldzNXeV8xT3BXbkVkWnBxbDNYdXNQQ0VSNkwzQkJiZ2JqRnROYzNSSXpOY05iWXF0d2VIWFNMR1FueS1pdExVMVlNcDlhbEVzX2VadkpodGJCRzFnTUZsNGlKRGI5aURqYTVkSk50WWxva24zVXNfTU92eXdfNzl5ckszbnh5WlVrVWd0XzM5VXJUeGRrTWFpam9oME1nSGI3eE5HU1JrLUFfak1QbVA4N3VUZ3NEWEFJ?oc=5"
+        }
+      ],
+      "coverage_quality": "thin",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 1,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 0.00631667749222596,
@@ -374,16 +400,19 @@
   },
   "market_overlay": {
     "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 1,
     "exposures": [
       "banks",
       "insurance"
     ],
     "industry": "Asset Management",
     "sector": "Financial Services",
-    "supportive_effects": 1
+    "supportive_effects": 1,
+    "weight_scale": 0.6
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 1 stock-specific articles into 0 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is thin. It matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.60 macro weight because company-specific coverage is thin.",
     "stance": "mixed"
   },
   "recent_weakness": [
@@ -456,7 +485,7 @@
         "value": 19.9
       },
       {
-        "label": "Supportive market / sector theme overlay",
+        "label": "Supportive market / sector theme overlay (downweighted because company-specific coverage is limited)",
         "points": 2,
         "value": 1
       }
@@ -473,12 +502,18 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
     },
     {
+      "published_at": "2026-03-25",
+      "publisher": "marketscreener.com",
+      "title": "Newcap Holding A/S Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWRHalZMUms2LWhnVUJjbjR6VVJkVEd1UG5ldzNXeV8xT3BXbkVkWnBxbDNYdXNQQ0VSNkwzQkJiZ2JqRnROYzNSSXpOY05iWXF0d2VIWFNMR1FueS1pdExVMVlNcDlhbEVzX2VadkpodGJCRzFnTUZsNGlKRGI5aURqYTVkSk50WWxva24zVXNfTU92eXdfNzl5ckszbnh5WlVrVWd0XzM5VXJUeGRrTWFpam9oME1nSGI3eE5HU1JrLUFfak1QbVA4N3VUZ3NEWEFJ?oc=5"
+    },
+    {
       "published_at": "2026-04-13",
       "publisher": "google_business",
       "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
     }
   ],
-  "summary": "NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 1 supportive versus 0 adverse matched macro effects.",
+  "summary": "NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.",
   "symbol": "NEWCAP"
 }

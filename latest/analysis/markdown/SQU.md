@@ -1,12 +1,12 @@
 # SQU - Vinci S. A.
 
 - Breakout stance: `constructive_watch`
-- Score: `66`
+- Score: `65`
 - Confidence: `high`
 - Bucket: `entry_ready`
 
 ## Investment View
-SQU scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.
+SQU scores 65/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -16,14 +16,15 @@ SQU scores 66/100 as a constructive_watch setup. The score is driven mainly by t
 
 ## Risks / Invalidation
 - A close back below 133.60 would weaken or invalidate the current breakout picture. (high)
-- Broader market headwind remains relevant (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind, Shipping disruption / freight stress): 2026-04-13: Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC. (medium)
+- Recent adverse headline could still cap follow-through: 2026-03-18: Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline - Investing.com. (medium)
 
 ## Catalysts
-- The next 1 to 4 weeks matter most around whether price can keep holding above 133.60 and attract follow-through volume. (medium)
+- 2026-04-11: Vinci to acquire Macquarie’s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector - Prop News Time. (medium)
+- 2026-03-18: Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline - Investing.com. (medium)
 
 ## News Read
 - Stance: `conflicting`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 8 stock-specific articles into 2 constructive, 1 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.
 
 ## Key Levels
 - Volume anomaly: `2.25215341161092`
@@ -38,18 +39,24 @@ SQU scores 66/100 as a constructive_watch setup. The score is driven mainly by t
 - Adverse market / sector theme overlay: `-6` (value: `5`)
 
 ## Coverage
-- Stock-specific articles scored: `0`
+- Stock-news coverage quality: `strong`
+- Stock-specific articles scored: `8`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `1.0`
 
 ## Market Overlay
 - Exposures: `industrials`
-- Supportive macro effects: `0`
-- Adverse macro effects: `5`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `5`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `5`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
-- [Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5) - 2026-04-13
-- [Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley’s Mike Wilson.](https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories) - 2026-04-13
-- [Populism lost in Hungary but still might win the war, one strategist argues](https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories) - 2026-04-13
-- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13
-- [Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war](https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories) - 2026-04-13
+- [Vinci to acquire Macquarie’s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector - Prop News Time](https://news.google.com/rss/articles/CBMihgJBVV95cUxPN1hVS05zbDV2bldNX1ROUWh6Z3lqRVdwMHg4WFh6dXRIRDB5X0swdVlqZk9zQ0ZwYTFMLXFZcjM3UXFnOFEyM2FzOW84S3BodFZZNFNuTGk5dWQzSy1SakpTRmhxQ19XemdQREQ0Z0JWcmV2N0FIXy1nREdKUTV4c01qaWVURUlmLTlEZDRvYUVtRnZzZVY0dzdpeUtSQm5zMVhqaU1WY3RTZE5VLXlzVVFBTFd5bVNvZXI5TzVHNzZ3NmJYcnpBUjF4aDYzcmhpM2IyTXMyd0tYWXdseFZWam54enlBZ0x0Z3pMZHR5b1lvR3ZMUnc3TUVOMlBXX3liZXpkUUp3?oc=5) - 2026-04-11
+- [AMG Veritas Global Real Return Fund's Vinci SA(XPAR:DG) Holding History - GuruFocus](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDZjamVyU0VPdEMtc184QVF0bUwxakVmYWc1R2J0OHVkMjZETEd5NUl3X0RCQURiQ3FSakk1RTgyTW1XY0dFVWYzOGZDNDZ4RGM4UzJ1WnJYOUhaeEt4VFg1cWk3SGY2UUVwRG8zUkRRU1lLR25oLWlrOHNxWExNYmdTZW82RVR4ejNxMkVIRGJXQ2g1QmRCZHl3?oc=5) - 2026-04-11
+- [Vinci S.A. stock (FR0000125486): Is infrastructure resilience the key diversification play for U.S. - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDlpQzhCZGtKWTI0dVZZX3I5cXhRYmV0NEZjVXhURTFQeTRyS0VacDNJdU1WSGYtZUxBVDEzcmVXUmpFQ3Jfd3dHeWJYdDJHSU1MYU9LVTZwRDNzQWR1OHc0dkZhMU5YY2pjdG1lQ0VSRXoxcHI2dFNqWjFkdGRZeUJPSnJFTjlCak9senRrUDh3NktKUmNJQnFpVXFPaW9nS29oZmo1UzRMS0ZwbzhWTXp0dlhkNVQzWEhJ?oc=5) - 2026-04-10
+- [DG.PA Technical Analysis | Trend, Signals & Chart Patterns | VINCI SA (EPA:DG) - ChartMill](https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMmtzc0pkVlp0eWQ1MkEwc0F5dGJ1aXdHNlpnLVNMODRjbVBWUXJ5dDgzMVR4OGpvRVFEa0c0VnEwa19jT3RzdVhtVlhWUWVqNVBzZWRYMUhncTd4YnJQTldkWG1EdjQ2ejd1eTJuSQ?oc=5) - 2026-04-10
+- [Vinci SA (4DG.TI) Income Statement - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KN1phV2JXS2pGNHF4anJlZWliTWgzamJFakdBNXdueWt4Z2E3Tlpla3o1ZzExSlIzNHRSWHZRXzRPaFlNaGF4bGdjVHRlaDVFRUdWUVBRNVZyc1FVeEVNNlVDVQ?oc=5) - 2026-04-10
+- [France's Vinci set to re-enter India with $1.7 bn Macquarie toll roads deal: Report - ET Infra](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS3hQN0ZCZk1DVmJiR2lRY1VyM2ZPM2VlNkxUTXlWa3BzOUhycWt2cmd4U0hubjNzNjMzOUwwYkhpYTU5V0RJakFmTERoUW4tNk5FR1U0aU5zdElsWUVmeXpuTnVMMEN4M1Z4Y0lXOUxhd1U0RzlvX0plbHhCVWE3MG9jaENGZ2p1NDFRNDE4aXJLZFYxRGRPZ3RmSnl4WWJlcVkybE1YZEFxdU1iaUtTRkdtZ0ZpaGsxOVNYYm9MYWVCNElJMWRIajZlS3cwN2dWYkxiU1RZSTRGV1JfZlhuX2EtbGNaOUJ00gHuAUFVX3lxTFA3bDZJdFFPMVVzSTRoV2lVSjZjREtQZm8yVVJlUkt5TXNMbGpyZktFRHp3NndnUUl3Ykdpd3RURE5sR19NaHRPa2E5aktfeFFGdmkzcE8xWTNIUnZkQ2ZpOTM1OHBYUzFxYUMxTFl0X2s5SmZwRk5yaGt3UUN1LU02b0l4UHc0Q2QzaVlNLTNaTkdMSm0zZUFzcERjTXZDU002SjJhRGcxQkJHYkQ5SVpRYndsRUgyZlZ4bm9tVVhOZkxDXzJDenl2M0VqWkdDYjI3UTVSY3k0OUdwT3Q3YjRJME5Udkl3ZzZUQUphdnc?oc=5) - 2026-04-08
+- [Vinci: There Are Better Value Infrastructure Plays Out There (OTCMKTS:VCISY) - Seeking Alpha](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVg0MmxDdl9qNmV0UWNNRnd4X21FWG5BbDQ1MkFlTV9nZ1BuM0xSa0NlU2J4RU85d2o1RzB3TDBERlFKZkhqRDdFX1pGSk04cjRZaDJOWEFwQzNvVVEzVXB0Yk5QMTExNVZVOXRKU3dISjFHQnBHRW83czM3SklLVFE5WC13Y3NzeVl1UEd3YlJXcjBMZFUzNU1VYzFIR2l1RVE?oc=5) - 2026-03-24

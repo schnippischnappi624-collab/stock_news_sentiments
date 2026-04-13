@@ -3,9 +3,9 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "high",
+    "confidence": "medium",
     "label": "constructive_watch",
-    "score_0_to_100": 69,
+    "score_0_to_100": 67,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
@@ -15,6 +15,12 @@
     }
   ],
   "company_name": "Balyo SA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.6,
+    "quality": "thin",
+    "stock_articles": 1
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -399,6 +405,8 @@
         "provider": "yfinance",
         "sector": "Industrials"
       },
+      "effective_adverse_effect_count": 3,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -482,20 +490,38 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 0.6
     },
     "news": {
-      "article_count": 0,
+      "article_count": 1,
       "catalyst_signal_count": 0,
-      "classified_articles": [],
-      "negative_signal_count": 0,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-17",
+          "headline": "Balyo (ENXTPA:BALYO) Heavy Losses And Short Cash Runway Reinforce Bearish Narratives - simplywall.st",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.15384615384615385,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQaFYwRFRfMWZPdkhuTXplYXlwTXY3NnI2VWJLWFJhdmhoVUxzVzNOal85WnVQbmtlLWhyUjV1bGROYUJKWWF4VXd6elgwdnpmTk9ycHNyR3R1MkpmbGY0WlJIdjVqQW9CMk1sUzE1enktbmhISXQ5ZlZFcFZxV1pZTWZ0SGkwRm1QdG5wR3o2YTZPLVdaaWNmMVNpMTQxcGtBRDdjTDFBeHdyOUtkZDJlRWNCcFZOUmtTY0dmdzh0SUtyQzhoSmhfanJMOFh2Qk3SAdQBQVVfeXFMTUNtNGh5OVo0bGVHS0ZWN3RVUnZzemQ3T2wxbVVzSDNMVHpOeTFDUzA4R2s0VFlDMURmNFZNZFJfR2Q2UU9HQkZtM0tMSzRoX1QwTUxmRmJpNkJXLVg1NUM2emFfOXJWSWllWG5zMU5kdVZlcV9vTGNZaWxDckp6YjM0d2NyZDYxWDdnSXYwZW1IWDE1dU4zQWkydjlOTkZQN1ROVnd1NjdqZWl0dFJWN3VXWE5CejJXU0pGNTZSUUYxZElXMVFDSjNETEpZUkRGSEtaT1I?oc=5\" target=\"_blank\">Balyo (ENXTPA:BALYO) Heavy Losses And Short Cash Runway Reinforce Bearish Narratives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaFYwRFRfMWZPdkhuTXplYXlwTXY3NnI2VWJLWFJhdmhoVUxzVzNOal85WnVQbmtlLWhyUjV1bGROYUJKWWF4VXd6elgwdnpmTk9ycHNyR3R1MkpmbGY0WlJIdjVqQW9CMk1sUzE1enktbmhISXQ5ZlZFcFZxV1pZTWZ0SGkwRm1QdG5wR3o2YTZPLVdaaWNmMVNpMTQxcGtBRDdjTDFBeHdyOUtkZDJlRWNCcFZOUmtTY0dmdzh0SUtyQzhoSmhfanJMOFh2Qk3SAdQBQVVfeXFMTUNtNGh5OVo0bGVHS0ZWN3RVUnZzemQ3T2wxbVVzSDNMVHpOeTFDUzA4R2s0VFlDMURmNFZNZFJfR2Q2UU9HQkZtM0tMSzRoX1QwTUxmRmJpNkJXLVg1NUM2emFfOXJWSWllWG5zMU5kdVZlcV9vTGNZaWxDckp6YjM0d2NyZDYxWDdnSXYwZW1IWDE1dU4zQWkydjlOTkZQN1ROVnd1NjdqZWl0dFJWN3VXWE5CejJXU0pGNTZSUUYxZElXMVFDSjNETEpZUkRGSEtaT1I?oc=5"
+        }
+      ],
+      "coverage_quality": "thin",
+      "negative_signal_count": 1,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 1,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": -0.15384615384615385
     },
     "technical": {
       "atr14": 0.000995449644357874,
@@ -515,18 +541,25 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 3,
+    "effective_supportive_effects": 0,
     "exposures": [
       "industrials"
     ],
     "industry": "Specialty Industrial Machinery",
     "sector": "Industrials",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 0.6
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 1 stock-specific articles into 0 constructive, 1 adverse, and 0 catalyst-tagged signals. Coverage quality is thin. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.60 macro weight because company-specific coverage is thin.",
     "stance": "conflicting"
   },
   "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-03-17: Balyo (ENXTPA:BALYO) Heavy Losses And Short Cash Runway Reinforce Bearish Narratives - simplywall.st."
+    },
     {
       "confidence": "medium",
       "point": "2026-04-13: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind, Shipping disruption / freight stress): Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC."
@@ -558,6 +591,10 @@
     {
       "confidence": "high",
       "point": "A close back below 0.60 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Recent adverse headline could still cap follow-through: 2026-03-17: Balyo (ENXTPA:BALYO) Heavy Losses And Short Cash Runway Reinforce Bearish Narratives - simplywall.st."
     },
     {
       "confidence": "medium",
@@ -604,14 +641,19 @@
         "value": 20.6
       },
       {
-        "label": "Adverse market / sector theme overlay",
+        "label": "Adverse local news signals",
+        "points": -2,
+        "value": 1
+      },
+      {
+        "label": "Adverse market / sector theme overlay (downweighted because company-specific coverage is limited)",
         "points": -6,
         "value": 5
       }
     ],
-    "confidence": "high",
+    "confidence": "medium",
     "label": "constructive_watch",
-    "score_0_to_100": 69
+    "score_0_to_100": 67
   },
   "sources": [
     {
@@ -619,6 +661,12 @@
       "publisher": "stock.sdc-fried.de",
       "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-03-17",
+      "publisher": "simplywall.st",
+      "title": "Balyo (ENXTPA:BALYO) Heavy Losses And Short Cash Runway Reinforce Bearish Narratives - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaFYwRFRfMWZPdkhuTXplYXlwTXY3NnI2VWJLWFJhdmhoVUxzVzNOal85WnVQbmtlLWhyUjV1bGROYUJKWWF4VXd6elgwdnpmTk9ycHNyR3R1MkpmbGY0WlJIdjVqQW9CMk1sUzE1enktbmhISXQ5ZlZFcFZxV1pZTWZ0SGkwRm1QdG5wR3o2YTZPLVdaaWNmMVNpMTQxcGtBRDdjTDFBeHdyOUtkZDJlRWNCcFZOUmtTY0dmdzh0SUtyQzhoSmhfanJMOFh2Qk3SAdQBQVVfeXFMTUNtNGh5OVo0bGVHS0ZWN3RVUnZzemQ3T2wxbVVzSDNMVHpOeTFDUzA4R2s0VFlDMURmNFZNZFJfR2Q2UU9HQkZtM0tMSzRoX1QwTUxmRmJpNkJXLVg1NUM2emFfOXJWSWllWG5zMU5kdVZlcV9vTGNZaWxDckp6YjM0d2NyZDYxWDdnSXYwZW1IWDE1dU4zQWkydjlOTkZQN1ROVnd1NjdqZWl0dFJWN3VXWE5CejJXU0pGNTZSUUYxZElXMVFDSjNETEpZUkRGSEtaT1I?oc=5"
     },
     {
       "published_at": "2026-04-13",
@@ -651,6 +699,6 @@
       "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
     }
   ],
-  "summary": "BALYO scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "BALYO scores 67/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.",
   "symbol": "BALYO"
 }

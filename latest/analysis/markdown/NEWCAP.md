@@ -6,7 +6,7 @@
 - Bucket: `entry_ready`
 
 ## Investment View
-NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 1 supportive versus 0 adverse matched macro effects.
+NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -18,12 +18,12 @@ NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly
 - A close back below 0.13 would weaken or invalidate the current breakout picture. (high)
 
 ## Catalysts
-- The next 1 to 4 weeks matter most around whether price can keep holding above 0.13 and attract follow-through volume. (medium)
+- 2026-03-25: Newcap Holding A/S Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com. (medium)
 - 2026-04-13: Market theme to monitor (Higher yields / hawkish rates): Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com. (low)
 
 ## News Read
 - Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 1 stock-specific articles into 0 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is thin. It matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.60 macro weight because company-specific coverage is thin.
 
 ## Key Levels
 - Volume anomaly: `3.81323428974315`
@@ -38,14 +38,19 @@ NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly
 - Volume confirmation is very strong: `+9` (value: `3.81`)
 
 ## Coverage
-- Stock-specific articles scored: `0`
+- Stock-news coverage quality: `thin`
+- Stock-specific articles scored: `1`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.6`
 
 ## Market Overlay
 - Exposures: `banks, insurance`
-- Supportive macro effects: `1`
-- Adverse macro effects: `0`
+- Matched supportive macro effects: `1`
+- Matched adverse macro effects: `0`
+- Effective supportive effects after coverage weighting: `1`
+- Effective adverse effects after coverage weighting: `0`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
+- [Newcap Holding A/S Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWRHalZMUms2LWhnVUJjbjR6VVJkVEd1UG5ldzNXeV8xT3BXbkVkWnBxbDNYdXNQQ0VSNkwzQkJiZ2JqRnROYzNSSXpOY05iWXF0d2VIWFNMR1FueS1pdExVMVlNcDlhbEVzX2VadkpodGJCRzFnTUZsNGlKRGI5aURqYTVkSk50WWxva24zVXNfTU92eXdfNzl5ckszbnh5WlVrVWd0XzM5VXJUeGRrTWFpam9oME1nSGI3eE5HU1JrLUFfak1QbVA4N3VUZ3NEWEFJ?oc=5) - 2026-03-25
 - [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13

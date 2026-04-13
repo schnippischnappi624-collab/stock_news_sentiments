@@ -3,7 +3,7 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "low",
     "label": "mixed_watch",
     "score_0_to_100": 52,
     "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
@@ -15,6 +15,12 @@
     }
   ],
   "company_name": "Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.)",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 0,
@@ -311,13 +317,17 @@
         "provider": "yfinance",
         "sector": null
       },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
     },
     "news": {
       "article_count": 0,
       "catalyst_signal_count": 0,
       "classified_articles": [],
+      "coverage_quality": "none",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
@@ -345,13 +355,16 @@
   },
   "market_overlay": {
     "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
     "exposures": [],
     "industry": null,
     "sector": null,
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 0.35
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
     "stance": "mixed"
   },
   "recent_weakness": [
@@ -411,7 +424,7 @@
         "value": 32.83
       }
     ],
-    "confidence": "medium",
+    "confidence": "low",
     "label": "mixed_watch",
     "score_0_to_100": 52
   },
@@ -423,6 +436,6 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt"
     }
   ],
-  "summary": "LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.",
+  "summary": "LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
   "symbol": "LION"
 }

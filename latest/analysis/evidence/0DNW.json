@@ -11,10 +11,24 @@
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 1.05 and attract follow-through volume."
+      "point": "2026-04-11: Q4 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-11: Q1 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-09: Q4 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus."
     }
   ],
   "company_name": "Austevoll Seafood ASA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 6
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -399,6 +413,8 @@
         "provider": "yfinance",
         "sector": null
       },
+      "effective_adverse_effect_count": 5,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -482,20 +498,107 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 6,
+      "catalyst_signal_count": 3,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-11",
+          "headline": "Q4 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9EdldGVFF3NnhhVG9kdHN2amtnUkk1aGZBOWlXaWU0X0hTTVQ4TUxFQzhfSzdaSWR4V1VDX2FLOHBqazRWeXhuRTBMTGY2YkVEdFJ2dXkycVUtWUJJel9iNVlQQVFCSWJkYTgw?oc=5\" target=\"_blank\">Q4 2025 Austevoll Seafood ASA Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EdldGVFF3NnhhVG9kdHN2amtnUkk1aGZBOWlXaWU0X0hTTVQ4TUxFQzhfSzdaSWR4V1VDX2FLOHBqazRWeXhuRTBMTGY2YkVEdFJ2dXkycVUtWUJJel9iNVlQQVFCSWJkYTgw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-11",
+          "headline": "Q1 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBJRlJNcEktQkM0MmVlcEhqWmlHWmE0QTZsRmo1ZnZCRnVDeGJMNnpRRzlKZGZhcDdobTFycTA0dW1RUWRjZVdraVhMUUh6bHJVMzNIcDJidm5QUXdIWVlQQ0lHU21RbUtKTmVv?oc=5\" target=\"_blank\">Q1 2025 Austevoll Seafood ASA Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJRlJNcEktQkM0MmVlcEhqWmlHWmE0QTZsRmo1ZnZCRnVDeGJMNnpRRzlKZGZhcDdobTFycTA0dW1RUWRjZVdraVhMUUh6bHJVMzNIcDJidm5QUXdIWVlQQ0lHU21RbUtKTmVv?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Austevoll Seafood ASA (HAM:Z85) Valuation: Modestly Overvalued - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13eEotcGhVdXVwWVRHMTUyWEdEcExHbE1IS3VUWVlVOEd3UmI0RTdKUjdva1hoNk9CdllQYm8wZ2E2VnJkZURHZUE0VWItcHNrMnU3VWhlc3phWFlvbUE?oc=5\" target=\"_blank\">Austevoll Seafood ASA (HAM:Z85) Valuation: Modestly Overvalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13eEotcGhVdXVwWVRHMTUyWEdEcExHbE1IS3VUWVlVOEd3UmI0RTdKUjdva1hoNk9CdllQYm8wZ2E2VnJkZURHZUE0VWItcHNrMnU3VWhlc3phWFlvbUE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Who's Buying or Selling Austevoll Seafood ASA (HAM:Z85) Stock Today? - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QeHpFbHVzWG9ScS13YVNoQU5WYXpGWFBmNl8tcFBINHJ4SVRaUFdWX2hxUFJEVHptQmJNZUwzRzdibkRRT0JGQUdmcmx1R01kLWVHWVFuMUVwMUEwY1Y2bg?oc=5\" target=\"_blank\">Who's Buying or Selling Austevoll Seafood ASA (HAM:Z85) Stock Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QeHpFbHVzWG9ScS13YVNoQU5WYXpGWFBmNl8tcFBINHJ4SVRaUFdWX2hxUFJEVHptQmJNZUwzRzdibkRRT0JGQUdmcmx1R01kLWVHWVFuMUVwMUEwY1Y2bg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Austevoll Seafood ASA Stock Operating Data - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FXzJLVjlOQTN4X3k3UXpXU1BpUHY5b2NtWGt0Mm9YRGlVakFBZ2c4Q2ZxWEkyUFlsN2M1SUhwSzA2aHFIbm9GOUN3bS14WjhneElPNDNNWEdWUWZHWXc?oc=5\" target=\"_blank\">Austevoll Seafood ASA Stock Operating Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FXzJLVjlOQTN4X3k3UXpXU1BpUHY5b2NtWGt0Mm9YRGlVakFBZ2c4Q2ZxWEkyUFlsN2M1SUhwSzA2aHFIbm9GOUN3bS14WjhneElPNDNNWEdWUWZHWXc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-09",
+          "headline": "Q4 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE82OWxkZGhPSTQ4dmVIQUJaZDl1b05MbnBVM2lFQzZGRUM2TU1RUTlHYkZpX2Yxa3BQRDFobl80S3BVWE53YVN5bHVVUTBaRXpGNEY4QzI4Wkd6am9FSjIwMmJOeTdLSkJ1UE1XNA?oc=5\" target=\"_blank\">Q4 2025 Austevoll Seafood ASA Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82OWxkZGhPSTQ4dmVIQUJaZDl1b05MbnBVM2lFQzZGRUM2TU1RUTlHYkZpX2Yxa3BQRDFobl80S3BVWE53YVN5bHVVUTBaRXpGNEY4QzI4Wkd6am9FSjIwMmJOeTdLSkJ1UE1XNA?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 3,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 0.0193756463805852,
@@ -515,15 +618,18 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 5,
+    "effective_supportive_effects": 0,
     "exposures": [
       "consumer"
     ],
     "industry": null,
     "sector": null,
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 6 stock-specific articles into 0 constructive, 0 adverse, and 3 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "conflicting"
   },
   "recent_weakness": [
@@ -621,36 +727,48 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
     },
     {
+      "published_at": "2026-04-11",
+      "publisher": "GuruFocus",
+      "title": "Q4 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EdldGVFF3NnhhVG9kdHN2amtnUkk1aGZBOWlXaWU0X0hTTVQ4TUxFQzhfSzdaSWR4V1VDX2FLOHBqazRWeXhuRTBMTGY2YkVEdFJ2dXkycVUtWUJJel9iNVlQQVFCSWJkYTgw?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "GuruFocus",
+      "title": "Q1 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJRlJNcEktQkM0MmVlcEhqWmlHWmE0QTZsRmo1ZnZCRnVDeGJMNnpRRzlKZGZhcDdobTFycTA0dW1RUWRjZVdraVhMUUh6bHJVMzNIcDJidm5QUXdIWVlQQ0lHU21RbUtKTmVv?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "GuruFocus",
+      "title": "Austevoll Seafood ASA (HAM:Z85) Valuation: Modestly Overvalued - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13eEotcGhVdXVwWVRHMTUyWEdEcExHbE1IS3VUWVlVOEd3UmI0RTdKUjdva1hoNk9CdllQYm8wZ2E2VnJkZURHZUE0VWItcHNrMnU3VWhlc3phWFlvbUE?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "GuruFocus",
+      "title": "Who's Buying or Selling Austevoll Seafood ASA (HAM:Z85) Stock Today? - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QeHpFbHVzWG9ScS13YVNoQU5WYXpGWFBmNl8tcFBINHJ4SVRaUFdWX2hxUFJEVHptQmJNZUwzRzdibkRRT0JGQUdmcmx1R01kLWVHWVFuMUVwMUEwY1Y2bg?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "GuruFocus",
+      "title": "Austevoll Seafood ASA Stock Operating Data - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FXzJLVjlOQTN4X3k3UXpXU1BpUHY5b2NtWGt0Mm9YRGlVakFBZ2c4Q2ZxWEkyUFlsN2M1SUhwSzA2aHFIbm9GOUN3bS14WjhneElPNDNNWEdWUWZHWXc?oc=5"
+    },
+    {
+      "published_at": "2026-04-09",
+      "publisher": "GuruFocus",
+      "title": "Q4 2025 Austevoll Seafood ASA Earnings Call Transcript - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82OWxkZGhPSTQ4dmVIQUJaZDl1b05MbnBVM2lFQzZGRUM2TU1RUTlHYkZpX2Yxa3BQRDFobl80S3BVWE53YVN5bHVVUTBaRXpGNEY4QzI4Wkd6am9FSjIwMmJOeTdLSkJ1UE1XNA?oc=5"
+    },
+    {
       "published_at": "2026-04-13",
       "publisher": "google_business",
       "title": "Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5"
-    },
-    {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley\u2019s Mike Wilson.",
-      "url": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories"
-    },
-    {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Populism lost in Hungary but still might win the war, one strategist argues",
-      "url": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories"
-    },
-    {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
-    },
-    {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
     }
   ],
-  "summary": "0DNW scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "0DNW scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.",
   "symbol": "0DNW"
 }

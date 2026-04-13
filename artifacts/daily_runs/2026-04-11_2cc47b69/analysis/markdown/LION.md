@@ -2,11 +2,11 @@
 
 - Breakout stance: `mixed_watch`
 - Score: `52`
-- Confidence: `medium`
+- Confidence: `low`
 - Bucket: `candidate`
 
 ## Investment View
-LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 0 adverse matched macro effects.
+LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.
 
 - Thesis: The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate.
 
@@ -23,7 +23,7 @@ LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the tec
 
 ## News Read
 - Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.
 
 ## Key Levels
 - Volume anomaly: `1.73402776357413`
@@ -38,8 +38,10 @@ LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the tec
 - Price is above EMA20: `+3` (value: `10.58`)
 
 ## Coverage
+- Stock-news coverage quality: `none`
 - Stock-specific articles scored: `0`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.35`
 
 ## Sources
 - [Feed snapshot: Universe 3 US - CANDIDATES (Top 20)](https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt) - 2026-04-11

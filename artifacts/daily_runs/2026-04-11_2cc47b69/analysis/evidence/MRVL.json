@@ -3,18 +3,24 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
-    "label": "mixed_watch",
-    "score_0_to_100": 53,
-    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 61,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 121.97 and attract follow-through volume."
+      "point": "2026-04-13: Marvell Technology (MRVL) unveils advanced switch for AI data center scale-up infrastructure - MSN."
     }
   ],
   "company_name": "Marvell Technology Group Ltd",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 1,
@@ -323,6 +329,8 @@
         "provider": "yfinance",
         "sector": "Technology"
       },
+      "effective_adverse_effect_count": 1,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -334,20 +342,231 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 15,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Marvell Stock Is Hitting Record Highs. Thank Amazon. - Barron's",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.1,
+          "source": "Barron's",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUW5qX3VKV043aVFwZkFnNFZRMHVzU1ZNb3ZyZnJ0Sjd0WlBYQ3daX2FpRWx5cEs4MDFPSHo5T3BrSjdmcDRTaGY0QTJVYzY2YnJEU1p4NWtHMEZpSEt3WE5HbjF6cmc4dGZEQ0NsRVJRQkl6MmVzMWVTNVJIVEsyaQ?oc=5\" target=\"_blank\">Marvell Stock Is Hitting Record Highs. Thank Amazon.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUW5qX3VKV043aVFwZkFnNFZRMHVzU1ZNb3ZyZnJ0Sjd0WlBYQ3daX2FpRWx5cEs4MDFPSHo5T3BrSjdmcDRTaGY0QTJVYzY2YnJEU1p4NWtHMEZpSEt3WE5HbjF6cmc4dGZEQ0NsRVJRQkl6MmVzMWVTNVJIVEsyaQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Marvell Technology, Inc. $MRVL Shares Sold by Stanley Laman Group Ltd. - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVVpTmxOeE1GeFBoSmNNUzdnQ0RJS08xV1dRbEJManJRcU1fVVpPWUo0aVlmZHRoWk1QSFZJeFNNZXZ4bjlUcWRyN2VPSGx2LVQycVhqb0xhWGRidklEWDdaQzhtSXVKcmZkZXpYbTJGZC1FaUoxNVRIem82aGk1bkJkTEhLOGZZeVdkenJTNDIzN1phcGVJbHR0bktMaGhXOVR6WnhtT0hTLUpNMTkwS010UmJfV2VOdnYwbUJhX0tfNTFXU1E?oc=5\" target=\"_blank\">Marvell Technology, Inc. $MRVL Shares Sold by Stanley Laman Group Ltd.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVVpTmxOeE1GeFBoSmNNUzdnQ0RJS08xV1dRbEJManJRcU1fVVpPWUo0aVlmZHRoWk1QSFZJeFNNZXZ4bjlUcWRyN2VPSGx2LVQycVhqb0xhWGRidklEWDdaQzhtSXVKcmZkZXpYbTJGZC1FaUoxNVRIem82aGk1bkJkTEhLOGZZeVdkenJTNDIzN1phcGVJbHR0bktMaGhXOVR6WnhtT0hTLUpNMTkwS010UmJfV2VOdnYwbUJhX0tfNTFXU1E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum - MSN",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVUJFalFpTlhCZVVIU0JLZTQyNGFwakE4UGpodHRfakpLS3RuNUE0aTl0TjBDVHl1QUVOX0h0TV9ERzJFcTB0MlU3UGlIVUVVM3BFX0pHV1dVZS1oV3BiajVFR29XZ0hCY3Znbl9LZ1dDeTFsY3ZRTzNXdTNFc2RxY2VCRkVldmplZ1h5OHItRG9DdTRnY2dSQ2h5ZGxzVGFOVFdwRUdvWkZseU5DX215amV4WXFhMGxvUmxGWUJSNFFQOWh1b0E4S2UzS0k1TDZRSng3VVZEcjVWeXJudXJoaGlUaUhaeVcxeW9CZVlFUElROFJFRUIxWVd0RWRoeTNUZFFic0w0d20?oc=5\" target=\"_blank\">Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVUJFalFpTlhCZVVIU0JLZTQyNGFwakE4UGpodHRfakpLS3RuNUE0aTl0TjBDVHl1QUVOX0h0TV9ERzJFcTB0MlU3UGlIVUVVM3BFX0pHV1dVZS1oV3BiajVFR29XZ0hCY3Znbl9LZ1dDeTFsY3ZRTzNXdTNFc2RxY2VCRkVldmplZ1h5OHItRG9DdTRnY2dSQ2h5ZGxzVGFOVFdwRUdvWkZseU5DX215amV4WXFhMGxvUmxGWUJSNFFQOWh1b0E4S2UzS0k1TDZRSng3VVZEcjVWeXJudXJoaGlUaUhaeVcxeW9CZVlFUElROFJFRUIxWVd0RWRoeTNUZFFic0w0d20?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Up 20% in Five Days, Over 50% This Year: Why Was Marvell Technology Tapped by Nvidia? - TradingKey",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingKey",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJQRnA5WEZmXzFvV1l2S0dtZE1rcGlQNXJvUGc3dWNSdzZCZWlwMWd6ay1uM0tNcjhFY19QVFhWX1F6c2JqSlhDMUdLU0FUc3RURElJbUNWQ1lndE1zaDY0TXpnV3U1S2x0cVdVdTM0QmtIVXA0dkNxTTc0S0w2M1JmLWJPV3VxdzFjOWtZY28zYlBHYXd1OUdYMnR5UVVFejZMLVRuMXlHc3Bmc1NUMjhkeWhWTXQyNlVv?oc=5\" target=\"_blank\">Up 20% in Five Days, Over 50% This Year: Why Was Marvell Technology Tapped by Nvidia?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJQRnA5WEZmXzFvV1l2S0dtZE1rcGlQNXJvUGc3dWNSdzZCZWlwMWd6ay1uM0tNcjhFY19QVFhWX1F6c2JqSlhDMUdLU0FUc3RURElJbUNWQ1lndE1zaDY0TXpnV3U1S2x0cVdVdTM0QmtIVXA0dkNxTTc0S0w2M1JmLWJPV3VxdzFjOWtZY28zYlBHYXd1OUdYMnR5UVVFejZMLVRuMXlHc3Bmc1NUMjhkeWhWTXQyNlVv?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-13",
+          "headline": "Marvell Technology (MRVL) unveils advanced switch for AI data center scale-up infrastructure - MSN",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gJBVV95cUxPT2pVSTU4WWRkSGRWVm1lTmFOOF9tcVNJQXNpcnY1NU92NHNRQkxzVF9aeXZwMmx5emRyVktDOFNkWWVRd0lVZTVTczJhVVpoVFlYczRxUDVtVUNXWUtPeDNkbHFtUlFLeTJlT2pKbVpJMnQ1N0tDeVc5MFhYek5zVnpFMHVJdzN4ZnBlT04yQWFPbzRpazRLQTFhbXl2c1VRRlhBWWIxUFFJekl2ZGhnb2FMaHgtNTdmTFhpcFc4QXgxN09WWDliN0xZZll6RVVRX1otQ1ZoUzNRS2pBR1BKdHNGYVJ6NTBnVUZrbS1PUUdEYlJiQTlUVlBPMFRWOHJwZkJUUlpDc3J4NWs2OGpTODI5aUd2TkE2VjBPbG9jY2ZTTWFZcVhHRnNKNW1maGwyYWdjRnhFNGRZc282eThQWTYzTW5NVXZkTnNxU1ZOQkkyMjRHV2JheUlpTjEzWUN2R1N5QzYyUlkzSHZvelE?oc=5\" target=\"_blank\">Marvell Technology (MRVL) unveils advanced switch for AI data center scale-up infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPT2pVSTU4WWRkSGRWVm1lTmFOOF9tcVNJQXNpcnY1NU92NHNRQkxzVF9aeXZwMmx5emRyVktDOFNkWWVRd0lVZTVTczJhVVpoVFlYczRxUDVtVUNXWUtPeDNkbHFtUlFLeTJlT2pKbVpJMnQ1N0tDeVc5MFhYek5zVnpFMHVJdzN4ZnBlT04yQWFPbzRpazRLQTFhbXl2c1VRRlhBWWIxUFFJekl2ZGhnb2FMaHgtNTdmTFhpcFc4QXgxN09WWDliN0xZZll6RVVRX1otQ1ZoUzNRS2pBR1BKdHNGYVJ6NTBnVUZrbS1PUUdEYlJiQTlUVlBPMFRWOHJwZkJUUlpDc3J4NWs2OGpTODI5aUd2TkE2VjBPbG9jY2ZTTWFZcVhHRnNKNW1maGwyYWdjRnhFNGRZc282eThQWTYzTW5NVXZkTnNxU1ZOQkkyMjRHV2JheUlpTjEzWUN2R1N5QzYyUlkzSHZvelE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Insider trades: Nike, Marvell Technology among notable names - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkpkOTVrYVNlSXJsTU5WNmZGZVNtTk1oOHN2Z3NnbjlEUkZlOGs0N3VUVVNSZXM0M2pVOEcycFlESE5jVlRwTUVVaGx3NHZWZDVnS0EzUWM4MWI2ZnVUMkIxenVfZzl1cy1YUUtveTgzcXJBQ3ZuUU1vWUZockt3bHJPbGVITzhRZGJTR1NDdnF4NGpINndUS1Vra1c?oc=5\" target=\"_blank\">Insider trades: Nike, Marvell Technology among notable names</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkpkOTVrYVNlSXJsTU5WNmZGZVNtTk1oOHN2Z3NnbjlEUkZlOGs0N3VUVVNSZXM0M2pVOEcycFlESE5jVlRwTUVVaGx3NHZWZDVnS0EzUWM4MWI2ZnVUMkIxenVfZzl1cy1YUUtveTgzcXJBQ3ZuUU1vWUZockt3bHJPbGVITzhRZGJTR1NDdnF4NGpINndUS1Vra1c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Notable analyst calls this week: Netflix, Carvana and Marvell Technology among top picks - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDNLRHROSzRQSUNqRTMtamt4UGZPZ1ZfOC0yM1BfOWRfSWpvU0N4TVFMUENQcWVhWUtvSWUxWHZuSTEzVUlFTEVIaDMyQ1hvMW54cWNmc3hmMXRZaUNkdVZ6WnRNcEE3U2JKYnhrVDlfREszczFPZkFGZzIwRk45MUx6eWdVdEFZWEp5QTJpN0RMMzVRMnFwSTR1NHdnR0VQaWVWdjZBek9vM0ZjWW1YY29ReGtORjRGSWs0TmF5VUt0Zw?oc=5\" target=\"_blank\">Notable analyst calls this week: Netflix, Carvana and Marvell Technology among top picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDNLRHROSzRQSUNqRTMtamt4UGZPZ1ZfOC0yM1BfOWRfSWpvU0N4TVFMUENQcWVhWUtvSWUxWHZuSTEzVUlFTEVIaDMyQ1hvMW54cWNmc3hmMXRZaUNkdVZ6WnRNcEE3U2JKYnhrVDlfREszczFPZkFGZzIwRk45MUx6eWdVdEFZWEp5QTJpN0RMMzVRMnFwSTR1NHdnR0VQaWVWdjZBek9vM0ZjWW1YY29ReGtORjRGSWs0TmF5VUt0Zw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Marvell: Rating Upgrade On Data Center Boom - Seeking Alpha",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.1,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2xvTUpGd1R5WlpLMlM2R2JJZThXVVFoY25iX1lPaHdzQVJ6bkxqdWFxOXhhUFNrelJubWtUQ2F0X282NmZrVXZTZWJ6cjlmLXJ0dXpTUGVtTUpvX0o3YmdIOE1QZVNhMXptSXhNdTBGVWlXblRDRE5iQ0p6ZnFMZzlwYml2YkV0bUhz?oc=5\" target=\"_blank\">Marvell: Rating Upgrade On Data Center Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2xvTUpGd1R5WlpLMlM2R2JJZThXVVFoY25iX1lPaHdzQVJ6bkxqdWFxOXhhUFNrelJubWtUQ2F0X282NmZrVXZTZWJ6cjlmLXJ0dXpTUGVtTUpvX0o3YmdIOE1QZVNhMXptSXhNdTBGVWlXblRDRE5iQ0p6ZnFMZzlwYml2YkV0bUhz?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Why Marvell Technology Stock Jumped 50%? - Trefis",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Trefis",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0hqZGVXWTJONlVBMXdjR084eVVNbzQ3VFVtUVNQMFlzYVR1MWd5LTAtSWpZVC1GNHlhVVQxVUI0WEotN1BTM2FYdE9DOHZBYzNPWVZ4NFUyaVpwdEZfN0QxMkIweTc5U2ZtQ0t0QzNTT0wzcXFYU25DVjhpTTZYb0tfRmlVWngtQmptcnlUMDNCb3Y2Zm1naS05MXdGRkZMWEE?oc=5\" target=\"_blank\">Why Marvell Technology Stock Jumped 50%?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0hqZGVXWTJONlVBMXdjR084eVVNbzQ3VFVtUVNQMFlzYVR1MWd5LTAtSWpZVC1GNHlhVVQxVUI0WEotN1BTM2FYdE9DOHZBYzNPWVZ4NFUyaVpwdEZfN0QxMkIweTc5U2ZtQ0t0QzNTT0wzcXFYU25DVjhpTTZYb0tfRmlVWngtQmptcnlUMDNCb3Y2Zm1naS05MXdGRkZMWEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Assessing Marvell Technology (MRVL) Valuation After Strong Recent Share Price Momentum - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmtTZG1uRHBJVFFVTlFULUI4aENXcFgtXzdtMVZWekZiNW9WNUJMTEE1blRWYU95MEFURVh0RjdsYTV4Mm1senVIdE5TQ3R3YnJfVUZVQXBTem5yYmtSX2xqZmFQdkdrMWV3bjZ6dlBtdTQ5WTg1OVQtVW9abmZMQzdJVTZCOTB0QUdfMW91OFVlUWowNUVmb29QVm9tQ29rRWt6Yk5JQmo1TmF6V2ZUeVEwQnFLYy1DaHllUW9McEpWZ1RlTTZ1MWZiMDNxeTVlanhmVGlPejBZbFnSAeABQVVfeXFMTlhlM0lnNk90NGxIWE1RQ2FuLVJwdTIwMFkySTNQb2JORkFIRDZXcXc1eXJHVTRlcWlYNjZ0dlUwYi1RYmtPZnhhdzVUWTUzTVpmbUZrcEJHLUJ5OUxFaU5HUzFfdzJvTlp6LXdMbE9XUEMtUnFFTWdwdW5qNDhsb2dtaUZ6T1c1azdmM3U5TmY0N2k4LWhOY1dsSU5nbGtwMTdZcElnUWRuTXhnUEdiSGVVZkNFTE0tMVMwMVpJTVY3OXNGaUVoVkJwcGFMSS1jTUFDM3Aya2E4bjE4WnRwN3c?oc=5\" target=\"_blank\">Assessing Marvell Technology (MRVL) Valuation After Strong Recent Share Price Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmtTZG1uRHBJVFFVTlFULUI4aENXcFgtXzdtMVZWekZiNW9WNUJMTEE1blRWYU95MEFURVh0RjdsYTV4Mm1senVIdE5TQ3R3YnJfVUZVQXBTem5yYmtSX2xqZmFQdkdrMWV3bjZ6dlBtdTQ5WTg1OVQtVW9abmZMQzdJVTZCOTB0QUdfMW91OFVlUWowNUVmb29QVm9tQ29rRWt6Yk5JQmo1TmF6V2ZUeVEwQnFLYy1DaHllUW9McEpWZ1RlTTZ1MWZiMDNxeTVlanhmVGlPejBZbFnSAeABQVVfeXFMTlhlM0lnNk90NGxIWE1RQ2FuLVJwdTIwMFkySTNQb2JORkFIRDZXcXc1eXJHVTRlcWlYNjZ0dlUwYi1RYmtPZnhhdzVUWTUzTVpmbUZrcEJHLUJ5OUxFaU5HUzFfdzJvTlp6LXdMbE9XUEMtUnFFTWdwdW5qNDhsb2dtaUZ6T1c1azdmM3U5TmY0N2k4LWhOY1dsSU5nbGtwMTdZcElnUWRuTXhnUEdiSGVVZkNFTE0tMVMwMVpJTVY3OXNGaUVoVkJwcGFMSS1jTUFDM3Aya2E4bjE4WnRwN3c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum. - MarketWatch",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketWatch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaHdDMHFDNERPbVA4MTc1WWtaV0hXWlB3aE1oUWN3NHI0dlN5OXVWdjZQMFNfZHR3N0p6OC1RREYwak92bk8zWWtMS09CNFpaS1Q0VXVHbmlSV1Q1Mm1Qd0pTSHEzRGpYaWVhVXBaUEYxV0dVaHdFV0kyaEFNalRORXpJd3NfYVRFVFcwY01MRkp4d3lkeXhfNWdwQUdoZURDM2lUR0ZtdnNEcF9CLUFIN3N3QkVnWlZKZ3FVRTAyaGRnRm92UE9Edk5adU5nZkw2TkdiWFNn?oc=5\" target=\"_blank\">Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaHdDMHFDNERPbVA4MTc1WWtaV0hXWlB3aE1oUWN3NHI0dlN5OXVWdjZQMFNfZHR3N0p6OC1RREYwak92bk8zWWtMS09CNFpaS1Q0VXVHbmlSV1Q1Mm1Qd0pTSHEzRGpYaWVhVXBaUEYxV0dVaHdFV0kyaEFNalRORXpJd3NfYVRFVFcwY01MRkp4d3lkeXhfNWdwQUdoZURDM2lUR0ZtdnNEcF9CLUFIN3N3QkVnWlZKZ3FVRTAyaGRnRm92UE9Edk5adU5nZkw2TkdiWFNn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Bank of America Says Marvell and AMD Are 2 Top \u2018AI Compute\u2019 Stocks to Buy Now - Yahoo Finance",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05263157894736842,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVFNcldqSkN4WmxMN3ltNmlUcVc5ZmotLTBoR1ZQS2hqTmJuZUpUUmxPUWlxSXZFeDlVcW81MzV5aDNIMWJ6YW41MExhYWRGSlRjRjdxOTNWOTdzTlp1NllGMmZ0aVZGQ2NNdGVJUndrTDVldnNmeElaWHpSc2tKN1V5a2dIajl6aWo2UDdnRnVhbGp0elhJekJ0OW1YanM?oc=5\" target=\"_blank\">Bank of America Says Marvell and AMD Are 2 Top \u2018AI Compute\u2019 Stocks to Buy Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVFNcldqSkN4WmxMN3ltNmlUcVc5ZmotLTBoR1ZQS2hqTmJuZUpUUmxPUWlxSXZFeDlVcW81MzV5aDNIMWJ6YW41MExhYWRGSlRjRjdxOTNWOTdzTlp1NllGMmZ0aVZGQ2NNdGVJUndrTDVldnNmeElaWHpSc2tKN1V5a2dIajl6aWo2UDdnRnVhbGp0elhJekJ0OW1YanM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Stocks making the biggest moves midday: Palantir, Marvell, CoreWeave, Zscaler & more - CNBC",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVycGtMX2pnbFBQZ2gtTjRPUHR6WHQxMFhDMERmNlhBTDh0d1JoUEZBT1Y0X1hwVklPaGdGT1VpY2NHb1JIeDJxbVpncHUzZUM5TGR1ZUVEOHRUczZERzV3STBWWEpoUjZmSW5FUDAyREtZc180MGVBQzNVckV5Ql9Vc25CSUtDajMtSlVtcEpkWEpNTnAtdA?oc=5\" target=\"_blank\">Stocks making the biggest moves midday: Palantir, Marvell, CoreWeave, Zscaler & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVycGtMX2pnbFBQZ2gtTjRPUHR6WHQxMFhDMERmNlhBTDh0d1JoUEZBT1Y0X1hwVklPaGdGT1VpY2NHb1JIeDJxbVpncHUzZUM5TGR1ZUVEOHRUczZERzV3STBWWEpoUjZmSW5FUDAyREtZc180MGVBQzNVckV5Ql9Vc25CSUtDajMtSlVtcEpkWEpNTnAtdA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Why Marvell Stock Is Breaking Out on AI Hopes - TipRanks",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TipRanks",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0MxSzBUNV9kNFZJNDlkQXZ5N09WZXhROXpJdkR2cHN4LUY5WGh5SXEwRWZQeG94SmJ1a0ctZndHRzc0M2Q2OTVjcDFUcFgwVXBOTWh2c0tPZjVJajZhOVFNemMxUWZJR081UUdGa29EaTYxbmVGbUFEc181WnNDNkpBaEFsTjBWNzV1cQ?oc=5\" target=\"_blank\">Why Marvell Stock Is Breaking Out on AI Hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0MxSzBUNV9kNFZJNDlkQXZ5N09WZXhROXpJdkR2cHN4LUY5WGh5SXEwRWZQeG94SmJ1a0ctZndHRzc0M2Q2OTVjcDFUcFgwVXBOTWh2c0tPZjVJajZhOVFNemMxUWZJR081UUdGa29EaTYxbmVGbUFEc181WnNDNkpBaEFsTjBWNzV1cQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Marvell Technology (MRVL) Stock Is Up, What You Need To Know - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2I4anU2MFlWeVIxcm9OS3RHejcxVmk3eFNaZUZDUllFeXlFc1hSa0RBODhNLWplU2pRY1pQUS1mbUpJZnFTLW51WE0wTEU1b0EtOGcxd3VCRzM2V1Z6WlJQQ3B1NTJyM00ySF9OejF6Y0VvYmhIUHloTS12X3ItMnRvTUttMVZESjB6MVNjUllxU08xa2MwS1ZVaEVUek5x?oc=5\" target=\"_blank\">Marvell Technology (MRVL) Stock Is Up, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2I4anU2MFlWeVIxcm9OS3RHejcxVmk3eFNaZUZDUllFeXlFc1hSa0RBODhNLWplU2pRY1pQUS1mbUpJZnFTLW51WE0wTEU1b0EtOGcxd3VCRzM2V1Z6WlJQQ3B1NTJyM00ySF9OejF6Y0VvYmhIUHloTS12X3ItMnRvTUttMVZESjB6MVNjUllxU08xa2MwS1ZVaEVUek5x?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 5
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 7,
+      "delta": 0.009376968061178584,
+      "prior_mean": 0.012820512820512822,
+      "recent_mean": 0.022197480881691406
     },
     "technical": {
       "atr14": 6.10025849281422,
@@ -367,16 +586,19 @@
   },
   "market_overlay": {
     "adverse_effects": 1,
+    "effective_adverse_effects": 1,
+    "effective_supportive_effects": 0,
     "exposures": [
       "software"
     ],
     "industry": "Semiconductors",
     "sector": "Technology",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.",
-    "stance": "mixed"
+    "explanation": "Python classified 15 stock-specific articles into 5 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
   },
   "recent_weakness": [
     {
@@ -392,6 +614,18 @@
     {
       "confidence": "medium",
       "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-13: Marvell Stock Is Hitting Record Highs. Thank Amazon. - Barron's."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-13: Marvell Technology (MRVL) unveils advanced switch for AI data center scale-up infrastructure - MSN."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-11: Marvell: Rating Upgrade On Data Center Boom - Seeking Alpha."
     }
   ],
   "risks": [
@@ -439,14 +673,19 @@
         "value": 51.82
       },
       {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 5
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -2,
         "value": 1
       }
     ],
-    "confidence": "medium",
-    "label": "mixed_watch",
-    "score_0_to_100": 53
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 61
   },
   "sources": [
     {
@@ -457,11 +696,47 @@
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "publisher": "Barron's",
+      "title": "Marvell Stock Is Hitting Record Highs. Thank Amazon. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUW5qX3VKV043aVFwZkFnNFZRMHVzU1ZNb3ZyZnJ0Sjd0WlBYQ3daX2FpRWx5cEs4MDFPSHo5T3BrSjdmcDRTaGY0QTJVYzY2YnJEU1p4NWtHMEZpSEt3WE5HbjF6cmc4dGZEQ0NsRVJRQkl6MmVzMWVTNVJIVEsyaQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "MarketBeat",
+      "title": "Marvell Technology, Inc. $MRVL Shares Sold by Stanley Laman Group Ltd. - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVVpTmxOeE1GeFBoSmNNUzdnQ0RJS08xV1dRbEJManJRcU1fVVpPWUo0aVlmZHRoWk1QSFZJeFNNZXZ4bjlUcWRyN2VPSGx2LVQycVhqb0xhWGRidklEWDdaQzhtSXVKcmZkZXpYbTJGZC1FaUoxNVRIem82aGk1bkJkTEhLOGZZeVdkenJTNDIzN1phcGVJbHR0bktMaGhXOVR6WnhtT0hTLUpNMTkwS010UmJfV2VOdnYwbUJhX0tfNTFXU1E?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "MSN",
+      "title": "Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVUJFalFpTlhCZVVIU0JLZTQyNGFwakE4UGpodHRfakpLS3RuNUE0aTl0TjBDVHl1QUVOX0h0TV9ERzJFcTB0MlU3UGlIVUVVM3BFX0pHV1dVZS1oV3BiajVFR29XZ0hCY3Znbl9LZ1dDeTFsY3ZRTzNXdTNFc2RxY2VCRkVldmplZ1h5OHItRG9DdTRnY2dSQ2h5ZGxzVGFOVFdwRUdvWkZseU5DX215amV4WXFhMGxvUmxGWUJSNFFQOWh1b0E4S2UzS0k1TDZRSng3VVZEcjVWeXJudXJoaGlUaUhaeVcxeW9CZVlFUElROFJFRUIxWVd0RWRoeTNUZFFic0w0d20?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "TradingKey",
+      "title": "Up 20% in Five Days, Over 50% This Year: Why Was Marvell Technology Tapped by Nvidia? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJQRnA5WEZmXzFvV1l2S0dtZE1rcGlQNXJvUGc3dWNSdzZCZWlwMWd6ay1uM0tNcjhFY19QVFhWX1F6c2JqSlhDMUdLU0FUc3RURElJbUNWQ1lndE1zaDY0TXpnV3U1S2x0cVdVdTM0QmtIVXA0dkNxTTc0S0w2M1JmLWJPV3VxdzFjOWtZY28zYlBHYXd1OUdYMnR5UVVFejZMLVRuMXlHc3Bmc1NUMjhkeWhWTXQyNlVv?oc=5"
+    },
+    {
+      "published_at": "2026-04-13",
+      "publisher": "MSN",
+      "title": "Marvell Technology (MRVL) unveils advanced switch for AI data center scale-up infrastructure - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPT2pVSTU4WWRkSGRWVm1lTmFOOF9tcVNJQXNpcnY1NU92NHNRQkxzVF9aeXZwMmx5emRyVktDOFNkWWVRd0lVZTVTczJhVVpoVFlYczRxUDVtVUNXWUtPeDNkbHFtUlFLeTJlT2pKbVpJMnQ1N0tDeVc5MFhYek5zVnpFMHVJdzN4ZnBlT04yQWFPbzRpazRLQTFhbXl2c1VRRlhBWWIxUFFJekl2ZGhnb2FMaHgtNTdmTFhpcFc4QXgxN09WWDliN0xZZll6RVVRX1otQ1ZoUzNRS2pBR1BKdHNGYVJ6NTBnVUZrbS1PUUdEYlJiQTlUVlBPMFRWOHJwZkJUUlpDc3J4NWs2OGpTODI5aUd2TkE2VjBPbG9jY2ZTTWFZcVhHRnNKNW1maGwyYWdjRnhFNGRZc282eThQWTYzTW5NVXZkTnNxU1ZOQkkyMjRHV2JheUlpTjEzWUN2R1N5QzYyUlkzSHZvelE?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "Seeking Alpha",
+      "title": "Insider trades: Nike, Marvell Technology among notable names - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkpkOTVrYVNlSXJsTU5WNmZGZVNtTk1oOHN2Z3NnbjlEUkZlOGs0N3VUVVNSZXM0M2pVOEcycFlESE5jVlRwTUVVaGx3NHZWZDVnS0EzUWM4MWI2ZnVUMkIxenVfZzl1cy1YUUtveTgzcXJBQ3ZuUU1vWUZockt3bHJPbGVITzhRZGJTR1NDdnF4NGpINndUS1Vra1c?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "Seeking Alpha",
+      "title": "Notable analyst calls this week: Netflix, Carvana and Marvell Technology among top picks - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDNLRHROSzRQSUNqRTMtamt4UGZPZ1ZfOC0yM1BfOWRfSWpvU0N4TVFMUENQcWVhWUtvSWUxWHZuSTEzVUlFTEVIaDMyQ1hvMW54cWNmc3hmMXRZaUNkdVZ6WnRNcEE3U2JKYnhrVDlfREszczFPZkFGZzIwRk45MUx6eWdVdEFZWEp5QTJpN0RMMzVRMnFwSTR1NHdnR0VQaWVWdjZBek9vM0ZjWW1YY29ReGtORjRGSWs0TmF5VUt0Zw?oc=5"
     }
   ],
-  "summary": "MRVL scores 53/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.",
+  "summary": "MRVL scores 61/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.",
   "symbol": "MRVL"
 }

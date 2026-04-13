@@ -3,7 +3,7 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "high",
+    "confidence": "medium",
     "label": "constructive_watch",
     "score_0_to_100": 66,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
@@ -11,10 +11,16 @@
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 925.00 and attract follow-through volume."
+      "point": "2026-03-25: Windowmaster International A/S Maintains Earnings Guidance for the Year 2026 - marketscreener.com."
     }
   ],
   "company_name": "WindowMaster International AS",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.6,
+    "quality": "thin",
+    "stock_articles": 1
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -399,6 +405,8 @@
         "provider": "yfinance",
         "sector": "Industrials"
       },
+      "effective_adverse_effect_count": 3,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -482,20 +490,38 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 0.6
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 1,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-03-25",
+          "headline": "Windowmaster International A/S Maintains Earnings Guidance for the Year 2026 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXZueFNZWXVxQlJjMnF1R0pDeERlbkRSRzNvdFNCTFBVak52SldIWjRSU0RLQlgwTFRJRndPRGl3UWpfcDgwaG4waE1wcUZ0RzhGQ0pVanl4cEUySjRGUVFCTlRyQ0pjeW1VVVoxTkhNcHhpUnBDS255X3VMWDJlbVM3NFdJRDN5VUtNRmh1ajItdnZiaTF0S05ZZ2VxbnBWRzUwdE50eXlSV1hBelF1MWk2cWMwck5ZWUw3bm1jTTlOQ3N6Z1Z3cQ?oc=5\" target=\"_blank\">Windowmaster International A/S Maintains Earnings Guidance for the Year 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXZueFNZWXVxQlJjMnF1R0pDeERlbkRSRzNvdFNCTFBVak52SldIWjRSU0RLQlgwTFRJRndPRGl3UWpfcDgwaG4waE1wcUZ0RzhGQ0pVanl4cEUySjRGUVFCTlRyQ0pjeW1VVVoxTkhNcHhpUnBDS255X3VMWDJlbVM3NFdJRDN5VUtNRmh1ajItdnZiaTF0S05ZZ2VxbnBWRzUwdE50eXlSV1hBelF1MWk2cWMwck5ZWUw3bm1jTTlOQ3N6Z1Z3cQ?oc=5"
+        }
+      ],
+      "coverage_quality": "thin",
       "negative_signal_count": 0,
       "positive_signal_count": 0
     },
     "sentiment": {
-      "days_sampled": 0,
+      "days_sampled": 1,
       "delta": null,
       "prior_mean": null,
-      "recent_mean": null
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 30.9842695195451,
@@ -515,15 +541,18 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 3,
+    "effective_supportive_effects": 0,
     "exposures": [
       "industrials"
     ],
     "industry": "Building Products & Equipment",
     "sector": "Industrials",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 0.6
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 1 stock-specific articles into 0 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is thin. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.60 macro weight because company-specific coverage is thin.",
     "stance": "conflicting"
   },
   "recent_weakness": [
@@ -604,12 +633,12 @@
         "value": 97.04
       },
       {
-        "label": "Adverse market / sector theme overlay",
+        "label": "Adverse market / sector theme overlay (downweighted because company-specific coverage is limited)",
         "points": -6,
         "value": 5
       }
     ],
-    "confidence": "high",
+    "confidence": "medium",
     "label": "constructive_watch",
     "score_0_to_100": 66
   },
@@ -619,6 +648,12 @@
       "publisher": "stock.sdc-fried.de",
       "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-03-25",
+      "publisher": "marketscreener.com",
+      "title": "Windowmaster International A/S Maintains Earnings Guidance for the Year 2026 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXZueFNZWXVxQlJjMnF1R0pDeERlbkRSRzNvdFNCTFBVak52SldIWjRSU0RLQlgwTFRJRndPRGl3UWpfcDgwaG4waE1wcUZ0RzhGQ0pVanl4cEUySjRGUVFCTlRyQ0pjeW1VVVoxTkhNcHhpUnBDS255X3VMWDJlbVM3NFdJRDN5VUtNRmh1ajItdnZiaTF0S05ZZ2VxbnBWRzUwdE50eXlSV1hBelF1MWk2cWMwck5ZWUw3bm1jTTlOQ3N6Z1Z3cQ?oc=5"
     },
     {
       "published_at": "2026-04-13",
@@ -651,6 +686,6 @@
       "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
     }
   ],
-  "summary": "WMA scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "WMA scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.",
   "symbol": "WMA"
 }

@@ -5,16 +5,26 @@
   "breakout_stance": {
     "confidence": "high",
     "label": "constructive_watch",
-    "score_0_to_100": 66,
+    "score_0_to_100": 65,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 133.60 and attract follow-through volume."
+      "point": "2026-04-11: Vinci to acquire Macquarie\u2019s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector - Prop News Time."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-03-18: Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline - Investing.com."
     }
   ],
   "company_name": "Vinci S. A.",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 8
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -399,6 +409,8 @@
         "provider": "yfinance",
         "sector": "Industrials"
       },
+      "effective_adverse_effect_count": 5,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -482,20 +494,137 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
-      "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "article_count": 8,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-11",
+          "headline": "Vinci to acquire Macquarie\u2019s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector - Prop News Time",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Prop News Time",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPN1hVS05zbDV2bldNX1ROUWh6Z3lqRVdwMHg4WFh6dXRIRDB5X0swdVlqZk9zQ0ZwYTFMLXFZcjM3UXFnOFEyM2FzOW84S3BodFZZNFNuTGk5dWQzSy1SakpTRmhxQ19XemdQREQ0Z0JWcmV2N0FIXy1nREdKUTV4c01qaWVURUlmLTlEZDRvYUVtRnZzZVY0dzdpeUtSQm5zMVhqaU1WY3RTZE5VLXlzVVFBTFd5bVNvZXI5TzVHNzZ3NmJYcnpBUjF4aDYzcmhpM2IyTXMyd0tYWXdseFZWam54enlBZ0x0Z3pMZHR5b1lvR3ZMUnc3TUVOMlBXX3liZXpkUUp3?oc=5\" target=\"_blank\">Vinci to acquire Macquarie\u2019s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prop News Time</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPN1hVS05zbDV2bldNX1ROUWh6Z3lqRVdwMHg4WFh6dXRIRDB5X0swdVlqZk9zQ0ZwYTFMLXFZcjM3UXFnOFEyM2FzOW84S3BodFZZNFNuTGk5dWQzSy1SakpTRmhxQ19XemdQREQ0Z0JWcmV2N0FIXy1nREdKUTV4c01qaWVURUlmLTlEZDRvYUVtRnZzZVY0dzdpeUtSQm5zMVhqaU1WY3RTZE5VLXlzVVFBTFd5bVNvZXI5TzVHNzZ3NmJYcnpBUjF4aDYzcmhpM2IyTXMyd0tYWXdseFZWam54enlBZ0x0Z3pMZHR5b1lvR3ZMUnc3TUVOMlBXX3liZXpkUUp3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "AMG Veritas Global Real Return Fund's Vinci SA(XPAR:DG) Holding History - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDZjamVyU0VPdEMtc184QVF0bUwxakVmYWc1R2J0OHVkMjZETEd5NUl3X0RCQURiQ3FSakk1RTgyTW1XY0dFVWYzOGZDNDZ4RGM4UzJ1WnJYOUhaeEt4VFg1cWk3SGY2UUVwRG8zUkRRU1lLR25oLWlrOHNxWExNYmdTZW82RVR4ejNxMkVIRGJXQ2g1QmRCZHl3?oc=5\" target=\"_blank\">AMG Veritas Global Real Return Fund's Vinci SA(XPAR:DG) Holding History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDZjamVyU0VPdEMtc184QVF0bUwxakVmYWc1R2J0OHVkMjZETEd5NUl3X0RCQURiQ3FSakk1RTgyTW1XY0dFVWYzOGZDNDZ4RGM4UzJ1WnJYOUhaeEt4VFg1cWk3SGY2UUVwRG8zUkRRU1lLR25oLWlrOHNxWExNYmdTZW82RVR4ejNxMkVIRGJXQ2g1QmRCZHl3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Vinci S.A. stock (FR0000125486): Is infrastructure resilience the key diversification play for U.S. - AD HOC NEWS",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "AD HOC NEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDlpQzhCZGtKWTI0dVZZX3I5cXhRYmV0NEZjVXhURTFQeTRyS0VacDNJdU1WSGYtZUxBVDEzcmVXUmpFQ3Jfd3dHeWJYdDJHSU1MYU9LVTZwRDNzQWR1OHc0dkZhMU5YY2pjdG1lQ0VSRXoxcHI2dFNqWjFkdGRZeUJPSnJFTjlCak9senRrUDh3NktKUmNJQnFpVXFPaW9nS29oZmo1UzRMS0ZwbzhWTXp0dlhkNVQzWEhJ?oc=5\" target=\"_blank\">Vinci S.A. stock (FR0000125486): Is infrastructure resilience the key diversification play for U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDlpQzhCZGtKWTI0dVZZX3I5cXhRYmV0NEZjVXhURTFQeTRyS0VacDNJdU1WSGYtZUxBVDEzcmVXUmpFQ3Jfd3dHeWJYdDJHSU1MYU9LVTZwRDNzQWR1OHc0dkZhMU5YY2pjdG1lQ0VSRXoxcHI2dFNqWjFkdGRZeUJPSnJFTjlCak9senRrUDh3NktKUmNJQnFpVXFPaW9nS29oZmo1UzRMS0ZwbzhWTXp0dlhkNVQzWEhJ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "DG.PA Technical Analysis | Trend, Signals & Chart Patterns | VINCI SA (EPA:DG) - ChartMill",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "ChartMill",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMmtzc0pkVlp0eWQ1MkEwc0F5dGJ1aXdHNlpnLVNMODRjbVBWUXJ5dDgzMVR4OGpvRVFEa0c0VnEwa19jT3RzdVhtVlhWUWVqNVBzZWRYMUhncTd4YnJQTldkWG1EdjQ2ejd1eTJuSQ?oc=5\" target=\"_blank\">DG.PA Technical Analysis | Trend, Signals & Chart Patterns | VINCI SA (EPA:DG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChartMill</font>",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMmtzc0pkVlp0eWQ1MkEwc0F5dGJ1aXdHNlpnLVNMODRjbVBWUXJ5dDgzMVR4OGpvRVFEa0c0VnEwa19jT3RzdVhtVlhWUWVqNVBzZWRYMUhncTd4YnJQTldkWG1EdjQ2ejd1eTJuSQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Vinci SA (4DG.TI) Income Statement - Yahoo! Finance Canada",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo! Finance Canada",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KN1phV2JXS2pGNHF4anJlZWliTWgzamJFakdBNXdueWt4Z2E3Tlpla3o1ZzExSlIzNHRSWHZRXzRPaFlNaGF4bGdjVHRlaDVFRUdWUVBRNVZyc1FVeEVNNlVDVQ?oc=5\" target=\"_blank\">Vinci SA (4DG.TI) Income Statement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KN1phV2JXS2pGNHF4anJlZWliTWgzamJFakdBNXdueWt4Z2E3Tlpla3o1ZzExSlIzNHRSWHZRXzRPaFlNaGF4bGdjVHRlaDVFRUdWUVBRNVZyc1FVeEVNNlVDVQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "France's Vinci set to re-enter India with $1.7 bn Macquarie toll roads deal: Report - ET Infra",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "ET Infra",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS3hQN0ZCZk1DVmJiR2lRY1VyM2ZPM2VlNkxUTXlWa3BzOUhycWt2cmd4U0hubjNzNjMzOUwwYkhpYTU5V0RJakFmTERoUW4tNk5FR1U0aU5zdElsWUVmeXpuTnVMMEN4M1Z4Y0lXOUxhd1U0RzlvX0plbHhCVWE3MG9jaENGZ2p1NDFRNDE4aXJLZFYxRGRPZ3RmSnl4WWJlcVkybE1YZEFxdU1iaUtTRkdtZ0ZpaGsxOVNYYm9MYWVCNElJMWRIajZlS3cwN2dWYkxiU1RZSTRGV1JfZlhuX2EtbGNaOUJ00gHuAUFVX3lxTFA3bDZJdFFPMVVzSTRoV2lVSjZjREtQZm8yVVJlUkt5TXNMbGpyZktFRHp3NndnUUl3Ykdpd3RURE5sR19NaHRPa2E5aktfeFFGdmkzcE8xWTNIUnZkQ2ZpOTM1OHBYUzFxYUMxTFl0X2s5SmZwRk5yaGt3UUN1LU02b0l4UHc0Q2QzaVlNLTNaTkdMSm0zZUFzcERjTXZDU002SjJhRGcxQkJHYkQ5SVpRYndsRUgyZlZ4bm9tVVhOZkxDXzJDenl2M0VqWkdDYjI3UTVSY3k0OUdwT3Q3YjRJME5Udkl3ZzZUQUphdnc?oc=5\" target=\"_blank\">France's Vinci set to re-enter India with $1.7 bn Macquarie toll roads deal: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS3hQN0ZCZk1DVmJiR2lRY1VyM2ZPM2VlNkxUTXlWa3BzOUhycWt2cmd4U0hubjNzNjMzOUwwYkhpYTU5V0RJakFmTERoUW4tNk5FR1U0aU5zdElsWUVmeXpuTnVMMEN4M1Z4Y0lXOUxhd1U0RzlvX0plbHhCVWE3MG9jaENGZ2p1NDFRNDE4aXJLZFYxRGRPZ3RmSnl4WWJlcVkybE1YZEFxdU1iaUtTRkdtZ0ZpaGsxOVNYYm9MYWVCNElJMWRIajZlS3cwN2dWYkxiU1RZSTRGV1JfZlhuX2EtbGNaOUJ00gHuAUFVX3lxTFA3bDZJdFFPMVVzSTRoV2lVSjZjREtQZm8yVVJlUkt5TXNMbGpyZktFRHp3NndnUUl3Ykdpd3RURE5sR19NaHRPa2E5aktfeFFGdmkzcE8xWTNIUnZkQ2ZpOTM1OHBYUzFxYUMxTFl0X2s5SmZwRk5yaGt3UUN1LU02b0l4UHc0Q2QzaVlNLTNaTkdMSm0zZUFzcERjTXZDU002SjJhRGcxQkJHYkQ5SVpRYndsRUgyZlZ4bm9tVVhOZkxDXzJDenl2M0VqWkdDYjI3UTVSY3k0OUdwT3Q3YjRJME5Udkl3ZzZUQUphdnc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-24",
+          "headline": "Vinci: There Are Better Value Infrastructure Plays Out There (OTCMKTS:VCISY) - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVg0MmxDdl9qNmV0UWNNRnd4X21FWG5BbDQ1MkFlTV9nZ1BuM0xSa0NlU2J4RU85d2o1RzB3TDBERlFKZkhqRDdFX1pGSk04cjRZaDJOWEFwQzNvVVEzVXB0Yk5QMTExNVZVOXRKU3dISjFHQnBHRW83czM3SklLVFE5WC13Y3NzeVl1UEd3YlJXcjBMZFUzNU1VYzFIR2l1RVE?oc=5\" target=\"_blank\">Vinci: There Are Better Value Infrastructure Plays Out There (OTCMKTS:VCISY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVg0MmxDdl9qNmV0UWNNRnd4X21FWG5BbDQ1MkFlTV9nZ1BuM0xSa0NlU2J4RU85d2o1RzB3TDBERlFKZkhqRDdFX1pGSk04cjRZaDJOWEFwQzNvVVEzVXB0Yk5QMTExNVZVOXRKU3dISjFHQnBHRW83czM3SklLVFE5WC13Y3NzeVl1UEd3YlJXcjBMZFUzNU1VYzFIR2l1RVE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-03-18",
+          "headline": "Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline - Investing.com",
+          "kind": "mixed",
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0625,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZkozbWk5UUhUTlBnNWp0NGVibWJsODFJUnp5NXdoV1ctZk1MaGhac0lHX2N2b2dSajROVW53TVRnMGd3aWc2TzdIN1p0WGg0R0RWVXZVMUF6ejY4ai1fUnFPWEZtbXpqLVBKN3NWN0RTUHUwRmZXUHljM09KbWpnbmh4bUpTdkNwNjktMjB0cnRfUURna0ZKQmNzQVBKRExYdkFJcng2TUJBV2FYM3RDNk94MzE1SUxrTXMxcm12UHJBeTd1Q2FfQlpkbURvMnNkOEoxUFBHMWxQMlpybDA3Z1BnOGFYdkdSZVlndTd3?oc=5\" target=\"_blank\">Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZkozbWk5UUhUTlBnNWp0NGVibWJsODFJUnp5NXdoV1ctZk1MaGhac0lHX2N2b2dSajROVW53TVRnMGd3aWc2TzdIN1p0WGg0R0RWVXZVMUF6ejY4ai1fUnFPWEZtbXpqLVBKN3NWN0RTUHUwRmZXUHljM09KbWpnbmh4bUpTdkNwNjktMjB0cnRfUURna0ZKQmNzQVBKRExYdkFJcng2TUJBV2FYM3RDNk94MzE1SUxrTXMxcm12UHJBeTd1Q2FfQlpkbURvMnNkOEoxUFBHMWxQMlpybDA3Z1BnOGFYdkdSZVlndTd3?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 1,
+      "positive_signal_count": 2
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 5,
+      "delta": -0.03125,
+      "prior_mean": 0.03125,
+      "recent_mean": 0.0
     },
     "technical": {
       "atr14": 3.09898770917029,
@@ -515,18 +644,25 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 5,
+    "effective_supportive_effects": 0,
     "exposures": [
       "industrials"
     ],
     "industry": "Engineering & Construction",
     "sector": "Industrials",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 8 stock-specific articles into 2 constructive, 1 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "conflicting"
   },
   "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-03-18: Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline - Investing.com."
+    },
     {
       "confidence": "medium",
       "point": "2026-04-13: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind, Shipping disruption / freight stress): Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC."
@@ -552,12 +688,20 @@
     {
       "confidence": "high",
       "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-11: Vinci to acquire Macquarie\u2019s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector - Prop News Time."
     }
   ],
   "risks": [
     {
       "confidence": "high",
       "point": "A close back below 133.60 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Recent adverse headline could still cap follow-through: 2026-03-18: Vinci SA sees mixed traffic results in February with airport growth offsetting motorway decline - Investing.com."
     },
     {
       "confidence": "medium",
@@ -604,14 +748,29 @@
         "value": 10.43
       },
       {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -2,
+        "value": 1
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -6,
         "value": 5
+      },
+      {
+        "label": "Headline sentiment is deteriorating",
+        "points": -3,
+        "value": -0.031
       }
     ],
     "confidence": "high",
     "label": "constructive_watch",
-    "score_0_to_100": 66
+    "score_0_to_100": 65
   },
   "sources": [
     {
@@ -621,36 +780,48 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5"
+      "published_at": "2026-04-11",
+      "publisher": "Prop News Time",
+      "title": "Vinci to acquire Macquarie\u2019s Indian toll road portfolio for USD 1.7 billion, marking re-entry into infrastructure sector - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPN1hVS05zbDV2bldNX1ROUWh6Z3lqRVdwMHg4WFh6dXRIRDB5X0swdVlqZk9zQ0ZwYTFMLXFZcjM3UXFnOFEyM2FzOW84S3BodFZZNFNuTGk5dWQzSy1SakpTRmhxQ19XemdQREQ0Z0JWcmV2N0FIXy1nREdKUTV4c01qaWVURUlmLTlEZDRvYUVtRnZzZVY0dzdpeUtSQm5zMVhqaU1WY3RTZE5VLXlzVVFBTFd5bVNvZXI5TzVHNzZ3NmJYcnpBUjF4aDYzcmhpM2IyTXMyd0tYWXdseFZWam54enlBZ0x0Z3pMZHR5b1lvR3ZMUnc3TUVOMlBXX3liZXpkUUp3?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley\u2019s Mike Wilson.",
-      "url": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories"
+      "published_at": "2026-04-11",
+      "publisher": "GuruFocus",
+      "title": "AMG Veritas Global Real Return Fund's Vinci SA(XPAR:DG) Holding History - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDZjamVyU0VPdEMtc184QVF0bUwxakVmYWc1R2J0OHVkMjZETEd5NUl3X0RCQURiQ3FSakk1RTgyTW1XY0dFVWYzOGZDNDZ4RGM4UzJ1WnJYOUhaeEt4VFg1cWk3SGY2UUVwRG8zUkRRU1lLR25oLWlrOHNxWExNYmdTZW82RVR4ejNxMkVIRGJXQ2g1QmRCZHl3?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Populism lost in Hungary but still might win the war, one strategist argues",
-      "url": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories"
+      "published_at": "2026-04-10",
+      "publisher": "AD HOC NEWS",
+      "title": "Vinci S.A. stock (FR0000125486): Is infrastructure resilience the key diversification play for U.S. - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDlpQzhCZGtKWTI0dVZZX3I5cXhRYmV0NEZjVXhURTFQeTRyS0VacDNJdU1WSGYtZUxBVDEzcmVXUmpFQ3Jfd3dHeWJYdDJHSU1MYU9LVTZwRDNzQWR1OHc0dkZhMU5YY2pjdG1lQ0VSRXoxcHI2dFNqWjFkdGRZeUJPSnJFTjlCak9senRrUDh3NktKUmNJQnFpVXFPaW9nS29oZmo1UzRMS0ZwbzhWTXp0dlhkNVQzWEhJ?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "published_at": "2026-04-10",
+      "publisher": "ChartMill",
+      "title": "DG.PA Technical Analysis | Trend, Signals & Chart Patterns | VINCI SA (EPA:DG) - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMmtzc0pkVlp0eWQ1MkEwc0F5dGJ1aXdHNlpnLVNMODRjbVBWUXJ5dDgzMVR4OGpvRVFEa0c0VnEwa19jT3RzdVhtVlhWUWVqNVBzZWRYMUhncTd4YnJQTldkWG1EdjQ2ejd1eTJuSQ?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
+      "published_at": "2026-04-10",
+      "publisher": "Yahoo! Finance Canada",
+      "title": "Vinci SA (4DG.TI) Income Statement - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KN1phV2JXS2pGNHF4anJlZWliTWgzamJFakdBNXdueWt4Z2E3Tlpla3o1ZzExSlIzNHRSWHZRXzRPaFlNaGF4bGdjVHRlaDVFRUdWUVBRNVZyc1FVeEVNNlVDVQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "ET Infra",
+      "title": "France's Vinci set to re-enter India with $1.7 bn Macquarie toll roads deal: Report - ET Infra",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS3hQN0ZCZk1DVmJiR2lRY1VyM2ZPM2VlNkxUTXlWa3BzOUhycWt2cmd4U0hubjNzNjMzOUwwYkhpYTU5V0RJakFmTERoUW4tNk5FR1U0aU5zdElsWUVmeXpuTnVMMEN4M1Z4Y0lXOUxhd1U0RzlvX0plbHhCVWE3MG9jaENGZ2p1NDFRNDE4aXJLZFYxRGRPZ3RmSnl4WWJlcVkybE1YZEFxdU1iaUtTRkdtZ0ZpaGsxOVNYYm9MYWVCNElJMWRIajZlS3cwN2dWYkxiU1RZSTRGV1JfZlhuX2EtbGNaOUJ00gHuAUFVX3lxTFA3bDZJdFFPMVVzSTRoV2lVSjZjREtQZm8yVVJlUkt5TXNMbGpyZktFRHp3NndnUUl3Ykdpd3RURE5sR19NaHRPa2E5aktfeFFGdmkzcE8xWTNIUnZkQ2ZpOTM1OHBYUzFxYUMxTFl0X2s5SmZwRk5yaGt3UUN1LU02b0l4UHc0Q2QzaVlNLTNaTkdMSm0zZUFzcERjTXZDU002SjJhRGcxQkJHYkQ5SVpRYndsRUgyZlZ4bm9tVVhOZkxDXzJDenl2M0VqWkdDYjI3UTVSY3k0OUdwT3Q3YjRJME5Udkl3ZzZUQUphdnc?oc=5"
+    },
+    {
+      "published_at": "2026-03-24",
+      "publisher": "Seeking Alpha",
+      "title": "Vinci: There Are Better Value Infrastructure Plays Out There (OTCMKTS:VCISY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVg0MmxDdl9qNmV0UWNNRnd4X21FWG5BbDQ1MkFlTV9nZ1BuM0xSa0NlU2J4RU85d2o1RzB3TDBERlFKZkhqRDdFX1pGSk04cjRZaDJOWEFwQzNvVVEzVXB0Yk5QMTExNVZVOXRKU3dISjFHQnBHRW83czM3SklLVFE5WC13Y3NzeVl1UEd3YlJXcjBMZFUzNU1VYzFIR2l1RVE?oc=5"
     }
   ],
-  "summary": "SQU scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "SQU scores 65/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.",
   "symbol": "SQU"
 }

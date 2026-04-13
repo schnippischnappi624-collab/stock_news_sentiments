@@ -1,118 +1,118 @@
 {
   "0AA9": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "0DNW": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "0QMG": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "AKVA": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "ALNSE": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "ALNT": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "ALRIB": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "ARVOSK": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "AXIA": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "BALYO": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "BIJ": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "BOHO-PREF": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "FRT": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "ILKKA2": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "KREATE": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "LION": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "LOIHDE": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "LOUP": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "LOYAL": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "LOYAL ALRIB NEWCAP KREATE ALNSE AKVA RIO1 LOUP SQU ARVOSK WMA 0QMG QH9 BOHO-PREF BIJ ALNT LOIHDE 0DNW 0AA9 BALYO YHSP ILKKA2": {
     "last_fetch_utc": "2026-04-12T09:29:21.012318+00:00",
     "provider": "yfinance"
   },
   "MRVL": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "NEWCAP": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "QH9": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "RIO1": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "SPIR": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "SQU": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "TIMB": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "WMA": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   },
   "YHSP": {
-    "last_fetch_utc": "2026-04-13T12:06:14.539277+00:00",
-    "provider": "yfinance"
+    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
   }
 }

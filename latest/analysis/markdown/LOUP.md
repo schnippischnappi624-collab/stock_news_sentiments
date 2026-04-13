@@ -1,12 +1,12 @@
 # LOUP - Societe LDC SA
 
 - Breakout stance: `constructive_watch`
-- Score: `72`
-- Confidence: `high`
+- Score: `74`
+- Confidence: `low`
 - Bucket: `entry_ready`
 
 ## Investment View
-LOUP scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.
+LOUP scores 74/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 2 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -23,7 +23,7 @@ LOUP scores 72/100 as a constructive_watch setup. The score is driven mainly by 
 
 ## News Read
 - Stance: `conflicting`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.
 
 ## Key Levels
 - Volume anomaly: `5.11265791317318`
@@ -38,13 +38,17 @@ LOUP scores 72/100 as a constructive_watch setup. The score is driven mainly by 
 - Volume confirmation is very strong: `+9` (value: `5.11`)
 
 ## Coverage
+- Stock-news coverage quality: `none`
 - Stock-specific articles scored: `0`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.35`
 
 ## Market Overlay
 - Exposures: `consumer`
-- Supportive macro effects: `0`
-- Adverse macro effects: `5`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `5`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `2`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11

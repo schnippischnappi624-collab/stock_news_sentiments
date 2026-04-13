@@ -1,7 +1,7 @@
 {
   "analysis_summary": {
     "analysis_mode": "python",
-    "generated_at_utc": "2026-04-13T12:08:14.950081+00:00",
+    "generated_at_utc": "2026-04-13T12:36:25.716440+00:00",
     "ok": true,
     "reports_failed": 0,
     "reports_written": 28,
@@ -10,26 +10,26 @@
   },
   "candidate_count": 5,
   "entry_ready_count": 23,
-  "generated_at_utc": "2026-04-13T12:08:14.952387+00:00",
+  "generated_at_utc": "2026-04-13T12:36:25.718007+00:00",
   "news_summary": {
     "company_profiles": {
       "ok": true,
       "profiles_errors": 0,
-      "profiles_fetched": 22,
-      "profiles_skipped": 6,
+      "profiles_fetched": 0,
+      "profiles_skipped": 28,
       "symbols_total": 28
     },
     "market_news": {
-      "articles_appended": 96,
-      "errors": [],
+      "articles_appended": 0,
       "feeds_total": 3,
+      "message": "cooldown_skip",
       "ok": true,
       "provider": "rss",
-      "skipped": false
+      "skipped": true
     },
     "ok": true,
     "providers": {
-      "yfinance": 28
+      "google_news_rss": 28
     },
     "symbols_failed": 0,
     "symbols_ok": 28,

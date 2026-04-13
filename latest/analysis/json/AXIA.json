@@ -3,18 +3,24 @@
   "analysis_error": null,
   "analysis_mode": "python",
   "breakout_stance": {
-    "confidence": "medium",
+    "confidence": "high",
     "label": "mixed_watch",
-    "score_0_to_100": 53,
+    "score_0_to_100": 57,
     "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 12.70 and attract follow-through volume."
+      "point": "2026-04-03: Eletrobras (NYSE: EBR) seeks shareholder approval for Axia Energia name - Stock Titan."
     }
   ],
   "company_name": "AXIA Energia",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 11
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 1,
@@ -323,6 +329,8 @@
         "provider": "yfinance",
         "sector": "Utilities"
       },
+      "effective_adverse_effect_count": 1,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -334,20 +342,172 @@
           "theme_id": "rates_higher"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "article_count": 11,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Eletrobras Changes Name to Axia Energia Amid Brazil\u2019s Electricity Network Challenges Impacting Financial Stability and Expansion Plans - Bitget",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Bitget",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE44YzU2ZElvLUV4SS1UMFZwTjJ3MmN1T282V0Z5TWN2bS10WnlqNXhYdEZPUi1HVmNnbXVCemd6N3V0cHQ1cldCNGF1NHJ3aEF2Q1ZMUjhram9aX0VpdkxfLUpGUdIBY0FVX3lxTE44YzU2ZElvLUV4SS1UMFZwTjJ3MmN1T282V0Z5TWN2bS10WnlqNXhYdEZPUi1HVmNnbXVCemd6N3V0cHQ1cldCNGF1NHJ3aEF2Q1ZMUjhram9aX0VpdkxfLUpGUQ?oc=5\" target=\"_blank\">Eletrobras Changes Name to Axia Energia Amid Brazil\u2019s Electricity Network Challenges Impacting Financial Stability and Expansion Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44YzU2ZElvLUV4SS1UMFZwTjJ3MmN1T282V0Z5TWN2bS10WnlqNXhYdEZPUi1HVmNnbXVCemd6N3V0cHQ1cldCNGF1NHJ3aEF2Q1ZMUjhram9aX0VpdkxfLUpGUdIBY0FVX3lxTE44YzU2ZElvLUV4SS1UMFZwTjJ3MmN1T282V0Z5TWN2bS10WnlqNXhYdEZPUi1HVmNnbXVCemd6N3V0cHQ1cldCNGF1NHJ3aEF2Q1ZMUjhram9aX0VpdkxfLUpGUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "AXIA Sees Spurt in Stock Price Amid Global Energy Developments - timothysykes.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "timothysykes.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE82eFVpaVJ6dFo4LXVwNGNZV0NoMFc0dEFfMU04MWxIZ3c3cWZ0b3d4OVNEYTNLWWhJdnYzcGp5d09pM1lhWW5EMFFPUW9LNHEySkM2VHpHYnEtS00xQThjcl9VY0FMTFdfa0xxSzN4TnU5MEJtU0E?oc=5\" target=\"_blank\">AXIA Sees Spurt in Stock Price Amid Global Energy Developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82eFVpaVJ6dFo4LXVwNGNZV0NoMFc0dEFfMU04MWxIZ3c3cWZ0b3d4OVNEYTNLWWhJdnYzcGp5d09pM1lhWW5EMFFPUW9LNHEySkM2VHpHYnEtS00xQThjcl9VY0FMTFdfa0xxSzN4TnU5MEJtU0E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Axia Energia Rallies 13.70% in Four Days to Hit Fresh Multi-Month High - Bitget",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Bitget",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE00azZaSm1IUGkwVk9wR2lhMWlfWlZPQXI4R3R3RkdKSXFzOE1va1p3Xy05eXQ1aElxWmtjdFFQUHViNjFMX05lSzN4X0JjeWNaUURlR0k4eE54RU1FeEHSAWNBVV95cUxQVzBjdXB4Z3FJblZLZXVEYnB0aTRLV2xxZ3ZuWnRaRU95ZmdoQ0ZNS0MtX09URnVUZFlRV3hsQTR2TV90emZ1SDRnSng2OWFTZzB3eVZqTlZYZEluWHc4Z29hTVE?oc=5\" target=\"_blank\">Axia Energia Rallies 13.70% in Four Days to Hit Fresh Multi-Month High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00azZaSm1IUGkwVk9wR2lhMWlfWlZPQXI4R3R3RkdKSXFzOE1va1p3Xy05eXQ1aElxWmtjdFFQUHViNjFMX05lSzN4X0JjeWNaUURlR0k4eE54RU1FeEHSAWNBVV95cUxQVzBjdXB4Z3FJblZLZXVEYnB0aTRLV2xxZ3ZuWnRaRU95ZmdoQ0ZNS0MtX09URnVUZFlRV3hsQTR2TV90emZ1SDRnSng2OWFTZzB3eVZqTlZYZEluWHc4Z29hTVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "Axia Energia (AXIA) Shares Surge 4.2% -- What GF Score of 66 Tel - GuruFocus",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGF5U0Npd2tjcU91NlRQTWRmQnc4ZzB6c2RjUTkxUmZkQl9IT1ZDOWE4ek1SdDEwMzV5MTRZWHo3VWlVanExZ2gzSkNEQjB2ZTFzZl95cHE2OWZ6U0hTRE8xM29fMV9HU1BfVzlncTJKSkZURmJBQVRCcGQ1SkdvbzVMWGhZWWN3MUhsbVhIelBaNDB3dGlRdXRhX3JxVVpibWJxQW05SkxiUlZma0d0TEpQMm90aHc4U1RuMg?oc=5\" target=\"_blank\">Axia Energia (AXIA) Shares Surge 4.2% -- What GF Score of 66 Tel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGF5U0Npd2tjcU91NlRQTWRmQnc4ZzB6c2RjUTkxUmZkQl9IT1ZDOWE4ek1SdDEwMzV5MTRZWHo3VWlVanExZ2gzSkNEQjB2ZTFzZl95cHE2OWZ6U0hTRE8xM29fMV9HU1BfVzlncTJKSkZURmJBQVRCcGQ1SkdvbzVMWGhZWWN3MUhsbVhIelBaNDB3dGlRdXRhX3JxVVpibWJxQW05SkxiUlZma0d0TEpQMm90aHc4U1RuMg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "Article: ISA Energia and Brazil\u2019s Axia swap transmission assets - Latin Lawyer",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Latin Lawyer",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXRPb0xFUjJlb0xGMDVaQ3RRZ2k3S1VBSG5KcjNHRmxsdC1nQTRDOHpSNGRVdFVZd19oM0dZa2lSdG03aDF0TjhoNWpmWlZ6Sm54Q2ZxdURKcFhjaUJhQ3NYWjF1dEVZNEVFeUp4OThyc2ZydnRleW1mMUtaMGN4cS1kZjFlcXQxS3FFRHF3?oc=5\" target=\"_blank\">Article: ISA Energia and Brazil\u2019s Axia swap transmission assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latin Lawyer</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXRPb0xFUjJlb0xGMDVaQ3RRZ2k3S1VBSG5KcjNHRmxsdC1nQTRDOHpSNGRVdFVZd19oM0dZa2lSdG03aDF0TjhoNWpmWlZ6Sm54Q2ZxdURKcFhjaUJhQ3NYWjF1dEVZNEVFeUp4OThyc2ZydnRleW1mMUtaMGN4cS1kZjFlcXQxS3FFRHF3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "Top AXIA Energia Executive Makes Major Move With Insider Stock Sale - TipRanks",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TipRanks",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmx0WDdUekkyNGJGM3FTakZTbDJxZW1NMTRFQXRKMDE0enRmSGdIcDVlSkxWWTZsbWd5MFEtdWh3cWExTFo5d0lfd1pFT2FKQTBScFhuWnRZbENYblhMYndGUUhxcUp4eHJHbzhNV295QkdoQzVRcWstWC1iY3RHc3gtQlp1Tm5wZDdmUW52VlNEWTV5bEZtcXVlSVRQT19UcHpab3p5ZnhGSmtDYkZ3NEpmdU5NZG4yanRfUkN3R2JFVUdIUjRGT283OXlMMGc?oc=5\" target=\"_blank\">Top AXIA Energia Executive Makes Major Move With Insider Stock Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmx0WDdUekkyNGJGM3FTakZTbDJxZW1NMTRFQXRKMDE0enRmSGdIcDVlSkxWWTZsbWd5MFEtdWh3cWExTFo5d0lfd1pFT2FKQTBScFhuWnRZbENYblhMYndGUUhxcUp4eHJHbzhNV295QkdoQzVRcWstWC1iY3RHc3gtQlp1Tm5wZDdmUW52VlNEWTV5bEZtcXVlSVRQT19UcHpab3p5ZnhGSmtDYkZ3NEpmdU5NZG4yanRfUkN3R2JFVUdIUjRGT283OXlMMGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "AXIA Energia Clears Fiscal Council Nominees, Seeks Shareholder Waiver on Potential Conflict - The Globe and Mail",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Globe and Mail",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOOUVDU0RYdFZWUHRtWFh2RnQ5a29NVkFWWE0zMWx3ekY2VWJnTVp2TlRhMW91aFpzXzJ6UjVKQ20tQU53Z3N3R1ZCM3czR2VHemVPUEp0YWNMZEMtUnBWODhuNlE1akFYOFVUX3IzZm5Ic29YSGxDWU0ycmVXSTM3ZE5JM3BKNzlHSE1wZ2ppeUZyWEY2ZzB1VVo2WlRCYTFpTVpIQW1PSTRNX1dTdTBfYXl1eEJUQjdTMUJ0c0ZnVThPZ2lVMk9GcHRmRHJrOWp0Y2FmdlBvcW9ta1djWGNETVEyYWc3d0twNWJuTkV2eTNQT0E3S3hwMnAxdmZ5NW1z?oc=5\" target=\"_blank\">AXIA Energia Clears Fiscal Council Nominees, Seeks Shareholder Waiver on Potential Conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOUVDU0RYdFZWUHRtWFh2RnQ5a29NVkFWWE0zMWx3ekY2VWJnTVp2TlRhMW91aFpzXzJ6UjVKQ20tQU53Z3N3R1ZCM3czR2VHemVPUEp0YWNMZEMtUnBWODhuNlE1akFYOFVUX3IzZm5Ic29YSGxDWU0ycmVXSTM3ZE5JM3BKNzlHSE1wZ2ppeUZyWEY2ZzB1VVo2WlRCYTFpTVpIQW1PSTRNX1dTdTBfYXl1eEJUQjdTMUJ0c0ZnVThPZ2lVMk9GcHRmRHJrOWp0Y2FmdlBvcW9ta1djWGNETVEyYWc3d0twNWJuTkV2eTNQT0E3S3hwMnAxdmZ5NW1z?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-07",
+          "headline": "AXIA Energia selects ANDRITZ to modernize the Itumbiara hydropower plant in Brazil - BNamericas",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "BNamericas",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlFNWDM5LUx4NEFtZWRCak8tcU9rU21rZ193eUxzTkxNUjZZM1NUZ0RHV21kMVloMWVWU0RsZnVVdFFhc2pQVGlVRk9wbzNneFVaZDlEOXdTOG4xaUViejY4R0oxa3hfSFM1VXBrdGpjUkoyUC1NT3NkOER1Vmk1SzZ0UE1sQV9BZmxWbVViRXF2V0NCWjcteWhaWVZhRG5qWFdTSmVaZkJkV2ZObEFJUElMWmRuOWdR?oc=5\" target=\"_blank\">AXIA Energia selects ANDRITZ to modernize the Itumbiara hydropower plant in Brazil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlFNWDM5LUx4NEFtZWRCak8tcU9rU21rZ193eUxzTkxNUjZZM1NUZ0RHV21kMVloMWVWU0RsZnVVdFFhc2pQVGlVRk9wbzNneFVaZDlEOXdTOG4xaUViejY4R0oxa3hfSFM1VXBrdGpjUkoyUC1NT3NkOER1Vmk1SzZ0UE1sQV9BZmxWbVViRXF2V0NCWjcteWhaWVZhRG5qWFdTSmVaZkJkV2ZObEFJUElMWmRuOWdR?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-03",
+          "headline": "Eletrobras (NYSE: EBR) seeks shareholder approval for Axia Energia name - Stock Titan",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZTN3T1JwVElrTktORUkzX2FLT25NWXN4OHlWdkd6emFvRDV2bUs3cC1LZVAwUF9kYk5rUFBuVFN4MGlIa0QxVEE4VE9KNUR4a3RualVJODRuTDd2Y1BBczhGdEx2S2ZFQzdLLVczcUMzRm1od3pKbUVOa2wxRTI1bW5BdE5CVWl3bzI4YWQ0WjEwTmhEOGxSTDJGWk5yaEZBdnNCVktzY3RKbHFhbHZybG1PU1dCcG1qNVk5WFc4QQ?oc=5\" target=\"_blank\">Eletrobras (NYSE: EBR) seeks shareholder approval for Axia Energia name</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZTN3T1JwVElrTktORUkzX2FLT25NWXN4OHlWdkd6emFvRDV2bUs3cC1LZVAwUF9kYk5rUFBuVFN4MGlIa0QxVEE4VE9KNUR4a3RualVJODRuTDd2Y1BBczhGdEx2S2ZFQzdLLVczcUMzRm1od3pKbUVOa2wxRTI1bW5BdE5CVWl3bzI4YWQ0WjEwTmhEOGxSTDJGWk5yaEZBdnNCVktzY3RKbHFhbHZybG1PU1dCcG1qNVk5WFc4QQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-01",
+          "headline": "Axia Energia's Shareholders Approve Moving Shares To 'Novo Mercado' Segment - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0N3VEhnVGsyQ3MzSGFMNnZRemMwOTVjVHJaNTd4MWdZOG52dUpKamJfUHNrNXU2eVp3aUVKX055RWhLaE91enVUc1pNYndWbzZYd25pZkRhOUZYczZORk9RcFEydVpmbUNIbTh5eUlYbHowajJBRm5hUVJLYkgzRDJLZkRNN0hub3k2MHd5RnlZemJFSnNRWTlUZXJsRDRzdmRScVdhaHhKUUp6eEdmUDJxWENpYlZkemYtYUlQTVcydWhYQl9CRXRESnRoNFJLUFFGZUhxNmtwUms?oc=5\" target=\"_blank\">Axia Energia's Shareholders Approve Moving Shares To 'Novo Mercado' Segment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0N3VEhnVGsyQ3MzSGFMNnZRemMwOTVjVHJaNTd4MWdZOG52dUpKamJfUHNrNXU2eVp3aUVKX055RWhLaE91enVUc1pNYndWbzZYd25pZkRhOUZYczZORk9RcFEydVpmbUNIbTh5eUlYbHowajJBRm5hUVJLYkgzRDJLZkRNN0hub3k2MHd5RnlZemJFSnNRWTlUZXJsRDRzdmRScVdhaHhKUUp6eEdmUDJxWENpYlZkemYtYUlQTVcydWhYQl9CRXRESnRoNFJLUFFGZUhxNmtwUms?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-03-20",
+          "headline": "AXIA Energia Stock: New Deal Confirms Continuation Of Strategy (NYSE:AXIA) - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXdmOUVSV0U3VDZ1N1Z0S2NEWGFueVJLMnNhQ3c5elc3X3FYRGZ6eU9uTExCYW13RWMyMUNURl8zbFY0SzkybEpyMGtHaWpyTEI1T0poZHNfSlVoRHRkNjREYllZNV9OUEYyNHFqcmdxemNuci01SkJOMVRReUplY3ZOZnYzMl9oUlFBakowT3ZQMWhqaUkxRjFtYUY?oc=5\" target=\"_blank\">AXIA Energia Stock: New Deal Confirms Continuation Of Strategy (NYSE:AXIA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXdmOUVSV0U3VDZ1N1Z0S2NEWGFueVJLMnNhQ3c5elc3X3FYRGZ6eU9uTExCYW13RWMyMUNURl8zbFY0SzkybEpyMGtHaWpyTEI1T0poZHNfSlVoRHRkNjREYllZNV9OUEYyNHFqcmdxemNuci01SkJOMVRReUplY3ZOZnYzMl9oUlFBakowT3ZQMWhqaUkxRjFtYUY?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 2
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 8,
+      "delta": 0.007936507936507936,
+      "prior_mean": 0.0,
+      "recent_mean": 0.007936507936507936
     },
     "technical": {
       "atr14": 0.47165616333186,
@@ -367,15 +527,18 @@
   },
   "market_overlay": {
     "adverse_effects": 1,
+    "effective_adverse_effects": 1,
+    "effective_supportive_effects": 0,
     "exposures": [
       "utilities"
     ],
     "industry": "Utilities - Renewable",
     "sector": "Utilities",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 11 stock-specific articles into 2 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "mixed"
   },
   "recent_weakness": [
@@ -392,6 +555,14 @@
     {
       "confidence": "medium",
       "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-09: Axia Energia (AXIA) Shares Surge 4.2% -- What GF Score of 66 Tel - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-03: Eletrobras (NYSE: EBR) seeks shareholder approval for Axia Energia name - Stock Titan."
     }
   ],
   "risks": [
@@ -439,14 +610,19 @@
         "value": 30.45
       },
       {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -2,
         "value": 1
       }
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "label": "mixed_watch",
-    "score_0_to_100": 53
+    "score_0_to_100": 57
   },
   "sources": [
     {
@@ -456,12 +632,48 @@
       "url": "https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "published_at": "2026-04-12",
+      "publisher": "Bitget",
+      "title": "Eletrobras Changes Name to Axia Energia Amid Brazil\u2019s Electricity Network Challenges Impacting Financial Stability and Expansion Plans - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44YzU2ZElvLUV4SS1UMFZwTjJ3MmN1T282V0Z5TWN2bS10WnlqNXhYdEZPUi1HVmNnbXVCemd6N3V0cHQ1cldCNGF1NHJ3aEF2Q1ZMUjhram9aX0VpdkxfLUpGUdIBY0FVX3lxTE44YzU2ZElvLUV4SS1UMFZwTjJ3MmN1T282V0Z5TWN2bS10WnlqNXhYdEZPUi1HVmNnbXVCemd6N3V0cHQ1cldCNGF1NHJ3aEF2Q1ZMUjhram9aX0VpdkxfLUpGUQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "timothysykes.com",
+      "title": "AXIA Sees Spurt in Stock Price Amid Global Energy Developments - timothysykes.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82eFVpaVJ6dFo4LXVwNGNZV0NoMFc0dEFfMU04MWxIZ3c3cWZ0b3d4OVNEYTNLWWhJdnYzcGp5d09pM1lhWW5EMFFPUW9LNHEySkM2VHpHYnEtS00xQThjcl9VY0FMTFdfa0xxSzN4TnU5MEJtU0E?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "Bitget",
+      "title": "Axia Energia Rallies 13.70% in Four Days to Hit Fresh Multi-Month High - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00azZaSm1IUGkwVk9wR2lhMWlfWlZPQXI4R3R3RkdKSXFzOE1va1p3Xy05eXQ1aElxWmtjdFFQUHViNjFMX05lSzN4X0JjeWNaUURlR0k4eE54RU1FeEHSAWNBVV95cUxQVzBjdXB4Z3FJblZLZXVEYnB0aTRLV2xxZ3ZuWnRaRU95ZmdoQ0ZNS0MtX09URnVUZFlRV3hsQTR2TV90emZ1SDRnSng2OWFTZzB3eVZqTlZYZEluWHc4Z29hTVE?oc=5"
+    },
+    {
+      "published_at": "2026-04-09",
+      "publisher": "GuruFocus",
+      "title": "Axia Energia (AXIA) Shares Surge 4.2% -- What GF Score of 66 Tel - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGF5U0Npd2tjcU91NlRQTWRmQnc4ZzB6c2RjUTkxUmZkQl9IT1ZDOWE4ek1SdDEwMzV5MTRZWHo3VWlVanExZ2gzSkNEQjB2ZTFzZl95cHE2OWZ6U0hTRE8xM29fMV9HU1BfVzlncTJKSkZURmJBQVRCcGQ1SkdvbzVMWGhZWWN3MUhsbVhIelBaNDB3dGlRdXRhX3JxVVpibWJxQW05SkxiUlZma0d0TEpQMm90aHc4U1RuMg?oc=5"
+    },
+    {
+      "published_at": "2026-04-09",
+      "publisher": "Latin Lawyer",
+      "title": "Article: ISA Energia and Brazil\u2019s Axia swap transmission assets - Latin Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXRPb0xFUjJlb0xGMDVaQ3RRZ2k3S1VBSG5KcjNHRmxsdC1nQTRDOHpSNGRVdFVZd19oM0dZa2lSdG03aDF0TjhoNWpmWlZ6Sm54Q2ZxdURKcFhjaUJhQ3NYWjF1dEVZNEVFeUp4OThyc2ZydnRleW1mMUtaMGN4cS1kZjFlcXQxS3FFRHF3?oc=5"
+    },
+    {
+      "published_at": "2026-04-09",
+      "publisher": "TipRanks",
+      "title": "Top AXIA Energia Executive Makes Major Move With Insider Stock Sale - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmx0WDdUekkyNGJGM3FTakZTbDJxZW1NMTRFQXRKMDE0enRmSGdIcDVlSkxWWTZsbWd5MFEtdWh3cWExTFo5d0lfd1pFT2FKQTBScFhuWnRZbENYblhMYndGUUhxcUp4eHJHbzhNV295QkdoQzVRcWstWC1iY3RHc3gtQlp1Tm5wZDdmUW52VlNEWTV5bEZtcXVlSVRQT19UcHpab3p5ZnhGSmtDYkZ3NEpmdU5NZG4yanRfUkN3R2JFVUdIUjRGT283OXlMMGc?oc=5"
+    },
+    {
+      "published_at": "2026-04-08",
+      "publisher": "The Globe and Mail",
+      "title": "AXIA Energia Clears Fiscal Council Nominees, Seeks Shareholder Waiver on Potential Conflict - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOUVDU0RYdFZWUHRtWFh2RnQ5a29NVkFWWE0zMWx3ekY2VWJnTVp2TlRhMW91aFpzXzJ6UjVKQ20tQU53Z3N3R1ZCM3czR2VHemVPUEp0YWNMZEMtUnBWODhuNlE1akFYOFVUX3IzZm5Ic29YSGxDWU0ycmVXSTM3ZE5JM3BKNzlHSE1wZ2ppeUZyWEY2ZzB1VVo2WlRCYTFpTVpIQW1PSTRNX1dTdTBfYXl1eEJUQjdTMUJ0c0ZnVThPZ2lVMk9GcHRmRHJrOWp0Y2FmdlBvcW9ta1djWGNETVEyYWc3d0twNWJuTkV2eTNQT0E3S3hwMnAxdmZ5NW1z?oc=5"
     }
   ],
-  "summary": "AXIA scores 53/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.",
+  "summary": "AXIA scores 57/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.",
   "symbol": "AXIA"
 }

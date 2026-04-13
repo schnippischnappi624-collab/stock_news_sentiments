@@ -5,16 +5,26 @@
   "breakout_stance": {
     "confidence": "high",
     "label": "constructive_watch",
-    "score_0_to_100": 72,
+    "score_0_to_100": 66,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
     {
       "confidence": "medium",
-      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 20.50 and attract follow-through volume."
+      "point": "2026-04-10: Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-10: Spire Global Inc - Announces Private Placement Of 5 Million Shares At $14.00 Per Share - SEC Filing - TradingView \u2014 Track All Markets."
     }
   ],
   "company_name": "Spire Global Inc",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -399,6 +409,8 @@
         "provider": "yfinance",
         "sector": "Industrials"
       },
+      "effective_adverse_effect_count": 5,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -482,20 +494,231 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
-      "catalyst_signal_count": 0,
-      "classified_articles": [],
-      "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "article_count": 15,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Spire (SPIR) Soars 20.3%: Is Further Upside Left in the Stock? - Zacks Investment Research",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Zacks Investment Research",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZjlHV241RGxvNWNFbmlLM2VicmE0M043LWFiX0l3Tmd5RGZFZHIyS2JoUHB6TFJma2taa0pjQWNqZUVRNVZDbThqaVduSU5UX2RvUzhLNjI5ZklZZlhPV2w5QVc4T2xWa1RIOEx1NGplcjdNMjZ6NDA4T2F4NzNZODRDQ05EWlhyV2s2eFBhQU44ZS01Umo0T3l2OWxWQQ?oc=5\" target=\"_blank\">Spire (SPIR) Soars 20.3%: Is Further Upside Left in the Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjlHV241RGxvNWNFbmlLM2VicmE0M043LWFiX0l3Tmd5RGZFZHIyS2JoUHB6TFJma2taa0pjQWNqZUVRNVZDbThqaVduSU5UX2RvUzhLNjI5ZklZZlhPV2w5QVc4T2xWa1RIOEx1NGplcjdNMjZ6NDA4T2F4NzNZODRDQ05EWlhyV2s2eFBhQU44ZS01Umo0T3l2OWxWQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "How The Spire Global (SPIR) Story Is Shifting As Analysts Lift Fair Value Targets - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZURFaHl4MHFmTHVvYnpOdXBPd0ctZUxmcmhwMmtndWdwbG5qODBlOVM1bklfTkdiYmtmLV81d0VyR0IyM0lSdkszNXB2blNrcE5YTlItYURZeEJTejNSZnZwdTdoVFdKdFpMRXdzZUhMU2dxZzRPbzh3alFjNExrS3l6dEZKWXB0cXdEODRSN1o1bTlVQmlHbFBnZTJCZw?oc=5\" target=\"_blank\">How The Spire Global (SPIR) Story Is Shifting As Analysts Lift Fair Value Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZURFaHl4MHFmTHVvYnpOdXBPd0ctZUxmcmhwMmtndWdwbG5qODBlOVM1bklfTkdiYmtmLV81d0VyR0IyM0lSdkszNXB2blNrcE5YTlItYURZeEJTejNSZnZwdTdoVFdKdFpMRXdzZUhMU2dxZzRPbzh3alFjNExrS3l6dEZKWXB0cXdEODRSN1o1bTlVQmlHbFBnZTJCZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Why Spire Global (SPIR) Is Up 35.5% After $70 Million Raise And New Agri-Satellite Push - And What's Next - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1NrSkxic1ZmSl9UZl9nUDd5V1FyLTN5Sm1JOWVaTnB4SjNMYjdkV2lQcTFIWFE2YnpiMTBLMWR4eWVmLWJyT0ZXcHNxeGd1UGhObEFpN0lNZ2ZaWGJhNk9pR0Z6cHd5NWxEbEo1eHhnQXFHNjhYZV9NSXd3NTdGMlVlOThscy1vZDVIMmRweTZUYlBBd2RaaTlTTXkzbnAxNHpBUVJhbXdkOTdfVkpGTFZ1WnBKS1FXT0xqai16S0dyaUl5TFNDT0l1bm1La1JmR2dGX2VGQdIB3AFBVV95cUxQUDh5TGNYNjFzb1FzUlBPMTVUbWVtMmRfODRaSldHYm1nSTFlYzhPaEV1U3A2SU9maHptYm5PZUl4MFJnWV9DZGpvMmxhZS1jSF9jN3JwN0t4RmJQa0JKYnJyYy1zTGhpUTZzM29NekZ3WnFfVmZsRjZPTHlGVnpQdG42SVBOWmt4bV9SNXlfS3pYbDQzcFhYa0dXd3R0TzR1eElNWWxTSzFQR3JvMEs5TzhsNFBLcnVkUGdyd3ZpLXJhTGZzNW1lWFNNX3dUbGY3azRwS21PZ1pzUng0?oc=5\" target=\"_blank\">Why Spire Global (SPIR) Is Up 35.5% After $70 Million Raise And New Agri-Satellite Push - And What's Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1NrSkxic1ZmSl9UZl9nUDd5V1FyLTN5Sm1JOWVaTnB4SjNMYjdkV2lQcTFIWFE2YnpiMTBLMWR4eWVmLWJyT0ZXcHNxeGd1UGhObEFpN0lNZ2ZaWGJhNk9pR0Z6cHd5NWxEbEo1eHhnQXFHNjhYZV9NSXd3NTdGMlVlOThscy1vZDVIMmRweTZUYlBBd2RaaTlTTXkzbnAxNHpBUVJhbXdkOTdfVkpGTFZ1WnBKS1FXT0xqai16S0dyaUl5TFNDT0l1bm1La1JmR2dGX2VGQdIB3AFBVV95cUxQUDh5TGNYNjFzb1FzUlBPMTVUbWVtMmRfODRaSldHYm1nSTFlYzhPaEV1U3A2SU9maHptYm5PZUl4MFJnWV9DZGpvMmxhZS1jSF9jN3JwN0t4RmJQa0JKYnJyYy1zTGhpUTZzM29NekZ3WnFfVmZsRjZPTHlGVnpQdG42SVBOWmt4bV9SNXlfS3pYbDQzcFhYa0dXd3R0TzR1eElNWWxTSzFQR3JvMEs5TzhsNFBLcnVkUGdyd3ZpLXJhTGZzNW1lWFNNX3dUbGY3azRwS21PZ1pzUng0?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Insider Selling: Spire Global (NYSE:SPIR) Chairman Sells 54,793 Shares of Stock - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmZxWlBYM1VYRWZzLWVKN20zSExPdDgtN2pPNUFfaFoyR1NXWGdpQmkyZDhzanRIUE9WTkFJV1JWR1lMRWR1T1Z0MjAySFFudnpEMEhCZXhNYnZCWGo1R2o3Mmpkam1MaktmdXNYVnVGQUZ4aVB6Z05YcFd1Nm1vYm14bWltaV9zdU0zUURLUE9uLU9ram9QakN2dUR0WU9TUFVCT1o5ZUhQbDBtaklNWF9mUkJoZGg0a2FFUGtwRmE1VmNEek5v?oc=5\" target=\"_blank\">Insider Selling: Spire Global (NYSE:SPIR) Chairman Sells 54,793 Shares of Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmZxWlBYM1VYRWZzLWVKN20zSExPdDgtN2pPNUFfaFoyR1NXWGdpQmkyZDhzanRIUE9WTkFJV1JWR1lMRWR1T1Z0MjAySFFudnpEMEhCZXhNYnZCWGo1R2o3Mmpkam1MaktmdXNYVnVGQUZ4aVB6Z05YcFd1Nm1vYm14bWltaV9zdU0zUURLUE9uLU9ram9QakN2dUR0WU9TUFVCT1o5ZUhQbDBtaklNWF9mUkJoZGg0a2FFUGtwRmE1VmNEek5v?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Insider Selling: Spire Global (NYSE:SPIR) CEO Sells 39,119 Shares of Stock - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0RRV0llckQ1TTZUeHhQbWpxOUxwUkFpVXpiTVU0SVVyR3g2bU14U1RWYUE3TUY4Sk5nNmpEUU9ET0pDZmtFM1NPMXpiZ3JkcFdaVUdGU0Q4S2N1WDJLWFFRUjNTLUdZa3kyZHlnaGY1LVRoUmR5ZzhGWXp2c3BPNDlfa29SZFdLekFIOHJ6ZGM2VGxuSllBUGQyVU9Samg5dXlISTBnbWsyQjNxWWJCSU40VVE4THlJQWRFekxPVEU?oc=5\" target=\"_blank\">Insider Selling: Spire Global (NYSE:SPIR) CEO Sells 39,119 Shares of Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0RRV0llckQ1TTZUeHhQbWpxOUxwUkFpVXpiTVU0SVVyR3g2bU14U1RWYUE3TUY4Sk5nNmpEUU9ET0pDZmtFM1NPMXpiZ3JkcFdaVUdGU0Q4S2N1WDJLWFFRUjNTLUdZa3kyZHlnaGY1LVRoUmR5ZzhGWXp2c3BPNDlfa29SZFdLekFIOHJ6ZGM2VGxuSllBUGQyVU9Samg5dXlISTBnbWsyQjNxWWJCSU40VVE4THlJQWRFekxPVEU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Spire Global (NYSE:SPIR) Chairman Peter Platzer Sells 1,817 Shares - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONTJXWU1PMHp1bkJHaFE0NGZKNzhHME9wd3Z0dzBKc1A1SEVkQk1MUUxITlp5clRBOWpRLW9iYnJIS3FxSFFtd3B6Nl9jaDZmQUFYNmJzNnpxaXVzRlZnNUZ4LWhfNWhsTlJGR0VsT2lGTjBwR1BueTg0ZV9yeW9lLXBmWWdKR3B6V1VQLTF1TjhreTlWWkxHZVJ4MWtLTnhlNE8zNG1JT2piZGZENU9VYTBGZ1hyLWM?oc=5\" target=\"_blank\">Spire Global (NYSE:SPIR) Chairman Peter Platzer Sells 1,817 Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTJXWU1PMHp1bkJHaFE0NGZKNzhHME9wd3Z0dzBKc1A1SEVkQk1MUUxITlp5clRBOWpRLW9iYnJIS3FxSFFtd3B6Nl9jaDZmQUFYNmJzNnpxaXVzRlZnNUZ4LWhfNWhsTlJGR0VsT2lGTjBwR1BueTg0ZV9yeW9lLXBmWWdKR3B6V1VQLTF1TjhreTlWWkxHZVJ4MWtLTnhlNE8zNG1JT2piZGZENU9VYTBGZ1hyLWM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Oehme, Spire Global CTO, sells $108k in shares - Investing.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaW4tOEdhdUczaHc5NU9hamQyZGUteGdGSXpRWkFEbUJvTUh0QVF1X3BPcmlDczQyQ09XeVpDSnlFTVBRUHQzS3hDZDdLbG5LbFh6eEQyZjEyUXlBcnZEdXItazZYOUcwOFZMMndSTktmR1VYSHpEcDhTc3lfV3A1VFdQa1hHd0V3YUJqZWFXOVRDeWctRm5OdnhncGF5QURZQVR5TjVDQkxrOExx?oc=5\" target=\"_blank\">Oehme, Spire Global CTO, sells $108k in shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaW4tOEdhdUczaHc5NU9hamQyZGUteGdGSXpRWkFEbUJvTUh0QVF1X3BPcmlDczQyQ09XeVpDSnlFTVBRUHQzS3hDZDdLbG5LbFh6eEQyZjEyUXlBcnZEdXItazZYOUcwOFZMMndSTktmR1VYSHpEcDhTc3lfV3A1VFdQa1hHd0V3YUJqZWFXOVRDeWctRm5OdnhncGF5QURZQVR5TjVDQkxrOExx?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "[Form 4] Spire Global, Inc. Insider Trading Activity - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOblBuS2xFTW1ldEgzb3I5VXpfNlZrakdxQnFHQXRLckV4aW1XeFMzV2hGa19mU1RObWxMa29PX2pQb3RjUXAtUzkzWUFoNExXSmc3UGdLV0hmb245cTJYQ0hTZ1AxSmRDV1c4NG5xa3MwSTNTT3F1c2t3T2cxcGs4VHlpZ01lNEVRQ1M1RndZYWNRR0oyb3JzRWI1cURCengzbmhxTDhVdlBkWXZ3QVdn?oc=5\" target=\"_blank\">[Form 4] Spire Global, Inc. Insider Trading Activity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblBuS2xFTW1ldEgzb3I5VXpfNlZrakdxQnFHQXRLckV4aW1XeFMzV2hGa19mU1RObWxMa29PX2pQb3RjUXAtUzkzWUFoNExXSmc3UGdLV0hmb245cTJYQ0hTZ1AxSmRDV1c4NG5xa3MwSTNTT3F1c2t3T2cxcGs4VHlpZ01lNEVRQ1M1RndZYWNRR0oyb3JzRWI1cURCengzbmhxTDhVdlBkWXZ3QVdn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Spire Global (SPIR) CTO reports 150,000 RSUs with multi-year vesting - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlBQN2xyWHlyTzFTMkxvX3M1Z2RYNWRHVVpQU2llRE10NXh5d0U3NUxrNFFxU0tvdFR4TG9oeDRMYjlIbDJMR1BiSjlMQ0p2WXhwRDlObXJLV0NWTnlXOVkxcHJqRFdpVVlURFNoLWdBWGtqa0txaTRndDk0alBpaHVEVXdjRVNwYUtBU3dRYko2LXF3WTRoV3c1V2t0cGY0NTNKamdfb3JrazU0MkhFdEdObzBNYWdxeE9CZlpHcXhHRE53VEE?oc=5\" target=\"_blank\">Spire Global (SPIR) CTO reports 150,000 RSUs with multi-year vesting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlBQN2xyWHlyTzFTMkxvX3M1Z2RYNWRHVVpQU2llRE10NXh5d0U3NUxrNFFxU0tvdFR4TG9oeDRMYjlIbDJMR1BiSjlMQ0p2WXhwRDlObXJLV0NWTnlXOVkxcHJqRFdpVVlURFNoLWdBWGtqa0txaTRndDk0alBpaHVEVXdjRVNwYUtBU3dRYko2LXF3WTRoV3c1V2t0cGY0NTNKamdfb3JrazU0MkhFdEdObzBNYWdxeE9CZlpHcXhHRE53VEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Spire Global (SPIR) chair\u2019s automatic tax-cover share sales and holdings detailed - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONHVHVG1CTGRsaEg2THZtM01iZXk3QTNQYS1WZkUtWXNTYnYweGRqd2FmMUZUMkhQU2hmY0lfYkxpVjZwVVZ5bDRSMldPZVM0YVpXak5tM05RWE9CMUdHRnF5X2Q2VE9QQUoyZVZDMTlUSkFDWTBRZnBMMHlvcExPMUt3OGtlcXVCa2tSTE5IOU5uSXEyclU1RGNZV01wblhwTUhBM3VCcmQ0Mk8tRGJz?oc=5\" target=\"_blank\">Spire Global (SPIR) chair\u2019s automatic tax-cover share sales and holdings detailed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHVHVG1CTGRsaEg2THZtM01iZXk3QTNQYS1WZkUtWXNTYnYweGRqd2FmMUZUMkhQU2hmY0lfYkxpVjZwVVZ5bDRSMldPZVM0YVpXak5tM05RWE9CMUdHRnF5X2Q2VE9QQUoyZVZDMTlUSkFDWTBRZnBMMHlvcExPMUt3OGtlcXVCa2tSTE5IOU5uSXEyclU1RGNZV01wblhwTUhBM3VCcmQ0Mk8tRGJz?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Spire Global (NYSE: SPIR) CEO logs tax-driven Rule 10b5-1 share sales - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFk2VVRabkRINjNma2JmZlFYLUJTWHRvR2hhQlh1QTh2WF9jb3dhb0F4d0IyRzMxdm1odnFzbkx6NWM1RGQtYkFibnlQME1TZHVXdXU4WHhDbFlMcXJOWlhvLVpVbDhrS0NtME4yNE1HVUtlYjlOSC02c2FnRUV6b0dualBsSUVFTS1ma3RzVWV6X0QyOUJTWWxuU0FiNmIyTU5MdFJjamdEVU1xTmkw?oc=5\" target=\"_blank\">Spire Global (NYSE: SPIR) CEO logs tax-driven Rule 10b5-1 share sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFk2VVRabkRINjNma2JmZlFYLUJTWHRvR2hhQlh1QTh2WF9jb3dhb0F4d0IyRzMxdm1odnFzbkx6NWM1RGQtYkFibnlQME1TZHVXdXU4WHhDbFlMcXJOWlhvLVpVbDhrS0NtME4yNE1HVUtlYjlOSC02c2FnRUV6b0dualBsSUVFTS1ma3RzVWV6X0QyOUJTWWxuU0FiNmIyTU5MdFJjamdEVU1xTmkw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-04-10",
+          "headline": "Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing - marketscreener.com",
+          "kind": "negative",
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa1JCVndtWmhQT2h2Nk11Qmt5SWltaXJLRV91cTBNMXpCU19mdU5rYzl3WGVsUHdkeW9jNlQ1dFJuQmk3cklOTEJvaGd1UXRudFZpajVhOG9uZ3BhbFhIOFE2MmlnZzBzLTZUMVFKWkFzMzN2V1pRUVJPOVVZSE5XQk1YMGxvbUtISHZZZDFlSmhBYlZROUduOEJST280UHZ1akhCZVZnSkpfNDl3U3ZsR3ZVM29OMThURmo1NlozNVZNT3hDNWVxWnl0QkJKTGItN1lWUEVGYlBWMzJJNXYtYQ?oc=5\" target=\"_blank\">Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa1JCVndtWmhQT2h2Nk11Qmt5SWltaXJLRV91cTBNMXpCU19mdU5rYzl3WGVsUHdkeW9jNlQ1dFJuQmk3cklOTEJvaGd1UXRudFZpajVhOG9uZ3BhbFhIOFE2MmlnZzBzLTZUMVFKWkFzMzN2V1pRUVJPOVVZSE5XQk1YMGxvbUtISHZZZDFlSmhBYlZROUduOEJST280UHZ1akhCZVZnSkpfNDl3U3ZsR3ZVM29OMThURmo1NlozNVZNT3hDNWVxWnl0QkJKTGItN1lWUEVGYlBWMzJJNXYtYQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Spire Global Stock Rallies. Here's Why Canaccord Raised Its Price Target. - Investor's Business Daily",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.06666666666666667,
+          "source": "Investor's Business Daily",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTMzVTBCTk9mQVJFaTlvMXJNZFFpaDk4SWNhYmlyVVR1T1A1d3BkTmI1aG5PLXlRS09LSDJmbkhmWDJzMDEyMFJwOUlUTFQ4VXZmMk9KVHlQaGpNWVJ3enhIQzlMOWNMODVDRTRqSTU2c2ZtQ2h4R0RobTdwa1FIcjh6MHhXaS1VZ2hyQnpqdlhjbjJzUF9pemNidXJkcTFDYXVPQzl0SjJiZ0JWcllyQVJVOXQ?oc=5\" target=\"_blank\">Spire Global Stock Rallies. Here's Why Canaccord Raised Its Price Target.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTMzVTBCTk9mQVJFaTlvMXJNZFFpaDk4SWNhYmlyVVR1T1A1d3BkTmI1aG5PLXlRS09LSDJmbkhmWDJzMDEyMFJwOUlUTFQ4VXZmMk9KVHlQaGpNWVJ3enhIQzlMOWNMODVDRTRqSTU2c2ZtQ2h4R0RobTdwa1FIcjh6MHhXaS1VZ2hyQnpqdlhjbjJzUF9pemNidXJkcTFDYXVPQzl0SjJiZ0JWcllyQVJVOXQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-04-10",
+          "headline": "Spire Global Inc - Announces Private Placement Of 5 Million Shares At $14.00 Per Share - SEC Filing - TradingView \u2014 Track All Markets",
+          "kind": "negative",
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa3Q2ZEFGM0JUU19Ud196bmdCb21iYTltTFRIT1paVUxxRGVNNFhGVmt2ZjQxWFUwbzEySTFGVV8xOGdlOUhEQ0xpVFZTNTRxeVljdHktY0hseU5qX2hQNy0waG53dzJxTV9CZ3FtNW9ia2FFWjZONG5rUnFoZnNqQVd4aVR2UzBzTEtoZ3l4eTZBbFREZnBlcEJ5LU52cUlTbUllR1VBZmhvLUhYX0haV3VGc0VwYndiMzh0aXBSNGMtYjU1UDF6akM2ZmVRRHNtbXZ5SmxiMDA2THBvTU1XN3p5bUg0djh5ajBETHZ2Z09Ya2p2dkdF?oc=5\" target=\"_blank\">Spire Global Inc - Announces Private Placement Of 5 Million Shares At $14.00 Per Share - SEC Filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa3Q2ZEFGM0JUU19Ud196bmdCb21iYTltTFRIT1paVUxxRGVNNFhGVmt2ZjQxWFUwbzEySTFGVV8xOGdlOUhEQ0xpVFZTNTRxeVljdHktY0hseU5qX2hQNy0waG53dzJxTV9CZ3FtNW9ia2FFWjZONG5rUnFoZnNqQVd4aVR2UzBzTEtoZ3l4eTZBbFREZnBlcEJ5LU52cUlTbUllR1VBZmhvLUhYX0haV3VGc0VwYndiMzh0aXBSNGMtYjU1UDF6akM2ZmVRRHNtbXZ5SmxiMDA2THBvTU1XN3p5bUg0djh5ajBETHZ2Z09Ya2p2dkdF?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Spire Global (NYSE: SPIR) prices $70M private stock sale at $14 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWtPc2FLUlk3UXFjUmhQbnl0NUxSZVF5X25EOUNfRGxFTW1XTXNQaGhVcFNWMGJjYzJ6WFp2R2VhZkt5TTh2dnVIcmg2S2hPbjhHckRMTHZoWElrNHFCTDZqX1RCRzZrYXhWWDBvd1lOakhESjY2RzlocWtVd0lBUDlkODNsMzNLdTY1MUVSbE5OZzlybG9zeVE1X1UxTHV0ZHY0ZnpZNkc?oc=5\" target=\"_blank\">Spire Global (NYSE: SPIR) prices $70M private stock sale at $14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWtPc2FLUlk3UXFjUmhQbnl0NUxSZVF5X25EOUNfRGxFTW1XTXNQaGhVcFNWMGJjYzJ6WFp2R2VhZkt5TTh2dnVIcmg2S2hPbjhHckRMTHZoWElrNHFCTDZqX1RCRzZrYXhWWDBvd1lOakhESjY2RzlocWtVd0lBUDlkODNsMzNLdTY1MUVSbE5OZzlybG9zeVE1X1UxTHV0ZHY0ZnpZNkc?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 2,
+      "positive_signal_count": 2
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 5,
+      "delta": -0.002995867768595042,
+      "prior_mean": 0.0071625344352617085,
+      "recent_mean": 0.004166666666666667
     },
     "technical": {
       "atr14": 1.77765425721949,
@@ -515,18 +738,29 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 5,
+    "effective_supportive_effects": 0,
     "exposures": [
       "industrials"
     ],
     "industry": "Specialty Business Services",
     "sector": "Industrials",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 15 stock-specific articles into 2 constructive, 2 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "conflicting"
   },
   "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-10: Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-10: Spire Global Inc - Announces Private Placement Of 5 Million Shares At $14.00 Per Share - SEC Filing - TradingView \u2014 Track All Markets."
+    },
     {
       "confidence": "medium",
       "point": "2026-04-13: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind, Shipping disruption / freight stress): Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC."
@@ -552,12 +786,24 @@
     {
       "confidence": "high",
       "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-11: Why Spire Global (SPIR) Is Up 35.5% After $70 Million Raise And New Agri-Satellite Push - And What's Next - simplywall.st."
     }
   ],
   "risks": [
     {
       "confidence": "high",
       "point": "A close back below 20.50 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "high",
+      "point": "Dilution or share-supply risk remains relevant: 2026-04-10: Spire Global Inc - announces private placement of 5 million shares at $14.00 per share - SEC filing - marketscreener.com."
+    },
+    {
+      "confidence": "high",
+      "point": "Dilution or share-supply risk remains relevant: 2026-04-10: Spire Global Inc - Announces Private Placement Of 5 Million Shares At $14.00 Per Share - SEC Filing - TradingView \u2014 Track All Markets."
     },
     {
       "confidence": "medium",
@@ -604,6 +850,20 @@
         "value": 98.32
       },
       {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -4,
+        "value": 2
+      },
+      {
+        "label": "Dilution or share-supply overhang detected",
+        "points": -6
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -6,
         "value": 5
@@ -611,7 +871,7 @@
     ],
     "confidence": "high",
     "label": "constructive_watch",
-    "score_0_to_100": 72
+    "score_0_to_100": 66
   },
   "sources": [
     {
@@ -622,35 +882,47 @@
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5"
+      "publisher": "Zacks Investment Research",
+      "title": "Spire (SPIR) Soars 20.3%: Is Further Upside Left in the Stock? - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjlHV241RGxvNWNFbmlLM2VicmE0M043LWFiX0l3Tmd5RGZFZHIyS2JoUHB6TFJma2taa0pjQWNqZUVRNVZDbThqaVduSU5UX2RvUzhLNjI5ZklZZlhPV2w5QVc4T2xWa1RIOEx1NGplcjdNMjZ6NDA4T2F4NzNZODRDQ05EWlhyV2s2eFBhQU44ZS01Umo0T3l2OWxWQQ?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley\u2019s Mike Wilson.",
-      "url": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories"
+      "published_at": "2026-04-12",
+      "publisher": "Yahoo Finance",
+      "title": "How The Spire Global (SPIR) Story Is Shifting As Analysts Lift Fair Value Targets - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZURFaHl4MHFmTHVvYnpOdXBPd0ctZUxmcmhwMmtndWdwbG5qODBlOVM1bklfTkdiYmtmLV81d0VyR0IyM0lSdkszNXB2blNrcE5YTlItYURZeEJTejNSZnZwdTdoVFdKdFpMRXdzZUhMU2dxZzRPbzh3alFjNExrS3l6dEZKWXB0cXdEODRSN1o1bTlVQmlHbFBnZTJCZw?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Populism lost in Hungary but still might win the war, one strategist argues",
-      "url": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories"
+      "published_at": "2026-04-11",
+      "publisher": "simplywall.st",
+      "title": "Why Spire Global (SPIR) Is Up 35.5% After $70 Million Raise And New Agri-Satellite Push - And What's Next - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1NrSkxic1ZmSl9UZl9nUDd5V1FyLTN5Sm1JOWVaTnB4SjNMYjdkV2lQcTFIWFE2YnpiMTBLMWR4eWVmLWJyT0ZXcHNxeGd1UGhObEFpN0lNZ2ZaWGJhNk9pR0Z6cHd5NWxEbEo1eHhnQXFHNjhYZV9NSXd3NTdGMlVlOThscy1vZDVIMmRweTZUYlBBd2RaaTlTTXkzbnAxNHpBUVJhbXdkOTdfVkpGTFZ1WnBKS1FXT0xqai16S0dyaUl5TFNDT0l1bm1La1JmR2dGX2VGQdIB3AFBVV95cUxQUDh5TGNYNjFzb1FzUlBPMTVUbWVtMmRfODRaSldHYm1nSTFlYzhPaEV1U3A2SU9maHptYm5PZUl4MFJnWV9DZGpvMmxhZS1jSF9jN3JwN0t4RmJQa0JKYnJyYy1zTGhpUTZzM29NekZ3WnFfVmZsRjZPTHlGVnpQdG42SVBOWmt4bV9SNXlfS3pYbDQzcFhYa0dXd3R0TzR1eElNWWxTSzFQR3JvMEs5TzhsNFBLcnVkUGdyd3ZpLXJhTGZzNW1lWFNNX3dUbGY3azRwS21PZ1pzUng0?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "published_at": "2026-04-11",
+      "publisher": "MarketBeat",
+      "title": "Insider Selling: Spire Global (NYSE:SPIR) Chairman Sells 54,793 Shares of Stock - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmZxWlBYM1VYRWZzLWVKN20zSExPdDgtN2pPNUFfaFoyR1NXWGdpQmkyZDhzanRIUE9WTkFJV1JWR1lMRWR1T1Z0MjAySFFudnpEMEhCZXhNYnZCWGo1R2o3Mmpkam1MaktmdXNYVnVGQUZ4aVB6Z05YcFd1Nm1vYm14bWltaV9zdU0zUURLUE9uLU9ram9QakN2dUR0WU9TUFVCT1o5ZUhQbDBtaklNWF9mUkJoZGg0a2FFUGtwRmE1VmNEek5v?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
+      "published_at": "2026-04-11",
+      "publisher": "MarketBeat",
+      "title": "Insider Selling: Spire Global (NYSE:SPIR) CEO Sells 39,119 Shares of Stock - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0RRV0llckQ1TTZUeHhQbWpxOUxwUkFpVXpiTVU0SVVyR3g2bU14U1RWYUE3TUY4Sk5nNmpEUU9ET0pDZmtFM1NPMXpiZ3JkcFdaVUdGU0Q4S2N1WDJLWFFRUjNTLUdZa3kyZHlnaGY1LVRoUmR5ZzhGWXp2c3BPNDlfa29SZFdLekFIOHJ6ZGM2VGxuSllBUGQyVU9Samg5dXlISTBnbWsyQjNxWWJCSU40VVE4THlJQWRFekxPVEU?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "MarketBeat",
+      "title": "Spire Global (NYSE:SPIR) Chairman Peter Platzer Sells 1,817 Shares - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTJXWU1PMHp1bkJHaFE0NGZKNzhHME9wd3Z0dzBKc1A1SEVkQk1MUUxITlp5clRBOWpRLW9iYnJIS3FxSFFtd3B6Nl9jaDZmQUFYNmJzNnpxaXVzRlZnNUZ4LWhfNWhsTlJGR0VsT2lGTjBwR1BueTg0ZV9yeW9lLXBmWWdKR3B6V1VQLTF1TjhreTlWWkxHZVJ4MWtLTnhlNE8zNG1JT2piZGZENU9VYTBGZ1hyLWM?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "Investing.com",
+      "title": "Oehme, Spire Global CTO, sells $108k in shares - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaW4tOEdhdUczaHc5NU9hamQyZGUteGdGSXpRWkFEbUJvTUh0QVF1X3BPcmlDczQyQ09XeVpDSnlFTVBRUHQzS3hDZDdLbG5LbFh6eEQyZjEyUXlBcnZEdXItazZYOUcwOFZMMndSTktmR1VYSHpEcDhTc3lfV3A1VFdQa1hHd0V3YUJqZWFXOVRDeWctRm5OdnhncGF5QURZQVR5TjVDQkxrOExx?oc=5"
     }
   ],
-  "summary": "SPIR scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "SPIR scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 2 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.",
   "symbol": "SPIR"
 }

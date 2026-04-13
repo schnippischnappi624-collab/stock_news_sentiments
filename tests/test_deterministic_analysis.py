@@ -77,6 +77,8 @@ def test_generate_python_report_is_deterministic_and_signal_driven() -> None:
     assert report["evidence"]["news"]["positive_signal_count"] >= 1
     assert report["evidence"]["news"]["negative_signal_count"] >= 1
     assert report["market_overlay"]["supportive_effects"] >= 1
+    assert report["coverage"]["quality"] == "thin"
+    assert report["market_overlay"]["effective_supportive_effects"] >= 1
 
 
 def test_generic_war_headline_does_not_count_as_energy_tailwind_without_oil_signal() -> None:
@@ -149,3 +151,7 @@ def test_generic_war_headline_does_not_count_as_energy_tailwind_without_oil_sign
     assert not lebanon_article["matched_effects"]
     assert hormuz_article["matched_effects"]
     assert not awkward_article["matched_effects"]
+    assert report["coverage"]["quality"] == "none"
+    assert report["market_overlay"]["supportive_effects"] == 1
+    assert report["market_overlay"]["effective_supportive_effects"] == 0
+    assert report["breakout_stance"]["confidence"] == "low"

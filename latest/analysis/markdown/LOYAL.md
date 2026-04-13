@@ -1,12 +1,12 @@
 # LOYAL - Loyal Solutions AS
 
 - Breakout stance: `constructive_bullish`
-- Score: `76`
-- Confidence: `medium`
+- Score: `78`
+- Confidence: `low`
 - Bucket: `entry_ready`
 
 ## Investment View
-LOYAL scores 76/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 1 adverse matched macro effects.
+LOYAL scores 78/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.
 
 - Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
 
@@ -23,7 +23,7 @@ LOYAL scores 76/100 as a constructive_bullish setup. The score is driven mainly 
 
 ## News Read
 - Stance: `mixed`
-- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures.
+- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 1 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.
 
 ## Key Levels
 - Volume anomaly: `12.9425420777713`
@@ -38,13 +38,17 @@ LOYAL scores 76/100 as a constructive_bullish setup. The score is driven mainly 
 - Volume confirmation is very strong: `+9` (value: `12.94`)
 
 ## Coverage
+- Stock-news coverage quality: `none`
 - Stock-specific articles scored: `0`
 - Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.35`
 
 ## Market Overlay
 - Exposures: `software`
-- Supportive macro effects: `0`
-- Adverse macro effects: `1`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `1`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `0`
 
 ## Sources
 - [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11

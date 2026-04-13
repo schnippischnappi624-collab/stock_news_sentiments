@@ -4,8 +4,8 @@
   "analysis_mode": "python",
   "breakout_stance": {
     "confidence": "high",
-    "label": "constructive_watch",
-    "score_0_to_100": 69,
+    "label": "constructive_bullish",
+    "score_0_to_100": 75,
     "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
   },
   "catalysts": [
@@ -15,6 +15,12 @@
     }
   ],
   "company_name": "Rio Tinto Group",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
   "evidence": {
     "market": {
       "adverse_effect_count": 5,
@@ -400,6 +406,8 @@
         "provider": "yfinance",
         "sector": "Basic Materials"
       },
+      "effective_adverse_effect_count": 5,
+      "effective_supportive_effect_count": 0,
       "matched_effects": [
         {
           "adverse_exposures": [
@@ -483,20 +491,225 @@
           "theme_id": "oil_supply_shock"
         }
       ],
-      "supportive_effect_count": 0
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
     },
     "news": {
-      "article_count": 0,
+      "article_count": 15,
       "catalyst_signal_count": 0,
-      "classified_articles": [],
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Rio Tinto Group (LON:RIO) Price Target Raised to GBX 7,200 - MarketBeat",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.08333333333333333,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRydUFPY1Vfbjd3VTEwVlNGOWwwM1pKU1ZmZHlpRWZIazdueEhpUmZvQ2RKV0YxV25WbEZnMl9nY0haOXNJSzBCcEVaTVF5QnU1ZGRQdVdrWHZ5amNfS0MzQmpIbURGMlZOMC01UkVhWm0zMkdzRi1GeWhJTXdNWkRpVDFUTHRTcHNLckNHWlVUT1RmTW5BdE9mYjYyb1Z0TTNGRV9NOUJuaGkt?oc=5\" target=\"_blank\">Rio Tinto Group (LON:RIO) Price Target Raised to GBX 7,200</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRydUFPY1Vfbjd3VTEwVlNGOWwwM1pKU1ZmZHlpRWZIazdueEhpUmZvQ2RKV0YxV25WbEZnMl9nY0haOXNJSzBCcEVaTVF5QnU1ZGRQdVdrWHZ5amNfS0MzQmpIbURGMlZOMC01UkVhWm0zMkdzRi1GeWhJTXdNWkRpVDFUTHRTcHNLckNHWlVUT1RmTW5BdE9mYjYyb1Z0TTNGRV9NOUJuaGkt?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "RIO TINTO : Goldman Sachs sticks Neutral - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPclBQM25pZDhPd05iRTJFTUxvQ2cxaEE5NTZUcmFidkQ0dExPR3Vvc2xFYS1lc3J5bkp5aldYS1BaZEtyNVowOEtmZXFJM092eEhybDViZ3VZVlhQaVZ0RjFEdTZ4VUZqaWdwWDNvWFBHVGljbTU5ekhzUGVsb0lRQllEd2VIc1ZCd25wc0lXdl8wVjhMaFE?oc=5\" target=\"_blank\">RIO TINTO : Goldman Sachs sticks Neutral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclBQM25pZDhPd05iRTJFTUxvQ2cxaEE5NTZUcmFidkQ0dExPR3Vvc2xFYS1lc3J5bkp5aldYS1BaZEtyNVowOEtmZXFJM092eEhybDViZ3VZVlhQaVZ0RjFEdTZ4VUZqaWdwWDNvWFBHVGljbTU5ekhzUGVsb0lRQllEd2VIc1ZCd25wc0lXdl8wVjhMaFE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "\u00a320,000 invested in the FTSE\u2019s Rio Tinto a year ago is now worth\u2026 - Fool UK",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Fool UK",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1hLRUd2YnM2QTQyOHlwd3NIMUtfeVpzNHhQUjlfLWw3LW1XUEdtQmt0OU1vU1pza0lYbEdjdmlwcDNUeXlsSXFIQWhJeWRUSldkZHNJTDRoQ3lCbV9kS0duaTBjaUY3YzI3ZWRReVFmTlQxRGVGanRlaUlOT19ycFJsQmt3bGFhVXVYcl9FNkQySkRfcmlVWWhjZEo?oc=5\" target=\"_blank\">\u00a320,000 invested in the FTSE\u2019s Rio Tinto a year ago is now worth\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fool UK</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1hLRUd2YnM2QTQyOHlwd3NIMUtfeVpzNHhQUjlfLWw3LW1XUEdtQmt0OU1vU1pza0lYbEdjdmlwcDNUeXlsSXFIQWhJeWRUSldkZHNJTDRoQ3lCbV9kS0duaTBjaUY3YzI3ZWRReVFmTlQxRGVGanRlaUlOT19ycFJsQmt3bGFhVXVYcl9FNkQySkRfcmlVWWhjZEo?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Rio Tinto Weighs Boron Sale And Solar Deal As Valuation Stretches - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXNEdTBXV1JKVjhhS242VFBDTExXamdaWENQSEF0MFJCbVN4Z2QtQXY2LXoydnp3R282allQV3dSVFUxT1BnT2hMRlNfcmtrWkVuUGVsdTBQMzRfdTJfcmNwN1lQN2RJb29EWDMyVHN2cTBmV0JZNWlfMGxPOVAxUzVEV1RLSS1vamFFenVYUmhGV0ZPSXJibDY5MThnOE05WE5RUkVqQXktLUJGYVpMSDFYVV9FTmNJNm1PNTQxaWdBOGtiemhQSWNiMmN3dnJyN1dNNtIB2gFBVV95cUxPSWNFT3hQRUZscDNjNjg0ODJtRENPemUtd2pUNkVHczh3cWxqVHhNemI4eWlLdENscDlROVlxMmFLYkV3Y3hJbXNqdGcybmJwc2ZPRkRNcC1BTFV5a3k2OWtsaFlIVXAtalVjY2ZnV3VJcUZ5Tzh3SnJGNnktOTBVV1lDZXRnbG44Y2ZhNVVRaTJOOUlDX0F2ZEdDUml4V1RzblRSYTNSWk85MXJkbEhGZGczb1ZGTXJPWl80QzNWUWRkRkpPcVBrTktqc3VFdHgzZnZOWGludU5DUQ?oc=5\" target=\"_blank\">Rio Tinto Weighs Boron Sale And Solar Deal As Valuation Stretches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXNEdTBXV1JKVjhhS242VFBDTExXamdaWENQSEF0MFJCbVN4Z2QtQXY2LXoydnp3R282allQV3dSVFUxT1BnT2hMRlNfcmtrWkVuUGVsdTBQMzRfdTJfcmNwN1lQN2RJb29EWDMyVHN2cTBmV0JZNWlfMGxPOVAxUzVEV1RLSS1vamFFenVYUmhGV0ZPSXJibDY5MThnOE05WE5RUkVqQXktLUJGYVpMSDFYVV9FTmNJNm1PNTQxaWdBOGtiemhQSWNiMmN3dnJyN1dNNtIB2gFBVV95cUxPSWNFT3hQRUZscDNjNjg0ODJtRENPemUtd2pUNkVHczh3cWxqVHhNemI4eWlLdENscDlROVlxMmFLYkV3Y3hJbXNqdGcybmJwc2ZPRkRNcC1BTFV5a3k2OWtsaFlIVXAtalVjY2ZnV3VJcUZ5Tzh3SnJGNnktOTBVV1lDZXRnbG44Y2ZhNVVRaTJOOUlDX0F2ZEdDUml4V1RzblRSYTNSWk85MXJkbEhGZGczb1ZGTXJPWl80QzNWUWRkRkpPcVBrTktqc3VFdHgzZnZOWGludU5DUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Free float of Rio Tinto plc \u2013 BSESOF:RIO1 - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGRXOXNuYW9LV3EyM05GZDYybjJKcmo5ZlpLdDZNZmo1T1J5ZlcxWnV1SlNCanJTMExKdlExU2JJWTctdjJ2by1Ic2JLOFZNRDh3SjRWVUFXMWVBOUdCbjFOeDFQZWZmWW1DVGZ3dFZsWEdpd1ZmMkxYVlRMRXFFYUtUdTdGdnFuS1FKSGx5S3pNei00bnhtQzFNQ3gwNDJQV3dpZnhzSy1mdw?oc=5\" target=\"_blank\">Free float of Rio Tinto plc \u2013 BSESOF:RIO1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGRXOXNuYW9LV3EyM05GZDYybjJKcmo5ZlpLdDZNZmo1T1J5ZlcxWnV1SlNCanJTMExKdlExU2JJWTctdjJ2by1Ic2JLOFZNRDh3SjRWVUFXMWVBOUdCbjFOeDFQZWZmWW1DVGZ3dFZsWEdpd1ZmMkxYVlRMRXFFYUtUdTdGdnFuS1FKSGx5S3pNei00bnhtQzFNQ3gwNDJQV3dpZnhzSy1mdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-11",
+          "headline": "Rio Tinto Expands African Renewables As Shares Trade Above Target Price - Yahoo Finance Singapore",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance Singapore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzEwemZGbXBIb1V2THVnSGkzTDV6VzllclUxWGlySFZsbkI0SUZiYXhVUGljZ0ZfQ2N0RTFDTmhJTzBFWFAyS2FWM3JqR253ZmhIbzMzdHRfck5GN29DWTU0VXJHMGZkTUZnSTc5elpIRlo1eGstX2J4ZUNKRzZEd3VSS1hoUmZ2ZGg0YWRB?oc=5\" target=\"_blank\">Rio Tinto Expands African Renewables As Shares Trade Above Target Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzEwemZGbXBIb1V2THVnSGkzTDV6VzllclUxWGlySFZsbkI0SUZiYXhVUGljZ0ZfQ2N0RTFDTmhJTzBFWFAyS2FWM3JqR253ZmhIbzMzdHRfck5GN29DWTU0VXJHMGZkTUZnSTc5elpIRlo1eGstX2J4ZUNKRzZEd3VSS1hoUmZ2ZGg0YWRB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdjVWUjhjTmNoYVVkSGpCeF9yc2J6S0dub1pPMlg5WTRCc0RjcGJiWktDSXlmTURxdTg1MHF3d0dSYmtpZXk2ZE9GR0dFV1UxVmtDQlVDUWlycTVaRGNoVWRZSm0yMVlRdDJaOEt5aUNWMXJ3M0xvdS1YTUZJTm16bVJNLW1kMlF6QVlSS0JGSEExckNuaG4yZ01Xei1RaTFQYmlXcFRSbGZxb1lsbDBKbXJjWjhLTFFhcnpKZ0c4ZHl4UTZDTWxmYU9jdXpYeG4tZVEyNA?oc=5\" target=\"_blank\">Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdjVWUjhjTmNoYVVkSGpCeF9yc2J6S0dub1pPMlg5WTRCc0RjcGJiWktDSXlmTURxdTg1MHF3d0dSYmtpZXk2ZE9GR0dFV1UxVmtDQlVDUWlycTVaRGNoVWRZSm0yMVlRdDJaOEt5aUNWMXJ3M0xvdS1YTUZJTm16bVJNLW1kMlF6QVlSS0JGSEExckNuaG4yZ01Xei1RaTFQYmlXcFRSbGZxb1lsbDBKbXJjWjhLTFFhcnpKZ0c4ZHl4UTZDTWxmYU9jdXpYeG4tZVEyNA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports - Reuters",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORk0tOVE0SEJLYlZSSkwyVlFPbWJGcENMbU5pNHVVN09DLWtyMmFIXy1iT24yV0dJYmVyZnpIWEZBUDFVNzJoeVlmZnVlUGNWWEdXUE00d25BbFlwWmVoYVFrbmdhcUtJcldxNDhrc2VPVnZlR2loSVdsZWdSbDRlcTJRdFY2WHhtdkNiTWRsbmNqSUtWa1pwRUczdTl3WmRvdUJMRnNOeVZOZGp2a2UzV0tRZnBkclJYbTNWRkhsUlRldUgzTURNeEtqWXZ1RGM?oc=5\" target=\"_blank\">Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORk0tOVE0SEJLYlZSSkwyVlFPbWJGcENMbU5pNHVVN09DLWtyMmFIXy1iT24yV0dJYmVyZnpIWEZBUDFVNzJoeVlmZnVlUGNWWEdXUE00d25BbFlwWmVoYVFrbmdhcUtJcldxNDhrc2VPVnZlR2loSVdsZWdSbDRlcTJRdFY2WHhtdkNiTWRsbmNqSUtWa1pwRUczdTl3WmRvdUJMRnNOeVZOZGp2a2UzV0tRZnBkclJYbTNWRkhsUlRldUgzTURNeEtqWXZ1RGM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Rio Tinto said to draw interest for critical mineral assets in California - Mining.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Mining.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVpSdjZwbldicE1JamZ5VUZyU3RiNk16UEVUazZwT2xod3ZxbGp5R1VrUzZERG5WR1d3cjc2clZLQ0I5c1poNU5GRE13a2NqVUdsbFFLa2lNLXYyenZTSThOX2NUckZ2eXViWm1abTJnVnpzb1dTZ09KRlVnWXNRalBYSmo5NklnZmptWW8zOEFodjFhd3pNMnVHcXo4YTUyRFo4?oc=5\" target=\"_blank\">Rio Tinto said to draw interest for critical mineral assets in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mining.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVpSdjZwbldicE1JamZ5VUZyU3RiNk16UEVUazZwT2xod3ZxbGp5R1VrUzZERG5WR1d3cjc2clZLQ0I5c1poNU5GRE13a2NqVUdsbFFLa2lNLXYyenZTSThOX2NUckZ2eXViWm1abTJnVnpzb1dTZ09KRlVnWXNRalBYSmo5NklnZmptWW8zOEFodjFhd3pNMnVHcXo4YTUyRFo4?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Rio Tinto attracting interest for critical mineral assets in California - Bloomberg (RIO:NYSE) - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdy1Fa0g1cFBhajg0dm5qUzVtMG5mcWJfSlV1bXpVRHZhd0Q1WF9nQTNkUnJYR0ktVFNoSlhyYV9Mc0lvbUg0cDloNHZtWElGSkRIWUYtQlJiODR3eXNuenVKLWdtcTFoc0xjSWlPNXBrenUyV01mdlhScTdiMjhOcXQ3bTJXZTlaVnNweHJRMC1TWFRZTVFZN2xLSW5SVFRIQzhva3dSQjBPV2xJYWNobENyNmlmUWNpTmVFSWVB?oc=5\" target=\"_blank\">Rio Tinto attracting interest for critical mineral assets in California - Bloomberg (RIO:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdy1Fa0g1cFBhajg0dm5qUzVtMG5mcWJfSlV1bXpVRHZhd0Q1WF9nQTNkUnJYR0ktVFNoSlhyYV9Mc0lvbUg0cDloNHZtWElGSkRIWUYtQlJiODR3eXNuenVKLWdtcTFoc0xjSWlPNXBrenUyV01mdlhScTdiMjhOcXQ3bTJXZTlaVnNweHJRMC1TWFRZTVFZN2xLSW5SVFRIQzhva3dSQjBPV2xJYWNobENyNmlmUWNpTmVFSWVB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "Rio Is Said to Draw Interest for Critical Mineral Assets in California - Bloomberg.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVZoSG5nZldYY2dJV3FkQVg2ZlhrOFI0d29fTjdlbDdSNFlocUd0czk1cXlyMnVlTlVweVk4cmJvaGZiREFkX0FaVHFFaHBFVnJzTnQzdmpUU0JlVEd2M1J3VzNUd1lMRXR4eHBYZXNpNHMxckVNcVRXU2ZubTRBbzJyZnM0bVl4QmNBLXlCOXBSRjRTTGlWUlpST0pPNk9GTDU3NmlJWHdMWnJRa01NdjQ4bkZ2Sl9oMWN2bVlIUWhHZw?oc=5\" target=\"_blank\">Rio Is Said to Draw Interest for Critical Mineral Assets in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVZoSG5nZldYY2dJV3FkQVg2ZlhrOFI0d29fTjdlbDdSNFlocUd0czk1cXlyMnVlTlVweVk4cmJvaGZiREFkX0FaVHFFaHBFVnJzTnQzdmpUU0JlVEd2M1J3VzNUd1lMRXR4eHBYZXNpNHMxckVNcVRXU2ZubTRBbzJyZnM0bVl4QmNBLXlCOXBSRjRTTGlWUlpST0pPNk9GTDU3NmlJWHdMWnJRa01NdjQ4bkZ2Sl9oMWN2bVlIUWhHZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "A Look At Rio Tinto Group\u2019s Valuation After Strong Recent Share Price Performance - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.06666666666666667,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ093XzBwdEZUSUlZQXJfbW96SUFGa1dDdnlXVHl2ZnkzTGd2RnpaMUgyX1F1S1Y2NEpoTEFyYWlMazRDS2FEYWdlSjg1aTBZR1VPbkp6UXpGYVBpQ3hIYnRQWVlkeF9lVV9pdUl1dEpXNi1WT3A0TW5FaHMyOGpUMXBuSzYyQ2xtZG80Ym5ZSzhlb1dHZGx5NFcyUWgwLVY4RlpNQUJmTUI2RURMNmxkbXJGUDgyVDNzQU81eWVqSWtMSU5LMTZZZ3lwX2xFWEl1QngwbNIB2gFBVV95cUxNVGppUDVkWlZWcldCZndsUmJWR0haS0VUSTNVQkE3RjFWbzBMd0s3SkFfakFzLVkxamE0bFB2cFNQTjlESm1aZE43d1hMaXJaMmtyV3Y4TmV6c3g2Wi1hbUpqck03Q01UNlJCUjhZZFhvNzVhMVFyR2VBTW1oMThQd2dFRGw3b1NZLWRWREpSZEgtVENzdUlVVnRJYldsM1dKOWNUYXhIcGZYUHpXXzc5VTlpYXBmOHdzcjBxRG5wNnM3UHRtOWZpd3FLbjlZVTk0Zm5LeERxYU1iUQ?oc=5\" target=\"_blank\">A Look At Rio Tinto Group\u2019s Valuation After Strong Recent Share Price Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ093XzBwdEZUSUlZQXJfbW96SUFGa1dDdnlXVHl2ZnkzTGd2RnpaMUgyX1F1S1Y2NEpoTEFyYWlMazRDS2FEYWdlSjg1aTBZR1VPbkp6UXpGYVBpQ3hIYnRQWVlkeF9lVV9pdUl1dEpXNi1WT3A0TW5FaHMyOGpUMXBuSzYyQ2xtZG80Ym5ZSzhlb1dHZGx5NFcyUWgwLVY4RlpNQUJmTUI2RURMNmxkbXJGUDgyVDNzQU81eWVqSWtMSU5LMTZZZ3lwX2xFWEl1QngwbNIB2gFBVV95cUxNVGppUDVkWlZWcldCZndsUmJWR0haS0VUSTNVQkE3RjFWbzBMd0s3SkFfakFzLVkxamE0bFB2cFNQTjlESm1aZE43d1hMaXJaMmtyV3Y4TmV6c3g2Wi1hbUpqck03Q01UNlJCUjhZZFhvNzVhMVFyR2VBTW1oMThQd2dFRGw3b1NZLWRWREpSZEgtVENzdUlVVnRJYldsM1dKOWNUYXhIcGZYUHpXXzc5VTlpYXBmOHdzcjBxRG5wNnM3UHRtOWZpd3FLbjlZVTk0Zm5LeERxYU1iUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-09",
+          "headline": "Rio Tinto Pilbara Exports Rebound Testing Resilience Of Iron Ore Story - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFJweW5TeXZqSGZmMS1yLXJzRW9oS2NPSUZxRF9YcURpbUVQTlpHTUpCSk5zdU9KOTVQeExFM0hIQVYzRHAxdnQwUnBzTkI3ZGVRNklkNFhZWEQ5dXlnWHhRcGxpRWV5VndxYUc0YUlwQjFBWE1hU0diYXMzTVgxQ3daU1EyNjRzdFhPVzVBdXNBcWtxcWhBRWtnazNoRVdCQko5VUZn?oc=5\" target=\"_blank\">Rio Tinto Pilbara Exports Rebound Testing Resilience Of Iron Ore Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFJweW5TeXZqSGZmMS1yLXJzRW9oS2NPSUZxRF9YcURpbUVQTlpHTUpCSk5zdU9KOTVQeExFM0hIQVYzRHAxdnQwUnBzTkI3ZGVRNklkNFhZWEQ5dXlnWHhRcGxpRWV5VndxYUc0YUlwQjFBWE1hU0diYXMzTVgxQ3daU1EyNjRzdFhPVzVBdXNBcWtxcWhBRWtnazNoRVdCQko5VUZn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Ex-Rio Tinto CEO's deep-sea mining firm to merge with Odyssey in $1 billion deal - Reuters",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXp3VDdId3ZjNzEyQTBwOWlhTG9nYUtiZjJ2TEUxSUQ3VmRCbF84ZVphelRUdTByTURUdzlaWWV1NHJMZHNxOTdqdkptR2ZzRkx2WE5KTWEyMmJDU2Qya1FJNWVPTmZLeTFzS0dCaV9JVzlLbGpLaDBCRVhZb01BeF92Y19hSnNJdVNVZFBTVDUwREctSjdLR1JpMGZ0WEYxTlNyRGZQcXhhWUJmRWxZOW1QYks3YWptNFhlSEwxR05BMElBRG5rb3JpNDcyQQ?oc=5\" target=\"_blank\">Ex-Rio Tinto CEO's deep-sea mining firm to merge with Odyssey in $1 billion deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXp3VDdId3ZjNzEyQTBwOWlhTG9nYUtiZjJ2TEUxSUQ3VmRCbF84ZVphelRUdTByTURUdzlaWWV1NHJMZHNxOTdqdkptR2ZzRkx2WE5KTWEyMmJDU2Qya1FJNWVPTmZLeTFzS0dCaV9JVzlLbGpLaDBCRVhZb01BeF92Y19hSnNJdVNVZFBTVDUwREctSjdLR1JpMGZ0WEYxTlNyRGZQcXhhWUJmRWxZOW1QYks3YWptNFhlSEwxR05BMElBRG5rb3JpNDcyQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-08",
+          "headline": "Rio Tinto, Century Aluminum raise US aluminum premiums 12% - Investing.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.09090909090909091,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm5DR1A1NEJRa19Ob2lMVXc3dDByemFXanV1Vjg4Vl84SFE3VkNXanN4bG5OSlQ3c05SMVJhSVpoeEJRUVhLLUxfa1hraGp0aHdoTXJYR1l0UGxiVHpGU3RkMVRUUlNlYXphS2ZGeGM0ODA1UDQyNDM1ZzNTQ1l0Z3d2MFd0UTl1ZjhQaDBPUTkzUDFOVk9BMVloUDJPOGR6T0puY1hXcEFSMUhvRUZLVmpjN2hEMFNrcnc?oc=5\" target=\"_blank\">Rio Tinto, Century Aluminum raise US aluminum premiums 12%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm5DR1A1NEJRa19Ob2lMVXc3dDByemFXanV1Vjg4Vl84SFE3VkNXanN4bG5OSlQ3c05SMVJhSVpoeEJRUVhLLUxfa1hraGp0aHdoTXJYR1l0UGxiVHpGU3RkMVRUUlNlYXphS2ZGeGM0ODA1UDQyNDM1ZzNTQ1l0Z3d2MFd0UTl1ZjhQaDBPUTkzUDFOVk9BMVloUDJPOGR6T0puY1hXcEFSMUhvRUZLVmpjN2hEMFNrcnc?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
       "negative_signal_count": 0,
-      "positive_signal_count": 0
+      "positive_signal_count": 3
     },
     "sentiment": {
-      "days_sampled": 0,
-      "delta": null,
-      "prior_mean": null,
-      "recent_mean": null
+      "days_sampled": 9,
+      "delta": -0.008818958818958823,
+      "prior_mean": 0.01807821807821808,
+      "recent_mean": 0.009259259259259259
     },
     "technical": {
       "atr14": 2.57848248368013,
@@ -516,16 +729,19 @@
   },
   "market_overlay": {
     "adverse_effects": 5,
+    "effective_adverse_effects": 5,
+    "effective_supportive_effects": 0,
     "exposures": [
       "industrials",
       "metals"
     ],
     "industry": "Other Industrial Metals & Mining",
     "sector": "Basic Materials",
-    "supportive_effects": 0
+    "supportive_effects": 0,
+    "weight_scale": 1.0
   },
   "news_support": {
-    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. It also matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures.",
+    "explanation": "Python classified 15 stock-specific articles into 3 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
     "stance": "conflicting"
   },
   "recent_weakness": [
@@ -554,6 +770,10 @@
     {
       "confidence": "high",
       "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-13: Rio Tinto Group (LON:RIO) Price Target Raised to GBX 7,200 - MarketBeat."
     }
   ],
   "risks": [
@@ -606,14 +826,19 @@
         "value": 24.38
       },
       {
+        "label": "Constructive local news signals",
+        "points": 6,
+        "value": 3
+      },
+      {
         "label": "Adverse market / sector theme overlay",
         "points": -6,
         "value": 5
       }
     ],
     "confidence": "high",
-    "label": "constructive_watch",
-    "score_0_to_100": 69
+    "label": "constructive_bullish",
+    "score_0_to_100": 75
   },
   "sources": [
     {
@@ -624,35 +849,47 @@
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5"
+      "publisher": "MarketBeat",
+      "title": "Rio Tinto Group (LON:RIO) Price Target Raised to GBX 7,200 - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRydUFPY1Vfbjd3VTEwVlNGOWwwM1pKU1ZmZHlpRWZIazdueEhpUmZvQ2RKV0YxV25WbEZnMl9nY0haOXNJSzBCcEVaTVF5QnU1ZGRQdVdrWHZ5amNfS0MzQmpIbURGMlZOMC01UkVhWm0zMkdzRi1GeWhJTXdNWkRpVDFUTHRTcHNLckNHWlVUT1RmTW5BdE9mYjYyb1Z0TTNGRV9NOUJuaGkt?oc=5"
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley\u2019s Mike Wilson.",
-      "url": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories"
+      "publisher": "marketscreener.com",
+      "title": "RIO TINTO : Goldman Sachs sticks Neutral - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclBQM25pZDhPd05iRTJFTUxvQ2cxaEE5NTZUcmFidkQ0dExPR3Vvc2xFYS1lc3J5bkp5aldYS1BaZEtyNVowOEtmZXFJM092eEhybDViZ3VZVlhQaVZ0RjFEdTZ4VUZqaWdwWDNvWFBHVGljbTU5ekhzUGVsb0lRQllEd2VIc1ZCd25wc0lXdl8wVjhMaFE?oc=5"
     },
     {
       "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Populism lost in Hungary but still might win the war, one strategist argues",
-      "url": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories"
+      "publisher": "Fool UK",
+      "title": "\u00a320,000 invested in the FTSE\u2019s Rio Tinto a year ago is now worth\u2026 - Fool UK",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1hLRUd2YnM2QTQyOHlwd3NIMUtfeVpzNHhQUjlfLWw3LW1XUEdtQmt0OU1vU1pza0lYbEdjdmlwcDNUeXlsSXFIQWhJeWRUSldkZHNJTDRoQ3lCbV9kS0duaTBjaUY3YzI3ZWRReVFmTlQxRGVGanRlaUlOT19ycFJsQmt3bGFhVXVYcl9FNkQySkRfcmlVWWhjZEo?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "google_business",
-      "title": "Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      "published_at": "2026-04-12",
+      "publisher": "simplywall.st",
+      "title": "Rio Tinto Weighs Boron Sale And Solar Deal As Valuation Stretches - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXNEdTBXV1JKVjhhS242VFBDTExXamdaWENQSEF0MFJCbVN4Z2QtQXY2LXoydnp3R282allQV3dSVFUxT1BnT2hMRlNfcmtrWkVuUGVsdTBQMzRfdTJfcmNwN1lQN2RJb29EWDMyVHN2cTBmV0JZNWlfMGxPOVAxUzVEV1RLSS1vamFFenVYUmhGV0ZPSXJibDY5MThnOE05WE5RUkVqQXktLUJGYVpMSDFYVV9FTmNJNm1PNTQxaWdBOGtiemhQSWNiMmN3dnJyN1dNNtIB2gFBVV95cUxPSWNFT3hQRUZscDNjNjg0ODJtRENPemUtd2pUNkVHczh3cWxqVHhNemI4eWlLdENscDlROVlxMmFLYkV3Y3hJbXNqdGcybmJwc2ZPRkRNcC1BTFV5a3k2OWtsaFlIVXAtalVjY2ZnV3VJcUZ5Tzh3SnJGNnktOTBVV1lDZXRnbG44Y2ZhNVVRaTJOOUlDX0F2ZEdDUml4V1RzblRSYTNSWk85MXJkbEhGZGczb1ZGTXJPWl80QzNWUWRkRkpPcVBrTktqc3VFdHgzZnZOWGludU5DUQ?oc=5"
     },
     {
-      "published_at": "2026-04-13",
-      "publisher": "marketwatch_topstories",
-      "title": "Oil prices rise as failed negotiations between U.S. and Iran raise risk of prolonged war",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories"
+      "published_at": "2026-04-12",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "Free float of Rio Tinto plc \u2013 BSESOF:RIO1 - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGRXOXNuYW9LV3EyM05GZDYybjJKcmo5ZlpLdDZNZmo1T1J5ZlcxWnV1SlNCanJTMExKdlExU2JJWTctdjJ2by1Ic2JLOFZNRDh3SjRWVUFXMWVBOUdCbjFOeDFQZWZmWW1DVGZ3dFZsWEdpd1ZmMkxYVlRMRXFFYUtUdTdGdnFuS1FKSGx5S3pNei00bnhtQzFNQ3gwNDJQV3dpZnhzSy1mdw?oc=5"
+    },
+    {
+      "published_at": "2026-04-11",
+      "publisher": "Yahoo Finance Singapore",
+      "title": "Rio Tinto Expands African Renewables As Shares Trade Above Target Price - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzEwemZGbXBIb1V2THVnSGkzTDV6VzllclUxWGlySFZsbkI0SUZiYXhVUGljZ0ZfQ2N0RTFDTmhJTzBFWFAyS2FWM3JqR253ZmhIbzMzdHRfck5GN29DWTU0VXJHMGZkTUZnSTc5elpIRlo1eGstX2J4ZUNKRzZEd3VSS1hoUmZ2ZGg0YWRB?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "marketscreener.com",
+      "title": "Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdjVWUjhjTmNoYVVkSGpCeF9yc2J6S0dub1pPMlg5WTRCc0RjcGJiWktDSXlmTURxdTg1MHF3d0dSYmtpZXk2ZE9GR0dFV1UxVmtDQlVDUWlycTVaRGNoVWRZSm0yMVlRdDJaOEt5aUNWMXJ3M0xvdS1YTUZJTm16bVJNLW1kMlF6QVlSS0JGSEExckNuaG4yZ01Xei1RaTFQYmlXcFRSbGZxb1lsbDBKbXJjWjhLTFFhcnpKZ0c4ZHl4UTZDTWxmYU9jdXpYeG4tZVEyNA?oc=5"
     }
   ],
-  "summary": "RIO1 scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay of 0 supportive versus 5 adverse matched macro effects.",
+  "summary": "RIO1 scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.",
   "symbol": "RIO1"
 }
