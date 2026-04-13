@@ -30,7 +30,7 @@ from stock_news.render import (
     render_regional_dashboard,
     render_regional_project_readme,
 )
-from stock_news.shortlist import build_shortlist, shortlist_to_frame
+from stock_news.shortlist import apply_min_price_eur_filter, build_shortlist, shortlist_to_frame
 from stock_news.utils import manifest_hash, read_json, replace_dir_contents, safe_symbol_name, write_json
 
 
@@ -63,6 +63,21 @@ def _ensure_layout(run_dir: Path) -> dict[str, Path]:
         if key.endswith("_dir"):
             path.mkdir(parents=True, exist_ok=True)
     return layout
+
+
+def _remove_stale_analysis_outputs(layout: dict[str, Path], expected_symbols: set[str]) -> None:
+    expected_names = {analysis_report_name(symbol) for symbol in expected_symbols if symbol}
+
+    for key, pattern in [
+        ("analysis_json_dir", "*.json"),
+        ("analysis_evidence_dir", "*.json"),
+        ("analysis_codex_dir", "*.json"),
+        ("analysis_markdown_dir", "*.md"),
+    ]:
+        target_dir = layout[key]
+        for path in target_dir.glob(pattern):
+            if path.name not in expected_names:
+                path.unlink(missing_ok=True)
 
 
 def _load_eur_rates_context(manifest: dict[str, Any], *, paths: Any) -> dict[str, Any]:
@@ -118,10 +133,20 @@ def _subset_shortlist(shortlist: dict[str, Any], region: str) -> dict[str, Any]:
     for idx, item in enumerate(items, start=1):
         item["display_rank"] = idx
 
+    filtered_out_symbols = [
+        dict(item)
+        for item in shortlist.get("filtered_out_symbols", []) or []
+        if normalize_region(item.get("region")) == normalized_region
+    ]
+
     subset = dict(shortlist)
     subset["symbols"] = items
     subset["entry_ready_count"] = sum(1 for item in items if item.get("entry_ready"))
     subset["candidate_count"] = sum(1 for item in items if not item.get("entry_ready"))
+    subset["filtered_out_symbols"] = filtered_out_symbols
+    temporary_filters = dict(shortlist.get("temporary_filters") or {})
+    temporary_filters["filtered_count"] = len(filtered_out_symbols)
+    subset["temporary_filters"] = temporary_filters
     return subset
 
 
@@ -296,6 +321,8 @@ def build_shortlist_step(run_id: str | None = None, *, region: str | None = None
     layout = _ensure_layout(paths.daily_run_dir(manifest["run_id"]))
     payloads = _load_parsed_payloads(manifest["run_id"])
     shortlist = build_shortlist(payloads, extra_candidates=extra_candidates)
+    eur_rates_context = _load_eur_rates_context(manifest, paths=paths)
+    shortlist = apply_min_price_eur_filter(shortlist, eur_rates_context=eur_rates_context, min_price_eur=1.0)
     shortlist["run_id"] = manifest["run_id"]
     shortlist["manifest_hash"] = manifest["manifest_hash"]
     shortlist["feed_dates"] = manifest["feed_dates"]
@@ -363,6 +390,8 @@ def run_analysis_step(
     if analysis_mode not in {"python", "hybrid", "codex-full"}:
         analysis_mode = "hybrid"
 
+    expected_symbols = {str(item.get("symbol")) for item in shortlist.get("symbols", []) if item.get("symbol")}
+    _remove_stale_analysis_outputs(layout, expected_symbols)
     eur_rates_context = _load_eur_rates_context(manifest, paths=paths)
     results = []
     for item in shortlist.get("symbols", []):

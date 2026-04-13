@@ -1,16 +1,16 @@
 {
   "analysis_summary": {
     "analysis_mode": "python",
-    "generated_at_utc": "2026-04-13T13:17:51.083430+00:00",
+    "generated_at_utc": "2026-04-13T13:24:52.076380+00:00",
     "ok": true,
     "reports_failed": 0,
-    "reports_written": 28,
+    "reports_written": 24,
     "run_id": "2026-04-11_2cc47b69",
-    "symbols_total": 28
+    "symbols_total": 24
   },
   "candidate_count": 5,
-  "entry_ready_count": 23,
-  "generated_at_utc": "2026-04-13T13:17:51.092925+00:00",
+  "entry_ready_count": 19,
+  "generated_at_utc": "2026-04-13T13:24:52.078452+00:00",
   "news_summary": {
     "company_profiles": {
       "ok": true,
@@ -37,5 +37,5 @@
   },
   "ok": true,
   "run_id": "2026-04-11_2cc47b69",
-  "shortlist_size": 28
+  "shortlist_size": 24
 }

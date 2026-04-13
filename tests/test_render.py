@@ -96,7 +96,17 @@ def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
                         "selection_bucket": "entry_ready",
                         "display_rank": 1,
                     }
-                ]
+                ],
+                "filtered_out_symbols": [
+                    {
+                        "symbol": "CHEAP",
+                        "company_name": "Cheap Nordic",
+                        "region": "EU",
+                        "currency": "SEK",
+                        "current_price": 8.0,
+                        "current_price_eur": 0.8,
+                    }
+                ],
             },
             "analysis_rows": [
                 {"symbol": "AKVA", "breakout_stance": {"label": "constructive_bullish", "score_0_to_100": 81, "confidence": "high"}}
@@ -128,3 +138,5 @@ def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
     assert "## US Best Scoring Candidates" in markdown
     assert "[AKVA](latest/eu/analysis/markdown/AKVA.md)" in markdown
     assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in markdown
+    assert "## Temporarily Omitted Penny Stocks" in markdown
+    assert "`EU` `CHEAP` - Cheap Nordic - `8.00 SEK` (0.80 EUR)" in markdown

@@ -5,6 +5,20 @@ from typing import Any
 
 import pandas as pd
 
+from stock_news.fx import convert_to_eur
+
+
+FILTER_CURRENCY_BY_EXCHANGE: dict[str, str] = {
+    "US": "USD",
+    "CO": "DKK",
+    "HE": "EUR",
+    "MC": "EUR",
+    "OL": "NOK",
+    "PA": "EUR",
+    "ST": "SEK",
+    "XETRA": "EUR",
+}
+
 
 def _float_or_min(value: Any) -> float:
     if value is None or value == "":
@@ -84,6 +98,74 @@ def _merge_item_metrics(item: dict[str, Any], row: dict[str, Any]) -> None:
             continue
         if metrics.get(key) in {None, ""}:
             metrics[key] = value
+
+
+def _filter_currency(item: dict[str, Any]) -> str | None:
+    currency = str(item.get("currency") or "").strip().upper()
+    if currency:
+        return currency
+    exchange_code = str(item.get("exchange_code") or "").strip().upper()
+    return FILTER_CURRENCY_BY_EXCHANGE.get(exchange_code)
+
+
+def _item_region(item: dict[str, Any]) -> str | None:
+    for row in item.get("source_rows", []) or []:
+        region = str(row.get("_source_region") or "").strip().upper()
+        if region:
+            return region
+    return None
+
+
+def apply_min_price_eur_filter(
+    shortlist: dict[str, Any],
+    *,
+    eur_rates_context: dict[str, Any] | None,
+    min_price_eur: float = 1.0,
+) -> dict[str, Any]:
+    items = list(shortlist.get("symbols", []) or [])
+    kept_items: list[dict[str, Any]] = []
+    filtered_items: list[dict[str, Any]] = []
+
+    for item in items:
+        metrics = item.get("metrics", {}) or {}
+        close = metrics.get("close")
+        currency = _filter_currency(item)
+        close_eur = convert_to_eur(close, currency, eur_rates_context)
+
+        if close_eur is not None and float(close_eur) < float(min_price_eur):
+            filtered_items.append(
+                {
+                    "symbol": item.get("symbol"),
+                    "company_name": item.get("company_name"),
+                    "region": _item_region(item),
+                    "selection_bucket": item.get("selection_bucket"),
+                    "currency": currency,
+                    "current_price": close,
+                    "current_price_eur": round(float(close_eur), 6),
+                }
+            )
+            continue
+
+        if currency and not item.get("currency"):
+            item = dict(item)
+            item["currency"] = currency
+        kept_items.append(item)
+
+    for idx, item in enumerate(kept_items, start=1):
+        item["display_rank"] = idx
+
+    updated = dict(shortlist)
+    updated["symbols"] = kept_items
+    updated["entry_ready_count"] = sum(1 for item in kept_items if item.get("entry_ready"))
+    updated["candidate_count"] = sum(1 for item in kept_items if not item.get("entry_ready"))
+    updated["filtered_out_symbols"] = filtered_items
+    updated["temporary_filters"] = {
+        "min_price_eur": float(min_price_eur),
+        "rate_date": (eur_rates_context or {}).get("rate_date"),
+        "filtered_count": len(filtered_items),
+        "kind": "min_price_eur",
+    }
+    return updated
 
 
 def build_shortlist(parsed_payloads: list[dict[str, Any]], *, extra_candidates: int = 10) -> dict[str, Any]:

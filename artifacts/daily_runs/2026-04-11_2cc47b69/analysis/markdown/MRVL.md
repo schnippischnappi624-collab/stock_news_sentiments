@@ -6,8 +6,8 @@
 <tr><td><strong>Score</strong></td><td>🟡 <code>61</code></td></tr>
 <tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
 <tr><td><strong>Bucket</strong></td><td><code>candidate</code></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>128.49 (128.49 EUR)</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>121.97 (121.97 EUR)</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>128.49 USD (109.72 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>121.97 USD (104.15 EUR)</code></td></tr>
 </tbody>
 </table>
 

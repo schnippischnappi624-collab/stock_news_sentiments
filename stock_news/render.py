@@ -269,6 +269,40 @@ def _section_lookup(sections: list[dict[str, Any]]) -> dict[str, dict[str, Any]]
     return lookup
 
 
+def _filtered_symbol_lines(section_lookup: dict[str, dict[str, Any]]) -> list[str]:
+    lines: list[str] = [
+        "## Temporarily Omitted Penny Stocks",
+        "",
+        "The repo currently hides symbols with a current price below `1.00 EUR` as a temporary workaround until the upstream source filter is fixed.",
+        "",
+    ]
+
+    entries: list[dict[str, Any]] = []
+    for region in REGION_ORDER:
+        section = section_lookup.get(region) or {}
+        shortlist = section.get("shortlist", {}) or {}
+        entries.extend(shortlist.get("filtered_out_symbols", []) or [])
+
+    if not entries:
+        lines.append("No symbols were filtered out by the temporary penny-stock rule in the latest runs.")
+        return lines
+
+    entries.sort(key=lambda entry: (str(entry.get("region") or ""), float(entry.get("current_price_eur") or 0.0), str(entry.get("symbol") or "")))
+    for entry in entries:
+        region = str(entry.get("region") or "n/a")
+        symbol = entry.get("symbol") or "n/a"
+        company = entry.get("company_name") or "Unknown Company"
+        currency = str(entry.get("currency") or "").strip()
+        current_price = entry.get("current_price")
+        current_price_eur = entry.get("current_price_eur")
+        original_label = str(current_price)
+        if current_price not in {None, ""} and currency:
+            original_label = f"{float(current_price):,.2f} {currency}"
+        eur_label = f"{float(current_price_eur):,.2f} EUR" if current_price_eur not in {None, ""} else "n/a EUR"
+        lines.append(f"- `{region}` `{symbol}` - {company} - `{original_label}` ({eur_label})")
+    return lines
+
+
 def _best_candidate_section_lines(
     section: dict[str, Any] | None,
     *,
@@ -780,6 +814,8 @@ def render_regional_project_readme(sections: list[dict[str, Any]], *, best_candi
             "  Worst to best: `low` -> `medium` -> `high`",
             "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
             "  Worst to best: `candidate` -> `entry_ready`",
+            "",
+            *_filtered_symbol_lines(section_lookup),
         ]
     )
 
