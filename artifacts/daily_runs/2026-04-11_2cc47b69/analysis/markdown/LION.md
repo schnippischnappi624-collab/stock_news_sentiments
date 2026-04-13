@@ -4,6 +4,8 @@
 - Score: `52`
 - Confidence: `low`
 - Bucket: `candidate`
+- Current price: `10.88`
+- Prior 20d high trigger: `10.72`
 
 ## Investment View
 LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

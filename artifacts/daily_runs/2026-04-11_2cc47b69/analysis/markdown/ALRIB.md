@@ -4,6 +4,14 @@
 - Score: `87`
 - Confidence: `high`
 - Bucket: `entry_ready`
+- Current price: `7.13 EUR`
+- Entry limit: `6.12 EUR`
+- Initial stop: `5.44 EUR`
+- Prior 20d high trigger: `6.15 EUR`
+- 2R target: `7.47 EUR`
+- 3R target: `8.15 EUR`
+- Risk distance: `0.68 EUR`
+- Position size for source risk budget: `2,218.87` shares at `1,500 EUR` risk
 
 ## Investment View
 ALRIB scores 87/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

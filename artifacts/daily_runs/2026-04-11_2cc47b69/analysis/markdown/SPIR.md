@@ -4,6 +4,14 @@
 - Score: `66`
 - Confidence: `high`
 - Bucket: `entry_ready`
+- Current price: `21.56 USD`
+- Entry limit: `20.50 USD`
+- Initial stop: `17.83 USD`
+- Prior 20d high trigger: `20.50 USD`
+- 2R target: `25.83 USD`
+- 3R target: `28.50 USD`
+- Risk distance: `2.67 USD`
+- Position size for source risk budget: `562.54` shares at `1,500 USD` risk
 
 ## Investment View
 SPIR scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 2 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

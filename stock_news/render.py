@@ -6,6 +6,63 @@ from stock_news.regions import REGION_ORDER, normalize_region
 from stock_news.utils import safe_symbol_name
 
 
+def _metric_num(value: Any, *, digits: int = 2) -> str | None:
+    if value in {None, ""}:
+        return None
+    try:
+        return f"{float(value):,.{digits}f}"
+    except (TypeError, ValueError):
+        return str(value)
+
+
+def _execution_lines(item: dict[str, Any]) -> list[str]:
+    metrics = item.get("metrics", {}) or {}
+    currency = str(item.get("currency") or "").strip()
+
+    def fmt_money(value: Any, *, digits: int = 2) -> str | None:
+        text = _metric_num(value, digits=digits)
+        if text is None:
+            return None
+        return f"{text} {currency}".strip()
+
+    lines: list[str] = []
+
+    current_price = fmt_money(metrics.get("close"))
+    if current_price:
+        lines.append(f"- Current price: `{current_price}`")
+
+    entry_limit = fmt_money(metrics.get("entry_limit"))
+    if entry_limit:
+        lines.append(f"- Entry limit: `{entry_limit}`")
+
+    stop_init = fmt_money(metrics.get("stop_init"))
+    if stop_init:
+        lines.append(f"- Initial stop: `{stop_init}`")
+
+    hh20_prev = fmt_money(metrics.get("hh20_prev"))
+    if hh20_prev:
+        lines.append(f"- Prior 20d high trigger: `{hh20_prev}`")
+
+    tp_2r = fmt_money(metrics.get("tp_2r"))
+    if tp_2r:
+        lines.append(f"- 2R target: `{tp_2r}`")
+
+    tp_3r = fmt_money(metrics.get("tp_3r"))
+    if tp_3r:
+        lines.append(f"- 3R target: `{tp_3r}`")
+
+    r_dist = fmt_money(metrics.get("r_dist"))
+    if r_dist:
+        lines.append(f"- Risk distance: `{r_dist}`")
+
+    qty_for_risk = _metric_num(metrics.get("qty_for_risk"))
+    risk_budget = fmt_money(metrics.get("risk_eur"), digits=0)
+    if qty_for_risk and risk_budget:
+        lines.append(f"- Position size for source risk budget: `{qty_for_risk}` shares at `{risk_budget}` risk")
+
+    return lines
+
+
 def _section_points(items: list[dict[str, Any]], *, default_message: str) -> list[str]:
     if not items:
         return [f"- {default_message}"]
@@ -211,45 +268,53 @@ def render_analysis_markdown(report: dict[str, Any], item: dict[str, Any]) -> st
         f"- Score: `{stance.get('score_0_to_100', 'n/a')}`",
         f"- Confidence: `{stance.get('confidence', 'n/a')}`",
         f"- Bucket: `{item.get('selection_bucket')}`",
-        "",
-        "## Investment View",
-        report.get("summary", "No summary generated."),
-        "",
-        f"- Thesis: {thesis}",
-        "",
-        "## What Matters",
-        *_compact_points(
-            report.get("recovery_signals", []),
-            limit=2,
-            default_message="No concrete recovery signal was identified.",
-        ),
-        "",
-        "## Risks / Invalidation",
-        *_compact_points(
-            report.get("risks", []),
-            limit=2,
-            default_message="No major risk or invalidation signal was identified.",
-        ),
-        "",
-        "## Catalysts",
-        *_compact_points(
-            report.get("catalysts", []),
-            limit=2,
-            default_message="No near-term catalyst was identified.",
-        ),
-        "",
-        "## News Read",
-        f"- Stance: `{news_support.get('stance', 'unknown')}`",
-        f"- Explanation: {news_support.get('explanation', 'No explanation generated.')}",
-        "",
-        "## Key Levels",
-        f"- Volume anomaly: `{metrics.get('vol_anom', 'n/a')}`",
-        f"- Close: `{metrics.get('close', 'n/a')}`",
-        f"- Prior 20d high: `{metrics.get('hh20_prev', 'n/a')}`",
-        f"- ATR14: `{metrics.get('atr14', 'n/a')}`",
-        "",
-        "## Why This Score",
     ]
+    execution_lines = _execution_lines(item)
+    if execution_lines:
+        lines.extend(execution_lines)
+
+    lines.extend(
+        [
+            "",
+            "## Investment View",
+            report.get("summary", "No summary generated."),
+            "",
+            f"- Thesis: {thesis}",
+            "",
+            "## What Matters",
+            *_compact_points(
+                report.get("recovery_signals", []),
+                limit=2,
+                default_message="No concrete recovery signal was identified.",
+            ),
+            "",
+            "## Risks / Invalidation",
+            *_compact_points(
+                report.get("risks", []),
+                limit=2,
+                default_message="No major risk or invalidation signal was identified.",
+            ),
+            "",
+            "## Catalysts",
+            *_compact_points(
+                report.get("catalysts", []),
+                limit=2,
+                default_message="No near-term catalyst was identified.",
+            ),
+            "",
+            "## News Read",
+            f"- Stance: `{news_support.get('stance', 'unknown')}`",
+            f"- Explanation: {news_support.get('explanation', 'No explanation generated.')}",
+            "",
+            "## Key Levels",
+            f"- Volume anomaly: `{metrics.get('vol_anom', 'n/a')}`",
+            f"- Close: `{metrics.get('close', 'n/a')}`",
+            f"- Prior 20d high: `{metrics.get('hh20_prev', 'n/a')}`",
+            f"- ATR14: `{metrics.get('atr14', 'n/a')}`",
+            "",
+            "## Why This Score",
+        ]
+    )
 
     if not top_drivers:
         lines.append("- No explicit score driver was recorded.")

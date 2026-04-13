@@ -4,6 +4,8 @@
 - Score: `57`
 - Confidence: `high`
 - Bucket: `candidate`
+- Current price: `13.03`
+- Prior 20d high trigger: `12.70`
 
 ## Investment View
 AXIA scores 57/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

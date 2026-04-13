@@ -39,3 +39,5 @@ def test_shortlist_keeps_entry_ready_and_top_candidates() -> None:
     assert shortlist["candidate_count"] == 1
     assert shortlist["symbols"][0]["symbol"] == "SPIR"
     assert shortlist["symbols"][1]["symbol"] == "AXIA"
+    assert shortlist["symbols"][0]["metrics"]["entry_limit"] == 20.5
+    assert shortlist["symbols"][0]["metrics"]["stop_init"] == 17.833519

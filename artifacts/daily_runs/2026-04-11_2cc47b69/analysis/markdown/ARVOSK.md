@@ -4,6 +4,14 @@
 - Score: `77`
 - Confidence: `medium`
 - Bucket: `entry_ready`
+- Current price: `91.50 EUR`
+- Entry limit: `89.53 EUR`
+- Initial stop: `86.08 EUR`
+- Prior 20d high trigger: `89.98 EUR`
+- 2R target: `96.44 EUR`
+- 3R target: `99.89 EUR`
+- Risk distance: `3.45 EUR`
+- Position size for source risk budget: `434.38` shares at `1,500 EUR` risk
 
 ## Investment View
 ARVOSK scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

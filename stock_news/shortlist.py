@@ -50,13 +50,45 @@ def _base_item(row: dict[str, Any], *, bucket: str) -> dict[str, Any]:
             "atr14": row.get("atr14"),
             "entry_limit": row.get("entry_limit"),
             "stop_init": row.get("stop_init"),
+            "r_dist": row.get("r_dist"),
+            "tp_2r": row.get("tp_2r"),
+            "tp_3r": row.get("tp_3r"),
+            "risk_eur": row.get("risk_eur"),
+            "qty_for_risk": row.get("qty_for_risk"),
         },
         "source_rows": [],
     }
 
 
+def _merge_item_metrics(item: dict[str, Any], row: dict[str, Any]) -> None:
+    metrics = item.setdefault("metrics", {})
+    for key in (
+        "state",
+        "invest_score",
+        "state_score",
+        "vol_anom",
+        "close",
+        "volume",
+        "hh20_prev",
+        "atr14",
+        "entry_limit",
+        "stop_init",
+        "r_dist",
+        "tp_2r",
+        "tp_3r",
+        "risk_eur",
+        "qty_for_risk",
+    ):
+        value = row.get(key)
+        if value is None or value == "":
+            continue
+        if metrics.get(key) in {None, ""}:
+            metrics[key] = value
+
+
 def build_shortlist(parsed_payloads: list[dict[str, Any]], *, extra_candidates: int = 10) -> dict[str, Any]:
     entry_ready_rows: list[dict[str, Any]] = []
+    entry_stop_target_rows: list[dict[str, Any]] = []
     candidate_rows: list[dict[str, Any]] = []
 
     for parsed in parsed_payloads:
@@ -70,6 +102,8 @@ def build_shortlist(parsed_payloads: list[dict[str, Any]], *, extra_candidates: 
                 state = str(row.get("state") or "").upper()
                 if feed_kind == "Results" and (state == "ENTRY_READY" or "entry_ready" in table["table_key"]):
                     entry_ready_rows.append(enriched)
+                if feed_kind == "Results" and "entry_stop_targets" in str(table.get("table_key") or ""):
+                    entry_stop_target_rows.append(enriched)
                 if feed_kind == "Results_CANDIDATES":
                     candidate_rows.append(enriched)
 
@@ -77,6 +111,15 @@ def build_shortlist(parsed_payloads: list[dict[str, Any]], *, extra_candidates: 
     for row in sorted(entry_ready_rows, key=lambda item: (str(item.get("_source_region")), str(item.get("symbol")))):
         symbol = str(row["symbol"])
         item = selected.setdefault(symbol, _base_item(row, bucket="entry_ready"))
+        _merge_item_metrics(item, row)
+        item["source_rows"].append(row)
+
+    for row in sorted(entry_stop_target_rows, key=lambda item: (str(item.get("_source_region")), str(item.get("symbol")))):
+        symbol = str(row["symbol"])
+        item = selected.get(symbol)
+        if item is None:
+            continue
+        _merge_item_metrics(item, row)
         item["source_rows"].append(row)
 
     ranked_candidates = sorted(
@@ -99,6 +142,7 @@ def build_shortlist(parsed_payloads: list[dict[str, Any]], *, extra_candidates: 
         if additional_added >= int(extra_candidates):
             continue
         item = _base_item(row, bucket="candidate")
+        _merge_item_metrics(item, row)
         item["candidate_rank"] = rank
         item["source_rows"].append(row)
         selected[symbol] = item

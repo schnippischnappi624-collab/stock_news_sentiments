@@ -5,9 +5,20 @@ def test_render_analysis_markdown_includes_sections() -> None:
     item = {
         "symbol": "SPIR",
         "company_name": "Spire Global Inc",
+        "currency": "USD",
         "selection_bucket": "entry_ready",
         "selection_reason": "setup+breakout",
-        "metrics": {"invest_score": 5.2, "state_score": 2.1, "vol_anom": 3.3, "close": 21.56, "atr14": 1.77},
+        "metrics": {
+            "invest_score": 5.2,
+            "state_score": 2.1,
+            "vol_anom": 3.3,
+            "close": 21.56,
+            "atr14": 1.77,
+            "entry_limit": 20.50,
+            "stop_init": 17.83,
+            "tp_2r": 25.84,
+            "tp_3r": 28.51,
+        },
     }
     report = {
         "symbol": "SPIR",
@@ -57,6 +68,9 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "## Market Overlay" in markdown
     assert "Stock-news coverage quality" in markdown
     assert "Macro overlay weight used in scoring" in markdown
+    assert "- Current price: `21.56 USD`" in markdown
+    assert "- Entry limit: `20.50 USD`" in markdown
+    assert "- Initial stop: `17.83 USD`" in markdown
 
 
 def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:

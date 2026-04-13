@@ -4,6 +4,14 @@
 - Score: `77`
 - Confidence: `medium`
 - Bucket: `entry_ready`
+- Current price: `9.04 CHF`
+- Entry limit: `8.90 CHF`
+- Initial stop: `8.60 CHF`
+- Prior 20d high trigger: `8.94 CHF`
+- 2R target: `9.49 CHF`
+- 3R target: `9.79 CHF`
+- Risk distance: `0.30 CHF`
+- Position size for source risk budget: `5,029.18` shares at `1,500 CHF` risk
 
 ## Investment View
 0QMG scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects.

@@ -4,6 +4,14 @@
 - Score: `75`
 - Confidence: `high`
 - Bucket: `entry_ready`
+- Current price: `84.28 EUR`
+- Entry limit: `81.95 EUR`
+- Initial stop: `78.08 EUR`
+- Prior 20d high trigger: `82.36 EUR`
+- 2R target: `89.68 EUR`
+- 3R target: `93.55 EUR`
+- Risk distance: `3.87 EUR`
+- Position size for source risk budget: `387.83` shares at `1,500 EUR` risk
 
 ## Investment View
 RIO1 scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

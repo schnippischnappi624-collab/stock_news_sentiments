@@ -4,6 +4,8 @@
 - Score: `61`
 - Confidence: `high`
 - Bucket: `candidate`
+- Current price: `128.49`
+- Prior 20d high trigger: `121.97`
 
 ## Investment View
 MRVL scores 61/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.
