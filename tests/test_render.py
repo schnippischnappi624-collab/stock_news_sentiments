@@ -73,12 +73,12 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "Stock-news coverage quality" in markdown
     assert "Macro overlay weight used in scoring" in markdown
     assert "<table>" in markdown
-    assert "<td><strong>Breakout stance</strong></td><td>🟡 <code>constructive</code></td>" in markdown
-    assert "<td><strong>Score</strong></td><td>🟡 <code>72</code></td>" in markdown
-    assert "<td><strong>Confidence</strong></td><td>🟡 <code>medium</code></td>" in markdown
+    assert '<td><strong>Breakout stance</strong></td><td><span style="color:#2da44e"><code>constructive</code></span></td>' in markdown
+    assert '<td><strong>Score</strong></td><td><span style="color:#9a6700"><code>72</code></span></td>' in markdown
+    assert '<td><strong>Confidence</strong></td><td><span style="color:#9a6700"><code>medium</code></span></td>' in markdown
     assert "<td><strong>Current price</strong></td><td><code>21.56 USD (10.78 EUR)</code></td>" in markdown
     assert "<td><strong>Entry limit</strong></td><td><code>20.50 USD (10.25 EUR)</code></td>" in markdown
-    assert "<td><strong>Distance to entry limit</strong></td><td>🔴 <code>1.06 USD (0.53 EUR) / +5.17% above limit</code></td>" in markdown
+    assert '<td><strong>Distance to entry limit</strong></td><td><span style="color:#cf222e"><code>1.06 USD (0.53 EUR) / +5.17% above limit</code></span></td>' in markdown
     assert "<td><strong>Initial stop</strong></td><td><code>17.83 USD (8.91 EUR)</code></td>" in markdown
 
 
@@ -136,6 +136,7 @@ def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
 
     assert "## EU Best Scoring Candidates" in markdown
     assert "## US Best Scoring Candidates" in markdown
+    assert "Distance to entry" in markdown
     assert "[AKVA](latest/eu/analysis/markdown/AKVA.md)" in markdown
     assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in markdown
     assert "## Temporarily Omitted Penny Stocks" in markdown

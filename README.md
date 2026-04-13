@@ -17,23 +17,23 @@ Quick links:
 - Feed dates: `2026-04-11`
 - Symbols analyzed: `18`
 
-| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ALRIB](latest/analysis/markdown/ALRIB.md) | Riber S.A | entry_ready | 87 | high | constructive_bullish |
-| 2 | [QH9](latest/analysis/markdown/QH9.md) | ADTRAN Holdings Inc. | entry_ready | 83 | high | constructive_bullish |
-| 3 | [ALNSE](latest/analysis/markdown/ALNSE.md) | NSE SA | entry_ready | 82 | high | constructive_bullish |
-| 4 | [ALNT](latest/analysis/markdown/ALNT.md) | Alantra Partners S.A. | entry_ready | 79 | medium | constructive_bullish |
-| 5 | [0QMG](latest/analysis/markdown/0QMG.md) | Swiss Life Holding AG | entry_ready | 77 | medium | constructive_bullish |
-| 6 | [AKVA](latest/analysis/markdown/AKVA.md) | Akva Group | entry_ready | 77 | high | constructive_bullish |
-| 7 | [ARVOSK](latest/analysis/markdown/ARVOSK.md) | Pohjanmaan Arvo Sijoitusosuuskunta | entry_ready | 77 | medium | constructive_bullish |
-| 8 | [0AA9](latest/analysis/markdown/0AA9.md) | Storskogen Group AB Series B | entry_ready | 75 | low | constructive_bullish |
-| 9 | [BOHO-PREF](latest/analysis/markdown/BOHO-PREF.md) | Boho Group AB | entry_ready | 75 | high | constructive_bullish |
-| 10 | [RIO1](latest/analysis/markdown/RIO1.md) | Rio Tinto Group | entry_ready | 75 | high | constructive_bullish |
-| 11 | [LOUP](latest/analysis/markdown/LOUP.md) | Societe LDC SA | entry_ready | 74 | low | constructive_watch |
-| 12 | [KREATE](latest/analysis/markdown/KREATE.md) | Kreate Group Oyj | entry_ready | 72 | high | constructive_watch |
-| 13 | [LOIHDE](latest/analysis/markdown/LOIHDE.md) | Loihde Oyj | entry_ready | 70 | medium | constructive_watch |
-| 14 | [BIJ](latest/analysis/markdown/BIJ.md) | Bijou Brigitte modische Accessoires Aktiengesellschaft | entry_ready | 69 | medium | constructive_watch |
-| 15 | [WMA](latest/analysis/markdown/WMA.md) | WindowMaster International AS | entry_ready | 66 | medium | constructive_watch |
+| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [ALRIB](latest/analysis/markdown/ALRIB.md) | Riber S.A | <span style="color:#cf222e">+16.52% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">87</span> | <span style="color:#1a7f37">high</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 2 | [QH9](latest/analysis/markdown/QH9.md) | ADTRAN Holdings Inc. | <span style="color:#9a6700">+1.59% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">83</span> | <span style="color:#1a7f37">high</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 3 | [ALNSE](latest/analysis/markdown/ALNSE.md) | NSE SA | <span style="color:#bc4c00">+4.44% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">82</span> | <span style="color:#1a7f37">high</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 4 | [ALNT](latest/analysis/markdown/ALNT.md) | Alantra Partners S.A. | <span style="color:#9a6700">+1.36% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">79</span> | <span style="color:#9a6700">medium</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 5 | [0QMG](latest/analysis/markdown/0QMG.md) | Swiss Life Holding AG | <span style="color:#9a6700">+1.63% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">77</span> | <span style="color:#9a6700">medium</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 6 | [AKVA](latest/analysis/markdown/AKVA.md) | Akva Group | <span style="color:#bc4c00">+3.70% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">77</span> | <span style="color:#1a7f37">high</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 7 | [ARVOSK](latest/analysis/markdown/ARVOSK.md) | Pohjanmaan Arvo Sijoitusosuuskunta | <span style="color:#9a6700">+2.20% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">77</span> | <span style="color:#9a6700">medium</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 8 | [0AA9](latest/analysis/markdown/0AA9.md) | Storskogen Group AB Series B | <span style="color:#1a7f37">+0.50% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">75</span> | <span style="color:#cf222e">low</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 9 | [BOHO-PREF](latest/analysis/markdown/BOHO-PREF.md) | Boho Group AB | <span style="color:#9a6700">+1.42% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">75</span> | <span style="color:#1a7f37">high</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 10 | [RIO1](latest/analysis/markdown/RIO1.md) | Rio Tinto Group | <span style="color:#9a6700">+2.85% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#1a7f37">75</span> | <span style="color:#1a7f37">high</span> | <span style="color:#1a7f37">constructive_bullish</span> |
+| 11 | [LOUP](latest/analysis/markdown/LOUP.md) | Societe LDC SA | <span style="color:#9a6700">+2.70% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#9a6700">74</span> | <span style="color:#cf222e">low</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 12 | [KREATE](latest/analysis/markdown/KREATE.md) | Kreate Group Oyj | <span style="color:#cf222e">+6.05% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#9a6700">72</span> | <span style="color:#1a7f37">high</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 13 | [LOIHDE](latest/analysis/markdown/LOIHDE.md) | Loihde Oyj | <span style="color:#9a6700">+1.26% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#9a6700">70</span> | <span style="color:#9a6700">medium</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 14 | [BIJ](latest/analysis/markdown/BIJ.md) | Bijou Brigitte modische Accessoires Aktiengesellschaft | <span style="color:#9a6700">+1.38% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#9a6700">69</span> | <span style="color:#9a6700">medium</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 15 | [WMA](latest/analysis/markdown/WMA.md) | WindowMaster International AS | <span style="color:#9a6700">+2.13% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#9a6700">66</span> | <span style="color:#9a6700">medium</span> | <span style="color:#2da44e">constructive_watch</span> |
 
 ## US Best Scoring Candidates
 
@@ -41,14 +41,14 @@ Quick links:
 - Feed dates: `2026-04-11`
 - Symbols analyzed: `6`
 
-| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SPIR](latest/analysis/markdown/SPIR.md) | Spire Global Inc | entry_ready | 66 | high | constructive_watch |
-| 2 | [FRT](latest/analysis/markdown/FRT.md) | Federal Realty Investment Trust | candidate | 63 | high | constructive_watch |
-| 3 | [MRVL](latest/analysis/markdown/MRVL.md) | Marvell Technology Group Ltd | candidate | 61 | high | constructive_watch |
-| 4 | [AXIA](latest/analysis/markdown/AXIA.md) | AXIA Energia | candidate | 57 | high | mixed_watch |
-| 5 | [LION](latest/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | candidate | 52 | low | mixed_watch |
-| 6 | [TIMB](latest/analysis/markdown/TIMB.md) | TIM Participacoes SA | candidate | 50 | high | mixed_watch |
+| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [SPIR](latest/analysis/markdown/SPIR.md) | Spire Global Inc | <span style="color:#cf222e">+5.17% above</span> | <span style="color:#1a7f37">entry_ready</span> | <span style="color:#9a6700">66</span> | <span style="color:#1a7f37">high</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 2 | [FRT](latest/analysis/markdown/FRT.md) | Federal Realty Investment Trust | n/a | <span style="color:#bc4c00">candidate</span> | <span style="color:#9a6700">63</span> | <span style="color:#1a7f37">high</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 3 | [MRVL](latest/analysis/markdown/MRVL.md) | Marvell Technology Group Ltd | n/a | <span style="color:#bc4c00">candidate</span> | <span style="color:#9a6700">61</span> | <span style="color:#1a7f37">high</span> | <span style="color:#2da44e">constructive_watch</span> |
+| 4 | [AXIA](latest/analysis/markdown/AXIA.md) | AXIA Energia | n/a | <span style="color:#bc4c00">candidate</span> | <span style="color:#bc4c00">57</span> | <span style="color:#1a7f37">high</span> | <span style="color:#9a6700">mixed_watch</span> |
+| 5 | [LION](latest/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | n/a | <span style="color:#bc4c00">candidate</span> | <span style="color:#bc4c00">52</span> | <span style="color:#cf222e">low</span> | <span style="color:#9a6700">mixed_watch</span> |
+| 6 | [TIMB](latest/analysis/markdown/TIMB.md) | TIM Participacoes SA | n/a | <span style="color:#bc4c00">candidate</span> | <span style="color:#bc4c00">50</span> | <span style="color:#1a7f37">high</span> | <span style="color:#9a6700">mixed_watch</span> |
 
 ## Column Guide
 

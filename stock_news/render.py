@@ -21,45 +21,95 @@ def _code_html(value: Any) -> str:
     return f"<code>{html.escape(str(value))}</code>"
 
 
-def _score_indicator(score: Any) -> str:
+def _colorize(value: Any, *, color: str, code: bool = False) -> str:
+    inner = _code_html(value) if code else html.escape(str(value))
+    return f'<span style="color:{html.escape(color)}">{inner}</span>'
+
+
+def _score_color(score: Any) -> str:
     try:
         numeric = float(score)
     except (TypeError, ValueError):
-        return "⚪"
+        return "#57606a"
     if numeric >= 75:
-        return "🟢"
+        return "#1a7f37"
     if numeric >= 60:
-        return "🟡"
+        return "#9a6700"
     if numeric >= 45:
-        return "🟠"
-    return "🔴"
+        return "#bc4c00"
+    return "#cf222e"
 
 
-def _confidence_indicator(confidence: Any) -> str:
+def _confidence_color(confidence: Any) -> str:
     lookup = {
-        "high": "🟢",
-        "medium": "🟡",
-        "low": "🔴",
+        "high": "#1a7f37",
+        "medium": "#9a6700",
+        "low": "#cf222e",
     }
-    return lookup.get(str(confidence or "").strip().lower(), "⚪")
+    return lookup.get(str(confidence or "").strip().lower(), "#57606a")
 
 
-def _distance_to_entry_indicator(close: Any, entry_limit: Any) -> str:
+def _bucket_color(bucket: Any) -> str:
+    lookup = {
+        "entry_ready": "#1a7f37",
+        "candidate": "#bc4c00",
+    }
+    return lookup.get(str(bucket or "").strip().lower(), "#57606a")
+
+
+def _stance_color(stance: Any) -> str:
+    normalized = str(stance or "").strip().lower()
+    lookup = {
+        "constructive_bullish": "#1a7f37",
+        "constructive_watch": "#2da44e",
+        "mixed_watch": "#9a6700",
+        "fragile_watch": "#bc4c00",
+        "avoid": "#cf222e",
+    }
+    if normalized in lookup:
+        return lookup[normalized]
+    if normalized.startswith("constructive"):
+        return "#2da44e"
+    if normalized.startswith("mixed"):
+        return "#9a6700"
+    if normalized.startswith("fragile"):
+        return "#bc4c00"
+    if normalized.startswith("avoid"):
+        return "#cf222e"
+    return "#57606a"
+
+
+def _distance_to_entry_color(close: Any, entry_limit: Any) -> str:
     try:
         close_value = float(close)
         entry_value = float(entry_limit)
     except (TypeError, ValueError):
-        return "⚪"
+        return "#57606a"
     if entry_value == 0:
-        return "⚪"
-    pct_above = (close_value - entry_value) / entry_value * 100.0
-    if pct_above <= 1.0:
-        return "🟢"
-    if pct_above <= 3.0:
-        return "🟡"
-    if pct_above <= 5.0:
-        return "🟠"
-    return "🔴"
+        return "#57606a"
+    pct_distance = abs((close_value - entry_value) / entry_value * 100.0)
+    if pct_distance <= 1.0:
+        return "#1a7f37"
+    if pct_distance <= 3.0:
+        return "#9a6700"
+    if pct_distance <= 5.0:
+        return "#bc4c00"
+    return "#cf222e"
+
+
+def _distance_to_entry_label(close: Any, entry_limit: Any) -> str | None:
+    try:
+        close_value = float(close)
+        entry_value = float(entry_limit)
+    except (TypeError, ValueError):
+        return None
+    if entry_value == 0:
+        return None
+    pct_distance = (close_value - entry_value) / entry_value * 100.0
+    if abs(pct_distance) < 0.005:
+        return "at limit"
+    direction = "above" if pct_distance > 0 else "below"
+    return f"{pct_distance:+.2f}% {direction}"
 
 
 def _format_money_with_eur(
@@ -119,11 +169,14 @@ def _execution_rows(item: dict[str, Any], *, eur_rates_context: dict[str, Any] |
             if distance_label:
                 direction = "above" if distance_abs > 0 else "below" if distance_abs < 0 else "at"
                 pct_text = f"{distance_pct:+.2f}%"
-                icon = _distance_to_entry_indicator(close_value, entry_limit_value)
                 rows.append(
                     (
                         "Distance to entry limit",
-                        f"{icon} {_code_html(f'{distance_label} / {pct_text} {direction} limit')}",
+                        _colorize(
+                            f"{distance_label} / {pct_text} {direction} limit",
+                            color=_distance_to_entry_color(close_value, entry_limit_value),
+                            code=True,
+                        ),
                     )
                 )
 
@@ -179,10 +232,10 @@ def _summary_table_lines(
     score = stance.get("score_0_to_100", "n/a")
     confidence = stance.get("confidence", "n/a")
     rows: list[tuple[str, str]] = [
-        ("Breakout stance", f"{_score_indicator(score)} {_code_html(stance.get('label', 'unknown'))}"),
-        ("Score", f"{_score_indicator(score)} {_code_html(score)}"),
-        ("Confidence", f"{_confidence_indicator(confidence)} {_code_html(confidence)}"),
-        ("Bucket", _code_html(item.get("selection_bucket"))),
+        ("Breakout stance", _colorize(stance.get("label", "unknown"), color=_stance_color(stance.get("label")), code=True)),
+        ("Score", _colorize(score, color=_score_color(score), code=True)),
+        ("Confidence", _colorize(confidence, color=_confidence_color(confidence), code=True)),
+        ("Bucket", _colorize(item.get("selection_bucket"), color=_bucket_color(item.get("selection_bucket")), code=True)),
     ]
     rows.extend(_execution_rows(item, eur_rates_context=eur_rates_context))
 
@@ -230,6 +283,29 @@ def _top_score_drivers(components: list[dict[str, Any]], *, limit: int = 4) -> l
     return ranked[:limit]
 
 
+def _distance_to_entry_cell(close: Any, entry_limit: Any) -> str:
+    label = _distance_to_entry_label(close, entry_limit)
+    if not label:
+        return "n/a"
+    return _colorize(label, color=_distance_to_entry_color(close, entry_limit))
+
+
+def _bucket_cell(bucket: Any) -> str:
+    return _colorize(bucket or "n/a", color=_bucket_color(bucket))
+
+
+def _score_cell(score: Any) -> str:
+    return _colorize(score if score not in {None, ""} else "n/a", color=_score_color(score))
+
+
+def _confidence_cell(confidence: Any) -> str:
+    return _colorize(confidence or "n/a", color=_confidence_color(confidence))
+
+
+def _stance_cell(stance: Any) -> str:
+    return _colorize(stance or "unknown", color=_stance_color(stance))
+
+
 def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     lookup = {row["symbol"]: row for row in analysis_rows}
     ranked_items = []
@@ -237,6 +313,7 @@ def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[s
         symbol = item.get("symbol")
         report = lookup.get(symbol, {})
         stance = report.get("breakout_stance", {}) or {}
+        metrics = item.get("metrics", {}) or {}
         ranked_items.append(
             {
                 "symbol": symbol,
@@ -246,6 +323,8 @@ def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[s
                 "score": stance.get("score_0_to_100", 0),
                 "confidence": stance.get("confidence", "n/a"),
                 "stance": stance.get("label", "unknown"),
+                "close": metrics.get("close"),
+                "entry_limit": metrics.get("entry_limit"),
             }
         )
 
@@ -328,24 +407,25 @@ def _best_candidate_section_lines(
             f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
             f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
             "",
-            "| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |",
-            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |",
+            "| --- | --- | --- | --- | --- | --- | --- | --- |",
         ]
     )
 
     for idx, row in enumerate(top_items, start=1):
         symbol = row.get("symbol")
         lines.append(
-            "| {rank} | [{symbol}]({report_prefix}/{file_name}.md) | {company} | {bucket} | {score} | {confidence} | {stance} |".format(
+            "| {rank} | [{symbol}]({report_prefix}/{file_name}.md) | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} |".format(
                 rank=idx,
                 symbol=symbol,
                 report_prefix=report_prefix,
                 file_name=safe_symbol_name(symbol),
                 company=row.get("company_name") or "Unknown Company",
-                bucket=row.get("bucket") or "n/a",
-                score=row.get("score", "n/a"),
-                confidence=row.get("confidence", "n/a"),
-                stance=row.get("stance", "unknown"),
+                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
+                bucket=_bucket_cell(row.get("bucket")),
+                score=_score_cell(row.get("score")),
+                confidence=_confidence_cell(row.get("confidence")),
+                stance=_stance_cell(row.get("stance")),
             )
         )
 
@@ -379,8 +459,8 @@ def _dashboard_section_lines(
             f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
             f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
             "",
-            "| Rank | Symbol | Bucket | Breakout stance | Score | Confidence | Report |",
-            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Rank | Symbol | Distance to entry | Bucket | Breakout stance | Score | Confidence | Report |",
+            "| --- | --- | --- | --- | --- | --- | --- | --- |",
         ]
     )
 
@@ -389,13 +469,14 @@ def _dashboard_section_lines(
         report = lookup.get(symbol, {})
         stance = report.get("breakout_stance", {}) or {}
         lines.append(
-            "| {rank} | {symbol} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_prefix}/{file_name}.md) |".format(
+            "| {rank} | {symbol} | {distance} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_prefix}/{file_name}.md) |".format(
                 rank=item.get("display_rank"),
                 symbol=symbol,
-                bucket=item.get("selection_bucket"),
-                stance_label=stance.get("label", "unknown"),
-                score=stance.get("score_0_to_100", "n/a"),
-                confidence=stance.get("confidence", "n/a"),
+                distance=_distance_to_entry_cell((item.get("metrics") or {}).get("close"), (item.get("metrics") or {}).get("entry_limit")),
+                bucket=_bucket_cell(item.get("selection_bucket")),
+                stance_label=_stance_cell(stance.get("label", "unknown")),
+                score=_score_cell(stance.get("score_0_to_100", "n/a")),
+                confidence=_confidence_cell(stance.get("confidence", "n/a")),
                 report_prefix=report_prefix,
                 file_name=safe_symbol_name(symbol),
             )
@@ -562,8 +643,8 @@ def render_dashboard(
         f"- Feed dates: `{', '.join(manifest.get('feed_dates', []))}`",
         f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
         "",
-        "| Rank | Symbol | Bucket | Stance | Score | Confidence | Report |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Rank | Symbol | Distance to entry | Bucket | Stance | Score | Confidence | Report |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     lookup = {row["symbol"]: row for row in analysis_rows}
@@ -573,13 +654,14 @@ def render_dashboard(
         stance = report.get("breakout_stance", {}) or {}
         report_name = f"{report_prefix}/{safe_symbol_name(symbol)}.md"
         lines.append(
-            "| {rank} | {symbol} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_name}) |".format(
+            "| {rank} | {symbol} | {distance} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_name}) |".format(
                 rank=item.get("display_rank"),
                 symbol=symbol,
-                bucket=item.get("selection_bucket"),
-                stance_label=stance.get("label", "unknown"),
-                score=stance.get("score_0_to_100", "n/a"),
-                confidence=stance.get("confidence", "n/a"),
+                distance=_distance_to_entry_cell((item.get("metrics") or {}).get("close"), (item.get("metrics") or {}).get("entry_limit")),
+                bucket=_bucket_cell(item.get("selection_bucket")),
+                stance_label=_stance_cell(stance.get("label", "unknown")),
+                score=_score_cell(stance.get("score_0_to_100", "n/a")),
+                confidence=_confidence_cell(stance.get("confidence", "n/a")),
                 report_name=report_name,
             )
         )
@@ -608,23 +690,24 @@ def render_best_candidates(
         f"- Feed dates: `{', '.join(manifest.get('feed_dates', []))}`",
         f"- Table size: `{len(top_items)}`",
         "",
-        "| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     for idx, row in enumerate(top_items, start=1):
         symbol = row.get("symbol")
         report_name = f"{report_prefix}/{safe_symbol_name(symbol)}.md"
         lines.append(
-            "| {rank} | [{symbol}]({report_name}) | {company} | {bucket} | {score} | {confidence} | {stance} |".format(
+            "| {rank} | [{symbol}]({report_name}) | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} |".format(
                 rank=idx,
                 symbol=symbol,
                 report_name=report_name,
                 company=row.get("company_name") or "Unknown Company",
-                bucket=row.get("bucket") or "n/a",
-                score=row.get("score", "n/a"),
-                confidence=row.get("confidence", "n/a"),
-                stance=row.get("stance", "unknown"),
+                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
+                bucket=_bucket_cell(row.get("bucket")),
+                score=_score_cell(row.get("score")),
+                confidence=_confidence_cell(row.get("confidence")),
+                stance=_stance_cell(row.get("stance")),
             )
         )
 
@@ -660,22 +743,23 @@ def render_project_readme(
         "",
         "## Best Scoring Candidates",
         "",
-        "| Rank | Symbol | Company | Bucket | Score | Confidence | Breakout stance |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     for idx, row in enumerate(top_items, start=1):
         symbol = row.get("symbol")
         lines.append(
-            "| {rank} | [{symbol}](latest/analysis/markdown/{file_name}.md) | {company} | {bucket} | {score} | {confidence} | {stance} |".format(
+            "| {rank} | [{symbol}](latest/analysis/markdown/{file_name}.md) | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} |".format(
                 rank=idx,
                 symbol=symbol,
                 file_name=safe_symbol_name(symbol),
                 company=row.get("company_name") or "Unknown Company",
-                bucket=row.get("bucket") or "n/a",
-                score=row.get("score", "n/a"),
-                confidence=row.get("confidence", "n/a"),
-                stance=row.get("stance", "unknown"),
+                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
+                bucket=_bucket_cell(row.get("bucket")),
+                score=_score_cell(row.get("score")),
+                confidence=_confidence_cell(row.get("confidence")),
+                stance=_stance_cell(row.get("stance")),
             )
         )
 
