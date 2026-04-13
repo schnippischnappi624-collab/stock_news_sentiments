@@ -1,5 +1,7 @@
 # NONG - Sparebank 1 Nord-Norge
 
+- Quote: [Yahoo Finance (NONG.OL)](<https://finance.yahoo.com/quote/NONG.OL>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

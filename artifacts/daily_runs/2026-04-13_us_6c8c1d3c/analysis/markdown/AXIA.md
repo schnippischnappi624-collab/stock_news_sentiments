@@ -1,5 +1,7 @@
 # AXIA - AXIA Energia
 
+- Quote: [Yahoo Finance (AXIA)](<https://finance.yahoo.com/quote/AXIA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

@@ -1,5 +1,7 @@
 # ISS - ISS A/S
 
+- Quote: [Yahoo Finance (ISS.CO)](<https://finance.yahoo.com/quote/ISS.CO>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

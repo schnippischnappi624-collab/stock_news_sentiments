@@ -1,5 +1,7 @@
 # SPIR - Spire Global Inc
 
+- Quote: [Yahoo Finance (SPIR)](<https://finance.yahoo.com/quote/SPIR>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

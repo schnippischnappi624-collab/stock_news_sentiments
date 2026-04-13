@@ -459,7 +459,12 @@ def run_analysis_step(
 
             write_json(report_json_path, report)
 
-        markdown = render_analysis_markdown(report, item, eur_rates_context=eur_rates_context)
+        markdown = render_analysis_markdown(
+            report,
+            item,
+            eur_rates_context=eur_rates_context,
+            news_context=news_context,
+        )
         markdown_path = layout["analysis_markdown_dir"] / f"{safe_symbol_name(symbol)}.md"
         markdown_path.write_text(markdown, encoding="utf-8")
         results.append(report)

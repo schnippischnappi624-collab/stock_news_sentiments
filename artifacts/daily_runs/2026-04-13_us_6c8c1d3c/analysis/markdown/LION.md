@@ -1,5 +1,7 @@
 # LION - Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.)
 
+- Quote: [Yahoo Finance (LION)](<https://finance.yahoo.com/quote/LION>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

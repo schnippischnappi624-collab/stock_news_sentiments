@@ -1,5 +1,7 @@
 # ACRI-B - Acrinova AB Series B
 
+- Quote: [Yahoo Finance (ACRI-B.ST)](<https://finance.yahoo.com/quote/ACRI-B.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

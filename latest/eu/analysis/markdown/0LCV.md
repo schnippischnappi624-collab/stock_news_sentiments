@@ -1,5 +1,7 @@
 # 0LCV - Taiwan Semiconductor Manufacturing Co. Ltd. ADR
 
+- Quote: [Yahoo Finance (0LCV)](<https://finance.yahoo.com/quote/0LCV>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

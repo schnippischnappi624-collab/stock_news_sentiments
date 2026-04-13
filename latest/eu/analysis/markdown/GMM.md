@@ -1,5 +1,7 @@
 # GMM - Grammer AG
 
+- Quote: [Yahoo Finance (GMM.DE)](<https://finance.yahoo.com/quote/GMM.DE>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

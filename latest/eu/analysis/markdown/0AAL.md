@@ -1,5 +1,7 @@
 # 0AAL - Allfunds Group PLC
 
+- Quote: [Yahoo Finance (0AAL)](<https://finance.yahoo.com/quote/0AAL>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

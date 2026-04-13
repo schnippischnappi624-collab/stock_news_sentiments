@@ -1,5 +1,7 @@
 # GURN - Gurit Holding AG
 
+- Quote: [Yahoo Finance (GURN)](<https://finance.yahoo.com/quote/GURN>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

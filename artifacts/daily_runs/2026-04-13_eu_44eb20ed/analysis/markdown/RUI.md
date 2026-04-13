@@ -1,5 +1,7 @@
 # RUI - Rubis SCA
 
+- Quote: [Yahoo Finance (RUI.PA)](<https://finance.yahoo.com/quote/RUI.PA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

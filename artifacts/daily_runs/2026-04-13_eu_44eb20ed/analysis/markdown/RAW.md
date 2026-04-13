@@ -1,5 +1,7 @@
 # RAW - Raiffeisen Bank International AG
 
+- Quote: [Yahoo Finance (RAW.DE)](<https://finance.yahoo.com/quote/RAW.DE>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

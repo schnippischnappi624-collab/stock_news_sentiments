@@ -1,5 +1,7 @@
 # INSTAL - Instalco Intressenter AB
 
+- Quote: [Yahoo Finance (INSTAL.ST)](<https://finance.yahoo.com/quote/INSTAL.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

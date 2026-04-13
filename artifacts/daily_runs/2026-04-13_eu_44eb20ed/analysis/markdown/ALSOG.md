@@ -1,5 +1,7 @@
 # ALSOG - Sogeclair SA
 
+- Quote: [Yahoo Finance (ALSOG.PA)](<https://finance.yahoo.com/quote/ALSOG.PA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

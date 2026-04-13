@@ -1,5 +1,7 @@
 # WHA - Wereldhave NV
 
+- Quote: [Yahoo Finance (WHA)](<https://finance.yahoo.com/quote/WHA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

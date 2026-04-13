@@ -1,5 +1,7 @@
 # FGR - Eiffage SA
 
+- Quote: [Yahoo Finance (FGR.PA)](<https://finance.yahoo.com/quote/FGR.PA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#bc4c00}{\texttt{fragile watch}}$ |

@@ -1,5 +1,7 @@
 # VTURA - Ventura Offshore Holding Ltd.
 
+- Quote: [Yahoo Finance (VTURA.OL)](<https://finance.yahoo.com/quote/VTURA.OL>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

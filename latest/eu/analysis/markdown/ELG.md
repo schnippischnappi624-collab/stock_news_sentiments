@@ -1,5 +1,7 @@
 # ELG - Elmos Semiconductor SE
 
+- Quote: [Yahoo Finance (ELG.DE)](<https://finance.yahoo.com/quote/ELG.DE>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

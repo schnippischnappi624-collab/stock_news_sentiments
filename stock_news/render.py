@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from typing import Any
+from urllib.parse import quote
 
 from stock_news.fx import convert_to_eur
 from stock_news.regions import REGION_ORDER, normalize_region
@@ -57,6 +58,23 @@ def _md_link(label: Any, url: str) -> str:
     if not safe_url:
         return safe_label
     return f"[{safe_label}](<{safe_url}>)"
+
+
+def _yahoo_finance_quote_symbol(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
+    profile = ((news_context or {}).get("company_profile") or {}) if isinstance(news_context, dict) else {}
+    for candidate in (profile.get("query_symbol"), profile.get("symbol"), item.get("symbol")):
+        value = str(candidate or "").strip()
+        if value:
+            return value
+    return None
+
+
+def _yahoo_finance_quote_url(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
+    quote_symbol = _yahoo_finance_quote_symbol(item, news_context)
+    if not quote_symbol:
+        return None
+    encoded_symbol = quote(quote_symbol, safe=".-_")
+    return f"https://finance.yahoo.com/quote/{encoded_symbol}"
 
 
 def _colorize(
@@ -593,6 +611,7 @@ def render_analysis_markdown(
     item: dict[str, Any],
     *,
     eur_rates_context: dict[str, Any] | None = None,
+    news_context: dict[str, Any] | None = None,
 ) -> str:
     stance = report.get("breakout_stance", {}) or {}
     news_support = report.get("news_support", {}) or {}
@@ -610,11 +629,18 @@ def render_analysis_markdown(
         or market_overlay.get("adverse_effects")
         or (market_overlay.get("exposures") or [])
     )
+    yahoo_finance_url = _yahoo_finance_quote_url(item, news_context)
+    yahoo_finance_symbol = _yahoo_finance_quote_symbol(item, news_context)
 
     lines = [
         f"# {_md_text(item.get('symbol'))} - {_md_text(item.get('company_name') or 'Unknown Company')}",
         "",
     ]
+    if yahoo_finance_url:
+        label = "Yahoo Finance"
+        if yahoo_finance_symbol:
+            label = f"Yahoo Finance ({yahoo_finance_symbol})"
+        lines.extend([f"- Quote: {_md_link(label, yahoo_finance_url)}", ""])
     lines.extend(_summary_table_lines(item, stance, eur_rates_context=eur_rates_context))
 
     lines.extend(

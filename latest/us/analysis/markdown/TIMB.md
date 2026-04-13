@@ -1,5 +1,7 @@
 # TIMB - TIM Participacoes SA
 
+- Quote: [Yahoo Finance (TIMB)](<https://finance.yahoo.com/quote/TIMB>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

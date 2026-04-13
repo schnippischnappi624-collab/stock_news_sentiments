@@ -1,5 +1,7 @@
 # NEA - Nicolas Correa SA
 
+- Quote: [Yahoo Finance (NEA.MC)](<https://finance.yahoo.com/quote/NEA.MC>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

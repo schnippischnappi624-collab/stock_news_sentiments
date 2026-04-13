@@ -1,5 +1,7 @@
 # CTEK - Ctek AB
 
+- Quote: [Yahoo Finance (CTEK.ST)](<https://finance.yahoo.com/quote/CTEK.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

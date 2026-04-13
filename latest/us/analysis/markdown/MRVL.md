@@ -1,5 +1,7 @@
 # MRVL - Marvell Technology Group Ltd
 
+- Quote: [Yahoo Finance (MRVL)](<https://finance.yahoo.com/quote/MRVL>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

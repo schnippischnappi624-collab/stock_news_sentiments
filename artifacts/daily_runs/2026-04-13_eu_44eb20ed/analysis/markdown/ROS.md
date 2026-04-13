@@ -1,5 +1,7 @@
 # ROS - Rosenbauer International AG
 
+- Quote: [Yahoo Finance (ROS)](<https://finance.yahoo.com/quote/ROS>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

@@ -1,5 +1,7 @@
 # PLEJD - Plejd AB
 
+- Quote: [Yahoo Finance (PLEJD.ST)](<https://finance.yahoo.com/quote/PLEJD.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

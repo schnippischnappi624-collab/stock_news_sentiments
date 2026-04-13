@@ -1,5 +1,7 @@
 # GRNG - Gränges AB (publ)
 
+- Quote: [Yahoo Finance (GRNG.ST)](<https://finance.yahoo.com/quote/GRNG.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

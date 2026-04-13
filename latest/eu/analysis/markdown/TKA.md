@@ -1,5 +1,7 @@
 # TKA - Telekom Austria AG
 
+- Quote: [Yahoo Finance (TKA)](<https://finance.yahoo.com/quote/TKA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

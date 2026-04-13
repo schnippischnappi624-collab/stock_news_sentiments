@@ -1,5 +1,7 @@
 # ADKO - Addiko Bank AG
 
+- Quote: [Yahoo Finance (ADKO)](<https://finance.yahoo.com/quote/ADKO>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

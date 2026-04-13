@@ -1,5 +1,7 @@
 # FRT - Federal Realty Investment Trust
 
+- Quote: [Yahoo Finance (FRT)](<https://finance.yahoo.com/quote/FRT>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

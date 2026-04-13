@@ -1,5 +1,7 @@
 # APETIT - Apetit Oyj
 
+- Quote: [Yahoo Finance (APETIT.HE)](<https://finance.yahoo.com/quote/APETIT.HE>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

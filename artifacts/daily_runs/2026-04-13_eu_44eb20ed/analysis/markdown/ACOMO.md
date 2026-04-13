@@ -1,5 +1,7 @@
 # ACOMO - Amsterdam Commodities NV
 
+- Quote: [Yahoo Finance (ACOMO)](<https://finance.yahoo.com/quote/ACOMO>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

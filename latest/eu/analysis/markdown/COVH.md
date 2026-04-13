@@ -1,5 +1,7 @@
 # COVH - Covivio Hotels
 
+- Quote: [Yahoo Finance (COVH.PA)](<https://finance.yahoo.com/quote/COVH.PA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |

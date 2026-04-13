@@ -1,5 +1,7 @@
 # ACAD - AcadeMedia AB (publ)
 
+- Quote: [Yahoo Finance (ACAD.ST)](<https://finance.yahoo.com/quote/ACAD.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#bc4c00}{\texttt{fragile watch}}$ |

@@ -1,5 +1,7 @@
 # PEAB-B - Peab AB (publ)
 
+- Quote: [Yahoo Finance (PEAB-B.ST)](<https://finance.yahoo.com/quote/PEAB-B.ST>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#9a6700}{\texttt{mixed watch}}$ |

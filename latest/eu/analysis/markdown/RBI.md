@@ -1,5 +1,7 @@
 # RBI - Raiffeisen Bank International AG
 
+- Quote: [Yahoo Finance (RBI)](<https://finance.yahoo.com/quote/RBI>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#1a7f37}{\texttt{constructive bullish}}$ |

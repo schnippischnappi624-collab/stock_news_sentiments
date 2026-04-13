@@ -1,5 +1,7 @@
 # ARVEN - ARVERNE GROUP
 
+- Quote: [Yahoo Finance (ARVEN.PA)](<https://finance.yahoo.com/quote/ARVEN.PA>)
+
 |  |  |
 | --- | --- |
 | **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |
