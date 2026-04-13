@@ -1,15 +1,13 @@
 # LION - Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.)
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-3e35d8af64573920.svg" alt="mixed_watch" title="mixed_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-abbb89c4fb27c97c.svg" alt="52" title="52" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-6fffcbfe7ae402b0.svg" alt="low" title="low" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-f7fd25c4cc40dd06.svg" alt="candidate" title="candidate" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>10.88 USD (9.29 EUR)</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>10.72 USD (9.15 EUR)</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#9a6700}{\texttt{mixed\_watch}}$ |
+| **Score** | $\color{#bc4c00}{\texttt{52}}$ |
+| **Confidence** | $\color{#cf222e}{\texttt{low}}$ |
+| **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Current price** | `10.88 USD (9.29 EUR)` |
+| **Prior 20d high trigger** | `10.72 USD (9.15 EUR)` |
 
 ## Investment View
 LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

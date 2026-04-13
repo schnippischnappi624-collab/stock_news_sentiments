@@ -1,21 +1,19 @@
 # KREATE - Kreate Group Oyj
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-4aa989133759f393.svg" alt="72" title="72" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>16.25 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>15.32 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-32330662147543b6.svg" alt="0.93 EUR / +6.05%" title="0.93 EUR / +6.05%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>14.40 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>15.40 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>17.16 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>18.09 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>0.92 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{72}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `16.25 EUR` |
+| **Entry limit** | `15.32 EUR` |
+| **Distance to entry limit** | $\color{#cf222e}{\texttt{0.93 EUR / +6.05\%}}$ |
+| **Initial stop** | `14.40 EUR` |
+| **Prior 20d high trigger** | `15.40 EUR` |
+| **2R target** | `17.16 EUR` |
+| **3R target** | `18.09 EUR` |
+| **Risk distance** | `0.92 EUR` |
 
 ## Investment View
 KREATE scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

@@ -1,21 +1,19 @@
 # BIJ - Bijou Brigitte modische Accessoires Aktiengesellschaft
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-a1e01d4696860e67.svg" alt="69" title="69" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f306006978f0e8c4.svg" alt="medium" title="medium" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>46.00 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>45.37 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-129a622f829c322a.svg" alt="0.63 EUR / +1.38%" title="0.63 EUR / +1.38%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>42.79 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>45.60 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>50.53 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>53.11 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>2.58 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{69}}$ |
+| **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `46.00 EUR` |
+| **Entry limit** | `45.37 EUR` |
+| **Distance to entry limit** | $\color{#9a6700}{\texttt{0.63 EUR / +1.38\%}}$ |
+| **Initial stop** | `42.79 EUR` |
+| **Prior 20d high trigger** | `45.60 EUR` |
+| **2R target** | `50.53 EUR` |
+| **3R target** | `53.11 EUR` |
+| **Risk distance** | `2.58 EUR` |
 
 ## Investment View
 BIJ scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

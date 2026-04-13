@@ -1,21 +1,19 @@
 # ALNT - Alantra Partners S.A.
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-8ec8ca0336c56a05.svg" alt="constructive_bullish" title="constructive_bullish" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-2fc7f3e2deed577c.svg" alt="79" title="79" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f306006978f0e8c4.svg" alt="medium" title="medium" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>9.42 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>9.29 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-0b250f3f738cc177.svg" alt="0.13 EUR / +1.36%" title="0.13 EUR / +1.36%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>8.87 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>9.34 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>10.14 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>10.56 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>0.42 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Score** | $\color{#1a7f37}{\texttt{79}}$ |
+| **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `9.42 EUR` |
+| **Entry limit** | `9.29 EUR` |
+| **Distance to entry limit** | $\color{#9a6700}{\texttt{0.13 EUR / +1.36\%}}$ |
+| **Initial stop** | `8.87 EUR` |
+| **Prior 20d high trigger** | `9.34 EUR` |
+| **2R target** | `10.14 EUR` |
+| **3R target** | `10.56 EUR` |
+| **Risk distance** | `0.42 EUR` |
 
 ## Investment View
 ALNT scores 79/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

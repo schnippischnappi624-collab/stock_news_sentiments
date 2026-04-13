@@ -1,21 +1,19 @@
 # ALNSE - NSE SA
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-8ec8ca0336c56a05.svg" alt="constructive_bullish" title="constructive_bullish" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-784e3877854c553d.svg" alt="82" title="82" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>53.00 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>50.74 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-ab2eed1955dff8c4.svg" alt="2.26 EUR / +4.44%" title="2.26 EUR / +4.44%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>48.34 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>51.00 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>55.55 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>57.95 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>2.40 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Score** | $\color{#1a7f37}{\texttt{82}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `53.00 EUR` |
+| **Entry limit** | `50.74 EUR` |
+| **Distance to entry limit** | $\color{#bc4c00}{\texttt{2.26 EUR / +4.44\%}}$ |
+| **Initial stop** | `48.34 EUR` |
+| **Prior 20d high trigger** | `51.00 EUR` |
+| **2R target** | `55.55 EUR` |
+| **3R target** | `57.95 EUR` |
+| **Risk distance** | `2.40 EUR` |
 
 ## Investment View
 ALNSE scores 82/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

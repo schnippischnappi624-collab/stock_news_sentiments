@@ -1,21 +1,19 @@
 # ALRIB - Riber S.A
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-8ec8ca0336c56a05.svg" alt="constructive_bullish" title="constructive_bullish" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-f0e1bc91ecc7c806.svg" alt="87" title="87" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>7.13 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>6.12 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-a0d9ae7baedf56fc.svg" alt="1.01 EUR / +16.52%" title="1.01 EUR / +16.52%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>5.44 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>6.15 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>7.47 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>8.15 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>0.68 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Score** | $\color{#1a7f37}{\texttt{87}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `7.13 EUR` |
+| **Entry limit** | `6.12 EUR` |
+| **Distance to entry limit** | $\color{#cf222e}{\texttt{1.01 EUR / +16.52\%}}$ |
+| **Initial stop** | `5.44 EUR` |
+| **Prior 20d high trigger** | `6.15 EUR` |
+| **2R target** | `7.47 EUR` |
+| **3R target** | `8.15 EUR` |
+| **Risk distance** | `0.68 EUR` |
 
 ## Investment View
 ALRIB scores 87/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

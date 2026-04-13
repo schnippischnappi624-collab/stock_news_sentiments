@@ -1,21 +1,19 @@
 # WMA - WindowMaster International AS
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-e2cf71dd96411ff8.svg" alt="66" title="66" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f306006978f0e8c4.svg" alt="medium" title="medium" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>940.00 DKK (125.79 EUR)</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>920.38 DKK (123.16 EUR)</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-0bc88096dd2caec2.svg" alt="19.62 DKK (2.63 EUR) / +2.13%" title="19.62 DKK (2.63 EUR) / +2.13%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>873.90 DKK (116.95 EUR)</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>925.00 DKK (123.78 EUR)</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>1,013.33 DKK (135.60 EUR)</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>1,059.80 DKK (141.82 EUR)</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>46.48 DKK (6.22 EUR)</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{66}}$ |
+| **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `940.00 DKK (125.79 EUR)` |
+| **Entry limit** | `920.38 DKK (123.16 EUR)` |
+| **Distance to entry limit** | $\color{#9a6700}{\texttt{19.62 DKK (2.63 EUR) / +2.13\%}}$ |
+| **Initial stop** | `873.90 DKK (116.95 EUR)` |
+| **Prior 20d high trigger** | `925.00 DKK (123.78 EUR)` |
+| **2R target** | `1,013.33 DKK (135.60 EUR)` |
+| **3R target** | `1,059.80 DKK (141.82 EUR)` |
+| **Risk distance** | `46.48 DKK (6.22 EUR)` |
 
 ## Investment View
 WMA scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

@@ -393,10 +393,9 @@ def run_analysis_step(
     expected_symbols = {str(item.get("symbol")) for item in shortlist.get("symbols", []) if item.get("symbol")}
     _remove_stale_analysis_outputs(layout, expected_symbols)
     eur_rates_context = _load_eur_rates_context(manifest, paths=paths)
-    badge_assets_dir = layout["analysis_markdown_dir"] / "_badges"
-    if badge_assets_dir.exists():
-        shutil.rmtree(badge_assets_dir)
-    badge_assets_dir.mkdir(parents=True, exist_ok=True)
+    legacy_badges_dir = layout["analysis_markdown_dir"] / "_badges"
+    if legacy_badges_dir.exists():
+        shutil.rmtree(legacy_badges_dir)
     results = []
     for item in shortlist.get("symbols", []):
         symbol = item.get("symbol")
@@ -460,12 +459,7 @@ def run_analysis_step(
 
             write_json(report_json_path, report)
 
-        markdown = render_analysis_markdown(
-            report,
-            item,
-            eur_rates_context=eur_rates_context,
-            badge_assets_dir=badge_assets_dir,
-        )
+        markdown = render_analysis_markdown(report, item, eur_rates_context=eur_rates_context)
         markdown_path = layout["analysis_markdown_dir"] / f"{safe_symbol_name(symbol)}.md"
         markdown_path.write_text(markdown, encoding="utf-8")
         results.append(report)
@@ -475,7 +469,6 @@ def run_analysis_step(
         shortlist,
         results,
         report_prefix="analysis/markdown",
-        badge_assets_dir=badge_assets_dir,
     )
     layout["dashboard_path"].write_text(dashboard, encoding="utf-8")
     best_candidates = render_best_candidates(
@@ -484,7 +477,6 @@ def run_analysis_step(
         results,
         report_prefix="analysis/markdown",
         top_n=15,
-        badge_assets_dir=badge_assets_dir,
     )
     layout["best_candidates_path"].write_text(best_candidates, encoding="utf-8")
 

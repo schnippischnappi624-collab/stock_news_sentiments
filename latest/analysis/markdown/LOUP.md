@@ -1,21 +1,19 @@
 # LOUP - Societe LDC SA
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-cdb5a44c4a31417e.svg" alt="74" title="74" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-6fffcbfe7ae402b0.svg" alt="low" title="low" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>103.00 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>100.30 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-c00edff252e27040.svg" alt="2.70 EUR / +2.70%" title="2.70 EUR / +2.70%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>97.16 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>100.80 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>106.56 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>109.70 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>3.13 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{74}}$ |
+| **Confidence** | $\color{#cf222e}{\texttt{low}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `103.00 EUR` |
+| **Entry limit** | `100.30 EUR` |
+| **Distance to entry limit** | $\color{#9a6700}{\texttt{2.70 EUR / +2.70\%}}$ |
+| **Initial stop** | `97.16 EUR` |
+| **Prior 20d high trigger** | `100.80 EUR` |
+| **2R target** | `106.56 EUR` |
+| **3R target** | `109.70 EUR` |
+| **Risk distance** | `3.13 EUR` |
 
 ## Investment View
 LOUP scores 74/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 2 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

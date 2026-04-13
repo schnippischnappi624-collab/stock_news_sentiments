@@ -1,15 +1,13 @@
 # AXIA - AXIA Energia
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-3e35d8af64573920.svg" alt="mixed_watch" title="mixed_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-3a8dd1d095fec2fe.svg" alt="57" title="57" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-f7fd25c4cc40dd06.svg" alt="candidate" title="candidate" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>13.03 USD (11.13 EUR)</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>12.70 USD (10.84 EUR)</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#9a6700}{\texttt{mixed\_watch}}$ |
+| **Score** | $\color{#bc4c00}{\texttt{57}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Current price** | `13.03 USD (11.13 EUR)` |
+| **Prior 20d high trigger** | `12.70 USD (10.84 EUR)` |
 
 ## Investment View
 AXIA scores 57/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

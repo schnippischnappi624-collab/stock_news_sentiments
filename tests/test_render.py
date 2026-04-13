@@ -1,9 +1,7 @@
-from pathlib import Path
-
 from stock_news.render import render_analysis_markdown, render_regional_project_readme
 
 
-def test_render_analysis_markdown_includes_sections(tmp_path: Path) -> None:
+def test_render_analysis_markdown_includes_sections() -> None:
     item = {
         "symbol": "SPIR",
         "company_name": "Spire Global Inc",
@@ -63,7 +61,6 @@ def test_render_analysis_markdown_includes_sections(tmp_path: Path) -> None:
         report,
         item,
         eur_rates_context={"rate_date": "2026-04-11", "rates": {"EUR": 1.0, "USD": 2.0}},
-        badge_assets_dir=tmp_path / "_badges",
     )
 
     assert "# SPIR - Spire Global Inc" in markdown
@@ -75,16 +72,14 @@ def test_render_analysis_markdown_includes_sections(tmp_path: Path) -> None:
     assert "## Market Overlay" in markdown
     assert "Stock-news coverage quality" in markdown
     assert "Macro overlay weight used in scoring" in markdown
-    assert "<table>" in markdown
-    assert '<td><strong>Breakout stance</strong></td><td><img src="_badges/' in markdown
-    assert '<td><strong>Score</strong></td><td><img src="_badges/' in markdown
-    assert '<td><strong>Confidence</strong></td><td><img src="_badges/' in markdown
-    assert "<td><strong>Current price</strong></td><td><code>21.56 USD (10.78 EUR)</code></td>" in markdown
-    assert "<td><strong>Entry limit</strong></td><td><code>20.50 USD (10.25 EUR)</code></td>" in markdown
-    assert '<td><strong>Distance to entry limit</strong></td><td><img src="_badges/' in markdown
-    assert "<td><strong>Initial stop</strong></td><td><code>17.83 USD (8.91 EUR)</code></td>" in markdown
-    badge_files = list((tmp_path / "_badges").glob("*.svg"))
-    assert badge_files
+    assert "|  |  |" in markdown
+    assert r"| **Breakout stance** | $\color{#2da44e}{\texttt{constructive}}$ |" in markdown
+    assert r"| **Score** | $\color{#9a6700}{\texttt{72}}$ |" in markdown
+    assert r"| **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |" in markdown
+    assert "| **Current price** | `21.56 USD (10.78 EUR)` |" in markdown
+    assert "| **Entry limit** | `20.50 USD (10.25 EUR)` |" in markdown
+    assert r"| **Distance to entry limit** | $\color{#cf222e}{\texttt{1.06 USD (0.53 EUR) / +5.17\%}}$ |" in markdown
+    assert "| **Initial stop** | `17.83 USD (8.91 EUR)` |" in markdown
 
 
 def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
@@ -144,7 +139,7 @@ def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:
     assert "Distance to entry" in markdown
     assert "[AKVA](latest/eu/analysis/markdown/AKVA.md)" in markdown
     assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in markdown
-    assert 'latest/eu/analysis/markdown/_badges/' in markdown
-    assert 'latest/us/analysis/markdown/_badges/' in markdown
+    assert r"$\color{#1a7f37}{\textsf{entry\_ready}}$" in markdown
+    assert r"$\color{#9a6700}{\textsf{mixed\_watch}}$" in markdown
     assert "## Temporarily Omitted Penny Stocks" in markdown
     assert "`EU` `CHEAP` - Cheap Nordic - `8.00 SEK` (0.80 EUR)" in markdown

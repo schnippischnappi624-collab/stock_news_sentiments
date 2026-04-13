@@ -1,15 +1,13 @@
 # TIMB - TIM Participacoes SA
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-3e35d8af64573920.svg" alt="mixed_watch" title="mixed_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-43b002d7ab590952.svg" alt="50" title="50" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-f7fd25c4cc40dd06.svg" alt="candidate" title="candidate" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>27.96 USD (23.87 EUR)</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>27.64 USD (23.60 EUR)</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#9a6700}{\texttt{mixed\_watch}}$ |
+| **Score** | $\color{#bc4c00}{\texttt{50}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Current price** | `27.96 USD (23.87 EUR)` |
+| **Prior 20d high trigger** | `27.64 USD (23.60 EUR)` |
 
 ## Investment View
 TIMB scores 50/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

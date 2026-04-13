@@ -1,21 +1,19 @@
 # RIO1 - Rio Tinto Group
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-8ec8ca0336c56a05.svg" alt="constructive_bullish" title="constructive_bullish" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-453c62ac20164378.svg" alt="75" title="75" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>84.28 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>81.95 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-1d74bc4e08f6a9d4.svg" alt="2.33 EUR / +2.85%" title="2.33 EUR / +2.85%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>78.08 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>82.36 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>89.68 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>93.55 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>3.87 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#1a7f37}{\texttt{constructive\_bullish}}$ |
+| **Score** | $\color{#1a7f37}{\texttt{75}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `84.28 EUR` |
+| **Entry limit** | `81.95 EUR` |
+| **Distance to entry limit** | $\color{#9a6700}{\texttt{2.33 EUR / +2.85\%}}$ |
+| **Initial stop** | `78.08 EUR` |
+| **Prior 20d high trigger** | `82.36 EUR` |
+| **2R target** | `89.68 EUR` |
+| **3R target** | `93.55 EUR` |
+| **Risk distance** | `3.87 EUR` |
 
 ## Investment View
 RIO1 scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

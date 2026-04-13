@@ -1,15 +1,13 @@
 # FRT - Federal Realty Investment Trust
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-52c178d969bf5953.svg" alt="63" title="63" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-f7fd25c4cc40dd06.svg" alt="candidate" title="candidate" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>109.05 USD (93.12 EUR)</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>108.54 USD (92.68 EUR)</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{63}}$ |
+| **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
+| **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Current price** | `109.05 USD (93.12 EUR)` |
+| **Prior 20d high trigger** | `108.54 USD (92.68 EUR)` |
 
 ## Investment View
 FRT scores 63/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 7 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

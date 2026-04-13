@@ -1,21 +1,19 @@
 # LOIHDE - Loihde Oyj
 
-<table>
-<tbody>
-<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
-<tr><td><strong>Score</strong></td><td><img src="_badges/badge-57cb10e59c1d41c8.svg" alt="70" title="70" height="22" /></td></tr>
-<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f306006978f0e8c4.svg" alt="medium" title="medium" height="22" /></td></tr>
-<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
-<tr><td><strong>Current price</strong></td><td><code>13.35 EUR</code></td></tr>
-<tr><td><strong>Entry limit</strong></td><td><code>13.18 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-f36cc9da7684e082.svg" alt="0.17 EUR / +1.26%" title="0.17 EUR / +1.26%" height="22" /></td></tr>
-<tr><td><strong>Initial stop</strong></td><td><code>12.72 EUR</code></td></tr>
-<tr><td><strong>Prior 20d high trigger</strong></td><td><code>13.25 EUR</code></td></tr>
-<tr><td><strong>2R target</strong></td><td><code>14.11 EUR</code></td></tr>
-<tr><td><strong>3R target</strong></td><td><code>14.57 EUR</code></td></tr>
-<tr><td><strong>Risk distance</strong></td><td><code>0.46 EUR</code></td></tr>
-</tbody>
-</table>
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive\_watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{70}}$ |
+| **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry\_ready}}$ |
+| **Current price** | `13.35 EUR` |
+| **Entry limit** | `13.18 EUR` |
+| **Distance to entry limit** | $\color{#9a6700}{\texttt{0.17 EUR / +1.26\%}}$ |
+| **Initial stop** | `12.72 EUR` |
+| **Prior 20d high trigger** | `13.25 EUR` |
+| **2R target** | `14.11 EUR` |
+| **3R target** | `14.57 EUR` |
+| **Risk distance** | `0.46 EUR` |
 
 ## Investment View
 LOIHDE scores 70/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

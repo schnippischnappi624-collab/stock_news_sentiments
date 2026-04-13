@@ -1,8 +1,5 @@
 from __future__ import annotations
 
-import hashlib
-import html
-from pathlib import Path
 from typing import Any
 
 from stock_news.fx import convert_to_eur
@@ -20,51 +17,24 @@ def _metric_num(value: Any, *, digits: int = 2) -> str | None:
 
 
 def _code_html(value: Any) -> str:
-    return f"<code>{html.escape(str(value))}</code>"
+    return f"`{value}`"
 
 
-def _badge_file_name(value: Any, *, color: str, code: bool) -> str:
-    digest = hashlib.sha1(f"{value}|{color}|{int(code)}".encode("utf-8")).hexdigest()[:16]
-    return f"badge-{digest}.svg"
-
-
-def _badge_svg(value: Any, *, color: str, code: bool) -> str:
-    label = str(value)
-    label_xml = html.escape(label)
-    width = max(44, int(round(len(label) * (8.4 if code else 7.8) + 22)))
-    font_family = (
-        "ui-monospace, SFMono-Regular, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace"
-        if code
-        else "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
-    )
-    font_size = "14" if code else "13"
-    font_weight = "500" if code else "600"
-    return (
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="24" role="img" aria-label="{label_xml}">'
-        f'<rect x="0.5" y="0.5" width="{width - 1}" height="23" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>'
-        f'<text x="{width / 2:.1f}" y="15" text-anchor="middle" font-family="{font_family}" '
-        f'font-size="{font_size}" font-weight="{font_weight}" fill="{html.escape(color)}">{label_xml}</text>'
-        "</svg>\n"
-    )
-
-
-def _badge_image(
-    value: Any,
-    *,
-    color: str,
-    code: bool = False,
-    badge_path_prefix: str,
-    badge_assets_dir: Path | None = None,
-) -> str:
-    file_name = _badge_file_name(value, color=color, code=code)
-    if badge_assets_dir is not None:
-        badge_assets_dir.mkdir(parents=True, exist_ok=True)
-        badge_path = badge_assets_dir / file_name
-        if not badge_path.exists():
-            badge_path.write_text(_badge_svg(value, color=color, code=code), encoding="utf-8")
-    src = f"{badge_path_prefix.rstrip('/')}/{file_name}"
-    alt = html.escape(str(value))
-    return f'<img src="{html.escape(src)}" alt="{alt}" title="{alt}" height="22" />'
+def _escape_tex_text(value: Any) -> str:
+    escaped = str(value)
+    replacements = {
+        "\\": r"\backslash{}",
+        "{": r"\{",
+        "}": r"\}",
+        "_": r"\_",
+        "%": r"\%",
+        "&": r"\&",
+        "#": r"\#",
+        "$": r"\$",
+    }
+    for src, dest in replacements.items():
+        escaped = escaped.replace(src, dest)
+    return escaped
 
 
 def _colorize(
@@ -72,21 +42,10 @@ def _colorize(
     *,
     color: str,
     code: bool = False,
-    badge_path_prefix: str | None = None,
-    badge_assets_dir: Path | None = None,
 ) -> str:
-    if badge_path_prefix:
-        return _badge_image(
-            value,
-            color=color,
-            code=code,
-            badge_path_prefix=badge_path_prefix,
-            badge_assets_dir=badge_assets_dir,
-        )
-    inner = html.escape(str(value))
-    if code:
-        return f'<font color="{html.escape(color)}"><code>{inner}</code></font>'
-    return f'<font color="{html.escape(color)}">{inner}</font>'
+    command = r"\texttt" if code else r"\textsf"
+    inner = _escape_tex_text(value)
+    return f"$\\color{{{color}}}{{{command}{{{inner}}}}}$"
 
 
 def _score_color(score: Any) -> str:
@@ -195,8 +154,6 @@ def _execution_rows(
     item: dict[str, Any],
     *,
     eur_rates_context: dict[str, Any] | None = None,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
 ) -> list[tuple[str, str]]:
     metrics = item.get("metrics", {}) or {}
     currency = str(item.get("currency") or "").strip()
@@ -243,8 +200,6 @@ def _execution_rows(
                             f"{distance_label} / {pct_text}",
                             color=_distance_to_entry_color(close_value, entry_limit_value),
                             code=True,
-                            badge_assets_dir=badge_assets_dir,
-                            badge_path_prefix=badge_path_prefix,
                         ),
                     )
                 )
@@ -297,8 +252,6 @@ def _summary_table_lines(
     stance: dict[str, Any],
     *,
     eur_rates_context: dict[str, Any] | None = None,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
 ) -> list[str]:
     score = stance.get("score_0_to_100", "n/a")
     confidence = stance.get("confidence", "n/a")
@@ -309,8 +262,6 @@ def _summary_table_lines(
                 stance.get("label", "unknown"),
                 color=_stance_color(stance.get("label")),
                 code=True,
-                badge_assets_dir=badge_assets_dir,
-                badge_path_prefix=badge_path_prefix,
             ),
         ),
         (
@@ -319,8 +270,6 @@ def _summary_table_lines(
                 score,
                 color=_score_color(score),
                 code=True,
-                badge_assets_dir=badge_assets_dir,
-                badge_path_prefix=badge_path_prefix,
             ),
         ),
         (
@@ -329,8 +278,6 @@ def _summary_table_lines(
                 confidence,
                 color=_confidence_color(confidence),
                 code=True,
-                badge_assets_dir=badge_assets_dir,
-                badge_path_prefix=badge_path_prefix,
             ),
         ),
         (
@@ -339,24 +286,14 @@ def _summary_table_lines(
                 item.get("selection_bucket"),
                 color=_bucket_color(item.get("selection_bucket")),
                 code=True,
-                badge_assets_dir=badge_assets_dir,
-                badge_path_prefix=badge_path_prefix,
             ),
         ),
     ]
-    rows.extend(
-        _execution_rows(
-            item,
-            eur_rates_context=eur_rates_context,
-            badge_assets_dir=badge_assets_dir,
-            badge_path_prefix=badge_path_prefix,
-        )
-    )
+    rows.extend(_execution_rows(item, eur_rates_context=eur_rates_context))
 
-    lines = ["<table>", "<tbody>"]
+    lines = ["|  |  |", "| --- | --- |"]
     for label, value in rows:
-        lines.append(f"<tr><td><strong>{html.escape(str(label))}</strong></td><td>{value}</td></tr>")
-    lines.extend(["</tbody>", "</table>"])
+        lines.append(f"| **{label}** | {value} |")
     return lines
 
 
@@ -400,75 +337,27 @@ def _top_score_drivers(components: list[dict[str, Any]], *, limit: int = 4) -> l
 def _distance_to_entry_cell(
     close: Any,
     entry_limit: Any,
-    *,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
 ) -> str:
     label = _distance_to_entry_label(close, entry_limit)
     if not label:
         return "n/a"
-    return _colorize(
-        label,
-        color=_distance_to_entry_color(close, entry_limit),
-        badge_assets_dir=badge_assets_dir,
-        badge_path_prefix=badge_path_prefix,
-    )
+    return _colorize(label, color=_distance_to_entry_color(close, entry_limit))
 
 
-def _bucket_cell(
-    bucket: Any,
-    *,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
-) -> str:
-    return _colorize(
-        bucket or "n/a",
-        color=_bucket_color(bucket),
-        badge_assets_dir=badge_assets_dir,
-        badge_path_prefix=badge_path_prefix,
-    )
+def _bucket_cell(bucket: Any) -> str:
+    return _colorize(bucket or "n/a", color=_bucket_color(bucket))
 
 
-def _score_cell(
-    score: Any,
-    *,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
-) -> str:
-    return _colorize(
-        score if score not in {None, ""} else "n/a",
-        color=_score_color(score),
-        badge_assets_dir=badge_assets_dir,
-        badge_path_prefix=badge_path_prefix,
-    )
+def _score_cell(score: Any) -> str:
+    return _colorize(score if score not in {None, ""} else "n/a", color=_score_color(score))
 
 
-def _confidence_cell(
-    confidence: Any,
-    *,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
-) -> str:
-    return _colorize(
-        confidence or "n/a",
-        color=_confidence_color(confidence),
-        badge_assets_dir=badge_assets_dir,
-        badge_path_prefix=badge_path_prefix,
-    )
+def _confidence_cell(confidence: Any) -> str:
+    return _colorize(confidence or "n/a", color=_confidence_color(confidence))
 
 
-def _stance_cell(
-    stance: Any,
-    *,
-    badge_assets_dir: Path | None = None,
-    badge_path_prefix: str | None = None,
-) -> str:
-    return _colorize(
-        stance or "unknown",
-        color=_stance_color(stance),
-        badge_assets_dir=badge_assets_dir,
-        badge_path_prefix=badge_path_prefix,
-    )
+def _stance_cell(stance: Any) -> str:
+    return _colorize(stance or "unknown", color=_stance_color(stance))
 
 
 def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -564,7 +453,6 @@ def _best_candidate_section_lines(
     shortlist = section.get("shortlist", {}) or {}
     analysis_rows = section.get("analysis_rows", []) or []
     report_prefix = str(section.get("report_prefix") or report_prefix)
-    badge_path_prefix = f"{report_prefix.rstrip('/')}/_badges"
     top_items = _ranked_candidate_rows(shortlist, analysis_rows)[: int(max(1, top_n))]
 
     lines.extend(
@@ -587,15 +475,11 @@ def _best_candidate_section_lines(
                 report_prefix=report_prefix,
                 file_name=safe_symbol_name(symbol),
                 company=row.get("company_name") or "Unknown Company",
-                distance=_distance_to_entry_cell(
-                    row.get("close"),
-                    row.get("entry_limit"),
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                bucket=_bucket_cell(row.get("bucket"), badge_path_prefix=badge_path_prefix),
-                score=_score_cell(row.get("score"), badge_path_prefix=badge_path_prefix),
-                confidence=_confidence_cell(row.get("confidence"), badge_path_prefix=badge_path_prefix),
-                stance=_stance_cell(row.get("stance"), badge_path_prefix=badge_path_prefix),
+                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
+                bucket=_bucket_cell(row.get("bucket")),
+                score=_score_cell(row.get("score")),
+                confidence=_confidence_cell(row.get("confidence")),
+                stance=_stance_cell(row.get("stance")),
             )
         )
 
@@ -621,7 +505,6 @@ def _dashboard_section_lines(
     shortlist = section.get("shortlist", {}) or {}
     analysis_rows = section.get("analysis_rows", []) or []
     report_prefix = str(section.get("report_prefix") or report_prefix)
-    badge_path_prefix = f"{report_prefix.rstrip('/')}/_badges"
     lookup = {row["symbol"]: row for row in analysis_rows}
 
     lines.extend(
@@ -646,12 +529,11 @@ def _dashboard_section_lines(
                 distance=_distance_to_entry_cell(
                     (item.get("metrics") or {}).get("close"),
                     (item.get("metrics") or {}).get("entry_limit"),
-                    badge_path_prefix=badge_path_prefix,
                 ),
-                bucket=_bucket_cell(item.get("selection_bucket"), badge_path_prefix=badge_path_prefix),
-                stance_label=_stance_cell(stance.get("label", "unknown"), badge_path_prefix=badge_path_prefix),
-                score=_score_cell(stance.get("score_0_to_100", "n/a"), badge_path_prefix=badge_path_prefix),
-                confidence=_confidence_cell(stance.get("confidence", "n/a"), badge_path_prefix=badge_path_prefix),
+                bucket=_bucket_cell(item.get("selection_bucket")),
+                stance_label=_stance_cell(stance.get("label", "unknown")),
+                score=_score_cell(stance.get("score_0_to_100", "n/a")),
+                confidence=_confidence_cell(stance.get("confidence", "n/a")),
                 report_prefix=report_prefix,
                 file_name=safe_symbol_name(symbol),
             )
@@ -668,7 +550,6 @@ def render_analysis_markdown(
     item: dict[str, Any],
     *,
     eur_rates_context: dict[str, Any] | None = None,
-    badge_assets_dir: Path | None = None,
 ) -> str:
     stance = report.get("breakout_stance", {}) or {}
     news_support = report.get("news_support", {}) or {}
@@ -691,15 +572,7 @@ def render_analysis_markdown(
         f"# {item.get('symbol')} - {item.get('company_name') or 'Unknown Company'}",
         "",
     ]
-    lines.extend(
-        _summary_table_lines(
-            item,
-            stance,
-            eur_rates_context=eur_rates_context,
-            badge_assets_dir=badge_assets_dir,
-            badge_path_prefix="_badges",
-        )
-    )
+    lines.extend(_summary_table_lines(item, stance, eur_rates_context=eur_rates_context))
 
     lines.extend(
         [
@@ -819,9 +692,7 @@ def render_dashboard(
     analysis_rows: list[dict[str, Any]],
     *,
     report_prefix: str,
-    badge_assets_dir: Path | None = None,
 ) -> str:
-    badge_path_prefix = f"{report_prefix.rstrip('/')}/_badges"
     lines = [
         "# Daily Breakout News Analysis",
         "",
@@ -843,32 +714,11 @@ def render_dashboard(
             "| {rank} | {symbol} | {distance} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_name}) |".format(
                 rank=item.get("display_rank"),
                 symbol=symbol,
-                distance=_distance_to_entry_cell(
-                    (item.get("metrics") or {}).get("close"),
-                    (item.get("metrics") or {}).get("entry_limit"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                bucket=_bucket_cell(
-                    item.get("selection_bucket"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                stance_label=_stance_cell(
-                    stance.get("label", "unknown"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                score=_score_cell(
-                    stance.get("score_0_to_100", "n/a"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                confidence=_confidence_cell(
-                    stance.get("confidence", "n/a"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
+                distance=_distance_to_entry_cell((item.get("metrics") or {}).get("close"), (item.get("metrics") or {}).get("entry_limit")),
+                bucket=_bucket_cell(item.get("selection_bucket")),
+                stance_label=_stance_cell(stance.get("label", "unknown")),
+                score=_score_cell(stance.get("score_0_to_100", "n/a")),
+                confidence=_confidence_cell(stance.get("confidence", "n/a")),
                 report_name=report_name,
             )
         )
@@ -886,11 +736,9 @@ def render_best_candidates(
     *,
     report_prefix: str,
     top_n: int = 15,
-    badge_assets_dir: Path | None = None,
 ) -> str:
     ranked_items = _ranked_candidate_rows(shortlist, analysis_rows)
     top_items = ranked_items[: int(max(1, top_n))]
-    badge_path_prefix = f"{report_prefix.rstrip('/')}/_badges"
 
     lines = [
         "# Best Scoring Candidates",
@@ -912,32 +760,11 @@ def render_best_candidates(
                 symbol=symbol,
                 report_name=report_name,
                 company=row.get("company_name") or "Unknown Company",
-                distance=_distance_to_entry_cell(
-                    row.get("close"),
-                    row.get("entry_limit"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                bucket=_bucket_cell(
-                    row.get("bucket"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                score=_score_cell(
-                    row.get("score"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                confidence=_confidence_cell(
-                    row.get("confidence"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                stance=_stance_cell(
-                    row.get("stance"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
+                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
+                bucket=_bucket_cell(row.get("bucket")),
+                score=_score_cell(row.get("score")),
+                confidence=_confidence_cell(row.get("confidence")),
+                stance=_stance_cell(row.get("stance")),
             )
         )
 
@@ -953,10 +780,8 @@ def render_project_readme(
     analysis_rows: list[dict[str, Any]],
     *,
     best_candidates_top_n: int = 15,
-    badge_assets_dir: Path | None = None,
 ) -> str:
     top_items = _ranked_candidate_rows(shortlist, analysis_rows)[: int(max(1, best_candidates_top_n))]
-    badge_path_prefix = "latest/analysis/markdown/_badges"
 
     lines = [
         "# stock_news_sentiments",
@@ -987,32 +812,11 @@ def render_project_readme(
                 symbol=symbol,
                 file_name=safe_symbol_name(symbol),
                 company=row.get("company_name") or "Unknown Company",
-                distance=_distance_to_entry_cell(
-                    row.get("close"),
-                    row.get("entry_limit"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                bucket=_bucket_cell(
-                    row.get("bucket"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                score=_score_cell(
-                    row.get("score"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                confidence=_confidence_cell(
-                    row.get("confidence"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
-                stance=_stance_cell(
-                    row.get("stance"),
-                    badge_assets_dir=badge_assets_dir,
-                    badge_path_prefix=badge_path_prefix,
-                ),
+                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
+                bucket=_bucket_cell(row.get("bucket")),
+                score=_score_cell(row.get("score")),
+                confidence=_confidence_cell(row.get("confidence")),
+                stance=_stance_cell(row.get("stance")),
             )
         )
 
