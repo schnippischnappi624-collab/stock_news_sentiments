@@ -133,4 +133,5 @@ CRON_TZ=Europe/Vienna
 - Legacy `codex-full` mode still uses `schemas/breakout_analysis.schema.json`.
 - If the newest remote feed set has already been processed successfully, `daily-run` exits early without regenerating artifacts.
 - The push wrapper commits generated changes in `artifacts`, `latest`, `news`, and the generated root `README.md`, then pushes `HEAD` to `origin/main` by default.
+- Scheduled wrapper logs are written under `artifacts/maintenance/logs/`.
 - If only one region has run so far, the combined landing pages show that region and leave the other region empty until its pipeline produces a snapshot.

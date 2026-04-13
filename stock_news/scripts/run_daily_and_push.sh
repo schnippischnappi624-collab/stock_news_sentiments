@@ -9,6 +9,18 @@ ARGS=()
 LOCK_SUFFIX=""
 PUSH_REMOTE="${STOCK_NEWS_PUSH_REMOTE:-origin}"
 PUSH_BRANCH="${STOCK_NEWS_PUSH_BRANCH:-main}"
+LOG_DIR="$ROOT/artifacts/maintenance/logs"
+mkdir -p "$LOG_DIR"
+
+TS_FILE="$(TZ=Europe/Vienna date +"%Y-%m-%dT%H-%M-%S")"
+if [[ -n "$REGION" ]]; then
+  LOG_PATH="$LOG_DIR/daily_run_${REGION,,}_${TS_FILE}.log"
+else
+  LOG_PATH="$LOG_DIR/daily_run_all_${TS_FILE}.log"
+fi
+exec >>"$LOG_PATH" 2>&1
+
+echo "[$(TZ=Europe/Vienna date +"%Y-%m-%d %H:%M:%S %Z")] starting run_daily_and_push.sh region=${REGION:-ALL}"
 
 if [[ -n "$REGION" ]]; then
   REGION="$(printf "%s" "$REGION" | tr '[:lower:]' '[:upper:]')"
@@ -32,6 +44,7 @@ poetry run stock-news daily-run "${ARGS[@]}"
 PATHS=(artifacts latest news README.md)
 
 if [[ -z "$(git status --porcelain -- "${PATHS[@]}")" ]]; then
+  echo "[$(TZ=Europe/Vienna date +"%Y-%m-%d %H:%M:%S %Z")] no generated changes detected"
   exit 0
 fi
 
@@ -44,4 +57,6 @@ if [[ -n "$REGION" ]]; then
 else
   git commit -m "data: daily breakout analysis ${TS}"
 fi
-git push "$PUSH_REMOTE" "HEAD:${PUSH_BRANCH}"
+echo "[$(TZ=Europe/Vienna date +"%Y-%m-%d %H:%M:%S %Z")] pushing to ${PUSH_REMOTE} ${PUSH_BRANCH}"
+GIT_TERMINAL_PROMPT=0 git push "$PUSH_REMOTE" "HEAD:${PUSH_BRANCH}"
+echo "[$(TZ=Europe/Vienna date +"%Y-%m-%d %H:%M:%S %Z")] push completed"
