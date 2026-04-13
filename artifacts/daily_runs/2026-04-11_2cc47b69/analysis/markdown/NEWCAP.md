@@ -11,7 +11,6 @@
 - 2R target: `0.15 DKK`
 - 3R target: `0.16 DKK`
 - Risk distance: `0.01 DKK`
-- Position size for source risk budget: `158,311.07` shares at `1,500 DKK` risk
 
 ## Investment View
 NEWCAP scores 80/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

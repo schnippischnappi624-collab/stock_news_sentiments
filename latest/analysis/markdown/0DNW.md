@@ -11,7 +11,6 @@
 - 2R target: `1.11 NOK`
 - 3R target: `1.14 NOK`
 - Risk distance: `0.03 NOK`
-- Position size for source risk budget: `51,611.18` shares at `1,500 NOK` risk
 
 ## Investment View
 0DNW scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

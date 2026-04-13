@@ -11,7 +11,6 @@
 - 2R target: `12.16 SEK`
 - 3R target: `12.77 SEK`
 - Risk distance: `0.61 SEK`
-- Position size for source risk budget: `2,472.05` shares at `1,500 SEK` risk
 
 ## Investment View
 BOHO-PREF scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

@@ -11,7 +11,6 @@
 - 2R target: `142.23 EUR`
 - 3R target: `146.88 EUR`
 - Risk distance: `4.65 EUR`
-- Position size for source risk budget: `322.69` shares at `1,500 EUR` risk
 
 ## Investment View
 SQU scores 65/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

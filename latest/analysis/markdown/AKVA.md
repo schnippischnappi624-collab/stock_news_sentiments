@@ -11,7 +11,6 @@
 - 2R target: `119.27 NOK`
 - 3R target: `124.18 NOK`
 - Risk distance: `4.91 NOK`
-- Position size for source risk budget: `305.58` shares at `1,500 NOK` risk
 
 ## Investment View
 AKVA scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

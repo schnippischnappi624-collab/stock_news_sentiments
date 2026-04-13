@@ -11,7 +11,6 @@
 - 2R target: `55.55 EUR`
 - 3R target: `57.95 EUR`
 - Risk distance: `2.40 EUR`
-- Position size for source risk budget: `624.41` shares at `1,500 EUR` risk
 
 ## Investment View
 ALNSE scores 82/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

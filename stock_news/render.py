@@ -55,11 +55,6 @@ def _execution_lines(item: dict[str, Any]) -> list[str]:
     if r_dist:
         lines.append(f"- Risk distance: `{r_dist}`")
 
-    qty_for_risk = _metric_num(metrics.get("qty_for_risk"))
-    risk_budget = fmt_money(metrics.get("risk_eur"), digits=0)
-    if qty_for_risk and risk_budget:
-        lines.append(f"- Position size for source risk budget: `{qty_for_risk}` shares at `{risk_budget}` risk")
-
     return lines
 
 

@@ -11,7 +11,6 @@
 - 2R target: `10.14 EUR`
 - 3R target: `10.56 EUR`
 - Risk distance: `0.42 EUR`
-- Position size for source risk budget: `3,544.18` shares at `1,500 EUR` risk
 
 ## Investment View
 ALNT scores 79/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

@@ -11,7 +11,6 @@
 - 2R target: `0.60 EUR`
 - 3R target: `0.60 EUR`
 - Risk distance: `0.00 EUR`
-- Position size for source risk budget: `1,004,571.16` shares at `1,500 EUR` risk
 
 ## Investment View
 BALYO scores 67/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

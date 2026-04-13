@@ -11,7 +11,6 @@
 - 2R target: `50.53 EUR`
 - 3R target: `53.11 EUR`
 - Risk distance: `2.58 EUR`
-- Position size for source risk budget: `581.53` shares at `1,500 EUR` risk
 
 ## Investment View
 BIJ scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

@@ -11,7 +11,6 @@
 - 2R target: `106.56 EUR`
 - 3R target: `109.70 EUR`
 - Risk distance: `3.13 EUR`
-- Position size for source risk budget: `478.67` shares at `1,500 EUR` risk
 
 ## Investment View
 LOUP scores 74/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 2 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

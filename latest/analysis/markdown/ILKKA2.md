@@ -11,7 +11,6 @@
 - 2R target: `4.61 EUR`
 - 3R target: `4.76 EUR`
 - Risk distance: `0.15 EUR`
-- Position size for source risk budget: `10,056.17` shares at `1,500 EUR` risk
 
 ## Investment View
 ILKKA2 scores 57/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

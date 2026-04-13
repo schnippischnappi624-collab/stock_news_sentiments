@@ -11,7 +11,6 @@
 - 2R target: `17.16 EUR`
 - 3R target: `18.09 EUR`
 - Risk distance: `0.92 EUR`
-- Position size for source risk budget: `1,629.04` shares at `1,500 EUR` risk
 
 ## Investment View
 KREATE scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.
