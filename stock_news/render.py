@@ -37,6 +37,28 @@ def _escape_tex_text(value: Any) -> str:
     return escaped
 
 
+def _md_text(value: Any, *, table: bool = False) -> str:
+    text = str(value)
+    text = text.replace("\r\n", "\n").replace("\r", "\n").replace("\n", " ")
+    text = text.replace("$", "&#36;")
+    if table:
+        text = text.replace("|", "&#124;")
+    return text
+
+
+def _md_link_label(value: Any) -> str:
+    label = _md_text(value)
+    return label.replace("[", r"\[").replace("]", r"\]")
+
+
+def _md_link(label: Any, url: str) -> str:
+    safe_label = _md_link_label(label)
+    safe_url = str(url or "").strip()
+    if not safe_url:
+        return safe_label
+    return f"[{safe_label}](<{safe_url}>)"
+
+
 def _colorize(
     value: Any,
     *,
@@ -299,15 +321,15 @@ def _summary_table_lines(
 
 def _section_points(items: list[dict[str, Any]], *, default_message: str) -> list[str]:
     if not items:
-        return [f"- {default_message}"]
+        return [f"- {_md_text(default_message)}"]
     lines = []
     for item in items:
         point = item.get("point") or item.get("name") or item.get("summary") or str(item)
         confidence = item.get("confidence")
         if confidence:
-            lines.append(f"- {point} ({confidence})")
+            lines.append(f"- {_md_text(point)} ({_md_text(confidence)})")
         else:
-            lines.append(f"- {point}")
+            lines.append(f"- {_md_text(point)}")
     return lines
 
 
@@ -474,7 +496,7 @@ def _best_candidate_section_lines(
                 symbol=symbol,
                 report_prefix=report_prefix,
                 file_name=safe_symbol_name(symbol),
-                company=row.get("company_name") or "Unknown Company",
+                company=_md_text(row.get("company_name") or "Unknown Company", table=True),
                 distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
                 bucket=_bucket_cell(row.get("bucket")),
                 score=_score_cell(row.get("score")),
@@ -569,7 +591,7 @@ def render_analysis_markdown(
     )
 
     lines = [
-        f"# {item.get('symbol')} - {item.get('company_name') or 'Unknown Company'}",
+        f"# {_md_text(item.get('symbol'))} - {_md_text(item.get('company_name') or 'Unknown Company')}",
         "",
     ]
     lines.extend(_summary_table_lines(item, stance, eur_rates_context=eur_rates_context))
@@ -578,9 +600,9 @@ def render_analysis_markdown(
         [
             "",
             "## Investment View",
-            report.get("summary", "No summary generated."),
+            _md_text(report.get("summary", "No summary generated.")),
             "",
-            f"- Thesis: {thesis}",
+            f"- Thesis: {_md_text(thesis)}",
             "",
             "## What Matters",
             *_compact_points(
@@ -604,8 +626,8 @@ def render_analysis_markdown(
             ),
             "",
             "## News Read",
-            f"- Stance: `{news_support.get('stance', 'unknown')}`",
-            f"- Explanation: {news_support.get('explanation', 'No explanation generated.')}",
+            f"- Stance: `{_md_text(news_support.get('stance', 'unknown'))}`",
+            f"- Explanation: {_md_text(news_support.get('explanation', 'No explanation generated.'))}",
             "",
             "## Key Levels",
             f"- Volume anomaly: `{metrics.get('vol_anom', 'n/a')}`",
@@ -621,7 +643,7 @@ def render_analysis_markdown(
         lines.append("- No explicit score driver was recorded.")
     else:
         for component in top_drivers:
-            label = component.get("label") or "Unnamed component"
+            label = _md_text(component.get("label") or "Unnamed component")
             points = component.get("points")
             value = component.get("value")
             if value is not None:
@@ -678,10 +700,10 @@ def render_analysis_markdown(
             title = source.get("title") or source.get("url") or "Untitled source"
             url = source.get("url") or ""
             published = source.get("published_at") or source.get("date") or "unknown date"
-            lines.append(f"- [{title}]({url}) - {published}")
+            lines.append(f"- {_md_link(title, url)} - {_md_text(published)}")
 
     if report.get("analysis_error"):
-        lines.extend(["", "## Analysis Error", f"- {report['analysis_error']}"])
+        lines.extend(["", "## Analysis Error", f"- {_md_text(report['analysis_error'])}"])
 
     return "\n".join(lines).strip() + "\n"
 
@@ -759,7 +781,7 @@ def render_best_candidates(
                 rank=idx,
                 symbol=symbol,
                 report_name=report_name,
-                company=row.get("company_name") or "Unknown Company",
+                company=_md_text(row.get("company_name") or "Unknown Company", table=True),
                 distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
                 bucket=_bucket_cell(row.get("bucket")),
                 score=_score_cell(row.get("score")),
@@ -811,7 +833,7 @@ def render_project_readme(
                 rank=idx,
                 symbol=symbol,
                 file_name=safe_symbol_name(symbol),
-                company=row.get("company_name") or "Unknown Company",
+                company=_md_text(row.get("company_name") or "Unknown Company", table=True),
                 distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
                 bucket=_bucket_cell(row.get("bucket")),
                 score=_score_cell(row.get("score")),

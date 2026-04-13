@@ -61,6 +61,6 @@ ARVOSK scores 77/100 as a constructive_bullish setup. The score is driven mainly
 - Effective adverse effects after coverage weighting: `0`
 
 ## Sources
-- [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
-- [Dividend calendar of pohjanmaan arvo sijoitusosuuskunta - RTTNews](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2JTMHd5QmNueFZBcGVlTndRVWVWNGdtQ3JUUnVYWVpRQ1NTcFAxVGF5bVhKcFEtcGpwdmxTdzdyTGZOLWdXUTBZNE9BeG1hMkNHMWhHYlR2dmZqc2hCaGJOdTYxNTIxY2ZWM3JDZWZhc0pyWlBYbXk4NDNjZk9oUDhYT2tJX3NmcExvWG1WT20?oc=5) - 2026-04-07
-- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5) - 2026-04-13
+- [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](<https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt>) - 2026-04-11
+- [Dividend calendar of pohjanmaan arvo sijoitusosuuskunta - RTTNews](<https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2JTMHd5QmNueFZBcGVlTndRVWVWNGdtQ3JUUnVYWVpRQ1NTcFAxVGF5bVhKcFEtcGpwdmxTdzdyTGZOLWdXUTBZNE9BeG1hMkNHMWhHYlR2dmZqc2hCaGJOdTYxNTIxY2ZWM3JDZWZhc0pyWlBYbXk4NDNjZk9oUDhYT2tJX3NmcExvWG1WT20?oc=5>) - 2026-04-07
+- [Global Bonds Slide as Failure of Talks Adds to Inflation Fears - Bloomberg.com](<https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5>) - 2026-04-13

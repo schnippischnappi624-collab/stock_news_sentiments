@@ -25,7 +25,7 @@ def test_render_analysis_markdown_includes_sections() -> None:
         "company_name": "Spire Global Inc",
         "analysis_date": "2026-04-12",
         "analysis_mode": "python",
-        "summary": "Momentum improved after a sharp drawdown.",
+        "summary": "Momentum improved after a sharp drawdown and a $14.00 follow-on reference.",
         "recent_weakness": [{"point": "The stock sold off after a weak guidance reset.", "confidence": "medium"}],
         "recovery_signals": [{"point": "Volume expanded on the latest breakout attempt.", "confidence": "high"}],
         "catalysts": [{"point": "Next earnings call is within three weeks.", "confidence": "medium"}],
@@ -54,7 +54,7 @@ def test_render_analysis_markdown_includes_sections() -> None:
             "effective_adverse_effects": 0,
             "weight_scale": 0.85,
         },
-        "sources": [{"title": "Example", "url": "https://example.com", "published_at": "2026-04-11"}],
+        "sources": [{"title": "$14.00 Per Share - Example", "url": "https://example.com", "published_at": "2026-04-11"}],
     }
 
     markdown = render_analysis_markdown(
@@ -65,6 +65,7 @@ def test_render_analysis_markdown_includes_sections() -> None:
 
     assert "# SPIR - Spire Global Inc" in markdown
     assert "## Investment View" in markdown
+    assert "&#36;14.00" in markdown
     assert "## What Matters" in markdown
     assert "## Risks / Invalidation" in markdown
     assert "constructive" in markdown
@@ -80,6 +81,7 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "| **Entry limit** | `20.50 USD (10.25 EUR)` |" in markdown
     assert r"| **Distance to entry limit** | $\color{#cf222e}{\texttt{1.06 USD (0.53 EUR) / +5.17\%}}$ |" in markdown
     assert "| **Initial stop** | `17.83 USD (8.91 EUR)` |" in markdown
+    assert "[&#36;14.00 Per Share - Example](<https://example.com>) - 2026-04-11" in markdown
 
 
 def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:

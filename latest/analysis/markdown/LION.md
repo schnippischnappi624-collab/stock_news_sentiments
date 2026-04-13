@@ -48,4 +48,4 @@ LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the tec
 - Macro overlay weight used in scoring: `0.35`
 
 ## Sources
-- [Feed snapshot: Universe 3 US - CANDIDATES (Top 20)](https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt) - 2026-04-11
+- [Feed snapshot: Universe 3 US - CANDIDATES (Top 20)](<https://stock.sdc-fried.de/data/2026-04-11_universe_3_US_Results_CANDIDATES.txt>) - 2026-04-11

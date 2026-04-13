@@ -54,4 +54,4 @@ ILKKA2 scores 57/100 as a mixed_watch setup. The score is driven mainly by the t
 - Macro overlay weight used in scoring: `0.35`
 
 ## Sources
-- [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt) - 2026-04-11
+- [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](<https://stock.sdc-fried.de/data/2026-04-11_universe_5_EU_Results.txt>) - 2026-04-11
