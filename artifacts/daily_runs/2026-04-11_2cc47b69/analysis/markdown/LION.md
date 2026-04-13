@@ -2,10 +2,10 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><span style="color:#9a6700"><code>mixed_watch</code></span></td></tr>
-<tr><td><strong>Score</strong></td><td><span style="color:#bc4c00"><code>52</code></span></td></tr>
-<tr><td><strong>Confidence</strong></td><td><span style="color:#cf222e"><code>low</code></span></td></tr>
-<tr><td><strong>Bucket</strong></td><td><span style="color:#bc4c00"><code>candidate</code></span></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><font color="#9a6700"><code>mixed_watch</code></font></td></tr>
+<tr><td><strong>Score</strong></td><td><font color="#bc4c00"><code>52</code></font></td></tr>
+<tr><td><strong>Confidence</strong></td><td><font color="#cf222e"><code>low</code></font></td></tr>
+<tr><td><strong>Bucket</strong></td><td><font color="#bc4c00"><code>candidate</code></font></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>10.88 USD (9.29 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>10.72 USD (9.15 EUR)</code></td></tr>
 </tbody>

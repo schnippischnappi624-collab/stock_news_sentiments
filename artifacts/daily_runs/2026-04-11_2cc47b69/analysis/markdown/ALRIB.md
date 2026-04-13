@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><span style="color:#1a7f37"><code>constructive_bullish</code></span></td></tr>
-<tr><td><strong>Score</strong></td><td><span style="color:#1a7f37"><code>87</code></span></td></tr>
-<tr><td><strong>Confidence</strong></td><td><span style="color:#1a7f37"><code>high</code></span></td></tr>
-<tr><td><strong>Bucket</strong></td><td><span style="color:#1a7f37"><code>entry_ready</code></span></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><font color="#1a7f37"><code>constructive_bullish</code></font></td></tr>
+<tr><td><strong>Score</strong></td><td><font color="#1a7f37"><code>87</code></font></td></tr>
+<tr><td><strong>Confidence</strong></td><td><font color="#1a7f37"><code>high</code></font></td></tr>
+<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>7.13 EUR</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>6.12 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><span style="color:#cf222e"><code>1.01 EUR / +16.52% above limit</code></span></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><font color="#cf222e"><code>1.01 EUR / +16.52%</code></font></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>5.44 EUR</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>6.15 EUR</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>7.47 EUR</code></td></tr>

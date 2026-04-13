@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><span style="color:#1a7f37"><code>constructive_bullish</code></span></td></tr>
-<tr><td><strong>Score</strong></td><td><span style="color:#1a7f37"><code>77</code></span></td></tr>
-<tr><td><strong>Confidence</strong></td><td><span style="color:#1a7f37"><code>high</code></span></td></tr>
-<tr><td><strong>Bucket</strong></td><td><span style="color:#1a7f37"><code>entry_ready</code></span></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><font color="#1a7f37"><code>constructive_bullish</code></font></td></tr>
+<tr><td><strong>Score</strong></td><td><font color="#1a7f37"><code>77</code></font></td></tr>
+<tr><td><strong>Confidence</strong></td><td><font color="#1a7f37"><code>high</code></font></td></tr>
+<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>113.50 NOK (10.21 EUR)</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>109.45 NOK (9.85 EUR)</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><span style="color:#bc4c00"><code>4.05 NOK (0.36 EUR) / +3.70% above limit</code></span></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><font color="#bc4c00"><code>4.05 NOK (0.36 EUR) / +3.70%</code></font></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>104.54 NOK (9.40 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>110.00 NOK (9.90 EUR)</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>119.27 NOK (10.73 EUR)</code></td></tr>

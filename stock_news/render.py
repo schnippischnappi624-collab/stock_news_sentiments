@@ -22,8 +22,10 @@ def _code_html(value: Any) -> str:
 
 
 def _colorize(value: Any, *, color: str, code: bool = False) -> str:
-    inner = _code_html(value) if code else html.escape(str(value))
-    return f'<span style="color:{html.escape(color)}">{inner}</span>'
+    inner = html.escape(str(value))
+    if code:
+        return f'<font color="{html.escape(color)}"><code>{inner}</code></font>'
+    return f'<font color="{html.escape(color)}">{inner}</font>'
 
 
 def _score_color(score: Any) -> str:
@@ -108,8 +110,7 @@ def _distance_to_entry_label(close: Any, entry_limit: Any) -> str | None:
     pct_distance = (close_value - entry_value) / entry_value * 100.0
     if abs(pct_distance) < 0.005:
         return "at limit"
-    direction = "above" if pct_distance > 0 else "below"
-    return f"{pct_distance:+.2f}% {direction}"
+    return f"{pct_distance:+.2f}%"
 
 
 def _format_money_with_eur(
@@ -167,13 +168,12 @@ def _execution_rows(item: dict[str, Any], *, eur_rates_context: dict[str, Any] |
                 eur_rates_context=eur_rates_context,
             )
             if distance_label:
-                direction = "above" if distance_abs > 0 else "below" if distance_abs < 0 else "at"
                 pct_text = f"{distance_pct:+.2f}%"
                 rows.append(
                     (
                         "Distance to entry limit",
                         _colorize(
-                            f"{distance_label} / {pct_text} {direction} limit",
+                            f"{distance_label} / {pct_text}",
                             color=_distance_to_entry_color(close_value, entry_limit_value),
                             code=True,
                         ),

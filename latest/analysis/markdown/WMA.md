@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><span style="color:#2da44e"><code>constructive_watch</code></span></td></tr>
-<tr><td><strong>Score</strong></td><td><span style="color:#9a6700"><code>66</code></span></td></tr>
-<tr><td><strong>Confidence</strong></td><td><span style="color:#9a6700"><code>medium</code></span></td></tr>
-<tr><td><strong>Bucket</strong></td><td><span style="color:#1a7f37"><code>entry_ready</code></span></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><font color="#2da44e"><code>constructive_watch</code></font></td></tr>
+<tr><td><strong>Score</strong></td><td><font color="#9a6700"><code>66</code></font></td></tr>
+<tr><td><strong>Confidence</strong></td><td><font color="#9a6700"><code>medium</code></font></td></tr>
+<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>940.00 DKK (125.79 EUR)</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>920.38 DKK (123.16 EUR)</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><span style="color:#9a6700"><code>19.62 DKK (2.63 EUR) / +2.13% above limit</code></span></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><font color="#9a6700"><code>19.62 DKK (2.63 EUR) / +2.13%</code></font></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>873.90 DKK (116.95 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>925.00 DKK (123.78 EUR)</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>1,013.33 DKK (135.60 EUR)</code></td></tr>
