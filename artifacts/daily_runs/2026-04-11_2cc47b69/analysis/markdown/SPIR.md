@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><font color="#2da44e"><code>constructive_watch</code></font></td></tr>
-<tr><td><strong>Score</strong></td><td><font color="#9a6700"><code>66</code></font></td></tr>
-<tr><td><strong>Confidence</strong></td><td><font color="#1a7f37"><code>high</code></font></td></tr>
-<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
+<tr><td><strong>Score</strong></td><td><img src="_badges/badge-e2cf71dd96411ff8.svg" alt="66" title="66" height="22" /></td></tr>
+<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
+<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>21.56 USD (18.41 EUR)</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>20.50 USD (17.50 EUR)</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><font color="#cf222e"><code>1.06 USD (0.91 EUR) / +5.17%</code></font></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-43d8c6625c2a0878.svg" alt="1.06 USD (0.91 EUR) / +5.17%" title="1.06 USD (0.91 EUR) / +5.17%" height="22" /></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>17.83 USD (15.23 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>20.50 USD (17.50 EUR)</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>25.83 USD (22.06 EUR)</code></td></tr>

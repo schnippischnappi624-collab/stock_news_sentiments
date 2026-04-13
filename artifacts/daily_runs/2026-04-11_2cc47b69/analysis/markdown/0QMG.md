@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><font color="#1a7f37"><code>constructive_bullish</code></font></td></tr>
-<tr><td><strong>Score</strong></td><td><font color="#1a7f37"><code>77</code></font></td></tr>
-<tr><td><strong>Confidence</strong></td><td><font color="#9a6700"><code>medium</code></font></td></tr>
-<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-8ec8ca0336c56a05.svg" alt="constructive_bullish" title="constructive_bullish" height="22" /></td></tr>
+<tr><td><strong>Score</strong></td><td><img src="_badges/badge-201ffc188c49c7ee.svg" alt="77" title="77" height="22" /></td></tr>
+<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f306006978f0e8c4.svg" alt="medium" title="medium" height="22" /></td></tr>
+<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>9.04 CHF (9.78 EUR)</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>8.90 CHF (9.63 EUR)</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><font color="#9a6700"><code>0.14 CHF (0.16 EUR) / +1.63%</code></font></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-d8d3731351064cbb.svg" alt="0.14 CHF (0.16 EUR) / +1.63%" title="0.14 CHF (0.16 EUR) / +1.63%" height="22" /></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>8.60 CHF (9.30 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>8.94 CHF (9.67 EUR)</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>9.49 CHF (10.27 EUR)</code></td></tr>

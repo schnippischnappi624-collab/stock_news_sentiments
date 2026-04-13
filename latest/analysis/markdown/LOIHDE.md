@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><font color="#2da44e"><code>constructive_watch</code></font></td></tr>
-<tr><td><strong>Score</strong></td><td><font color="#9a6700"><code>70</code></font></td></tr>
-<tr><td><strong>Confidence</strong></td><td><font color="#9a6700"><code>medium</code></font></td></tr>
-<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-90a93d9dc372659f.svg" alt="constructive_watch" title="constructive_watch" height="22" /></td></tr>
+<tr><td><strong>Score</strong></td><td><img src="_badges/badge-57cb10e59c1d41c8.svg" alt="70" title="70" height="22" /></td></tr>
+<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f306006978f0e8c4.svg" alt="medium" title="medium" height="22" /></td></tr>
+<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>13.35 EUR</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>13.18 EUR</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><font color="#9a6700"><code>0.17 EUR / +1.26%</code></font></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-f36cc9da7684e082.svg" alt="0.17 EUR / +1.26%" title="0.17 EUR / +1.26%" height="22" /></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>12.72 EUR</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>13.25 EUR</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>14.11 EUR</code></td></tr>

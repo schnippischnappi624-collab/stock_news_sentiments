@@ -2,13 +2,13 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><font color="#1a7f37"><code>constructive_bullish</code></font></td></tr>
-<tr><td><strong>Score</strong></td><td><font color="#1a7f37"><code>75</code></font></td></tr>
-<tr><td><strong>Confidence</strong></td><td><font color="#1a7f37"><code>high</code></font></td></tr>
-<tr><td><strong>Bucket</strong></td><td><font color="#1a7f37"><code>entry_ready</code></font></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-8ec8ca0336c56a05.svg" alt="constructive_bullish" title="constructive_bullish" height="22" /></td></tr>
+<tr><td><strong>Score</strong></td><td><img src="_badges/badge-453c62ac20164378.svg" alt="75" title="75" height="22" /></td></tr>
+<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
+<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-68f013188852430b.svg" alt="entry_ready" title="entry_ready" height="22" /></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>11.10 SEK (1.02 EUR)</code></td></tr>
 <tr><td><strong>Entry limit</strong></td><td><code>10.95 SEK (1.01 EUR)</code></td></tr>
-<tr><td><strong>Distance to entry limit</strong></td><td><font color="#9a6700"><code>0.15 SEK (0.01 EUR) / +1.42%</code></font></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td><img src="_badges/badge-043adb6c1c159e60.svg" alt="0.15 SEK (0.01 EUR) / +1.42%" title="0.15 SEK (0.01 EUR) / +1.42%" height="22" /></td></tr>
 <tr><td><strong>Initial stop</strong></td><td><code>10.34 SEK (0.95 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>11.00 SEK (1.02 EUR)</code></td></tr>
 <tr><td><strong>2R target</strong></td><td><code>12.16 SEK (1.12 EUR)</code></td></tr>

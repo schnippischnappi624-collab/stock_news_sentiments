@@ -2,10 +2,10 @@
 
 <table>
 <tbody>
-<tr><td><strong>Breakout stance</strong></td><td><font color="#9a6700"><code>mixed_watch</code></font></td></tr>
-<tr><td><strong>Score</strong></td><td><font color="#bc4c00"><code>57</code></font></td></tr>
-<tr><td><strong>Confidence</strong></td><td><font color="#1a7f37"><code>high</code></font></td></tr>
-<tr><td><strong>Bucket</strong></td><td><font color="#bc4c00"><code>candidate</code></font></td></tr>
+<tr><td><strong>Breakout stance</strong></td><td><img src="_badges/badge-3e35d8af64573920.svg" alt="mixed_watch" title="mixed_watch" height="22" /></td></tr>
+<tr><td><strong>Score</strong></td><td><img src="_badges/badge-3a8dd1d095fec2fe.svg" alt="57" title="57" height="22" /></td></tr>
+<tr><td><strong>Confidence</strong></td><td><img src="_badges/badge-f43233957ad6b0bb.svg" alt="high" title="high" height="22" /></td></tr>
+<tr><td><strong>Bucket</strong></td><td><img src="_badges/badge-f7fd25c4cc40dd06.svg" alt="candidate" title="candidate" height="22" /></td></tr>
 <tr><td><strong>Current price</strong></td><td><code>13.03 USD (11.13 EUR)</code></td></tr>
 <tr><td><strong>Prior 20d high trigger</strong></td><td><code>12.70 USD (10.84 EUR)</code></td></tr>
 </tbody>
