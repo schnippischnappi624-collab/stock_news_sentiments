@@ -110,11 +110,18 @@ stock_news/scripts/install_daily_cron.sh EU
 stock_news/scripts/install_daily_cron.sh US
 ```
 
-Suggested cron entries for separate pipelines:
+Default daily schedule for separate pipelines:
+
+- `EU`: `06:00 Europe/Vienna`
+- `US`: `11:15 Europe/Vienna`
+
+Installed cron entries:
 
 ```cron
-15 11 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash stock_news/scripts/run_daily_and_push.sh EU
-25 11 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash stock_news/scripts/run_daily_and_push.sh US
+CRON_TZ=Europe/Vienna
+0 6 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/stock_news/scripts/run_daily_and_push.sh EU
+CRON_TZ=Europe/Vienna
+15 11 * * * cd /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments && /bin/bash /home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/stock_news/scripts/run_daily_and_push.sh US
 ```
 
 ## Notes
@@ -125,5 +132,5 @@ Suggested cron entries for separate pipelines:
 - The optional Codex synthesis step uses `codex --search exec` with the checked-in schema at `schemas/breakout_summary.schema.json`.
 - Legacy `codex-full` mode still uses `schemas/breakout_analysis.schema.json`.
 - If the newest remote feed set has already been processed successfully, `daily-run` exits early without regenerating artifacts.
-- The push wrapper commits generated changes in `artifacts`, `latest`, `news`, and the generated root `README.md`.
+- The push wrapper commits generated changes in `artifacts`, `latest`, `news`, and the generated root `README.md`, then pushes `HEAD` to `origin/main` by default.
 - If only one region has run so far, the combined landing pages show that region and leave the other region empty until its pipeline produces a snapshot.

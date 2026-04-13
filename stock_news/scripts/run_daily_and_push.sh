@@ -7,6 +7,8 @@ cd "$ROOT"
 REGION="${1:-}"
 ARGS=()
 LOCK_SUFFIX=""
+PUSH_REMOTE="${STOCK_NEWS_PUSH_REMOTE:-origin}"
+PUSH_BRANCH="${STOCK_NEWS_PUSH_BRANCH:-main}"
 
 if [[ -n "$REGION" ]]; then
   REGION="$(printf "%s" "$REGION" | tr '[:lower:]' '[:upper:]')"
@@ -37,5 +39,9 @@ git add -A -- "${PATHS[@]}"
 git diff --cached --quiet && exit 0
 
 TS="$(TZ=Europe/Vienna date +"%Y-%m-%dT%H:%M:%S%:z")"
-git commit -m "data: daily breakout analysis ${TS}"
-git push
+if [[ -n "$REGION" ]]; then
+  git commit -m "data: ${REGION} daily breakout analysis ${TS}"
+else
+  git commit -m "data: daily breakout analysis ${TS}"
+fi
+git push "$PUSH_REMOTE" "HEAD:${PUSH_BRANCH}"

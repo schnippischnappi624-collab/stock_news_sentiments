@@ -31,10 +31,10 @@ exit 0
         """#!/usr/bin/env bash
 case "$1" in
   status) exit 0 ;;
-  add) echo "git add" >> "$TEST_LOG"; exit 0 ;;
+  add) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
   diff) exit 0 ;;
-  commit) echo "git commit" >> "$TEST_LOG"; exit 0 ;;
-  push) echo "git push" >> "$TEST_LOG"; exit 0 ;;
+  commit) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
+  push) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
 esac
 exit 0
 """,
@@ -75,10 +75,10 @@ exit 0
         """#!/usr/bin/env bash
 case "$1" in
   status) echo " M latest/dashboard.md"; exit 0 ;;
-  add) echo "git add" >> "$TEST_LOG"; exit 0 ;;
+  add) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
   diff) exit 1 ;;
-  commit) echo "git commit" >> "$TEST_LOG"; exit 0 ;;
-  push) echo "git push" >> "$TEST_LOG"; exit 0 ;;
+  commit) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
+  push) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
 esac
 exit 0
 """,
@@ -91,6 +91,50 @@ exit 0
     subprocess.run([str(script_path)], cwd=str(root), env=env, check=True)
 
     log = log_path.read_text(encoding="utf-8")
-    assert "git add" in log
-    assert "git commit" in log
-    assert "git push" in log
+    assert "git add -A -- artifacts latest news README.md" in log
+    assert "git commit -m data: daily breakout analysis" in log
+    assert "git push origin HEAD:main" in log
+
+
+def test_wrapper_script_passes_region_and_pushes_to_main(tmp_path: Path) -> None:
+    root = tmp_path
+    script_source = Path("stock_news/scripts/run_daily_and_push.sh").read_text(encoding="utf-8")
+    script_path = root / "stock_news" / "scripts" / "run_daily_and_push.sh"
+    script_path.parent.mkdir(parents=True, exist_ok=True)
+    _write_executable(script_path, script_source)
+
+    bin_dir = root / "bin"
+    bin_dir.mkdir()
+    log_path = root / "cmd.log"
+
+    _write_executable(
+        bin_dir / "poetry",
+        """#!/usr/bin/env bash
+echo "poetry $*" >> "$TEST_LOG"
+exit 0
+""",
+    )
+    _write_executable(
+        bin_dir / "git",
+        """#!/usr/bin/env bash
+case "$1" in
+  status) echo " M latest/eu/dashboard.md"; exit 0 ;;
+  add) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
+  diff) exit 1 ;;
+  commit) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
+  push) echo "git $*" >> "$TEST_LOG"; exit 0 ;;
+esac
+exit 0
+""",
+    )
+
+    env = os.environ.copy()
+    env["PATH"] = f"{bin_dir}:{env['PATH']}"
+    env["TEST_LOG"] = str(log_path)
+
+    subprocess.run([str(script_path), "EU"], cwd=str(root), env=env, check=True)
+
+    log = log_path.read_text(encoding="utf-8")
+    assert "poetry run stock-news daily-run --region EU" in log
+    assert "git commit -m data: EU daily breakout analysis" in log
+    assert "git push origin HEAD:main" in log
