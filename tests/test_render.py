@@ -72,9 +72,11 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "## Market Overlay" in markdown
     assert "Stock-news coverage quality" in markdown
     assert "Macro overlay weight used in scoring" in markdown
-    assert "- Current price: `21.56 USD (10.78 EUR)`" in markdown
-    assert "- Entry limit: `20.50 USD (10.25 EUR)`" in markdown
-    assert "- Initial stop: `17.83 USD (8.91 EUR)`" in markdown
+    assert "| Field | Value |" in markdown
+    assert "| Breakout stance | `constructive` |" in markdown
+    assert "| Current price | `21.56 USD (10.78 EUR)` |" in markdown
+    assert "| Entry limit | `20.50 USD (10.25 EUR)` |" in markdown
+    assert "| Initial stop | `17.83 USD (8.91 EUR)` |" in markdown
 
 
 def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:

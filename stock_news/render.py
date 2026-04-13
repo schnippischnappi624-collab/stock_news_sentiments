@@ -16,7 +16,7 @@ def _metric_num(value: Any, *, digits: int = 2) -> str | None:
         return str(value)
 
 
-def _execution_lines(item: dict[str, Any], *, eur_rates_context: dict[str, Any] | None = None) -> list[str]:
+def _execution_rows(item: dict[str, Any], *, eur_rates_context: dict[str, Any] | None = None) -> list[tuple[str, str]]:
     metrics = item.get("metrics", {}) or {}
     currency = str(item.get("currency") or "").strip()
 
@@ -30,37 +30,37 @@ def _execution_lines(item: dict[str, Any], *, eur_rates_context: dict[str, Any] 
             label += f" ({eur_value:,.{digits}f} EUR)"
         return label
 
-    lines: list[str] = []
+    rows: list[tuple[str, str]] = []
 
     current_price = fmt_money(metrics.get("close"))
     if current_price:
-        lines.append(f"- Current price: `{current_price}`")
+        rows.append(("Current price", f"`{current_price}`"))
 
     entry_limit = fmt_money(metrics.get("entry_limit"))
     if entry_limit:
-        lines.append(f"- Entry limit: `{entry_limit}`")
+        rows.append(("Entry limit", f"`{entry_limit}`"))
 
     stop_init = fmt_money(metrics.get("stop_init"))
     if stop_init:
-        lines.append(f"- Initial stop: `{stop_init}`")
+        rows.append(("Initial stop", f"`{stop_init}`"))
 
     hh20_prev = fmt_money(metrics.get("hh20_prev"))
     if hh20_prev:
-        lines.append(f"- Prior 20d high trigger: `{hh20_prev}`")
+        rows.append(("Prior 20d high trigger", f"`{hh20_prev}`"))
 
     tp_2r = fmt_money(metrics.get("tp_2r"))
     if tp_2r:
-        lines.append(f"- 2R target: `{tp_2r}`")
+        rows.append(("2R target", f"`{tp_2r}`"))
 
     tp_3r = fmt_money(metrics.get("tp_3r"))
     if tp_3r:
-        lines.append(f"- 3R target: `{tp_3r}`")
+        rows.append(("3R target", f"`{tp_3r}`"))
 
     r_dist = fmt_money(metrics.get("r_dist"))
     if r_dist:
-        lines.append(f"- Risk distance: `{r_dist}`")
+        rows.append(("Risk distance", f"`{r_dist}`"))
 
-    return lines
+    return rows
 
 
 def _section_points(items: list[dict[str, Any]], *, default_message: str) -> list[str]:
@@ -269,14 +269,21 @@ def render_analysis_markdown(
     lines = [
         f"# {item.get('symbol')} - {item.get('company_name') or 'Unknown Company'}",
         "",
-        f"- Breakout stance: `{stance.get('label', 'unknown')}`",
-        f"- Score: `{stance.get('score_0_to_100', 'n/a')}`",
-        f"- Confidence: `{stance.get('confidence', 'n/a')}`",
-        f"- Bucket: `{item.get('selection_bucket')}`",
     ]
-    execution_lines = _execution_lines(item, eur_rates_context=eur_rates_context)
-    if execution_lines:
-        lines.extend(execution_lines)
+    summary_rows: list[tuple[str, str]] = [
+        ("Breakout stance", f"`{stance.get('label', 'unknown')}`"),
+        ("Score", f"`{stance.get('score_0_to_100', 'n/a')}`"),
+        ("Confidence", f"`{stance.get('confidence', 'n/a')}`"),
+        ("Bucket", f"`{item.get('selection_bucket')}`"),
+    ]
+    summary_rows.extend(_execution_rows(item, eur_rates_context=eur_rates_context))
+    lines.extend(
+        [
+            "| Field | Value |",
+            "| --- | --- |",
+            *[f"| {label} | {value} |" for label, value in summary_rows],
+        ]
+    )
 
     lines.extend(
         [

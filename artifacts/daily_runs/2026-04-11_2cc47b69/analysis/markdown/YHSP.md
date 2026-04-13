@@ -1,16 +1,18 @@
 # YHSP - Hispanotels Inversiones SOCIMI SA
 
-- Breakout stance: `constructive_watch`
-- Score: `66`
-- Confidence: `medium`
-- Bucket: `entry_ready`
-- Current price: `9.05 EUR`
-- Entry limit: `9.00 EUR`
-- Initial stop: `9.00 EUR`
-- Prior 20d high trigger: `9.05 EUR`
-- 2R target: `9.01 EUR`
-- 3R target: `9.02 EUR`
-- Risk distance: `0.00 EUR`
+| Field | Value |
+| --- | --- |
+| Breakout stance | `constructive_watch` |
+| Score | `66` |
+| Confidence | `medium` |
+| Bucket | `entry_ready` |
+| Current price | `9.05 EUR` |
+| Entry limit | `9.00 EUR` |
+| Initial stop | `9.00 EUR` |
+| Prior 20d high trigger | `9.05 EUR` |
+| 2R target | `9.01 EUR` |
+| 3R target | `9.02 EUR` |
+| Risk distance | `0.00 EUR` |
 
 ## Investment View
 YHSP scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

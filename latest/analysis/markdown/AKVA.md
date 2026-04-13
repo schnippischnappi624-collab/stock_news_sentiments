@@ -1,16 +1,18 @@
 # AKVA - Akva Group
 
-- Breakout stance: `constructive_bullish`
-- Score: `77`
-- Confidence: `high`
-- Bucket: `entry_ready`
-- Current price: `113.50 NOK (10.21 EUR)`
-- Entry limit: `109.45 NOK (9.85 EUR)`
-- Initial stop: `104.54 NOK (9.40 EUR)`
-- Prior 20d high trigger: `110.00 NOK (9.90 EUR)`
-- 2R target: `119.27 NOK (10.73 EUR)`
-- 3R target: `124.18 NOK (11.17 EUR)`
-- Risk distance: `4.91 NOK (0.44 EUR)`
+| Field | Value |
+| --- | --- |
+| Breakout stance | `constructive_bullish` |
+| Score | `77` |
+| Confidence | `high` |
+| Bucket | `entry_ready` |
+| Current price | `113.50 NOK (10.21 EUR)` |
+| Entry limit | `109.45 NOK (9.85 EUR)` |
+| Initial stop | `104.54 NOK (9.40 EUR)` |
+| Prior 20d high trigger | `110.00 NOK (9.90 EUR)` |
+| 2R target | `119.27 NOK (10.73 EUR)` |
+| 3R target | `124.18 NOK (11.17 EUR)` |
+| Risk distance | `4.91 NOK (0.44 EUR)` |
 
 ## Investment View
 AKVA scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

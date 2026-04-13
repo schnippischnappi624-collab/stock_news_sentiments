@@ -1,16 +1,18 @@
 # ALNSE - NSE SA
 
-- Breakout stance: `constructive_bullish`
-- Score: `82`
-- Confidence: `high`
-- Bucket: `entry_ready`
-- Current price: `53.00 EUR`
-- Entry limit: `50.74 EUR`
-- Initial stop: `48.34 EUR`
-- Prior 20d high trigger: `51.00 EUR`
-- 2R target: `55.55 EUR`
-- 3R target: `57.95 EUR`
-- Risk distance: `2.40 EUR`
+| Field | Value |
+| --- | --- |
+| Breakout stance | `constructive_bullish` |
+| Score | `82` |
+| Confidence | `high` |
+| Bucket | `entry_ready` |
+| Current price | `53.00 EUR` |
+| Entry limit | `50.74 EUR` |
+| Initial stop | `48.34 EUR` |
+| Prior 20d high trigger | `51.00 EUR` |
+| 2R target | `55.55 EUR` |
+| 3R target | `57.95 EUR` |
+| Risk distance | `2.40 EUR` |
 
 ## Investment View
 ALNSE scores 82/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.
