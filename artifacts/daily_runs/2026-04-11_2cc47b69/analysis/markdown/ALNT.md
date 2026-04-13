@@ -1,18 +1,21 @@
 # ALNT - Alantra Partners S.A.
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_bullish` |
-| Score | `79` |
-| Confidence | `medium` |
-| Bucket | `entry_ready` |
-| Current price | `9.42 EUR` |
-| Entry limit | `9.29 EUR` |
-| Initial stop | `8.87 EUR` |
-| Prior 20d high trigger | `9.34 EUR` |
-| 2R target | `10.14 EUR` |
-| 3R target | `10.56 EUR` |
-| Risk distance | `0.42 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟢 <code>constructive_bullish</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟢 <code>79</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟡 <code>medium</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>9.42 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>9.29 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟡 <code>0.13 EUR / +1.36% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>8.87 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>9.34 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>10.14 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>10.56 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.42 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 ALNT scores 79/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

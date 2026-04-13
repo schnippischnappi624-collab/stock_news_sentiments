@@ -1,18 +1,21 @@
 # LOUP - Societe LDC SA
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `74` |
-| Confidence | `low` |
-| Bucket | `entry_ready` |
-| Current price | `103.00 EUR` |
-| Entry limit | `100.30 EUR` |
-| Initial stop | `97.16 EUR` |
-| Prior 20d high trigger | `100.80 EUR` |
-| 2R target | `106.56 EUR` |
-| 3R target | `109.70 EUR` |
-| Risk distance | `3.13 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>74</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🔴 <code>low</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>103.00 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>100.30 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟡 <code>2.70 EUR / +2.70% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>97.16 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>100.80 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>106.56 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>109.70 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>3.13 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 LOUP scores 74/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 2 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

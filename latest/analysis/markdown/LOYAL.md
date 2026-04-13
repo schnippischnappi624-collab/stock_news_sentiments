@@ -1,18 +1,21 @@
 # LOYAL - Loyal Solutions AS
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_bullish` |
-| Score | `78` |
-| Confidence | `low` |
-| Bucket | `entry_ready` |
-| Current price | `5.36 SEK (0.49 EUR)` |
-| Entry limit | `4.48 SEK (0.41 EUR)` |
-| Initial stop | `4.08 SEK (0.38 EUR)` |
-| Prior 20d high trigger | `4.50 SEK (0.42 EUR)` |
-| 2R target | `5.28 SEK (0.49 EUR)` |
-| 3R target | `5.68 SEK (0.52 EUR)` |
-| Risk distance | `0.40 SEK (0.04 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟢 <code>constructive_bullish</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟢 <code>78</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🔴 <code>low</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>5.36 SEK (0.49 EUR)</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>4.48 SEK (0.41 EUR)</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🔴 <code>0.88 SEK (0.08 EUR) / +19.71% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>4.08 SEK (0.38 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>4.50 SEK (0.42 EUR)</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>5.28 SEK (0.49 EUR)</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>5.68 SEK (0.52 EUR)</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.40 SEK (0.04 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 LOYAL scores 78/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

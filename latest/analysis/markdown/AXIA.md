@@ -1,13 +1,15 @@
 # AXIA - AXIA Energia
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `mixed_watch` |
-| Score | `57` |
-| Confidence | `high` |
-| Bucket | `candidate` |
-| Current price | `13.03 (13.03 EUR)` |
-| Prior 20d high trigger | `12.70 (12.70 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟠 <code>mixed_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟠 <code>57</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>candidate</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>13.03 (13.03 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>12.70 (12.70 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 AXIA scores 57/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

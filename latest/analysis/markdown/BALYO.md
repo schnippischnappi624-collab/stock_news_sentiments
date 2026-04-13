@@ -1,18 +1,21 @@
 # BALYO - Balyo SA
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `67` |
-| Confidence | `medium` |
-| Bucket | `entry_ready` |
-| Current price | `0.60 EUR` |
-| Entry limit | `0.60 EUR` |
-| Initial stop | `0.60 EUR` |
-| Prior 20d high trigger | `0.60 EUR` |
-| 2R target | `0.60 EUR` |
-| 3R target | `0.60 EUR` |
-| Risk distance | `0.00 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>67</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟡 <code>medium</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>0.60 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>0.60 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟢 <code>0.00 EUR / +0.50% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>0.60 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>0.60 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>0.60 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>0.60 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.00 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 BALYO scores 67/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import html
 from typing import Any
 
 from stock_news.fx import convert_to_eur
@@ -16,51 +17,180 @@ def _metric_num(value: Any, *, digits: int = 2) -> str | None:
         return str(value)
 
 
+def _code_html(value: Any) -> str:
+    return f"<code>{html.escape(str(value))}</code>"
+
+
+def _score_indicator(score: Any) -> str:
+    try:
+        numeric = float(score)
+    except (TypeError, ValueError):
+        return "⚪"
+    if numeric >= 75:
+        return "🟢"
+    if numeric >= 60:
+        return "🟡"
+    if numeric >= 45:
+        return "🟠"
+    return "🔴"
+
+
+def _confidence_indicator(confidence: Any) -> str:
+    lookup = {
+        "high": "🟢",
+        "medium": "🟡",
+        "low": "🔴",
+    }
+    return lookup.get(str(confidence or "").strip().lower(), "⚪")
+
+
+def _distance_to_entry_indicator(close: Any, entry_limit: Any) -> str:
+    try:
+        close_value = float(close)
+        entry_value = float(entry_limit)
+    except (TypeError, ValueError):
+        return "⚪"
+    if entry_value == 0:
+        return "⚪"
+    pct_above = (close_value - entry_value) / entry_value * 100.0
+    if pct_above <= 1.0:
+        return "🟢"
+    if pct_above <= 3.0:
+        return "🟡"
+    if pct_above <= 5.0:
+        return "🟠"
+    return "🔴"
+
+
+def _format_money_with_eur(
+    value: Any,
+    *,
+    currency: str,
+    eur_rates_context: dict[str, Any] | None = None,
+    digits: int = 2,
+) -> str | None:
+    text = _metric_num(value, digits=digits)
+    if text is None:
+        return None
+    label = f"{text} {currency}".strip()
+    eur_value = convert_to_eur(value, currency, eur_rates_context)
+    if currency.upper() != "EUR" and eur_value is not None:
+        label += f" ({eur_value:,.{digits}f} EUR)"
+    return label
+
+
 def _execution_rows(item: dict[str, Any], *, eur_rates_context: dict[str, Any] | None = None) -> list[tuple[str, str]]:
     metrics = item.get("metrics", {}) or {}
     currency = str(item.get("currency") or "").strip()
 
-    def fmt_money(value: Any, *, digits: int = 2) -> str | None:
-        text = _metric_num(value, digits=digits)
-        if text is None:
-            return None
-        label = f"{text} {currency}".strip()
-        eur_value = convert_to_eur(value, currency, eur_rates_context)
-        if currency.upper() != "EUR" and eur_value is not None:
-            label += f" ({eur_value:,.{digits}f} EUR)"
-        return label
-
     rows: list[tuple[str, str]] = []
 
-    current_price = fmt_money(metrics.get("close"))
+    current_price = _format_money_with_eur(
+        metrics.get("close"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if current_price:
-        rows.append(("Current price", f"`{current_price}`"))
+        rows.append(("Current price", _code_html(current_price)))
 
-    entry_limit = fmt_money(metrics.get("entry_limit"))
+    entry_limit = _format_money_with_eur(
+        metrics.get("entry_limit"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if entry_limit:
-        rows.append(("Entry limit", f"`{entry_limit}`"))
+        rows.append(("Entry limit", _code_html(entry_limit)))
 
-    stop_init = fmt_money(metrics.get("stop_init"))
+    close_value = metrics.get("close")
+    entry_limit_value = metrics.get("entry_limit")
+    if close_value not in {None, ""} and entry_limit_value not in {None, ""}:
+        try:
+            distance_abs = float(close_value) - float(entry_limit_value)
+            distance_pct = (distance_abs / float(entry_limit_value) * 100.0) if float(entry_limit_value) else None
+        except (TypeError, ValueError, ZeroDivisionError):
+            distance_abs = None
+            distance_pct = None
+        if distance_abs is not None and distance_pct is not None:
+            distance_label = _format_money_with_eur(
+                distance_abs,
+                currency=currency,
+                eur_rates_context=eur_rates_context,
+            )
+            if distance_label:
+                direction = "above" if distance_abs > 0 else "below" if distance_abs < 0 else "at"
+                pct_text = f"{distance_pct:+.2f}%"
+                icon = _distance_to_entry_indicator(close_value, entry_limit_value)
+                rows.append(
+                    (
+                        "Distance to entry limit",
+                        f"{icon} {_code_html(f'{distance_label} / {pct_text} {direction} limit')}",
+                    )
+                )
+
+    stop_init = _format_money_with_eur(
+        metrics.get("stop_init"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if stop_init:
-        rows.append(("Initial stop", f"`{stop_init}`"))
+        rows.append(("Initial stop", _code_html(stop_init)))
 
-    hh20_prev = fmt_money(metrics.get("hh20_prev"))
+    hh20_prev = _format_money_with_eur(
+        metrics.get("hh20_prev"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if hh20_prev:
-        rows.append(("Prior 20d high trigger", f"`{hh20_prev}`"))
+        rows.append(("Prior 20d high trigger", _code_html(hh20_prev)))
 
-    tp_2r = fmt_money(metrics.get("tp_2r"))
+    tp_2r = _format_money_with_eur(
+        metrics.get("tp_2r"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if tp_2r:
-        rows.append(("2R target", f"`{tp_2r}`"))
+        rows.append(("2R target", _code_html(tp_2r)))
 
-    tp_3r = fmt_money(metrics.get("tp_3r"))
+    tp_3r = _format_money_with_eur(
+        metrics.get("tp_3r"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if tp_3r:
-        rows.append(("3R target", f"`{tp_3r}`"))
+        rows.append(("3R target", _code_html(tp_3r)))
 
-    r_dist = fmt_money(metrics.get("r_dist"))
+    r_dist = _format_money_with_eur(
+        metrics.get("r_dist"),
+        currency=currency,
+        eur_rates_context=eur_rates_context,
+    )
     if r_dist:
-        rows.append(("Risk distance", f"`{r_dist}`"))
+        rows.append(("Risk distance", _code_html(r_dist)))
 
     return rows
+
+
+def _summary_table_lines(
+    item: dict[str, Any],
+    stance: dict[str, Any],
+    *,
+    eur_rates_context: dict[str, Any] | None = None,
+) -> list[str]:
+    score = stance.get("score_0_to_100", "n/a")
+    confidence = stance.get("confidence", "n/a")
+    rows: list[tuple[str, str]] = [
+        ("Breakout stance", f"{_score_indicator(score)} {_code_html(stance.get('label', 'unknown'))}"),
+        ("Score", f"{_score_indicator(score)} {_code_html(score)}"),
+        ("Confidence", f"{_confidence_indicator(confidence)} {_code_html(confidence)}"),
+        ("Bucket", _code_html(item.get("selection_bucket"))),
+    ]
+    rows.extend(_execution_rows(item, eur_rates_context=eur_rates_context))
+
+    lines = ["<table>", "<tbody>"]
+    for label, value in rows:
+        lines.append(f"<tr><td><strong>{html.escape(str(label))}</strong></td><td>{value}</td></tr>")
+    lines.extend(["</tbody>", "</table>"])
+    return lines
 
 
 def _section_points(items: list[dict[str, Any]], *, default_message: str) -> list[str]:
@@ -270,20 +400,7 @@ def render_analysis_markdown(
         f"# {item.get('symbol')} - {item.get('company_name') or 'Unknown Company'}",
         "",
     ]
-    summary_rows: list[tuple[str, str]] = [
-        ("Breakout stance", f"`{stance.get('label', 'unknown')}`"),
-        ("Score", f"`{stance.get('score_0_to_100', 'n/a')}`"),
-        ("Confidence", f"`{stance.get('confidence', 'n/a')}`"),
-        ("Bucket", f"`{item.get('selection_bucket')}`"),
-    ]
-    summary_rows.extend(_execution_rows(item, eur_rates_context=eur_rates_context))
-    lines.extend(
-        [
-            "| Field | Value |",
-            "| --- | --- |",
-            *[f"| {label} | {value} |" for label, value in summary_rows],
-        ]
-    )
+    lines.extend(_summary_table_lines(item, stance, eur_rates_context=eur_rates_context))
 
     lines.extend(
         [

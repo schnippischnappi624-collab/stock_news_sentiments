@@ -1,18 +1,21 @@
 # 0DNW - Austevoll Seafood ASA
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `69` |
-| Confidence | `high` |
-| Bucket | `entry_ready` |
-| Current price | `1.06 NOK (0.09 EUR)` |
-| Entry limit | `1.05 NOK (0.09 EUR)` |
-| Initial stop | `1.02 NOK (0.09 EUR)` |
-| Prior 20d high trigger | `1.05 NOK (0.09 EUR)` |
-| 2R target | `1.11 NOK (0.10 EUR)` |
-| 3R target | `1.14 NOK (0.10 EUR)` |
-| Risk distance | `0.03 NOK (0.00 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>69</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>1.06 NOK (0.09 EUR)</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>1.05 NOK (0.09 EUR)</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟢 <code>0.01 NOK (0.00 EUR) / +0.69% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>1.02 NOK (0.09 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>1.05 NOK (0.09 EUR)</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>1.11 NOK (0.10 EUR)</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>1.14 NOK (0.10 EUR)</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.03 NOK (0.00 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 0DNW scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

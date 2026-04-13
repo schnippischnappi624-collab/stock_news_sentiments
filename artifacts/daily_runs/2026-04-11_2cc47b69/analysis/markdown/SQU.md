@@ -1,18 +1,21 @@
 # SQU - Vinci S. A.
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `65` |
-| Confidence | `high` |
-| Bucket | `entry_ready` |
-| Current price | `136.20 EUR` |
-| Entry limit | `132.93 EUR` |
-| Initial stop | `128.28 EUR` |
-| Prior 20d high trigger | `133.60 EUR` |
-| 2R target | `142.23 EUR` |
-| 3R target | `146.88 EUR` |
-| Risk distance | `4.65 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>65</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>136.20 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>132.93 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟡 <code>3.27 EUR / +2.46% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>128.28 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>133.60 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>142.23 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>146.88 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>4.65 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 SQU scores 65/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

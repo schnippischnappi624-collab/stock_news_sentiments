@@ -1,13 +1,15 @@
 # TIMB - TIM Participacoes SA
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `mixed_watch` |
-| Score | `50` |
-| Confidence | `high` |
-| Bucket | `candidate` |
-| Current price | `27.96 (27.96 EUR)` |
-| Prior 20d high trigger | `27.64 (27.64 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟠 <code>mixed_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟠 <code>50</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>candidate</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>27.96 (27.96 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>27.64 (27.64 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 TIMB scores 50/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

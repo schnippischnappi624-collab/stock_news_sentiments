@@ -1,13 +1,15 @@
 # LION - Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.)
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `mixed_watch` |
-| Score | `52` |
-| Confidence | `low` |
-| Bucket | `candidate` |
-| Current price | `10.88 (10.88 EUR)` |
-| Prior 20d high trigger | `10.72 (10.72 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟠 <code>mixed_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟠 <code>52</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🔴 <code>low</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>candidate</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>10.88 (10.88 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>10.72 (10.72 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 LION scores 52/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

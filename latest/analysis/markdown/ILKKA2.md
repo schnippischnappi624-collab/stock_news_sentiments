@@ -1,18 +1,21 @@
 # ILKKA2 - Ilkka Oyj 2
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `mixed_watch` |
-| Score | `57` |
-| Confidence | `low` |
-| Bucket | `entry_ready` |
-| Current price | `4.32 EUR` |
-| Entry limit | `4.31 EUR` |
-| Initial stop | `4.16 EUR` |
-| Prior 20d high trigger | `4.33 EUR` |
-| 2R target | `4.61 EUR` |
-| 3R target | `4.76 EUR` |
-| Risk distance | `0.15 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟠 <code>mixed_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟠 <code>57</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🔴 <code>low</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>4.32 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>4.31 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟢 <code>0.01 EUR / +0.27% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>4.16 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>4.33 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>4.61 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>4.76 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.15 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 ILKKA2 scores 57/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.

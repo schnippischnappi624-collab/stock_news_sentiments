@@ -1,18 +1,21 @@
 # RIO1 - Rio Tinto Group
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_bullish` |
-| Score | `75` |
-| Confidence | `high` |
-| Bucket | `entry_ready` |
-| Current price | `84.28 EUR` |
-| Entry limit | `81.95 EUR` |
-| Initial stop | `78.08 EUR` |
-| Prior 20d high trigger | `82.36 EUR` |
-| 2R target | `89.68 EUR` |
-| 3R target | `93.55 EUR` |
-| Risk distance | `3.87 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟢 <code>constructive_bullish</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟢 <code>75</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>84.28 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>81.95 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟡 <code>2.33 EUR / +2.85% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>78.08 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>82.36 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>89.68 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>93.55 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>3.87 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 RIO1 scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

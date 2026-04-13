@@ -1,18 +1,21 @@
 # ALRIB - Riber S.A
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_bullish` |
-| Score | `87` |
-| Confidence | `high` |
-| Bucket | `entry_ready` |
-| Current price | `7.13 EUR` |
-| Entry limit | `6.12 EUR` |
-| Initial stop | `5.44 EUR` |
-| Prior 20d high trigger | `6.15 EUR` |
-| 2R target | `7.47 EUR` |
-| 3R target | `8.15 EUR` |
-| Risk distance | `0.68 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟢 <code>constructive_bullish</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟢 <code>87</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>7.13 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>6.12 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🔴 <code>1.01 EUR / +16.52% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>5.44 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>6.15 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>7.47 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>8.15 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.68 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 ALRIB scores 87/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

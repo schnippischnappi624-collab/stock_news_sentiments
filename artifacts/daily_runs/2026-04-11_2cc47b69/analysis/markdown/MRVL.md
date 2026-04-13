@@ -1,13 +1,15 @@
 # MRVL - Marvell Technology Group Ltd
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `61` |
-| Confidence | `high` |
-| Bucket | `candidate` |
-| Current price | `128.49 (128.49 EUR)` |
-| Prior 20d high trigger | `121.97 (121.97 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>61</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>candidate</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>128.49 (128.49 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>121.97 (121.97 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 MRVL scores 61/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 1 adverse effects.

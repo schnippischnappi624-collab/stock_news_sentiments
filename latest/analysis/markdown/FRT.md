@@ -1,13 +1,15 @@
 # FRT - Federal Realty Investment Trust
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `63` |
-| Confidence | `high` |
-| Bucket | `candidate` |
-| Current price | `109.05 (109.05 EUR)` |
-| Prior 20d high trigger | `108.54 (108.54 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>63</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>candidate</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>109.05 (109.05 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>108.54 (108.54 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 FRT scores 63/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 7 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

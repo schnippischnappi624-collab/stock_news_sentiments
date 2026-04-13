@@ -1,18 +1,21 @@
 # KREATE - Kreate Group Oyj
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `72` |
-| Confidence | `high` |
-| Bucket | `entry_ready` |
-| Current price | `16.25 EUR` |
-| Entry limit | `15.32 EUR` |
-| Initial stop | `14.40 EUR` |
-| Prior 20d high trigger | `15.40 EUR` |
-| 2R target | `17.16 EUR` |
-| 3R target | `18.09 EUR` |
-| Risk distance | `0.92 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>72</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟢 <code>high</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>16.25 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>15.32 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🔴 <code>0.93 EUR / +6.05% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>14.40 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>15.40 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>17.16 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>18.09 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>0.92 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 KREATE scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 1 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.

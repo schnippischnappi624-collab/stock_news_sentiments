@@ -72,11 +72,14 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "## Market Overlay" in markdown
     assert "Stock-news coverage quality" in markdown
     assert "Macro overlay weight used in scoring" in markdown
-    assert "| Field | Value |" in markdown
-    assert "| Breakout stance | `constructive` |" in markdown
-    assert "| Current price | `21.56 USD (10.78 EUR)` |" in markdown
-    assert "| Entry limit | `20.50 USD (10.25 EUR)` |" in markdown
-    assert "| Initial stop | `17.83 USD (8.91 EUR)` |" in markdown
+    assert "<table>" in markdown
+    assert "<td><strong>Breakout stance</strong></td><td>🟡 <code>constructive</code></td>" in markdown
+    assert "<td><strong>Score</strong></td><td>🟡 <code>72</code></td>" in markdown
+    assert "<td><strong>Confidence</strong></td><td>🟡 <code>medium</code></td>" in markdown
+    assert "<td><strong>Current price</strong></td><td><code>21.56 USD (10.78 EUR)</code></td>" in markdown
+    assert "<td><strong>Entry limit</strong></td><td><code>20.50 USD (10.25 EUR)</code></td>" in markdown
+    assert "<td><strong>Distance to entry limit</strong></td><td>🔴 <code>1.06 USD (0.53 EUR) / +5.17% above limit</code></td>" in markdown
+    assert "<td><strong>Initial stop</strong></td><td><code>17.83 USD (8.91 EUR)</code></td>" in markdown
 
 
 def test_render_regional_project_readme_has_separate_eu_and_us_tables() -> None:

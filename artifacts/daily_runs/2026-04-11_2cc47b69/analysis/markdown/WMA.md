@@ -1,18 +1,21 @@
 # WMA - WindowMaster International AS
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_watch` |
-| Score | `66` |
-| Confidence | `medium` |
-| Bucket | `entry_ready` |
-| Current price | `940.00 DKK (125.79 EUR)` |
-| Entry limit | `920.38 DKK (123.16 EUR)` |
-| Initial stop | `873.90 DKK (116.95 EUR)` |
-| Prior 20d high trigger | `925.00 DKK (123.78 EUR)` |
-| 2R target | `1,013.33 DKK (135.60 EUR)` |
-| 3R target | `1,059.80 DKK (141.82 EUR)` |
-| Risk distance | `46.48 DKK (6.22 EUR)` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟡 <code>constructive_watch</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟡 <code>66</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟡 <code>medium</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>940.00 DKK (125.79 EUR)</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>920.38 DKK (123.16 EUR)</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟡 <code>19.62 DKK (2.63 EUR) / +2.13% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>873.90 DKK (116.95 EUR)</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>925.00 DKK (123.78 EUR)</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>1,013.33 DKK (135.60 EUR)</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>1,059.80 DKK (141.82 EUR)</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>46.48 DKK (6.22 EUR)</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 WMA scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 3 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.

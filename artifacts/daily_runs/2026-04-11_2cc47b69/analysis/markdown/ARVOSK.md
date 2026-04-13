@@ -1,18 +1,21 @@
 # ARVOSK - Pohjanmaan Arvo Sijoitusosuuskunta
 
-| Field | Value |
-| --- | --- |
-| Breakout stance | `constructive_bullish` |
-| Score | `77` |
-| Confidence | `medium` |
-| Bucket | `entry_ready` |
-| Current price | `91.50 EUR` |
-| Entry limit | `89.53 EUR` |
-| Initial stop | `86.08 EUR` |
-| Prior 20d high trigger | `89.98 EUR` |
-| 2R target | `96.44 EUR` |
-| 3R target | `99.89 EUR` |
-| Risk distance | `3.45 EUR` |
+<table>
+<tbody>
+<tr><td><strong>Breakout stance</strong></td><td>🟢 <code>constructive_bullish</code></td></tr>
+<tr><td><strong>Score</strong></td><td>🟢 <code>77</code></td></tr>
+<tr><td><strong>Confidence</strong></td><td>🟡 <code>medium</code></td></tr>
+<tr><td><strong>Bucket</strong></td><td><code>entry_ready</code></td></tr>
+<tr><td><strong>Current price</strong></td><td><code>91.50 EUR</code></td></tr>
+<tr><td><strong>Entry limit</strong></td><td><code>89.53 EUR</code></td></tr>
+<tr><td><strong>Distance to entry limit</strong></td><td>🟡 <code>1.97 EUR / +2.20% above limit</code></td></tr>
+<tr><td><strong>Initial stop</strong></td><td><code>86.08 EUR</code></td></tr>
+<tr><td><strong>Prior 20d high trigger</strong></td><td><code>89.98 EUR</code></td></tr>
+<tr><td><strong>2R target</strong></td><td><code>96.44 EUR</code></td></tr>
+<tr><td><strong>3R target</strong></td><td><code>99.89 EUR</code></td></tr>
+<tr><td><strong>Risk distance</strong></td><td><code>3.45 EUR</code></td></tr>
+</tbody>
+</table>
 
 ## Investment View
 ARVOSK scores 77/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects. Company-specific news coverage is still thin, so macro effects are treated as secondary evidence.
