@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-14T09:15:52.572354+00:00",
+  "industry": "Specialty Industrial Machinery",
+  "long_name": "The Gorman-Rupp Company",
+  "provider": "yfinance",
+  "query_symbol": "GRC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GRC",
+  "sector": "Industrials",
+  "short_name": "Gorman-Rupp Company (The)",
+  "symbol": "GRC"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-14T09:15:52.572354+00:00",
+  "industry": "Communication Equipment",
+  "long_name": "Nokia Oyj",
+  "provider": "yfinance",
+  "query_symbol": "NOK",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NOK",
+  "sector": "Technology",
+  "short_name": "Nokia Corporation Sponsored",
+  "symbol": "NOK"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "OQX",
+  "fetched_at_utc": "2026-04-14T09:15:52.572354+00:00",
+  "industry": "Insurance - Diversified",
+  "long_name": "AXA SA",
+  "provider": "yfinance",
+  "query_symbol": "AXAHY",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AXAHY",
+  "sector": "Financial Services",
+  "short_name": "AXA",
+  "symbol": "AXAHY"
+}

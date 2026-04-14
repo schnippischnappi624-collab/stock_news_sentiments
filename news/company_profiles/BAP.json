@@ -1,0 +1,14 @@
+{
+  "country": "Peru",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-14T09:15:52.572354+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Credicorp Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "BAP",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BAP",
+  "sector": "Financial Services",
+  "short_name": "Credicorp Ltd.",
+  "symbol": "BAP"
+}

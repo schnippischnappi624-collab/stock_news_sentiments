@@ -1,0 +1,14 @@
+{
+  "country": "Denmark",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-14T09:15:52.572354+00:00",
+  "industry": "Biotechnology",
+  "long_name": "Ascendis Pharma A/S",
+  "provider": "yfinance",
+  "query_symbol": "ASND",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ASND",
+  "sector": "Healthcare",
+  "short_name": "Ascendis Pharma A/S",
+  "symbol": "ASND"
+}
