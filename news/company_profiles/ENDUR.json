@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Engineering & Construction",
+  "long_name": "End\u00far ASA",
+  "provider": "yfinance",
+  "query_symbol": "ENDUR.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ENDUR",
+  "sector": "Industrials",
+  "short_name": "END\u00daR",
+  "symbol": "ENDUR.OL"
+}

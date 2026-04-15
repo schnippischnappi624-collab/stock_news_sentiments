@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Real Estate - Diversified",
+  "long_name": "Acrinova AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "ACRI-A.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ACRI-A",
+  "sector": "Real Estate",
+  "short_name": "Acrinova AB ser. A",
+  "symbol": "ACRI-A.ST"
+}

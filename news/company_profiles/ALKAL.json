@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Semiconductors",
+  "long_name": "Kalray S.A.",
+  "provider": "yfinance",
+  "query_symbol": "ALKAL.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ALKAL",
+  "sector": "Technology",
+  "short_name": "KALRAY",
+  "symbol": "ALKAL.PA"
+}

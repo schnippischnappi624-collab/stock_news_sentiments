@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Software - Application",
+  "long_name": "Streamwide S.A.",
+  "provider": "yfinance",
+  "query_symbol": "ALSTW.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ALSTW",
+  "sector": "Technology",
+  "short_name": "STREAMWIDE",
+  "symbol": "ALSTW.PA"
+}

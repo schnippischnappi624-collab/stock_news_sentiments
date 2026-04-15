@@ -1,0 +1,14 @@
+{
+  "country": "Brazil",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Other Industrial Metals & Mining",
+  "long_name": "Vale S.A.",
+  "provider": "yfinance",
+  "query_symbol": "XVALO.MC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "XVALO",
+  "sector": "Basic Materials",
+  "short_name": "COMPANHIA VALE DO RIO DOCE, S.A",
+  "symbol": "XVALO.MC"
+}

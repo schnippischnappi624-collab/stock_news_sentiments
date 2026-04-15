@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Information Technology Services",
+  "long_name": "RealTech AG",
+  "provider": "yfinance",
+  "query_symbol": "RTC.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RTC",
+  "sector": "Technology",
+  "short_name": "REALTECH AG                   I",
+  "symbol": "RTC.DE"
+}

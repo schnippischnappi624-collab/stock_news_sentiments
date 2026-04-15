@@ -3,8 +3,8 @@
 Auto-generated daily breakout dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-04-14`
-- Symbols analyzed: `35`
+- Feed dates: `2026-04-14, 2026-04-15`
+- Symbols analyzed: `52`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -13,27 +13,27 @@ Quick links:
 
 ## EU Best Scoring Candidates
 
-- Run ID: `2026-04-14_eu_28c7f3ca`
-- Feed dates: `2026-04-14`
-- Symbols analyzed: `20`
+- Run ID: `2026-04-15_eu_fa713f64`
+- Feed dates: `2026-04-15`
+- Symbols analyzed: `37`
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [PLEJD](latest/eu/analysis/markdown/PLEJD.md) | Plejd AB | $\color{#cf222e}{\textsf{+11.35\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 2 | [WHA](latest/eu/analysis/markdown/WHA.md) | Wereldhave NV | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 3 | [ROS](latest/eu/analysis/markdown/ROS.md) | Rosenbauer International AG | $\color{#9a6700}{\textsf{+1.91\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 4 | [ADKO](latest/eu/analysis/markdown/ADKO.md) | Addiko Bank AG | $\color{#9a6700}{\textsf{+2.74\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 5 | [ELG](latest/eu/analysis/markdown/ELG.md) | Elmos Semiconductor SE | $\color{#cf222e}{\textsf{+5.09\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 6 | [RAW](latest/eu/analysis/markdown/RAW.md) | Raiffeisen Bank International AG | $\color{#cf222e}{\textsf{+8.15\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 7 | [RBI](latest/eu/analysis/markdown/RBI.md) | Raiffeisen Bank International AG | $\color{#cf222e}{\textsf{+8.34\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 8 | [ALSOG](latest/eu/analysis/markdown/ALSOG.md) | Sogeclair SA | $\color{#bc4c00}{\textsf{+4.48\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 9 | [0AAL](latest/eu/analysis/markdown/0AAL.md) | Allfunds Group PLC | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 10 | [GURN](latest/eu/analysis/markdown/GURN.md) | Gurit Holding AG | $\color{#cf222e}{\textsf{+6.11\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 11 | [GMM](latest/eu/analysis/markdown/GMM.md) | Grammer AG | $\color{#cf222e}{\textsf{+8.93\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 12 | [ACRI-B](latest/eu/analysis/markdown/ACRI-B.md) | Acrinova AB Series B | $\color{#cf222e}{\textsf{+6.76\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 13 | [ACOMO](latest/eu/analysis/markdown/ACOMO.md) | Amsterdam Commodities NV | $\color{#9a6700}{\textsf{+1.42\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 14 | [ARVEN](latest/eu/analysis/markdown/ARVEN.md) | ARVERNE GROUP | $\color{#9a6700}{\textsf{+2.39\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 15 | [TKA](latest/eu/analysis/markdown/TKA.md) | Telekom Austria AG | $\color{#1a7f37}{\textsf{+0.92\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 1 | [0B2](latest/eu/analysis/markdown/0B2.md) | Bawag Group AG | $\color{#cf222e}{\textsf{+7.97\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 2 | [TRVC](latest/eu/analysis/markdown/TRVC.md) | Citigroup Inc | $\color{#bc4c00}{\textsf{+4.05\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 3 | [ALSMA](latest/eu/analysis/markdown/ALSMA.md) | SMAIO SA | $\color{#bc4c00}{\textsf{+3.22\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 4 | [0INB](latest/eu/analysis/markdown/0INB.md) | STMicroelectronics NV | $\color{#9a6700}{\textsf{+2.25\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 5 | [NORBT](latest/eu/analysis/markdown/NORBT.md) | Norbit ASA | $\color{#cf222e}{\textsf{+7.52\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 6 | [COTN](latest/eu/analysis/markdown/COTN.md) | Comet Holding AG | $\color{#cf222e}{\textsf{+6.78\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 7 | [PPGN](latest/eu/analysis/markdown/PPGN.md) | PolyPeptide Group AG | $\color{#9a6700}{\textsf{+2.69\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 8 | [ALTHX](latest/eu/analysis/markdown/ALTHX.md) | Theranexus SA | $\color{#cf222e}{\textsf{+9.00\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 9 | [ALKAL](latest/eu/analysis/markdown/ALKAL.md) | Kalray SA | $\color{#cf222e}{\textsf{+13.54\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 10 | [ALROC](latest/eu/analysis/markdown/ALROC.md) | Roctool | $\color{#bc4c00}{\textsf{+3.47\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 11 | [ALSTW](latest/eu/analysis/markdown/ALSTW.md) | Streamwide | $\color{#9a6700}{\textsf{+1.79\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 12 | [KOSKI](latest/eu/analysis/markdown/KOSKI.md) | Koskisen | $\color{#9a6700}{\textsf{+2.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 13 | [ALPOU](latest/eu/analysis/markdown/ALPOU.md) | Poulaillon SA | $\color{#cf222e}{\textsf{+21.30\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 14 | [RTC](latest/eu/analysis/markdown/RTC.md) | RealTech AG | $\color{#9a6700}{\textsf{+1.38\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 15 | [ASCN](latest/eu/analysis/markdown/ASCN.md) | Ascom Holding AG | $\color{#1a7f37}{\textsf{+0.85\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
 
 ## US Best Scoring Candidates
 
@@ -72,6 +72,5 @@ Quick links:
 
 The repo currently hides symbols with a current price below `1.00 EUR` as a temporary workaround until the upstream source filter is fixed.
 
-- `EU` `REFINE` - Refine Group AB - `0.68 SEK` (0.06 EUR)
-- `EU` `KLAR` - Klaria Pharma Holding AB - `1.22 SEK` (0.11 EUR)
-- `EU` `SPRINT` - Sprint Bioscience AB - `3.66 SEK` (0.34 EUR)
+- `EU` `BOHO` - Boho Group AB - `9.38 SEK` (0.87 EUR)
+- `EU` `ALARF` - Adeunis - `0.90 EUR` (0.90 EUR)

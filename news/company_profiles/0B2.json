@@ -1,0 +1,14 @@
+{
+  "country": "Austria",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "BAWAG Group AG",
+  "provider": "yfinance",
+  "query_symbol": "0B2.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "0B2",
+  "sector": "Financial Services",
+  "short_name": "BAWAG Group AG                I",
+  "symbol": "0B2.DE"
+}

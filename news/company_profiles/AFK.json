@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Conglomerates",
+  "long_name": "Arendals Fossekompani ASA",
+  "provider": "yfinance",
+  "query_symbol": "AFK.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AFK",
+  "sector": "Industrials",
+  "short_name": "ARENDALS FOSSEKOMPANI",
+  "symbol": "AFK.OL"
+}

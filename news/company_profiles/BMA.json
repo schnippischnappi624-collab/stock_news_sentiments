@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Building Products & Equipment",
+  "long_name": "Byggma ASA",
+  "provider": "yfinance",
+  "query_symbol": "BMA.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BMA",
+  "sector": "Industrials",
+  "short_name": "BYGGMA",
+  "symbol": "BMA.OL"
+}

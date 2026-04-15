@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Scientific & Technical Instruments",
+  "long_name": "Norbit ASA",
+  "provider": "yfinance",
+  "query_symbol": "NORBT.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NORBT",
+  "sector": "Technology",
+  "short_name": "NORBIT",
+  "symbol": "NORBT.OL"
+}

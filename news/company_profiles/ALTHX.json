@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Biotechnology",
+  "long_name": "THX Pharma Soci\u00e9t\u00e9 Anonyme",
+  "provider": "yfinance",
+  "query_symbol": "ALTHX.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ALTHX",
+  "sector": "Healthcare",
+  "short_name": "THX PHARMA",
+  "symbol": "ALTHX.PA"
+}

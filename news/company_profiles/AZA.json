@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Avanza Bank Holding AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "AZA.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AZA",
+  "sector": "Financial Services",
+  "short_name": "Avanza Bank Holding AB",
+  "symbol": "AZA.ST"
+}

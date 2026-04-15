@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Lumber & Wood Production",
+  "long_name": "Koskisen Oyj",
+  "provider": "yfinance",
+  "query_symbol": "KOSKI.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "KOSKI",
+  "sector": "Basic Materials",
+  "short_name": "Koskisen Oyj",
+  "symbol": "KOSKI.HE"
+}

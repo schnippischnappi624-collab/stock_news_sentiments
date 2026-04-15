@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Grocery Stores",
+  "long_name": "Carrefour SA",
+  "provider": "yfinance",
+  "query_symbol": "CAR.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CAR",
+  "sector": "Consumer Defensive",
+  "short_name": "CARREFOUR S.A.                A",
+  "symbol": "CAR.DE"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "industry": "Lodging",
+  "long_name": "Scandic Hotels Group AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "SHOT.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SHOT",
+  "sector": "Consumer Cyclical",
+  "short_name": "Scandic Hotels Group AB",
+  "symbol": "SHOT.ST"
+}

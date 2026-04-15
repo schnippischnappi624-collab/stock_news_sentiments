@@ -1,0 +1,9 @@
+{
+  "fetched_at_utc": "2026-04-15T04:01:31.747539+00:00",
+  "provider": "yfinance",
+  "query_candidates": [
+    "ASCN"
+  ],
+  "symbol": "ASCN",
+  "warning": "no_plausible_match"
+}
