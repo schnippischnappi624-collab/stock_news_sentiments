@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-15T09:15:53.479702+00:00",
+  "industry": "Electronic Components",
+  "long_name": "Celestica Inc.",
+  "provider": "yfinance",
+  "query_symbol": "CLS",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CLS",
+  "sector": "Technology",
+  "short_name": "Celestica, Inc.",
+  "symbol": "CLS"
+}

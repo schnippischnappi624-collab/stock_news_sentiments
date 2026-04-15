@@ -115,6 +115,10 @@
     "last_fetch_utc": "2026-04-14T09:15:05.921249+00:00",
     "provider": "google_news_rss"
   },
+  "AVNS": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "AXAHY": {
     "last_fetch_utc": "2026-04-14T09:15:05.921249+00:00",
     "provider": "google_news_rss"
@@ -139,6 +143,10 @@
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
     "provider": "google_news_rss"
   },
+  "BKH": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "BMA": {
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
     "provider": "google_news_rss"
@@ -155,6 +163,10 @@
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
     "provider": "google_news_rss"
   },
+  "CLS": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "CMO": {
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
     "provider": "google_news_rss"
@@ -167,8 +179,20 @@
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
     "provider": "google_news_rss"
   },
+  "CPRX": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "CTEK": {
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
+    "provider": "google_news_rss"
+  },
+  "DAC": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
+  "ECG": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
   "ELG": {
@@ -201,6 +225,10 @@
   },
   "GRNG": {
     "last_fetch_utc": "2026-04-13T14:45:06.016731+00:00",
+    "provider": "google_news_rss"
+  },
+  "GSAT": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
   "GURN": {
@@ -247,8 +275,12 @@
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
     "provider": "google_news_rss"
   },
+  "LGND": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "LION": {
-    "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
   "LOIHDE": {
@@ -343,6 +375,10 @@
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
     "provider": "google_news_rss"
   },
+  "REZI": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "RIO1": {
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
     "provider": "google_news_rss"
@@ -369,6 +405,10 @@
   },
   "SHOT": {
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
+    "provider": "google_news_rss"
+  },
+  "SKYT": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
   "SOBI": {
@@ -403,8 +443,16 @@
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
     "provider": "google_news_rss"
   },
+  "TVTX": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
   "VTURA": {
     "last_fetch_utc": "2026-04-13T14:45:06.016731+00:00",
+    "provider": "google_news_rss"
+  },
+  "WASH": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
   "WHA": {
@@ -417,6 +465,10 @@
   },
   "WMA": {
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
+  },
+  "WT": {
+    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
   "XVALO": {

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-15T09:15:53.479702+00:00",
+  "industry": "Industrial Distribution",
+  "long_name": "Resideo Technologies, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "REZI",
+  "quote_type": "EQUITY",
+  "requested_symbol": "REZI",
+  "sector": "Industrials",
+  "short_name": "Resideo Technologies, Inc.",
+  "symbol": "REZI"
+}

@@ -3,8 +3,8 @@
 Auto-generated daily breakout dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-04-14, 2026-04-15`
-- Symbols analyzed: `52`
+- Feed dates: `2026-04-15`
+- Symbols analyzed: `51`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -37,27 +37,26 @@ Quick links:
 
 ## US Best Scoring Candidates
 
-- Run ID: `2026-04-14_us_2b80ae7d`
-- Feed dates: `2026-04-14`
-- Symbols analyzed: `15`
+- Run ID: `2026-04-15_us_6488ea4f`
+- Feed dates: `2026-04-15`
+- Symbols analyzed: `14`
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RVMD](latest/us/analysis/markdown/RVMD.md) | Revolution Medicines Inc | $\color{#cf222e}{\textsf{+34.95\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 2 | [OPTX](latest/us/analysis/markdown/OPTX.md) | Syntec Optics Holdings Inc. | $\color{#cf222e}{\textsf{+16.95\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 3 | [AXAHY](latest/us/analysis/markdown/AXAHY.md) | Axa SA ADR | $\color{#1a7f37}{\textsf{+0.03\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
-| 4 | [FORM](latest/us/analysis/markdown/FORM.md) | FormFactor Inc | $\color{#9a6700}{\textsf{+1.52\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 5 | [NOK](latest/us/analysis/markdown/NOK.md) | Nokia Corp ADR | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{68}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 6 | [SYRE](latest/us/analysis/markdown/SYRE.md) | Spyre Therapeutics Inc. | $\color{#cf222e}{\textsf{+16.45\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 7 | [ASND](latest/us/analysis/markdown/ASND.md) | Ascendis Pharma AS | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{63}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 8 | [BAP](latest/us/analysis/markdown/BAP.md) | Credicorp Ltd | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{62}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
-| 9 | [GRC](latest/us/analysis/markdown/GRC.md) | Gorman-Rupp Company | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{59}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
-| 10 | [SQM](latest/us/analysis/markdown/SQM.md) | Sociedad Quimica y Minera de Chile SA ADR B | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
-| 11 | [IFNNY](latest/us/analysis/markdown/IFNNY.md) | Infineon Technologies AG ADR | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
-| 12 | [KMTUY](latest/us/analysis/markdown/KMTUY.md) | Komatsu Ltd | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{51}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
-| 13 | [NEXA](latest/us/analysis/markdown/NEXA.md) | Nexa Resources SA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{39}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ |
-| 14 | [WLFC](latest/us/analysis/markdown/WLFC.md) | Willis Lease Finance Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{38}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ |
-| 15 | [BNPQY](latest/us/analysis/markdown/BNPQY.md) | BNP Paribas SA ADR | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{37}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ |
+| 1 | [BKH](latest/us/analysis/markdown/BKH.md) | Black Hills Corporation | $\color{#9a6700}{\textsf{+2.69\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{87}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 2 | [TVTX](latest/us/analysis/markdown/TVTX.md) | Travere Therapeutics Inc | $\color{#cf222e}{\textsf{+24.72\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 3 | [AVNS](latest/us/analysis/markdown/AVNS.md) | Avanos Medical Inc | $\color{#cf222e}{\textsf{+68.58\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 4 | [GSAT](latest/us/analysis/markdown/GSAT.md) | Globalstar, Inc. Common Stock | $\color{#9a6700}{\textsf{+2.06\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ |
+| 5 | [LGND](latest/us/analysis/markdown/LGND.md) | Ligand Pharmaceuticals Incorporated | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 6 | [DAC](latest/us/analysis/markdown/DAC.md) | Danaos Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 7 | [CLS](latest/us/analysis/markdown/CLS.md) | Celestica Inc. | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{63}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 8 | [SKYT](latest/us/analysis/markdown/SKYT.md) | Skywater Technology Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{61}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 9 | [CPRX](latest/us/analysis/markdown/CPRX.md) | Catalyst Pharmaceuticals Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ |
+| 10 | [WT](latest/us/analysis/markdown/WT.md) | WisdomTree Inc. | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 11 | [ECG](latest/us/analysis/markdown/ECG.md) | Everus Construction Group Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{54}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 12 | [WASH](latest/us/analysis/markdown/WASH.md) | Washington Trust Bancorp Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{54}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 13 | [REZI](latest/us/analysis/markdown/REZI.md) | Resideo Technologies Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{53}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ |
+| 14 | [LION](latest/us/analysis/markdown/LION.md) | Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.) | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{37}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ |
 
 ## Column Guide
 

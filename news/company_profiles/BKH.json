@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-15T09:15:53.479702+00:00",
+  "industry": "Utilities - Regulated Gas",
+  "long_name": "Black Hills Corporation",
+  "provider": "yfinance",
+  "query_symbol": "BKH",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BKH",
+  "sector": "Utilities",
+  "short_name": "Black Hills Corporation",
+  "symbol": "BKH"
+}

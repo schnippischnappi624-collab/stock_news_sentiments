@@ -1,0 +1,14 @@
+{
+  "country": "Greece",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-15T09:15:53.479702+00:00",
+  "industry": "Marine Shipping",
+  "long_name": "Danaos Corporation",
+  "provider": "yfinance",
+  "query_symbol": "DAC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "DAC",
+  "sector": "Industrials",
+  "short_name": "Danaos Corporation",
+  "symbol": "DAC"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-15T09:15:53.479702+00:00",
+  "industry": "Telecom Services",
+  "long_name": "Globalstar, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "GSAT",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GSAT",
+  "sector": "Communication Services",
+  "short_name": "Globalstar, Inc.",
+  "symbol": "GSAT"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-15T09:15:53.479702+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Washington Trust Bancorp, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "WASH",
+  "quote_type": "EQUITY",
+  "requested_symbol": "WASH",
+  "sector": "Financial Services",
+  "short_name": "Washington Trust Bancorp, Inc.",
+  "symbol": "WASH"
+}
