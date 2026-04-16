@@ -1,0 +1,14 @@
+{
+  "country": "Guernsey",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-16T09:16:00.182930+00:00",
+  "industry": "Gambling",
+  "long_name": "Super Group (SGHC) Limited",
+  "provider": "yfinance",
+  "query_symbol": "SGHC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SGHC",
+  "sector": "Consumer Cyclical",
+  "short_name": "Super Group (SGHC) Limited",
+  "symbol": "SGHC"
+}

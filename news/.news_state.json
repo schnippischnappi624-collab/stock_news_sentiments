@@ -116,7 +116,7 @@
     "provider": "google_news_rss"
   },
   "AVNS": {
-    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "AXAHY": {
@@ -183,6 +183,10 @@
     "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
+  "CSWC": {
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
+    "provider": "google_news_rss"
+  },
   "CTEK": {
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
     "provider": "google_news_rss"
@@ -228,11 +232,15 @@
     "provider": "google_news_rss"
   },
   "GSAT": {
-    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "GURN": {
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
+    "provider": "google_news_rss"
+  },
+  "HAS": {
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "HTRO": {
@@ -320,7 +328,7 @@
     "provider": "google_news_rss"
   },
   "NEXA": {
-    "last_fetch_utc": "2026-04-14T09:15:05.921249+00:00",
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "NOHAL": {
@@ -396,11 +404,15 @@
     "provider": "google_news_rss"
   },
   "RVMD": {
-    "last_fetch_utc": "2026-04-14T09:15:05.921249+00:00",
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "RXL": {
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
+    "provider": "google_news_rss"
+  },
+  "SGHC": {
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "SHOT": {
@@ -408,7 +420,7 @@
     "provider": "google_news_rss"
   },
   "SKYT": {
-    "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "SOBI": {
@@ -445,6 +457,10 @@
   },
   "TVTX": {
     "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
+    "provider": "google_news_rss"
+  },
+  "UI": {
+    "last_fetch_utc": "2026-04-16T09:15:05.288463+00:00",
     "provider": "google_news_rss"
   },
   "VTURA": {

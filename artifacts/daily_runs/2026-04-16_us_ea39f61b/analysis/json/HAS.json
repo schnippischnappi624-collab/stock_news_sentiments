@@ -1,0 +1,999 @@
+{
+  "analysis_date": "2026-04-16",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "fragile_watch",
+    "score_0_to_100": 33,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-16: Hasbro (HAS) to Release Earnings on Thursday - MarketBeat."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-14: Consumer Discretionary - Toys and Electronics Q4 Earnings: Hasbro (NASDAQ:HAS) Simply the Best - Yahoo Finance."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-14: Consumer Discretionary - Toys and Electronics Q4 Results: Hasbro (NASDAQ:HAS) Stands Out as the Top Performer - Bitget."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Hasbro Inc",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 10,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cSaturday Night Live\u201d alum Pete Davidson has listed his upstate New York property for $2.27 million after owning it for just three years, so he can be closer to his family, who reside on Staten Island.",
+          "url": "https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cHe spent $1,000 on his girlfriend at Christmas and several hundred dollars on each of her children.\u201d",
+          "url": "https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Asian stocks mostly higher after Wall Street hits record and oil rises - AP News",
+          "kind": "positive",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.047058823529411764,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX296UDBvTWgzLUJsUUcwQVU3V1NHd1R6d0p2Ukx6cEpIeHhpYjVDVHQ4LXVVa2MzYk1XWHVtaFUtQy1ad3U0RnJqVkRVLWJ3OUI1Sm5ya25kaWJsRENZNU5oU1U1TVlYd3MxLUdxdHVHd2V2TVNrd201RzdiVTVPM0xydWIwZU1oNk1fRXlLa2UwRTJXcFA0?oc=5\" target=\"_blank\">Asian stocks mostly higher after Wall Street hits record and oil rises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBvUjRvejZxVWVXenRxbUdwU3NVOG1BcThJXzNuUHU1QV9qSVRFM1V2dFZxbU11ZnIxbHdGU0RpVllERUtZUTNHcWlBUUtUOFNlS3Bxa2FiRG9xdkdJaUx2c29WZWVWWkNkQmxpaXd1a3A3WWFDVURRLVRFVQ?oc=5\" target=\"_blank\">Stocks climb to new highs as traders bet on Iran truce trades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0k4RTlrYzhrcWdCcGF5M1R2VjdDMks2aW95VENTSDZGVlZyMXZndU1vOFdGR2ktWVhVNVc4OHVEMkxCRjFvS1BTZ2lWNzE0S2gwWjdnaU9TNDlXbTl2WlFBNk9KMjNIcG9xeE9KcU9KMzBQU1RyVzBuLTdVWGY3b0o1TnJIRmNjS0F4aWZHaUs2MGN5d09rV3UxX2VnV05aZGhYYndZQ1pWS0FrMGsxU3E4N0M?oc=5\" target=\"_blank\">Japan\u2019s Nikkei 225 Set for Record Close, Erasing Iran War Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUU0YzZkVTBlbndqTEdoaTdJVjd4ZmF2QU1sRG0xSkstZ3R5cFM3TnJneFZ0a2FfUEVuRXN3SElBWGZnc0pna0J3UjJnZlc2RksxdEpRTWVRdy1tZEJIeE81ZWlNa3BQanJtZERwcXRmSHhjSy0wRWVHdjl0VXlZdVI3RUFZWEhYV1hSTi1CWjd6NEhBMUxyZkVmZEJNcEVBTTlVYWsyX29lVkHSAbABQVVfeXFMTTdoRWxtVlczWTZGeTlVV0dIMUp6R0h5bTU1V1ZKR3pHLUZGbGFJVEhJVzNHSFQzVzRjazNDQklXWExUMlA1R0lERktyVElJRTFESl9xTVIwRTZ2ei1GM1BlWW1QTGVBQ1JTWFNPb0pJZWhBbnlHdEozajNYS09IOG55UXloRGs3NlItUjkxMHlrbkI3WWRQTFZPSzNMdU54c3pveHFURURZeGxPYXFNN04?oc=5\" target=\"_blank\">Japan's Nikkei 225 hits record high as hopes for U.S.-Iran deal fuel broader rally in Asia stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmt3X0FyZkMxZHZwbTRpMU9saV9JSWE0ZmE1UDlwVkZlcnhyQThYVUVSNW1FazlBb1M4aWxBaWFYNWwwZVZ4RmFGMm5TQVJ5akVLeDctc2RUYVVHSURlQzBkRFplMnJiLWo2Z3lVVEx5b3RBa1ExYzhNMmJyZW1ORmozbDY5bzVPQUM5SEprd0s?oc=5\" target=\"_blank\">Asian Stocks Advance on U.S.-Iran Deal Hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX296UDBvTWgzLUJsUUcwQVU3V1NHd1R6d0p2Ukx6cEpIeHhpYjVDVHQ4LXVVa2MzYk1XWHVtaFUtQy1ad3U0RnJqVkRVLWJ3OUI1Sm5ya25kaWJsRENZNU5oU1U1TVlYd3MxLUdxdHVHd2V2TVNrd201RzdiVTVPM0xydWIwZU1oNk1fRXlLa2UwRTJXcFA0?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-16",
+          "headline": "Taiwan Market Cap Tops $4 Trillion on AI Boom, Overtaking UK - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.012658227848101266,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzE1TnN3THBrajZ0ekJKUTJwQXk0aGFoNU5ibnRDSE1veG1JYl9YWnE4dG9KNC1GMFdKUkJNSlJ0MUo1eGNoOEgtZUluODZQUTM2UWZBQm8wMTd6Q1pUUkJSdmptakRva29Ca1BGcW1meFhuc1dBLVQtWVAzRHR6YzROb3RIVEpaRWZuNW9nLUxLQmxPOG1Kb1Y1V0ZvZi1YQmhPWC1vVDNRcmlYSmtJ?oc=5\" target=\"_blank\">Taiwan Market Cap Tops $4 Trillion on AI Boom, Overtaking UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8tSjdPaU1wdVBJYmZTRnVCLUp5MllSd0VLeXh0bTRuV2tFMGpnODYzbUQ4SHJzOEszcG1hNW5pRS1OODd6aEJKR1JIZTlKdDVfdmFOZzZKV0UtVDN2VFhvZ0ctRmVHbXVuX21NRW42Z2s?oc=5\" target=\"_blank\">Taiwan overtakes UK in stock market value on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBiczdSeXgwMVBORVZlMTNjZVRLQTMxanJ0QnM2RmdpdW54VGp4ZEpGSHc3OXlDSEU4R3RON0llVktCV3k1dTFNaDhoRnd1SmpXeV9YR2x1VDJmUV9RcWxwS0dXQjdpYm4xelFHZk5GeU9KbFNtS3c?oc=5\" target=\"_blank\">TAIEX shrugs off Iran war to hit record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taipei Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbl9nWnJZNS1Rc2FhZk5tVGNLSjVpZDMtU2xXa2h1T0dpMUhqdWF3SEwtRGxoY1oyNVVSNEVxNG1vV1l4UTR1aERydnVkNFpYM0p4U0JTc1VReU12ZTRzWDhMT1hZeklRdDNGRnlabDRBNGU0WkJ2TDNDcnRYSUJaMWhGN0RRV0JOZWlGMGUwR2RyMXp6Y2x6RExxQ1l1SGN3TUxyTmV3X2tUYWNLVTdOVC1hYl94ejREWEE?oc=5\" target=\"_blank\">Taiwan stocks higher at close of trade; Taiwan Weighted up 2.37%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPQUR5V1dqVE1TUFRSMzBKZmNZRllLanVvWXl0VUdzcjJMazNCNVZiSnBaTnhDSzdEbnlfaWdxMExvQjlLRGllSG9lWndlcVluNlFsY29rUW5pdkFWYUFaNG1NZ2FiSkk?oc=5\" target=\"_blank\">Taiwan Stocks Hit Record High as TSMC Leads Rally Ahead of Q1 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u5929\u4e0b\u96dc\u8a8c</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzE1TnN3THBrajZ0ekJKUTJwQXk0aGFoNU5ibnRDSE1veG1JYl9YWnE4dG9KNC1GMFdKUkJNSlJ0MUo1eGNoOEgtZUluODZQUTM2UWZBQm8wMTd6Q1pUUkJSdmptakRva29Ca1BGcW1meFhuc1dBLVQtWVAzRHR6YzROb3RIVEpaRWZuNW9nLUxLQmxPOG1Kb1Y1V0ZvZi1YQmhPWC1vVDNRcmlYSmtJ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Musk Asks Suppliers to Move at \u2018Light Speed\u2019 on New Chipmaking Plan - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjRYWTR5TkxudW1fdmNJMjExZUNfWHplZG4yRUxZYlVnTnBnckY3TEJtV09OTjBaaTNDSjdRcTU3U2FwR3NKdDBtaVh2Tm5YMmMyVUp0eXBkZDF4b19jT1FYM3NhOXlqSWlVYW5qOXFCbExVb0YwbHVhc294QkQ5RDFIdmhsUHh3WjNYX3BJNVgxQ3hWeElrT1ZDd3h6OHFGdVBMcTlrWGt1dE4wUWRsV1Bn?oc=5\" target=\"_blank\">Musk Asks Suppliers to Move at \u2018Light Speed\u2019 on New Chipmaking Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnZPNUh4YjZVcTNodGF5dUxCOHRPZFhGMmhDWTctMENNU2E1RTRzUUstdmRtMzdKa0NYM3lSX3JoWlE2VkJzcEVUUlpxenVHY1gyaGxqYkpiaUJoMXdRT2RDSmR4Wm5wallMTHRGU2pEUnBCYjlTb2J4T2lkTW1COWg3emxSZDNLMm1FNVRkeDhZdk5xR2NueDJVSzludy1oTExaUVp1VHNpOS1fSWZXbFFSRGdORkhjekNMRWh5bw?oc=5\" target=\"_blank\">Musk\u2019s Terafab taps Applied Materials, Tokyo Electron, Lam Research in chip push: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHR3bzR3eDUxcHpJbUcwZzI4TTgwOE02RkpIdnBVVlAtTjROY3NhVzJUeWRpLXFvOFc5TXU4aXQwUnAzbHU2dGZISUFZX3lETEZTWFBEc29TWmItdDUyNWhGQlBPRUFVNG51UkFOVmNLdVgxUzFJQWhlT0Fub1FkR3FadXU4ZHg1WGpTMU10bURZR2pGWEt2SWZrOUNNR3l1VkhVQ2dqMUtLeFd5T01WdW5KOFp6Y255R0FmaThVMFZIdmtOWFE2eGdfRnY?oc=5\" target=\"_blank\">Exclusive: Intel Tells Staff It Will Disclose Scope Of Work With Elon Musk In \u2018Coming Weeks\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crn.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQS29MWUFlR3pvbEY1dVJOSGdhRnZULWYtRUI3cUliNzNma0d5Yk5tTmRZVHh0NzN6X2tzVlNNZnZNV3RDUVVCU0c0dThLUXU2MVpJT29UVU0xLS1KRVNETXpza0FqdmZ0MnpRSVlzWkwtNnp1bGJpMEpEVTg4OE5EOU9KdF9RRmhzcEtuWW9SdUtac3FfR19sT1V0UQ?oc=5\" target=\"_blank\">Intel\u2019s (INTC) Chip Business Comes Alive as Terafab Revives the Bull Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNl9PRW5NbnRZNlE3Q25jemFzNEZXamtnNTFnN1llTElwYU9QWGhBVE9pdm5sQjVkaHctWHEyQ21YSGlrWGxSdmVZOVBFMWpNeWd0VHpwdEc1UmhzVkMxeFE1WXRkMWhpaGZZUWtDemJQVjdtc2VtSEFvM2x6R2ZhUkpuMkI1bGlTMVZDeTNxQjRVaXczZ1ltWTd2WXM3TTRWa0tlaVVsV05KZDZvS3RjQ09iY3dxeGg2QTVPRVE5YmdJeFJWLVhQTG5uNnE4M1FvMDZwTA?oc=5\" target=\"_blank\">Musk's staff reaches out to suppliers for Terafab project, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjRYWTR5TkxudW1fdmNJMjExZUNfWHplZG4yRUxZYlVnTnBnckY3TEJtV09OTjBaaTNDSjdRcTU3U2FwR3NKdDBtaVh2Tm5YMmMyVUp0eXBkZDF4b19jT1FYM3NhOXlqSWlVYW5qOXFCbExVb0YwbHVhc294QkQ5RDFIdmhsUHh3WjNYX3BJNVgxQ3hWeElrT1ZDd3h6OHFGdVBMcTlrWGt1dE4wUWRsV1Bn?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-16",
+          "headline": "Stock futures are marginally higher following a record-setting day for S&P 500 and Nasdaq: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02040816326530612,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZZG9TTldPdWc5NEM4SjJuQW1xN2R3RHNlbFJTWHN4SWVOeEVLQ1NoUUNTME84TWVhQmdiOUNiTXRQWUpIa1NjQWpTUEpwRXliVExDTTVDNUYyUE05RnJHQ0l1RHctQU1QZGc5dFdhSjN1LXJlZks40gF8QVVfeXFMTkliTndPcUdrbjdGSHpYUy1lT1VSYWtTQi1VSGZDSFlYTjFNeldBNnNLakJWNUhmaHVQbzF0bC1QUXFqSFR1N0tJNVg3Y210V21QMEcxR3lUcnRzTzJEM1ZuRWgxV0IyQXB2NncxWmdYbEVmckxZWHRVVy16UA?oc=5\" target=\"_blank\">Stock futures are marginally higher following a record-setting day for S&P 500 and Nasdaq: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBFa2p3S1pFNGxybWE0bXlLQ2ZkUFcwV0JWUUE1ZGtyTjUxdDlNU3lYbEpQZ2czbmZSUWhIdmphMFQ4alhsWWlVS2w2QUJMWkdyejAzcjNQb0J2Z3JaS1d1TVMtSUI4Q19JeDN1d29uY1cxVWZYOWVpMkF3?oc=5\" target=\"_blank\">Stocks Extend Rally and Oil Prices Stabilize as Investor Optimism Grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmZqS2hGdXgwd3paSWZ2VXFsNnV2Z1c3N1dua216UU1mNHBSMUhrNVF2cjVfbHBQS1JpampERnU3cUZDb0l2bGdNUEZBS1VabkRXdkdFYWpsN3dMVlRfUGt6UzEzQzNnaXVHcDRWX1VneG5Ba01ma2ptemJzRDdSdlZSSFU1NWIzX21lTFl6UHBaYmVfcTQyZ2ZLUTNnQWdJNHk1Y2RUNTdYeENQaFM3eDFSVDRMeFds?oc=5\" target=\"_blank\">Iran peace talk hopes in focus; TSMC reports - what\u2019s moving markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHhDUldEcS1idmU2bmpvOF9WeWlsaWd0S3lONzhCY1lnQlRlbkVsZkpNbHBvUFF6OGM0dzVQdzl5VEpuZG0tdUFPXzM2ZEhNYWJ5SWhJa29uX2pXcmpPRXZ3TVpMa2g3TzNpMTAxeGxGSkRvS09MbDJBeHhaMVVETEx6eHF0TnZuTHl6Y2U4QWVNajVUa2tYZjFwWEYyVXFoZGpCWlZkUU04YlQzWF9PMjZoZFZXOWRMWkZHbnVVT194M0pobU81M0o1dy0xOHJWNUNNQjUxaw?oc=5\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq futures rise after record closes, Q1 earnings roll in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFM0dLbkRoQTEzbmVyNGdlZERORGZXdEJrOVh3U0FZVnJsNk0zQjFWVVF6a0NhQThTbS0zMUJTdmdHWm1JYVF3LW5VUWVJWFk1MUd6WlVNWU9aa0dENG9rbkYzRDFpcmhSQ1BJ?oc=5\" target=\"_blank\">S&P and Nasdaq hit record highs, continuing remarkable recovery from war shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZZG9TTldPdWc5NEM4SjJuQW1xN2R3RHNlbFJTWHN4SWVOeEVLQ1NoUUNTME84TWVhQmdiOUNiTXRQWUpIa1NjQWpTUEpwRXliVExDTTVDNUYyUE05RnJHQ0l1RHctQU1QZGc5dFdhSjN1LXJlZks40gF8QVVfeXFMTkliTndPcUdrbjdGSHpYUy1lT1VSYWtTQi1VSGZDSFlYTjFNeldBNnNLakJWNUhmaHVQbzF0bC1QUXFqSFR1N0tJNVg3Y210V21QMEcxR3lUcnRzTzJEM1ZuRWgxV0IyQXB2NncxWmdYbEVmckxZWHRVVy16UA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "China\u2019s Economy Revs Up Despite War as Growth Tops Forecasts - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.039473684210526314,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlExSFBlVzZBMG5Wam1kQmplWWlQY3Flbm1fUGNqVUtNT3llZXF6MU00dnZqazA1b3VRd3dQeVBoS1oxN2dxZ290Qi0wR0ZrRmxlODF5R3Z5VWlKRjU5cTVndElPVTNidjRNNTRJZldOWHhIMHY0Zy1HR2dtWWttQy1zYzBVbEJWcGFpX1VEZ1hHTXoxTzZjS29MR0E4QVkwS1IyM2xuV1dkRDNVbzRyMTNqNDNRdw?oc=5\" target=\"_blank\">China\u2019s Economy Revs Up Despite War as Growth Tops Forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ta1l6RndoaExyUGFwaDFoRFFBZkVyTm5ObGhvTEpNOUNPLTVpYlRHczdSOXpVOWRsMl9QMF9GbTdSN2o1WlM2YUVnRTlsZjB2VjBsNGhtS3lwNlhpbFlEQ09BTkVRY0ZucnhpVVczOTVZZXozamd5Mw?oc=5\" target=\"_blank\">China\u2019s G.D.P. Stronger Than Expected, Led by Infrastructure Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOW4wWUNCZzdFZkpaZ20xd0ZXVWswOE01N212VkV3VEozdnJjYk15TFlTSnMxYmFIWDlZY1lzako5UERLd0FPa1ExN1RSWUZEYjRvMTg5b0hNTjR1WHRsXzNOVmdCZkRVbGxHaWpHVzBJNXdCektnam1teTNFbmlFdDQ3em1EWC1QNGRSQ3AzLVliWkJwWjdKa2ZLYnJVSWU1emExTDEwZGhvd9IBrwFBVV95cUxOcmxOM1h3QlJoX3dvU3ZwTUstOUw1cFBOR2Q3czFVOVh1QTJ6ZFM4QnNLWjhmY0pGWEZqZEU1R1pISkZ1TUhBaDVFMVZITDJjQndQYXVQdVdQWDRWZVRTWURRUnRCVFBjeTNiUEZtN2xWSDhpS19tdWJvd19VYncwY240VmFoc2ZDUUpoV0lWZmVHVFJSRzg4ZDREaXNkQjhhUHJNZHktTmktUmZfYXlr?oc=5\" target=\"_blank\">China economic growth accelerates to 5% in first quarter \u2014 but Iran war clouds outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0pySGZlMXMzbWl0cTJnbEJqUDFScnpSYkJFMjBNZ1M0Z21MZnFucVlqY1hLVnMwbThKY1VjYy10cklnSzRZWlBGbU9RcnNIaUhUeTNaVm04Zkc5bGJvV3JNUElaaTRDVVladk5YRkRYSmhMbWhnN2R5d2V3MzkwcUpoLWNQU2hTVWJXdDZMWmxkM0F0ZzRoamNEbFdwWlc4M1d4dDlaRExEZlFRcjVmUVNIWVV2dw?oc=5\" target=\"_blank\">China's Q1 economic rebound faces rough seas as Iran war jolts global outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0FMRHd2VW5ReFl2ZnpGMlFfWUlJeU05RDBzOHNCaHlDeV9WQ19Dd1JPRUZYMzZrWWpTZjE2TmZhVkNxVmhIVVNkVUtCb0E2c2FxbVhUYk9wNVQtWU8yY1hIMUxrcUNRbFM1X3p0cnV4NDV0OFh5ZXNhNXJsTEZOZkVMUGVrZUhXVWJyQTRiOVJhZlcxT19ZRW1GbGJoTmlpRHF6dlpxWWFLWl9uWmIxb19rQmlQalZ6SmR2ZF9pMHo5bURuRUE?oc=5\" target=\"_blank\">China Picks Up Speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlExSFBlVzZBMG5Wam1kQmplWWlQY3Flbm1fUGNqVUtNT3llZXF6MU00dnZqazA1b3VRd3dQeVBoS1oxN2dxZ290Qi0wR0ZrRmxlODF5R3Z5VWlKRjU5cTVndElPVTNidjRNNTRJZldOWHhIMHY0Zy1HR2dtWWttQy1zYzBVbEJWcGFpX1VEZ1hHTXoxTzZjS29MR0E4QVkwS1IyM2xuV1dkRDNVbzRyMTNqNDNRdw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-16",
+          "headline": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.14285714285714285,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5\" target=\"_blank\">TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeldVa2pOQ3pfZ3oyZGRSMWZOWG5JZXA5MmZ6MENQdmJzbFNKUDI3em4xRmNVeG1Jb2hMUk5ITzFiX2lpUGgtMWdNUFUtN1U5c3V6Tzh6d3EwVVdVN3Q5dzVTazdORnBkam1xbW11ZnpkbXRXd0JaSnlHZkd5VG9mZk1CUktLUDZ1ekRveC1VMUFxM21ibHc?oc=5\" target=\"_blank\">TSMC quarterly profit leaps 58% to record, beats expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxNZ0N3R0hEZHl4N0FVYTFCUUxxaHJibVU2T1JaYkhKRnBzalh4dUxpVW90LTRvZkhLNUdra3M5QmRFMHYyN2VTOXBEdWoxc1VWR1Jpam5PRWdCamVEQWFJOVpnV0xXQ3I2MlRmek9sZVRwQkNOb3FtNWUyNkk0WmtxZXFwOS1qNzBlT1o0MlhGN0pVZ3VqMFhPS3VsT3dGVEZVT3puLUd2S0czTktyaGFjN2ZwSjlQTmVzcHc0R09IRTllQnBwek9oSk9BQQ?oc=5\" target=\"_blank\">TSMC logs huge profit jump and predicts record Q2 revenue on AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBLR2p0bXNqSGJYMlZxTmdUR3N1OW5uUXdiSUZpNjlZUmtzemZRNFdCUlBNWWtnSXo3aW5DOUVsYms1alhDbGwyb1I2NENrRUZVcXE3VFhyMzcxUmVWOHlidHNTM3djVWg0Y3Y1SG5PRjJTeG9oT1E?oc=5\" target=\"_blank\">TSMC Earnings Beat Expectations. It\u2019s Racing to Keep Up With Chip Demand.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNLW1Vcjk3TkZFc0RSVXQzaXcyTkEyM0ZIc0kteUQ2TjBYT3EwUGRuWlJmUWJTYnBYSXpGaXNkZzZZRHhkQmNHZnFvOHhHTmtUTFBIZDhmYWowR1BnSUdPcWVjb3k3WlFRenRmTUV1WnNrZkRyWFAxbmhpR2RuUkpqVDhxcU5zanpkVFV0Y2ItWUhLX2lDMVkwQV8za1Q2N2l6ajVNSXZxLW5hTS1PcmZxMjJjYUhWdw?oc=5\" target=\"_blank\">TSMC Raises 2026 Outlook in Sign of Confidence in AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-16",
+          "headline": "Trump administration pushes nations to sign \u2018trade over aid\u2019 declaration - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQblhUbUFkMTFYTTNZd0RNWkEwYmFxRVVoRllrXzlrSWlybGxXV3AxdTJxUFJramEyWC0yMDZoZV9GNW9KVTYyd0FQNlRPRXJ5Q0ZRcGJhMVBxbWF3U1JsaU8zTmVmX1hBMFJwRXhEdXkxMWNpNGttM0NQTUo3Y2gxclZEeVVyRlp0RlJpQw?oc=5\" target=\"_blank\">Trump administration pushes nations to sign \u2018trade over aid\u2019 declaration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXNLSUM2TDc0Nld1bk9VU0ZzY2dCRVJMd1hPVHpuWTBZWVJqUVo1a05GYTFzTHh5LXNYX1pJaURJb0xoUGgyQ19KY0twMGZJcG1EcXVXdnZvMHl3aXRSY1BGZUtHdnVRbVI0VnNYMFRsUFZraUdZVkVmZ251aE9uN1NZdUR3YVc3RDNELWdfaDJna2xCQU9FdFVySQ?oc=5\" target=\"_blank\">Scoop: US to UN, global aid has failed to improve lives of poor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devex</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYi1NTEN3VlFxUHQwY0ZjbTY0bnJHVE5vU2xpdXR1clV0eGUyWjVOT2R3ZnNDVzZNVFExNk1YUkZBQ2Joc2NxZUdpWVkyem9CaGpzd2x3TEpLcDRPbGlyOFJ3S2JBVWkyTmxuY1JoOUNYNm53bHhNOE1tcE1BT19TREVlSVl4TC1ZazBXelVLc0RHV1FIcGVQV2Q2UDV4Q25EcUV6ampWV3NBVFU?oc=5\" target=\"_blank\">Marco Rubio Sends Call to Action to Countries for New Plot on Trade Over Aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxOMzFMcjF2X09tS2ZyM0Y0QjdLMGl5ZW56NFhraUVycFNnRE9XTVRjcUNzeXJRUFdwcmpZUXdHVzR5TmF2MWRRa1ZWOWJaRmtPUWU3cU9xN0Qxb0FLZUF0UEtnQ3hNeFFiWFBLdkk3RUhmeTM3WnBPM3otT2tVcUZzN0pZRmdBelhnd1ZWRlRMSXJfbDFkdEhCQXB5N0ljeDhYTDBtVm8zeEwyRmoydnR0QU92MjFRbXZPSURxZjZqSmFNdk8xMFNwOVg2MmhDTTNjc0VEMjlaSzNMYkN2YWJnMFNJakxBU0RSdjVNTkxSSnlTT0NoaUdtQzJHalUwSlRfZUp1UkdNbFc4c29GR0JJaWNhRjg1UjZHb0duZElzTQ?oc=5\" target=\"_blank\">Trump's 'America First' message marks huge shift in global order with US businesses set to benefit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3o0RHYyTFpJLUhtY3NqNkJ4NDRwbUJBZjhVNlJVRHlKeVhOMkdyeE1DZll2VF9CanI5eUU2VllIQm9NVy1tbTVwQ0tteVdHN1RoY1VoUDRaTzE0a253MjZvZHAyMkJNTFEweWp6dzhSalpxUTBKUGFhMWk0a0hPa3d6d3kwdDlGVkNyNENtb3doSFNsLXFJWktYTC04M3VXN2ZaSUc4czBUTGRuUkE?oc=5\" target=\"_blank\">The End of Alms: Washington Demands Global Pivot to Trade Over Aid Diplomacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South Florida Reporter</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQblhUbUFkMTFYTTNZd0RNWkEwYmFxRVVoRllrXzlrSWlybGxXV3AxdTJxUFJramEyWC0yMDZoZV9GNW9KVTYyd0FQNlRPRXJ5Q0ZRcGJhMVBxbWF3U1JsaU8zTmVmX1hBMFJwRXhEdXkxMWNpNGttM0NQTUo3Y2gxclZEeVVyRlp0RlJpQw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Lower electricity bills could become a reality thanks to EU proposal - Euronews.com",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.012195121951219513,
+          "source": "Euronews.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3RzM05jTk5fMXMwYTlfZHBOZWVreG9WU2lYczZhZ0ZpZnRpMjR1ZVZCV3B5ci1pcXJEcTdOZUw3YmZKLXUwQm1MZEYwbGg3ZjFuMU1yVnh6eVlSaGRFZ0tBOUp4dkpqQ2wtMmxraDJUbjVUY3c1a1BxOWtJbFhtQkFMSHRqSjE2cTdfVlRzbHdxUHg1RVZncmhWM2p4S3VWYURqRDNDNDV4TElaZy10WHJZSVRjNDNOMGpYc09rRC0?oc=5\" target=\"_blank\">Lower electricity bills could become a reality thanks to EU proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYzFwUGhLNzVoa0Zlcl9RYXphS1AxcWhwNnFaTW9hNVZHVmRYNkV4QWV3QkdtSXZVRzZlSWllRU9kS190Z2FWWWhqUzY4QXVzTlM4M09FSWM2SmgxMkFXWWVxbkFfUXU5QlVqeFVPUFBOMnE0eENER2FpZmk0U2l6Tk1IbTlwQnZ3NHZaR0FjcU1uZHRiTzkxOWFZOVlSWE94TFc0OVpIMlRsWmRnLVozMVNRTk5zRTZlTWFFTFZxMVBEWmE2SWhSal92NEF4amg2Zk1qUHVQaE5kbkk2cjFJQThSUUQ2QVE?oc=5\" target=\"_blank\">War spurs EU plan for electricity tax cuts, faster shift from fossil fuels, draft shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWC13b293TkVyVnE0bld4ejZxeWljVkl2VUFDSEpVRFl5VHRTck5JbnZvOEI3bEFHUFMyVmlYMEdQSTM2YjBFc3IxaWJHRTdud1hvVUl1MXVRWkEwNHFmSjA2bWlTc1o4WVpzS2YyWFdtczkzNU13SU91V25lVTBhdUE4b3NrLXdiQUtBbWZqem9HVlJjMzdjZ2Jn?oc=5\" target=\"_blank\">Fossil fuels face higher taxes than electricity under looming bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1hzMUc0TE9UZWs1RmRIT2RzQldTbzdOTkRiMnFQSVhNWXJhMkNCc0Z6SHJTVGxmWWhDTWRzcGJxdGE1MzF4YmU3THZQcVhldWxvbEw5ejRqNUVlbFNZdXRoYjJ0YktxTjZOMGNyOU9YSjlZbEpPbWpBQzk3MjRHTWZlLTE?oc=5\" target=\"_blank\">EU climate chief warns there is \u2018no workaround\u2019 for high energy prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjRsY3UxVWxhU2RTajdDaWdGdUtOMko5V1Z2a294R1NYR2MxUDNIRjJVaGNRS3FqVGpXOExBZU8yaWhxSERFaGVzMUxhLXJXUE1qak0xZVNnWnFHOENvTnJid0pCSE9sME9DNnNsdzBuMVRlZGlMNlgzdFhnbzNwSkdBSkR0anlLdzZpWkJtOVg4aG93MVh1a3d1d29INXlrYXFwVHdNSVUxR2dwQ2VaS3JnNHA?oc=5\" target=\"_blank\">EU to Bet on Electricification to Avert Recurring Energy Crises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3RzM05jTk5fMXMwYTlfZHBOZWVreG9WU2lYczZhZ0ZpZnRpMjR1ZVZCV3B5ci1pcXJEcTdOZUw3YmZKLXUwQm1MZEYwbGg3ZjFuMU1yVnh6eVlSaGRFZ0tBOUp4dkpqQ2wtMmxraDJUbjVUY3c1a1BxOWtJbFhtQkFMSHRqSjE2cTdfVlRzbHdxUHg1RVZncmhWM2p4S3VWYURqRDNDNDV4TElaZy10WHJZSVRjNDNOMGpYc09rRC0?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Consecutive Israeli strikes kill 4 Lebanese medics as Israel-Hezbollah war grinds on - AP News",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORFgyMWVZUXAzSEZVSlhHZ05OMTdnbU9wRFI5TjMwMzJ5a2NST2VKQXdDSzhhTWh6SzVhQ0Z3eUZ0M0pfbGpUMGdRcVRTSXpTTE9MRW1JVEI1QXdvbG50bzVhcHhuYkpRQjQ3OTJpYWVPVUp0OEhZRndnbU9MS2tuaDV2LWtJN0FUOHBaamFQSHRKUQ?oc=5\" target=\"_blank\">Consecutive Israeli strikes kill 4 Lebanese medics as Israel-Hezbollah war grinds on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2VLaDdVQ0FQSTdrX1JsSHAwMnNuRDlaelZFclIzTzNiX09ja09nck9OTF9fNWFVRVJ2bkNsVmdvRnNVS25hS3NDd3V0Z205NlZrLUlZckFscnM3ZWI2NGtNeG80XzJBdlMzNW44SUpBS0JGQjk0UWluMUVtNExJN29aZTJ1X3oxY1JRUENvbHZCV2szbTktUGVCRk80aU50QlBrSmNR0gGrAUFVX3lxTE5HUjE2OTM4T3otWHFyUl9XVy1GNkl6SE0wU1c3X1lfMkJCTWp6dXhkUXl6Q2ZwU3BWcjJvSHpTbG1RWHpseHVwXzhFUmVWZzhIV0I4eEh0bzl1UzlMc0QtQkt4Um9fN0Y4V1F4SWl4Rl96ck1JRWM0SWoyVFJ6bHNINjFNZnZ5QzY3Q20wWEtXc0JuTTlqREpZRWVTY2FXRE14dDA5aWx3V0dfbw?oc=5\" target=\"_blank\">Israeli strike on Hezbollah more devastating than 2024 pager attack, IDF says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjBOWFh3RTQzbGdrUzR5WXMyaEp2UXNtTGlwYXp0RlRJRHFtV0ZhczhIODVId2haX2plQmVCU0lSZEhwZ2lWU181SkptTU5LRlgybFAxYTZUV2k3R1NwZ2R5bjlFREtQa1Bfc3BIMnZjLUtKbDFLNlh5cGg0c3Y0S2hDOTFvUTVKT3Q1YTZ2MnRYRXhEQlZKdDdFVnM3NG04dGhwUW5ZRjFZOS03c3BDWEJKd0lLWndSbnQ5ekNB?oc=5\" target=\"_blank\">Israeli attacks prevent Lebanese from burying their dead in ancestral lands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0hBN0c3di1IdFBMcHFzd0JYUktaT1ZyQ1ZhOHlKZUlfcGw3QTgtMExvWTkyY05oYXZvaW1YN2MtMWl6UkpJUWI0WUROdGg2TVZsNUdwQWpaQVlrektrNXFOcW5lSzRNaVMxTEpBb0NUNUNwX2U5SnBYdkdXYzlIcHh6NVVCeEdZMWZGREpnUkNSelh0ZXA5NlVxVXVsOGt5cVpMX3JNNWpjUEhaWDBMR1NxdUQ1cUFaTm1hMmxhSi0?oc=5\" target=\"_blank\">Senior Israeli official denies Iranian claim of imminent ceasefire in Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGRGSEVMNHJwZ3l2X19VbGMxSFhYLVotSDJsWUF1TmV3ZllLSzl1V003eThfTkRyRlM1OUM2b0s3WFpTX2JPaXVQcWFyT21Hd2xmLTV2WnNCQkRiaFQxNjg0VF8zcVd6MkJ0Y2pETEl4THdkT1pBVS1lNTZsQ1FnT1ZvSm5XaXN4Z3JTZDdRZFdFTTJOYjhNd3FYaVp6UFJrYld4anl3WQ?oc=5\" target=\"_blank\">\u2018Everything is gone\u2019: Israel destroys entire villages in Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFgyMWVZUXAzSEZVSlhHZ05OMTdnbU9wRFI5TjMwMzJ5a2NST2VKQXdDSzhhTWh6SzVhQ0Z3eUZ0M0pfbGpUMGdRcVRTSXpTTE9MRW1JVEI1QXdvbG50bzVhcHhuYkpRQjQ3OTJpYWVPVUp0OEhZRndnbU9MS2tuaDV2LWtJN0FUOHBaamFQSHRKUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Amid wellness craze, FDA weighs lifting peptide restrictions - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SEx5cEhEOFpOc2lJMzk4V1IxUFVKSkZPV0tVbDlHUW05QlY5bFVjbWlQbG5maVNCcGJRU0ZsT1ZyaDBWUTdtQzFxMHZFaTBTMW56dHdrMjBvekR0WWs4eFNQOEJfQ3lRZXdtTGt3dEVnZzMxd1dPTFF2MkxIems?oc=5\" target=\"_blank\">Amid wellness craze, FDA weighs lifting peptide restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlJaM0tfejRHbHFlZjl1OEFsRXNWeGt3anNlcDVBYnJYRWJ6bE1tX2pMVlVyakZYcjhydVpPOWwxczFqenNWazRXMzdXUUFuUWJ0ZTlwcVNjOEZINnFDS0l1OEd4SGlQalJGUXpVYVFEUzBwbTBmME1FLVZucm0yRVRud3VYeDd0cnVCbjdwQ2FtZzUyZ3Y1QWFKU3piZFptZl9Bb18xbXRvbk1zVVZZ?oc=5\" target=\"_blank\">FDA advisory committee set to weigh taking action on certain unapproved peptides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Pharma</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXJ0MVVFLVB2RDVwdXU2bTFwZnVVR2tSaFdzVkd4NlFfSHhzMDdZNXZyOEVqb252Nmtfa3NnSE5OZ1NGUFk2ZzJHSEloZlQ5ZHRkdGlnaEpsSFRaX29vRVM1cllLbUR3Q0FjZzJ6dU9iWmJKem9XSk4tc09GX1ZvdWYwMnZlbjROV0VOZktXNXZZdVMtTUhoVQ?oc=5\" target=\"_blank\">FDA panel will meet to discuss allowing broader access to certain peptides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">statnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlNzMUlBUmNmYmlFNE03UkFaNHNKZW4yZWM2QWpIT1pGRHNBaHh3SjUwc3MyRG5GU0NoR0xOMGR3RFl1RWlaUUlmLVhVRVNvZlpLVDlKUGgwVmtSM3R0WGtkanU2b2xrS2JZQ0JscGlUNldsOXFDdUpVQ1RsOFVzS0VxdExfZm1kMHVLZmZiWFNMNGl2ajlNeUNCNmQ0ZHQzNWp0OElMYk5UNFMwbWFPY0xHd09yUG15QmhMeDVVVUx1dw?oc=5\" target=\"_blank\">Hims & Hers stock jumps as U.S. moves forward with plan to reassess popular peptides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmRReVFfVGdBQi1Ybk1SVG9CYXVlOG1xSnZyS09sZDgyOVBGcTFJQ3cybDZqMmFKS0VXQmRnMUJXcjVJNHo5amNZMnVPeVBUb2pnMVZhbHg4VFZaWm1GYWVhZnpCaklTd1p6R1FrZkdBUWlyeFVNUGM5M2g4YVFtM2hpUGhFQTBQV0gtRHFZTXVreTNoeDdJ?oc=5\" target=\"_blank\">Applauding FDA's Move Towards Regulatory Clarity on Peptide Therapy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hims & Hers Newsroom</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SEx5cEhEOFpOc2lJMzk4V1IxUFVKSkZPV0tVbDlHUW05QlY5bFVjbWlQbG5maVNCcGJRU0ZsT1ZyaDBWUTdtQzFxMHZFaTBTMW56dHdrMjBvekR0WWs4eFNQOEJfQ3lRZXdtTGt3dEVnZzMxd1dPTFF2MkxIems?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Trump would \"welcome\" Israel-Lebanon ceasefire: U.S. official - Axios",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9xUmVrZFMxNWlUTnFTZ2JSNk1rZ2M5SVNld19UTk1EM1FtTFdDT3p2QlJlWHdoaFlHUGJlWXVHbzVwYWdPZU14YXlUR2wxd0dSdmFtOG5LcTgyUG1TNXRkUi1mTHNkVWNLZTE3dVNtUkU?oc=5\" target=\"_blank\">Trump would \"welcome\" Israel-Lebanon ceasefire: U.S. official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHRIYzlOVTFXNjhXa1BEY092anhNZ1RPUGtUd1NZT0d6OW91d0pCVkpDTUUyNWstdmxlT2ZRMXZ2Q2FIQnhhM0tmWFlRZGZqUGFJcWRGMkNFZ3pMd3N2SFQzNmE3YUE5RXJEQVZzZW5JVy1WSVdOTFJKdzJ2X3RTQWxzdkJSbkkzZjJ1ZnZOQ0ZKT0NnUXZmLXNaSHMxbjRJendVcld5UGZZblhtNm9kakhXOWprTmtTaUxEajZ5M0pmNm5PTWcw?oc=5\" target=\"_blank\">Iran war latest: Israel and Lebanon's leaders to speak today, Trump says - as US military gives blockade update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNd05KeUZ6cVRXUFMxWEVGcEVKcHhPX1Rzd3p4MExfLW1NUV8wSGZEQ3RReFlsckVRcTFSWVVXNVRDb3RKRW0yOGJoekdRUExUMWNrcFJWNXI2RW1hUDZnUHlCYnQtT1c4YWRGU3lyVU9lcnVoVGloNXF1Q0V2RUY2Q1BRRmRtR29fYnphbDJkdU5YanJMYU1MZkRmZVlmbVNMbnZjZEFUUEdIVXlKT2l6MkZVN0VCcVU2Y3VrWlZldw?oc=5\" target=\"_blank\">Live updates: Israel and Lebanon leaders to hold talks, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORkVyTmF2VEwyV3c1SUlRbDlpbjNfUkRQeE9zaXZjLU1iNzFtN0FlYjljUVhwT1VfQXZPeUdubEF5UFhocXRBVXhRcS1vQlJfeS1JVXlxSXFnVFZiRmk0MTl1SmNVNzJzdk9IQVR3eWk3QXpadXBDdlpZRU8tblNVa0d6cHhEbF9nd2kyTWhtMXJMR2tQSG93ZDNncWx5TVlnLUZMV9IBqgFBVV95cUxNemljTVpYcWJJa3h4OTFwMXhUbV9paVNxX3RnczJkNG9xcW1aY3A1OEdwbVppNnBvYjRId0ptYlpmZE5tWWdzV19Na2wwRmZFUHJDUGFtckI2bUVlWFdBODRnbDV1OXdmV0kwSXE4Tk5pcU5CVzRsS1pYWmgzbnljNzhTN0c3LWpNWVpHeXE4RURqSWNPQWNwSGNJWlhDOHJVNWFBSjFXUUh1UQ?oc=5\" target=\"_blank\">Trump says Israel and Lebanon\u2019s leaders will speak on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORW9Vd1hBTVB5bnIyRmNSeUkycFFZOG5YS1VaZkRtbXpiS3RmNEl5Njg0dUV6QjNMdXQ4Wlk0M2EyMUVWa0t4UjQzVzRlWkcxdnpKQ2Y2QzRhMGJ1Qm8zeThRdmV2cFoxVERKa0MtNWpHUE5jWkppU2pRU3A5ME9HeVdzTURrY1RBNU1zSmUyWmNhenpVUXJJdXBlSHBTaTdSeGc?oc=5\" target=\"_blank\">Trump says Lebanese and Israeli leaders to speak, Pakistan says Lebanon peace essential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xUmVrZFMxNWlUTnFTZ2JSNk1rZ2M5SVNld19UTk1EM1FtTFdDT3p2QlJlWHdoaFlHUGJlWXVHbzVwYWdPZU14YXlUR2wxd0dSdmFtOG5LcTgyUG1TNXRkUi1mTHNkVWNLZTE3dVNtUkU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Iran War News Live Updates: Blockade \u2018Fully Implemented\u2019 as Mediators Push for U.S.-Iran Ceasefire Extension - WSJ",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            },
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Shipping disruption / freight stress",
+              "supportive_exposures": [],
+              "theme_id": "shipping_disruption"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kTnU4Y2EyRjYyanZFTkN3bE5UU2VITUFvMVYyWFRFWjk1Y3R1RExQUlVueUhXU3dXWktEakdhd2J5YlVWcDA1dGtBQ20xSmRrdi1HMm5QdnN6SWY4ZmJGaGZER21vcmVRSEpCSFlQWldMNmxXZnR6SU9ScEEzZ0U?oc=5\" target=\"_blank\">Iran War News Live Updates: Blockade \u2018Fully Implemented\u2019 as Mediators Push for U.S.-Iran Ceasefire Extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFpwZHBraHZWNEU0dzg1NXRCakYtSjkzbzJRTkZhMjdpNzhRWHBBQTRhQWVOLWVPS3YtMGFWaVRuUEpwU0c0bUNTMlJ3b0o5TDFUbVRHMkNPYTV0alExcjA3dWlreTFYNkpwMHZMakFkeWc1YjdjN2txNkNCTWZ5atIBhgFBVV95cUxONW9vbGtnRHNRMTE1QS1EOG93RTlCU0NzZUlVWTNtTlZDUWxGV3BzNlU1cGpMdFQ3M1l3NnV5bjQ1UnVKSFc1Z05BSVU3Z3k3Nk1YU2FVb1k3bEFHUFJJdUw3NjJPYndobmhWTUY3V0V0R1Q0eDdXUWNzNk1HajRRbzJjS1Z6Zw?oc=5\" target=\"_blank\">US military maintaining blockade on Iranian ports as peace talks are set to begin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNam43bTZtRlVmOGE4Rm56N3NoM1hmN0syZVJHUXVzRS1nVHZIQ1plVnBoRWxveHMyellqcE1sbXVIUWdPa1poVDVkVmItcUJvMFFWM3dRMW9VOGZEWmd4dWpUNGJJNnZJM2doWENiXzlPVlZfTTVPU1phWktJdmQ1UVRHaVBBSWhiUnlTS0dMbGwybXJMakxIbE1wVUNreTZJODNhR2cwdEVSbWdKQ2pXRy13U1FDSnlFVFllRERBWdIBxAFBVV95cUxPRlA0Q29kWHV0SE1rSXFLYXotUjVZZGZseWp1RFJpNXIxZlVnWG5ZeXJfVUFxcTJHRVVseWlSZXcxZlh3RmJoMmJySG5rc21USDluOHlRQnhxdGdBOUptLS1LXzhJYmtjRTk1ZnJ6S1lSaXJUMDA2eW5wSHczUnVsNklBNzU1b1FvcVUzZzhfTXZtQ0dGei1hTDUtSEstUzh1MVZoSnNRellhMEZJQXhSYVVfSEFwZHFiQ2tRUnBKTUVRVmxK?oc=5\" target=\"_blank\">Iran war updates: Pakistani army chief in Tehran in bid to restart US talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGloYmlic2FUb01PN3hnVTVQV0QyWHpEd1MxUTZqaG5IWVpvMzJnbmtyWGFkQTNSc09XUVgxSlBIZ2hxTzVGZHhpYzI5T1VUWnpIMlF6d3V6OVBxSTdTMTMzTEszQTFZZVJhRnZGQl9XSGRMVEhjOHhOT2hmT2NzWTB5VHZ0c0Y0WVJfbHhMVkNCVWxNTThmRUZBYV84TDF4QllqWjNGSmhWRmc3X1JNbWNB?oc=5\" target=\"_blank\">US, Iran Weigh Truce Extension With Hormuz Still Shuttered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGpCaU9NdC1EQ05JdmlTSzhYOHBBMllIclREbldIcDBYNi1sZmhQVHktOC1oWnBaNE43TWtIT29ZWE1BYXlzVWc3QjhvVEJHMmo0YTBjRUJBMmQ0ejloY05FakdvYk1NZXpBaExOeVBtSWV3WVVLNTdxYmhNbFlQNW04VzVXajJVNlZWS0hjbTN1NDlRWHd6Y3pwdzhmRURMM3hhYjlGLVctOEFoa1pRZzVlS2doRHdV?oc=5\" target=\"_blank\">US optimistic of deal with Iran as it increases economic pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kTnU4Y2EyRjYyanZFTkN3bE5UU2VITUFvMVYyWFRFWjk1Y3R1RExQUlVueUhXU3dXWktEakdhd2J5YlVWcDA1dGtBQ20xSmRrdi1HMm5QdnN6SWY4ZmJGaGZER21vcmVRSEpCSFlQWldMNmxXZnR6SU9ScEEzZ0U?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "US, Iran Weigh Truce Extension With Hormuz Still Shuttered - Yahoo Finance",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUpjYTRHV19BT09aV2JaS2hBSmhtSlJNeUhfOUpTbDY4Rm8xSmFDck42WDI2MWZjc0JoeEpCTXVfcFVqSlR6dTd5S1NhNDI0VlY1d3o5WU8tc0tCbkZlV21tT2lZakZyV3dSMGhUbjB6VEU2azJ4ODRQakR4bEFWQmJVOUZmSE5BY2t1dVNQeXNKX2I4QTgtaWR3?oc=5\" target=\"_blank\">US, Iran Weigh Truce Extension With Hormuz Still Shuttered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXh4UTVpQ0lYMm1remNLamdmZk9Yb0RRQVV2TEtnSVg2T1BxdUFzaEFHaG5QeEdkbkd4VXMtT0J5V2dDeENLZ3cwSUhOVUFoNnBvVFFfdzRVMFZzajExTkNsVEQ1ZkQ3eXBkX1hKREdBYnhSWjRpazlQRUpfb3EtNU5BZlp4NXBHaUc2Q0VjTWw0RnRQUi1xVEZR?oc=5\" target=\"_blank\">US and Iran in indirect talks to extend two-week ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kTnU4Y2EyRjYyanZFTkN3bE5UU2VITUFvMVYyWFRFWjk1Y3R1RExQUlVueUhXU3dXWktEakdhd2J5YlVWcDA1dGtBQ20xSmRrdi1HMm5QdnN6SWY4ZmJGaGZER21vcmVRSEpCSFlQWldMNmxXZnR6SU9ScEEzZ0U?oc=5\" target=\"_blank\">Iran War News Live Updates: Mediators Push for U.S.-Iran Cease-Fire Extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNam43bTZtRlVmOGE4Rm56N3NoM1hmN0syZVJHUXVzRS1nVHZIQ1plVnBoRWxveHMyellqcE1sbXVIUWdPa1poVDVkVmItcUJvMFFWM3dRMW9VOGZEWmd4dWpUNGJJNnZJM2doWENiXzlPVlZfTTVPU1phWktJdmQ1UVRHaVBBSWhiUnlTS0dMbGwybXJMakxIbE1wVUNreTZJODNhR2cwdEVSbWdKQ2pXRy13U1FDSnlFVFllRERBWdIBxAFBVV95cUxPRlA0Q29kWHV0SE1rSXFLYXotUjVZZGZseWp1RFJpNXIxZlVnWG5ZeXJfVUFxcTJHRVVseWlSZXcxZlh3RmJoMmJySG5rc21USDluOHlRQnhxdGdBOUptLS1LXzhJYmtjRTk1ZnJ6S1lSaXJUMDA2eW5wSHczUnVsNklBNzU1b1FvcVUzZzhfTXZtQ0dGei1hTDUtSEstUzh1MVZoSnNRellhMEZJQXhSYVVfSEFwZHFiQ2tRUnBKTUVRVmxK?oc=5\" target=\"_blank\">Iran war updates: Pakistani army chief in Tehran in bid to restart US talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGloYmlic2FUb01PN3hnVTVQV0QyWHpEd1MxUTZqaG5IWVpvMzJnbmtyWGFkQTNSc09XUVgxSlBIZ2hxTzVGZHhpYzI5T1VUWnpIMlF6d3V6OVBxSTdTMTMzTEszQTFZZVJhRnZGQl9XSGRMVEhjOHhOT2hmT2NzWTB5VHZ0c0Y0WVJfbHhMVkNCVWxNTThmRUZBYV84TDF4QllqWjNGSmhWRmc3X1JNbWNB?oc=5\" target=\"_blank\">US and Iran Weigh Truce Extension With Hormuz Still Shuttered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUpjYTRHV19BT09aV2JaS2hBSmhtSlJNeUhfOUpTbDY4Rm8xSmFDck42WDI2MWZjc0JoeEpCTXVfcFVqSlR6dTd5S1NhNDI0VlY1d3o5WU8tc0tCbkZlV21tT2lZakZyV3dSMGhUbjB6VEU2azJ4ODRQakR4bEFWQmJVOUZmSE5BY2t1dVNQeXNKX2I4QTgtaWR3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Amid wellness craze, FDA weighs lifting peptide restrictions - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SEx5cEhEOFpOc2lJMzk4V1IxUFVKSkZPV0tVbDlHUW05QlY5bFVjbWlQbG5maVNCcGJRU0ZsT1ZyaDBWUTdtQzFxMHZFaTBTMW56dHdrMjBvekR0WWs4eFNQOEJfQ3lRZXdtTGt3dEVnZzMxd1dPTFF2MkxIems?oc=5\" target=\"_blank\">Amid wellness craze, FDA weighs lifting peptide restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXJ0MVVFLVB2RDVwdXU2bTFwZnVVR2tSaFdzVkd4NlFfSHhzMDdZNXZyOEVqb252Nmtfa3NnSE5OZ1NGUFk2ZzJHSEloZlQ5ZHRkdGlnaEpsSFRaX29vRVM1cllLbUR3Q0FjZzJ6dU9iWmJKem9XSk4tc09GX1ZvdWYwMnZlbjROV0VOZktXNXZZdVMtTUhoVQ?oc=5\" target=\"_blank\">FDA panel will meet to discuss allowing broader access to certain peptides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">statnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlNzMUlBUmNmYmlFNE03UkFaNHNKZW4yZWM2QWpIT1pGRHNBaHh3SjUwc3MyRG5GU0NoR0xOMGR3RFl1RWlaUUlmLVhVRVNvZlpLVDlKUGgwVmtSM3R0WGtkanU2b2xrS2JZQ0JscGlUNldsOXFDdUpVQ1RsOFVzS0VxdExfZm1kMHVLZmZiWFNMNGl2ajlNeUNCNmQ0ZHQzNWp0OElMYk5UNFMwbWFPY0xHd09yUG15QmhMeDVVVUx1dw?oc=5\" target=\"_blank\">Hims & Hers stock jumps as U.S. moves forward with plan to reassess popular peptides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjRnYTVhZGJ3R3V2dVA5TDhyZ29DeE85MkctWDJGeDBCbmtELVB2UkxqTGM1MjFOUHVyUEY0d1J5SVNTaWh1dnAxUFNKd1hzVEJiR29GalkwZGlkRE9KU1BvaTJYS3hHZWRKQnJEdmQ4MzlGb09EUmw4RC1DazFFUkhVOWlHNkNzTDRXTV9ZeVdDc2JBUWhxVXJ5U0x0Z24tS3FvRktPMm5SYlFOZDMwRkhNVlQ?oc=5\" target=\"_blank\">The Trump administration is looking to experts to weigh in on peptides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific American</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1HUXBGOVhZNnVmeHQyRzdtZHV5S2dmbVc2a3pGZ0QyeG5UcWt6QTNyMHVrT3FCcWpQOF9BVlFqLXNuWlhZUzJPTWFFcGRsVklYV1hud1JUOGVhSEtUVFRPTUtNWGVtYWVOcVlQR1ZwdG01d3d4SkZn0gF8QVVfeXFMTWVlMFVPazhwbGRMZjVqWlowOWZaaTZIemNRSnhVWDFTeE1rMjNOOUZfNk1POWdHVWI2R1dYWks3SWlUUmxHeFQzdXlhZUctTmlndmctc0NpRGhlX3RRbE9JRE5OU2tXTnFsbGhaY1gwS2t5eDZ4NFJOUkZBNw?oc=5\" target=\"_blank\">FDA will consider easing restrictions on peptides as RFK Jr. calls himself a \"big fan\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SEx5cEhEOFpOc2lJMzk4V1IxUFVKSkZPV0tVbDlHUW05QlY5bFVjbWlQbG5maVNCcGJRU0ZsT1ZyaDBWUTdtQzFxMHZFaTBTMW56dHdrMjBvekR0WWs4eFNQOEJfQ3lRZXdtTGt3dEVnZzMxd1dPTFF2MkxIems?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Pope demands the \u2018chains of corruption\u2019 be broken during visit to Cameroon - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVpxREJhMjYta3pMSEpnRUNYcjF5NENyTEZONV9JdS16V3EtNkpPemxvRHQ4eUNvZ1o3aVRyOVRHVmktaFYweEVzMU1LWm1QNC1SU3FqbldMQU5zOTktQ1RNNU9EVU5HVzVST1o5Nm9CVkFoeUx1VEF0Z3RPZEl0V1dkZU1DYUlYZFdQcjRFcXV4MGdINWhQeA?oc=5\" target=\"_blank\">Pope demands the \u2018chains of corruption\u2019 be broken during visit to Cameroon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEZBY1BVWHpRQm9ycHhyaFZmMTV3b3pKd2RNVGhBX210YmtneFU1T2hGX3hHcmtFX2RSQzFpU2x0Uk5LY1hfeTV1cGFnWnlNbC1TU2pRSGUyR1hCWG9keE00Q1pwVi1wVmtFZl8ydlRoSFJ5VWdrS2RqUElhcFhlLU5xcw?oc=5\" target=\"_blank\">Catholicism Thrives in Africa, but Pope\u2019s Cameroon Visit Highlights a Divide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1laRTRaNUV6T1ZvSFlKY284ZkZzXzQ1QUZ1dkwwZ1pmXzVmeVpleDYwSFBOdTUwOGYyVlYxQVBBNzA1Z2Y0bGRwMnNUNGJjTWdGM0VNSVlKSDlLWXlhZERqdEc3RTVKbFI0akctZ0F6OXU2QVRTejVlR0RkMWJzUVM2aGFTRWdwSGw2RlBXTTJDaG1yb2ZR?oc=5\" target=\"_blank\">Pope heads to epicenter of Cameroon's separatist conflict to preach message of peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDV6VHFYZk9JNkltUEI4RHIwNlk1eWpOenRCWk1YaUM2bVhFRFp0YUl0YUJBdklVVFR6MnZlMWU0RVRzSGJ3TU5nV0tHWjNTZENEb3VySWk5VU9IS2Zwc0tWbktCb0l3VnBsc1lmakRWc2NsaFJpek9ITmh2UVc4bFhvY0lxSEVlVTZmX18zaXc1VHJ6dnEtTHhkRVJLTWVYQmtBMlhzSUpGVnNPN0E?oc=5\" target=\"_blank\">Pope Leo's feud with Trump overshadows his spiritual homecoming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOci1zZ1FwYVQtTjNEdmxHRHBqMUQ1dm9FOGE2a2k4YW4tYVpWa09DX2pmbFBfT0xMcTVWdkxFY0FYMENLbFdadGhXU2Z6OExZTm5IZG9VaEFOT01nclVhTXFhYTh3ZjVsN3FTU3JPRGtTZEdoMjVfM3RNcG91TVlWTDdnYklLTFlGX2twNm8waw?oc=5\" target=\"_blank\">Day Three in Africa: From Algeria to Cameroon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVpxREJhMjYta3pMSEpnRUNYcjF5NENyTEZONV9JdS16V3EtNkpPemxvRHQ4eUNvZ1o3aVRyOVRHVmktaFYweEVzMU1LWm1QNC1SU3FqbldMQU5zOTktQ1RNNU9EVU5HVzVST1o5Nm9CVkFoeUx1VEF0Z3RPZEl0V1dkZU1DYUlYZFdQcjRFcXV4MGdINWhQeA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Is Tesla a chip stock now? Investors are cheering a semiconductor milestone.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The AI5 chip, which Tesla says will power humanoid robots and supercomputers, has completed a critical step.",
+          "url": "https://www.marketwatch.com/story/is-tesla-a-chip-stock-now-investors-are-cheering-a-semiconductor-milestone-56341cf8?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "China\u2019s Economy Leans on Infrastructure as Consumers Pull Back - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.022222222222222223,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ta1l6RndoaExyUGFwaDFoRFFBZkVyTm5ObGhvTEpNOUNPLTVpYlRHczdSOXpVOWRsMl9QMF9GbTdSN2o1WlM2YUVnRTlsZjB2VjBsNGhtS3lwNlhpbFlEQ09BTkVRY0ZucnhpVVczOTVZZXozamd5Mw?oc=5\" target=\"_blank\">China\u2019s Economy Leans on Infrastructure as Consumers Pull Back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOW4wWUNCZzdFZkpaZ20xd0ZXVWswOE01N212VkV3VEozdnJjYk15TFlTSnMxYmFIWDlZY1lzako5UERLd0FPa1ExN1RSWUZEYjRvMTg5b0hNTjR1WHRsXzNOVmdCZkRVbGxHaWpHVzBJNXdCektnam1teTNFbmlFdDQ3em1EWC1QNGRSQ3AzLVliWkJwWjdKa2ZLYnJVSWU1emExTDEwZGhvd9IBrwFBVV95cUxOcmxOM1h3QlJoX3dvU3ZwTUstOUw1cFBOR2Q3czFVOVh1QTJ6ZFM4QnNLWjhmY0pGWEZqZEU1R1pISkZ1TUhBaDVFMVZITDJjQndQYXVQdVdQWDRWZVRTWURRUnRCVFBjeTNiUEZtN2xWSDhpS19tdWJvd19VYncwY240VmFoc2ZDUUpoV0lWZmVHVFJSRzg4ZDREaXNkQjhhUHJNZHktTmktUmZfYXlr?oc=5\" target=\"_blank\">China economic growth accelerates to 5% in first quarter, beating expectations, on robust exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0pySGZlMXMzbWl0cTJnbEJqUDFScnpSYkJFMjBNZ1M0Z21MZnFucVlqY1hLVnMwbThKY1VjYy10cklnSzRZWlBGbU9RcnNIaUhUeTNaVm04Zkc5bGJvV3JNUElaaTRDVVladk5YRkRYSmhMbWhnN2R5d2V3MzkwcUpoLWNQU2hTVWJXdDZMWmxkM0F0ZzRoamNEbFdwWlc4M1d4dDlaRExEZlFRcjVmUVNIWVV2dw?oc=5\" target=\"_blank\">China's economy rebounds in Q1 but Iran war darkens 2026 outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlExSFBlVzZBMG5Wam1kQmplWWlQY3Flbm1fUGNqVUtNT3llZXF6MU00dnZqazA1b3VRd3dQeVBoS1oxN2dxZ290Qi0wR0ZrRmxlODF5R3Z5VWlKRjU5cTVndElPVTNidjRNNTRJZldOWHhIMHY0Zy1HR2dtWWttQy1zYzBVbEJWcGFpX1VEZ1hHTXoxTzZjS29MR0E4QVkwS1IyM2xuV1dkRDNVbzRyMTNqNDNRdw?oc=5\" target=\"_blank\">China\u2019s Economy Revs Up Despite War as Growth Tops Forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxNdEtDWUFvcFozaF9Md3lKLVhNbVZUOFN2U3Q0WS04S3FsNjdBbWdRVmhCejUxU2pFMXFXUVdralJET1pCby0wMmM5UkNjSEs3b0RXczZZd3FwR29aNE1XT0w4U3FoSVhxd3lmZlYxcXdfS1pVT0VpSTMyN2VXSGpXdnVSbVRvQXUxcWZ5MGt6Z1lpYUUySVdDOVpUVTVyZU91bmFtY1hOMk02OTFlRnpHZGF6MVI4WVdlOGJmNjk5Z0FHS25Gb1lScndtUHhoRTNtNURmZWlTenRJX01keDBLbGQ5d2lkUlN4cnB4MTVkNVhGNGUzRzQtQl9nNngxLWRoZFAxSExDUHZtOVU4MkVHMGZnMTVKWWdodjg2STNTcm1LbURJdEhweVIwRGdLc2xsblFzRmNReXpmdw?oc=5\" target=\"_blank\">China reports its economy grew 5% in the January-March quarter, largely shrugging off initial impact from the Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">10TV</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ta1l6RndoaExyUGFwaDFoRFFBZkVyTm5ObGhvTEpNOUNPLTVpYlRHczdSOXpVOWRsMl9QMF9GbTdSN2o1WlM2YUVnRTlsZjB2VjBsNGhtS3lwNlhpbFlEQ09BTkVRY0ZucnhpVVczOTVZZXozamd5Mw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "El Salvador\u2019s Bukele signs reforms allowing life prison sentences for people as young as 12 - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWppRXZKUmdFUlZmTG9jSW1TaW1hVlVnMEFyRm83eHp3MmJKQ1RHbU9menlUTHdiT09nQkMtdmFVUzZFcDYzLUtocUtSdWpkcUl1bTYxX3hOQWhKd2RQQjZZUzV5cTktOS1GTXRVUU5PSl9aUnJIOVBtMHVoUTNERUVpRDlvMjVpaDJFYmNqSHEyaXBSakhJck5QS3U?oc=5\" target=\"_blank\">El Salvador\u2019s Bukele signs reforms allowing life prison sentences for people as young as 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSeHZyMUVCSFZPQjdxN3lRQVp5Z0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWppRXZKUmdFUlZmTG9jSW1TaW1hVlVnMEFyRm83eHp3MmJKQ1RHbU9menlUTHdiT09nQkMtdmFVUzZFcDYzLUtocUtSdWpkcUl1bTYxX3hOQWhKd2RQQjZZUzV5cTktOS1GTXRVUU5PSl9aUnJIOVBtMHVoUTNERUVpRDlvMjVpaDJFYmNqSHEyaXBSakhJck5QS3U?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "consumer"
+      ],
+      "company_profile": {
+        "industry": "Leisure",
+        "provider": "yfinance",
+        "sector": "Consumer Cyclical"
+      },
+      "effective_adverse_effect_count": 10,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Shipping disruption / freight stress",
+          "supportive_exposures": [],
+          "theme_id": "shipping_disruption"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        }
+      ],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 3,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Massachusetts Financial Services Co. MA Lowers Position in Hasbro, Inc. $HAS - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3otVGRuV2t5eGN1OHdnYXQzeFN2aEtVZE1uUmxqSFpfajBnUUliUHk2MUJCbG85eHNza3pUbkdKSG9EcEZXWFNqcVlBM0NvYzhTN2wyUW02elpfbUI3ajd3aHM1S3J5b3ZMSnV0TEswS3BwOWlINHg0TFdlMEc1SWREeXBTTXR6WUJseXFJeThLYTNPM1ppWGZwaVRFdC15OUhZRHo2Z3Z4Z2tzcTRHNTNXanJVSGtMbTdXZ2hlZll4bDd2Z0pubV9rMnhNQQ?oc=5\" target=\"_blank\">Massachusetts Financial Services Co. MA Lowers Position in Hasbro, Inc. $HAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3otVGRuV2t5eGN1OHdnYXQzeFN2aEtVZE1uUmxqSFpfajBnUUliUHk2MUJCbG85eHNza3pUbkdKSG9EcEZXWFNqcVlBM0NvYzhTN2wyUW02elpfbUI3ajd3aHM1S3J5b3ZMSnV0TEswS3BwOWlINHg0TFdlMEc1SWREeXBTTXR6WUJseXFJeThLYTNPM1ppWGZwaVRFdC15OUhZRHo2Z3Z4Z2tzcTRHNTNXanJVSGtMbTdXZ2hlZll4bDd2Z0pubV9rMnhNQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-16",
+          "headline": "Hasbro (HAS) to Release Earnings on Thursday - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTJjWlVFRGFQT3JDR0s4UDNMZHY5RzA4VnJmcWpvalNuQld6b2oySXdTdEc5RDgxajFNOFgtd3czME5SUzB3ZEtJeDg4WTRWeUdWVGVVdTA0d0FjaWxLRTFCT2dOLTRiaUlIUWowWE5lRjJOZ0hOZUw2c1R4d0p3bThKX2xGeV9hUkg3elZrTFpyUnRiMUNSVUVVSkI?oc=5\" target=\"_blank\">Hasbro (HAS) to Release Earnings on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTJjWlVFRGFQT3JDR0s4UDNMZHY5RzA4VnJmcWpvalNuQld6b2oySXdTdEc5RDgxajFNOFgtd3czME5SUzB3ZEtJeDg4WTRWeUdWVGVVdTA0d0FjaWxLRTFCT2dOLTRiaUlIUWowWE5lRjJOZ0hOZUw2c1R4d0p3bThKX2xGeV9hUkg3elZrTFpyUnRiMUNSVUVVSkI?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Hasbro Entertainment Rolls Out \"Hasbro Legends\" Channel With Transformers, More - Tformers",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Tformers",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE5tbFU0VkpQaDBpTWZEOFpEUUlIbmYxNWJ0aFV0MFl6Q2cwVzdfTGNIVW0yR3R4YXBBbk9jcEtuOA?oc=5\" target=\"_blank\">Hasbro Entertainment Rolls Out \"Hasbro Legends\" Channel With Transformers, More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tformers</font>",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5tbFU0VkpQaDBpTWZEOFpEUUlIbmYxNWJ0aFV0MFl6Q2cwVzdfTGNIVW0yR3R4YXBBbk9jcEtuOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Is Hasbro (HAS) Still Attractively Priced After An 83% One Year Share Price Jump - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkdhUWdva1RWTDJydmVIZ2trZ0JCWU9VeHF0c3RUUHFKYk9kYnJLTV9KcHJVTUhibjlOdzI2azZhV29QQjdGX2ZEaV9TeDJfUk5pV0QwSU5OWGhKZHhpU3hiNWIyd3lldG83Xzh0aXo0eDNqdGdEaWFJNS05NGdDckx3T2dkWnpTQjk4alZrZEk5RV9tS2ZDZjNrNjVqUEhrWFljQUlhSjR3T0pNQzNkeGNHRk9fUnIwaHBZY2ItYV9Xa2lrWloxakdFUDZzUdIB0wFBVV95cUxPaVVUdDFQT0J2cVBFMVZSS2dWN2p1R01WQmFIMkNjcEd3emc2emdON3Q0QkdqV3JrOVdyLW9LVEhDTUxpMEJQd1BCQmhyNEFRSzl3a2poZzAtYUdsSUs2LURIelF2c0xWYlhzQU5CVmVXSWhpclc5UkhhX3RrNXVoeDFWSF9JLUh1dzgteE82c1Y2MHM0anhFZHhPMmpCcDN3dndOMHlrSWdSazlmU3ZEXzFpdG1QcmpZZkVaT2ZJaWhheko2anNDNzlObzQ5TC1jVUFV?oc=5\" target=\"_blank\">Is Hasbro (HAS) Still Attractively Priced After An 83% One Year Share Price Jump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkdhUWdva1RWTDJydmVIZ2trZ0JCWU9VeHF0c3RUUHFKYk9kYnJLTV9KcHJVTUhibjlOdzI2azZhV29QQjdGX2ZEaV9TeDJfUk5pV0QwSU5OWGhKZHhpU3hiNWIyd3lldG83Xzh0aXo0eDNqdGdEaWFJNS05NGdDckx3T2dkWnpTQjk4alZrZEk5RV9tS2ZDZjNrNjVqUEhrWFljQUlhSjR3T0pNQzNkeGNHRk9fUnIwaHBZY2ItYV9Xa2lrWloxakdFUDZzUdIB0wFBVV95cUxPaVVUdDFQT0J2cVBFMVZSS2dWN2p1R01WQmFIMkNjcEd3emc2emdON3Q0QkdqV3JrOVdyLW9LVEhDTUxpMEJQd1BCQmhyNEFRSzl3a2poZzAtYUdsSUs2LURIelF2c0xWYlhzQU5CVmVXSWhpclc5UkhhX3RrNXVoeDFWSF9JLUh1dzgteE82c1Y2MHM0anhFZHhPMmpCcDN3dndOMHlrSWdSazlmU3ZEXzFpdG1QcmpZZkVaT2ZJaWhheko2anNDNzlObzQ5TC1jVUFV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "\"Spider-Man: Brand New Day\" Toys Revealed by Hasbro at CinemaCon 2026, Including the Incredible Hulk - Laughing Place",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Laughing Place",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGw4eGdZYXoyMHhMcXA4cmQzYlpxX2dxN3dseTgzZkRDbTJrWEFGMUNrRy1DLTFHR0VsY2pRRm5fcGVVUV9PUkNUSjJMSkpOYWRaVWs0T0JXd2d1c1lYVE5OVzM2ZldaVmdVSmdIenlIOUdnM01HNkEwLTZTcWgweGV5RW11TjdlWFlScFBQV1owMkduTG96bEZqcTl0WEp0RUdZ?oc=5\" target=\"_blank\">\"Spider-Man: Brand New Day\" Toys Revealed by Hasbro at CinemaCon 2026, Including the Incredible Hulk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laughing Place</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGw4eGdZYXoyMHhMcXA4cmQzYlpxX2dxN3dseTgzZkRDbTJrWEFGMUNrRy1DLTFHR0VsY2pRRm5fcGVVUV9PUkNUSjJMSkpOYWRaVWs0T0JXd2d1c1lYVE5OVzM2ZldaVmdVSmdIenlIOUdnM01HNkEwLTZTcWgweGV5RW11TjdlWFlScFBQV1owMkduTG96bEZqcTl0WEp0RUdZ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Hasbro Inc. stock outperforms competitors on strong trading day - MarketWatch",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.09090909090909091,
+          "source": "MarketWatch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWW5RNEtiODcwM05JcTlwdXlRazdOZ25jQ1d6OTR5cXNSTndwTHU3M2I3dmF4WkJFWGlBUkVua0FqVVltNjZ3WFhjemRxV0Y1bkdNbkhZWVZ1S0xvczFuTTNiNzNsdjZpc2w2S016TzBCNmhzc0lmNkhDR1hOLUdvT0FzNnR4bHdMeVdFLU1PRktjY1VjYUhMVzlzWHZPU1VGUUZFMkNhQlcxRGpsN0N2Y0gzc0VxRE5FdUdhTGt4NA?oc=5\" target=\"_blank\">Hasbro Inc. stock outperforms competitors on strong trading day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWW5RNEtiODcwM05JcTlwdXlRazdOZ25jQ1d6OTR5cXNSTndwTHU3M2I3dmF4WkJFWGlBUkVua0FqVVltNjZ3WFhjemRxV0Y1bkdNbkhZWVZ1S0xvczFuTTNiNzNsdjZpc2w2S016TzBCNmhzc0lmNkhDR1hOLUdvT0FzNnR4bHdMeVdFLU1PRktjY1VjYUhMVzlzWHZPU1VGUUZFMkNhQlcxRGpsN0N2Y0gzc0VxRE5FdUdhTGt4NA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Spider-Man: Brand New Day Hasbro Toys Revealed (Exclusive First Look) - ScreenRant",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "ScreenRant",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRm1aNF83Qk85UHdwM3FibnByUk1XbWZEX0lpdS16Qm9qU3JQNVNFYXhBa3NHLTR4MUdidG9vODJlZjJ5Rl92Ymlpa0MtTnhGTHdfdVAtdF9Pa21TdzItdEJkQVpSNHJ6cllIZQ?oc=5\" target=\"_blank\">Spider-Man: Brand New Day Hasbro Toys Revealed (Exclusive First Look)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ScreenRant</font>",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRm1aNF83Qk85UHdwM3FibnByUk1XbWZEX0lpdS16Qm9qU3JQNVNFYXhBa3NHLTR4MUdidG9vODJlZjJ5Rl92Ymlpa0MtTnhGTHdfdVAtdF9Pa21TdzItdEJkQVpSNHJ6cllIZQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "G.I. Joe, Power Rangers, \"Jem\" & More Set for Hasbro Legends Channel - Bleeding Cool News",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Bleeding Cool News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3RNQzQzOFh1UjJldF9Sel9hay11VHBlbDg1Q2ZRZ1hMeG5HdERjSWExcEV4d3J6RXZYUF9xeFFvb1lLSXlhVk5TM3dFMVQtVDBkdjhfY2pZLXRsY19UekYtOXZ6MEpyWWJmbHJLRDR0S0NLYVlybC0tckhBSGUwRlJlNGNFS3JpVlV6YkpnX0tYdzFU?oc=5\" target=\"_blank\">G.I. Joe, Power Rangers, \"Jem\" & More Set for Hasbro Legends Channel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bleeding Cool News</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3RNQzQzOFh1UjJldF9Sel9hay11VHBlbDg1Q2ZRZ1hMeG5HdERjSWExcEV4d3J6RXZYUF9xeFFvb1lLSXlhVk5TM3dFMVQtVDBkdjhfY2pZLXRsY19UekYtOXZ6MEpyWWJmbHJLRDR0S0NLYVlybC0tckhBSGUwRlJlNGNFS3JpVlV6YkpnX0tYdzFU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Hasbro Inc. stock underperforms Wednesday when compared to competitors - MSN",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxPN25pcXZVTW1MZ2tzU3FlSVd3LURlYUpxWm5oaUk0dnNPMnFKaGVjSlU0b3QyMFItYXh5VnJDc0hCWFlLUFBoWU9ZWHo2ZHZPMm1hY1c5SURYNUI1UVNSM0lPeHZhNkp0RkJNZlN6ZXFiSWhZUzVBSllHVXJBWEFqd29maEV1Mk5lTmUybDJwZ2pMTzUtUVl0Vm10a1VnY0R5TDdqQUtxdVg4RERLU0IzMElCTkdhVUlJd1Y2R2hudXRSb2liRTVZblJSZ0tXQW5oblIxVjVuMnVzWGdOYUxDeWxYdVFfbWVHZzNfUURLbER4ZXBEY3F5YzlFQklWeFFteVZtZ0dLZU9BLUMtbWtMa1dVM2ZzbFpDbHpzcVQxeWpmWnVtTlRUUG9Xd1NuUGJWd0pDb3gyNzFZSWFiQW4wVUhvOGtiMEtNRzVfVnotRFA2dDlhLVE?oc=5\" target=\"_blank\">Hasbro Inc. stock underperforms Wednesday when compared to competitors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPN25pcXZVTW1MZ2tzU3FlSVd3LURlYUpxWm5oaUk0dnNPMnFKaGVjSlU0b3QyMFItYXh5VnJDc0hCWFlLUFBoWU9ZWHo2ZHZPMm1hY1c5SURYNUI1UVNSM0lPeHZhNkp0RkJNZlN6ZXFiSWhZUzVBSllHVXJBWEFqd29maEV1Mk5lTmUybDJwZ2pMTzUtUVl0Vm10a1VnY0R5TDdqQUtxdVg4RERLU0IzMElCTkdhVUlJd1Y2R2hudXRSb2liRTVZblJSZ0tXQW5oblIxVjVuMnVzWGdOYUxDeWxYdVFfbWVHZzNfUURLbER4ZXBEY3F5YzlFQklWeFFteVZtZ0dLZU9BLUMtbWtMa1dVM2ZzbFpDbHpzcVQxeWpmWnVtTlRUUG9Xd1NuUGJWd0pDb3gyNzFZSWFiQW4wVUhvOGtiMEtNRzVfVnotRFA2dDlhLVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-14",
+          "headline": "Hasbro Delays Ghostbusters Plasma Series Proton Pack Replica and Ecto-Glow Ecto-1 - Ghostbusters News",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Ghostbusters News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnpKWFh4S214bGxpcHdZdWUwZFZ6U3ZWSUpKVDZmMEFiSjJyQVMyT0trWmhIOTBBRXgxVzRfckNISXJ0TFNPZzBRb0VKM3hPN2hJeWozNnFCVGRxQnpmLUpNZ1NOWjdHTDVMUlB2UnJIRG5PalhYZThlY2ZsM2h2elMxZmkwclJteE9QN1FjWVRtWDE2aHVBMGl3UWlGeWFHWjFPbjlqWkVsSi10?oc=5\" target=\"_blank\">Hasbro Delays Ghostbusters Plasma Series Proton Pack Replica and Ecto-Glow Ecto-1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ghostbusters News</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnpKWFh4S214bGxpcHdZdWUwZFZ6U3ZWSUpKVDZmMEFiSjJyQVMyT0trWmhIOTBBRXgxVzRfckNISXJ0TFNPZzBRb0VKM3hPN2hJeWozNnFCVGRxQnpmLUpNZ1NOWjdHTDVMUlB2UnJIRG5PalhYZThlY2ZsM2h2elMxZmkwclJteE9QN1FjWVRtWDE2aHVBMGl3UWlGeWFHWjFPbjlqWkVsSi10?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-14",
+          "headline": "Consumer Discretionary - Toys and Electronics Q4 Earnings: Hasbro (NASDAQ:HAS) Simply the Best - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX25DaWxGUXExdUQyeG1NeTlUd2c5VGdtMXlQdXJkVFEzS2htZ0xHY3U0Z01IMllueWV0MzU2MHpRdXl2OFB6OHRqMFJMLWZpNThJYW1ZMXJEdWlUVklpc1RxQktQUVFzMmNxVVR2WU5pRXhLR3JQT3ZoZHVyZ3o1d1VjNWVpcFFySDd6VlpHQmhXS1FtVlczMkxlR2tONzE3eHpuNkswanZYdjQ?oc=5\" target=\"_blank\">Consumer Discretionary - Toys and Electronics Q4 Earnings: Hasbro (NASDAQ:HAS) Simply the Best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX25DaWxGUXExdUQyeG1NeTlUd2c5VGdtMXlQdXJkVFEzS2htZ0xHY3U0Z01IMllueWV0MzU2MHpRdXl2OFB6OHRqMFJMLWZpNThJYW1ZMXJEdWlUVklpc1RxQktQUVFzMmNxVVR2WU5pRXhLR3JQT3ZoZHVyZ3o1d1VjNWVpcFFySDd6VlpHQmhXS1FtVlczMkxlR2tONzE3eHpuNkswanZYdjQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-14",
+          "headline": "Hasbro Is Making Marvel Rivals Action Figures, and They're Just as Huge As You'd Expect - IGN",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "IGN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3lCdHRHc01UYkZpZ0trdFp4TjVhM3hROENzWUFOSEw2YlpCLXp5TDVSeFJYMXNMS3E0b0JpcmFfMV9VVERPTUhyLUZzWjhhVmM3T0p5YnJlWkhJYVlBaGt6TXo4Vkdnd1ZfYTZKbVM1RmN3NWxzUTh0UHZCLWM0akpHUHpoWXVkaHBkb25nRDdfeUd0aUNxUlVSaEJfVnFWTGRfZVBxMV9rbU10MF9fUDhJOA?oc=5\" target=\"_blank\">Hasbro Is Making Marvel Rivals Action Figures, and They're Just as Huge As You'd Expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3lCdHRHc01UYkZpZ0trdFp4TjVhM3hROENzWUFOSEw2YlpCLXp5TDVSeFJYMXNMS3E0b0JpcmFfMV9VVERPTUhyLUZzWjhhVmM3T0p5YnJlWkhJYVlBaGt6TXo4Vkdnd1ZfYTZKbVM1RmN3NWxzUTh0UHZCLWM0akpHUHpoWXVkaHBkb25nRDdfeUd0aUNxUlVSaEJfVnFWTGRfZVBxMV9rbU10MF9fUDhJOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-14",
+          "headline": "Robeco Institutional Asset Management B.V. Grows Stock Position in Hasbro, Inc. $HAS - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFdMbHptdVIzSVZ1MUpvY2FwdHlrZ3NkQVRpSFppbFJLVlNoZ2FGQkdvU19zcmNKWFFDeS02TVpRbVBTOUZQRmlCdkFDZHRGcjhxOGxWMkxPOU4yMjRzenFjcVNRS3NNY0YxTmE5S3p1UVQtSm5FZ0NyZGxQNDI5bEVWaUsyaGtOTEtzQTN6Nkhqb2NoZFF4TTcwS1M1WEhTOWU3UmtaR2hVbGNLUEpETjdEMzlzUUJPVGdLeTlXUnF2Q3VsSmtMakFmaUhod2RTbUhyWGwzNA?oc=5\" target=\"_blank\">Robeco Institutional Asset Management B.V. Grows Stock Position in Hasbro, Inc. $HAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFdMbHptdVIzSVZ1MUpvY2FwdHlrZ3NkQVRpSFppbFJLVlNoZ2FGQkdvU19zcmNKWFFDeS02TVpRbVBTOUZQRmlCdkFDZHRGcjhxOGxWMkxPOU4yMjRzenFjcVNRS3NNY0YxTmE5S3p1UVQtSm5FZ0NyZGxQNDI5bEVWaUsyaGtOTEtzQTN6Nkhqb2NoZFF4TTcwS1M1WEhTOWU3UmtaR2hVbGNLUEpETjdEMzlzUUJPVGdLeTlXUnF2Q3VsSmtMakFmaUhod2RTbUhyWGwzNA?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-14",
+          "headline": "Consumer Discretionary - Toys and Electronics Q4 Results: Hasbro (NASDAQ:HAS) Stands Out as the Top Performer - Bitget",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Bitget",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVV3cxblZLMjBWeHFqS0l0c1ZXWElnaEkzcnlsczU5c055VDdIbzFXU2VSS2YzQVB5NkJ2S29tU0pUWFVQMEt0OVR5Q1VnZlkwbl8xYy1IMlBKZmFJTVHSAWNBVV95cUxPT2JudG9pU1JjZ08tekFjblQxejdqaFFqRkptYmRkdVRUd29wZ2VnYzJlbFN3N1BUbEJZSFg4ejJCYkR4MFZVcFJVbndINjZlRjNua2dGVmN1M2p2bUlEdXZ3SFE?oc=5\" target=\"_blank\">Consumer Discretionary - Toys and Electronics Q4 Results: Hasbro (NASDAQ:HAS) Stands Out as the Top Performer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVV3cxblZLMjBWeHFqS0l0c1ZXWElnaEkzcnlsczU5c055VDdIbzFXU2VSS2YzQVB5NkJ2S29tU0pUWFVQMEt0OVR5Q1VnZlkwbl8xYy1IMlBKZmFJTVHSAWNBVV95cUxPT2JudG9pU1JjZ08tekFjblQxejdqaFFqRkptYmRkdVRUd29wZ2VnYzJlbFN3N1BUbEJZSFg4ejJCYkR4MFZVcFJVbndINjZlRjNua2dGVmN1M2p2bUlEdXZ3SFE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-13",
+          "headline": "Can Hasbro Stock Continue Its Last Year\u2019s 80% Rally? - TIKR.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TIKR.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkgwZ1NkUVJ5anpVM2hfN1VjdzE2ckNPY2FzQjBiYlhRWDExOUhsOUZQYUlZSURnb0dBSDVxSWJnVU5mVkZmOEduOHVSMWNYRGcwTlVlT3lsVWFZZDVKem9QMGdhT1dxMkVnSVFIR29JOTRRU1pqY0RWXzJyd2cwaA?oc=5\" target=\"_blank\">Can Hasbro Stock Continue Its Last Year\u2019s 80% Rally?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkgwZ1NkUVJ5anpVM2hfN1VjdzE2ckNPY2FzQjBiYlhRWDExOUhsOUZQYUlZSURnb0dBSDVxSWJnVU5mVkZmOEduOHVSMWNYRGcwTlVlT3lsVWFZZDVKem9QMGdhT1dxMkVnSVFIR29JOTRRU1pqY0RWXzJyd2cwaA?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 1
+    },
+    "sentiment": {
+      "days_sampled": 8,
+      "delta": 0.011002886002886004,
+      "prior_mean": -0.005952380952380952,
+      "recent_mean": 0.005050505050505051
+    },
+    "technical": {
+      "atr14": 2.52339967201197,
+      "close": 93.93,
+      "close_vs_ema200_pct": 12.64546849158687,
+      "close_vs_ema20_pct": 1.6889964079472155,
+      "close_vs_ema50_pct": 1.9493421965124842,
+      "close_vs_hh20_pct": -0.6662436548223302,
+      "ema20": 92.3698761104689,
+      "ema200": 83.385511426068,
+      "ema50": 92.1339931933501,
+      "entry_ready": false,
+      "hh20_prev": 94.56,
+      "selection_bucket": "candidate",
+      "vol_anom": 1.71164555260284
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 10,
+    "effective_adverse_effects": 10,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "consumer"
+    ],
+    "industry": "Leisure",
+    "sector": "Consumer Cyclical",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 1 constructive, 0 adverse, and 3 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 10 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "conflicting"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-16: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Asian stocks mostly higher after Wall Street hits record and oil rises - AP News."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-16: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Taiwan Market Cap Tops $4 Trillion on AI Boom, Overtaking UK - Bloomberg.com."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-15: Hasbro Inc. stock outperforms competitors on strong trading day - MarketWatch."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "Price is still below the prior 20-day high (94.56), so the breakout remains unconfirmed."
+    },
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 94.56 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-04-16: Asian stocks mostly higher after Wall Street hits record and oil rises - AP News."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-04-16: Taiwan Market Cap Tops $4 Trillion on AI Boom, Overtaking UK - Bloomberg.com."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is still below the 20-day high trigger",
+        "points": -8,
+        "value": -0.67
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 1.69
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 1.95
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 12.65
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 2,
+        "value": 1
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 10
+      }
+    ],
+    "confidence": "high",
+    "label": "fragile_watch",
+    "score_0_to_100": 33
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-16",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-16_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "MarketBeat",
+      "title": "Massachusetts Financial Services Co. MA Lowers Position in Hasbro, Inc. $HAS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3otVGRuV2t5eGN1OHdnYXQzeFN2aEtVZE1uUmxqSFpfajBnUUliUHk2MUJCbG85eHNza3pUbkdKSG9EcEZXWFNqcVlBM0NvYzhTN2wyUW02elpfbUI3ajd3aHM1S3J5b3ZMSnV0TEswS3BwOWlINHg0TFdlMEc1SWREeXBTTXR6WUJseXFJeThLYTNPM1ppWGZwaVRFdC15OUhZRHo2Z3Z4Z2tzcTRHNTNXanJVSGtMbTdXZ2hlZll4bDd2Z0pubV9rMnhNQQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "MarketBeat",
+      "title": "Hasbro (HAS) to Release Earnings on Thursday - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTJjWlVFRGFQT3JDR0s4UDNMZHY5RzA4VnJmcWpvalNuQld6b2oySXdTdEc5RDgxajFNOFgtd3czME5SUzB3ZEtJeDg4WTRWeUdWVGVVdTA0d0FjaWxLRTFCT2dOLTRiaUlIUWowWE5lRjJOZ0hOZUw2c1R4d0p3bThKX2xGeV9hUkg3elZrTFpyUnRiMUNSVUVVSkI?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "Tformers",
+      "title": "Hasbro Entertainment Rolls Out \"Hasbro Legends\" Channel With Transformers, More - Tformers",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5tbFU0VkpQaDBpTWZEOFpEUUlIbmYxNWJ0aFV0MFl6Q2cwVzdfTGNIVW0yR3R4YXBBbk9jcEtuOA?oc=5"
+    },
+    {
+      "published_at": "2026-04-15",
+      "publisher": "simplywall.st",
+      "title": "Is Hasbro (HAS) Still Attractively Priced After An 83% One Year Share Price Jump - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkdhUWdva1RWTDJydmVIZ2trZ0JCWU9VeHF0c3RUUHFKYk9kYnJLTV9KcHJVTUhibjlOdzI2azZhV29QQjdGX2ZEaV9TeDJfUk5pV0QwSU5OWGhKZHhpU3hiNWIyd3lldG83Xzh0aXo0eDNqdGdEaWFJNS05NGdDckx3T2dkWnpTQjk4alZrZEk5RV9tS2ZDZjNrNjVqUEhrWFljQUlhSjR3T0pNQzNkeGNHRk9fUnIwaHBZY2ItYV9Xa2lrWloxakdFUDZzUdIB0wFBVV95cUxPaVVUdDFQT0J2cVBFMVZSS2dWN2p1R01WQmFIMkNjcEd3emc2emdON3Q0QkdqV3JrOVdyLW9LVEhDTUxpMEJQd1BCQmhyNEFRSzl3a2poZzAtYUdsSUs2LURIelF2c0xWYlhzQU5CVmVXSWhpclc5UkhhX3RrNXVoeDFWSF9JLUh1dzgteE82c1Y2MHM0anhFZHhPMmpCcDN3dndOMHlrSWdSazlmU3ZEXzFpdG1QcmpZZkVaT2ZJaWhheko2anNDNzlObzQ5TC1jVUFV?oc=5"
+    },
+    {
+      "published_at": "2026-04-15",
+      "publisher": "Laughing Place",
+      "title": "\"Spider-Man: Brand New Day\" Toys Revealed by Hasbro at CinemaCon 2026, Including the Incredible Hulk - Laughing Place",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGw4eGdZYXoyMHhMcXA4cmQzYlpxX2dxN3dseTgzZkRDbTJrWEFGMUNrRy1DLTFHR0VsY2pRRm5fcGVVUV9PUkNUSjJMSkpOYWRaVWs0T0JXd2d1c1lYVE5OVzM2ZldaVmdVSmdIenlIOUdnM01HNkEwLTZTcWgweGV5RW11TjdlWFlScFBQV1owMkduTG96bEZqcTl0WEp0RUdZ?oc=5"
+    },
+    {
+      "published_at": "2026-04-15",
+      "publisher": "MarketWatch",
+      "title": "Hasbro Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWW5RNEtiODcwM05JcTlwdXlRazdOZ25jQ1d6OTR5cXNSTndwTHU3M2I3dmF4WkJFWGlBUkVua0FqVVltNjZ3WFhjemRxV0Y1bkdNbkhZWVZ1S0xvczFuTTNiNzNsdjZpc2w2S016TzBCNmhzc0lmNkhDR1hOLUdvT0FzNnR4bHdMeVdFLU1PRktjY1VjYUhMVzlzWHZPU1VGUUZFMkNhQlcxRGpsN0N2Y0gzc0VxRE5FdUdhTGt4NA?oc=5"
+    },
+    {
+      "published_at": "2026-04-15",
+      "publisher": "ScreenRant",
+      "title": "Spider-Man: Brand New Day Hasbro Toys Revealed (Exclusive First Look) - ScreenRant",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRm1aNF83Qk85UHdwM3FibnByUk1XbWZEX0lpdS16Qm9qU3JQNVNFYXhBa3NHLTR4MUdidG9vODJlZjJ5Rl92Ymlpa0MtTnhGTHdfdVAtdF9Pa21TdzItdEJkQVpSNHJ6cllIZQ?oc=5"
+    }
+  ],
+  "summary": "HAS scores 33/100 as a fragile_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 10 adverse effects.",
+  "symbol": "HAS"
+}

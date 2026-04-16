@@ -1,0 +1,2 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
+20260415,US,NEXA,Nexa Resources SA,USD,USA,14.65,7904361.0,9.08828612628519,12.341,0.8404848433301,5.74,12.341,11.0803,1.2607,14.8625,16.1232,6.7,0.75,,250.0,,,,

@@ -1,5 +1,0 @@
-asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
-20260414,US,GSAT,"Globalstar, Inc. Common Stock",USD,USA,79.91,12337739.0,6.68149808659682,78.2999,5.02370659384966,6.29,78.2999,70.7643,7.5356,93.371,100.9066,8.7,1.0,,250.0,,,,
-20260414,US,TVTX,Travere Therapeutics Inc,USD,USA,42.13,14311837.0,6.74124433709243,33.7799,2.61620538096947,6.21,33.7799,29.8556,3.9243,41.6285,45.5528,7.9,0.75,,250.0,,,,
-20260414,US,AVNS,Avanos Medical Inc,USD,USA,24.63,23403617.0,15.1060048513763,14.61,1.14261811989161,4.64,14.61,12.8961,1.7139,18.0379,19.7518,7.3,0.75,,250.0,,,,
-20260414,US,BKH,Black Hills Corporation,USD,USA,76.6,3062945.0,2.80192559688239,74.59,1.96200514809469,2.56,74.59,71.647,2.943,80.476,83.419,6.1,0.75,,250.0,,,,
