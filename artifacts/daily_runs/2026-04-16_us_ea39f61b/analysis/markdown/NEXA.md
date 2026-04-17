@@ -1,6 +1,6 @@
 # NEXA - Nexa Resources SA
 
-- Quote: [Yahoo Finance (NEXA)](<https://finance.yahoo.com/quote/NEXA>)
+- Quote: [Investing.com (NEXA)](<https://de.investing.com/search/?q=NEXA%20Nexa%20Resources%20SA>)
 
 |  |  |
 | --- | --- |
@@ -8,13 +8,13 @@
 | **Score** | $\color{#1a7f37}{\texttt{80}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
-| **Current price** | `14.65 USD (12.44 EUR)` |
-| **Entry limit** | `12.34 USD (10.48 EUR)` |
+| **Current price** | `14.65 USD (12.43 EUR)` |
+| **Entry limit** | `12.34 USD (10.47 EUR)` |
 | **Distance to entry limit** | $\color{#cf222e}{\texttt{2.31 USD (1.96 EUR) / +18.71\%}}$ |
-| **Initial stop** | `11.08 USD (9.41 EUR)` |
-| **Prior 20d high trigger** | `12.34 USD (10.48 EUR)` |
-| **2R target** | `14.86 USD (12.62 EUR)` |
-| **3R target** | `16.12 USD (13.69 EUR)` |
+| **Initial stop** | `11.08 USD (9.40 EUR)` |
+| **Prior 20d high trigger** | `12.34 USD (10.47 EUR)` |
+| **2R target** | `14.86 USD (12.61 EUR)` |
+| **3R target** | `16.12 USD (13.68 EUR)` |
 | **Risk distance** | `1.26 USD (1.07 EUR)` |
 
 ## Investment View

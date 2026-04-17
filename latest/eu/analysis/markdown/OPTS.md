@@ -1,6 +1,6 @@
 # OPTS - Optare Solutions, S.A.
 
-- Quote: [Yahoo Finance (OPTS.MC)](<https://finance.yahoo.com/quote/OPTS.MC>)
+- Quote: [Investing.com (OPTS)](<https://de.investing.com/search/?q=OPTS%20Optare%20Solutions%2C%20S.A.>)
 
 |  |  |
 | --- | --- |

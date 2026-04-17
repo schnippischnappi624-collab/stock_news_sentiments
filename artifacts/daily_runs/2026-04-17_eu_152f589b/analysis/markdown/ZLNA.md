@@ -1,6 +1,6 @@
 # ZLNA - Zelluna ASA
 
-- Quote: [Yahoo Finance (ZLNA.OL)](<https://finance.yahoo.com/quote/ZLNA.OL>)
+- Quote: [Investing.com (ZLNA)](<https://de.investing.com/search/?q=ZLNA%20Zelluna%20ASA>)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SKYT - Skywater Technology Inc
 
-- Quote: [Yahoo Finance (SKYT)](<https://finance.yahoo.com/quote/SKYT>)
+- Quote: [Investing.com (SKYT)](<https://de.investing.com/search/?q=SKYT%20Skywater%20Technology%20Inc>)
 
 |  |  |
 | --- | --- |
@@ -8,7 +8,7 @@
 | **Score** | $\color{#9a6700}{\texttt{62}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
-| **Current price** | `32.24 USD (27.37 EUR)` |
+| **Current price** | `32.24 USD (27.36 EUR)` |
 | **Prior 20d high trigger** | `32.00 USD (27.16 EUR)` |
 
 ## Investment View

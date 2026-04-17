@@ -1,6 +1,6 @@
 # RAIKV - Raisio Oyj
 
-- Quote: [Yahoo Finance (RAIKV.HE)](<https://finance.yahoo.com/quote/RAIKV.HE>)
+- Quote: [Investing.com (RAIKV)](<https://de.investing.com/search/?q=RAIKV%20Raisio%20Oyj>)
 
 |  |  |
 | --- | --- |

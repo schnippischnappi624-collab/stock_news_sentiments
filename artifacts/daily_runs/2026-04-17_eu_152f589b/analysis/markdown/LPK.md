@@ -1,6 +1,6 @@
 # LPK - LPKF Laser & Electronics AG
 
-- Quote: [Yahoo Finance (LPK.DE)](<https://finance.yahoo.com/quote/LPK.DE>)
+- Quote: [Investing.com (LPK)](<https://de.investing.com/search/?q=LPK%20LPKF%20Laser%20%26%20Electronics%20AG>)
 
 |  |  |
 | --- | --- |

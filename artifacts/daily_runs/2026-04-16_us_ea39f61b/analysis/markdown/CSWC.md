@@ -1,6 +1,6 @@
 # CSWC - Capital Southwest Corporation
 
-- Quote: [Yahoo Finance (CSWC)](<https://finance.yahoo.com/quote/CSWC>)
+- Quote: [Investing.com (CSWC)](<https://de.investing.com/search/?q=CSWC%20Capital%20Southwest%20Corporation>)
 
 |  |  |
 | --- | --- |
@@ -8,8 +8,8 @@
 | **Score** | $\color{#bc4c00}{\texttt{50}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
-| **Current price** | `23.99 USD (20.37 EUR)` |
-| **Prior 20d high trigger** | `23.79 USD (20.20 EUR)` |
+| **Current price** | `23.99 USD (20.36 EUR)` |
+| **Prior 20d high trigger** | `23.79 USD (20.19 EUR)` |
 
 ## Investment View
 CSWC scores 50/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 2 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

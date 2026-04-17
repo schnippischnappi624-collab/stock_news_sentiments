@@ -1,6 +1,6 @@
 # GSAT - Globalstar, Inc. Common Stock
 
-- Quote: [Yahoo Finance (GSAT)](<https://finance.yahoo.com/quote/GSAT>)
+- Quote: [Investing.com (GSAT)](<https://de.investing.com/search/?q=GSAT%20Globalstar%2C%20Inc.%20Common%20Stock>)
 
 |  |  |
 | --- | --- |
@@ -8,8 +8,8 @@
 | **Score** | $\color{#bc4c00}{\texttt{50}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
-| **Current price** | `80.64 USD (68.46 EUR)` |
-| **Prior 20d high trigger** | `81.07 USD (68.82 EUR)` |
+| **Current price** | `80.64 USD (68.44 EUR)` |
+| **Prior 20d high trigger** | `81.07 USD (68.81 EUR)` |
 
 ## Investment View
 GSAT scores 50/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

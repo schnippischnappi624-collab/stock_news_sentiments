@@ -1,6 +1,6 @@
 # SSAB-B - SSAB AB (publ)
 
-- Quote: [Yahoo Finance (SSAB-B.ST)](<https://finance.yahoo.com/quote/SSAB-B.ST>)
+- Quote: [Investing.com (SSAB-B)](<https://de.investing.com/search/?q=SSAB-B%20SSAB%20AB%20%28publ%29>)
 
 |  |  |
 | --- | --- |

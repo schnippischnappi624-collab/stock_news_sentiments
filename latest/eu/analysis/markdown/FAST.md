@@ -1,6 +1,6 @@
 # FAST - Fastned B.V.
 
-- Quote: [Yahoo Finance (FAST)](<https://finance.yahoo.com/quote/FAST>)
+- Quote: [Investing.com (FAST)](<https://de.investing.com/search/?q=FAST%20Fastned%20B.V.>)
 
 |  |  |
 | --- | --- |

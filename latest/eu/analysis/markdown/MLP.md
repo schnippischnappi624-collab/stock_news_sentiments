@@ -1,6 +1,6 @@
 # MLP - MLP SE
 
-- Quote: [Yahoo Finance (MLP.DE)](<https://finance.yahoo.com/quote/MLP.DE>)
+- Quote: [Investing.com (MLP)](<https://de.investing.com/search/?q=MLP%20MLP%20SE>)
 
 |  |  |
 | --- | --- |

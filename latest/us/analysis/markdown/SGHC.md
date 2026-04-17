@@ -1,6 +1,6 @@
 # SGHC - SGHC Limited
 
-- Quote: [Yahoo Finance (SGHC)](<https://finance.yahoo.com/quote/SGHC>)
+- Quote: [Investing.com (SGHC)](<https://de.investing.com/search/?q=SGHC%20SGHC%20Limited>)
 
 |  |  |
 | --- | --- |

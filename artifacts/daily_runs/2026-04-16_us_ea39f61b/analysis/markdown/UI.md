@@ -1,6 +1,6 @@
 # UI - Ubiquiti Networks Inc
 
-- Quote: [Yahoo Finance (UI)](<https://finance.yahoo.com/quote/UI>)
+- Quote: [Investing.com (UI)](<https://de.investing.com/search/?q=UI%20Ubiquiti%20Networks%20Inc>)
 
 |  |  |
 | --- | --- |
@@ -8,8 +8,8 @@
 | **Score** | $\color{#bc4c00}{\texttt{56}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
-| **Current price** | `1,006.56 USD (854.47 EUR)` |
-| **Prior 20d high trigger** | `991.66 USD (841.82 EUR)` |
+| **Current price** | `1,006.56 USD (854.32 EUR)` |
+| **Prior 20d high trigger** | `991.66 USD (841.67 EUR)` |
 
 ## Investment View
 UI scores 56/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects.

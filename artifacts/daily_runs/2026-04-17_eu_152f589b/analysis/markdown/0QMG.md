@@ -1,6 +1,6 @@
 # 0QMG - Swiss Life Holding AG
 
-- Quote: [Yahoo Finance (0QMG)](<https://finance.yahoo.com/quote/0QMG>)
+- Quote: [Investing.com (0QMG)](<https://de.investing.com/search/?q=0QMG%20Swiss%20Life%20Holding%20AG>)
 
 |  |  |
 | --- | --- |

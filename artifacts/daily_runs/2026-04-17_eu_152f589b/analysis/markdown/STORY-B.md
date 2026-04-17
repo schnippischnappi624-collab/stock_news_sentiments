@@ -1,6 +1,6 @@
 # STORY-B - Storytel AB (publ)
 
-- Quote: [Yahoo Finance (STORY-B.ST)](<https://finance.yahoo.com/quote/STORY-B.ST>)
+- Quote: [Investing.com (STORY-B)](<https://de.investing.com/search/?q=STORY-B%20Storytel%20AB%20%28publ%29>)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HYDRA - Hydratec Industries NV
 
-- Quote: [Yahoo Finance (HYDRA)](<https://finance.yahoo.com/quote/HYDRA>)
+- Quote: [Investing.com (HYDRA)](<https://de.investing.com/search/?q=HYDRA%20Hydratec%20Industries%20NV>)
 
 |  |  |
 | --- | --- |

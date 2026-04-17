@@ -1,6 +1,6 @@
 # ATS - AT & S Austria Technologie & Systemtechnik Aktiengesellschaf t
 
-- Quote: [Yahoo Finance (ATS)](<https://finance.yahoo.com/quote/ATS>)
+- Quote: [Investing.com (ATS)](<https://de.investing.com/search/?q=ATS%20AT%20%26%20S%20Austria%20Technologie%20%26%20Systemtechnik%20Aktiengesellschaf%20t>)
 
 |  |  |
 | --- | --- |

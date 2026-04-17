@@ -1,6 +1,6 @@
 # FREY - Frey SA
 
-- Quote: [Yahoo Finance (FREY.PA)](<https://finance.yahoo.com/quote/FREY.PA>)
+- Quote: [Investing.com (FREY)](<https://de.investing.com/search/?q=FREY%20Frey%20SA>)
 
 |  |  |
 | --- | --- |

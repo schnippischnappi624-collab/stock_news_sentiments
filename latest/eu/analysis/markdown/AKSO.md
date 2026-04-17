@@ -1,6 +1,6 @@
 # AKSO - Aker Solutions ASA
 
-- Quote: [Yahoo Finance (AKSO.OL)](<https://finance.yahoo.com/quote/AKSO.OL>)
+- Quote: [Investing.com (AKSO)](<https://de.investing.com/search/?q=AKSO%20Aker%20Solutions%20ASA>)
 
 |  |  |
 | --- | --- |

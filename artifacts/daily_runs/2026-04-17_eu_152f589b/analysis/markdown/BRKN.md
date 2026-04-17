@@ -1,6 +1,6 @@
 # BRKN - Burkhalter Holding AG
 
-- Quote: [Yahoo Finance (BRKN)](<https://finance.yahoo.com/quote/BRKN>)
+- Quote: [Investing.com (BRKN)](<https://de.investing.com/search/?q=BRKN%20Burkhalter%20Holding%20AG>)
 
 |  |  |
 | --- | --- |

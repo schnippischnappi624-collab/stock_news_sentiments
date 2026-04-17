@@ -1,6 +1,6 @@
 # ACAD - AcadeMedia AB (publ)
 
-- Quote: [Yahoo Finance (ACAD.ST)](<https://finance.yahoo.com/quote/ACAD.ST>)
+- Quote: [Investing.com (ACAD)](<https://de.investing.com/search/?q=ACAD%20AcadeMedia%20AB%20%28publ%29>)
 
 |  |  |
 | --- | --- |

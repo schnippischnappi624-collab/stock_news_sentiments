@@ -82,7 +82,7 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "| **Entry limit** | `20.50 USD (10.25 EUR)` |" in markdown
     assert r"| **Distance to entry limit** | $\color{#cf222e}{\texttt{1.06 USD (0.53 EUR) / +5.17\%}}$ |" in markdown
     assert "| **Initial stop** | `17.83 USD (8.91 EUR)` |" in markdown
-    assert "- Quote: [Yahoo Finance (SPIR)](<https://finance.yahoo.com/quote/SPIR>)" in markdown
+    assert "- Quote: [Investing.com (SPIR)](<https://de.investing.com/search/?q=SPIR%20Spire%20Global%20Inc>)" in markdown
     assert "[&#36;14.00 Per Share - Example](<https://example.com>) - 2026-04-11" in markdown
 
 

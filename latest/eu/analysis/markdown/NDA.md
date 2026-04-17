@@ -1,6 +1,6 @@
 # NDA - Aurubis AG
 
-- Quote: [Yahoo Finance (NDA.DE)](<https://finance.yahoo.com/quote/NDA.DE>)
+- Quote: [Investing.com (NDA)](<https://de.investing.com/search/?q=NDA%20Aurubis%20AG>)
 
 |  |  |
 | --- | --- |

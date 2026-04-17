@@ -1,6 +1,6 @@
 # STGN - Starrag Group Holding AG
 
-- Quote: [Yahoo Finance (STGN)](<https://finance.yahoo.com/quote/STGN>)
+- Quote: [Investing.com (STGN)](<https://de.investing.com/search/?q=STGN%20Starrag%20Group%20Holding%20AG>)
 
 |  |  |
 | --- | --- |

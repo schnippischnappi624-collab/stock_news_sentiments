@@ -1,6 +1,6 @@
 # OHB - OHB SE
 
-- Quote: [Yahoo Finance (OHB.DE)](<https://finance.yahoo.com/quote/OHB.DE>)
+- Quote: [Investing.com (OHB)](<https://de.investing.com/search/?q=OHB%20OHB%20SE>)
 
 |  |  |
 | --- | --- |

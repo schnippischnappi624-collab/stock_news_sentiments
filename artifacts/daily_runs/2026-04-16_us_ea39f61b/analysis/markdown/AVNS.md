@@ -1,6 +1,6 @@
 # AVNS - Avanos Medical Inc
 
-- Quote: [Yahoo Finance (AVNS)](<https://finance.yahoo.com/quote/AVNS>)
+- Quote: [Investing.com (AVNS)](<https://de.investing.com/search/?q=AVNS%20Avanos%20Medical%20Inc>)
 
 |  |  |
 | --- | --- |
@@ -9,7 +9,7 @@
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
 | **Current price** | `24.72 USD (20.98 EUR)` |
-| **Prior 20d high trigger** | `24.70 USD (20.97 EUR)` |
+| **Prior 20d high trigger** | `24.70 USD (20.96 EUR)` |
 
 ## Investment View
 AVNS scores 66/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 7 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

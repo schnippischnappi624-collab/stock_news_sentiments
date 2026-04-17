@@ -1,6 +1,6 @@
 # RVMD - Revolution Medicines Inc
 
-- Quote: [Yahoo Finance (RVMD)](<https://finance.yahoo.com/quote/RVMD>)
+- Quote: [Investing.com (RVMD)](<https://de.investing.com/search/?q=RVMD%20Revolution%20Medicines%20Inc>)
 
 |  |  |
 | --- | --- |
@@ -8,8 +8,8 @@
 | **Score** | $\color{#9a6700}{\texttt{72}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
-| **Current price** | `152.54 USD (129.49 EUR)` |
-| **Prior 20d high trigger** | `148.00 USD (125.64 EUR)` |
+| **Current price** | `152.54 USD (129.47 EUR)` |
+| **Prior 20d high trigger** | `148.00 USD (125.62 EUR)` |
 
 ## Investment View
 RVMD scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 7 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.

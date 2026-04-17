@@ -1,6 +1,6 @@
 # MLUMG - Umalis Group
 
-- Quote: [Yahoo Finance (MLUMG.PA)](<https://finance.yahoo.com/quote/MLUMG.PA>)
+- Quote: [Investing.com (MLUMG)](<https://de.investing.com/search/?q=MLUMG%20Umalis%20Group>)
 
 |  |  |
 | --- | --- |

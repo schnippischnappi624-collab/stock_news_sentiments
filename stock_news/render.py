@@ -61,21 +61,23 @@ def _md_link(label: Any, url: str) -> str:
     return f"[{safe_label}](<{safe_url}>)"
 
 
-def _yahoo_finance_quote_symbol(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
+def _investing_quote_symbol(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
     profile = ((news_context or {}).get("company_profile") or {}) if isinstance(news_context, dict) else {}
-    for candidate in (profile.get("query_symbol"), profile.get("symbol"), item.get("symbol")):
+    for candidate in (item.get("symbol"), profile.get("requested_symbol"), profile.get("query_symbol"), profile.get("symbol")):
         value = str(candidate or "").strip()
         if value:
             return value
     return None
 
 
-def _yahoo_finance_quote_url(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
-    quote_symbol = _yahoo_finance_quote_symbol(item, news_context)
-    if not quote_symbol:
+def _investing_quote_url(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
+    symbol = _investing_quote_symbol(item, news_context)
+    company_name = " ".join(str(item.get("company_name") or "").split()).strip()
+    query_parts = [part for part in (symbol, company_name) if part]
+    if not query_parts:
         return None
-    encoded_symbol = quote(quote_symbol, safe=".-_")
-    return f"https://finance.yahoo.com/quote/{encoded_symbol}"
+    encoded_query = quote(" ".join(query_parts), safe="")
+    return f"https://de.investing.com/search/?q={encoded_query}"
 
 
 def _colorize(
@@ -832,18 +834,18 @@ def render_analysis_markdown(
         or market_overlay.get("adverse_effects")
         or (market_overlay.get("exposures") or [])
     )
-    yahoo_finance_url = _yahoo_finance_quote_url(item, news_context)
-    yahoo_finance_symbol = _yahoo_finance_quote_symbol(item, news_context)
+    investing_quote_url = _investing_quote_url(item, news_context)
+    investing_quote_symbol = _investing_quote_symbol(item, news_context)
 
     lines = [
         f"# {_md_text(item.get('symbol'))} - {_md_text(item.get('company_name') or 'Unknown Company')}",
         "",
     ]
-    if yahoo_finance_url:
-        label = "Yahoo Finance"
-        if yahoo_finance_symbol:
-            label = f"Yahoo Finance ({yahoo_finance_symbol})"
-        lines.extend([f"- Quote: {_md_link(label, yahoo_finance_url)}", ""])
+    if investing_quote_url:
+        label = "Investing.com"
+        if investing_quote_symbol:
+            label = f"Investing.com ({investing_quote_symbol})"
+        lines.extend([f"- Quote: {_md_link(label, investing_quote_url)}", ""])
     lines.extend(_summary_table_lines(item, stance, eur_rates_context=eur_rates_context))
 
     lines.extend(

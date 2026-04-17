@@ -1,6 +1,6 @@
 # HAS - Hasbro Inc
 
-- Quote: [Yahoo Finance (HAS)](<https://finance.yahoo.com/quote/HAS>)
+- Quote: [Investing.com (HAS)](<https://de.investing.com/search/?q=HAS%20Hasbro%20Inc>)
 
 |  |  |
 | --- | --- |
@@ -8,8 +8,8 @@
 | **Score** | $\color{#cf222e}{\texttt{33}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
-| **Current price** | `93.93 USD (79.74 EUR)` |
-| **Prior 20d high trigger** | `94.56 USD (80.27 EUR)` |
+| **Current price** | `93.93 USD (79.72 EUR)` |
+| **Prior 20d high trigger** | `94.56 USD (80.26 EUR)` |
 
 ## Investment View
 HAS scores 33/100 as a fragile_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 10 adverse effects.

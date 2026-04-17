@@ -1,6 +1,6 @@
 # CMCOM - CM.com NV
 
-- Quote: [Yahoo Finance (CMCOM)](<https://finance.yahoo.com/quote/CMCOM>)
+- Quote: [Investing.com (CMCOM)](<https://de.investing.com/search/?q=CMCOM%20CM.com%20NV>)
 
 |  |  |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GLO - GL Events SA
 
-- Quote: [Yahoo Finance (GLO.PA)](<https://finance.yahoo.com/quote/GLO.PA>)
+- Quote: [Investing.com (GLO)](<https://de.investing.com/search/?q=GLO%20GL%20Events%20SA>)
 
 |  |  |
 | --- | --- |
