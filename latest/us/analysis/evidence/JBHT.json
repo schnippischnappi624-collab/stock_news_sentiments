@@ -1,0 +1,994 @@
+{
+  "analysis_date": "2026-04-17",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 73,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-16: J.B. Hunt Transport Services, Inc. (JBHT) Posts Q1 2026 Results - AlphaStreet."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-16: What JB Hunt Q1 Earnings Tells Us About Freight Recovery and Economic Resilience - 24/7 Wall St."
+    },
+    {
+      "confidence": "low",
+      "point": "2026-04-17: Market theme to monitor (Oil supply shock / energy tailwind): Iran War Live Updates: Cease-Fire Between Israel and Lebanon Takes Effect - WSJ."
+    }
+  ],
+  "company_name": "JB Hunt Transport Services Inc",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 9,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "9 months after Ozzy\u2019s death, Sharon Osbourne lists L.A. mansion for $17 million",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Sharon Osbourne\u00a0has listed the $17 million\u00a0Los Angeles\u00a0mansion she shared with her late spouse,\u00a0Ozzy Osbourne, and their children, nine months after the rock \u2018n\u2019 roll legend died in England.",
+          "url": "https://www.marketwatch.com/story/9-months-after-ozzys-death-sharon-osbourne-lists-l-a-mansion-for-17-million-c4a3fd5d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-17",
+          "headline": "Netflix shares fall 10% on Q2 guidance miss; co-founder Hastings to exit - Investing.com",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.012195121951219513,
+          "source": "Investing.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjJLM3kxQnlsQUY4dVZCdFczRmJicGhZeE4xQnM3d0twZTZsNkJIUTAzeGVXcVYxd0gtLUZlREJfUklSZmFXRjlvQURUV25vR1hUc2Q0ak9sTmFMYlprTVNJVFJqTTFFaHVfZmFpYXloTWJ0Y2dSbXJZSU9NbnNCVlp3T1ZzeXBNR0ZDSkJ0cUhmbGRyLUpCVW5US0l0UXV3NEIwX3ZvbDR5alJCRF8wb3VVMWQ?oc=5\" target=\"_blank\">Netflix shares fall 10% on Q2 guidance miss; co-founder Hastings to exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUdRWjVFT0N5elhobGczSVNWSXNXRno4UmxtU1Y3dGZsYmxINUNNQlZuZTdYSnB5OGplYlp0Slh6VFJRejZISW5hemdTSC1UT204SlI1MFZ6TDBQYzJiZVpsS0JHc3E3Q05BWlJHOUs3empIQTZ5Qi1leEI1ck14WUpWY0plQQ?oc=5\" target=\"_blank\">Netflix chairman and co-founder to step down from board in June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk5RekZ1NzJJNHNPS05KY2NJZndBMVRIcThpd3lfRWlwNXVIMFhSNnM1WmhtVF9BZDdsSW1mMmtuSHdXdk1KRGdsV01LQ2VaWS0yVC1YVWk2MFE5dWdzOFJwZmxES2NnUHAxNWNKcHF2dWgzVkJBLWNFLXd0NlZ3enJhTWw?oc=5\" target=\"_blank\">End of an era: Reed Hastings steps down from Netflix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeU9JSEtpelhVenJCby05SHZLZmo3ZGktaEJOeTZ0NjZ2NVFaTGw4WXp2OHN5ZUVMM0Fwcl9FTUV5THRtblFyVi02dmpGQ1h2MUc1emhLUmh1UENWd3ZScUNPRE4ySEFyR3l2eVlicEkyY1hQX0VfemgwUWJjWDk0WVlKXzI0Si0wcy1nUEpLUW9GOWhJb0pWMFk2dGJacUNSazUzajhRY3gtYTBGcVNNdzFGdnJjZEV3UzZWMlZ4VkZCcXp2RV9WQkc5R0ZweVgxS3MtMGxUNG5CRkctMEhRQUd0RQ?oc=5\" target=\"_blank\">Netflix stock slides as earnings beat estimates, co-founder Reed Hastings announces departure from board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzVBV1c2QmNfWXJscEdCSXk4SzdZOXJtbjdQZlhJcERRQld6Y2JPeGpjVFdockpoMW1FRVBoczVXZEl3WVVZSVZRYmZhcDlDZ3NoT1hEZ3hNM0QtUlFTalh5cm1WeXFEd3hNa2ptSi1aUTZSOGViRmdhZXlzVWQxdzcycmtPTzd2R2hrUEl3TGNhQms2a2k3MUlvVlFfUTdyWUFsX3ZnLXEwZnJnMWdablNXUQ?oc=5\" target=\"_blank\">Netflix shares fall after downbeat revenue forecast, co-founder to leave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjJLM3kxQnlsQUY4dVZCdFczRmJicGhZeE4xQnM3d0twZTZsNkJIUTAzeGVXcVYxd0gtLUZlREJfUklSZmFXRjlvQURUV25vR1hUc2Q0ak9sTmFMYlprTVNJVFJqTTFFaHVfZmFpYXloTWJ0Y2dSbXJZSU9NbnNCVlp3T1ZzeXBNR0ZDSkJ0cUhmbGRyLUpCVW5US0l0UXV3NEIwX3ZvbDR5alJCRF8wb3VVMWQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Stock futures are mixed after Trump says Iran war \u2018should be ending pretty soon\u2019: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.010416666666666666,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZkF1MDMyTWp4VDA2UnhBVWxTcDRtYjdrVXlQZk8xTlpBOWgwN0tpSHJjcVFPQWFzWE13NERvaFNVbEhNV1BfVXF6ZjVfbHNPMXY3RHVVUFI1QmpPWGhSUWpzMHZWZ1d4TVN3bU9VM0ZZVVhQLW9B0gF8QVVfeXFMUFZQU0k2MF85UEpnTE9uc0FWcFFLcl9CeWhxYml6S005aE5QNGtRbTNJNy16QUpvRGcwdWR6ek4zSXhITHRYVG9wQ1pVN3Bkb3U1d3R0WFhHR1F3ZGlKaFdKaWViaHF4VERKQmc4aWZUeXN4ZHRWczhIX1FJSA?oc=5\" target=\"_blank\">Stock futures are mixed after Trump says Iran war \u2018should be ending pretty soon\u2019: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQakIxRmdfTWdFTGRnV005cW93NWkybmY0Rzg5WXhhem42M0VpWVRncmJsTU1iQUJFX09zaHRvb0hUMml0R1Yxb2o3SjlOblRwa3FSS2FkNWYwVXFwWkd1aGxMT1lnbHBVUmNoSTVURTJnbXZUbVN0WDVHWDNyX0xVaDJ1YU5MbVMydndWWlp2Y0ctSWY1RWlBQWhwVW1tYW91aFhMaG5fVVZvVTRjNkxQVF9fTVl1eUY1c19uSnM4RV9ZVVhjaGFObUE1ZWhPQ2pQYUk1bzJTN01lMzg3YnRQWkJneUJCdHc?oc=5\" target=\"_blank\">Stock market today: Dow rises, S&P 500 and Nasdaq notch fresh records as war resolution hopes grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmRMcnNLMU9ITGdBcXJkVTdadVJFRkh0R1FyODlrT2ljM01Lb1VyYUpDV1pmVzBQYmFtSU5tSkl0SUdjREpnYTJvUzl6R0RNc3ZxX0tyemxWUi1UMlJrdFV4NjVSOGxoek0xRmtCQlh3VXpBMUNrNmtsRkttRl9XNkFQVFo4eXRGbEpYOVFxdnJoeURhRnB1dnRGY1NwTExOLVN5X2xsRVdmR25FREpEekhCVkJJRE9tdWlDSXZBQWZCUQ?oc=5\" target=\"_blank\">Trump says Iran war should end \"soon\"; Netflix slumps - what\u2019s moving markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX296UDBvTWgzLUJsUUcwQVU3V1NHd1R6d0p2Ukx6cEpIeHhpYjVDVHQ4LXVVa2MzYk1XWHVtaFUtQy1ad3U0RnJqVkRVLWJ3OUI1Sm5ya25kaWJsRENZNU5oU1U1TVlYd3MxLUdxdHVHd2V2TVNrd201RzdiVTVPM0xydWIwZU1oNk1fRXlLa2UwRTJXcFA0?oc=5\" target=\"_blank\">Wall Street sets another record after US stocks tick higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4tVnFJMjR2ekVYNjV6SHFBdFdEZ3BXNU9HeTQxNWxBQkxJSGRYb2RTU0c1OGRteVdfaGlETlpRcVBwaW02SHNTU0NxQTZrRnhEOVZDZWwxekRDREhKRlpQa1VxMlJRZm85OG1wNm1mWnVtYmx4Z3pCTlREM0V5d9IBgwFBVV95cUxOdlZ4UFE5STRkbFZzUEhFX1ItNmpOY3VYT216anhrdmNhYkxTajZOdUs4ekdwSW1DUHIwb2NVSjZaclhFVldsREZWbnpQU2Y5YU1NaWFNRjcxM1lVbXpfZ1E0aUhvMGFKU0tmVmlLMFBiRk92d3U3NXNjajNKTHU5RDJNNA?oc=5\" target=\"_blank\">CNBC Daily Open: A fragile peace, but a firm market rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZkF1MDMyTWp4VDA2UnhBVWxTcDRtYjdrVXlQZk8xTlpBOWgwN0tpSHJjcVFPQWFzWE13NERvaFNVbEhNV1BfVXF6ZjVfbHNPMXY3RHVVUFI1QmpPWGhSUWpzMHZWZ1d4TVN3bU9VM0ZZVVhQLW9B0gF8QVVfeXFMUFZQU0k2MF85UEpnTE9uc0FWcFFLcl9CeWhxYml6S005aE5QNGtRbTNJNy16QUpvRGcwdWR6ek4zSXhITHRYVG9wQ1pVN3Bkb3U1d3R0WFhHR1F3ZGlKaFdKaWViaHF4VERKQmc4aWZUeXN4ZHRWczhIX1FJSA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "UK's Starmer faces calls to resign as Mandelson row reignites - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJkZ0I0blI0NjZjemgwREFlemhOWUl5eF9rSTF2Q005MmlfZFQ5RW5LV1NaMEtQZ2l6dGtBRnRWOGRkbDg2OU1NSG1HR21uaVJWMEkwNkZjNG1oZUxxV1J1emxvQWpBUk9yY3dUaXY2OExQdVZycXdlUXBwTE54RW1ORjdKU2RZeFVlUHh2MVFUeUNOb3o5czc1M3BOTjJp?oc=5\" target=\"_blank\">UK's Starmer faces calls to resign as Mandelson row reignites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW9ZUHo1S1IyY25oUVRyR1pjclJNLWZzaWpaeDRncW8xQVFtWnR2RVFlTERhalZtLXdaQmRwbzBRckRIRmo4M3F1TDd4aXhpRktoQWIwWV9TZFlGcVlrSkRicmJ3d25GYnBhSlZBcXdNdy1IYXdFQXZaMWFueUNsR0gwZFJJREdSNUJFckltZGhqUWZKRUlVQg?oc=5\" target=\"_blank\">Mandelson, a Friend of Epstein\u2019s, Became U.S. Ambassador Despite Failing Security Vetting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWldPckliSWM1NFc2MTNjRFRCelh1cGN1bndDVmZDY1FPR3NURktkSng4WGZBY3Z1bi1FYTlpbkFGMExRdlk5Z2RQRndOaUtrb3JBWW55WGtZUUhMaW1HUkdoY0JvaGhRSDhtelVPWGNZd1NPM1BuWHNiVER3aTkwSVo3NThyM2xZTGc?oc=5\" target=\"_blank\">Britain\u2019s PM Starmer was not \u2018aware\u2019 security vetting for former UK ambassador to US was overruled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kYkl4eXdFU1NldG5Qd296dUpLSGhVcWlfRjVXOFpmT2swY1JGWjFVU2R2clJfYlJMa25jdWJfTkoyMlJodjdLMmRkRU9IaXlOVDJoTVVyVDJsUQ?oc=5\" target=\"_blank\">Top Foreign Office official to leave post after Mandelson vetting row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGh6eUQzeFBjUlRtMDd1ZjFwLWNlWC1pV2d0R2x0anE2OGdTUzJNNHRrdU5POGRQeHQtY0ZCTVdQREg5V1htdldDMHdoUUdib0VQWl8xSXZ5cmpVWnlTRktYWWYzRzNHdXdNM3c1UngxTEJVUThGdkpPNlZYSnk2VkFuRkJCWHpmV09qQUhDdG1BaDR6VWRteGJoMnk0WGRUU1d5RHFrTUhaZHVCM3V6QXBtNTROUlNMUG1LMWtlWkJJc2hPRXRzNzlNMEFoOVdPSWc1ag?oc=5\" target=\"_blank\">Minister defends Starmer amid Mandelson revelations, saying vetting decision \u2018utterly unacceptable\u2019 \u2013 UK politics live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJkZ0I0blI0NjZjemgwREFlemhOWUl5eF9rSTF2Q005MmlfZFQ5RW5LV1NaMEtQZ2l6dGtBRnRWOGRkbDg2OU1NSG1HR21uaVJWMEkwNkZjNG1oZUxxV1J1emxvQWpBUk9yY3dUaXY2OExQdVZycXdlUXBwTE54RW1ORjdKU2RZeFVlUHh2MVFUeUNOb3o5czc1M3BOTjJp?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-17",
+          "headline": "Anthropic releases Claude Opus 4.7: How to try it, benchmarks, safety - Mashable",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Mashable",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQkkwMnB2b0tyeFllX3Iwa2FrRXNZbW5Dem5ERGlLVzFkbGNycUN1UXVEMnhYVlVmaGNTNDZuSTVWZ3d3alpjN29LbkprZV9qTjg1QVFKdURnYk9FYlFTQWFReVRNdEJPaHdTWlhGUTM?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.7: How to try it, benchmarks, safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5\" target=\"_blank\">Introducing Claude Opus 4.7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUklUZEtKVDFaRXJscjBwVzdwTnFnVmlNd1VMNHRmWHdnQnVGNFVYVWtfSUZnZ2JIN2ZMY0hSMFhmUUM2eXFncEZpdHBjdFRkMnlMUDZCcWM5Vld5M21KMWhELTdRZmYwVWNGbzZzRklNQndjUkdiZEZNRTBWYkxmY9IBhgFBVV95cUxQUU5aWDM2ZWh6LWxiLVZhWnNPMG9VRUJsMXl6NUJ2eFY4bEdIV1FoX1RscEhIVll2VGozTWw4eWEyeUczXzdxNlNXeTJpdUFmZzRvVlFSZ1k2blA2MTkwa0owdndJa1NTNXEwRUN3UlRqUG9sOFJyQUdlX2JERGRrbDRIN3ZJZw?oc=5\" target=\"_blank\">Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhtS0dDTC1wM2FYNG5maHhwRU9JMjFvby1Jc05PMHAzSGpteDRBNzJVR3g3b1dNLXBTNVBELU8tQkNSQThHN05PUGQtc1NveEdESndkWlBaeTNIb1N3cnhxSVN0emJPSXhPSDdsWHpkTGV2VS1wRHdlUkxMTHRtY1I5bWpfcEpWX2VJbzhuejJ2RFVGS0hLZHplWTlNdmM3UFoxY1pBY0JjekxyWUFfbmx3?oc=5\" target=\"_blank\">Anthropic Unveils Updated Opus Model Aimed at Advanced Coding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFhKX0MwZ05yRWVoYW1aNjFDZ2FWQWJXMUhDd1JsNC1PakUyWTdPVTRJdFBJdFk5aVY1a1YzSV9ydHhvcFhzWXd3UjZOek5xVlJIbkJtNm5JZmJ5Mkgwdl9CclNiM09ia09JemJKb1Y3bHNudi1SNnFqejhicGt5MlVPV0RhTTA?oc=5\" target=\"_blank\">Claude Opus 4.7 is generally available</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The GitHub Blog</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQkkwMnB2b0tyeFllX3Iwa2FrRXNZbW5Dem5ERGlLVzFkbGNycUN1UXVEMnhYVlVmaGNTNDZuSTVWZ3d3alpjN29LbkprZV9qTjg1QVFKdURnYk9FYlFTQWFReVRNdEJPaHdTWlhGUTM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Iran War Live Updates: Cease-Fire Between Israel and Lebanon Takes Effect - WSJ",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [
+                "shipping"
+              ],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VaUluTDBCR1Q1dzZHTnpTcXFEYXQ1U19iTDJsYWVBcnROWnAyUm5VanhlaVd4QTZmUmtyVWtMVzZjcE5SSkRSQlN0ZG1UaHhsX3hqbzg4dFdZYjh0U2RpZ1hIV3cyZw?oc=5\" target=\"_blank\">Iran War Live Updates: Cease-Fire Between Israel and Lebanon Takes Effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnQxRnJlVUlxSHluWFNTeGo3UGJmbTZhYkR2ZjFWRVc2TVROYk14TVByeGNHc1pWdEJqN1FLMTBGVlV5N1Vqem10ejVZd3lWSHNBUEYxTkxrYzVlRGZINFFsSmNWLTNKbzR4eHRXbGVDYUl2YU42SXItTUdnVGc1M3RZYzVsbTdyUW9vR2pJcw?oc=5\" target=\"_blank\">Live updates: Fragile ceasefire in Lebanon as Trump voices confidence in Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFVqRGo4U3g4OGZ2TWs4M2FueTVCQUxiM0xiUnJUTEhuQlJqT0xMZXFhY1FKT2ZYdTZaYWVvcGU3c2tMemlZWHRpNW9MSkFJMFN6cWdjbU5xWFN0RTFkMmFrNXlzVHFuUVJzSk9tTTczN0V6My1lTzdJLV92M1pHNkJNaVd2NmwzdHNNcnpmZU9NWFplYURGZkV3OEFhOVRGeHBXc1ZaTnF6MU5DbDVtVkhLWng0OUpGWk1HRTlNbzFEQQ?oc=5\" target=\"_blank\">Live updates: Israel-Lebanon ceasefire holding; U.S. allies hold Hormuz summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1oycVd6WFJKM2daWURVNk9uU251cTVTTXZWdHB4WWZjWnFMYWRERVhleXRKOU92cE4xeEtoZVRUZV81NkxYeWktSnlLNTRtZkhrbi1QUWk4S3RXblJGMHFVdzI3NDBNS1NPaWJwTUgtcXd0UVlSUDR1X2JRMXdua2pKRTMzd0k?oc=5\" target=\"_blank\">Live Updates: Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0tuTTFfN0M2SHpEaVlCYXNGQ2l6ajdXWEJUY21seHVEUnNWRk9QUkVOaUZhc0NSVWVXZG1uNTl1ZkFNMjFKazdFMTEyNll4aHJpSHdocGZ4ck5aZm54WEd3SFlaVW1MYkJqYmZiZ0wzcGVhZG9lNTQ3LXROUmlhTWZSV2o5T1ZoZWVvQWxLTUdHMjU1cHlpYXNKNVB4MXh0YWh6bEQ4WmV5ZWFVSFZMcV9GVGZic0NnNDU3bQ?oc=5\" target=\"_blank\">Why the Israeli and Lebanese governments accepted a ceasefire \u2013 and will Hezbollah abide?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VaUluTDBCR1Q1dzZHTnpTcXFEYXQ1U19iTDJsYWVBcnROWnAyUm5VanhlaVd4QTZmUmtyVWtMVzZjcE5SSkRSQlN0ZG1UaHhsX3hqbzg4dFdZYjh0U2RpZ1hIV3cyZw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-17",
+          "headline": "Xi Welcomes Slew of World Leaders as Trump Fights With Allies - Bloomberg.com",
+          "kind": "positive",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU1wR2tmMW9ZTGZweU95Z2lZODhqNTIyWkQ5a1c3YU9FSWcwR0VGUGdLdlh5RUJQUjBVbndNZlJRV1ZNOUJyMHhXVmJSZWZqZC1vMVdFenZmYVBzeU1xTzFnTloyYkw5dHp0Q0V2a0NvMVljVG12UVEzMDA2SkFsT0phazJoLVI5bFVwNDRSY2dnMXM0eFk4ZFY4YjRkVHRMbHhqdXBXanNlRnoteVBUU3R3?oc=5\" target=\"_blank\">Xi Welcomes Slew of World Leaders as Trump Fights With Allies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnVyQnVJYVFFcVIwWUg3ZFhGS1NJTjEtRDFuT1E1b016blN2WlR1UkNDbmZZSFJQRldPLUQ1MndsVjFOSnlaX0N3eTFNTGE0ZC1fSHhDUC01YjRkVERUbjJwdDNPRm9CazVxY3RHNUhBNXdxYlpGQS1HRUNka1p3QWpTQXFOaGZ4TzdQZTg4MVRPVHZudzdMYVYxdHZFZ2dFRlIxVHJMY3JMdzlHR09LdW5UYTVVMXZpQ1pLdVAtWVd5NXBOOUE?oc=5\" target=\"_blank\">Spain, China pledge closer ties in the face of threats to world order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmZtc0x5NVBNYTdJcTNWWHlpc2prdENJM0hYV1JqQkpYSXpvQjlqbzRPS1dud1ZJMHVCTi1uUzRJa1BNQU1BRHp6MGd3YkRuekRseWUxX0M1SG9ZMTcwcTN6elNndThlMXNzMEJFVjEtTnluajY4V3NqY3Q2VUdlQXZleFJiZzFvTjI0ZW05NHU?oc=5\" target=\"_blank\">Xi Jinping says the world order is \u2018crumbling into disarray.\u2019 Larry Fink and the IMF are worried about a global recession</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5NZXc5d0NWb0VuZnkwTmpLZ09IRU5hVkQtMG9HN0wxWkZKMXpseERmU1NNWmNMV216RVRaM1dFZVdfc2J4d0xjTkszRUkwekxXa3JzZ3I0WjNDRWpMblhfNUJLY3FRUzhOaVRvUHdqWk9YOXMyYkVz?oc=5\" target=\"_blank\">\u200bForeign Ministry Spokesperson Guo Jiakun\u2019s Regular Press Conference on April 15, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fmprc.gov.cn</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2o5dTRqLUFldzZTLWRfOXpNN0U1Uk1LdnFGRFFlVjhoRXUzZ2RKOHZnQWFrX3UyZmJMQ2FHbDItMGw0VW1uNml6MjhXWVBMZVpFUGhCc1AtRWJDS2I5bVRpbksxSko0X01NZEhubFkxbXQwY1hWTnpOaTB1bzl4VDllWnJNejFtRlpmb2lmMWlTTEpiT1Z3dTFPbw?oc=5\" target=\"_blank\">Why China stepped up Iran war diplomacy six weeks in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al-Monitor</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU1wR2tmMW9ZTGZweU95Z2lZODhqNTIyWkQ5a1c3YU9FSWcwR0VGUGdLdlh5RUJQUjBVbndNZlJRV1ZNOUJyMHhXVmJSZWZqZC1vMVdFenZmYVBzeU1xTzFnTloyYkw5dHp0Q0V2a0NvMVljVG12UVEzMDA2SkFsT0phazJoLVI5bFVwNDRSY2dnMXM0eFk4ZFY4YjRkVHRMbHhqdXBXanNlRnoteVBUU3R3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZjSHh6WVZHbGUteS1yZmR6Y201SzR4OW1qT2thR3BEZmM1ZS1uY2ZXbUZ4Z0JPWTFCUm1XejNhbmYxdXYxVWh6WDBYYlZpcjFKNWxQYmQzclA2cUl4LVpqRVlPRFVKOV84al8wcUV1MG1wMFBXRVpyX1RORzZoaFJxalk0azRZZXZfTkM0V2t1dGZoMVZhSDAyTmFFTHNB?oc=5\" target=\"_blank\">Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lJenR6dUVCSGpCSHVzTjBQSFdDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZjSHh6WVZHbGUteS1yZmR6Y201SzR4OW1qT2thR3BEZmM1ZS1uY2ZXbUZ4Z0JPWTFCUm1XejNhbmYxdXYxVWh6WDBYYlZpcjFKNWxQYmQzclA2cUl4LVpqRVlPRFVKOV84al8wcUV1MG1wMFBXRVpyX1RORzZoaFJxalk0azRZZXZfTkM0V2t1dGZoMVZhSDAyTmFFTHNB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency \u2018break-the-glass\u2019 plan if Treasury demand collapses",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.01818181818181818,
+          "source": "marketwatch_topstories",
+          "summary": "Former Treasury Secretary Henry Paulson on Thursday urged U.S. policymakers to prepare an emergency plan in case demand for Treasurys breaks down \u2014 warning that a crisis in the government bond market could trigger severe consequences across the economy.",
+          "url": "https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Some analysts say the most likely outcome for Live Nation would be more damages and penalties. Shares of the concert-ticketing giant rose on Thursday after falling a day earlier.",
+          "url": "https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "The Iran War Is a Win for China - Foreign Affairs",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.013513513513513514,
+          "source": "Foreign Affairs",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfUFpaTzJDcnVvOWlxTG1fZ1A5NEF2ZTRRck5yRWl1cUxNV3gweGZ3T0twNlhpZ2FmMkZoNGJjeXhieXpuc3BoUUV4R2pEQW83THlkckV3MGJUbzlHQnJhbVE4MTZqbWNqY1JfZncteGc?oc=5\" target=\"_blank\">The Iran War Is a Win for China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQclhsX3hMNnVxTkl5akhPWXFVNi1xMENqZnRBb3RCaE1lNVlNOXRZRlNmZ2ppa1UxSFRVY09lTUM0ek1OQmtNb0NTOUtMMVB4ai05VUMtOXRPc0k4WEhfeml2ZjdIWkUza2d4VjRJemJsMDBQVFprVm9MbkFkOEpTN3B1a3R1YmRiSEFUcw?oc=5\" target=\"_blank\">Why China Isn\u2019t Pushing Iran to Accept U.S. Demands to End War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUd2VnNJRmFYZXViZjV4WDY3SmRmS0pKT1BQNjF2NW91UDZxZWQzaHBpbnl6MVdORGdEUUFoMzJLb0dsRUJuc29IUExpM19aZEMzcTN5NE1ZTE1leXZ0Rm1FSEVqUU1JN0NJU3BqM2tZeldPdk1Fc0FPWjRuV0dBd0ttNTFhMmpv?oc=5\" target=\"_blank\">The Iran war is not about China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlantic Council</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0ZtajBfRTJuWnhPdk5kS1NVd0dDQ2gtZ1FZVnpCRnRCTzhJXzgzUV9TX2xnZlFxVXJmN2J2MURNakFwcE5zajNONG5jbXBZYnBMUzdqaWNWSmVXdm5hYmdvVmlKaElVV3FJajFyY3JiYUZwWHZvNldQYzQ3Mm1NM3NQQkZ5VElQamFlcw?oc=5\" target=\"_blank\">Short-term gains for China from US-Iran war may turn to longer-term pain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjVoLV9tTVJvdElvaFJvdUpFSG16VzlOVUZYQjNNRnBIdFVVcVdQWmltQUlhV0l5eUFXdmQ4NkVvOHJLa0VrXzREYTdkYldJSDhaU085M1Q0Ym9RUUtxV0lwYjExTU5QVFBCZGdjS2ZJdVZBMGI3QkZBdHRodFd0Ym40WXDSAYQBQVVfeXFMTkUyQ3RRX1c2WWl3OUd0QmFZbWVMOUl6UHhzdG1hcHprcGNEdlJ4RGFDQll4S2U1djMxREJNbWlUTy1sb2psLU1DdndlMFktaGNOMlBrWFhTeGhaUlpuQ0R1NVQ4WDY2aVNteDVuTTh5XzhILUZEUTZraVVCV21weDB6ZUVF?oc=5\" target=\"_blank\">How the Iran war made China stronger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GZERO Media</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfUFpaTzJDcnVvOWlxTG1fZ1A5NEF2ZTRRck5yRWl1cUxNV3gweGZ3T0twNlhpZ2FmMkZoNGJjeXhieXpuc3BoUUV4R2pEQW83THlkckV3MGJUbzlHQnJhbVE4MTZqbWNqY1JfZncteGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Stock futures are little changed after Israel and Lebanon agree to a 10-day ceasefire: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.009900990099009901,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZkF1MDMyTWp4VDA2UnhBVWxTcDRtYjdrVXlQZk8xTlpBOWgwN0tpSHJjcVFPQWFzWE13NERvaFNVbEhNV1BfVXF6ZjVfbHNPMXY3RHVVUFI1QmpPWGhSUWpzMHZWZ1d4TVN3bU9VM0ZZVVhQLW9B0gF8QVVfeXFMUFZQU0k2MF85UEpnTE9uc0FWcFFLcl9CeWhxYml6S005aE5QNGtRbTNJNy16QUpvRGcwdWR6ek4zSXhITHRYVG9wQ1pVN3Bkb3U1d3R0WFhHR1F3ZGlKaFdKaWViaHF4VERKQmc4aWZUeXN4ZHRWczhIX1FJSA?oc=5\" target=\"_blank\">Stock futures are little changed after Israel and Lebanon agree to a 10-day ceasefire: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1pXclRGd3pwblR5dWptWWI0LWloeUxpWnVKdFVnTE9tcklpSEExXzJnYnl6aVZqeUlqa0c0SjJfZHZ6eGl1TFBQdEpGaUtMeGo3bG5OSmxKSFNKLWdlclZkNGJnSFJPUm5Dd1FBYmhqQ0dBYTYyeWRlb2s5cXZqQTVLR0NsYXRhNkNvdzk1Mzdvd9IBlwFBVV95cUxNN0dTdndfMTVmcnU3RXVFcXhlVmoxZkNQcmlBeVYtWGE2YWV0aWtqU2lJSm9VbkY2WWZBSzBUUmRnSzRrNHBfNUV1NWJOUDN0U2IxenUwSHNsNi1UMEhoLUJ0VFltcUxFTnBla1k5Uk4zQ0E3Y0Y3dEtucmVaQ1hTRUN3MDRTWnpqd2R4Nk1hRXlJX0M4XzFj?oc=5\" target=\"_blank\">Oil falls as Trump reiterates Iran war \u2018should\u2019 end soon and Israel-Lebanon truce lifts hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZFNCdmN0dzRmWUNtaTVNdEFYVXY3SGhBaDgzdUVqZV95elR4Ml9LQUc0R2FFaUJBWTJqa0NtQ2tmTE5wMTV6QWlvOFZtSFd4QXloVGdxb2RIeG95ODV1WHJEOGlvd0lXV0VzOFlVTWdMUWVBaUxNV05ZdzVNejA?oc=5\" target=\"_blank\">Morning Bid: Truce trades ramp up as Trump touts Israel-Lebanon talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzQ1dlM0TWN1eW44T0VTeE5PbFdUbHRmNFZQU08xREx3WGVEWUVZNkVfRV9NcU9jdXNpcVJrdzNXclM5Z2xzQ0pxUlNSZF9PSUp6LVF2djVQNDRwb3NvU05nUHo4OTlfWkg2SWpBZS1MaHV3S1hxRktCb055REtvUnNNSWV4emUtTWZzVWJOeUQtWEhkWjlCX243ZGRNTms1SEpCN1RDNmtVN05tNlY2OWpwVGFESzF6SkHSAb8BQVVfeXFMTl95VVoyeVpRTmtJVjNEOGNyUUs4U1IwMFNuS3RUSHp3bmpJQXUzRUFucmtsQk9hTUFPMkV3dFl0MHh1eVg5MzIyU2t2bF91Sk1ua2t6OFZzUmhZSy1FS1dldHVTUktmUHJVOWl4N25iYlFEb29PUUdQV3JVaXlQazRfTXZYVVcxOGhIWkN2T3lSNF9oeWdTVlhUUXcxUEFxWjNPWlEzeDFYbGlTa2RjR2tjTWpJbHhfRVRDd1p4c2c?oc=5\" target=\"_blank\">investingLive Americas market news wrap: Israel agrees to ceasefire in Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORkotenVGNWNfSDlOUW5tdzZnTkxaY0ZiSDM1Mk5QTzNPLTdmLUsyQV9faUpyX3E3elVWQ01EN3QwSUJZX1dBN3p4b3dpTEFxYklBbFcwOVdVUE1iZ2VZcUYtNDZhczdQd0R5aUZOVFpRZ09LTF9EQjU4R1dSYTJLRnd4eFo?oc=5\" target=\"_blank\">Middle East war day 41 as it happened: S&P 500 posts longest winning streak since October on ceasefire optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZkF1MDMyTWp4VDA2UnhBVWxTcDRtYjdrVXlQZk8xTlpBOWgwN0tpSHJjcVFPQWFzWE13NERvaFNVbEhNV1BfVXF6ZjVfbHNPMXY3RHVVUFI1QmpPWGhSUWpzMHZWZ1d4TVN3bU9VM0ZZVVhQLW9B0gF8QVVfeXFMUFZQU0k2MF85UEpnTE9uc0FWcFFLcl9CeWhxYml6S005aE5QNGtRbTNJNy16QUpvRGcwdWR6ek4zSXhITHRYVG9wQ1pVN3Bkb3U1d3R0WFhHR1F3ZGlKaFdKaWViaHF4VERKQmc4aWZUeXN4ZHRWczhIX1FJSA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Why China Isn\u2019t Pushing Iran to Accept U.S. Demands to End War - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.011494252873563218,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQclhsX3hMNnVxTkl5akhPWXFVNi1xMENqZnRBb3RCaE1lNVlNOXRZRlNmZ2ppa1UxSFRVY09lTUM0ek1OQmtNb0NTOUtMMVB4ai05VUMtOXRPc0k4WEhfeml2ZjdIWkUza2d4VjRJemJsMDBQVFprVm9MbkFkOEpTN3B1a3R1YmRiSEFUcw?oc=5\" target=\"_blank\">Why China Isn\u2019t Pushing Iran to Accept U.S. Demands to End War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUd2VnNJRmFYZXViZjV4WDY3SmRmS0pKT1BQNjF2NW91UDZxZWQzaHBpbnl6MVdORGdEUUFoMzJLb0dsRUJuc29IUExpM19aZEMzcTN5NE1ZTE1leXZ0Rm1FSEVqUU1JN0NJU3BqM2tZeldPdk1Fc0FPWjRuV0dBd0ttNTFhMmpv?oc=5\" target=\"_blank\">The Iran war is not about China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlantic Council</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0ZtajBfRTJuWnhPdk5kS1NVd0dDQ2gtZ1FZVnpCRnRCTzhJXzgzUV9TX2xnZlFxVXJmN2J2MURNakFwcE5zajNONG5jbXBZYnBMUzdqaWNWSmVXdm5hYmdvVmlKaElVV3FJajFyY3JiYUZwWHZvNldQYzQ3Mm1NM3NQQkZ5VElQamFlcw?oc=5\" target=\"_blank\">Short-term gains for China from US-Iran war may turn to longer-term pain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjVoLV9tTVJvdElvaFJvdUpFSG16VzlOVUZYQjNNRnBIdFVVcVdQWmltQUlhV0l5eUFXdmQ4NkVvOHJLa0VrXzREYTdkYldJSDhaU085M1Q0Ym9RUUtxV0lwYjExTU5QVFBCZGdjS2ZJdVZBMGI3QkZBdHRodFd0Ym40WXDSAYQBQVVfeXFMTkUyQ3RRX1c2WWl3OUd0QmFZbWVMOUl6UHhzdG1hcHprcGNEdlJ4RGFDQll4S2U1djMxREJNbWlUTy1sb2psLU1DdndlMFktaGNOMlBrWFhTeGhaUlpuQ0R1NVQ4WDY2aVNteDVuTTh5XzhILUZEUTZraVVCV21weDB6ZUVF?oc=5\" target=\"_blank\">How the Iran war made China stronger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GZERO Media</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPdVlvRFRVUURPRWV6RjE0TDcteWZ6cVh2TzNuVFBQWUZ4ZlNHRktOc0RGbWpLUFdLQ0kwcTRENy1jV2xNZ0g4MWFXOTNfaVp1WWlKem1iMlI1ZThwaEtSUTl6UXVNclVJaFVYMkV5b0Q2LUVmMjFPVE5RcDYybEg3bWVRWTl0UEhoYmtUcUNTZ3RnRG5CbmhnRk9IZm9xZ1hPb25vQk1wVUd0VWtkcWlWd0k3Um9rUUVaYUFzTWF1NS1zamtkODdyQWxSalozVUE?oc=5\" target=\"_blank\">What is the war on Iran teaching China about the United States\u2019 resilience?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclhsX3hMNnVxTkl5akhPWXFVNi1xMENqZnRBb3RCaE1lNVlNOXRZRlNmZ2ppa1UxSFRVY09lTUM0ek1OQmtNb0NTOUtMMVB4ai05VUMtOXRPc0k4WEhfeml2ZjdIWkUza2d4VjRJemJsMDBQVFprVm9MbkFkOEpTN3B1a3R1YmRiSEFUcw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Ben Roberts-Smith: Australia's most decorated living soldier released on bail over war crimes charges - BBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneUpQMWlrdXVoUVQ3dW9Ic3BZYXROT2lfU3lvSE1wZGxraFp3NUEteDBKcmQyRVNwaVhGZFlGdnBzMjVkbzNhMEJzdWRKc290RHEzS1gwRk5FQQ?oc=5\" target=\"_blank\">Ben Roberts-Smith: Australia's most decorated living soldier released on bail over war crimes charges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeG01R1pVVDhqZXB3NHJPVktnV1hYZDBMNEw3ZUxkcnpOcHZzMzl1aVlRZnhzYUlsdFR0TURIanc5RlRWaTFjNkUtY3pndmx4RGVTS3dNU25KWEd6UzBuczRTaGh2a1BZcWlqVGFaWUlzbnUzTHlkV2owNHI2ems4bDY4MTE2QmFOWDF4SkZFLVl6ZUZYZFBHT2Z4ZndxTG9teVAwZmxNbHVrcTNJbmxoWngtZzdPUdIBuwFBVV95cUxPT2c1OVRnbGtuV01HVHhndU1uNDJocmRfeFJhYWtVeUlnMXlXTHdfRE9WRU1mX2s2SFZqa0diaHFhZU4tU0pFZUZTR1JZbDNIb19DdXNTQlJEc3JhMkVlWEc2MDNhejg5cnh1cFJudUxVcEZmR29GeXFUTi1UMDNDXy1sU3FLTEoyZ1pSbm1CR01KOXJnNmhHZ1VNQlFkTER0RFZ2ZUh1MlFsdWR1SlZTVkZkZW0wYzJoRHJn?oc=5\" target=\"_blank\">Australian ex-soldier Roberts-Smith granted bail in Afghan war crimes case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSi1sc21ncURpTFZPQ3FYa2xFS3hPZWRYSmthYUgyMTBiRzFlT0ctRWhfM0NYS01BTGZTTVFpalpZQ2dneHluSklXVW5yZ1hUd3MyeExJcGR4QW5YWGRUTzhXUndPRkFHdEZrcGw1YXg0Qnl2cHAxbnluck9ZUE0wdC12bVNpTlpJQnRsOEZBUUpnN3h6b1g1TllZSFVKUU9xcFh1ZXJ3UUdFTmYtMmgxY0RsY3JsRV9jTGc?oc=5\" target=\"_blank\">Australian former soldier gets bail on Afghanistan war crime charges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzMteVdLTElUc0J1d1FTaXdmdmhUU0RfMzZCejNOUmNiWnctemdERUQxQzJXdTFXRDFxUTRCNzVoLU1JY0JwV083VWxZT0ZpSjh5NU5mUVJpelBvemhleHNYNEo2ODRXVDBPUFoxTDhXM0NZekc1N1JKSXgxYm1NeHlZMmNDOWl2RWwycExaaVYydjJEQ0xWUHZUSWZ5X29rcWF3bndmSmJ4VFZQbnZxd2dCNUM?oc=5\" target=\"_blank\">Ben Roberts-Smith released from prison on bail after being charged with five counts of war crime murder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmVhMUJmT1ZnejV3b3NobnkyUElkOTdxVzUzSlpLR0xIUHBxRnVkbGRUTnRWYV9WdmRtLS1vY3dUcGQ5a0dZSGJmNXpVSFFaYjZnV0RKUE84QTc5M0xMNUhyWjNIY3Z5RzE5WUhUYUhLMy1tVmU1VlFIb0QzMC0wOU5Ja2QwYkRtWVRDc1IyOEg4M0hwN3BJZ2JHVk11dnBZYUZyZXlCTUdjc2xsQ0E?oc=5\" target=\"_blank\">Breaking: Ben Roberts-Smith leaves jail after securing bail over alleged war crimes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneUpQMWlrdXVoUVQ3dW9Ic3BZYXROT2lfU3lvSE1wZGxraFp3NUEteDBKcmQyRVNwaVhGZFlGdnBzMjVkbzNhMEJzdWRKc290RHEzS1gwRk5FQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "2 expensive mistakes most retirees make \u2014 and how to avoid them",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cWe call them \u2018King Tut\u2019 subjects \u2014 they\u2019re buried with their gold.\u201d",
+          "url": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "OpenAI launches new AI model for life sciences research - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5\" target=\"_blank\">OpenAI launches new AI model for life sciences research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5\" target=\"_blank\">Introducing GPT-Rosalind for life sciences research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbXdtUUNia0l3VXUyTEVVYjhWb3pIUXpmYUZGbElxZjQ0b3ZuVUo4UkFGVE5Ca1RpbEdyVGVBTTRLUWsydzF0SWVYXzdIQ3NNT2hUZ0VQTUJuVEpuaW5DMS1OTnZla2dsQmMxdmZoM3FBYXI2c2VqcDRoV0ZoR2pkdzhCeXdzOV9GQTdWckV0TF9xX1VXTmJCSmphdW9DNkItNEtadjl6WEhvRXF4UHZ0eThaQklzdw?oc=5\" target=\"_blank\">OpenAI Takes on Google With New AI Model Aimed at Drug Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa28xMkNaSVlobHZvZXZsV1FfbDRsUk8wd2tBY2FBTjlTVDdvWVZIWVkwVm1QNFNLazdhZ2owcFJMUURqaFkwVDlLT1hVR19hcFpxVDh6RFUxNExkaXpqcGhQSWlsVkp1WWNpaWE0WGtBMENUcEFuYThtbkwwRTBxblVIaXVFWFFxaGJZ?oc=5\" target=\"_blank\">OpenAI starts offering a biology-tuned LLM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3J5NGNYaGdCYkpiUURnYWFlSXVxWjlpZXhxamtRWXBQMGFwTzMweFN2VXZReF92Y3RPNWJNSE5NRmx2cFZuazcyRVhLdndhUl9pQ0dVa2dGZmVfZnlrdkV3WU9QODFvRnEzS3Q2OWo1N3pUMk5pLTM4MlVYSWR5aXRKNklQTWhNNGJCd1o2VVVqb1MtOUtmWDJjM2hsTmRpLUJpOTZNQVRWZ3k0eEpfSw?oc=5\" target=\"_blank\">OpenAI Targets Pharma Giants With Purpose-Built AI Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Canada Post taking steps to stop home mail delivery - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDNMblBWZzRpVC1zekgwUlJkNzN0RmE3SVVMUWE3dzZNX1JhbkVha1VYSW5ZcVRnMkNoWm9zaWsxUmNWM1BaY2JnTWhpUkpjSnFkMDBpSVMyekkzTWRJVEU5Wk50NTIwR0hucE56LXRhSlJLX0VTTmZZbEhSSFRhZGVFS0VldHJUTldsb3p3?oc=5\" target=\"_blank\">Canada Post taking steps to stop home mail delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9tajZMX1pfMVZfRGJvRFJxVE9ZNEgwMVgyR0liYXdtcXhuUmVvakRJQm5jT1VOamJwMnN2Ylk0M1FfOWYyWVpKVjBOZ1kyTlNTalZ3X0VDbEpmbklReVFSWG5rb2QtWUFrNWRDbEhLMUtwLUx5dXJhb01DSnRpQQ?oc=5\" target=\"_blank\">Canada Post lays out 5-year plan to convert to community mailbox delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0VjODdibGliVlE1aFotUjhGcEVyeXlpZUpmR2xUcXRkU0JUeFoxcFRDb2F2MmZQay1sMWJNTTNnZ09vVmxTZ2R6Q2VZMzhyMnRPcm9rR3FUZ01xZVQ3ZVJsbzhOSEhWenhBZGdPM1hiTG9iTWZEN3Y2V2diWE5SZGtuaWtOeUdDNU9zMXM4azRjS091NTM0Z1dJb08?oc=5\" target=\"_blank\">Canada Post announces first 136,000 addresses to lose door-to-door delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0k2d3YwWWtESmhlcGM0UXg4TGFtcVRoZEtSRy1BQjlLNUlIUnltMGlTa1M5T0RBY0pYVVU1d1FjZGZ5RjFQT1c3NG5CZFN4aWJhQjRKZXgycV90R2dqLUtZWnlrT1VkMTJQdl8wM1poRV9vSUpYcnYyTmVzSWFkVC1PTG13MGZDV1M2YnJfZ1Y2Ums2?oc=5\" target=\"_blank\">These are the first postal codes Canada Post is converting to community mailboxes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzBPSjEyQVNRQTJ2eFJvVEY2eFQ5eWRWaTl3a1hlejRnY0FRTnhqYk5fTEJmLThzbFNsdTZ6Q0tMV3pvQUFhVzJPTU9aY0JVTnFoUElBOTRqam50TVRKc3RUeHNmR1laMnRCRXc0YVlFRzdHcmtrSkJLeUZoSEtsUjBLQlBaV2wzaDJCYmFNV3JvaUVVNlA4Nk0xUmNXY2ZxZnVqTDBqTDZKZw?oc=5\" target=\"_blank\">Canada Post beginning work to move from door-to-door mail delivery to community mailboxes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDNMblBWZzRpVC1zekgwUlJkNzN0RmE3SVVMUWE3dzZNX1JhbkVha1VYSW5ZcVRnMkNoWm9zaWsxUmNWM1BaY2JnTWhpUkpjSnFkMDBpSVMyekkzTWRJVEU5Wk50NTIwR0hucE56LXRhSlJLX0VTTmZZbEhSSFRhZGVFS0VldHJUTldsb3p3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "China steps up Iran diplomacy while seeking smooth summit with Trump - Reuters",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHN3YzVBU0dxckpPVDdCN0xRYTZGX243VUI2UDBKZ2tTLVpOYzd5MzBuWTlJMXZEcU14ZnExQ0hzRzlfRm9LajRpTjczYi12clFMZ3FzcHVLUHYzcEJ4NHZzb2o2MnU2QVAyU3ZMOG5Da2wwRkxKUG43SHlNV3JLdXkwSWRiYzg4dC1ESDZ1Rm4xMDRFYXVhNXB0V01idW5rNElicEgwMzdmMXUzTmtsRDVnemkzSmc?oc=5\" target=\"_blank\">China steps up Iran diplomacy while seeking smooth summit with Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnpsX29wVHduNXRRVXRCTWtwTUZwQWhGTTZoQWdiaWc5SHMtQmpDdGZrVUN1ZTZHUDRkUEM4bHh3LTYxOURYb2czNjN0cWh6a1NrYmhUaEQwYkFiQnBUR3ZXSEdITHlrZzkwX0hMV0xhZ2tCbFdKWFFURjZzWXRvZnQ1RVBoT1JmcUEtM1JJWkRjam01SWhDNg?oc=5\" target=\"_blank\">How China Is Positioning Itself Ahead of the Trump\u2013Xi Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat \u2013 Asia-Pacific</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWlsSUwzSHJGSXR0MXFvdmlUa2hjdUN5VUpBTllxN1FMV0lhMXBRQkg2WlNkTDhKN2t5RFE2QTBZV1h4ajVtWmhXc1JuSldreDRfMnVJQS1DcHpUVDFWNWNCcElJTDBVTWJIX0FNNWxCZXpDdHBRTENIZlFUVDcyYmYwdk1uM0RBd0luMEMzU29nbmM?oc=5\" target=\"_blank\">What China Just Learned From the Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DbzNpQmtzWThPOEdiMVU2WHUzTEl0VXE2YjlDLTFlck5ablhZYVVpU0pLa2NHd2FLRnNCZnVDdk9WanA3WmROR1BOdWxWTG1LX1lvSE9wb1ZjXzc4WDA5aTJ3?oc=5\" target=\"_blank\">FM responds to question regarding Trump\u2019s remarks in which he said factors including Iran won\u2019t change dynamics of planned leaders\u2019 meeting between China, US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB3a2Z5OHNxU3lWcGttdjJHQVVnUkgtRXR2SkY4d0pZX3JsZ19nU0JoeThyTlJITWxfYm00S0FiYmVUQWNEczdWYW9qdEVuTzNMOXJEbTRWTThRMXF0b21KOGE5blNYejlwTlgzWVdfRUhwVms5eHZGWEVtME9HUQ?oc=5\" target=\"_blank\">China liaising with US on Trump visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHN3YzVBU0dxckpPVDdCN0xRYTZGX243VUI2UDBKZ2tTLVpOYzd5MzBuWTlJMXZEcU14ZnExQ0hzRzlfRm9LajRpTjczYi12clFMZ3FzcHVLUHYzcEJ4NHZzb2o2MnU2QVAyU3ZMOG5Da2wwRkxKUG43SHlNV3JLdXkwSWRiYzg4dC1ESDZ1Rm4xMDRFYXVhNXB0V01idW5rNElicEgwMzdmMXUzTmtsRDVnemkzSmc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-17",
+          "headline": "Netflix shares dive as co-founder Reed Hastings steps away - Yahoo Finance",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.012987012987012988,
+          "source": "Yahoo Finance",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUlQVHpDeUxrT1U0cUQtNVg5eVJDTXRYekxLMF9YcTR5QmxJcUdPZWdSYVpTUTc4VmpFUTlCaVZuaE8tMnU3WWM4bTNyMmxLejVULWFIVU42azNMM1l2NzVlTG1OcE5zWVN0Y1dDUVpTSExjQVE4RHZBSGZCTXFkc3RVVDgxODB1RW9rNkdVYnM0c0VRckRYVEsyUnVCNGFP?oc=5\" target=\"_blank\">Netflix shares dive as co-founder Reed Hastings steps away</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5jd194N0tnOXQ1YWZFZHJTTFdQbGRCMUVaV3Q2OVlmQ3hLOXZPOE9ib0hlSVZsZnZNelBjVDBsc0dHZTNvY2hmREhZR2oxUEk1cF9xUkpySG9aejdVanEyeFBFNHV1aFhwVHFqTC00blpPcmpa0gF6QVVfeXFMTWhLR1IzWUM5SE5XOWJLZ2p4VGRHNEtMcF9JQXBpaFB3dzlNeUNvRHp1U1RNaS1BazR1eEpYMzhOV1Ixdk9maFdrR1RCWENISzVsZ2o2VXUzRzZUQS03T1FqSmJtVE9fU3NsbzR3LWFmeWRBRVhHTWtMOHc?oc=5\" target=\"_blank\">Netflix stock sinks despite earnings beat, streamer says Reed Hastings to exit board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmhHTnltUEJabFgycnhMSFZYQ3U5Qm9xUzNKMWtOeUFmdXBwcHRRUzA0aWFtTV9UQVY3a1lOeFNCSFRCR3FQX0xtU2p3YnFRWWFMM21nWnB6REQwamFpMjJzWEtfcWp1ak8tRWN1LXNTc0s5RmJfVUJTUlVTRmRqNVhiX2paclFyYVE?oc=5\" target=\"_blank\">Reed Hastings Will Leave Netflix as Board Chairman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUdRWjVFT0N5elhobGczSVNWSXNXRno4UmxtU1Y3dGZsYmxINUNNQlZuZTdYSnB5OGplYlp0Slh6VFJRejZISW5hemdTSC1UT204SlI1MFZ6TDBQYzJiZVpsS0JHc3E3Q05BWlJHOUs3empIQTZ5Qi1leEI1ck14WUpWY0plQQ?oc=5\" target=\"_blank\">Netflix chairman and co-founder to step down from board in June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWNwemhYcXR2VFdRR0ZVeEVIQ1pOVmpsRlpremVaTUVFRGRmSk96aVg2YTlyYUg4YWZWSVFnQU4ycV9TV1JzX0YydGluaExwYVZIWkxlc3Yxd1g0NlllYmp3OTh3LWxscWUwWl9pZmZIb0s5bTIzeV8xTmZDeDJ6NUo0T3JmYVluY2lyMlZ4Yjk3SXAtODhVU2ctZHVXR1U?oc=5\" target=\"_blank\">Netflix co-founder Hastings exits as streaming pioneer hunts for growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUlQVHpDeUxrT1U0cUQtNVg5eVJDTXRYekxLMF9YcTR5QmxJcUdPZWdSYVpTUTc4VmpFUTlCaVZuaE8tMnU3WWM4bTNyMmxLejVULWFIVU42azNMM1l2NzVlTG1OcE5zWVN0Y1dDUVpTSExjQVE4RHZBSGZCTXFkc3RVVDgxODB1RW9rNkdVYnM0c0VRckRYVEsyUnVCNGFP?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Trump Says Iran Deal Will Bring \u2018Free Oil\u2019 and \u2018Free Hormuz Strait\u2019 - WSJ",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [
+                "shipping"
+              ],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQWk2UmVkSW4zTUFDNlB4Q0w5MEJydV9GZThVUXE5WllsaUpOMDY0S3N5NTRHVF9PQkZ0YlVZVEZTTEdqRjV5RElmcEtBU0NsbkdydEdneExlcnN6WW02N283VjMwN2F6aE10cDlpRGt1Q2tXLThaT251VTZpYWNGYlpuVEtFelltTkxBZXdHbFdvQkdBMHVYZ0p1RUNDcnVqcEh5SjBnWU5FbFEweWVnbVRBYXVrWmczczhJOUNzcTFaY0RqbmJHUzlHbjJjVjZNZ0FFX3NJc2lJamZSRW9YNTRUalNOTWRaVWxBVkJMQWtkSjVQTmgxTg?oc=5\" target=\"_blank\">Trump Says Iran Deal Will Bring \u2018Free Oil\u2019 and \u2018Free Hormuz Strait\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZW95WjdqOWMtQmw3M2RqS21LeThqazlYbW9hX1JsdWlJN3RIYkUzWVFuUVd5SlR4OHh5MUs1YzJ6TFl1bnlWR0FuZ0RZYWlCZ25rRUZacEFPdTF3VmtZNm5sLVZrcFU3ZWFNZ3hqMl9PLTZwbGRtQ3owU1AteGUtZy11SXczU2pJOVlKUC1LMklJQ0ZzY2Jkb0h3QXNCcVVsakJQMFdhTQ?oc=5\" target=\"_blank\">Oil falls on prospects for talks to end Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeC1EUWd6X0JIY1ZueDh4UnhJXzFJeFYzb0t3UlZucktqUDZxdm9taHdUbGp6Q2pZLXg2djFraHUzREpCdkRWSXlqZktRVHpKNXZfWi13UWZ2QXpkcS1XY1BqUl9hVm9ZWGZXOEc4ZV8xQjFaT0tiRXIyV0xhYWF3N0dNMTFYUFJob0I1OThyLWtyWWowU3BtVk0zZ0R5cS1CX1RmLVd3T0c?oc=5\" target=\"_blank\">Oil Prices Fall. Trump Says Iran War Going \u2018Swimmingly\u2019 and Should End Soon.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBFa2p3S1pFNGxybWE0bXlLQ2ZkUFcwV0JWUUE1ZGtyTjUxdDlNU3lYbEpQZ2czbmZSUWhIdmphMFQ4alhsWWlVS2w2QUJMWkdyejAzcjNQb0J2Z3JaS1d1TVMtSUI4Q19JeDN1d29uY1cxVWZYOWVpMkF3?oc=5\" target=\"_blank\">Stocks Hold Gains as Oil Prices Edge Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16anpYS0JscGkxN1VORDk1VzVkbkRnck01azJwRlp4RjdlS1BnXzFsSmZnam5XZzhXNVUtVU5DR25EbS1GYzFCVFZ4YTJtUl9uYUp5WWNGc1NUUWdyZzYwQVZ0LVRXOGc5RXVDYmxGVlNBQzRPdDJQY9IBfkFVX3lxTFBFeXktTkdIVmJDZ1REdEpZRTRaRl80aTc4aXZfUTYtUEFVcEhkTHJsa3A4T3NXT0tWbEpBbWJNRGFER2YxQ0ZGU1ZlZmljaXl5TEdRbUc4Vlk3OE15T01SMUJoRm1kYkZYSEtIUXc1Tjh1MG9FR0J0M3ZuVXFvQQ?oc=5\" target=\"_blank\">Brent oil price near $100 again with U.S.-Iran talks uncertain and Hormuz still blocked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQWk2UmVkSW4zTUFDNlB4Q0w5MEJydV9GZThVUXE5WllsaUpOMDY0S3N5NTRHVF9PQkZ0YlVZVEZTTEdqRjV5RElmcEtBU0NsbkdydEdneExlcnN6WW02N283VjMwN2F6aE10cDlpRGt1Q2tXLThaT251VTZpYWNGYlpuVEtFelltTkxBZXdHbFdvQkdBMHVYZ0p1RUNDcnVqcEh5SjBnWU5FbFEweWVnbVRBYXVrWmczczhJOUNzcTFaY0RqbmJHUzlHbjJjVjZNZ0FFX3NJc2lJamZSRW9YNTRUalNOTWRaVWxBVkJMQWtkSjVQTmgxTg?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "industrials",
+        "shipping"
+      ],
+      "company_profile": {
+        "industry": "Integrated Freight & Logistics",
+        "provider": "yfinance",
+        "sector": "Industrials"
+      },
+      "effective_adverse_effect_count": 9,
+      "effective_supportive_effect_count": 2,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [
+            "shipping"
+          ],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [
+            "shipping"
+          ],
+          "theme_id": "oil_supply_shock"
+        }
+      ],
+      "supportive_effect_count": 2,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Is JB Hunt Transport Services Inc (JBHT) Overvalued After 6.4% R - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNS2h0NUVmbjNxSlZ5a0Q4dnBJN25BTHVaLVdHYm5jbjJMc18xb2lucVdodHgtVG81dDlESEh3VDB3WlVHOE42RklGR2Q5NU1qS1JtR00zY3JqTVJrZGtqNzRQVFFuMFFERV9UcUMxbkJGQjhCOERWcmxHcGE1akFqbmF1VU5kckJVZlRXV25BdE05VEtRR3NWT0stOXV6M0JvYk5adG5BaXRVcFRUYUx3c3RMZ2xucGNqblN2WUgwNUJhSVJXR0l5bXd6V0tWQWN3ZFkydDAxMWx1UHBiWHNQeUV5bDM2V1lPR3QxX0lNZUVUdFdSeXVFdS1DMzRtTEdLSUlheVAtSmJzVVV5MVVQN0NqaC0xUVR1bnROTy13cXFlcWk1aExvXzNJV1d4QlZldjJXbGdxZDNIUlRPdGxoZ25iQU1YNlE?oc=5\" target=\"_blank\">Is JB Hunt Transport Services Inc (JBHT) Overvalued After 6.4% R</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNS2h0NUVmbjNxSlZ5a0Q4dnBJN25BTHVaLVdHYm5jbjJMc18xb2lucVdodHgtVG81dDlESEh3VDB3WlVHOE42RklGR2Q5NU1qS1JtR00zY3JqTVJrZGtqNzRQVFFuMFFERV9UcUMxbkJGQjhCOERWcmxHcGE1akFqbmF1VU5kckJVZlRXV25BdE05VEtRR3NWT0stOXV6M0JvYk5adG5BaXRVcFRUYUx3c3RMZ2xucGNqblN2WUgwNUJhSVJXR0l5bXd6V0tWQWN3ZFkydDAxMWx1UHBiWHNQeUV5bDM2V1lPR3QxX0lNZUVUdFdSeXVFdS1DMzRtTEdLSUlheVAtSmJzVVV5MVVQN0NqaC0xUVR1bnROTy13cXFlcWk1aExvXzNJV1d4QlZldjJXbGdxZDNIUlRPdGxoZ25iQU1YNlE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "JB Hunt Transport gains after company initiatives help boost margins in FQ1 - MSN",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigANBVV95cUxPbTlVZzBKX1MtQTU0ZDRiNkhKT1NxVWhxOFhkM2NTVjFYOEk2ZWx0MTRLOHFYSC1Wb2l0ZldtRHRUd1JpeHRnMVdMY201OURib3JzaEc1VUdWd3RqaS1xYkFKMkw2X0ExdFhjempQQ0I2aVFJVFpPSTl3OV9QR3lia2NKcW9xaU1HV3Vtc2RxOHJWTzUzel9scHlMTC1UOFJCUGpWZV9Tc3NwSXFwbnpZNl90TFh6dzZWR3FJdEhReGptTHBudDV2VXdNNUktanhncXdZazRoUTdxdGZkX0dRSlpJNFVUcXNGNkJFdURXdkEzaDZkUXc0UGxOS3h5NkprOGhkS1lDeWpDa0ZkQ256VVdITUdYMHhoa296MklEUHlRRVMtU2hjUmlqUDNJMTM1aE5BeU1WUVRlNjVDSEh4NlVIZkNKV3pvTThYXzV4R2hiSFY4YmdwZmN4emhUSkk0c0hNS0FTTGpyWG1hU003Q0sweXNHSkpMQ2RQZjZXeks?oc=5\" target=\"_blank\">JB Hunt Transport gains after company initiatives help boost margins in FQ1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbTlVZzBKX1MtQTU0ZDRiNkhKT1NxVWhxOFhkM2NTVjFYOEk2ZWx0MTRLOHFYSC1Wb2l0ZldtRHRUd1JpeHRnMVdMY201OURib3JzaEc1VUdWd3RqaS1xYkFKMkw2X0ExdFhjempQQ0I2aVFJVFpPSTl3OV9QR3lia2NKcW9xaU1HV3Vtc2RxOHJWTzUzel9scHlMTC1UOFJCUGpWZV9Tc3NwSXFwbnpZNl90TFh6dzZWR3FJdEhReGptTHBudDV2VXdNNUktanhncXdZazRoUTdxdGZkX0dRSlpJNFVUcXNGNkJFdURXdkEzaDZkUXc0UGxOS3h5NkprOGhkS1lDeWpDa0ZkQ256VVdITUdYMHhoa296MklEUHlRRVMtU2hjUmlqUDNJMTM1aE5BeU1WUVRlNjVDSEh4NlVIZkNKV3pvTThYXzV4R2hiSFY4YmdwZmN4emhUSkk0c0hNS0FTTGpyWG1hU003Q0sweXNHSkpMQ2RQZjZXeks?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives - simplywall.st",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.06666666666666667,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQW5jTW9XM09zcUlXNWlwUG9wVnZrUVFlTmpXXzR3QTVac2FfTDdLOHdONklBNTJ0R2RvNnJuUEZLLXJuYWprZERfRmUyQldZQWZEM0Q4dlBmbTZxa0tMbHdRUnBIQWhhdnhyR05aRFV2LWhiTHdsUHhLWTBvREszOXFXX2dLTUg4T3d1cXdWUkxGc19KOHhvazYzWU5nelY1QzIxVWNUWGRpR05aZjVEYzluMzZCR2l4OUR0WUdrZWpwUXNaTTJucUhxN0J0SnVadFc4RHFRdnl1ZHdzekdNaGNHUFg3MjdvLThj0gHrAUFVX3lxTE5BbmNNb1czT3NxSVc1aXBQb3BWdmtRUWVOaldfNHdBNVpzYV9MN0s4d042SUE1MnRHZG82cm5QRkstcm5hamtkRF9GZTJCV1lBZkQzRDh2UGZtNnFrS0xsd1FScEhBaGF2eHJHTlpEVXYtaGJMd2xQeEtZMG9ESzM5cVdfZ0tNSDhPd3Vxd1ZSTEZzX0o4eG9rNjNZTmd6VjVDMjFVY1RYZGlHTlpmNURjOW4zNkJHaXg5RHRZR2tlanBRc1pNMm5xSHE3QnRKdVp0VzhEcVF2eXVkd3N6R01oY0dQWDcyN28tOGM?oc=5\" target=\"_blank\">JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQW5jTW9XM09zcUlXNWlwUG9wVnZrUVFlTmpXXzR3QTVac2FfTDdLOHdONklBNTJ0R2RvNnJuUEZLLXJuYWprZERfRmUyQldZQWZEM0Q4dlBmbTZxa0tMbHdRUnBIQWhhdnhyR05aRFV2LWhiTHdsUHhLWTBvREszOXFXX2dLTUg4T3d1cXdWUkxGc19KOHhvazYzWU5nelY1QzIxVWNUWGRpR05aZjVEYzluMzZCR2l4OUR0WUdrZWpwUXNaTTJucUhxN0J0SnVadFc4RHFRdnl1ZHdzekdNaGNHUFg3MjdvLThj0gHrAUFVX3lxTE5BbmNNb1czT3NxSVc1aXBQb3BWdmtRUWVOaldfNHdBNVpzYV9MN0s4d042SUE1MnRHZG82cm5QRkstcm5hamtkRF9GZTJCV1lBZkQzRDh2UGZtNnFrS0xsd1FScEhBaGF2eHJHTlpEVXYtaGJMd2xQeEtZMG9ESzM5cVdfZ0tNSDhPd3Vxd1ZSTEZzX0o4eG9rNjNZTmd6VjVDMjFVY1RYZGlHTlpmNURjOW4zNkJHaXg5RHRZR2tlanBRc1pNMm5xSHE3QnRKdVp0VzhEcVF2eXVkd3N6R01oY0dQWDcyN28tOGM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives - simplywall.st",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.06666666666666667,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxObm9wMmg3U0dfajZaWFBnYjlibGNkSFYwU3BTUmF0M0RiRDdQNThIdWNaTF9Vcm5SVkFGRlBYUV9ackRFaG5kTk9aczE1X1F6YktkZHptZGxvNWhsNTg3dnZWdWUwNzFjcFF3Y2owVkhrVlp6TzlGbVhtUnpHczF1Y1hrNUxKX2d6bS04aHpIbjJZV3B0c19CWWRWNjFmR1NCZ2otOGI0aDNiVlVLTHVOMDNfN3FoVEtpRHRGOUc5aU1OQmlza3RzbmtITnlzWVBYSVBYYzZaSERaT1hDbng2SGlNTERHUdIB6wFBVV95cUxOQW5jTW9XM09zcUlXNWlwUG9wVnZrUVFlTmpXXzR3QTVac2FfTDdLOHdONklBNTJ0R2RvNnJuUEZLLXJuYWprZERfRmUyQldZQWZEM0Q4dlBmbTZxa0tMbHdRUnBIQWhhdnhyR05aRFV2LWhiTHdsUHhLWTBvREszOXFXX2dLTUg4T3d1cXdWUkxGc19KOHhvazYzWU5nelY1QzIxVWNUWGRpR05aZjVEYzluMzZCR2l4OUR0WUdrZWpwUXNaTTJucUhxN0J0SnVadFc4RHFRdnl1ZHdzekdNaGNHUFg3MjdvLThj?oc=5\" target=\"_blank\">JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObm9wMmg3U0dfajZaWFBnYjlibGNkSFYwU3BTUmF0M0RiRDdQNThIdWNaTF9Vcm5SVkFGRlBYUV9ackRFaG5kTk9aczE1X1F6YktkZHptZGxvNWhsNTg3dnZWdWUwNzFjcFF3Y2owVkhrVlp6TzlGbVhtUnpHczF1Y1hrNUxKX2d6bS04aHpIbjJZV3B0c19CWWRWNjFmR1NCZ2otOGI0aDNiVlVLTHVOMDNfN3FoVEtpRHRGOUc5aU1OQmlza3RzbmtITnlzWVBYSVBYYzZaSERaT1hDbng2SGlNTERHUdIB6wFBVV95cUxOQW5jTW9XM09zcUlXNWlwUG9wVnZrUVFlTmpXXzR3QTVac2FfTDdLOHdONklBNTJ0R2RvNnJuUEZLLXJuYWprZERfRmUyQldZQWZEM0Q4dlBmbTZxa0tMbHdRUnBIQWhhdnhyR05aRFV2LWhiTHdsUHhLWTBvREszOXFXX2dLTUg4T3d1cXdWUkxGc19KOHhvazYzWU5nelY1QzIxVWNUWGRpR05aZjVEYzluMzZCR2l4OUR0WUdrZWpwUXNaTTJucUhxN0J0SnVadFc4RHFRdnl1ZHdzekdNaGNHUFg3MjdvLThj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Is JB Hunt Transport Services Inc (JBHT) Overvalued After 6.4% R - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPelQ2TDdXZGhJRzZYUTdtbGRpcFUxTjY0Z1JtMGJVMjdEcVJYMlU0TzBPX3BrcWM3X3RIM0dRUEJZelhMRWZtdHF4RjhoOUc1RWxIRnFSVlNpS0ZBMTNTb2ozN2Z0REZfZW4yZGFCMzFrckV5TXQ2VnVmUkdYUmJXQlVPdU1EQS1VX2ZibG9LZ3ZMYTlHUC1OZlN1enBmRXdwOFNHQ05jeEp6SGRYOGd3TlRRNVpxOVRGZzByUW56TWQzWDQ0OTc4?oc=5\" target=\"_blank\">Is JB Hunt Transport Services Inc (JBHT) Overvalued After 6.4% R</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelQ2TDdXZGhJRzZYUTdtbGRpcFUxTjY0Z1JtMGJVMjdEcVJYMlU0TzBPX3BrcWM3X3RIM0dRUEJZelhMRWZtdHF4RjhoOUc1RWxIRnFSVlNpS0ZBMTNTb2ozN2Z0REZfZW4yZGFCMzFrckV5TXQ2VnVmUkdYUmJXQlVPdU1EQS1VX2ZibG9LZ3ZMYTlHUC1OZlN1enBmRXdwOFNHQ05jeEp6SGRYOGd3TlRRNVpxOVRGZzByUW56TWQzWDQ0OTc4?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "J B Hunt Transport Services Inc Stock (JBHT) Moved Up by 7.30% on Apr 16: What Investors Need To Know - TradingKey",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingKey",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVQcXNZTTZDWnFqaFlvVFBOVC12OF9VVVc5NXZmOG1BR0VYdjRTR04wTTFiR1hwVmJCVVQ0VHJvc3d3WDkzVVc4TE1mNkQ3Q0huYVkwb0RoMzczbG0wVmcyTWFmd3VzZUprSXNleEFWMWpNbk04blFTT0ZoLURFVUZjdW15MW0xRE93?oc=5\" target=\"_blank\">J B Hunt Transport Services Inc Stock (JBHT) Moved Up by 7.30% on Apr 16: What Investors Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVQcXNZTTZDWnFqaFlvVFBOVC12OF9VVVc5NXZmOG1BR0VYdjRTR04wTTFiR1hwVmJCVVQ0VHJvc3d3WDkzVVc4TE1mNkQ3Q0huYVkwb0RoMzczbG0wVmcyTWFmd3VzZUprSXNleEFWMWpNbk04blFTT0ZoLURFVUZjdW15MW0xRE93?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-16",
+          "headline": "J.B. Hunt Transport Services, Inc. (JBHT) Posts Q1 2026 Results - AlphaStreet",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "AlphaStreet",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWNZdXFsLVUxUkxaSDZhRXlHUVE2N25xRnc3bGlXYWdibEpSemFxeTZ1T3RqLUhiYTY2NVQ3Q3NBVDRqcXYtZ0hiUTZyS3NGc1pQR08tRWxzRVAwTVpjTmEzRlp4NXFTUDNBN3Vtc3FEN0lQYzlJUzRjRFB4U0xZWDVpa0huQWx5RUNrOEE1WWlCUdIBkgFBVV95cUxOZWNZdXFsLVUxUkxaSDZhRXlHUVE2N25xRnc3bGlXYWdibEpSemFxeTZ1T3RqLUhiYTY2NVQ3Q3NBVDRqcXYtZ0hiUTZyS3NGc1pQR08tRWxzRVAwTVpjTmEzRlp4NXFTUDNBN3Vtc3FEN0lQYzlJUzRjRFB4U0xZWDVpa0huQWx5RUNrOEE1WWlCUQ?oc=5\" target=\"_blank\">J.B. Hunt Transport Services, Inc. (JBHT) Posts Q1 2026 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlphaStreet</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWNZdXFsLVUxUkxaSDZhRXlHUVE2N25xRnc3bGlXYWdibEpSemFxeTZ1T3RqLUhiYTY2NVQ3Q3NBVDRqcXYtZ0hiUTZyS3NGc1pQR08tRWxzRVAwTVpjTmEzRlp4NXFTUDNBN3Vtc3FEN0lQYzlJUzRjRFB4U0xZWDVpa0huQWx5RUNrOEE1WWlCUdIBkgFBVV95cUxOZWNZdXFsLVUxUkxaSDZhRXlHUVE2N25xRnc3bGlXYWdibEpSemFxeTZ1T3RqLUhiYTY2NVQ3Q3NBVDRqcXYtZ0hiUTZyS3NGc1pQR08tRWxzRVAwTVpjTmEzRlp4NXFTUDNBN3Vtc3FEN0lQYzlJUzRjRFB4U0xZWDVpa0huQWx5RUNrOEE1WWlCUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "J.B. Hunt Transport Services Shares Jump 6.1% - AlphaStreet",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "AlphaStreet",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOanRDcTVOdlZzWU5ucGxiaGVOLXhnT3VNcVdDVHpJcFZHYjAydDhHdkwwN1o3ZGFOeTNNT2stVzQ5TllWXzFpTUdZUlhLbzRNaFNTd0U0bTdMSnlZcnprckNEV05LVjFLUmRQRVRmRUpYd3FNRHJMVVdscGg3bmpBQ1NETdIBgwFBVV95cUxOanRDcTVOdlZzWU5ucGxiaGVOLXhnT3VNcVdDVHpJcFZHYjAydDhHdkwwN1o3ZGFOeTNNT2stVzQ5TllWXzFpTUdZUlhLbzRNaFNTd0U0bTdMSnlZcnprckNEV05LVjFLUmRQRVRmRUpYd3FNRHJMVVdscGg3bmpBQ1NETQ?oc=5\" target=\"_blank\">J.B. Hunt Transport Services Shares Jump 6.1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlphaStreet</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOanRDcTVOdlZzWU5ucGxiaGVOLXhnT3VNcVdDVHpJcFZHYjAydDhHdkwwN1o3ZGFOeTNNT2stVzQ5TllWXzFpTUdZUlhLbzRNaFNTd0U0bTdMSnlZcnprckNEV05LVjFLUmRQRVRmRUpYd3FNRHJMVVdscGg3bmpBQ1NETdIBgwFBVV95cUxOanRDcTVOdlZzWU5ucGxiaGVOLXhnT3VNcVdDVHpJcFZHYjAydDhHdkwwN1o3ZGFOeTNNT2stVzQ5TllWXzFpTUdZUlhLbzRNaFNTd0U0bTdMSnlZcnprckNEV05LVjFLUmRQRVRmRUpYd3FNRHJMVVdscGg3bmpBQ1NETQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "JB Hunt reports Q1 revenues of $3.1B up 5% YoY - Trucking Dive",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Trucking Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNblJMRXFIZ1hmR011cF9CQ0QyejZtcmY2c3NSTF9YUENjNGxTQ3VOMzBseURJZWdBQlFWU3JtUXBmV3ZCU1BXRjJqY1lXRXVCdnNvVUhHNlNJQ3k1Sk84MlFYSmJzc2F0QWR0aDZXWnNObThOSUFxbV9MMlowdVVUWml0Q2w?oc=5\" target=\"_blank\">JB Hunt reports Q1 revenues of $3.1B up 5% YoY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trucking Dive</font>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblJMRXFIZ1hmR011cF9CQ0QyejZtcmY2c3NSTF9YUENjNGxTQ3VOMzBseURJZWdBQlFWU3JtUXBmV3ZCU1BXRjJqY1lXRXVCdnNvVUhHNlNJQ3k1Sk84MlFYSmJzc2F0QWR0aDZXWnNObThOSUFxbV9MMlowdVVUWml0Q2w?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "J.B. Hunt Transport Services (NASDAQ:JBHT) Given New $250.00 Price Target at Bank of America - MarketBeat",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUR6bDFKS2JCbGFKd2pyZV9Nc3lRcUlwdmJsU0xTd0Nyc082VXVnNlhsbjNiSkZiOUR4dF9DdEdEYjctUFBWb0JnMkhYVFJLWDZpblRWdVF0NmpnSkhHS1VVdXpmMzZvTVNJS3BiZkZ5WHRJcDNXZEd1UEkxTGdBZHR2d3hIdjBZNThoSlF5WHAzWjFReXByNWJaZzB4Sjg5TjRvaHVNSjZEajJIQUZvdUVJYms5ZkUzcjVMejJpd25sN1l4TW1WX0R1ODhudVZKMkMzY2pR?oc=5\" target=\"_blank\">J.B. Hunt Transport Services (NASDAQ:JBHT) Given New $250.00 Price Target at Bank of America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUR6bDFKS2JCbGFKd2pyZV9Nc3lRcUlwdmJsU0xTd0Nyc082VXVnNlhsbjNiSkZiOUR4dF9DdEdEYjctUFBWb0JnMkhYVFJLWDZpblRWdVF0NmpnSkhHS1VVdXpmMzZvTVNJS3BiZkZ5WHRJcDNXZEd1UEkxTGdBZHR2d3hIdjBZNThoSlF5WHAzWjFReXByNWJaZzB4Sjg5TjRvaHVNSjZEajJIQUZvdUVJYms5ZkUzcjVMejJpd25sN1l4TW1WX0R1ODhudVZKMkMzY2pR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "JB Hunt Stock Breaks Out After First Sales Gain Since 2022 - Investor's Business Daily",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.06666666666666667,
+          "source": "Investor's Business Daily",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0tdVNMVklNeGl3cG56dUxvOFpaN3g0b0lKWDJmTDMtZ2NiX2dKMTNMZXlUMFZ5T3RKS3pjN1dBYWJmQXlJaWdJRy1UaWxrNXF6c1hsWkNSYThzLWNCSkk3VkZRQXV4V3lXc3FnMkUyVWN5YUxaRUxEYS1Xaw?oc=5\" target=\"_blank\">JB Hunt Stock Breaks Out After First Sales Gain Since 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tdVNMVklNeGl3cG56dUxvOFpaN3g0b0lKWDJmTDMtZ2NiX2dKMTNMZXlUMFZ5T3RKS3pjN1dBYWJmQXlJaWdJRy1UaWxrNXF6c1hsWkNSYThzLWNCSkk3VkZRQXV4V3lXc3FnMkUyVWN5YUxaRUxEYS1Xaw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "J.B. Hunt: The Hunt For Further Upside Is Risky (NASDAQ:JBHT) - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHJnRGNnZ2Q0azZyTW43U2duYlA1bUh4YXNZWGdEZnZ2VTNzNUQtTGxlRHNrREwtNm5EUUlrRnRqc01DdW8yalp6cElMR2JNOFRuaW80d0RkLVdtam9rTTVjX05tQ1ZNVDMyRERGXzhoTnR0dmZSSTZwUDRoWW95MUUzaGJ6R2thTm5UdzRn?oc=5\" target=\"_blank\">J.B. Hunt: The Hunt For Further Upside Is Risky (NASDAQ:JBHT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHJnRGNnZ2Q0azZyTW43U2duYlA1bUh4YXNZWGdEZnZ2VTNzNUQtTGxlRHNrREwtNm5EUUlrRnRqc01DdW8yalp6cElMR2JNOFRuaW80d0RkLVdtam9rTTVjX05tQ1ZNVDMyRERGXzhoTnR0dmZSSTZwUDRoWW95MUUzaGJ6R2thTm5UdzRn?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-16",
+          "headline": "What JB Hunt Q1 Earnings Tells Us About Freight Recovery and Economic Resilience - 24/7 Wall St.",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "24/7 Wall St.",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjA3c1dMT1Jod2JzNXRubU5DREtBa0RQZHk3YU1vcXR6eUpFRDVMTi1YNEZVODJuTFg1YUxQa01QeHFxWi1FdVRzVV9kYldHaVU1WkhNbnRxaGFhVmlNMUdWWWUxQ1NyRE5neURLSnZjWDdUOG1oa3oxQTRkR3RkWGJSTDVwdjdPU09ZVjhmeElEMjdVUVJiY2MxNnBxNFRqMjJXNDNGbGt2Mzd0MHcxZXE1eG01T052UlNsMl9IOEx2QQ?oc=5\" target=\"_blank\">What JB Hunt Q1 Earnings Tells Us About Freight Recovery and Economic Resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjA3c1dMT1Jod2JzNXRubU5DREtBa0RQZHk3YU1vcXR6eUpFRDVMTi1YNEZVODJuTFg1YUxQa01QeHFxWi1FdVRzVV9kYldHaVU1WkhNbnRxaGFhVmlNMUdWWWUxQ1NyRE5neURLSnZjWDdUOG1oa3oxQTRkR3RkWGJSTDVwdjdPU09ZVjhmeElEMjdVUVJiY2MxNnBxNFRqMjJXNDNGbGt2Mzd0MHcxZXE1eG01T052UlNsMl9IOEx2QQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Why J B Hunt Transport Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket - Benzinga",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Benzinga",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTF2TzFaRDBrLVVZWU8zSWZrMDNXMWRjMzh6SW5CWURfN0lURmJsSTRiQVhGaFZrbmdwSVVLYTVYeFhjS0xyZjFBdkt5YWdaa3ZSckhIcjE3U1JaWmZjMFhXTnVoWm1RV1FGSE9GVjJ4TkNLb3ZZVkRlc1BSSmtoaHNGZlQ3TUxTUUxSMUQ1SmMxcXVsRjVFRndpTWtIdEEyc3lzdlVDRF91WnRlZnFzQXoxWkZLMW12TjFHSG9Xb0dlUl82Q1FheGpQcWt3Y2wxemE5V2htZHRDSmZZR3c?oc=5\" target=\"_blank\">Why J B Hunt Transport Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTF2TzFaRDBrLVVZWU8zSWZrMDNXMWRjMzh6SW5CWURfN0lURmJsSTRiQVhGaFZrbmdwSVVLYTVYeFhjS0xyZjFBdkt5YWdaa3ZSckhIcjE3U1JaWmZjMFhXTnVoWm1RV1FGSE9GVjJ4TkNLb3ZZVkRlc1BSSmtoaHNGZlQ3TUxTUUxSMUQ1SmMxcXVsRjVFRndpTWtIdEEyc3lzdlVDRF91WnRlZnFzQXoxWkZLMW12TjFHSG9Xb0dlUl82Q1FheGpQcWt3Y2wxemE5V2htZHRDSmZZR3c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "J.B. Hunt Transport Services Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.06666666666666667,
+          "source": "MarketWatch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUWZhVFhZSkp1aFAxNEVsUGhfbTdSYVVUTko5UHlUSmM4THBUQl9XWUx5SENCTGZhWXpvWVhXVkgwbF92Ukc0Y2RhNTYtYmFUdnVWd0Y3OFpBWFQ1THkyLTNxQXJVYWNKblA3cWJmOHU1ekMwY3RfbjVINm1kR1NpOTFDZGZha2JnMEFmNXQzMG9iTldCS1J3VC1BbnM1Tzl5ZkhieWRjcVhlUm9GYVVXbUN2emd1ZGNVNENRcF9wVUtxelBqWC1tZ2NKdzhiSk5xWUFjQlhtM0RtajAwY3NjUQ?oc=5\" target=\"_blank\">J.B. Hunt Transport Services Inc. stock outperforms competitors despite losses on the day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUWZhVFhZSkp1aFAxNEVsUGhfbTdSYVVUTko5UHlUSmM4THBUQl9XWUx5SENCTGZhWXpvWVhXVkgwbF92Ukc0Y2RhNTYtYmFUdnVWd0Y3OFpBWFQ1THkyLTNxQXJVYWNKblA3cWJmOHU1ekMwY3RfbjVINm1kR1NpOTFDZGZha2JnMEFmNXQzMG9iTldCS1J3VC1BbnM1Tzl5ZkhieWRjcVhlUm9GYVVXbUN2emd1ZGNVNENRcF9wVUtxelBqWC1tZ2NKdzhiSk5xWUFjQlhtM0RtajAwY3NjUQ?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 3,
+      "positive_signal_count": 3
+    },
+    "sentiment": {
+      "days_sampled": 3,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": 0.005330687830687831
+    },
+    "technical": {
+      "atr14": 7.37473241271516,
+      "close": 238.32,
+      "close_vs_ema200_pct": 26.66200889934769,
+      "close_vs_ema20_pct": 8.351853983947668,
+      "close_vs_ema50_pct": 11.233081896212461,
+      "close_vs_hh20_pct": 3.5318649811025655,
+      "ema20": 219.950089672953,
+      "ema200": 188.154287201762,
+      "ema50": 214.252806752552,
+      "entry_ready": true,
+      "hh20_prev": 230.19,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 2.75384455189809
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 9,
+    "effective_adverse_effects": 9,
+    "effective_supportive_effects": 2,
+    "exposures": [
+      "industrials",
+      "shipping"
+    ],
+    "industry": "Integrated Freight & Logistics",
+    "sector": "Industrials",
+    "supportive_effects": 2,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 3 constructive, 3 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 2 supportive and 9 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "conflicting"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-16: JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives - simplywall.st."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-15: J.B. Hunt Transport Services Inc. stock outperforms competitors despite losses on the day - MarketWatch."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-17: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Stock futures are mixed after Trump says Iran war \u2018should be ending pretty soon\u2019: Live updates - CNBC."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-17: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind): Iran War Live Updates: Cease-Fire Between Israel and Lebanon Takes Effect - WSJ."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (230.19), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.75, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-17: JB Hunt Transport gains after company initiatives help boost margins in FQ1 - MSN."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 230.19 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Recent adverse headline could still cap follow-through: 2026-04-16: JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives - simplywall.st."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-04-17: Stock futures are mixed after Trump says Iran war \u2018should be ending pretty soon\u2019: Live updates - CNBC."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind): 2026-04-17: Iran War Live Updates: Cease-Fire Between Israel and Lebanon Takes Effect - WSJ."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 3.53
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.75
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 8.35
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 11.23
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 26.66
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 6,
+        "value": 3
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -6,
+        "value": 3
+      },
+      {
+        "label": "Supportive market / sector theme overlay",
+        "points": 4,
+        "value": 2
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 9
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 73
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-17",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-17_universe_3_US_Results.txt"
+    },
+    {
+      "published_at": "2026-04-17",
+      "publisher": "GuruFocus",
+      "title": "Is JB Hunt Transport Services Inc (JBHT) Overvalued After 6.4% R - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNS2h0NUVmbjNxSlZ5a0Q4dnBJN25BTHVaLVdHYm5jbjJMc18xb2lucVdodHgtVG81dDlESEh3VDB3WlVHOE42RklGR2Q5NU1qS1JtR00zY3JqTVJrZGtqNzRQVFFuMFFERV9UcUMxbkJGQjhCOERWcmxHcGE1akFqbmF1VU5kckJVZlRXV25BdE05VEtRR3NWT0stOXV6M0JvYk5adG5BaXRVcFRUYUx3c3RMZ2xucGNqblN2WUgwNUJhSVJXR0l5bXd6V0tWQWN3ZFkydDAxMWx1UHBiWHNQeUV5bDM2V1lPR3QxX0lNZUVUdFdSeXVFdS1DMzRtTEdLSUlheVAtSmJzVVV5MVVQN0NqaC0xUVR1bnROTy13cXFlcWk1aExvXzNJV1d4QlZldjJXbGdxZDNIUlRPdGxoZ25iQU1YNlE?oc=5"
+    },
+    {
+      "published_at": "2026-04-17",
+      "publisher": "MSN",
+      "title": "JB Hunt Transport gains after company initiatives help boost margins in FQ1 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbTlVZzBKX1MtQTU0ZDRiNkhKT1NxVWhxOFhkM2NTVjFYOEk2ZWx0MTRLOHFYSC1Wb2l0ZldtRHRUd1JpeHRnMVdMY201OURib3JzaEc1VUdWd3RqaS1xYkFKMkw2X0ExdFhjempQQ0I2aVFJVFpPSTl3OV9QR3lia2NKcW9xaU1HV3Vtc2RxOHJWTzUzel9scHlMTC1UOFJCUGpWZV9Tc3NwSXFwbnpZNl90TFh6dzZWR3FJdEhReGptTHBudDV2VXdNNUktanhncXdZazRoUTdxdGZkX0dRSlpJNFVUcXNGNkJFdURXdkEzaDZkUXc0UGxOS3h5NkprOGhkS1lDeWpDa0ZkQ256VVdITUdYMHhoa296MklEUHlRRVMtU2hjUmlqUDNJMTM1aE5BeU1WUVRlNjVDSEh4NlVIZkNKV3pvTThYXzV4R2hiSFY4YmdwZmN4emhUSkk0c0hNS0FTTGpyWG1hU003Q0sweXNHSkpMQ2RQZjZXeks?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "simplywall.st",
+      "title": "JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQW5jTW9XM09zcUlXNWlwUG9wVnZrUVFlTmpXXzR3QTVac2FfTDdLOHdONklBNTJ0R2RvNnJuUEZLLXJuYWprZERfRmUyQldZQWZEM0Q4dlBmbTZxa0tMbHdRUnBIQWhhdnhyR05aRFV2LWhiTHdsUHhLWTBvREszOXFXX2dLTUg4T3d1cXdWUkxGc19KOHhvazYzWU5nelY1QzIxVWNUWGRpR05aZjVEYzluMzZCR2l4OUR0WUdrZWpwUXNaTTJucUhxN0J0SnVadFc4RHFRdnl1ZHdzekdNaGNHUFg3MjdvLThj0gHrAUFVX3lxTE5BbmNNb1czT3NxSVc1aXBQb3BWdmtRUWVOaldfNHdBNVpzYV9MN0s4d042SUE1MnRHZG82cm5QRkstcm5hamtkRF9GZTJCV1lBZkQzRDh2UGZtNnFrS0xsd1FScEhBaGF2eHJHTlpEVXYtaGJMd2xQeEtZMG9ESzM5cVdfZ0tNSDhPd3Vxd1ZSTEZzX0o4eG9rNjNZTmd6VjVDMjFVY1RYZGlHTlpmNURjOW4zNkJHaXg5RHRZR2tlanBRc1pNMm5xSHE3QnRKdVp0VzhEcVF2eXVkd3N6R01oY0dQWDcyN28tOGM?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "simplywall.st",
+      "title": "JB Hunt (JBHT) Margins Reach 5% Net Level Challenging Long Term Bearish Narratives - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObm9wMmg3U0dfajZaWFBnYjlibGNkSFYwU3BTUmF0M0RiRDdQNThIdWNaTF9Vcm5SVkFGRlBYUV9ackRFaG5kTk9aczE1X1F6YktkZHptZGxvNWhsNTg3dnZWdWUwNzFjcFF3Y2owVkhrVlp6TzlGbVhtUnpHczF1Y1hrNUxKX2d6bS04aHpIbjJZV3B0c19CWWRWNjFmR1NCZ2otOGI0aDNiVlVLTHVOMDNfN3FoVEtpRHRGOUc5aU1OQmlza3RzbmtITnlzWVBYSVBYYzZaSERaT1hDbng2SGlNTERHUdIB6wFBVV95cUxOQW5jTW9XM09zcUlXNWlwUG9wVnZrUVFlTmpXXzR3QTVac2FfTDdLOHdONklBNTJ0R2RvNnJuUEZLLXJuYWprZERfRmUyQldZQWZEM0Q4dlBmbTZxa0tMbHdRUnBIQWhhdnhyR05aRFV2LWhiTHdsUHhLWTBvREszOXFXX2dLTUg4T3d1cXdWUkxGc19KOHhvazYzWU5nelY1QzIxVWNUWGRpR05aZjVEYzluMzZCR2l4OUR0WUdrZWpwUXNaTTJucUhxN0J0SnVadFc4RHFRdnl1ZHdzekdNaGNHUFg3MjdvLThj?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "GuruFocus",
+      "title": "Is JB Hunt Transport Services Inc (JBHT) Overvalued After 6.4% R - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelQ2TDdXZGhJRzZYUTdtbGRpcFUxTjY0Z1JtMGJVMjdEcVJYMlU0TzBPX3BrcWM3X3RIM0dRUEJZelhMRWZtdHF4RjhoOUc1RWxIRnFSVlNpS0ZBMTNTb2ozN2Z0REZfZW4yZGFCMzFrckV5TXQ2VnVmUkdYUmJXQlVPdU1EQS1VX2ZibG9LZ3ZMYTlHUC1OZlN1enBmRXdwOFNHQ05jeEp6SGRYOGd3TlRRNVpxOVRGZzByUW56TWQzWDQ0OTc4?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "TradingKey",
+      "title": "J B Hunt Transport Services Inc Stock (JBHT) Moved Up by 7.30% on Apr 16: What Investors Need To Know - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVQcXNZTTZDWnFqaFlvVFBOVC12OF9VVVc5NXZmOG1BR0VYdjRTR04wTTFiR1hwVmJCVVQ0VHJvc3d3WDkzVVc4TE1mNkQ3Q0huYVkwb0RoMzczbG0wVmcyTWFmd3VzZUprSXNleEFWMWpNbk04blFTT0ZoLURFVUZjdW15MW0xRE93?oc=5"
+    },
+    {
+      "published_at": "2026-04-16",
+      "publisher": "AlphaStreet",
+      "title": "J.B. Hunt Transport Services, Inc. (JBHT) Posts Q1 2026 Results - AlphaStreet",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWNZdXFsLVUxUkxaSDZhRXlHUVE2N25xRnc3bGlXYWdibEpSemFxeTZ1T3RqLUhiYTY2NVQ3Q3NBVDRqcXYtZ0hiUTZyS3NGc1pQR08tRWxzRVAwTVpjTmEzRlp4NXFTUDNBN3Vtc3FEN0lQYzlJUzRjRFB4U0xZWDVpa0huQWx5RUNrOEE1WWlCUdIBkgFBVV95cUxOZWNZdXFsLVUxUkxaSDZhRXlHUVE2N25xRnc3bGlXYWdibEpSemFxeTZ1T3RqLUhiYTY2NVQ3Q3NBVDRqcXYtZ0hiUTZyS3NGc1pQR08tRWxzRVAwTVpjTmEzRlp4NXFTUDNBN3Vtc3FEN0lQYzlJUzRjRFB4U0xZWDVpa0huQWx5RUNrOEE1WWlCUQ?oc=5"
+    }
+  ],
+  "summary": "JBHT scores 73/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 3 constructive versus 3 adverse stock-specific signals and a market overlay impact of 2 supportive versus 9 adverse effects.",
+  "symbol": "JBHT"
+}

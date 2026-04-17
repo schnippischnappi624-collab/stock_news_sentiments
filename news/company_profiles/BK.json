@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-17T09:15:39.505912+00:00",
+  "industry": "Banks - Diversified",
+  "long_name": "The Bank of New York Mellon Corporation",
+  "provider": "yfinance",
+  "query_symbol": "BK",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BK",
+  "sector": "Financial Services",
+  "short_name": "The Bank of New York Mellon Cor",
+  "symbol": "BK"
+}

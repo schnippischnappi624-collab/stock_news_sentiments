@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-17T09:15:39.505912+00:00",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "long_name": "Amylyx Pharmaceuticals, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "AMLX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AMLX",
+  "sector": "Healthcare",
+  "short_name": "Amylyx Pharmaceuticals, Inc.",
+  "symbol": "AMLX"
+}

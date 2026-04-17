@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NCM",
+  "fetched_at_utc": "2026-04-17T09:15:39.505912+00:00",
+  "industry": "Software - Infrastructure",
+  "long_name": "NextNav Inc.",
+  "provider": "yfinance",
+  "query_symbol": "NN",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NN",
+  "sector": "Technology",
+  "short_name": "NextNav Inc.",
+  "symbol": "NN"
+}

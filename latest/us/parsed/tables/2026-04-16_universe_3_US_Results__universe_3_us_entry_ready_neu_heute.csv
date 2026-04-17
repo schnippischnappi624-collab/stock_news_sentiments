@@ -1,2 +1,0 @@
-asof_date,exchange_code,mic,symbol,company_name,isin,type,currency,country,state,state_since,last_run_id,reason,updated_ts_utc,close,volume,vol_anom,hh20_prev,close_vs_hh20_prev,ema20,ema50,ema200,atr14
-20260415,US,,NEXA,Nexa Resources SA,,Common Stock,USD,USA,ENTRY_READY,20260415,118,setup+breakout,2026-04-16T08:45:51Z,14.65,7904361.0,9.08828612628519,12.341,0.187099910866218,11.4668190220894,11.1235660749616,8.76635562036126,0.8404848433301

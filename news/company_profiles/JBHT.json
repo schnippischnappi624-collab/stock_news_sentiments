@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-17T09:15:39.505912+00:00",
+  "industry": "Integrated Freight & Logistics",
+  "long_name": "J.B. Hunt Transport Services, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "JBHT",
+  "quote_type": "EQUITY",
+  "requested_symbol": "JBHT",
+  "sector": "Industrials",
+  "short_name": "J.B. Hunt Transport Services, I",
+  "symbol": "JBHT"
+}
