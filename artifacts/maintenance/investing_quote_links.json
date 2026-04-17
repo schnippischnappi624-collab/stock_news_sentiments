@@ -40,6 +40,16 @@
       "resolved_url": "https://de.investing.com/equities/dfds",
       "symbol": "DFDS"
     },
+    "EU|HE|RAIKV|raisio oyj": {
+      "company_name": "Raisio Oyj",
+      "country": "Finland",
+      "exchange_code": "HE",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:38:45.725598+00:00",
+      "resolved_url": "https://de.investing.com/equities/raisio-oyj",
+      "symbol": "RAIKV"
+    },
     "EU|MC|OPTS|optare solutions s a": {
       "company_name": "Optare Solutions, S.A.",
       "country": "Spain",
@@ -49,6 +59,36 @@
       "resolved_at_utc": "2026-04-17T08:34:14.150824+00:00",
       "resolved_url": "https://de.investing.com/equities/optare-solutions",
       "symbol": "OPTS"
+    },
+    "EU|OL|AKSO|aker solutions asa": {
+      "company_name": "Aker Solutions ASA",
+      "country": "Norway",
+      "exchange_code": "OL",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:41:32.652403+00:00",
+      "resolved_url": "https://de.investing.com/equities/aker-solutions-ol",
+      "symbol": "AKSO"
+    },
+    "EU|OL|ZLNA|zelluna asa": {
+      "company_name": "Zelluna ASA",
+      "country": "Norway",
+      "exchange_code": "OL",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:39:37.346166+00:00",
+      "resolved_url": "https://de.investing.com/equities/ultimovacs",
+      "symbol": "ZLNA"
+    },
+    "EU|PA|FREY|frey sa": {
+      "company_name": "Frey SA",
+      "country": "France",
+      "exchange_code": "PA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:37:01.788468+00:00",
+      "resolved_url": "https://de.investing.com/equities/frey",
+      "symbol": "FREY"
     },
     "EU|PA|GLO|gl events sa": {
       "company_name": "GL Events SA",
@@ -60,6 +100,36 @@
       "resolved_url": "https://de.investing.com/equities/gl-events",
       "symbol": "GLO"
     },
+    "EU|PA|MLUMG|umalis group": {
+      "company_name": "Umalis Group",
+      "country": "France",
+      "exchange_code": "PA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:40:04.240799+00:00",
+      "resolved_url": "https://de.investing.com/equities/umalis-group-sa",
+      "symbol": "MLUMG"
+    },
+    "EU|ST|ACAD|academedia ab publ": {
+      "company_name": "AcadeMedia AB (publ)",
+      "country": "Sweden",
+      "exchange_code": "ST",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:44:10.923499+00:00",
+      "resolved_url": "https://de.investing.com/equities/academedia-ab",
+      "symbol": "ACAD"
+    },
+    "EU|ST|STORY-B|storytel ab publ": {
+      "company_name": "Storytel AB (publ)",
+      "country": "Sweden",
+      "exchange_code": "ST",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:44:57.562376+00:00",
+      "resolved_url": "https://de.investing.com/equities/massolit-media-ab",
+      "symbol": "STORY-B"
+    },
     "EU|SW|BRKN|burkhalter holding ag": {
       "company_name": "Burkhalter Holding AG",
       "country": "Switzerland",
@@ -70,6 +140,26 @@
       "resolved_url": "https://de.investing.com/equities/burkhalter-holding-ag",
       "symbol": "BRKN"
     },
+    "EU|SW|STGN|starrag group holding ag": {
+      "company_name": "Starrag Group Holding AG",
+      "country": "Switzerland",
+      "exchange_code": "SW",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:35:06.349109+00:00",
+      "resolved_url": "https://de.investing.com/equities/starrag-group-holding-ag",
+      "symbol": "STGN"
+    },
+    "EU|XETRA|LPK|lpkf laser electronics ag": {
+      "company_name": "LPKF Laser & Electronics AG",
+      "country": "Germany",
+      "exchange_code": "XETRA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:41:00.347787+00:00",
+      "resolved_url": "https://de.investing.com/equities/lpkf-laser---electronics-ag",
+      "symbol": "LPK"
+    },
     "EU|XETRA|MLP|mlp se": {
       "company_name": "MLP SE",
       "country": "Germany",
@@ -79,6 +169,56 @@
       "resolved_at_utc": "2026-04-17T08:25:57.767837+00:00",
       "resolved_url": "https://de.investing.com/equities/mlp-exch",
       "symbol": "MLP"
+    },
+    "EU|XETRA|OHB|ohb se": {
+      "company_name": "OHB SE",
+      "country": "Germany",
+      "exchange_code": "XETRA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:52:32.055531+00:00",
+      "resolved_url": "https://de.investing.com/equities/ohb-ag",
+      "symbol": "OHB"
+    },
+    "EU|XETRA|UTDI|united internet ag na": {
+      "company_name": "United Internet AG NA",
+      "country": "Germany",
+      "exchange_code": "XETRA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:52:32.055490+00:00",
+      "resolved_url": "https://de.investing.com/equities/united-internet",
+      "symbol": "UTDI"
+    },
+    "US|US|AVNS|avanos medical inc": {
+      "company_name": "Avanos Medical Inc",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T08:46:29.326987+00:00",
+      "resolved_url": "https://de.investing.com/equities/halyard-health",
+      "symbol": "AVNS"
+    },
+    "US|US|GSAT|globalstar inc common stock": {
+      "company_name": "Globalstar, Inc. Common Stock",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T08:48:10.116989+00:00",
+      "resolved_url": "https://de.investing.com/equities/globalstar-inc",
+      "symbol": "GSAT"
+    },
+    "US|US|HAS|hasbro inc": {
+      "company_name": "Hasbro Inc",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T08:47:34.093016+00:00",
+      "resolved_url": "https://de.investing.com/equities/hasbro-inc",
+      "symbol": "HAS"
     },
     "US|US|NEXA|nexa resources sa": {
       "company_name": "Nexa Resources SA",
@@ -99,8 +239,18 @@
       "resolved_at_utc": "2026-04-17T08:25:57.767887+00:00",
       "resolved_url": "https://de.investing.com/equities/revolution-medicines-inc",
       "symbol": "RVMD"
+    },
+    "US|US|UI|ubiquiti networks inc": {
+      "company_name": "Ubiquiti Networks Inc",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T08:47:03.360137+00:00",
+      "resolved_url": "https://de.investing.com/equities/ubiquiti-networks",
+      "symbol": "UI"
     }
   },
-  "updated_at_utc": "2026-04-17T08:34:35.737025+00:00",
+  "updated_at_utc": "2026-04-17T08:52:32.055541+00:00",
   "version": 1
 }

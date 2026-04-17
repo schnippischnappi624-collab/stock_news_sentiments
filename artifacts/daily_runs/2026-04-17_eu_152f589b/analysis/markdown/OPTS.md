@@ -1,6 +1,6 @@
 # OPTS - Optare Solutions, S.A.
 
-- Quote: [Investing.com (OPTS)](<https://de.investing.com/search/?q=OPTS%20Optare%20Solutions%2C%20S.A.>)
+- Quote: [Investing.com (OPTS)](<https://de.investing.com/equities/optare-solutions>)
 
 |  |  |
 | --- | --- |

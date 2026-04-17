@@ -1,6 +1,6 @@
 # ACAD - AcadeMedia AB (publ)
 
-- Quote: [Investing.com (ACAD)](<https://de.investing.com/search/?q=ACAD%20AcadeMedia%20AB%20%28publ%29>)
+- Quote: [Investing.com (ACAD)](<https://de.investing.com/equities/academedia-ab>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#cf222e}{\texttt{31}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#2da44e}{\texttt{Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `103.40 SEK (9.57 EUR)` |
 | **Prior 20d high trigger** | `103.80 SEK (9.61 EUR)` |
 

@@ -1,6 +1,6 @@
 # STORY-B - Storytel AB (publ)
 
-- Quote: [Investing.com (STORY-B)](<https://de.investing.com/search/?q=STORY-B%20Storytel%20AB%20%28publ%29>)
+- Quote: [Investing.com (STORY-B)](<https://de.investing.com/equities/massolit-media-ab>)
 
 |  |  |
 | --- | --- |

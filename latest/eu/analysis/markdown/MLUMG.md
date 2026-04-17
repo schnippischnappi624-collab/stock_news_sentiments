@@ -1,6 +1,6 @@
 # MLUMG - Umalis Group
 
-- Quote: [Investing.com (MLUMG)](<https://de.investing.com/search/?q=MLUMG%20Umalis%20Group>)
+- Quote: [Investing.com (MLUMG)](<https://de.investing.com/equities/umalis-group-sa>)
 
 |  |  |
 | --- | --- |

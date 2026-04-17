@@ -1,6 +1,6 @@
 # FREY - Frey SA
 
-- Quote: [Investing.com (FREY)](<https://de.investing.com/search/?q=FREY%20Frey%20SA>)
+- Quote: [Investing.com (FREY)](<https://de.investing.com/equities/frey>)
 
 |  |  |
 | --- | --- |

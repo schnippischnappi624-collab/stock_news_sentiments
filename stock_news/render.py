@@ -154,6 +154,17 @@ def _bucket_color(bucket: Any) -> str:
     return lookup.get(str(bucket or "").strip().lower(), "#57606a")
 
 
+def _investing_technical_color(value: Any) -> str:
+    lookup = {
+        "strong buy": "#1a7f37",
+        "buy": "#2da44e",
+        "neutral": "#9a6700",
+        "sell": "#bc4c00",
+        "strong sell": "#cf222e",
+    }
+    return lookup.get(str(value or "").strip().lower(), "#57606a")
+
+
 def _stance_color(stance: Any) -> str:
     normalized = str(stance or "").strip().lower()
     lookup = {
@@ -322,10 +333,40 @@ def _execution_rows(
     return rows
 
 
+def _investing_technical_rows(investing_technical: dict[str, Any] | None) -> list[tuple[str, str]]:
+    payload = investing_technical or {}
+    if not isinstance(payload, dict):
+        return []
+
+    timeframe = str(payload.get("timeframe") or "").strip().lower()
+    timeframe_suffix = " (1h)" if timeframe == "1h" else ""
+    rows: list[tuple[str, str]] = []
+    for label, key in [
+        (f"Investing overview{timeframe_suffix}", "overview"),
+        (f"Investing indicators{timeframe_suffix}", "technical_indicators"),
+        (f"Investing moving averages{timeframe_suffix}", "moving_averages"),
+    ]:
+        value = payload.get(key)
+        if not value:
+            continue
+        rows.append(
+            (
+                label,
+                _colorize(
+                    value,
+                    color=_investing_technical_color(value),
+                    code=True,
+                ),
+            )
+        )
+    return rows
+
+
 def _summary_table_lines(
     item: dict[str, Any],
     stance: dict[str, Any],
     *,
+    investing_technical: dict[str, Any] | None = None,
     eur_rates_context: dict[str, Any] | None = None,
 ) -> list[str]:
     score = stance.get("score_0_to_100", "n/a")
@@ -364,6 +405,7 @@ def _summary_table_lines(
             ),
         ),
     ]
+    rows.extend(_investing_technical_rows(investing_technical))
     rows.extend(_execution_rows(item, eur_rates_context=eur_rates_context))
 
     lines = ["|  |  |", "| --- | --- |"]
@@ -857,7 +899,14 @@ def render_analysis_markdown(
         if investing_quote_symbol:
             label = f"Investing.com ({investing_quote_symbol})"
         lines.extend([f"- Quote: {_md_link(label, investing_quote_url)}", ""])
-    lines.extend(_summary_table_lines(item, stance, eur_rates_context=eur_rates_context))
+    lines.extend(
+        _summary_table_lines(
+            item,
+            stance,
+            investing_technical=report.get("investing_technical"),
+            eur_rates_context=eur_rates_context,
+        )
+    )
 
     lines.extend(
         [

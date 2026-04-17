@@ -1,6 +1,6 @@
 # LPK - LPKF Laser & Electronics AG
 
-- Quote: [Investing.com (LPK)](<https://de.investing.com/search/?q=LPK%20LPKF%20Laser%20%26%20Electronics%20AG>)
+- Quote: [Investing.com (LPK)](<https://de.investing.com/equities/lpkf-laser---electronics-ag>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#9a6700}{\texttt{69}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
+| **Investing indicators (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
+| **Investing moving averages (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
 | **Current price** | `11.30 EUR` |
 | **Entry limit** | `10.80 EUR` |
 | **Distance to entry limit** | $\color{#bc4c00}{\texttt{0.50 EUR / +4.67\%}}$ |

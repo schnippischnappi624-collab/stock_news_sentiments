@@ -1,6 +1,6 @@
 # AKSO - Aker Solutions ASA
 
-- Quote: [Investing.com (AKSO)](<https://de.investing.com/search/?q=AKSO%20Aker%20Solutions%20ASA>)
+- Quote: [Investing.com (AKSO)](<https://de.investing.com/equities/aker-solutions-ol>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#cf222e}{\texttt{41}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `47.50 NOK (4.30 EUR)` |
 | **Prior 20d high trigger** | `48.14 NOK (4.36 EUR)` |
 

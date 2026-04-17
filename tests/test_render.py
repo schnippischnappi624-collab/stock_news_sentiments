@@ -32,6 +32,15 @@ def test_render_analysis_markdown_includes_sections() -> None:
         "risks": [{"point": "A failed retest of the breakout level would weaken the setup.", "confidence": "high"}],
         "news_support": {"stance": "supportive", "explanation": "Recent headlines are improving."},
         "breakout_stance": {"label": "constructive", "score_0_to_100": 72, "confidence": "medium", "thesis": "The setup is improving."},
+        "investing_technical": {
+            "provider": "investing.com",
+            "timeframe": "1h",
+            "timeframe_label": "Stündlich",
+            "technical_page_url": "https://de.investing.com/equities/spire-global-inc-technical",
+            "overview": "Strong Buy",
+            "technical_indicators": "Buy",
+            "moving_averages": "Strong Buy",
+        },
         "scorecard": {"components": [{"label": "Breakout above prior high", "points": 8}]},
         "coverage": {"quality": "good", "stock_articles": 3, "market_articles": 12, "market_overlay_weight": 0.85},
         "evidence": {
@@ -84,11 +93,16 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert r"| **Breakout stance** | $\color{#2da44e}{\texttt{constructive}}$ |" in markdown
     assert r"| **Score** | $\color{#9a6700}{\texttt{72}}$ |" in markdown
     assert r"| **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |" in markdown
+    assert r"| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |" in markdown
+    assert r"| **Investing indicators (1h)** | $\color{#2da44e}{\texttt{Buy}}$ |" in markdown
+    assert r"| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |" in markdown
     assert "| **Current price** | `21.56 USD (10.78 EUR)` |" in markdown
     assert "| **Entry limit** | `20.50 USD (10.25 EUR)` |" in markdown
     assert r"| **Distance to entry limit** | $\color{#cf222e}{\texttt{1.06 USD (0.53 EUR) / +5.17\%}}$ |" in markdown
     assert "| **Initial stop** | `17.83 USD (8.91 EUR)` |" in markdown
     assert "- Quote: [Investing.com (SPIR)](<https://de.investing.com/equities/spire-global-inc>)" in markdown
+    assert markdown.index("| **Bucket** |") < markdown.index("| **Investing overview (1h)** |")
+    assert markdown.index("| **Investing moving averages (1h)** |") < markdown.index("| **Current price** |")
     assert "[&#36;14.00 Per Share - Example](<https://example.com>) - 2026-04-11" in markdown
 
 

@@ -1,6 +1,6 @@
 # CMCOM - CM.com NV
 
-- Quote: [Investing.com (CMCOM)](<https://de.investing.com/search/?q=CMCOM%20CM.com%20NV>)
+- Quote: [Investing.com (CMCOM)](<https://de.investing.com/equities/cm-com>)
 
 |  |  |
 | --- | --- |

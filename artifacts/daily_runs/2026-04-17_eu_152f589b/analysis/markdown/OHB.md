@@ -1,6 +1,6 @@
 # OHB - OHB SE
 
-- Quote: [Investing.com (OHB)](<https://de.investing.com/search/?q=OHB%20OHB%20SE>)
+- Quote: [Investing.com (OHB)](<https://de.investing.com/equities/ohb-ag>)
 
 |  |  |
 | --- | --- |

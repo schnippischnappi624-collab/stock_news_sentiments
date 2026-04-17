@@ -1,6 +1,6 @@
 # ZLNA - Zelluna ASA
 
-- Quote: [Investing.com (ZLNA)](<https://de.investing.com/search/?q=ZLNA%20Zelluna%20ASA>)
+- Quote: [Investing.com (ZLNA)](<https://de.investing.com/equities/ultimovacs>)
 
 |  |  |
 | --- | --- |

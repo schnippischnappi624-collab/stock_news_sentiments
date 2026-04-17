@@ -19,6 +19,7 @@ from stock_news.feed_discovery import discover_latest_feeds, download_feed_text
 from stock_news.feed_parser import parse_feed_text
 from stock_news.fx import load_or_update_ecb_rates, select_eur_rates
 from stock_news.investing_links import ensure_investing_quote_urls
+from stock_news.investing_technical import fetch_investing_technical_signals
 from stock_news.models import FeedFile
 from stock_news.news import load_news_context, update_company_profiles, update_market_news_history, update_news_history
 from stock_news.paths import get_paths
@@ -547,6 +548,7 @@ def run_analysis_step(
     full_schema_path = paths.schemas_dir / "breakout_analysis.schema.json"
     summary_schema_path = paths.schemas_dir / "breakout_summary.schema.json"
     investing_links_schema_path = paths.schemas_dir / "investing_quote_links.schema.json"
+    investing_technical_schema_path = paths.schemas_dir / "investing_technical.schema.json"
     analysis_mode = str(analysis_mode or "hybrid").strip().lower()
     if analysis_mode not in {"python", "hybrid", "codex-full"}:
         analysis_mode = "hybrid"
@@ -564,6 +566,14 @@ def run_analysis_step(
         repo_root=paths.root,
     )
     resolved_investing_urls = investing_quote_summary.get("resolved_urls", {}) or {}
+    investing_technical_summary = fetch_investing_technical_signals(
+        shortlist.get("symbols", []) or [],
+        profiles_by_symbol=profiles_by_symbol,
+        resolved_quote_urls=resolved_investing_urls,
+        schema_path=investing_technical_schema_path,
+        repo_root=paths.root,
+    )
+    resolved_investing_technical = investing_technical_summary.get("signals_by_symbol", {}) or {}
     legacy_badges_dir = layout["analysis_markdown_dir"] / "_badges"
     if legacy_badges_dir.exists():
         shutil.rmtree(legacy_badges_dir)
@@ -589,6 +599,9 @@ def run_analysis_step(
             quote_links["investing_url"] = resolved_quote_url
             quote_links["investing_symbol"] = symbol
             news_context["quote_links"] = quote_links
+        technical_snapshot = resolved_investing_technical.get(symbol)
+        if technical_snapshot:
+            news_context["investing_technical"] = technical_snapshot
         report_json_path = layout["analysis_json_dir"] / analysis_report_name(symbol)
         evidence_path = layout["analysis_evidence_dir"] / analysis_report_name(symbol)
         codex_path = layout["analysis_codex_dir"] / analysis_report_name(symbol)
@@ -634,7 +647,12 @@ def run_analysis_step(
                 report["scorecard"] = python_report.get("scorecard")
                 report["evidence"] = python_report.get("evidence")
 
-            write_json(report_json_path, report)
+        if technical_snapshot:
+            if dict(report.get("investing_technical") or {}) != dict(technical_snapshot):
+                report = dict(report)
+                report["investing_technical"] = dict(technical_snapshot)
+
+        write_json(report_json_path, report)
 
         markdown = render_analysis_markdown(
             report,
@@ -686,6 +704,10 @@ def run_analysis_step(
             "resolved_with_codex": investing_quote_summary.get("resolved_with_codex", 0),
             "unresolved_symbols": investing_quote_summary.get("unresolved_symbols", []),
             "lookup_path": investing_quote_summary.get("lookup_path"),
+        },
+        "investing_technical": {
+            "resolved_symbols": investing_technical_summary.get("resolved_symbols", 0),
+            "unresolved_symbols": investing_technical_summary.get("unresolved_symbols", []),
         },
         "generated_at_utc": _now_utc(),
     }

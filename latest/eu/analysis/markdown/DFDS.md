@@ -1,6 +1,6 @@
 # DFDS - DFDS A/S
 
-- Quote: [Investing.com (DFDS)](<https://de.investing.com/search/?q=DFDS%20DFDS%20A%2FS>)
+- Quote: [Investing.com (DFDS)](<https://de.investing.com/equities/dfds>)
 
 |  |  |
 | --- | --- |

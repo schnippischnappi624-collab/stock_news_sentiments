@@ -78,9 +78,39 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
             "ok": True,
             "cache_hits": 0,
             "resolved_with_codex": 0,
-            "resolved_urls": {},
+            "resolved_urls": {
+                "SPIR": "https://de.investing.com/equities/spire-global-inc",
+                "NXT": "https://de.investing.com/equities/nextplc",
+            },
             "unresolved_symbols": [],
             "lookup_path": str(tmp_path / "artifacts" / "maintenance" / "investing_quote_links.json"),
+        }
+
+    def fake_fetch_investing_technical_signals(*args, **kwargs) -> dict:
+        return {
+            "ok": True,
+            "resolved_symbols": 2,
+            "signals_by_symbol": {
+                "SPIR": {
+                    "provider": "investing.com",
+                    "timeframe": "1h",
+                    "timeframe_label": "Stündlich",
+                    "technical_page_url": "https://de.investing.com/equities/spire-global-inc-technical",
+                    "overview": "Strong Buy",
+                    "technical_indicators": "Buy",
+                    "moving_averages": "Strong Buy",
+                },
+                "NXT": {
+                    "provider": "investing.com",
+                    "timeframe": "1h",
+                    "timeframe_label": "Stündlich",
+                    "technical_page_url": "https://de.investing.com/equities/nextplc-technical",
+                    "overview": "Buy",
+                    "technical_indicators": "Buy",
+                    "moving_averages": "Neutral",
+                },
+            },
+            "unresolved_symbols": [],
         }
 
     monkeypatch.setattr(pipeline, "discover_latest_feeds", fake_discover)
@@ -90,6 +120,7 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
     monkeypatch.setattr(pipeline, "update_market_news_history", fake_update_market_news_history)
     monkeypatch.setattr(pipeline, "update_company_profiles", fake_update_company_profiles)
     monkeypatch.setattr(pipeline, "ensure_investing_quote_urls", fake_ensure_investing_quote_urls)
+    monkeypatch.setattr(pipeline, "fetch_investing_technical_signals", fake_fetch_investing_technical_signals)
 
     rc_eu = pipeline.daily_run_command(
         base_url="https://stock.sdc-fried.de/",
@@ -132,7 +163,11 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
     assert spir_report["analysis_mode"] == "python"
     assert spir_report["analysis_error"] is None
     assert "scorecard" in spir_report
+    assert spir_report["investing_technical"]["overview"] == "Strong Buy"
     assert (tmp_path / "latest" / "us" / "analysis" / "evidence" / "SPIR.json").exists()
+    spir_markdown = (tmp_path / "latest" / "us" / "analysis" / "markdown" / "SPIR.md").read_text(encoding="utf-8")
+    assert "Investing overview (1h)" in spir_markdown
+    assert "Strong Buy" in spir_markdown
     summary = read_json(tmp_path / "latest" / "us" / "run_summary.json")
     assert summary["news_summary"]["market_news"]["ok"] is True
     best_candidates = (tmp_path / "latest" / "best_candidates.md").read_text(encoding="utf-8")

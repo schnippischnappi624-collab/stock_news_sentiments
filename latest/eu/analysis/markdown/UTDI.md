@@ -1,6 +1,6 @@
 # UTDI - United Internet AG NA
 
-- Quote: [Investing.com (UTDI)](<https://de.investing.com/search/?q=UTDI%20United%20Internet%20AG%20NA>)
+- Quote: [Investing.com (UTDI)](<https://de.investing.com/equities/united-internet>)
 
 |  |  |
 | --- | --- |

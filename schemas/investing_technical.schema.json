@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "results"
+  ],
+  "properties": {
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "lookup_key",
+          "technical_page_url",
+          "timeframe",
+          "overview",
+          "technical_indicators",
+          "moving_averages"
+        ],
+        "properties": {
+          "lookup_key": {
+            "type": "string"
+          },
+          "technical_page_url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "timeframe": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "overview": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "technical_indicators": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "moving_averages": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

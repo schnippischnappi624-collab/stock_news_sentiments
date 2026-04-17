@@ -1,6 +1,6 @@
 # FAST - Fastned B.V.
 
-- Quote: [Investing.com (FAST)](<https://de.investing.com/search/?q=FAST%20Fastned%20B.V.>)
+- Quote: [Investing.com (FAST)](<https://de.investing.com/equities/fastned-bv>)
 
 |  |  |
 | --- | --- |
