@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from typing import Any
 from urllib.parse import quote
 
@@ -421,37 +422,348 @@ def _stance_cell(stance: Any) -> str:
     return _colorize(_stance_display_label(stance), color=_stance_color(stance))
 
 
-def _ranked_candidate_rows(shortlist: dict[str, Any], analysis_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    lookup = {row["symbol"]: row for row in analysis_rows}
-    ranked_items = []
+MONITOR_SECTION_SPECS: tuple[tuple[str, str, str], ...] = (
+    ("near_trigger", "Entry Ready Near Trigger", "near trigger"),
+    ("extended", "Entry Ready Extended", "extended"),
+    ("candidate", "Candidates", "candidate"),
+)
+
+MONITOR_SECTION_ORDER = {key: idx for idx, (key, _, _) in enumerate(MONITOR_SECTION_SPECS)}
+MONITOR_SECTION_LABEL = {key: label for key, label, _ in MONITOR_SECTION_SPECS}
+MONITOR_SECTION_SHORT_LABEL = {key: short for key, _, short in MONITOR_SECTION_SPECS}
+
+ISSUER_SUFFIX_TOKENS = {
+    "ab",
+    "ag",
+    "asa",
+    "as",
+    "co",
+    "common",
+    "corp",
+    "corporation",
+    "holding",
+    "holdings",
+    "inc",
+    "incorporated",
+    "limited",
+    "ltd",
+    "na",
+    "nv",
+    "oy",
+    "oyj",
+    "plc",
+    "publ",
+    "s",
+    "sa",
+    "se",
+    "share",
+    "shares",
+    "spa",
+    "stock",
+}
+
+
+def _float_or_none(value: Any) -> float | None:
+    if value in {None, ""}:
+        return None
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def _score_value(score: Any) -> float:
+    numeric = _float_or_none(score)
+    return numeric if numeric is not None else float("-inf")
+
+
+def _distance_to_entry_pct(close: Any, entry_limit: Any) -> float | None:
+    close_value = _float_or_none(close)
+    entry_value = _float_or_none(entry_limit)
+    if close_value is None or entry_value in {None, 0.0}:
+        return None
+    return (close_value - entry_value) / entry_value * 100.0
+
+
+def _coverage_color(quality: Any) -> str:
+    lookup = {
+        "strong": "#1a7f37",
+        "good": "#2da44e",
+        "thin": "#9a6700",
+        "none": "#cf222e",
+    }
+    return lookup.get(str(quality or "").strip().lower(), "#57606a")
+
+
+def _coverage_cell(quality: Any) -> str:
+    value = str(quality or "n/a").strip().lower() or "n/a"
+    return _colorize(value, color=_coverage_color(value))
+
+
+def _news_stance_color(stance: Any) -> str:
+    lookup = {
+        "supportive": "#1a7f37",
+        "mixed": "#9a6700",
+        "conflicting": "#cf222e",
+    }
+    return lookup.get(str(stance or "").strip().lower(), "#57606a")
+
+
+def _news_stance_cell(stance: Any) -> str:
+    value = str(stance or "n/a").strip().lower() or "n/a"
+    return _colorize(value, color=_news_stance_color(value))
+
+
+def _stock_article_count_color(count: Any) -> str:
+    numeric = _float_or_none(count)
+    if numeric is None:
+        return "#57606a"
+    if numeric >= 5:
+        return "#1a7f37"
+    if numeric >= 3:
+        return "#2da44e"
+    if numeric >= 1:
+        return "#9a6700"
+    return "#cf222e"
+
+
+def _stock_article_count_cell(count: Any) -> str:
+    numeric = _float_or_none(count)
+    if numeric is None:
+        return _colorize("n/a", color="#57606a")
+    return _colorize(str(int(numeric)), color=_stock_article_count_color(numeric))
+
+
+def _delta_score_cell(delta: int | None) -> str:
+    if delta is None:
+        return _colorize("n/a", color="#57606a")
+    if delta > 0:
+        color = "#1a7f37"
+    elif delta < 0:
+        color = "#cf222e"
+    else:
+        color = "#57606a"
+    return _colorize(f"{delta:+d}", color=color, code=True)
+
+
+def _change_cell(text: str, *, improved: bool | None) -> str:
+    if improved is True:
+        color = "#1a7f37"
+    elif improved is False:
+        color = "#cf222e"
+    else:
+        color = "#57606a"
+    return _colorize(text, color=color, code=True)
+
+
+def _new_badge() -> str:
+    return _colorize("new", color="#1a7f37", code=True)
+
+
+def _normalize_issuer_group_name(value: Any) -> str:
+    tokens = re.sub(r"[^a-z0-9]+", " ", str(value or "").lower()).strip().split()
+    while tokens and tokens[-1] in ISSUER_SUFFIX_TOKENS:
+        tokens.pop()
+    return " ".join(tokens).strip()
+
+
+def _issuer_group_display(item: dict[str, Any], profile: dict[str, Any]) -> str:
+    for candidate in (
+        profile.get("long_name"),
+        profile.get("short_name"),
+        item.get("company_name"),
+    ):
+        label = " ".join(str(candidate or "").split()).strip()
+        if label:
+            return label
+    return str(item.get("symbol") or "unknown").strip() or "unknown"
+
+
+def _listing_label(item: dict[str, Any], profile: dict[str, Any]) -> str:
+    exchange = str(item.get("exchange_code") or profile.get("exchange") or "n/a").strip() or "n/a"
+    country = str(item.get("country") or profile.get("country") or "n/a").strip() or "n/a"
+    return f"{exchange} / {country}"
+
+
+def _monitor_section_key(item: dict[str, Any], metrics: dict[str, Any]) -> str:
+    if str(item.get("selection_bucket") or "").strip().lower() != "entry_ready":
+        return "candidate"
+    distance_pct = _distance_to_entry_pct(metrics.get("close"), metrics.get("entry_limit"))
+    if distance_pct is not None and abs(distance_pct) <= 5.0:
+        return "near_trigger"
+    return "extended"
+
+
+def _top_catalyst_headwind(report: dict[str, Any]) -> str:
+    catalyst = ((report.get("catalysts") or [{}])[0] or {}).get("point")
+    risk = ((report.get("risks") or [{}])[0] or {}).get("point")
+    parts = []
+    if catalyst:
+        parts.append(f"Cat: {catalyst}")
+    if risk:
+        parts.append(f"Risk: {risk}")
+    return "; ".join(parts) if parts else "n/a"
+
+
+def _build_monitor_rows(
+    shortlist: dict[str, Any],
+    analysis_rows: list[dict[str, Any]],
+    profiles_by_symbol: dict[str, dict[str, Any]] | None,
+    *,
+    report_prefix: str | None,
+) -> list[dict[str, Any]]:
+    lookup = {row["symbol"]: row for row in analysis_rows if row.get("symbol")}
+    rows: list[dict[str, Any]] = []
+
     for item in shortlist.get("symbols", []):
         symbol = item.get("symbol")
+        if not symbol:
+            continue
         report = lookup.get(symbol, {})
+        profile = ((profiles_by_symbol or {}).get(symbol) or {}) if isinstance(profiles_by_symbol, dict) else {}
         stance = report.get("breakout_stance", {}) or {}
+        coverage = report.get("coverage", {}) or {}
         metrics = item.get("metrics", {}) or {}
-        ranked_items.append(
+        issuer_group = _issuer_group_display(item, profile)
+        issuer_group_key = _normalize_issuer_group_name(issuer_group) or _normalize_issuer_group_name(item.get("company_name")) or str(symbol).lower()
+        distance_pct = _distance_to_entry_pct(metrics.get("close"), metrics.get("entry_limit"))
+        rows.append(
             {
                 "symbol": symbol,
-                "company_name": item.get("company_name"),
+                "company_name": item.get("company_name") or report.get("company_name") or issuer_group,
+                "listing_label": _listing_label(item, profile),
+                "issuer_group_display": issuer_group,
+                "issuer_group_key": issuer_group_key,
+                "distance_pct": distance_pct,
+                "distance_sort_value": abs(distance_pct) if distance_pct is not None else float("inf"),
+                "distance_cell": _distance_to_entry_cell(metrics.get("close"), metrics.get("entry_limit")),
                 "bucket": item.get("selection_bucket"),
-                "display_rank": item.get("display_rank"),
-                "score": stance.get("score_0_to_100", 0),
+                "score": stance.get("score_0_to_100", "n/a"),
+                "score_value": _score_value(stance.get("score_0_to_100")),
                 "confidence": stance.get("confidence", "n/a"),
+                "confidence_rank": _confidence_rank(stance.get("confidence", "n/a")),
                 "stance": stance.get("label", "unknown"),
-                "close": metrics.get("close"),
-                "entry_limit": metrics.get("entry_limit"),
+                "stance_rank": {
+                    "avoid": 0,
+                    "fragile_watch": 1,
+                    "mixed_watch": 2,
+                    "constructive_watch": 3,
+                    "constructive_bullish": 4,
+                }.get(str(stance.get("label") or "").strip().lower(), -1),
+                "news_stance": (report.get("news_support", {}) or {}).get("stance", "n/a"),
+                "coverage_quality": coverage.get("quality") or ((report.get("evidence", {}) or {}).get("news", {}) or {}).get("coverage_quality") or "n/a",
+                "stock_articles": coverage.get("stock_articles", ((report.get("evidence", {}) or {}).get("news", {}) or {}).get("article_count", "n/a")),
+                "top_driver": _top_catalyst_headwind(report),
+                "section_key": _monitor_section_key(item, metrics),
+                "report_path": f"{report_prefix}/{safe_symbol_name(symbol)}.md" if report_prefix else "",
             }
         )
 
-    ranked_items.sort(
+    issuer_groups: dict[str, list[dict[str, Any]]] = {}
+    for row in rows:
+        issuer_groups.setdefault(row["issuer_group_key"], []).append(row)
+
+    for members in issuer_groups.values():
+        if len(members) <= 1:
+            continue
+        sibling_label = ", ".join(
+            f"{member['symbol']} ({member['listing_label']})"
+            for member in sorted(members, key=lambda member: str(member.get("symbol") or ""))
+        )
+        for member in members:
+            member["issuer_group_display"] = f"{member['issuer_group_display']} (siblings: {sibling_label})"
+
+    rows.sort(
         key=lambda row: (
-            -int(row.get("score") or 0),
-            0 if row.get("bucket") == "entry_ready" else 1,
-            int(row.get("display_rank") or 9999),
+            MONITOR_SECTION_ORDER.get(row["section_key"], 99),
+            -row["score_value"],
+            -row["confidence_rank"],
+            row["distance_sort_value"],
             str(row.get("symbol") or ""),
         )
     )
-    return ranked_items
+
+    section_counters: dict[str, int] = {key: 0 for key, _, _ in MONITOR_SECTION_SPECS}
+    for row in rows:
+        section_counters[row["section_key"]] = section_counters.get(row["section_key"], 0) + 1
+        row["section_rank"] = section_counters[row["section_key"]]
+
+    return rows
+
+
+def _apply_prior_deltas(
+    current_rows: list[dict[str, Any]],
+    prior_section: dict[str, Any] | None,
+    *,
+    prior_report_prefix: str | None,
+) -> list[dict[str, Any]]:
+    prior_rows: list[dict[str, Any]] = []
+    if prior_section:
+        prior_rows = _build_monitor_rows(
+            prior_section.get("shortlist", {}) or {},
+            prior_section.get("analysis_rows", []) or [],
+            prior_section.get("profiles_by_symbol", {}) or {},
+            report_prefix=prior_report_prefix,
+        )
+
+    prior_lookup = {row["symbol"]: row for row in prior_rows}
+    current_symbols = {row["symbol"] for row in current_rows}
+
+    for row in current_rows:
+        prior = prior_lookup.get(row["symbol"])
+        if prior is None:
+            row["prior_rank_label"] = "new"
+            row["delta_score"] = None
+            row["delta_confidence_label"] = "new"
+            row["delta_confidence_improved"] = None
+            row["stance_change_label"] = "new"
+            row["stance_change_improved"] = None
+            row["is_new"] = True
+            continue
+
+        row["prior_rank_label"] = f"{MONITOR_SECTION_SHORT_LABEL.get(prior['section_key'], prior['section_key'])} #{prior['section_rank']}"
+        row["is_new"] = False
+
+        current_score = _float_or_none(row.get("score"))
+        prior_score = _float_or_none(prior.get("score"))
+        if current_score is None or prior_score is None:
+            row["delta_score"] = None
+        else:
+            row["delta_score"] = int(round(current_score - prior_score))
+
+        current_confidence = str(row.get("confidence") or "n/a").strip().lower()
+        prior_confidence = str(prior.get("confidence") or "n/a").strip().lower()
+        if current_confidence == prior_confidence:
+            row["delta_confidence_label"] = "unchanged"
+            row["delta_confidence_improved"] = None
+        else:
+            row["delta_confidence_label"] = f"{prior_confidence} -> {current_confidence}"
+            row["delta_confidence_improved"] = _confidence_rank(current_confidence) > _confidence_rank(prior_confidence)
+
+        current_stance = str(row.get("stance") or "unknown").strip().lower()
+        prior_stance = str(prior.get("stance") or "unknown").strip().lower()
+        if current_stance == prior_stance:
+            row["stance_change_label"] = "unchanged"
+            row["stance_change_improved"] = None
+        else:
+            row["stance_change_label"] = f"{_stance_display_label(prior_stance)} -> {_stance_display_label(current_stance)}"
+            row["stance_change_improved"] = int(row.get("stance_rank", -1)) > int(prior.get("stance_rank", -1))
+
+    dropped_rows = [row for row in prior_rows if row["symbol"] not in current_symbols]
+    dropped_rows.sort(
+        key=lambda row: (
+            MONITOR_SECTION_ORDER.get(row["section_key"], 99),
+            int(row.get("section_rank") or 9999),
+            str(row.get("symbol") or ""),
+        )
+    )
+    return dropped_rows
+
+
+def _limited_monitor_rows(rows: list[dict[str, Any]], *, top_n: int | None) -> list[dict[str, Any]]:
+    if top_n is None:
+        return list(rows)
+    return list(rows[: int(max(1, top_n))])
 
 
 def _section_lookup(sections: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
@@ -494,115 +806,6 @@ def _filtered_symbol_lines(section_lookup: dict[str, dict[str, Any]]) -> list[st
             original_label = f"{float(current_price):,.2f} {currency}"
         eur_label = f"{float(current_price_eur):,.2f} EUR" if current_price_eur not in {None, ""} else "n/a EUR"
         lines.append(f"- `{region}` `{symbol}` - {company} - `{original_label}` ({eur_label})")
-    return lines
-
-
-def _best_candidate_section_lines(
-    section: dict[str, Any] | None,
-    *,
-    region: str,
-    report_prefix: str,
-    top_n: int,
-    heading: str,
-) -> list[str]:
-    lines = [heading, ""]
-    if section is None:
-        lines.append(f"No {region} snapshot is available yet.")
-        return lines
-
-    manifest = section.get("manifest", {}) or {}
-    shortlist = section.get("shortlist", {}) or {}
-    analysis_rows = section.get("analysis_rows", []) or []
-    report_prefix = str(section.get("report_prefix") or report_prefix)
-    top_items = _ranked_candidate_rows(shortlist, analysis_rows)[: int(max(1, top_n))]
-
-    lines.extend(
-        [
-            f"- Run ID: `{manifest.get('run_id', 'n/a')}`",
-            f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
-            f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
-            "",
-            "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |",
-            "| --- | --- | --- | --- | --- | --- | --- | --- |",
-        ]
-    )
-
-    for idx, row in enumerate(top_items, start=1):
-        symbol = row.get("symbol")
-        lines.append(
-            "| {rank} | [{symbol}]({report_prefix}/{file_name}.md) | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} |".format(
-                rank=idx,
-                symbol=symbol,
-                report_prefix=report_prefix,
-                file_name=safe_symbol_name(symbol),
-                company=_md_text(row.get("company_name") or "Unknown Company", table=True),
-                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
-                bucket=_bucket_cell(row.get("bucket")),
-                score=_score_cell(row.get("score")),
-                confidence=_confidence_cell(row.get("confidence")),
-                stance=_stance_cell(row.get("stance")),
-            )
-        )
-
-    if not top_items:
-        lines.extend(["", f"No scored {region} candidates were available in this snapshot."])
-
-    return lines
-
-
-def _dashboard_section_lines(
-    section: dict[str, Any] | None,
-    *,
-    region: str,
-    report_prefix: str,
-    heading: str,
-) -> list[str]:
-    lines = [heading, ""]
-    if section is None:
-        lines.append(f"No {region} snapshot is available yet.")
-        return lines
-
-    manifest = section.get("manifest", {}) or {}
-    shortlist = section.get("shortlist", {}) or {}
-    analysis_rows = section.get("analysis_rows", []) or []
-    report_prefix = str(section.get("report_prefix") or report_prefix)
-    lookup = {row["symbol"]: row for row in analysis_rows}
-
-    lines.extend(
-        [
-            f"- Run ID: `{manifest.get('run_id', 'n/a')}`",
-            f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
-            f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
-            "",
-            "| Rank | Symbol | Distance to entry | Bucket | Breakout stance | Score | Confidence | Report |",
-            "| --- | --- | --- | --- | --- | --- | --- | --- |",
-        ]
-    )
-
-    for item in shortlist.get("symbols", []):
-        symbol = item.get("symbol")
-        report = lookup.get(symbol, {})
-        stance = report.get("breakout_stance", {}) or {}
-        lines.append(
-            "| {rank} | {symbol} | {distance} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_prefix}/{file_name}.md) |".format(
-                rank=item.get("display_rank"),
-                symbol=symbol,
-                distance=_distance_to_entry_cell(
-                    (item.get("metrics") or {}).get("close"),
-                    (item.get("metrics") or {}).get("entry_limit"),
-                ),
-                bucket=_bucket_cell(item.get("selection_bucket")),
-                stance_label=_stance_cell(stance.get("label", "unknown")),
-                score=_score_cell(stance.get("score_0_to_100", "n/a")),
-                confidence=_confidence_cell(stance.get("confidence", "n/a")),
-                report_prefix=report_prefix,
-                file_name=safe_symbol_name(symbol),
-            )
-        )
-
-    if not shortlist.get("symbols"):
-        lines.extend(["", f"No {region} shortlist symbols were generated for this snapshot."])
-
     return lines
 
 
@@ -755,46 +958,192 @@ def render_analysis_markdown(
     return "\n".join(lines).strip() + "\n"
 
 
+def _monitor_table_header_lines() -> list[str]:
+    return [
+        "| Rank | Symbol | Company | Listing | Issuer group | Distance to entry | Bucket | Score | Prior rank | Δ score | Confidence | Δ confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles | Top catalyst / headwind | New this run | Report |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    ]
+
+
+def _monitor_row_line(row: dict[str, Any]) -> str:
+    report_path = str(row.get("report_path") or "").strip()
+    symbol_cell = _md_link(row.get("symbol") or "n/a", report_path) if report_path else _md_text(row.get("symbol") or "n/a", table=True)
+    report_cell = f"[report]({report_path})" if report_path else "n/a"
+    prior_rank = _new_badge() if row.get("is_new") else _code_html(row.get("prior_rank_label") or "n/a")
+    delta_confidence = (
+        _new_badge()
+        if row.get("delta_confidence_label") == "new"
+        else _change_cell(str(row.get("delta_confidence_label") or "n/a"), improved=row.get("delta_confidence_improved"))
+    )
+    stance_change = (
+        _new_badge()
+        if row.get("stance_change_label") == "new"
+        else _change_cell(str(row.get("stance_change_label") or "n/a"), improved=row.get("stance_change_improved"))
+    )
+    new_badge = _new_badge() if row.get("is_new") else ""
+
+    return (
+        "| {rank} | {symbol} | {company} | {listing} | {issuer_group} | {distance} | {bucket} | {score} | {prior_rank} | {delta_score} | {confidence} | {delta_confidence} | {stance} | {stance_change} | {news_stance} | {coverage} | {stock_articles} | {driver} | {new_badge} | {report} |".format(
+            rank=row.get("section_rank", "n/a"),
+            symbol=symbol_cell,
+            company=_md_text(row.get("company_name") or "Unknown Company", table=True),
+            listing=_md_text(row.get("listing_label") or "n/a", table=True),
+            issuer_group=_md_text(row.get("issuer_group_display") or "n/a", table=True),
+            distance=row.get("distance_cell") or "n/a",
+            bucket=_bucket_cell(row.get("bucket")),
+            score=_score_cell(row.get("score")),
+            prior_rank=prior_rank,
+            delta_score=_delta_score_cell(row.get("delta_score")),
+            confidence=_confidence_cell(row.get("confidence")),
+            delta_confidence=delta_confidence,
+            stance=_stance_cell(row.get("stance")),
+            stance_change=stance_change,
+            news_stance=_news_stance_cell(row.get("news_stance")),
+            coverage=_coverage_cell(row.get("coverage_quality")),
+            stock_articles=_stock_article_count_cell(row.get("stock_articles")),
+            driver=_md_text(row.get("top_driver") or "n/a", table=True),
+            new_badge=new_badge,
+            report=report_cell,
+        )
+    )
+
+
+def _column_guide_lines() -> list[str]:
+    return [
+        "## Column Guide",
+        "",
+        "- `Rank`: rank resets inside each section and uses `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`.",
+        "- `Breakout stance`: normalized final investing view after blending feed, technical, stock-news, and market-overlay evidence.",
+        "  Worst to best: `avoid` -> `fragile watch` -> `mixed watch` -> `constructive watch` -> `constructive bullish`",
+        "- `Confidence`: evidence strength behind the current stance.",
+        "  Worst to best: `low` -> `medium` -> `high`",
+        "- `Bucket`: source-feed setup status.",
+        "  Worst to best: `candidate` -> `entry ready`",
+        "- `Listing`: exchange and country for the current line.",
+        "- `Issuer group`: normalized issuer identity used to expose sibling listings without collapsing them.",
+        "- `News stance`: whether recent company and matched market news support, conflict with, or mix around the setup.",
+        "- `Coverage`: company-specific news quality in the local cache.",
+        "  Worst to best: `none` -> `thin` -> `good` -> `strong`",
+        "- `Prior rank`, `Δ score`, `Δ confidence`, `Stance change`, `New this run`: run-over-run monitoring fields versus the immediately prior committed regional run.",
+    ]
+
+
+def _monitor_region_section_lines(
+    section: dict[str, Any] | None,
+    *,
+    region: str,
+    heading: str | None,
+    report_prefix: str,
+    prior_report_prefix: str | None,
+    top_n: int | None = None,
+) -> list[str]:
+    lines: list[str] = []
+    if heading:
+        lines.extend([heading, ""])
+    if section is None:
+        lines.append(f"No {region} snapshot is available yet.")
+        return lines
+
+    manifest = section.get("manifest", {}) or {}
+    shortlist = section.get("shortlist", {}) or {}
+    analysis_rows = section.get("analysis_rows", []) or []
+    profiles_by_symbol = section.get("profiles_by_symbol", {}) or {}
+    prior_section = section.get("prior_section")
+    prior_manifest = (prior_section or {}).get("manifest", {}) or {}
+
+    rows = _build_monitor_rows(
+        shortlist,
+        analysis_rows,
+        profiles_by_symbol,
+        report_prefix=report_prefix,
+    )
+    dropped_rows = _apply_prior_deltas(
+        rows,
+        prior_section,
+        prior_report_prefix=prior_report_prefix,
+    )
+    shown_rows = _limited_monitor_rows(rows, top_n=top_n)
+
+    lines.extend(
+        [
+            f"- Run ID: `{manifest.get('run_id', 'n/a')}`",
+            f"- Prior regional run: `{prior_manifest.get('run_id', 'n/a')}`",
+            f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
+            f"- Symbols analyzed: `{len(rows)}`",
+            "- Sort mode: sections `Entry Ready Near Trigger -> Entry Ready Extended -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`",
+        ]
+    )
+    if top_n is not None:
+        lines.append(f"- Rows shown: `{len(shown_rows)}` of `{len(rows)}`")
+    lines.append("")
+
+    for section_key, section_label, _ in MONITOR_SECTION_SPECS:
+        section_rows = [row for row in shown_rows if row.get("section_key") == section_key]
+        lines.extend([f"### {section_label}", ""])
+        if not section_rows:
+            if top_n is None:
+                lines.extend([f"No names are currently classified as `{section_label.lower()}`.", ""])
+            else:
+                lines.extend([f"No names from this section landed inside the current top-`{int(max(1, top_n))}` cutoff.", ""])
+            continue
+        lines.extend(_monitor_table_header_lines())
+        for row in section_rows:
+            lines.append(_monitor_row_line(row))
+        lines.append("")
+
+    if prior_section is not None:
+        lines.extend(["### Dropped Since Prior Run", ""])
+        if not dropped_rows:
+            lines.extend(["No names dropped since the prior regional run.", ""])
+        else:
+            for row in dropped_rows:
+                symbol_label = (
+                    _md_link(row.get("symbol") or "n/a", row.get("report_path") or "")
+                    if row.get("report_path")
+                    else _md_text(row.get("symbol") or "n/a")
+                )
+                prior_label = f"{MONITOR_SECTION_SHORT_LABEL.get(row.get('section_key'), row.get('section_key'))} #{row.get('section_rank', 'n/a')}"
+                lines.append(
+                    f"- {symbol_label} - {_md_text(row.get('company_name') or 'Unknown Company')} - prior `{prior_label}`"
+                )
+            lines.append("")
+
+    return lines
+
+
 def render_dashboard(
     manifest: dict[str, Any],
     shortlist: dict[str, Any],
     analysis_rows: list[dict[str, Any]],
     *,
     report_prefix: str,
+    profiles_by_symbol: dict[str, dict[str, Any]] | None = None,
+    prior_section: dict[str, Any] | None = None,
+    prior_report_prefix: str | None = None,
 ) -> str:
     lines = [
-        "# Daily Breakout News Analysis",
+        "# Daily Breakout Monitoring Dashboard",
         "",
-        f"- Run ID: `{manifest.get('run_id')}`",
-        f"- Feed dates: `{', '.join(manifest.get('feed_dates', []))}`",
-        f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
+        "Explicit monitoring view for one regional run.",
         "",
-        "| Rank | Symbol | Distance to entry | Bucket | Stance | Score | Confidence | Report |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
-
-    lookup = {row["symbol"]: row for row in analysis_rows}
-    for item in shortlist.get("symbols", []):
-        symbol = item.get("symbol")
-        report = lookup.get(symbol, {})
-        stance = report.get("breakout_stance", {}) or {}
-        report_name = f"{report_prefix}/{safe_symbol_name(symbol)}.md"
-        lines.append(
-            "| {rank} | {symbol} | {distance} | {bucket} | {stance_label} | {score} | {confidence} | [report]({report_name}) |".format(
-                rank=item.get("display_rank"),
-                symbol=symbol,
-                distance=_distance_to_entry_cell((item.get("metrics") or {}).get("close"), (item.get("metrics") or {}).get("entry_limit")),
-                bucket=_bucket_cell(item.get("selection_bucket")),
-                stance_label=_stance_cell(stance.get("label", "unknown")),
-                score=_score_cell(stance.get("score_0_to_100", "n/a")),
-                confidence=_confidence_cell(stance.get("confidence", "n/a")),
-                report_name=report_name,
-            )
+    lines.extend(
+        _monitor_region_section_lines(
+            {
+                "region": normalize_region(manifest.get("region")),
+                "manifest": manifest,
+                "shortlist": shortlist,
+                "analysis_rows": analysis_rows,
+                "profiles_by_symbol": profiles_by_symbol or {},
+                "prior_section": prior_section,
+            },
+            region=normalize_region(manifest.get("region")) or "run",
+            heading=None,
+            report_prefix=report_prefix,
+            prior_report_prefix=prior_report_prefix,
+            top_n=None,
         )
-
-    if not shortlist.get("symbols"):
-        lines.extend(["", "No shortlist symbols were generated for this run."])
-
+    )
     return "\n".join(lines).strip() + "\n"
 
 
@@ -805,41 +1154,33 @@ def render_best_candidates(
     *,
     report_prefix: str,
     top_n: int = 15,
+    profiles_by_symbol: dict[str, dict[str, Any]] | None = None,
+    prior_section: dict[str, Any] | None = None,
+    prior_report_prefix: str | None = None,
 ) -> str:
-    ranked_items = _ranked_candidate_rows(shortlist, analysis_rows)
-    top_items = ranked_items[: int(max(1, top_n))]
-
     lines = [
-        "# Best Scoring Candidates",
+        "# Best Candidates by Actionability and Score",
         "",
-        f"- Run ID: `{manifest.get('run_id')}`",
-        f"- Feed dates: `{', '.join(manifest.get('feed_dates', []))}`",
-        f"- Table size: `{len(top_items)}`",
+        "Top regional names using the same sectioned monitoring sort as the main dashboard.",
         "",
-        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
-
-    for idx, row in enumerate(top_items, start=1):
-        symbol = row.get("symbol")
-        report_name = f"{report_prefix}/{safe_symbol_name(symbol)}.md"
-        lines.append(
-            "| {rank} | [{symbol}]({report_name}) | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} |".format(
-                rank=idx,
-                symbol=symbol,
-                report_name=report_name,
-                company=_md_text(row.get("company_name") or "Unknown Company", table=True),
-                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
-                bucket=_bucket_cell(row.get("bucket")),
-                score=_score_cell(row.get("score")),
-                confidence=_confidence_cell(row.get("confidence")),
-                stance=_stance_cell(row.get("stance")),
-            )
+    lines.extend(
+        _monitor_region_section_lines(
+            {
+                "region": normalize_region(manifest.get("region")),
+                "manifest": manifest,
+                "shortlist": shortlist,
+                "analysis_rows": analysis_rows,
+                "profiles_by_symbol": profiles_by_symbol or {},
+                "prior_section": prior_section,
+            },
+            region=normalize_region(manifest.get("region")) or "run",
+            heading=None,
+            report_prefix=report_prefix,
+            prior_report_prefix=prior_report_prefix,
+            top_n=top_n,
         )
-
-    if not top_items:
-        lines.extend(["", "No scored candidates were available for this run."])
-
+    )
     return "\n".join(lines).strip() + "\n"
 
 
@@ -849,17 +1190,14 @@ def render_project_readme(
     analysis_rows: list[dict[str, Any]],
     *,
     best_candidates_top_n: int = 15,
+    profiles_by_symbol: dict[str, dict[str, Any]] | None = None,
+    prior_section: dict[str, Any] | None = None,
+    prior_report_prefix: str | None = None,
 ) -> str:
-    top_items = _ranked_candidate_rows(shortlist, analysis_rows)[: int(max(1, best_candidates_top_n))]
-
     lines = [
         "# stock_news_sentiments",
         "",
-        "Auto-generated daily breakout dashboard for the latest committed run.",
-        "",
-        f"- Run ID: `{manifest.get('run_id')}`",
-        f"- Feed dates: `{', '.join(manifest.get('feed_dates', []))}`",
-        f"- Symbols analyzed: `{len(shortlist.get('symbols', []))}`",
+        "Auto-generated breakout monitoring dashboard for the latest committed run.",
         "",
         "Quick links:",
         "- [Best scoring candidates](latest/best_candidates.md)",
@@ -867,45 +1205,25 @@ def render_project_readme(
         "- [Latest detailed analyses](latest/analysis/markdown/)",
         "- [Operational notes](docs/OPERATIONS.md)",
         "",
-        "## Best Scoring Candidates",
-        "",
-        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
-
-    for idx, row in enumerate(top_items, start=1):
-        symbol = row.get("symbol")
-        lines.append(
-            "| {rank} | [{symbol}](latest/analysis/markdown/{file_name}.md) | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} |".format(
-                rank=idx,
-                symbol=symbol,
-                file_name=safe_symbol_name(symbol),
-                company=_md_text(row.get("company_name") or "Unknown Company", table=True),
-                distance=_distance_to_entry_cell(row.get("close"), row.get("entry_limit")),
-                bucket=_bucket_cell(row.get("bucket")),
-                score=_score_cell(row.get("score")),
-                confidence=_confidence_cell(row.get("confidence")),
-                stance=_stance_cell(row.get("stance")),
-            )
-        )
-
-    if not top_items:
-        lines.extend(["", "No scored candidates were available for this run."])
-
     lines.extend(
-        [
-            "",
-            "## Column Guide",
-            "",
-            "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",
-            "  Worst to best: `avoid` -> `fragile watch` -> `mixed watch` -> `constructive watch` -> `constructive bullish`",
-            "- `Confidence`: how much usable evidence supports the current stance.",
-            "  Worst to best: `low` -> `medium` -> `high`",
-            "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
-            "  Worst to best: `candidate` -> `entry ready`",
-        ]
+        _monitor_region_section_lines(
+            {
+                "region": normalize_region(manifest.get("region")),
+                "manifest": manifest,
+                "shortlist": shortlist,
+                "analysis_rows": analysis_rows,
+                "profiles_by_symbol": profiles_by_symbol or {},
+                "prior_section": prior_section,
+            },
+            region=normalize_region(manifest.get("region")) or "run",
+            heading="## Best Candidates by Actionability and Score",
+            report_prefix="latest/analysis/markdown",
+            prior_report_prefix=prior_report_prefix,
+            top_n=best_candidates_top_n,
+        )
     )
-
+    lines.extend(["", *_column_guide_lines()])
     return "\n".join(lines).strip() + "\n"
 
 
@@ -915,21 +1233,29 @@ def render_regional_dashboard(sections: list[dict[str, Any]]) -> str:
     total_symbols = sum(len((section_lookup.get(region) or {}).get("shortlist", {}).get("symbols", [])) for region in REGION_ORDER)
 
     lines = [
-        "# Latest Regional Breakout Dashboard",
+        "# Latest Regional Breakout Monitoring Dashboard",
         "",
         f"- Regions available: `{', '.join(available_regions) or 'none'}`",
         f"- Symbols analyzed: `{total_symbols}`",
     ]
 
     for region in REGION_ORDER:
+        section = section_lookup.get(region)
+        prior_run_id = (((section or {}).get("prior_section") or {}).get("manifest") or {}).get("run_id")
         lines.extend(
             [
                 "",
-                *_dashboard_section_lines(
-                    section_lookup.get(region),
+                *_monitor_region_section_lines(
+                    section,
                     region=region,
+                    heading=f"## {region} Monitoring Dashboard",
                     report_prefix=f"{region.lower()}/analysis/markdown",
-                    heading=f"## {region} Daily Dashboard",
+                    prior_report_prefix=(
+                        f"../artifacts/daily_runs/{prior_run_id}/analysis/markdown"
+                        if prior_run_id
+                        else None
+                    ),
+                    top_n=None,
                 ),
             ]
         )
@@ -942,21 +1268,28 @@ def render_regional_best_candidates(sections: list[dict[str, Any]], *, top_n: in
     available_regions = [region for region in REGION_ORDER if section_lookup.get(region)]
 
     lines = [
-        "# Latest Regional Best Candidates",
+        "# Latest Regional Best Candidates by Actionability and Score",
         "",
         f"- Regions available: `{', '.join(available_regions) or 'none'}`",
         "",
     ]
 
     for region in REGION_ORDER:
+        section = section_lookup.get(region)
+        prior_run_id = (((section or {}).get("prior_section") or {}).get("manifest") or {}).get("run_id")
         lines.extend(
             [
-                *_best_candidate_section_lines(
-                    section_lookup.get(region),
+                *_monitor_region_section_lines(
+                    section,
                     region=region,
+                    heading=f"## {region} Best Candidates by Actionability and Score",
                     report_prefix=f"{region.lower()}/analysis/markdown",
+                    prior_report_prefix=(
+                        f"../artifacts/daily_runs/{prior_run_id}/analysis/markdown"
+                        if prior_run_id
+                        else None
+                    ),
                     top_n=top_n,
-                    heading=f"## {region} Best Scoring Candidates",
                 ),
                 "",
             ]
@@ -980,7 +1313,7 @@ def render_regional_project_readme(sections: list[dict[str, Any]], *, best_candi
     lines = [
         "# stock_news_sentiments",
         "",
-        "Auto-generated daily breakout dashboard for the latest committed regional runs.",
+        "Auto-generated breakout monitoring dashboard for the latest committed regional runs.",
         "",
         f"- Regions available: `{', '.join(available_regions) or 'none'}`",
         f"- Feed dates: `{', '.join(feed_dates) or 'n/a'}`",
@@ -995,38 +1328,25 @@ def render_regional_project_readme(sections: list[dict[str, Any]], *, best_candi
 
     for region in REGION_ORDER:
         section = section_lookup.get(region)
-        readme_report_prefix = (
-            f"latest/{section.get('report_prefix')}"
-            if section and section.get("report_prefix")
-            else f"latest/{region.lower()}/analysis/markdown"
-        )
-        readme_section = dict(section, report_prefix=readme_report_prefix) if section else None
+        prior_run_id = (((section or {}).get("prior_section") or {}).get("manifest") or {}).get("run_id")
         lines.extend(
             [
-                *_best_candidate_section_lines(
-                    readme_section,
+                *_monitor_region_section_lines(
+                    section,
                     region=region,
-                    report_prefix=readme_report_prefix,
+                    heading=f"## {region} Best Candidates by Actionability and Score",
+                    report_prefix=f"latest/{region.lower()}/analysis/markdown",
+                    prior_report_prefix=(
+                        f"artifacts/daily_runs/{prior_run_id}/analysis/markdown"
+                        if prior_run_id
+                        else None
+                    ),
                     top_n=best_candidates_top_n,
-                    heading=f"## {region} Best Scoring Candidates",
                 ),
                 "",
             ]
         )
 
-    lines.extend(
-        [
-            "## Column Guide",
-            "",
-            "- `Breakout stance`: the repo's normalized final investing view for the setup after blending feed/technical evidence with any matched news and macro overlay.",
-            "  Worst to best: `avoid` -> `fragile watch` -> `mixed watch` -> `constructive watch` -> `constructive bullish`",
-            "- `Confidence`: how much usable evidence supports the current stance.",
-            "  Worst to best: `low` -> `medium` -> `high`",
-            "- `Bucket`: where the symbol sits in the shortlist built from the source website feeds.",
-            "  Worst to best: `candidate` -> `entry ready`",
-            "",
-            *_filtered_symbol_lines(section_lookup),
-        ]
-    )
+    lines.extend(["", *_column_guide_lines(), "", *_filtered_symbol_lines(section_lookup)])
 
     return "\n".join(lines).strip() + "\n"

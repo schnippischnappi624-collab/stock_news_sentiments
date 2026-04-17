@@ -125,14 +125,17 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
     summary = read_json(tmp_path / "latest" / "us" / "run_summary.json")
     assert summary["news_summary"]["market_news"]["ok"] is True
     best_candidates = (tmp_path / "latest" / "best_candidates.md").read_text(encoding="utf-8")
-    assert "## EU Best Scoring Candidates" in best_candidates
-    assert "## US Best Scoring Candidates" in best_candidates
-    assert "[SPIR](us/analysis/markdown/SPIR.md)" in best_candidates
+    assert "## EU Best Candidates by Actionability and Score" in best_candidates
+    assert "## US Best Candidates by Actionability and Score" in best_candidates
+    assert "### Entry Ready Near Trigger" in best_candidates
+    assert "Sort mode:" in best_candidates
+    assert "[SPIR](<us/analysis/markdown/SPIR.md>)" in best_candidates
     root_readme = (tmp_path / "README.md").read_text(encoding="utf-8")
-    assert "## EU Best Scoring Candidates" in root_readme
-    assert "## US Best Scoring Candidates" in root_readme
-    assert "[SPIR](latest/us/analysis/markdown/SPIR.md)" in root_readme
-    assert "[NXT](latest/eu/analysis/markdown/NXT.md)" in root_readme
+    assert "## EU Best Candidates by Actionability and Score" in root_readme
+    assert "## US Best Candidates by Actionability and Score" in root_readme
+    assert "## Column Guide" in root_readme
+    assert "[SPIR](<latest/us/analysis/markdown/SPIR.md>)" in root_readme
+    assert "[NXT](<latest/eu/analysis/markdown/NXT.md>)" in root_readme
     assert not (tmp_path / "latest" / "us" / "analysis" / "markdown" / "_badges").exists()
     assert not (tmp_path / "latest" / "eu" / "analysis" / "markdown" / "_badges").exists()
     assert len(list((tmp_path / "artifacts" / "daily_runs").iterdir())) == 2

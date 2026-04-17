@@ -119,6 +119,103 @@ def _load_analysis_reports(analysis_json_dir: Path) -> list[dict[str, Any]]:
     return payloads
 
 
+def _shortlist_symbols(shortlist: dict[str, Any]) -> set[str]:
+    return {str(item.get("symbol")) for item in shortlist.get("symbols", []) if item.get("symbol")}
+
+
+def _load_profiles_by_symbol(symbols: set[str], *, paths: Any) -> dict[str, dict[str, Any]]:
+    profiles: dict[str, dict[str, Any]] = {}
+    for symbol in sorted(symbols):
+        profile_path = paths.company_profiles_dir / f"{safe_symbol_name(symbol)}.json"
+        if not profile_path.exists():
+            continue
+        try:
+            profiles[symbol] = read_json(profile_path)
+        except json.JSONDecodeError:
+            continue
+    return profiles
+
+
+def _load_run_section(run_dir: Path, *, region: str | None = None) -> dict[str, Any] | None:
+    paths = get_paths()
+    layout = _run_layout(run_dir)
+    shortlist_path = layout["shortlist_dir"] / "shortlist.json"
+    if not (layout["source_manifest_path"].exists() and shortlist_path.exists() and layout["analysis_json_dir"].exists()):
+        return None
+
+    manifest = read_json(layout["source_manifest_path"])
+    normalized_region = normalize_region(region) or normalize_region(manifest.get("region"))
+    if not normalized_region:
+        return None
+    if region and normalize_region(manifest.get("region")) != normalized_region:
+        return None
+
+    shortlist = read_json(shortlist_path)
+    analysis_rows = _load_analysis_reports(layout["analysis_json_dir"])
+    return {
+        "region": normalized_region,
+        "manifest": manifest,
+        "shortlist": shortlist,
+        "analysis_rows": analysis_rows,
+        "profiles_by_symbol": _load_profiles_by_symbol(_shortlist_symbols(shortlist), paths=paths),
+    }
+
+
+def _manifest_sort_key(manifest: dict[str, Any]) -> tuple[str, str]:
+    return (
+        str(manifest.get("selected_at_utc") or ""),
+        str(manifest.get("run_id") or ""),
+    )
+
+
+def _regional_run_sections(region: str) -> list[dict[str, Any]]:
+    paths = get_paths()
+    normalized_region = normalize_region(region)
+    if not normalized_region or not paths.daily_runs_dir.exists():
+        return []
+
+    sections: list[dict[str, Any]] = []
+    for run_dir in paths.daily_runs_dir.glob(f"*_{region_slug(normalized_region)}_*"):
+        if not run_dir.is_dir():
+            continue
+        section = _load_run_section(run_dir, region=normalized_region)
+        if section is not None:
+            sections.append(section)
+
+    sections.sort(key=lambda section: _manifest_sort_key(section.get("manifest", {}) or {}), reverse=True)
+    return sections
+
+
+def _prior_regional_section(
+    region: str | None,
+    *,
+    current_run_id: str | None,
+    current_selected_at_utc: str | None,
+) -> dict[str, Any] | None:
+    normalized_region = normalize_region(region)
+    if not normalized_region:
+        return None
+
+    history = _regional_run_sections(normalized_region)
+    if not history:
+        return None
+
+    if current_run_id:
+        for index, section in enumerate(history):
+            manifest = section.get("manifest", {}) or {}
+            if manifest.get("run_id") == current_run_id:
+                return history[index + 1] if index + 1 < len(history) else None
+
+    if current_selected_at_utc:
+        current_key = (str(current_selected_at_utc), str(current_run_id or ""))
+        for section in history:
+            manifest = section.get("manifest", {}) or {}
+            if _manifest_sort_key(manifest) < current_key:
+                return section
+
+    return history[1] if len(history) > 1 else None
+
+
 def _shortlist_item_region(item: dict[str, Any]) -> str | None:
     for row in item.get("source_rows", []) or []:
         region = normalize_region(row.get("_source_region"))
@@ -165,11 +262,20 @@ def _latest_snapshot_sections() -> list[dict[str, Any]]:
         analysis_json_dir = region_dir / "analysis" / "json"
         if not (manifest_path.exists() and shortlist_path.exists() and analysis_json_dir.exists()):
             continue
+        manifest = read_json(manifest_path)
+        shortlist = read_json(shortlist_path)
+        analysis_rows = _load_analysis_reports(analysis_json_dir)
         sections[region] = {
             "region": region,
-            "manifest": read_json(manifest_path),
-            "shortlist": read_json(shortlist_path),
-            "analysis_rows": _load_analysis_reports(analysis_json_dir),
+            "manifest": manifest,
+            "shortlist": shortlist,
+            "analysis_rows": analysis_rows,
+            "profiles_by_symbol": _load_profiles_by_symbol(_shortlist_symbols(shortlist), paths=paths),
+            "prior_section": _prior_regional_section(
+                region,
+                current_run_id=manifest.get("run_id"),
+                current_selected_at_utc=manifest.get("selected_at_utc"),
+            ),
             "report_prefix": f"{region_slug(region)}/analysis/markdown",
         }
 
@@ -192,6 +298,12 @@ def _latest_snapshot_sections() -> list[dict[str, Any]]:
                 "manifest": manifest,
                 "shortlist": shortlist_subset,
                 "analysis_rows": _subset_analysis_rows(analysis_rows, symbols),
+                "profiles_by_symbol": _load_profiles_by_symbol(symbols, paths=paths),
+                "prior_section": _prior_regional_section(
+                    region,
+                    current_run_id=manifest.get("run_id"),
+                    current_selected_at_utc=manifest.get("selected_at_utc"),
+                ),
                 "report_prefix": "analysis/markdown",
             }
 
@@ -214,7 +326,8 @@ def _sync_latest_outputs(run_id: str, *, region: str | None = None) -> None:
     paths = get_paths()
     run_dir = paths.daily_run_dir(run_id)
     layout = _run_layout(run_dir)
-    latest_target_dir = paths.latest_region_dir(region) if normalize_region(region) else paths.latest_dir
+    normalized_region = normalize_region(region)
+    latest_target_dir = paths.latest_region_dir(region) if normalized_region else paths.latest_dir
     latest_target_dir.mkdir(parents=True, exist_ok=True)
 
     for name in ["feeds", "parsed", "shortlist", "analysis"]:
@@ -226,6 +339,52 @@ def _sync_latest_outputs(run_id: str, *, region: str | None = None) -> None:
     shutil.copy2(layout["best_candidates_path"], latest_target_dir / "best_candidates.md")
     shutil.copy2(layout["source_manifest_path"], latest_target_dir / "source_manifest.json")
     shutil.copy2(layout["run_summary_path"], latest_target_dir / "run_summary.json")
+
+    if normalized_region:
+        manifest = read_json(layout["source_manifest_path"])
+        shortlist = read_json(layout["shortlist_dir"] / "shortlist.json")
+        analysis_rows = _load_analysis_reports(layout["analysis_json_dir"])
+        profiles_by_symbol = _load_profiles_by_symbol(_shortlist_symbols(shortlist), paths=paths)
+        prior_section = _prior_regional_section(
+            normalized_region,
+            current_run_id=manifest.get("run_id"),
+            current_selected_at_utc=manifest.get("selected_at_utc"),
+        )
+        prior_run_id = (((prior_section or {}).get("manifest") or {}).get("run_id"))
+        (latest_target_dir / "dashboard.md").write_text(
+            render_dashboard(
+                manifest,
+                shortlist,
+                analysis_rows,
+                report_prefix="analysis/markdown",
+                profiles_by_symbol=profiles_by_symbol,
+                prior_section=prior_section,
+                prior_report_prefix=(
+                    f"../../artifacts/daily_runs/{prior_run_id}/analysis/markdown"
+                    if prior_run_id
+                    else None
+                ),
+            ),
+            encoding="utf-8",
+        )
+        (latest_target_dir / "best_candidates.md").write_text(
+            render_best_candidates(
+                manifest,
+                shortlist,
+                analysis_rows,
+                report_prefix="analysis/markdown",
+                top_n=15,
+                profiles_by_symbol=profiles_by_symbol,
+                prior_section=prior_section,
+                prior_report_prefix=(
+                    f"../../artifacts/daily_runs/{prior_run_id}/analysis/markdown"
+                    if prior_run_id
+                    else None
+                ),
+            ),
+            encoding="utf-8",
+        )
+
     _refresh_latest_surfaces()
 
 
@@ -393,6 +552,7 @@ def run_analysis_step(
     expected_symbols = {str(item.get("symbol")) for item in shortlist.get("symbols", []) if item.get("symbol")}
     _remove_stale_analysis_outputs(layout, expected_symbols)
     eur_rates_context = _load_eur_rates_context(manifest, paths=paths)
+    normalized_region = normalize_region(region) or normalize_region(manifest.get("region"))
     legacy_badges_dir = layout["analysis_markdown_dir"] / "_badges"
     if legacy_badges_dir.exists():
         shutil.rmtree(legacy_badges_dir)
@@ -469,11 +629,21 @@ def run_analysis_step(
         markdown_path.write_text(markdown, encoding="utf-8")
         results.append(report)
 
+    profiles_by_symbol = _load_profiles_by_symbol(expected_symbols, paths=paths)
+    prior_section = _prior_regional_section(
+        normalized_region,
+        current_run_id=manifest.get("run_id"),
+        current_selected_at_utc=manifest.get("selected_at_utc"),
+    )
+    prior_run_id = (((prior_section or {}).get("manifest") or {}).get("run_id"))
     dashboard = render_dashboard(
         manifest,
         shortlist,
         results,
         report_prefix="analysis/markdown",
+        profiles_by_symbol=profiles_by_symbol,
+        prior_section=prior_section,
+        prior_report_prefix=(f"../{prior_run_id}/analysis/markdown" if prior_run_id else None),
     )
     layout["dashboard_path"].write_text(dashboard, encoding="utf-8")
     best_candidates = render_best_candidates(
@@ -482,6 +652,9 @@ def run_analysis_step(
         results,
         report_prefix="analysis/markdown",
         top_n=15,
+        profiles_by_symbol=profiles_by_symbol,
+        prior_section=prior_section,
+        prior_report_prefix=(f"../{prior_run_id}/analysis/markdown" if prior_run_id else None),
     )
     layout["best_candidates_path"].write_text(best_candidates, encoding="utf-8")
 
