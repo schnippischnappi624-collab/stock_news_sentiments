@@ -424,7 +424,7 @@ def _stance_cell(stance: Any) -> str:
 
 MONITOR_SECTION_SPECS: tuple[tuple[str, str, str], ...] = (
     ("near_trigger", "Entry Ready Near Trigger", "near trigger"),
-    ("extended", "Entry Ready Extended", "extended"),
+    ("extended", "Entry Ready But Already Spiked", "already spiked"),
     ("candidate", "Candidates", "candidate"),
 )
 
@@ -960,8 +960,8 @@ def render_analysis_markdown(
 
 def _monitor_table_header_lines() -> list[str]:
     return [
-        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Prior rank | Confidence | Δ confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Prior rank | Confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
 
@@ -969,18 +969,13 @@ def _monitor_row_line(row: dict[str, Any]) -> str:
     report_path = str(row.get("report_path") or "").strip()
     symbol_cell = _md_link(row.get("symbol") or "n/a", report_path) if report_path else _md_text(row.get("symbol") or "n/a", table=True)
     prior_rank = _new_badge() if row.get("is_new") else _code_html(row.get("prior_rank_label") or "n/a")
-    delta_confidence = (
-        _new_badge()
-        if row.get("delta_confidence_label") == "new"
-        else _change_cell(str(row.get("delta_confidence_label") or "n/a"), improved=row.get("delta_confidence_improved"))
-    )
     stance_change = (
         _new_badge()
         if row.get("stance_change_label") == "new"
         else _change_cell(str(row.get("stance_change_label") or "n/a"), improved=row.get("stance_change_improved"))
     )
     return (
-        "| {rank} | {symbol} | {company} | {distance} | {bucket} | {score} | {prior_rank} | {confidence} | {delta_confidence} | {stance} | {stance_change} | {news_stance} | {coverage} | {stock_articles} |".format(
+        "| {rank} | {symbol} | {company} | {distance} | {bucket} | {score} | {prior_rank} | {confidence} | {stance} | {stance_change} | {news_stance} | {coverage} | {stock_articles} |".format(
             rank=row.get("section_rank", "n/a"),
             symbol=symbol_cell,
             company=_md_text(row.get("company_name") or "Unknown Company", table=True),
@@ -989,7 +984,6 @@ def _monitor_row_line(row: dict[str, Any]) -> str:
             score=_score_cell(row.get("score")),
             prior_rank=prior_rank,
             confidence=_confidence_cell(row.get("confidence")),
-            delta_confidence=delta_confidence,
             stance=_stance_cell(row.get("stance")),
             stance_change=stance_change,
             news_stance=_news_stance_cell(row.get("news_stance")),
@@ -1013,7 +1007,7 @@ def _column_guide_lines() -> list[str]:
         "- `News stance`: whether recent company and matched market news support, conflict with, or mix around the setup.",
         "- `Coverage`: company-specific news quality in the local cache.",
         "  Worst to best: `none` -> `thin` -> `good` -> `strong`",
-        "- `Prior rank`, `Δ confidence`, `Stance change`: run-over-run monitoring fields versus the immediately prior committed regional run.",
+        "- `Prior rank`, `Stance change`: run-over-run monitoring fields versus the immediately prior committed regional run.",
     ]
 
 
@@ -1046,7 +1040,7 @@ def _monitor_region_section_lines(
         profiles_by_symbol,
         report_prefix=report_prefix,
     )
-    dropped_rows = _apply_prior_deltas(
+    _apply_prior_deltas(
         rows,
         prior_section,
         prior_report_prefix=prior_report_prefix,
@@ -1059,7 +1053,7 @@ def _monitor_region_section_lines(
             f"- Prior regional run: `{prior_manifest.get('run_id', 'n/a')}`",
             f"- Feed dates: `{', '.join(manifest.get('feed_dates', [])) or 'n/a'}`",
             f"- Symbols analyzed: `{len(rows)}`",
-            "- Sort mode: sections `Entry Ready Near Trigger -> Entry Ready Extended -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`",
+            "- Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`",
         ]
     )
     if top_n is not None:
@@ -1079,23 +1073,6 @@ def _monitor_region_section_lines(
         for row in section_rows:
             lines.append(_monitor_row_line(row))
         lines.append("")
-
-    if prior_section is not None:
-        lines.extend(["### Dropped Since Prior Run", ""])
-        if not dropped_rows:
-            lines.extend(["No names dropped since the prior regional run.", ""])
-        else:
-            for row in dropped_rows:
-                symbol_label = (
-                    _md_link(row.get("symbol") or "n/a", row.get("report_path") or "")
-                    if row.get("report_path")
-                    else _md_text(row.get("symbol") or "n/a")
-                )
-                prior_label = f"{MONITOR_SECTION_SHORT_LABEL.get(row.get('section_key'), row.get('section_key'))} #{row.get('section_rank', 'n/a')}"
-                lines.append(
-                    f"- {symbol_label} - {_md_text(row.get('company_name') or 'Unknown Company')} - prior `{prior_label}`"
-                )
-            lines.append("")
 
     return lines
 
