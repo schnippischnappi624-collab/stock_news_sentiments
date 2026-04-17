@@ -73,12 +73,23 @@ def test_daily_run_pipeline_with_fixtures(monkeypatch, tmp_path: Path) -> None:
     def fake_update_company_profiles(*args, **kwargs) -> dict:
         return {"ok": True, "symbols_total": 4, "profiles_fetched": 4, "profiles_skipped": 0, "profiles_errors": 0}
 
+    def fake_ensure_investing_quote_urls(*args, **kwargs) -> dict:
+        return {
+            "ok": True,
+            "cache_hits": 0,
+            "resolved_with_codex": 0,
+            "resolved_urls": {},
+            "unresolved_symbols": [],
+            "lookup_path": str(tmp_path / "artifacts" / "maintenance" / "investing_quote_links.json"),
+        }
+
     monkeypatch.setattr(pipeline, "discover_latest_feeds", fake_discover)
     monkeypatch.setattr(pipeline, "download_feed_text", fake_download)
     monkeypatch.setattr(pipeline, "_load_eur_rates_context", lambda manifest, paths: {})
     monkeypatch.setattr(pipeline, "update_news_history", fake_update_news_history)
     monkeypatch.setattr(pipeline, "update_market_news_history", fake_update_market_news_history)
     monkeypatch.setattr(pipeline, "update_company_profiles", fake_update_company_profiles)
+    monkeypatch.setattr(pipeline, "ensure_investing_quote_urls", fake_ensure_investing_quote_urls)
 
     rc_eu = pipeline.daily_run_command(
         base_url="https://stock.sdc-fried.de/",

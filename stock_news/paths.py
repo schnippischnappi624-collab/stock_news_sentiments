@@ -106,6 +106,10 @@ class Paths:
     def active_manifest_path(self) -> Path:
         return self.maintenance_dir / "active_manifest.json"
 
+    @property
+    def investing_quote_links_path(self) -> Path:
+        return self.maintenance_dir / "investing_quote_links.json"
+
     def last_manifest_path_for_region(self, region: str | None = None) -> Path:
         if not region:
             return self.last_manifest_path

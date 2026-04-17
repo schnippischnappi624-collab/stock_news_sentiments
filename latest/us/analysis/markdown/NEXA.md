@@ -1,6 +1,6 @@
 # NEXA - Nexa Resources SA
 
-- Quote: [Investing.com (NEXA)](<https://de.investing.com/search/?q=NEXA%20Nexa%20Resources%20SA>)
+- Quote: [Investing.com (NEXA)](<https://de.investing.com/equities/nexa-resources>)
 
 |  |  |
 | --- | --- |

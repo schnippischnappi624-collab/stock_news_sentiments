@@ -63,7 +63,14 @@ def _md_link(label: Any, url: str) -> str:
 
 def _investing_quote_symbol(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
     profile = ((news_context or {}).get("company_profile") or {}) if isinstance(news_context, dict) else {}
-    for candidate in (item.get("symbol"), profile.get("requested_symbol"), profile.get("query_symbol"), profile.get("symbol")):
+    quote_links = ((news_context or {}).get("quote_links") or {}) if isinstance(news_context, dict) else {}
+    for candidate in (
+        quote_links.get("investing_symbol"),
+        item.get("symbol"),
+        profile.get("requested_symbol"),
+        profile.get("query_symbol"),
+        profile.get("symbol"),
+    ):
         value = str(candidate or "").strip()
         if value:
             return value
@@ -71,6 +78,10 @@ def _investing_quote_symbol(item: dict[str, Any], news_context: dict[str, Any] |
 
 
 def _investing_quote_url(item: dict[str, Any], news_context: dict[str, Any] | None = None) -> str | None:
+    quote_links = ((news_context or {}).get("quote_links") or {}) if isinstance(news_context, dict) else {}
+    resolved_url = str(quote_links.get("investing_url") or "").strip()
+    if resolved_url:
+        return resolved_url
     symbol = _investing_quote_symbol(item, news_context)
     company_name = " ".join(str(item.get("company_name") or "").split()).strip()
     query_parts = [part for part in (symbol, company_name) if part]

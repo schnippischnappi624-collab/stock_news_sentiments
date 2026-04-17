@@ -1,6 +1,6 @@
 # MLP - MLP SE
 
-- Quote: [Investing.com (MLP)](<https://de.investing.com/search/?q=MLP%20MLP%20SE>)
+- Quote: [Investing.com (MLP)](<https://de.investing.com/equities/mlp-exch>)
 
 |  |  |
 | --- | --- |

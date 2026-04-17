@@ -18,6 +18,7 @@ from stock_news.analysis import (
 from stock_news.feed_discovery import discover_latest_feeds, download_feed_text
 from stock_news.feed_parser import parse_feed_text
 from stock_news.fx import load_or_update_ecb_rates, select_eur_rates
+from stock_news.investing_links import ensure_investing_quote_urls
 from stock_news.models import FeedFile
 from stock_news.news import load_news_context, update_company_profiles, update_market_news_history, update_news_history
 from stock_news.paths import get_paths
@@ -545,6 +546,7 @@ def run_analysis_step(
 
     full_schema_path = paths.schemas_dir / "breakout_analysis.schema.json"
     summary_schema_path = paths.schemas_dir / "breakout_summary.schema.json"
+    investing_links_schema_path = paths.schemas_dir / "investing_quote_links.schema.json"
     analysis_mode = str(analysis_mode or "hybrid").strip().lower()
     if analysis_mode not in {"python", "hybrid", "codex-full"}:
         analysis_mode = "hybrid"
@@ -553,6 +555,15 @@ def run_analysis_step(
     _remove_stale_analysis_outputs(layout, expected_symbols)
     eur_rates_context = _load_eur_rates_context(manifest, paths=paths)
     normalized_region = normalize_region(region) or normalize_region(manifest.get("region"))
+    profiles_by_symbol = _load_profiles_by_symbol(expected_symbols, paths=paths)
+    investing_quote_summary = ensure_investing_quote_urls(
+        shortlist.get("symbols", []) or [],
+        profiles_by_symbol=profiles_by_symbol,
+        lookup_path=paths.investing_quote_links_path,
+        schema_path=investing_links_schema_path,
+        repo_root=paths.root,
+    )
+    resolved_investing_urls = investing_quote_summary.get("resolved_urls", {}) or {}
     legacy_badges_dir = layout["analysis_markdown_dir"] / "_badges"
     if legacy_badges_dir.exists():
         shutil.rmtree(legacy_badges_dir)
@@ -572,6 +583,12 @@ def run_analysis_step(
             profiles_dir=paths.company_profiles_dir,
             max_articles=max_news,
         )
+        resolved_quote_url = str(resolved_investing_urls.get(symbol) or "").strip()
+        if resolved_quote_url:
+            quote_links = dict(news_context.get("quote_links") or {})
+            quote_links["investing_url"] = resolved_quote_url
+            quote_links["investing_symbol"] = symbol
+            news_context["quote_links"] = quote_links
         report_json_path = layout["analysis_json_dir"] / analysis_report_name(symbol)
         evidence_path = layout["analysis_evidence_dir"] / analysis_report_name(symbol)
         codex_path = layout["analysis_codex_dir"] / analysis_report_name(symbol)
@@ -629,7 +646,6 @@ def run_analysis_step(
         markdown_path.write_text(markdown, encoding="utf-8")
         results.append(report)
 
-    profiles_by_symbol = _load_profiles_by_symbol(expected_symbols, paths=paths)
     prior_section = _prior_regional_section(
         normalized_region,
         current_run_id=manifest.get("run_id"),
@@ -665,6 +681,12 @@ def run_analysis_step(
         "symbols_total": len(shortlist.get("symbols", [])),
         "reports_written": len(results),
         "reports_failed": sum(1 for report in results if report.get("analysis_error")),
+        "investing_quote_links": {
+            "cache_hits": investing_quote_summary.get("cache_hits", 0),
+            "resolved_with_codex": investing_quote_summary.get("resolved_with_codex", 0),
+            "unresolved_symbols": investing_quote_summary.get("unresolved_symbols", []),
+            "lookup_path": investing_quote_summary.get("lookup_path"),
+        },
         "generated_at_utc": _now_utc(),
     }
     write_json(layout["analysis_dir"] / "analysis_summary.json", summary)

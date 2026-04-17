@@ -1,6 +1,6 @@
 # RVMD - Revolution Medicines Inc
 
-- Quote: [Investing.com (RVMD)](<https://de.investing.com/search/?q=RVMD%20Revolution%20Medicines%20Inc>)
+- Quote: [Investing.com (RVMD)](<https://de.investing.com/equities/revolution-medicines-inc>)
 
 |  |  |
 | --- | --- |

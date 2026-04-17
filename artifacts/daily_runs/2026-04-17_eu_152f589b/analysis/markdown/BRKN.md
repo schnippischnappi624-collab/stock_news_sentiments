@@ -1,6 +1,6 @@
 # BRKN - Burkhalter Holding AG
 
-- Quote: [Investing.com (BRKN)](<https://de.investing.com/search/?q=BRKN%20Burkhalter%20Holding%20AG>)
+- Quote: [Investing.com (BRKN)](<https://de.investing.com/equities/burkhalter-holding-ag>)
 
 |  |  |
 | --- | --- |

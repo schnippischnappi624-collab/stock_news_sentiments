@@ -1,0 +1,96 @@
+{
+  "entries": {
+    "EU|AS|CMCOM|cm com nv": {
+      "company_name": "CM.com NV",
+      "country": "Netherlands",
+      "exchange_code": "AS",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:32:31.582047+00:00",
+      "resolved_url": "https://de.investing.com/equities/cm-com",
+      "symbol": "CMCOM"
+    },
+    "EU|AS|FAST|fastned b v": {
+      "company_name": "Fastned B.V.",
+      "country": "Netherlands",
+      "exchange_code": "AS",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:32:07.737288+00:00",
+      "resolved_url": "https://de.investing.com/equities/fastned-bv",
+      "symbol": "FAST"
+    },
+    "EU|AS|HYDRA|hydratec industries nv": {
+      "company_name": "Hydratec Industries NV",
+      "country": "Netherlands",
+      "exchange_code": "AS",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:29:19.443681+00:00",
+      "resolved_url": "https://de.investing.com/equities/hydratec-industries",
+      "symbol": "HYDRA"
+    },
+    "EU|MC|OPTS|optare solutions s a": {
+      "company_name": "Optare Solutions, S.A.",
+      "country": "Spain",
+      "exchange_code": "MC",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:34:14.150824+00:00",
+      "resolved_url": "https://de.investing.com/equities/optare-solutions",
+      "symbol": "OPTS"
+    },
+    "EU|PA|GLO|gl events sa": {
+      "company_name": "GL Events SA",
+      "country": "France",
+      "exchange_code": "PA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:30:18.278017+00:00",
+      "resolved_url": "https://de.investing.com/equities/gl-events",
+      "symbol": "GLO"
+    },
+    "EU|SW|BRKN|burkhalter holding ag": {
+      "company_name": "Burkhalter Holding AG",
+      "country": "Switzerland",
+      "exchange_code": "SW",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:20:55.827146+00:00",
+      "resolved_url": "https://de.investing.com/equities/burkhalter-holding-ag",
+      "symbol": "BRKN"
+    },
+    "EU|XETRA|MLP|mlp se": {
+      "company_name": "MLP SE",
+      "country": "Germany",
+      "exchange_code": "XETRA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:25:57.767837+00:00",
+      "resolved_url": "https://de.investing.com/equities/mlp-exch",
+      "symbol": "MLP"
+    },
+    "US|US|NEXA|nexa resources sa": {
+      "company_name": "Nexa Resources SA",
+      "country": "USA",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T08:25:57.767871+00:00",
+      "resolved_url": "https://de.investing.com/equities/nexa-resources",
+      "symbol": "NEXA"
+    },
+    "US|US|RVMD|revolution medicines inc": {
+      "company_name": "Revolution Medicines Inc",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T08:25:57.767887+00:00",
+      "resolved_url": "https://de.investing.com/equities/revolution-medicines-inc",
+      "symbol": "RVMD"
+    }
+  },
+  "updated_at_utc": "2026-04-17T08:34:14.150842+00:00",
+  "version": 1
+}

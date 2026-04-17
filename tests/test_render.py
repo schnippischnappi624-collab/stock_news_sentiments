@@ -61,7 +61,13 @@ def test_render_analysis_markdown_includes_sections() -> None:
         report,
         item,
         eur_rates_context={"rate_date": "2026-04-11", "rates": {"EUR": 1.0, "USD": 2.0}},
-        news_context={"company_profile": {"query_symbol": "SPIR"}},
+        news_context={
+            "company_profile": {"query_symbol": "SPIR"},
+            "quote_links": {
+                "investing_symbol": "SPIR",
+                "investing_url": "https://de.investing.com/equities/spire-global-inc",
+            },
+        },
     )
 
     assert "# SPIR - Spire Global Inc" in markdown
@@ -82,7 +88,7 @@ def test_render_analysis_markdown_includes_sections() -> None:
     assert "| **Entry limit** | `20.50 USD (10.25 EUR)` |" in markdown
     assert r"| **Distance to entry limit** | $\color{#cf222e}{\texttt{1.06 USD (0.53 EUR) / +5.17\%}}$ |" in markdown
     assert "| **Initial stop** | `17.83 USD (8.91 EUR)` |" in markdown
-    assert "- Quote: [Investing.com (SPIR)](<https://de.investing.com/search/?q=SPIR%20Spire%20Global%20Inc>)" in markdown
+    assert "- Quote: [Investing.com (SPIR)](<https://de.investing.com/equities/spire-global-inc>)" in markdown
     assert "[&#36;14.00 Per Share - Example](<https://example.com>) - 2026-04-11" in markdown
 
 
