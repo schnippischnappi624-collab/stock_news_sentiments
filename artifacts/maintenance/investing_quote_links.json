@@ -30,6 +30,16 @@
       "resolved_url": "https://de.investing.com/equities/hydratec-industries",
       "symbol": "HYDRA"
     },
+    "EU|CO|DFDS|dfds a s": {
+      "company_name": "DFDS A/S",
+      "country": "Denmark",
+      "exchange_code": "CO",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T08:34:35.737003+00:00",
+      "resolved_url": "https://de.investing.com/equities/dfds",
+      "symbol": "DFDS"
+    },
     "EU|MC|OPTS|optare solutions s a": {
       "company_name": "Optare Solutions, S.A.",
       "country": "Spain",
@@ -91,6 +101,6 @@
       "symbol": "RVMD"
     }
   },
-  "updated_at_utc": "2026-04-17T08:34:14.150842+00:00",
+  "updated_at_utc": "2026-04-17T08:34:35.737025+00:00",
   "version": 1
 }
