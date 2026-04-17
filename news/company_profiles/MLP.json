@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Asset Management",
+  "long_name": "MLP SE",
+  "provider": "yfinance",
+  "query_symbol": "MLP.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MLP",
+  "sector": "Financial Services",
+  "short_name": "MLP SE                        I",
+  "symbol": "MLP.DE"
+}

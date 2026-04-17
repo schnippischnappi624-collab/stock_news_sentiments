@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Biotechnology",
+  "long_name": "Zelluna ASA",
+  "provider": "yfinance",
+  "query_symbol": "ZLNA.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ZLNA",
+  "sector": "Healthcare",
+  "short_name": "ZELLUNA",
+  "symbol": "ZLNA.OL"
+}

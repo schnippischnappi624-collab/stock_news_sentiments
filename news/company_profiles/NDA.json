@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Metal Fabrication",
+  "long_name": "Aurubis AG",
+  "provider": "yfinance",
+  "query_symbol": "NDA.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NDA",
+  "sector": "Industrials",
+  "short_name": "Aurubis AG                    I",
+  "symbol": "NDA.DE"
+}

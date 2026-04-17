@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Steel",
+  "long_name": "SSAB AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "SSAB-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SSAB-B",
+  "sector": "Basic Materials",
+  "short_name": "SSAB AB ser. B",
+  "symbol": "SSAB-B.ST"
+}

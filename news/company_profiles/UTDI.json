@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Telecom Services",
+  "long_name": "United Internet AG",
+  "provider": "yfinance",
+  "query_symbol": "UTDI.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "UTDI",
+  "sector": "Communication Services",
+  "short_name": "UNITED INTERNET AG            N",
+  "symbol": "UTDI.DE"
+}

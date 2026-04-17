@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Publishing",
+  "long_name": "Storytel AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "STORY-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "STORY-B",
+  "sector": "Communication Services",
+  "short_name": "Storytel AB ser. B",
+  "symbol": "STORY-B.ST"
+}

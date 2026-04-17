@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Specialty Industrial Machinery",
+  "long_name": "LPKF Laser & Electronics SE",
+  "provider": "yfinance",
+  "query_symbol": "LPK.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "LPK",
+  "sector": "Industrials",
+  "short_name": "LPKF Laser & Electronics SE   I",
+  "symbol": "LPK.DE"
+}

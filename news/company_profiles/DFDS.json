@@ -1,0 +1,14 @@
+{
+  "country": "Denmark",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Marine Shipping",
+  "long_name": "DFDS A/S",
+  "provider": "yfinance",
+  "query_symbol": "DFDS.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "DFDS",
+  "sector": "Industrials",
+  "short_name": "DFDS A/S",
+  "symbol": "DFDS.CO"
+}

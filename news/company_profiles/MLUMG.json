@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Staffing & Employment Services",
+  "long_name": "Umalis Group",
+  "provider": "yfinance",
+  "query_symbol": "MLUMG.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MLUMG",
+  "sector": "Industrials",
+  "short_name": "UMALIS GROUP",
+  "symbol": "MLUMG.PA"
+}

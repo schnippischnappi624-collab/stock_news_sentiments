@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Packaged Foods",
+  "long_name": "Raisio plc",
+  "provider": "yfinance",
+  "query_symbol": "RAIKV.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RAIKV",
+  "sector": "Consumer Defensive",
+  "short_name": "Raisio Plc K",
+  "symbol": "RAIKV.HE"
+}

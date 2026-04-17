@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Oil & Gas Equipment & Services",
+  "long_name": "Aker Solutions ASA",
+  "provider": "yfinance",
+  "query_symbol": "AKSO.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AKSO",
+  "sector": "Energy",
+  "short_name": "AKER SOLUTIONS",
+  "symbol": "AKSO.OL"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Aerospace & Defense",
+  "long_name": "OHB SE",
+  "provider": "yfinance",
+  "query_symbol": "OHB.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "OHB",
+  "sector": "Industrials",
+  "short_name": "OHB SE                        I",
+  "symbol": "OHB.DE"
+}

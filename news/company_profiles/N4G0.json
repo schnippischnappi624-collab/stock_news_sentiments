@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-17T04:01:01.171117+00:00",
+  "industry": "Capital Markets",
+  "long_name": "The NAGA Group AG",
+  "provider": "yfinance",
+  "query_symbol": "N4G0.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "N4G0",
+  "sector": "Financial Services",
+  "short_name": "The Naga Group AG             N",
+  "symbol": "N4G0.DE"
+}
