@@ -555,6 +555,21 @@ def _coverage_cell(quality: Any) -> str:
     return _colorize(value, color=_coverage_color(value))
 
 
+def _coverage_with_articles_cell(quality: Any, stock_articles: Any) -> str:
+    quality_value = str(quality or "n/a").strip().lower() or "n/a"
+    articles_value = stock_articles
+    if articles_value in {None, ""}:
+        label = quality_value
+    else:
+        numeric = _float_or_none(articles_value)
+        if numeric is not None and float(numeric).is_integer():
+            articles_label = str(int(numeric))
+        else:
+            articles_label = str(articles_value)
+        label = f"{quality_value}({articles_label})"
+    return _colorize(label, color=_coverage_color(quality_value))
+
+
 def _news_stance_color(stance: Any) -> str:
     lookup = {
         "supportive": "#1a7f37",
@@ -1022,35 +1037,26 @@ def render_analysis_markdown(
 
 def _monitor_table_header_lines() -> list[str]:
     return [
-        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Prior rank | Confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
 
 def _monitor_row_line(row: dict[str, Any]) -> str:
     report_path = str(row.get("report_path") or "").strip()
     symbol_cell = _md_link(row.get("symbol") or "n/a", report_path) if report_path else _md_text(row.get("symbol") or "n/a", table=True)
-    prior_rank = _new_badge() if row.get("is_new") else _code_html(row.get("prior_rank_label") or "n/a")
-    stance_change = (
-        _new_badge()
-        if row.get("stance_change_label") == "new"
-        else _change_cell(str(row.get("stance_change_label") or "n/a"), improved=row.get("stance_change_improved"))
-    )
     return (
-        "| {rank} | {symbol} | {company} | {distance} | {bucket} | {score} | {prior_rank} | {confidence} | {stance} | {stance_change} | {news_stance} | {coverage} | {stock_articles} |".format(
+        "| {rank} | {symbol} | {company} | {distance} | {bucket} | {score} | {confidence} | {stance} | {news_stance} | {coverage} |".format(
             rank=row.get("section_rank", "n/a"),
             symbol=symbol_cell,
             company=_md_text(row.get("company_name") or "Unknown Company", table=True),
             distance=row.get("distance_cell") or "n/a",
             bucket=_bucket_cell(row.get("bucket")),
             score=_score_cell(row.get("score")),
-            prior_rank=prior_rank,
             confidence=_confidence_cell(row.get("confidence")),
             stance=_stance_cell(row.get("stance")),
-            stance_change=stance_change,
             news_stance=_news_stance_cell(row.get("news_stance")),
-            coverage=_coverage_cell(row.get("coverage_quality")),
-            stock_articles=_stock_article_count_cell(row.get("stock_articles")),
+            coverage=_coverage_with_articles_cell(row.get("coverage_quality"), row.get("stock_articles")),
         )
     )
 
@@ -1067,9 +1073,8 @@ def _column_guide_lines() -> list[str]:
         "- `Bucket`: source-feed setup status.",
         "  Worst to best: `candidate` -> `entry ready`",
         "- `News stance`: whether recent company and matched market news support, conflict with, or mix around the setup.",
-        "- `Coverage`: company-specific news quality in the local cache.",
+        "- `Coverage`: company-specific news quality in the local cache, with stock-article count in brackets such as `strong(15)`.",
         "  Worst to best: `none` -> `thin` -> `good` -> `strong`",
-        "- `Prior rank`, `Stance change`: run-over-run monitoring fields versus the immediately prior committed regional run.",
     ]
 
 

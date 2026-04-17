@@ -161,7 +161,7 @@ def test_render_dashboard_uses_sectioned_score_first_ranking() -> None:
     assert "### Entry Ready But Already Spiked" in markdown
     assert "### Candidates" in markdown
     assert "near-trigger cutoff = `5%`" in markdown
-    assert "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Prior rank | Confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles |" in markdown
+    assert "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |" in markdown
     assert "Top catalyst / headwind" not in markdown
     assert "New this run" not in markdown
     assert "Report |" not in markdown
@@ -169,6 +169,8 @@ def test_render_dashboard_uses_sectioned_score_first_ranking() -> None:
     assert "Issuer group |" not in markdown
     assert "Δ score" not in markdown
     assert "Δ confidence" not in markdown
+    assert "Prior rank" not in markdown
+    assert "Stance change" not in markdown
     assert markdown.index("[NEARA](<analysis/markdown/NEARA.md>)") < markdown.index("[NEARB](<analysis/markdown/NEARB.md>)")
     assert markdown.index("### Entry Ready But Already Spiked") < markdown.index("[LATE](<analysis/markdown/LATE.md>)")
     assert markdown.index("### Candidates") < markdown.index("[CAND](<analysis/markdown/CAND.md>)")
@@ -340,11 +342,13 @@ def test_render_regional_project_readme_has_monitoring_sections_and_deltas() -> 
     assert "Report |" not in markdown
     assert "Δ score" not in markdown
     assert "Δ confidence" not in markdown
+    assert "Prior rank" not in markdown
+    assert "Stance change" not in markdown
     assert "[RAW](<latest/eu/analysis/markdown/RAW.md>)" in markdown
     assert "[RBI](<latest/eu/analysis/markdown/RBI.md>)" in markdown
     assert "[SPIR](<latest/us/analysis/markdown/SPIR.md>)" in markdown
-    assert "`near trigger #1`" in markdown
-    assert "mixed watch -> constructive bullish" in markdown
+    assert r"$\color{#1a7f37}{\textsf{strong(9)}}$" in markdown
+    assert r"$\color{#9a6700}{\textsf{thin(1)}}$" in markdown
     assert "Dropped Since Prior Run" not in markdown
     assert "Distance to entry" in markdown
     assert r"$\color{#1a7f37}{\textsf{entry ready}}$" in markdown
