@@ -90,3 +90,33 @@ def test_ensure_investing_quote_urls_resolves_missing_and_updates_lookup(monkeyp
     assert summary["resolved_with_codex"] == 1
     assert summary["resolved_urls"]["BRKN"] == "https://de.investing.com/equities/burkhalter-holding-ag"
     assert payload["entries"]["EU|SW|BRKN|burkhalter holding ag"]["resolved_url"] == "https://de.investing.com/equities/burkhalter-holding-ag"
+
+
+def test_build_request_prefers_profile_name_and_keeps_aliases() -> None:
+    request = investing_links._build_request(
+        {
+            "symbol": "JBHT",
+            "company_name": "JB Hunt Transport Services Inc",
+            "exchange_code": "NASDAQ",
+            "country": "United States",
+            "source_rows": [{"_source_region": "US"}],
+        },
+        {
+            "long_name": "J.B. Hunt Transport Services, Inc.",
+            "short_name": "J.B. Hunt",
+            "country": "United States",
+        },
+    )
+
+    assert request["company_name"] == "J.B. Hunt Transport Services, Inc."
+    assert request["aliases"] == [
+        "J.B. Hunt Transport Services, Inc.",
+        "J.B. Hunt",
+        "JB Hunt Transport Services Inc",
+    ]
+
+
+def test_canonical_investing_quote_url_accepts_www_domain() -> None:
+    assert investing_links._canonical_investing_quote_url("https://www.investing.com/equities/j.b.-hunt-transpo") == (
+        "https://de.investing.com/equities/j.b.-hunt-transpo"
+    )

@@ -18,19 +18,8 @@
     ]
   },
   "investing_technical": {
-    "resolved_symbols": 0,
-    "unresolved_symbols": [
-      "ALB-PA",
-      "AMLX",
-      "ARCB",
-      "AVNS",
-      "AXGN",
-      "BK",
-      "JBHT",
-      "NN",
-      "TAL",
-      "VSH"
-    ]
+    "resolved_symbols": 10,
+    "unresolved_symbols": []
   },
   "ok": true,
   "reports_failed": 0,

@@ -556,6 +556,15 @@
       "vol_anom": 1.8917577129177
     }
   },
+  "investing_technical": {
+    "moving_averages": "Strong Sell",
+    "overview": "Strong Sell",
+    "provider": "investing.com",
+    "technical_indicators": "Strong Sell",
+    "technical_page_url": "https://de.investing.com/equities/amylyx-pharmaceuticals-technical",
+    "timeframe": "1h",
+    "timeframe_label": "St\u00fcndlich"
+  },
   "market_overlay": {
     "adverse_effects": 0,
     "effective_adverse_effects": 0,

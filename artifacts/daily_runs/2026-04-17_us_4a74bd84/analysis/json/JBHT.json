@@ -805,6 +805,16 @@
       "vol_anom": 2.75384455189809
     }
   },
+  "investing_technical": {
+    "moving_averages": "Neutral",
+    "overview": "Sell",
+    "provider": "investing.com",
+    "resolved_at_utc": "2026-04-17T09:44:51.668495+00:00",
+    "technical_indicators": "Strong Sell",
+    "technical_page_url": "https://de.investing.com/equities/j.b.-hunt-transpo-technical",
+    "timeframe": "1h",
+    "timeframe_label": "St\u00fcndlich"
+  },
   "market_overlay": {
     "adverse_effects": 9,
     "effective_adverse_effects": 9,

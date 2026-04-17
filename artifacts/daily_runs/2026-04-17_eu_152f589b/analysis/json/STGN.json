@@ -373,6 +373,15 @@
       "vol_anom": 2.42841429230387
     }
   },
+  "investing_technical": {
+    "moving_averages": "Strong Buy",
+    "overview": "Strong Buy",
+    "provider": "investing.com",
+    "technical_indicators": "Buy",
+    "technical_page_url": "https://de.investing.com/equities/starrag-group-holding-ag-technical",
+    "timeframe": "1h",
+    "timeframe_label": "St\u00fcndlich"
+  },
   "market_overlay": {
     "adverse_effects": 0,
     "effective_adverse_effects": 0,

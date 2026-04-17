@@ -14,29 +14,15 @@
     ]
   },
   "investing_technical": {
-    "resolved_symbols": 3,
+    "resolved_symbols": 17,
     "unresolved_symbols": [
-      "0QMG",
-      "ATS",
-      "BRKN",
-      "CMCOM",
-      "DFDS",
-      "FAST",
-      "FREY",
       "GLO",
-      "HYDRA",
-      "MLP",
+      "DFDS",
       "MLUMG",
-      "N4G0",
-      "NDA",
-      "OHB",
-      "OPTS",
-      "RAIKV",
       "SSAB-B",
-      "STGN",
+      "NDA",
       "STORY-B",
-      "UTDI",
-      "ZLNA"
+      "ATS"
     ]
   },
   "ok": true,

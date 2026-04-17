@@ -1,6 +1,6 @@
 # ALB-PA - Albemarle Corporation
 
-- Quote: [Investing.com (ALB-PA)](<https://de.investing.com/search/?q=ALB-PA%20Albemarle%20Corporation>)
+- Quote: [Investing.com (ALB-PA)](<https://de.investing.com/equities/albemarle>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#1a7f37}{\texttt{80}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `84.98 USD (72.13 EUR)` |
 | **Entry limit** | `75.73 USD (64.28 EUR)` |
 | **Distance to entry limit** | $\color{#cf222e}{\texttt{9.25 USD (7.85 EUR) / +12.21\%}}$ |

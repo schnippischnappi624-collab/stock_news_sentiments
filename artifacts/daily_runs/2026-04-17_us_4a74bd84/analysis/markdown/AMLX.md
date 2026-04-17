@@ -1,6 +1,6 @@
 # AMLX - Amylyx Pharmaceuticals Inc
 
-- Quote: [Investing.com (AMLX)](<https://de.investing.com/search/?q=AMLX%20Amylyx%20Pharmaceuticals%20Inc>)
+- Quote: [Investing.com (AMLX)](<https://de.investing.com/equities/amylyx-pharmaceuticals>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#9a6700}{\texttt{61}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
+| **Investing indicators (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
+| **Investing moving averages (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
 | **Current price** | `17.73 USD (15.05 EUR)` |
 | **Prior 20d high trigger** | `17.36 USD (14.73 EUR)` |
 

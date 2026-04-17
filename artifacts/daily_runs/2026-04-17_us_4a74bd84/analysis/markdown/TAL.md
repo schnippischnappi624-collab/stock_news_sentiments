@@ -1,6 +1,6 @@
 # TAL - TAL Education Group
 
-- Quote: [Investing.com (TAL)](<https://de.investing.com/search/?q=TAL%20TAL%20Education%20Group>)
+- Quote: [Investing.com (TAL)](<https://de.investing.com/equities/tal-education-group>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#bc4c00}{\texttt{59}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `12.46 USD (10.58 EUR)` |
 | **Prior 20d high trigger** | `11.93 USD (10.12 EUR)` |
 

@@ -1,6 +1,6 @@
 # ARCB - ArcBest Corp
 
-- Quote: [Investing.com (ARCB)](<https://de.investing.com/search/?q=ARCB%20ArcBest%20Corp>)
+- Quote: [Investing.com (ARCB)](<https://de.investing.com/equities/arkansas-best-corp>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#bc4c00}{\texttt{55}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `114.17 USD (96.90 EUR)` |
 | **Prior 20d high trigger** | `111.36 USD (94.52 EUR)` |
 

@@ -8,6 +8,9 @@
 | **Score** | $\color{#1a7f37}{\texttt{81}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#2da44e}{\texttt{Buy}}$ |
 | **Current price** | `6.05 EUR` |
 | **Entry limit** | `5.93 EUR` |
 | **Distance to entry limit** | $\color{#9a6700}{\texttt{0.12 EUR / +2.02\%}}$ |

@@ -8,6 +8,9 @@
 | **Score** | $\color{#9a6700}{\texttt{72}}$ |
 | **Confidence** | $\color{#9a6700}{\texttt{medium}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#2da44e}{\texttt{Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `35.50 CHF (38.46 EUR)` |
 | **Entry limit** | `34.73 CHF (37.62 EUR)` |
 | **Distance to entry limit** | $\color{#9a6700}{\texttt{0.77 CHF (0.84 EUR) / +2.23\%}}$ |

@@ -8,6 +8,9 @@
 | **Score** | $\color{#bc4c00}{\texttt{45}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#2da44e}{\texttt{Buy}}$ |
 | **Current price** | `24.66 USD (20.93 EUR)` |
 | **Prior 20d high trigger** | `24.72 USD (20.98 EUR)` |
 

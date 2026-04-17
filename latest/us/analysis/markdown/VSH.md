@@ -1,6 +1,6 @@
 # VSH - Vishay Intertechnology Inc
 
-- Quote: [Investing.com (VSH)](<https://de.investing.com/search/?q=VSH%20Vishay%20Intertechnology%20Inc>)
+- Quote: [Investing.com (VSH)](<https://de.investing.com/equities/vishay-intertechnology-inc>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#1a7f37}{\texttt{81}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `26.25 USD (22.28 EUR)` |
 | **Entry limit** | `23.86 USD (20.25 EUR)` |
 | **Distance to entry limit** | $\color{#cf222e}{\texttt{2.39 USD (2.03 EUR) / +10.04\%}}$ |

@@ -1,6 +1,6 @@
 # AXGN - Axogen Inc
 
-- Quote: [Investing.com (AXGN)](<https://de.investing.com/search/?q=AXGN%20Axogen%20Inc>)
+- Quote: [Investing.com (AXGN)](<https://de.investing.com/equities/axogen-inc>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#9a6700}{\texttt{67}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `37.37 USD (31.72 EUR)` |
 | **Prior 20d high trigger** | `35.37 USD (30.02 EUR)` |
 

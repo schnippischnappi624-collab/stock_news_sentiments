@@ -1,6 +1,6 @@
 # BK - The Bank of New York Mellon Corporation
 
-- Quote: [Investing.com (BK)](<https://de.investing.com/search/?q=BK%20The%20Bank%20of%20New%20York%20Mellon%20Corporation>)
+- Quote: [Investing.com (BK)](<https://de.investing.com/equities/bk-of-ny>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#bc4c00}{\texttt{56}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#bc4c00}{\texttt{candidate}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `134.84 USD (114.45 EUR)` |
 | **Prior 20d high trigger** | `132.35 USD (112.33 EUR)` |
 

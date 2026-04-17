@@ -1,6 +1,6 @@
 # 0QMG - Swiss Life Holding AG
 
-- Quote: [Investing.com (0QMG)](<https://de.investing.com/search/?q=0QMG%20Swiss%20Life%20Holding%20AG>)
+- Quote: [Investing.com (0QMG)](<https://de.investing.com/equities/swiss-life?cid=989940>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#9a6700}{\texttt{61}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
+| **Investing indicators (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
+| **Investing moving averages (1h)** | $\color{#bc4c00}{\texttt{Sell}}$ |
 | **Current price** | `9.27 CHF (10.04 EUR)` |
 | **Entry limit** | `9.24 CHF (10.01 EUR)` |
 | **Distance to entry limit** | $\color{#1a7f37}{\texttt{0.03 CHF (0.03 EUR) / +0.30\%}}$ |

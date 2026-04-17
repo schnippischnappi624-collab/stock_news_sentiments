@@ -26,7 +26,11 @@ def _canonical_investing_quote_url(url: Any) -> str | None:
     value = str(url or "").strip()
     if not value:
         return None
-    match = re.match(r"^https://de\.investing\.com/equities/([a-z0-9-]+)/?(?:[?#].*)?$", value, flags=re.IGNORECASE)
+    match = re.match(
+        r"^https://(?:[a-z]+\.)?investing\.com/equities/([a-z0-9.-]+)/?(?:[?#].*)?$",
+        value,
+        flags=re.IGNORECASE,
+    )
     if not match:
         return None
     return f"https://de.investing.com/equities/{match.group(1).lower()}"
@@ -61,16 +65,17 @@ def _load_lookup_payload(path: Path) -> dict[str, Any]:
 
 def _build_request(item: dict[str, Any], profile: dict[str, Any] | None) -> dict[str, Any]:
     normalized_profile = profile or {}
+    profile_long_name = " ".join(str(normalized_profile.get("long_name") or "").split()).strip()
+    profile_short_name = " ".join(str(normalized_profile.get("short_name") or "").split()).strip()
+    item_company_name = " ".join(str(item.get("company_name") or "").split()).strip()
+    aliases: list[str] = []
+    for candidate in (profile_long_name, profile_short_name, item_company_name):
+        if candidate and candidate not in aliases:
+            aliases.append(candidate)
     return {
         "symbol": str(item.get("symbol") or "").strip(),
-        "company_name": " ".join(
-            str(
-                item.get("company_name")
-                or normalized_profile.get("long_name")
-                or normalized_profile.get("short_name")
-                or ""
-            ).split()
-        ).strip(),
+        "company_name": profile_long_name or profile_short_name or item_company_name,
+        "aliases": aliases,
         "exchange_code": str(item.get("exchange_code") or "").strip().upper() or None,
         "country": " ".join(str(item.get("country") or normalized_profile.get("country") or "").split()).strip() or None,
         "region": (
@@ -152,9 +157,10 @@ Return JSON only matching the provided schema.
 
 Rules:
 - Find the exact canonical stock quote page URL for each request.
-- The URL must be on `https://de.investing.com/equities/...`.
+- The URL must be an exact Investing quote page on `/equities/...`; locale variants like `https://www.investing.com/equities/...` are allowed and will be normalized later.
 - Do not return search pages, news, transcripts, forums, ownership pages, estimates pages, or any other subpages.
 - Prefer an exact issuer and market match using symbol, company name, exchange, country, and region.
+- Use `aliases` when issuer punctuation or legal suffixes differ between sources, for example `J.B.` vs `JB`.
 - If you cannot verify an exact quote page, return `null` for `resolved_url`.
 
 Requests:

@@ -50,6 +50,16 @@
       "resolved_url": "https://de.investing.com/equities/raisio-oyj",
       "symbol": "RAIKV"
     },
+    "EU|IL|0QMG|swiss life holding ag": {
+      "company_name": "Swiss Life Holding AG",
+      "country": "UK",
+      "exchange_code": "IL",
+      "provider": "codex_search_manual_batch",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T11:21:30.266792+00:00",
+      "resolved_url": "https://de.investing.com/equities/swiss-life?cid=989940",
+      "symbol": "0QMG"
+    },
     "EU|MC|OPTS|optare solutions s a": {
       "company_name": "Optare Solutions, S.A.",
       "country": "Spain",
@@ -170,6 +180,16 @@
       "resolved_url": "https://de.investing.com/equities/mlp-exch",
       "symbol": "MLP"
     },
+    "EU|XETRA|N4G0|the naga group ag": {
+      "company_name": "The NAGA Group AG",
+      "country": "Germany",
+      "exchange_code": "XETRA",
+      "provider": "codex_search",
+      "region": "EU",
+      "resolved_at_utc": "2026-04-17T11:02:33.252310+00:00",
+      "resolved_url": "https://de.investing.com/equities/the-naga-group-ag",
+      "symbol": "N4G0"
+    },
     "EU|XETRA|OHB|ohb se": {
       "company_name": "OHB SE",
       "country": "Germany",
@@ -190,6 +210,46 @@
       "resolved_url": "https://de.investing.com/equities/united-internet",
       "symbol": "UTDI"
     },
+    "US|NASDAQ|JBHT|j b hunt transport services inc": {
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "country": "United States",
+      "exchange_code": "NASDAQ",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T09:26:54.616590+00:00",
+      "resolved_url": "https://de.investing.com/equities/j.b.-hunt-transpo",
+      "symbol": "JBHT"
+    },
+    "US|US|ALB-PA|albemarle corporation": {
+      "company_name": "Albemarle Corporation",
+      "country": "USA",
+      "exchange_code": "US",
+      "provider": "codex_search_manual_batch",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:21:30.266839+00:00",
+      "resolved_url": "https://de.investing.com/equities/albemarle",
+      "symbol": "ALB-PA"
+    },
+    "US|US|AMLX|amylyx pharmaceuticals inc": {
+      "company_name": "Amylyx Pharmaceuticals, Inc.",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search_manual_batch",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:21:30.266862+00:00",
+      "resolved_url": "https://de.investing.com/equities/amylyx-pharmaceuticals",
+      "symbol": "AMLX"
+    },
+    "US|US|ARCB|arcbest corporation": {
+      "company_name": "ArcBest Corporation",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:08:08.564246+00:00",
+      "resolved_url": "https://de.investing.com/equities/arkansas-best-corp",
+      "symbol": "ARCB"
+    },
     "US|US|AVNS|avanos medical inc": {
       "company_name": "Avanos Medical Inc",
       "country": "United States",
@@ -199,6 +259,26 @@
       "resolved_at_utc": "2026-04-17T08:46:29.326987+00:00",
       "resolved_url": "https://de.investing.com/equities/halyard-health",
       "symbol": "AVNS"
+    },
+    "US|US|AXGN|axogen inc": {
+      "company_name": "Axogen, Inc.",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:08:08.564236+00:00",
+      "resolved_url": "https://de.investing.com/equities/axogen-inc",
+      "symbol": "AXGN"
+    },
+    "US|US|BK|the bank of new york mellon corporation": {
+      "company_name": "The Bank of New York Mellon Corporation",
+      "country": "United States",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:08:08.564197+00:00",
+      "resolved_url": "https://de.investing.com/equities/bk-of-ny",
+      "symbol": "BK"
     },
     "US|US|GSAT|globalstar inc common stock": {
       "company_name": "Globalstar, Inc. Common Stock",
@@ -230,6 +310,16 @@
       "resolved_url": "https://de.investing.com/equities/nexa-resources",
       "symbol": "NEXA"
     },
+    "US|US|NN|nextnav inc": {
+      "company_name": "NextNav Inc.",
+      "country": "USA",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:07:09.676015+00:00",
+      "resolved_url": "https://de.investing.com/equities/spartacus-acquisition",
+      "symbol": "NN"
+    },
     "US|US|RVMD|revolution medicines inc": {
       "company_name": "Revolution Medicines Inc",
       "country": "United States",
@@ -240,6 +330,16 @@
       "resolved_url": "https://de.investing.com/equities/revolution-medicines-inc",
       "symbol": "RVMD"
     },
+    "US|US|TAL|tal education group": {
+      "company_name": "TAL Education Group",
+      "country": "China",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:08:08.564223+00:00",
+      "resolved_url": "https://de.investing.com/equities/tal-education-group",
+      "symbol": "TAL"
+    },
     "US|US|UI|ubiquiti networks inc": {
       "company_name": "Ubiquiti Networks Inc",
       "country": "United States",
@@ -249,8 +349,18 @@
       "resolved_at_utc": "2026-04-17T08:47:03.360137+00:00",
       "resolved_url": "https://de.investing.com/equities/ubiquiti-networks",
       "symbol": "UI"
+    },
+    "US|US|VSH|vishay intertechnology inc": {
+      "company_name": "Vishay Intertechnology, Inc.",
+      "country": "USA",
+      "exchange_code": "US",
+      "provider": "codex_search",
+      "region": "US",
+      "resolved_at_utc": "2026-04-17T11:07:09.676084+00:00",
+      "resolved_url": "https://de.investing.com/equities/vishay-intertechnology-inc",
+      "symbol": "VSH"
     }
   },
-  "updated_at_utc": "2026-04-17T08:52:32.055541+00:00",
+  "updated_at_utc": "2026-04-17T11:21:30.266944+00:00",
   "version": 1
 }

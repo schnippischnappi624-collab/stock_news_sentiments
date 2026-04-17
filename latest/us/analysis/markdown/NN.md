@@ -1,6 +1,6 @@
 # NN - Nextnav Acquisition Corp
 
-- Quote: [Investing.com (NN)](<https://de.investing.com/search/?q=NN%20Nextnav%20Acquisition%20Corp>)
+- Quote: [Investing.com (NN)](<https://de.investing.com/equities/spartacus-acquisition>)
 
 |  |  |
 | --- | --- |
@@ -8,6 +8,9 @@
 | **Score** | $\color{#1a7f37}{\texttt{86}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Investing overview (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (1h)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
 | **Current price** | `21.49 USD (18.24 EUR)` |
 | **Entry limit** | `19.91 USD (16.90 EUR)` |
 | **Distance to entry limit** | $\color{#cf222e}{\texttt{1.58 USD (1.34 EUR) / +7.94\%}}$ |
