@@ -141,6 +141,13 @@ def test_render_dashboard_uses_sectioned_score_first_ranking() -> None:
     assert "### Entry Ready Extended" in markdown
     assert "### Candidates" in markdown
     assert "near-trigger cutoff = `5%`" in markdown
+    assert "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Prior rank | Confidence | Δ confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles |" in markdown
+    assert "Top catalyst / headwind" not in markdown
+    assert "New this run" not in markdown
+    assert "Report |" not in markdown
+    assert "Listing |" not in markdown
+    assert "Issuer group |" not in markdown
+    assert "Δ score" not in markdown
     assert markdown.index("[NEARA](<analysis/markdown/NEARA.md>)") < markdown.index("[NEARB](<analysis/markdown/NEARB.md>)")
     assert markdown.index("### Entry Ready Extended") < markdown.index("[LATE](<analysis/markdown/LATE.md>)")
     assert markdown.index("### Candidates") < markdown.index("[CAND](<analysis/markdown/CAND.md>)")
@@ -305,13 +312,16 @@ def test_render_regional_project_readme_has_monitoring_sections_and_deltas() -> 
     assert "### Entry Ready Near Trigger" in markdown
     assert "### Entry Ready Extended" in markdown
     assert "### Candidates" in markdown
+    assert "Listing |" not in markdown
+    assert "Issuer group |" not in markdown
+    assert "Top catalyst / headwind" not in markdown
+    assert "New this run" not in markdown
+    assert "Report |" not in markdown
+    assert "Δ score" not in markdown
     assert "[RAW](<latest/eu/analysis/markdown/RAW.md>)" in markdown
     assert "[RBI](<latest/eu/analysis/markdown/RBI.md>)" in markdown
     assert "[SPIR](<latest/us/analysis/markdown/SPIR.md>)" in markdown
-    assert "Raiffeisen Bank International AG (siblings: RAW (WBAG / Austria), RBI (WBAG / Austria))" in markdown
-    assert "Cat: Contract award; Risk: Liquidity squeeze" in markdown
     assert "`near trigger #1`" in markdown
-    assert "+6" in markdown
     assert "medium -> high" in markdown
     assert "mixed watch -> constructive bullish" in markdown
     assert "### Dropped Since Prior Run" in markdown

@@ -960,15 +960,14 @@ def render_analysis_markdown(
 
 def _monitor_table_header_lines() -> list[str]:
     return [
-        "| Rank | Symbol | Company | Listing | Issuer group | Distance to entry | Bucket | Score | Prior rank | Δ score | Confidence | Δ confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles | Top catalyst / headwind | New this run | Report |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Rank | Symbol | Company | Distance to entry | Bucket | Score | Prior rank | Confidence | Δ confidence | Breakout stance | Stance change | News stance | Coverage | Stock articles |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
 
 def _monitor_row_line(row: dict[str, Any]) -> str:
     report_path = str(row.get("report_path") or "").strip()
     symbol_cell = _md_link(row.get("symbol") or "n/a", report_path) if report_path else _md_text(row.get("symbol") or "n/a", table=True)
-    report_cell = f"[report]({report_path})" if report_path else "n/a"
     prior_rank = _new_badge() if row.get("is_new") else _code_html(row.get("prior_rank_label") or "n/a")
     delta_confidence = (
         _new_badge()
@@ -980,20 +979,15 @@ def _monitor_row_line(row: dict[str, Any]) -> str:
         if row.get("stance_change_label") == "new"
         else _change_cell(str(row.get("stance_change_label") or "n/a"), improved=row.get("stance_change_improved"))
     )
-    new_badge = _new_badge() if row.get("is_new") else ""
-
     return (
-        "| {rank} | {symbol} | {company} | {listing} | {issuer_group} | {distance} | {bucket} | {score} | {prior_rank} | {delta_score} | {confidence} | {delta_confidence} | {stance} | {stance_change} | {news_stance} | {coverage} | {stock_articles} | {driver} | {new_badge} | {report} |".format(
+        "| {rank} | {symbol} | {company} | {distance} | {bucket} | {score} | {prior_rank} | {confidence} | {delta_confidence} | {stance} | {stance_change} | {news_stance} | {coverage} | {stock_articles} |".format(
             rank=row.get("section_rank", "n/a"),
             symbol=symbol_cell,
             company=_md_text(row.get("company_name") or "Unknown Company", table=True),
-            listing=_md_text(row.get("listing_label") or "n/a", table=True),
-            issuer_group=_md_text(row.get("issuer_group_display") or "n/a", table=True),
             distance=row.get("distance_cell") or "n/a",
             bucket=_bucket_cell(row.get("bucket")),
             score=_score_cell(row.get("score")),
             prior_rank=prior_rank,
-            delta_score=_delta_score_cell(row.get("delta_score")),
             confidence=_confidence_cell(row.get("confidence")),
             delta_confidence=delta_confidence,
             stance=_stance_cell(row.get("stance")),
@@ -1001,9 +995,6 @@ def _monitor_row_line(row: dict[str, Any]) -> str:
             news_stance=_news_stance_cell(row.get("news_stance")),
             coverage=_coverage_cell(row.get("coverage_quality")),
             stock_articles=_stock_article_count_cell(row.get("stock_articles")),
-            driver=_md_text(row.get("top_driver") or "n/a", table=True),
-            new_badge=new_badge,
-            report=report_cell,
         )
     )
 
@@ -1019,12 +1010,10 @@ def _column_guide_lines() -> list[str]:
         "  Worst to best: `low` -> `medium` -> `high`",
         "- `Bucket`: source-feed setup status.",
         "  Worst to best: `candidate` -> `entry ready`",
-        "- `Listing`: exchange and country for the current line.",
-        "- `Issuer group`: normalized issuer identity used to expose sibling listings without collapsing them.",
         "- `News stance`: whether recent company and matched market news support, conflict with, or mix around the setup.",
         "- `Coverage`: company-specific news quality in the local cache.",
         "  Worst to best: `none` -> `thin` -> `good` -> `strong`",
-        "- `Prior rank`, `Δ score`, `Δ confidence`, `Stance change`, `New this run`: run-over-run monitoring fields versus the immediately prior committed regional run.",
+        "- `Prior rank`, `Δ confidence`, `Stance change`: run-over-run monitoring fields versus the immediately prior committed regional run.",
     ]
 
 
