@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-18T09:15:50.416719+00:00",
+  "industry": "Credit Services",
+  "long_name": "Synchrony Financial",
+  "provider": "yfinance",
+  "query_symbol": "SYF",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SYF",
+  "sector": "Financial Services",
+  "short_name": "Synchrony Financial",
+  "symbol": "SYF"
+}

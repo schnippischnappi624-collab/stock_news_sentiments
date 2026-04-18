@@ -1,5 +1,0 @@
-asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
-20260416,US,JBHT,JB Hunt Transport Services Inc,USD,USA,238.32,2530985.0,2.75384455189809,230.19,7.37473241271516,3.09,230.19,219.1279,11.0621,252.3142,263.3763,6.05,0.75,,250.0,,,,
-20260416,US,NN,Nextnav Acquisition Corp,USD,USA,21.49,8235094.0,4.1705545396715,19.91,1.44493690180922,6.72,19.91,17.7426,2.1674,24.2448,26.4122,5.47,0.5,,250.0,,,,
-20260416,US,VSH,Vishay Intertechnology Inc,USD,USA,26.25,6185531.0,2.86735185934818,23.855,1.12708444942806,4.29,23.855,22.1644,1.6906,27.2363,28.9269,5.37,0.5,,250.0,,,,
-20260416,US,ALB-PA,Albemarle Corporation,USD,USA,84.98,812833.0,3.39217864971481,75.73,3.65173834352948,4.3,75.73,70.2524,5.4776,86.6852,92.1628,4.69,0.5,,250.0,,,,

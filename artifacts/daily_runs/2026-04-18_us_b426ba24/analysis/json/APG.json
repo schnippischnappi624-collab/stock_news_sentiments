@@ -1,0 +1,883 @@
+{
+  "analysis_date": "2026-04-18",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "mixed_watch",
+    "score_0_to_100": 59,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-17: APi Group Announces the Acquisition of Wtech Fire Group - APi Group - Investor Relations."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Api Group\u00a0Corp",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 5,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - abcnews.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "abcnews.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5\" target=\"_blank\">Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abcnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOendQRTcwSDdTV1RCQXRiNjd5ZnJzUDlvc2VkTmdqYmhXUE56bFdkeFV6ZUxQVTFScjl4R3RFYjlnREo3cW5nRHZadEZqNG5jVEFhTWlrQVNjZTB0b0RQYzl0clQza20wN3g2UWVvZXZvblJLM0dTU0VoeGlyQTRYVmhLaDVFYUlLSVE?oc=5\" target=\"_blank\">Ford Recalls up to 1.39 Million F-150s Over Risk of Unexpected Downshifting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGVmbTdxYTFXTlFreS02R19KT2Mtbm1tVUoxZVdETTk3ZUJDYnFSaVpaQ0d3azZRQlVCYWxVMHBGNHZOS2I2X3NreWJCTFpBZzVUN1JSalJoRjN0WlJTRnd6ZHpDc1dXNzdTMGFZMV9EYWJJRFcwa1Fld1JJQXJQdGJxTDBtZE8wckZyRXZn?oc=5\" target=\"_blank\">Ford recalls nearly 1.4M vehicles. See affected models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDlYbEJFbFFrUHh5amJ4dWt0cnRrRnB6SUZuMEpPcDRiaEpMblkxc1V5ampnenZVMi1wRFdxZGlCelNiY1UtRkNJVlo0S1FGYkZZdU0zZnRsQy1Lci1GcEJqbXlobkhVYUU3YTRSQ2pTdURIQXpPRjFPWWJmLUxoWnM0NnB6clViUnF3WnpjQi1PRW9WRVpkTXRhQjg2Y2NXY2lTempR0gGrAUFVX3lxTFBiemR5cXpneTlmWGdFZEJ3SFN1SmhVLWdIUjFJWk91X3kxUlU2cmJzZG10YmhvZ05PUktxakZhOS1JSk5mWE9VV0ZlZmYwR0ljamZpVm82NUstVWp3U1VtWjZrWUJ4dWFQQXJrSnFGaG1ZUzlkaTVrVHpnX2loLTdQamxMMUZnZXFwSnEzcGZ6QzJoY1hxaTU5enRIYUxmZy1qZU13TGoyYWRzYw?oc=5\" target=\"_blank\">Ford recalls nearly 1.4 million F-150 pickup trucks over gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVRLaVJEZ3AwOURBZ3FBaEIxdFAzSXBqY0dwQ2N2WGpUNlZVZzhSN1AzMXEwemdQUm8yX0xUc1hpbFpfdFZlS3ZFU1ZxMWl4b0M1X1gteWlfUU5OcUQwMlVVcEF5dGZtR1phdEVybWhTTUZydC1ZbVFHU0stMVkwNXhaa9IBiAFBVV95cUxNVk1ONWR0TmViVDF5WVlPSV83WEdDdHItSFdwWDZ6cjR6MFpfckVkUlpXaVp1MW1CVExfaldJZVprdHBGUk02OEMtVldWT0h6cTl4U0NsNE1vbkRIX01NYU5fc093UUZSSGNzNEsyTGJkUnhjQzlxRWI5S25WckpTQkl1UGRXYWo1?oc=5\" target=\"_blank\">Ford recalls nearly 1.4 million F-150 pickup trucks due to gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Amid blockade, U.S. destroyers shadow laden Iranian tankers - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUItdVpQc1ZBdUVTWHluMTltaWt1X0ZiOG5FZGd5RGMtUGN6SS01OEV3NC1FMkVOd0ltLUloeUljLUp0bUxwcnhPUkhlOUE5TG9LaUZRZWNxc1QyV3NhQXNyUFF1RERiTzJ0TGUwc2lxeFB4NnJZelNBQy1RU09rdXVtUnQ5a2Q2bHF3QmdFTFU3VFl1b3pV?oc=5\" target=\"_blank\">Amid blockade, U.S. destroyers shadow laden Iranian tankers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTHNEd0FlQlUtallta05jSW51N085aXFnZFo5WXRsalc1M2ZWRW9FVkdqM2l2NHg5SmhFdFNSN2lkbjhXNGszcTF0Z3JBV2xHWjFTbkE4dE5SaDZ1UTQ0UHFheEc5alh0RGpDazVTeVI2U1dkWERiS0hPN3RUTnlQOW1uN05RWmc1dVB1dTh1RWFsN3ZOdkdNX0FTUmRQSHNmZUxWWFZSNUxSUGdQV1NhbUJHQ0REY0hFSlJodjgycTZ1SGJUS3JpUGc3RTA3YVljclJONGY0T2VpUldHcU9Mbkpn?oc=5\" target=\"_blank\">Five Iran Tankers Headed to Malaysia Turn Around to Avoid U.S. Navy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE83eEtMQ1pNNlFjc0tmdFZBUHl5N3ZRX29LaGJtaDZkSWtySVpKUUdiZmY3c19WcThaRl9FMm9vNnRzY01icFhndkdkdGVUOEpiMEJKNUxtTGE0WjhhS2ZB?oc=5\" target=\"_blank\">Five tankers seen loading oil on Iran's Kharg Island, Bandar Mahshahr port</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3JxQVFMS19ua1RQem9vejdnaWJYaWFVaTZOOWtXcXZDQ2wxQ1FpRkZ0cmJnMHg4TVBSUnJ2ak9jVmRLMUZpSTFaQUFQMEI0dlllRm5oS3VVWlFub0tqcmhYdklDYmlRTzBhNm40N3huM1NWeWtUY0pPcHFnUVVoaWpKRkVyQVI4R2FaQXRlZmJrQlpJUmlpY1VjUGpOalhIMHV3?oc=5\" target=\"_blank\">Iran Continues to Sell Oil Out of its Floating Storage Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Maritime Executive</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMU9nVTQyRGNZY0JKaUQxTEh1Q0dUc3l3NFhxbzd0TFp5NnpmRTIydFJ2UGpwOEJFcXE5b3c3QU1vY3dLS3d6UWlsQnBqX2N5YWpTLVdqUmgwYW5ocmpjWVRiVEpnZ2xCbmpNLUFwSzQ5UHk4Tkcyc3VDcEFlV080bnpreDZlU3NxTDQtRDFibXVtX1J2X3J1bWpXY3BhT1BnZWFTUXdYWnpPaGtfTEhDV2pNSnhNVVV1N19IOUEtOVg4dFhNcTZkV1FyckJsX1ZGUlRKOGNLcmxGUQ?oc=5\" target=\"_blank\">How ships carrying Iranian oil circumvent sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IslanderNews.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUItdVpQc1ZBdUVTWHluMTltaWt1X0ZiOG5FZGd5RGMtUGN6SS01OEV3NC1FMkVOd0ltLUloeUljLUp0bUxwcnhPUkhlOUE5TG9LaUZRZWNxc1QyV3NhQXNyUFF1RERiTzJ0TGUwc2lxeFB4NnJZelNBQy1RU09rdXVtUnQ5a2Q2bHF3QmdFTFU3VFl1b3pV?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Trump plans to ease access to psychedelics like psilocybin, ibogaine - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5\" target=\"_blank\">Trump plans to ease access to psychedelics like psilocybin, ibogaine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50TDhmRzJqVzYtRzhjNnRwUDNHQWcwb1AwOWJoX0xZMFhwd1hrV0xRbzcxbVBOdGVqdGZIbkVIWEhZa3FWazlFV3BVY1VtZ3MzZTN4X1k4REhZRS1HaV9ZQk9mbVV6Q0lpOXhtd19hWmxEZWwwOUtpY1hCXzZfZFk?oc=5\" target=\"_blank\">Trump Expected to Loosen Restrictions on Psychedelic Drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMml0Z1BYVFBfczdQOS1vaGQ5OVY1Z002OTlob3hudnQwcXdrLXY5S3ZNQ0Jxd0k3LUtHbFM0QUxsMGV5YU5jSkNteEJKNV9UMlNoUFhydm5VeVdXa3Q1TVYtMDRMOUtsWEd3WFh6b3c0c2VMUjNMUUNody1mM2VxZE5XZ3M3b0hZWVYwV25admo0UnVP0gGaAUFVX3lxTE9VVlFuOEUwYzdsUC05Rl9kWU1QMXBVVXV2Si1ITURZa1Zwa3lrSG5tcDNjMndyeTFZdHk0Rjg0ZU9KZ1VzTVJoYXpqc3JhWEV1RFoyZU9lckg4RTBaTVR0SWlwSE4tYXRfTW5BcndNS2paRktyc0J1UG0zb0xyb1g0VUYxYzhKZ2drZXk1VUNiVXo5UG80NmhQWHc?oc=5\" target=\"_blank\">Trump to sign executive order on psychedelic drug used abroad to treat PTSD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVJrZk5PUTQ5blVXV093NHk3QkNhNVN4VXRHdWFQMFZQOFU4cGVqOGd0RWtLd3hjcWQyM1BRT3BMaXBSUjF3SkhPeDVrU0ZsNC1aZG9GQUZnSUg0OWZMVEc4ZG1LZzhFczVkaVA4WHNaQXlxR3pRYUlyVGZqMnBrUEtRRk9IdGZkbmlGRkMwVVpZNGhtUDZhYkw2dFhFLTc2eUZzLU5nY29KaUNkbk91LThiWQ?oc=5\" target=\"_blank\">Trump set to ease restrictions on psychedelic drug used to treat PTSD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFZkMFd2aGxmNnZGRjlHWWZsV0lNeDdaeXVLSWxwWE9VZkZlRWtyRmI2dFJILWljRVNzc1hqRUhXeXhDZS1aaVJacHd4dHdOYTZ4Y2ZVeVAyN0MyRURZSXQ5TExGMTVZc1h4Z1ZIU1htTmRZWThlSVpfUG1PRVg4RGVaMFhOMjQ?oc=5\" target=\"_blank\">Trump expected to sign executive order urging more research into psychedelic ibogaine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "One of the world\u2019s most wanted men is arrested, ending years-long hunt - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5\" target=\"_blank\">One of the world\u2019s most wanted men is arrested, ending years-long hunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EaGo2R3dKZWpLc0xoUHpBR05BWlRNekFGa1VnQ3VPUERKcVA2c0hLOFlJQnEwa3BnTTdSWVFKYUIyRTVaWktrcWRhRVpScVFEdUxrcTg1NHIwdw?oc=5\" target=\"_blank\">Daniel Kinahan arrested in Dubai over serious organised crime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0VJUTRISlZSb3o5OUVYeEppQmlrbllJVnpIemZQMUtCY0JJMFRibW8zb0NhVHVIQXBXcjk5SUgtbXNMQnhHVjExVWJsR1ZOQS1aQTdkcXdwOHFkaDRnTXpsdVg2cUFWelJGUEE2YUYwSWtuRmtRZ0lxRlZHWUNjUHVQT0N0Tk9HMDdoOWVmMF9RU0I5VG1QMlFJbGJyWUdtMWtxXzZxdXd1SWRGbWU0?oc=5\" target=\"_blank\">Daniel Kinahan, alleged leader of Irish organised crime group, arrested in UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzBWeWFVWUhKRjVYQV80RDQxbTg4Mm5nTWVvUlhGYWlsTUxiRWlNZENxYU5sUVpvR3BQV2VnakNKenFlR29OUGRhaHNwY0ZNWkQ4VlYwcloyeDl1YmlpQ0JvNGpLeTdSQW5OU2FqNHdBZWpIM0Jha21ZanpBQTIySTNoSkdfQQ?oc=5\" target=\"_blank\">Cartel boss Daniel Kinahan arrested in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Consortium of Investigative Journalists - ICIJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3c1b0pKSERNS1hxOVZIOC12a3YtUENWVVA0RmpMd1BVam9PYlVUVDFnLW1sMFRRc3F3d2dQZWg5enVSYWp2eGNrbFRzVHVVaTV1ZnRpZ0w4dTRXdmVtWldkNGRvSVRpTWZOTVd1WDlNOC0ydHl6eFNSTm9hSUNKbWZ3U1JDTmdBMlpqVnJGTGM0M052Yzd6YnNyR3RjUG5HVzJUaEZhMFBHUXpKclZEeUl5ZmlKNDBiM2psZDlYRVU5ODg2YXRDWjIxMl9iTXJoZ2xMR0RB?oc=5\" target=\"_blank\">Daniel Kinahan may not be free again until he is in his 70s after arrest in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Irish Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Trump says he has 'good news' on Iran as tankers cross Strait of Hormuz - Reuters",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQVBuSlZPWWF5enBxV2xFY2U0UUhLbmlzODFyUHNtcEhMMldmSnU2NFkxRW1ZMWdNYXY1MDc2WEtTd1J4UWVhRFFSbWdQbGR4TVJhZUs3dV9LdUZSVm9SSWdVWEh4QzV0dWFhSV9ZWnNTNW52bVFfUjV4ZU9RLVh4VVpvTmp1djZoQzRCWVo3Y2FfSm9yU09ycVc0eE40aGd1RVhLYTVVaDdLMzU0VkE?oc=5\" target=\"_blank\">Trump says he has 'good news' on Iran as tankers cross Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1BBbUtJZzVFWUxwS2VENU04M2hXSExubUVOMkpBUWo5Nl82N0gxT3l1eVR6bjVQRjAxMFN6c1FjVk9reEUyV0ZRVmE2RF9qMEY2Q3lTd2ZfLXZELU9RWF95a0RCSWE4S1l3MjgwYmZzVmZnaW90TUZXNjExYXVQZElSb1IyLTZkSTV4M1plTDhGY1B1SWo4UndxN3JRRS1reFJBYVQ2bHlfUndOaW45ejJZb0JuNFFyVHd6NzhJZC3SAcYBQVVfeXFMTldiYjZGYWxjWm5zd2NpellWOFY5VS13MUpId0RaTDhMSVdBelBsek1VYzdZWTFKcURtRG92UjBNcUh5TUVlR2FZTGdqME8wSU9udW1OTER1MlpweHE2dkFYQlQ3TERBTVExUnNrNXhCSkNONk9uRDRWOTd1eWF6cUdPb3REMEtyQmw3b0tZSkh0d1ZiUGpsc1JoQTdOMHNnc05XVWMyZ0FZdGFqbmI2SkgxZkJOTS1rTnpFUlFGelFWeFJaZzVR?oc=5\" target=\"_blank\">Iran war updates: Trump voices optimism about deal; Tehran cautious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRWlpa2ZmVm1iczJfR3dJSkhScmpjcDVVWkdlbXcyMTFPNUxBeGoyQzViUndYQVdIVlZFWlJlM3hiY0RoSzN2cHZacmFSMTRLM1J5VFh2ZFhiQ0UwMFRDTG56WmROQjlnR01FdXZQbkxtNDA?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTdTM1p3MnlIWXdXTUJzRElJR0I5U3NabWFsMmZYU1VTVjhTbGg1Zlo5NlFpdlhJbmp5c3kxYTBEeFR0bnNmQ0FzMS04NDByTHdxUjdXSEpHRGtOUWsxNHRFUzRuN1FYSFE1dEd4VnNLd2g3Wm9SQVVjbWRhcXYxWEtHNWwtbTg0LTVNaw?oc=5\" target=\"_blank\">Trump\u2019s Iran war victory boast has echoes of Bush\u2019s ill-fated \u2018mission accomplished\u2019 claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzF5a0piVkdrVHZrV0FieHM2UWJ1SURXbUVKN0ZmTTF2UFhmX3BLVElzVEduRWRRT1ZQUEFINWJYNXJMaDI4NHlrR3ZKdzFpa0NiSi1PalVqcjVGOVZUZUVBakE5TFF4clZXZF94dHhnOV92SDB4WTcyOHRlM0VSZ1hCU29VVDl5QzI4NmtFOGF3NHZ3?oc=5\" target=\"_blank\">Trump Frames Iran War as All but Over in Optimistic Social Media Flurry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQVBuSlZPWWF5enBxV2xFY2U0UUhLbmlzODFyUHNtcEhMMldmSnU2NFkxRW1ZMWdNYXY1MDc2WEtTd1J4UWVhRFFSbWdQbGR4TVJhZUs3dV9LdUZSVm9SSWdVWEh4QzV0dWFhSV9ZWnNTNW52bVFfUjV4ZU9RLVh4VVpvTmp1djZoQzRCWVo3Y2FfSm9yU09ycVc0eE40aGd1RVhLYTVVaDdLMzU0VkE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Australia, Japan sign contracts to start $7 billion warship deal - Reuters",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnd4X2JNOXh2a093NDhJUzRvWm5FdHNGcVhBSlVQblVJX3VQOWNIcmRLakVjS3JaS3hQbFpORHdxcmp0MEZGT25qMWdueEZwbkVwdS1UR3BmTHNEZ3EwTlE1dDJwR0Rpa0oxSnF2MW9GVTgzWm1DQzVNSkxjbmU5T1kwMzJSNzgydFdBTko0b3czUXJXa3haS1poWHFXdHFaV0xSVWtLT2htV2M?oc=5\" target=\"_blank\">Australia, Japan sign contracts to start $7 billion warship deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0FVdDVEV0Q3S1NaanZLWGozeFdNTWpTalRETXF2Yi05c0x3SS15c3RIVTg1c0Jva054TDB6d0ZNTEgtX201aUJ1SXBpdkNCemtpX2xjT2NwclZLWjlwMnZjQmZsbDdJanREeTJwTmgzTzhqWlZINnlJTzdwWlpNbDhxV0QwZldaM09pajlWLVk3TUZVOE1uMXR3RS1vTDlCcUhSZWJJOUtTRllNdTNKY1FUUkFndExvQVZn?oc=5\" target=\"_blank\">Japan\u2019s MHI awarded contract to build three Upgraded Mogami-class Frigates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">navalnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeXdjdFMwb2xqT3ZMRU1NRVM0M1BDazdsRFpfdVBhYUVOMHRBMWdMNG5qVGVESU16d3NPdVFuQkRCckJaZmVMQ0plZEVqUU1zOHV0d3dzS0tNVEZvRGNWMWFYbnBuNXBBemJpOE1QTDVISFVSOG5tMDdGQWVLbmt4X196Yjg3ME1ZQnpOVHdCWWphdUlRaUNLLTFOTHdyUmxoS3R5VEJYTHRKTzBqOUZF?oc=5\" target=\"_blank\">Australia Signs Deal For First Batch of Warships From Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZBOHhVMTRaaU1BLTAxcmQ1ejhSNl83OG95ZXRVMU9uODFNUWlmOXhqaFNtbnNkTEFkRnMxMnJMS2ZwY0FFUWJtemJ2UHhJX3VRTHFseDhGR1pOQ1FqMEt4cDQyQXJzRjdBOFVoQ0FBekgydVFpa3BOSTRCSFZWUmZMbGc0bjVIYlc4RFF6Z1o?oc=5\" target=\"_blank\">Japan seals largest-ever defense contract with frigate sale to Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDJSYmhUZ3FvRDBUWWlNR2ljQnRZTmQyTXdINXp4Zks5cWpleHNJcURheHBIUGlaN1BPNmp2aThqNHY0X3FWVVlBem9FMWhwVmszTlRKYmpBQlIxSXRGYmlXbWFhT21fUkJodFY4TnJGSW5rbl9OeXBRMkdjT3h4UHZFeGFWYlI1STNWOWgtb01GdWd3aVdKb2dGeFM?oc=5\" target=\"_blank\">VIDEO: Stephen Dziedzic reports from Melbourne at Aus-Japan defence contract signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnd4X2JNOXh2a093NDhJUzRvWm5FdHNGcVhBSlVQblVJX3VQOWNIcmRLakVjS3JaS3hQbFpORHdxcmp0MEZGT25qMWdueEZwbkVwdS1UR3BmTHNEZ3EwTlE1dDJwR0Rpa0oxSnF2MW9GVTgzWm1DQzVNSkxjbmU5T1kwMzJSNzgydFdBTko0b3czUXJXa3haS1poWHFXdHFaV0xSVWtLT2htV2M?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Anthropic CEO visits White House amid hacking fears over new AI model - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk9iMkZSZEx1YWxvRXFzRm9vYWV4RWRaYlJFWjBYSFF2MHhITy10a0ZfbDNrTnptZDY4UTR6UmJZT2NSanpFSGZsMTJKRUdaRmZyOTVrTTF0Z2lKRXItVXpMNHlaak11aVlZbklIcVkwcWppdWs1T0lyakwxU3VTOFU1b1huWXd1?oc=5\" target=\"_blank\">Anthropic CEO visits White House amid hacking fears over new AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5\" target=\"_blank\">White House and Anthropic hold 'productive' meeting amid fears over Mythos model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTZsNzBDRkVYZnpocmpLbE91NTRZUm5Nb2Fua3pJN1U5ejVKYmtUX2dlWW1lMGRnOHpoVUtRaDJ0WVF2d1cycnVzUXlhdXBsMG9fekNBYkhoRGpUbXg5ZEd2cHRwb2NxRzRKZ2ROSElVdXRCMmppOE9oN3AtbmtDWVBNWndCZndhZ1E?oc=5\" target=\"_blank\">CEO of blacklisted Anthropic and White House hold \u2018productive\u2019 discussions on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNejBhcWEyajdTWTJnZ1RFNGQ2UFNieGo1TnB4U1h3TU1BaGVGdjZzTk5EaDZHRUdiY0hkRVFLb1JUNmR4Zk9EM3AydkZhTlBjX2Q2Z0pBZENjTEdhOVhmV0NVSGdNZXJqN1hsbVl2TDRsMVB1Mm1fQVZYeGQ4LVF1LQ?oc=5\" target=\"_blank\">Scoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9ISFZrOUduZ016M18xc2w3enE1VjB5eHl0NVZyelpQdnp1dmMzR2xyZUhzSk90RjlFdS1KYnFkd2kyc1kyenhIRHNCUzBSVXY5emFZNjBnLWIweEF1VUc3bnJIak8yNlNvRHRGX3prYw?oc=5\" target=\"_blank\">Anthropic\u2019s Nuclear Bomb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">War on the Rocks</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk9iMkZSZEx1YWxvRXFzRm9vYWV4RWRaYlJFWjBYSFF2MHhITy10a0ZfbDNrTnptZDY4UTR6UmJZT2NSanpFSGZsMTJKRUdaRmZyOTVrTTF0Z2lKRXItVXpMNHlaak11aVlZbklIcVkwcWppdWs1T0lyakwxU3VTOFU1b1huWXd1?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Amid blockade, U.S. destroyers shadow laden Iranian tankers - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUItdVpQc1ZBdUVTWHluMTltaWt1X0ZiOG5FZGd5RGMtUGN6SS01OEV3NC1FMkVOd0ltLUloeUljLUp0bUxwcnhPUkhlOUE5TG9LaUZRZWNxc1QyV3NhQXNyUFF1RERiTzJ0TGUwc2lxeFB4NnJZelNBQy1RU09rdXVtUnQ5a2Q2bHF3QmdFTFU3VFl1b3pV?oc=5\" target=\"_blank\">Amid blockade, U.S. destroyers shadow laden Iranian tankers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTHNEd0FlQlUtallta05jSW51N085aXFnZFo5WXRsalc1M2ZWRW9FVkdqM2l2NHg5SmhFdFNSN2lkbjhXNGszcTF0Z3JBV2xHWjFTbkE4dE5SaDZ1UTQ0UHFheEc5alh0RGpDazVTeVI2U1dkWERiS0hPN3RUTnlQOW1uN05RWmc1dVB1dTh1RWFsN3ZOdkdNX0FTUmRQSHNmZUxWWFZSNUxSUGdQV1NhbUJHQ0REY0hFSlJodjgycTZ1SGJUS3JpUGc3RTA3YVljclJONGY0T2VpUldHcU9Mbkpn?oc=5\" target=\"_blank\">Five Iran Tankers Headed to Malaysia Turn Around to Avoid U.S. Navy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3JxQVFMS19ua1RQem9vejdnaWJYaWFVaTZOOWtXcXZDQ2wxQ1FpRkZ0cmJnMHg4TVBSUnJ2ak9jVmRLMUZpSTFaQUFQMEI0dlllRm5oS3VVWlFub0tqcmhYdklDYmlRTzBhNm40N3huM1NWeWtUY0pPcHFnUVVoaWpKRkVyQVI4R2FaQXRlZmJrQlpJUmlpY1VjUGpOalhIMHV3?oc=5\" target=\"_blank\">Iran Continues to Sell Oil Out of its Floating Storage Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Maritime Executive</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMU9nVTQyRGNZY0JKaUQxTEh1Q0dUc3l3NFhxbzd0TFp5NnpmRTIydFJ2UGpwOEJFcXE5b3c3QU1vY3dLS3d6UWlsQnBqX2N5YWpTLVdqUmgwYW5ocmpjWVRiVEpnZ2xCbmpNLUFwSzQ5UHk4Tkcyc3VDcEFlV080bnpreDZlU3NxTDQtRDFibXVtX1J2X3J1bWpXY3BhT1BnZWFTUXdYWnpPaGtfTEhDV2pNSnhNVVV1N19IOUEtOVg4dFhNcTZkV1FyckJsX1ZGUlRKOGNLcmxGUQ?oc=5\" target=\"_blank\">How ships carrying Iranian oil circumvent sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IslanderNews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjQzcjlISEVTWUFnY1JJZ0d3Nm1wYmNna0pGbFluOFg3VlRDX3hrS19QOUZvNGFmb2dKNHhTNjA0UzlCZllXVzJJRXpoZXVyR2dtdlk0VVJNeG0xWWFXYzh0aWlpRElfQktyU0ZERDFJWHNOd3NHWUE5NnA1cVFWdmtTbXdkdnJNcVo0LUxwTzFaSTgyNjFvYVFucWZkV1NLckhN0gGoAUFVX3lxTE0wV25RUnp4NmFnTUZWUmlQMXhBNV81VWQ4b3QxVzcxT3NZZXFZbzdaY3ZVZUFmdkJpQ3cwVWREbjVpaWxraVgwQkNjWUdrNDVwMW5henhEd0dHaFN1RTc2aHM1Ukw5LTUteFVHOFpHUWQ2dUM0bmZOUFg3NVNnZmdSOUZuN1NHZmd1VnZIVUMtUWw1RTVxVWVkOHE4eTVULXY5Q254ZGtreg?oc=5\" target=\"_blank\">How Iran's Dark Fleet Is Quietly Keeping Oil Markets Afloat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crude Oil Prices Today | OilPrice.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUItdVpQc1ZBdUVTWHluMTltaWt1X0ZiOG5FZGd5RGMtUGN6SS01OEV3NC1FMkVOd0ltLUloeUljLUp0bUxwcnhPUkhlOUE5TG9LaUZRZWNxc1QyV3NhQXNyUFF1RERiTzJ0TGUwc2lxeFB4NnJZelNBQy1RU09rdXVtUnQ5a2Q2bHF3QmdFTFU3VFl1b3pV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Iran mediators meet in Turkey to discuss peace push - Axios",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE56UjRxalFwVHR5dWlnX1ZOUWdnX2FSd0dwS19yR292Tjg2X004RVZCTDBacGVQbVdOSmRXamFiT3dqLWVhUnhuOUdILWw0M2FHb25QX0FOeXlYdkNCUWNhMnIwSUpBakNXQnhkZHpmWEhEUVU?oc=5\" target=\"_blank\">Iran mediators meet in Turkey to discuss peace push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXNUl6ekVCSHlwQVhGWXVJVUZDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56UjRxalFwVHR5dWlnX1ZOUWdnX2FSd0dwS19yR292Tjg2X004RVZCTDBacGVQbVdOSmRXamFiT3dqLWVhUnhuOUdILWw0M2FHb25QX0FOeXlYdkNCUWNhMnIwSUpBakNXQnhkZHpmWEhEUVU?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Federal Court Temporarily Freezes Nexstar\u2019s Merger With Tegna - The New York Times",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VmakgwcHhVY0xBaFlxTXBYR1JZNi1LMWk5TkZNUGV3QV9wMVBnY0NfaldMR2FXWUZYWHR6RTgtR0VZaW81RV93ckJGa0RaTjJybmNCZFJ5cVZLSjRYeWZyR2F0dG1sbDlZWDdfclhtc1g4NU1PbHo1Z3ZCakwzamFkbjdkR2NLU3c?oc=5\" target=\"_blank\">Federal Court Temporarily Freezes Nexstar\u2019s Merger With Tegna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmxGVS1XS00wOWRvS3Z5V3AtdnNFZVZsam1ocTNOZjVIVnBTZ2RwZjVoY3pYM2VleFY0Zk1uX2ZaOFhXSE9TeU9KNElRVGFUeFItbVZ6R1g0ZjJVcUVlUjA5U1NhWHdfOUpSUGFsclZGeGRGZFlKT1JVYjA4bTkwcHR0WmExdTRkTmtQaGxrbGloX29jVmlOTDBnNnNmdGFMdEYw0gGoAUFVX3lxTE1Jc3RYbjl4TUxXNldmMzVVbm9TR2pwSHlITHlOcmZya25nbnd4Q29aU3VJYmZrbjJYTk91SFp2MG5EOFhGVkNhbDFVd3d0dzdjdlRucmRvSTgwaUZsem1kUXp3UVkxbTZESDFwZjBpamlPMWRGZUZOZVYzY2QtNDJJc0VTUkJaSHRsN3hadGtGUkFrTThSbWtEdVBXSUFEM3RQNVZESEdBRQ?oc=5\" target=\"_blank\">Judge blocks Nexstar's acquisition of Tegna until antitrust suit resolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUVvRXVHVjF3VkZzaWN2V1p1c1BMX3ZQZElCUEN6bFNYR1FqRUJQdmNiRUdSd3FrQjhjWGZnN3JnampySW1QbklYbDZuMVJJamFQdzQxYk9yZlJ5bXhqQ20zUVFVX25FeDRSLUZQdlhtOFcySWRSSlRqQnlERkFmQkdXNWdvTENMM3o0SlNoVng?oc=5\" target=\"_blank\">Judge Halts Nexstar-Tegna TV Station Merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGd1Zkp2M296cEJ0RURWRlJGa0ppUXFSM0FaaURscGN0XzZ2bUI5TFZ0VVZ5djFIQllLMnl1SUVTZjdicWVVZi1neldlMy1oUzNzRjdlMmRSLTc1VVh6bDROa203cFBOd3VPM0lZaWl0ZW41QlN6NmE2cm5QVUwwb3Q3cUl0NGowcDNNZzdJbw?oc=5\" target=\"_blank\">Judge halts local TV giant Nexstar's takeover of rival Tegna until trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUW5SQWVHOUZPcWh5SEVWSU5NbENlcVRJc0M1MkpKVzhoaE1QX0F3bDdFTWctcU5SY2U1Q0lyeEd4SmlSM1gtSVhhQVRDeDdjYXJGYlpEV09Wdk54dGN0X2hnUFUxbHZfc2R2aE9VVGJhM1VPa21MVURPV0NQZDFQYnlzWXh0bGUwdG9VNElBTEk0MmdqQ2xmd25SR0h0cmhsY2NB?oc=5\" target=\"_blank\">Judge Issues Preliminary Injunction Against Nexstar-Tegna Takeover, Orders Nexstar to Halt Integration Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VmakgwcHhVY0xBaFlxTXBYR1JZNi1LMWk5TkZNUGV3QV9wMVBnY0NfaldMR2FXWUZYWHR6RTgtR0VZaW81RV93ckJGa0RaTjJybmNCZFJ5cVZLSjRYeWZyR2F0dG1sbDlZWDdfclhtc1g4NU1PbHo1Z3ZCakwzamFkbjdkR2NLU3c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "The Stock Market Sounds an Alarm for the First Time in 25 Years. Here's Where History Says the S&P 500 Is Headed Next. - The Motley Fool",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Motley Fool",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2FxRFFDNG55ekJTcEhHUlVVSjRRclNYMGxHaGVzMHk2NWxJSlRuQjVubjQ2eXdpVTBieHl3VFJGN3RhNHE3VExGT0x0RmUwY29yLXhsc1BKYUxydHpHME95UDVvZDljWksxd04zRlBWaFlHM0Ricy1yNkJKTmd4c0tZcFVydXBkRExYNEFoeXRuUldwVC1PQQ?oc=5\" target=\"_blank\">The Stock Market Sounds an Alarm for the First Time in 25 Years. Here's Where History Says the S&P 500 Is Headed Next.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lRbV9MMkVCRnQwMjdKUXVGTHR5Z0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2FxRFFDNG55ekJTcEhHUlVVSjRRclNYMGxHaGVzMHk2NWxJSlRuQjVubjQ2eXdpVTBieHl3VFJGN3RhNHE3VExGT0x0RmUwY29yLXhsc1BKYUxydHpHME95UDVvZDljWksxd04zRlBWaFlHM0Ricy1yNkJKTmd4c0tZcFVydXBkRExYNEFoeXRuUldwVC1PQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Judge halts local TV giant Nexstar's takeover of rival Tegna until trial - NPR",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "NPR",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGd1Zkp2M296cEJ0RURWRlJGa0ppUXFSM0FaaURscGN0XzZ2bUI5TFZ0VVZ5djFIQllLMnl1SUVTZjdicWVVZi1neldlMy1oUzNzRjdlMmRSLTc1VVh6bDROa203cFBOd3VPM0lZaWl0ZW41QlN6NmE2cm5QVUwwb3Q3cUl0NGowcDNNZzdJbw?oc=5\" target=\"_blank\">Judge halts local TV giant Nexstar's takeover of rival Tegna until trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VmakgwcHhVY0xBaFlxTXBYR1JZNi1LMWk5TkZNUGV3QV9wMVBnY0NfaldMR2FXWUZYWHR6RTgtR0VZaW81RV93ckJGa0RaTjJybmNCZFJ5cVZLSjRYeWZyR2F0dG1sbDlZWDdfclhtc1g4NU1PbHo1Z3ZCakwzamFkbjdkR2NLU3c?oc=5\" target=\"_blank\">Federal Court Temporarily Freezes Nexstar\u2019s Merger With Tegna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmxGVS1XS00wOWRvS3Z5V3AtdnNFZVZsam1ocTNOZjVIVnBTZ2RwZjVoY3pYM2VleFY0Zk1uX2ZaOFhXSE9TeU9KNElRVGFUeFItbVZ6R1g0ZjJVcUVlUjA5U1NhWHdfOUpSUGFsclZGeGRGZFlKT1JVYjA4bTkwcHR0WmExdTRkTmtQaGxrbGloX29jVmlOTDBnNnNmdGFMdEYw0gGoAUFVX3lxTE1Jc3RYbjl4TUxXNldmMzVVbm9TR2pwSHlITHlOcmZya25nbnd4Q29aU3VJYmZrbjJYTk91SFp2MG5EOFhGVkNhbDFVd3d0dzdjdlRucmRvSTgwaUZsem1kUXp3UVkxbTZESDFwZjBpamlPMWRGZUZOZVYzY2QtNDJJc0VTUkJaSHRsN3hadGtGUkFrTThSbWtEdVBXSUFEM3RQNVZESEdBRQ?oc=5\" target=\"_blank\">Judge blocks Nexstar's acquisition of Tegna until antitrust suit resolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEVwRVhDMUtOYlNKeGNiMTdEREJHcm5oSVJieWdhQWdJSEJuZ1Q5YUZQSjc3VmV4QmJuMi05RTdWOF9wOWMxWlM0N3hwa1dtZzlKRVl4RVRfa3BQUkd0bGFzbEVHQWt2NnVtUVAxZTkydVNTX0ZHbEgyNjMtWVYwQllNWkFjWFp4WEpaQU1sSQ?oc=5\" target=\"_blank\">Federal judge blocks politically fraught TV station merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBMWkUwT0VSczFOUXhFd2FsVXlISFVvdkFuQW9vNjFHQnM4eDd6ejNqY0M2VHFuRmVEWW9pWFdGTXdrOGpFaE9tdUxRdm1lSVJFM3NVLVdFeGMyQUdHQTF4VWV3OUsteHkyLVFHN3Z3cG5XeUE1X3ktSGVYUQ?oc=5\" target=\"_blank\">Nexstar-Tegna Merger Frozen By Judge's Preliminary Injunction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGd1Zkp2M296cEJ0RURWRlJGa0ppUXFSM0FaaURscGN0XzZ2bUI5TFZ0VVZ5djFIQllLMnl1SUVTZjdicWVVZi1neldlMy1oUzNzRjdlMmRSLTc1VVh6bDROa203cFBOd3VPM0lZaWl0ZW41QlN6NmE2cm5QVUwwb3Q3cUl0NGowcDNNZzdJbw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "One of the world\u2019s most wanted men is arrested, ending years-long hunt - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5\" target=\"_blank\">One of the world\u2019s most wanted men is arrested, ending years-long hunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EaGo2R3dKZWpLc0xoUHpBR05BWlRNekFGa1VnQ3VPUERKcVA2c0hLOFlJQnEwa3BnTTdSWVFKYUIyRTVaWktrcWRhRVpScVFEdUxrcTg1NHIwdw?oc=5\" target=\"_blank\">Daniel Kinahan arrested in Dubai over serious organised crime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3cyTG5mdVZGTmJOeXhaVDAyLTNlbXlZRlhmQzRuQTIxa2M3UTRZY0pDRDdJVDdqMHpxSVRJblNKTU9mQ2FNUFJULTlDMDFlZU1yMnQweEVoZTlfUFB4ZnJYcHRYWDdfQzJGaEdSXzhNanIwSjhIdE13UTI0MnZuVkxkQW90QjVIcDRuTlgzbGVPU3FqaG90SEJqeDMxaDJoMjdqSW5LMFNVUVBndHBuS1JfYXBxSWlBYWxiYjBYM2xGQdIBxwFBVV95cUxNSEVBZ2dkQ21uM1Y0eGpGXzJhcUk2LWJua3Y1S05jaE5Kc1JXQlJfMk05X3hRNG45aENHVXlBSi1JTlpOTUpzTTJJWEc4VXo0MXJjTWkxUGo5UmZwdkExbUFDZnlCRzJLM1J5OXVaOEVfa0hnR0tjRzVReXlHMVJIbGtZMjBNaEtENk1GTjVlUDk4N1FjenFBckJGYUF4UklDTzRSNVFoN0dOckdoeXA4N1VmazFUTXpITTRCa180NnlXX1JybGxF?oc=5\" target=\"_blank\">Alleged Irish cartel boss arrested in covert operation on organized crime charges after years-long manhunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GN3dGalFsNXJPM3U5MDNDcXlMeko5QVd4ZGN4blNMS1A0cTV6WHpGVkp4T2h0emNoSmFCUmU1dnRZMEh5QnUyWWFHZWx5R25jRHpkYm1XZllPUWxOUWZQajJBUG93MFo1UDc4bFRzSVVBZw?oc=5\" target=\"_blank\">Daniel Kinahan arrested in United Arab Emirates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTE.ie</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0VJUTRISlZSb3o5OUVYeEppQmlrbllJVnpIemZQMUtCY0JJMFRibW8zb0NhVHVIQXBXcjk5SUgtbXNMQnhHVjExVWJsR1ZOQS1aQTdkcXdwOHFkaDRnTXpsdVg2cUFWelJGUEE2YUYwSWtuRmtRZ0lxRlZHWUNjUHVQT0N0Tk9HMDdoOWVmMF9RU0I5VG1QMlFJbGJyWUdtMWtxXzZxdXd1SWRGbWU0?oc=5\" target=\"_blank\">Daniel Kinahan, alleged leader of Irish organised crime group, arrested in UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Trump plans to ease access to psychedelics like psilocybin, ibogaine - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5\" target=\"_blank\">Trump plans to ease access to psychedelics like psilocybin, ibogaine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50TDhmRzJqVzYtRzhjNnRwUDNHQWcwb1AwOWJoX0xZMFhwd1hrV0xRbzcxbVBOdGVqdGZIbkVIWEhZa3FWazlFV3BVY1VtZ3MzZTN4X1k4REhZRS1HaV9ZQk9mbVV6Q0lpOXhtd19hWmxEZWwwOUtpY1hCXzZfZFk?oc=5\" target=\"_blank\">Trump Expected to Loosen Restrictions on Psychedelic Drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMml0Z1BYVFBfczdQOS1vaGQ5OVY1Z002OTlob3hudnQwcXdrLXY5S3ZNQ0Jxd0k3LUtHbFM0QUxsMGV5YU5jSkNteEJKNV9UMlNoUFhydm5VeVdXa3Q1TVYtMDRMOUtsWEd3WFh6b3c0c2VMUjNMUUNody1mM2VxZE5XZ3M3b0hZWVYwV25admo0UnVP0gGaAUFVX3lxTE9VVlFuOEUwYzdsUC05Rl9kWU1QMXBVVXV2Si1ITURZa1Zwa3lrSG5tcDNjMndyeTFZdHk0Rjg0ZU9KZ1VzTVJoYXpqc3JhWEV1RFoyZU9lckg4RTBaTVR0SWlwSE4tYXRfTW5BcndNS2paRktyc0J1UG0zb0xyb1g0VUYxYzhKZ2drZXk1VUNiVXo5UG80NmhQWHc?oc=5\" target=\"_blank\">Trump to sign executive order on psychedelic drug used abroad to treat PTSD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVJrZk5PUTQ5blVXV093NHk3QkNhNVN4VXRHdWFQMFZQOFU4cGVqOGd0RWtLd3hjcWQyM1BRT3BMaXBSUjF3SkhPeDVrU0ZsNC1aZG9GQUZnSUg0OWZMVEc4ZG1LZzhFczVkaVA4WHNaQXlxR3pRYUlyVGZqMnBrUEtRRk9IdGZkbmlGRkMwVVpZNGhtUDZhYkw2dFhFLTc2eUZzLU5nY29KaUNkbk91LThiWQ?oc=5\" target=\"_blank\">Trump set to ease restrictions on psychedelic drug used to treat PTSD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFZkMFd2aGxmNnZGRjlHWWZsV0lNeDdaeXVLSWxwWE9VZkZlRWtyRmI2dFJILWljRVNzc1hqRUhXeXhDZS1aaVJacHd4dHdOYTZ4Y2ZVeVAyN0MyRURZSXQ5TExGMTVZc1h4Z1ZIU1htTmRZWThlSVpfUG1PRVg4RGVaMFhOMjQ?oc=5\" target=\"_blank\">Trump expected to sign executive order urging more research into psychedelic ibogaine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - abcnews.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "abcnews.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5\" target=\"_blank\">Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abcnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOendQRTcwSDdTV1RCQXRiNjd5ZnJzUDlvc2VkTmdqYmhXUE56bFdkeFV6ZUxQVTFScjl4R3RFYjlnREo3cW5nRHZadEZqNG5jVEFhTWlrQVNjZTB0b0RQYzl0clQza20wN3g2UWVvZXZvblJLM0dTU0VoeGlyQTRYVmhLaDVFYUlLSVE?oc=5\" target=\"_blank\">Ford Recalls up to 1.39 Million F-150s Over Risk of Unexpected Downshifting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVRLaVJEZ3AwOURBZ3FBaEIxdFAzSXBqY0dwQ2N2WGpUNlZVZzhSN1AzMXEwemdQUm8yX0xUc1hpbFpfdFZlS3ZFU1ZxMWl4b0M1X1gteWlfUU5OcUQwMlVVcEF5dGZtR1phdEVybWhTTUZydC1ZbVFHU0stMVkwNXhaa9IBiAFBVV95cUxNVk1ONWR0TmViVDF5WVlPSV83WEdDdHItSFdwWDZ6cjR6MFpfckVkUlpXaVp1MW1CVExfaldJZVprdHBGUk02OEMtVldWT0h6cTl4U0NsNE1vbkRIX01NYU5fc093UUZSSGNzNEsyTGJkUnhjQzlxRWI5S25WckpTQkl1UGRXYWo1?oc=5\" target=\"_blank\">Ford recalls nearly 1.4 million F-150 pickup trucks due to gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGVmbTdxYTFXTlFreS02R19KT2Mtbm1tVUoxZVdETTk3ZUJDYnFSaVpaQ0d3azZRQlVCYWxVMHBGNHZOS2I2X3NreWJCTFpBZzVUN1JSalJoRjN0WlJTRnd6ZHpDc1dXNzdTMGFZMV9EYWJJRFcwa1Fld1JJQXJQdGJxTDBtZE8wckZyRXZn?oc=5\" target=\"_blank\">Ford recalls nearly 1.4M vehicles. See affected models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDlYbEJFbFFrUHh5amJ4dWt0cnRrRnB6SUZuMEpPcDRiaEpMblkxc1V5ampnenZVMi1wRFdxZGlCelNiY1UtRkNJVlo0S1FGYkZZdU0zZnRsQy1Lci1GcEJqbXlobkhVYUU3YTRSQ2pTdURIQXpPRjFPWWJmLUxoWnM0NnB6clViUnF3WnpjQi1PRW9WRVpkTXRhQjg2Y2NXY2lTempR0gGrAUFVX3lxTFBiemR5cXpneTlmWGdFZEJ3SFN1SmhVLWdIUjFJWk91X3kxUlU2cmJzZG10YmhvZ05PUktxakZhOS1JSk5mWE9VV0ZlZmYwR0ljamZpVm82NUstVWp3U1VtWjZrWUJ4dWFQQXJrSnFGaG1ZUzlkaTVrVHpnX2loLTdQamxMMUZnZXFwSnEzcGZ6QzJoY1hxaTU5enRIYUxmZy1qZU13TGoyYWRzYw?oc=5\" target=\"_blank\">Ford recalls nearly 1.4 million F-150 pickup trucks over gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Think the rally is safe? This elite market-timing indicator says a correction is overdue.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The gold-platinum ratio suggests the stock market is living on borrowed time.",
+          "url": "https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Google could pay $135 million settlement to U.S. Android users. How to get your money. - Mashable",
+          "kind": "mixed",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": -0.020202020202020204,
+          "source": "Mashable",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVE5c2FzbF9sUEVMb0xlVkJTVkM3TTVRNmVBYjVkZDFUQjhhYnZlZFNfZDBjVUx1ZGlSQVc4VzRNQjk3OXpNSWczNFBsbHpEblp5R1RJczNHU3dzd21saHNMNmFmWkhiR2NHcDJKWmhrNlNFUlN6T3VPSGJXbXVwTlVxWkdLbDlsUXlN?oc=5\" target=\"_blank\">Google could pay $135 million settlement to U.S. Android users. How to get your money.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNm1haDktVUp0dERFak1TU0hMdXptRmYyeTVjRFotSGxSSEJoT3owZGFoYTE5Z0ZUcEFMZFA4ZEgwNlVkUEIyazhFOEZVa1RHdnQzMUczQW9YWjUzRGVNOENOTUJhQVJoV2lIdEtlWVNJa21QakdycXZ6Wl9ZX0U2ZF9qSWoxWTFOejBHSmctUERCVGhqTDdnX0FGUW9JbUIzSWdMSm9xNkxvWnlPLUx1VUczdzFMclMwSlVmNmtBbk5xbDQ?oc=5\" target=\"_blank\">Google Will Pay $135M to Android Phone Owners. Learn Who's Eligible and How to Get Paid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWRZT3B5Z3BTYzBieFdrcnR3U3I3dkUzMnVRcGpQNGwyS05FY2c3ZXJ2MkRMWXhDMlk4NWg4cEE0OWEtaWVKWVI4Mlk5ZnljaFRGNjRDTFVWLWZIamM2a05raWF6VmRjanY3NXRDMHFWMXREYUM1LTNvY1pTVnRoV2V2UzVoaGIxY25MY3JmSUlNZEtEMHFWRFRia3Q2ZWxla1U2UkJibm9xM0JMNllRZUlmZktYQ1pvRmlTVWNnOWFQamJKR091dkpoemJnOWx0TjgxQUplN3VmaXNPVGZ0Mk1Nak9xWUtTMkRMbWVpNA?oc=5\" target=\"_blank\">Google settles lawsuit over Android data harvesting: how to collect your piece of the $135 million settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdW5tbkE4dERZMWxQdzhidDZXRXRncWJxOUdHQnlwNzdBdDg1UW5pTm1zdUxOU1JjRnhBZU9UR3U2aHc4RDJKQUJ1XzNSTS1qeDdBWUI2QWdiM2luNTlJbzRRVHNuTWh5TTlkWm43S0hUVXd4dk5KT1ZLLW1KZnRZcTdWWlN2Rk5MVWFfRGRUSHZOenE0aURodEcyMTBBWFZrSFAzTVBoTW9DS0ZxaW1iZDVHeGFTWDNEVF9YZjgzWjF0OWM3Z05FdWdwNDhwWGNRTWVXV2VINWpFUW5XOGdDSl9NNzFubm1WY2ZJNzFTZXpjUQ?oc=5\" target=\"_blank\">Android phone users can claim money from Google's $135M settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clarion-Ledger</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzM1cElZZlM3LVE0bWxtdDZFaXRUV3VFUTRaLWNnTUN5WmhWQmcta1JobFl5RDFCWldGWG5NSVF4cWk2NnZmbVgyT2VlY2FjR01RcTQwOXlXcHZCT09YVnl2QzdlbzVZWWFmQ0JxVzRGT1lnbktvRlVPVGVkRUxobVNyY2Z2bURmSzB6MmhCSQ?oc=5\" target=\"_blank\">Class action lawsuit claims Google's Android platform transmitted data without users' knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGAL</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVE5c2FzbF9sUEVMb0xlVkJTVkM3TTVRNmVBYjVkZDFUQjhhYnZlZFNfZDBjVUx1ZGlSQVc4VzRNQjk3OXpNSWczNFBsbHpEblp5R1RJczNHU3dzd21saHNMNmFmWkhiR2NHcDJKWmhrNlNFUlN6T3VPSGJXbXVwTlVxWkdLbDlsUXlN?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "The Home Renovation Show That Unfolds in Real Time - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1ZOdVJYeEw1eHBBT0syTjhPMFpSd3FSbktHRzZHNjk0OTdNMGUtTWU1VWRvYXlCTURQVmJJOTJueEFuUGJHdUJORTgxLWtTWHFpV2pzWjlwbDQzdDhzd0VzT2pLRTBlYXQ1d1dVbWxxY3BXSW5DNXphdTZpNm0xX2R1T0tQVHc?oc=5\" target=\"_blank\">The Home Renovation Show That Unfolds in Real Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1ZOdVJYeEw1eHBBT0syTjhPMFpSd3FSbktHRzZHNjk0OTdNMGUtTWU1VWRvYXlCTURQVmJJOTJueEFuUGJHdUJORTgxLWtTWHFpV2pzWjlwbDQzdDhzd0VzT2pLRTBlYXQ1d1dVbWxxY3BXSW5DNXphdTZpNm0xX2R1T0tQVHc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Gruenbaum leaving as GSA FAS commissioner - Federal News Network",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Federal News Network",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVi1WeVZxdEZBazhYc3VHMVdFbENIRmRwdExGNEotYXBZWmlnUHVBQjJaLWNEQUVxemhhNDFvVnNVR3IzNXh6b0tOWmFySlpQSVM4UldSY0lodjRCVmV4WUpmRVVsRHZQaVVGT2Zkc0laclZvb0l0WDBBbjZkcDZMZjBudnBRa1R1ZmpMbjA5X3FWQQ?oc=5\" target=\"_blank\">Gruenbaum leaving as GSA FAS commissioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVi1WeVZxdEZBazhYc3VHMVdFbENIRmRwdExGNEotYXBZWmlnUHVBQjJaLWNEQUVxemhhNDFvVnNVR3IzNXh6b0tOWmFySlpQSVM4UldSY0lodjRCVmV4WUpmRVVsRHZQaVVGT2Zkc0laclZvb0l0WDBBbjZkcDZMZjBudnBRa1R1ZmpMbjA5X3FWQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Anthropic and Trump: Is a truce near? - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFRvWUhIaklQSzhsY29iUHVRSHZ5dTBUVGtYZ3VYZWUwbGl6Q1ZWUU4zVGNRWWpRWGZudVNQLUdwMkFPaTl2MDUyY3k0MTlpOVQwSXoydWFpWnlIaDhQU1F3ME5kb2tmd3FOcVA5bFF6OW1NaV9hUDVZLVBYdjBVeTRQYzRSVEp0VjFSbF93?oc=5\" target=\"_blank\">Anthropic and Trump: Is a truce near?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5\" target=\"_blank\">White House and Anthropic hold 'productive' meeting amid fears over Mythos model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNejBhcWEyajdTWTJnZ1RFNGQ2UFNieGo1TnB4U1h3TU1BaGVGdjZzTk5EaDZHRUdiY0hkRVFLb1JUNmR4Zk9EM3AydkZhTlBjX2Q2Z0pBZENjTEdhOVhmV0NVSGdNZXJqN1hsbVl2TDRsMVB1Mm1fQVZYeGQ4LVF1LQ?oc=5\" target=\"_blank\">Scoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjR2WVhJRTlrMzZxNlppRUI2QlVKV0VCTkhJYnNnR0JBdDNObXpkQllJa1dVUndKRnM5Q0pEbXJxNVBOQU9sVl9PWHlSZTFSY3hmYkpJQkdvM0ZPLW5jeDhEOEQ4YlY1Y2ZPNkFNYjhvZ0ZxZjRVdTY2SWxmTWtKMmNTUExzbmFidmxaVGwyNk5aY2tDWUxUeWhsdXBrYldRTWxuUUdWRHhxcWFJNkRqMGdB?oc=5\" target=\"_blank\">What is Mythos and why are experts worried about Anthropic\u2019s AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific American</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTmNWYm5FMExoY2M2Zk0xOXhZVEZxaUJFbmdVQTV3cHVvUndTXzNlN2c1X3czY0xNZGJ6RzZMa0JHTklzZk9nUlN0UHRLYVRWU1VrandmVm45dEVPN1VJTTRmdkdxUTl0b1ZYckpFVVY4QW1WZVlmODVraU5lT0U?oc=5\" target=\"_blank\">Opinion | It\u2019s the End of the Internet as We Know It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFRvWUhIaklQSzhsY29iUHVRSHZ5dTBUVGtYZ3VYZWUwbGl6Q1ZWUU4zVGNRWWpRWGZudVNQLUdwMkFPaTl2MDUyY3k0MTlpOVQwSXoydWFpWnlIaDhQU1F3ME5kb2tmd3FOcVA5bFF6OW1NaV9hUDVZLVBYdjBVeTRQYzRSVEp0VjFSbF93?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "industrials"
+      ],
+      "company_profile": {
+        "industry": "Engineering & Construction",
+        "provider": "yfinance",
+        "sector": "Industrials"
+      },
+      "effective_adverse_effect_count": 5,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        }
+      ],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "APi Group (NYSE:APG) Hits New 12-Month High - What's Next? - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWNNOEVkTlY3emQxaWwyNDczUFhkazlXSVhfWHJjUmdCMzFFQWRRZVVRRml4S0ZTem9ZR2drYXpHamhsN1BKTTB0SnZQaGFKZVd5Yk5wbVdQZWtQMU1sbEREUjh1dkd6bVVsVE5WYTdXQXYtZXVSTXdSZmdZc2ZtdVRVZUUyMjJCd24tZmNfZHJHR3BsUFh0UWV5R1l5Mjk1a0JnSVAwaGU?oc=5\" target=\"_blank\">APi Group (NYSE:APG) Hits New 12-Month High - What's Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWNNOEVkTlY3emQxaWwyNDczUFhkazlXSVhfWHJjUmdCMzFFQWRRZVVRRml4S0ZTem9ZR2drYXpHamhsN1BKTTB0SnZQaGFKZVd5Yk5wbVdQZWtQMU1sbEREUjh1dkd6bVVsVE5WYTdXQXYtZXVSTXdSZmdZc2ZtdVRVZUUyMjJCd24tZmNfZHJHR3BsUFh0UWV5R1l5Mjk1a0JnSVAwaGU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "APi Group (NYSE:APG) Rating Lowered to \"Hold\" at Wall Street Zen - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2RjOGE4dmZNMHFMMVdDMnNhT0U5Z0hUWGtQdjRkdzBCSVJSdnhpSjhmbWtFbm9IaGNqdzQzLVZPRFRnbnNTdEFzdFQwN3RseGxjVnVYZW9QN2YtM0xwWjJhNzZOdkRjc25DRkxONTNvbGc3dWhpVTQtX3Y3VEM5b00yektkQk1oVzl6ZUtuN0VIM2JhN2FvLWdzNzZtREpoM0F2UXNBaC1rc1hvOXZhc01ORQ?oc=5\" target=\"_blank\">APi Group (NYSE:APG) Rating Lowered to \"Hold\" at Wall Street Zen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2RjOGE4dmZNMHFMMVdDMnNhT0U5Z0hUWGtQdjRkdzBCSVJSdnhpSjhmbWtFbm9IaGNqdzQzLVZPRFRnbnNTdEFzdFQwN3RseGxjVnVYZW9QN2YtM0xwWjJhNzZOdkRjc25DRkxONTNvbGc3dWhpVTQtX3Y3VEM5b00yektkQk1oVzl6ZUtuN0VIM2JhN2FvLWdzNzZtREpoM0F2UXNBaC1rc1hvOXZhc01ORQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "APi Group Corp (APG) Stock Up 5.3% but GF Value Says Overvalued -- GF Score: 81/100 - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNMmVHNmVnUzdtbElOVmtSNlVZODV4OW9ycHVaYWU0S3JUNWIzb1VGWWdhcjRkdHpDMjBuSndXdGJldHVQNi1sZmVka251VDBQaG1PSnJDajBEVXo1QXFHRUdpYjM2eDBETVNKMTNEcjdWX3BQNjlVLUZRaTAxTFBST211b0ZBQ3NCMEpSdTNId0xkSkJyelVvdjN5OUN6M0Q4U3IzcFl4LUhxOFFQazY1ZU5NN1RpclJBY0E3c2xsWGEwdGE1TkZhTGVUSWs2MXhxVm5sMVRnb1B6ZjdQb1pPaW9lTlFhVHFwNUFzN3k4dDl6RWRPT2EyYVdCc3Rndmdpb0VuemN3aENtZ0NNd0xWT1hrSHRiLVlDa2ZUc1RPRDFjaE5NLVVOc3Bmbk9mdG1mdEJz?oc=5\" target=\"_blank\">APi Group Corp (APG) Stock Up 5.3% but GF Value Says Overvalued -- GF Score: 81/100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMmVHNmVnUzdtbElOVmtSNlVZODV4OW9ycHVaYWU0S3JUNWIzb1VGWWdhcjRkdHpDMjBuSndXdGJldHVQNi1sZmVka251VDBQaG1PSnJDajBEVXo1QXFHRUdpYjM2eDBETVNKMTNEcjdWX3BQNjlVLUZRaTAxTFBST211b0ZBQ3NCMEpSdTNId0xkSkJyelVvdjN5OUN6M0Q4U3IzcFl4LUhxOFFQazY1ZU5NN1RpclJBY0E3c2xsWGEwdGE1TkZhTGVUSWs2MXhxVm5sMVRnb1B6ZjdQb1pPaW9lTlFhVHFwNUFzN3k4dDl6RWRPT2EyYVdCc3Rndmdpb0VuemN3aENtZ0NNd0xWT1hrSHRiLVlDa2ZUc1RPRDFjaE5NLVVOc3Bmbk9mdG1mdEJz?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "APi Group (NYSE:APG) Sees Large Volume Increase - Time to Buy? - MarketBeat",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.041666666666666664,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTVtM29mVVc5c3FzYmswXzFIWDJudzl5anhUaVAzS2l4eWtWVWRXRlRFandLTktJQmtjN04ya3ZCNlJIQi10ZUxHNWROM2U2OG1MX0RTN3A1WElUbk5nN2kyeHpTRjVRckg2aEJBblNQQVlHZkYxbjhZMWpzVWhhSF9KcFNrNFFfYU1kM0k3NVNNb3JuOVFqQURqdjdlcnh3MnFvdGprazRydTI2dzhv?oc=5\" target=\"_blank\">APi Group (NYSE:APG) Sees Large Volume Increase - Time to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTVtM29mVVc5c3FzYmswXzFIWDJudzl5anhUaVAzS2l4eWtWVWRXRlRFandLTktJQmtjN04ya3ZCNlJIQi10ZUxHNWROM2U2OG1MX0RTN3A1WElUbk5nN2kyeHpTRjVRckg2aEJBblNQQVlHZkYxbjhZMWpzVWhhSF9KcFNrNFFfYU1kM0k3NVNNb3JuOVFqQURqdjdlcnh3MnFvdGprazRydTI2dzhv?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Api Group stock hits all-time high at 46.89 USD By Investing.com - Investing.com India",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Investing.com India",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjlvUWpxSXptNFRZbnh0SWllOVJvTlI3aTJIZ2FEWWNtV3lNQWszUjVocF9xdnlvWVd5UlJYbExQZnZVNVprQUlHek9lSUQtTi1zYjNSdFZOZnlpeERaUkxBR3FHSnRDZW90NGdDRVdxeWt1ZkV4dnZ2M3dTMEJrbFNEeEFSaUxMR1V4azVaY3BFZm9rdlViOGYzeXhKeTFKNURJ?oc=5\" target=\"_blank\">Api Group stock hits all-time high at 46.89 USD By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjlvUWpxSXptNFRZbnh0SWllOVJvTlI3aTJIZ2FEWWNtV3lNQWszUjVocF9xdnlvWVd5UlJYbExQZnZVNVprQUlHek9lSUQtTi1zYjNSdFZOZnlpeERaUkxBR3FHSnRDZW90NGdDRVdxeWt1ZkV4dnZ2M3dTMEJrbFNEeEFSaUxMR1V4azVaY3BFZm9rdlViOGYzeXhKeTFKNURJ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "APi Group: Transaction Expected to Close in 2H of 2026 >APG - Moomoo",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Moomoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVg5Qm1aS3NGUi1IdVRqckVsYThaWHp3VGxUdDlnUURoRlh3UGdsamVyN0xCRGh3ajhoYkNVc0tuYlVIemdraGwyU2s5RVRycnRzQXFkUVkzeUhyQ2FmTEtMaVhCa2FwMlZJQkV0a0xUbVNvTld2ZnpwRDVFQ1NGU0xsanBZWjROLURaTGtXdWRWQW45T1E1ZmpFWQ?oc=5\" target=\"_blank\">APi Group: Transaction Expected to Close in 2H of 2026 >APG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVg5Qm1aS3NGUi1IdVRqckVsYThaWHp3VGxUdDlnUURoRlh3UGdsamVyN0xCRGh3ajhoYkNVc0tuYlVIemdraGwyU2s5RVRycnRzQXFkUVkzeUhyQ2FmTEtMaVhCa2FwMlZJQkV0a0xUbVNvTld2ZnpwRDVFQ1NGU0xsanBZWjROLURaTGtXdWRWQW45T1E1ZmpFWQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-17",
+          "headline": "APi Group Announces the Acquisition of Wtech Fire Group - APi Group - Investor Relations",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "APi Group - Investor Relations",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHZPSEZYRmRudVBmVDNPZnlYaTNESjE3cm9FVTBYdGIwaksycUEzMXYzd2VmdHZVY1ZpdW5USVo4NDU5U25vRFV5UVhvVE1aX29ORGxiYWVHYnlITjZ0V2NBNlJrX3ZhQ3VvMHVaV0xtanRMZlVzZ1hILUtuZWxMUS1VdEw5NGF1aUlzal9RbE9JdXBiLUYtU3dyOFhhVDZCUGhOMkdyaFB1Z3JFZmc4VXZTMmdLVUlxQlF0Z3loQ1JFclcybjZKNDl3QzQ3OXM?oc=5\" target=\"_blank\">APi Group Announces the Acquisition of Wtech Fire Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APi Group - Investor Relations</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHZPSEZYRmRudVBmVDNPZnlYaTNESjE3cm9FVTBYdGIwaksycUEzMXYzd2VmdHZVY1ZpdW5USVo4NDU5U25vRFV5UVhvVE1aX29ORGxiYWVHYnlITjZ0V2NBNlJrX3ZhQ3VvMHVaV0xtanRMZlVzZ1hILUtuZWxMUS1VdEw5NGF1aUlzal9RbE9JdXBiLUYtU3dyOFhhVDZCUGhOMkdyaFB1Z3JFZmc4VXZTMmdLVUlxQlF0Z3loQ1JFclcybjZKNDl3QzQ3OXM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "APi Group Corporation $APG Shares Sold by Massachusetts Financial Services Co. MA - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0NaS0hRUlp5WFpsYzI4VFJzd18zVE5vaFJBa1NoQ01kaU5NbjBjdjZfNUxoRE9tbEYzSVlVX1dQVVhHTy1WLVE0V1NxaW5tU1lhY2x2emJ2d19YN0hJeldXQnhOXzdPRk1lM201RFRrVGcyQzIyOE1nMDBSRWhIMkJDa19ocE1QX3U4LXZQcnNCN3htWmVPTkE1MkRWTGFmWGQzUlVQWXNvYWxTa1lHMnZQc0tpNjgtcUdBR3JWU1N2NjVFM2hyUmxPZWRRMFJYclV6R05XMA?oc=5\" target=\"_blank\">APi Group Corporation $APG Shares Sold by Massachusetts Financial Services Co. MA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0NaS0hRUlp5WFpsYzI4VFJzd18zVE5vaFJBa1NoQ01kaU5NbjBjdjZfNUxoRE9tbEYzSVlVX1dQVVhHTy1WLVE0V1NxaW5tU1lhY2x2emJ2d19YN0hJeldXQnhOXzdPRk1lM201RFRrVGcyQzIyOE1nMDBSRWhIMkJDa19ocE1QX3U4LXZQcnNCN3htWmVPTkE1MkRWTGFmWGQzUlVQWXNvYWxTa1lHMnZQc0tpNjgtcUdBR3JWU1N2NjVFM2hyUmxPZWRRMFJYclV6R05XMA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Changelly Launches Ultimate DeFi Swap Flow and API for Cross-Chain and On-Chain Swaps - markets.businessinsider.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "markets.businessinsider.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFpqWlktaXpGbG1GM0tOWllkcExQZ0dYeXBZOVpZTXlnU0wyOWFvS2lZdTBGeTE3WGMwWmYya1NCMkhpLW1ReWNremI4cE9neDIzTG4tanBTNzhQMmxfX05YNnV2OFhONWRyQWxybkhYcEpaSml3MnplaUluVWhJSkt3RnFDMFdNckM2ZVFMeXRYMUkwNVhfWExIcE9XbHBtdV9UTkNtczVCQi04a3dDUEkwSmt2SC01c0UwLWwyaVJLQ3o4UDNwem9fUnlVVzM5cDlXdW5Gby1OYm5t?oc=5\" target=\"_blank\">Changelly Launches Ultimate DeFi Swap Flow and API for Cross-Chain and On-Chain Swaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFpqWlktaXpGbG1GM0tOWllkcExQZ0dYeXBZOVpZTXlnU0wyOWFvS2lZdTBGeTE3WGMwWmYya1NCMkhpLW1ReWNremI4cE9neDIzTG4tanBTNzhQMmxfX05YNnV2OFhONWRyQWxybkhYcEpaSml3MnplaUluVWhJSkt3RnFDMFdNckM2ZVFMeXRYMUkwNVhfWExIcE9XbHBtdV9UTkNtczVCQi04a3dDUEkwSmt2SC01c0UwLWwyaVJLQ3o4UDNwem9fUnlVVzM5cDlXdW5Gby1OYm5t?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Postman Announces Collaboration with Microsoft to Expand AI Model Choice, Accelerate Developer Workflows, and Unify API Governance - Business Wire",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Business Wire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPWDhjSkhWVlNBdUZjekxBektGdmhRY05fN2tKR0pKUWhYZXlCTWZFM1cyaHR2c2tKanFxYjJiOHo0MHI3V09Ca3hrVHNseFAxRTY1eUcwVU5MRDRuZWlTdm03NHdUU2djX2RhZlJaYi1YeWhPa09RSEluXzY1YXUtTnhtLWdzV2pic1ZVQzlzaGdlYm5wUVdoRUpTNVFrZHY4dkRLdXltZXMta09mNTFmQ1pnWm50RTZFejBibC13cDJOU201NGtqRGx1eDZPWU9GVHBzV00yTzI0M0M1MndPNEV4SGZFMDcxVzFfWFZ1b0pTeHdXVHhPQmJlSVpldkt2Mkc5cEJBY0t4dWRFVlhZMDhnMA?oc=5\" target=\"_blank\">Postman Announces Collaboration with Microsoft to Expand AI Model Choice, Accelerate Developer Workflows, and Unify API Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWDhjSkhWVlNBdUZjekxBektGdmhRY05fN2tKR0pKUWhYZXlCTWZFM1cyaHR2c2tKanFxYjJiOHo0MHI3V09Ca3hrVHNseFAxRTY1eUcwVU5MRDRuZWlTdm03NHdUU2djX2RhZlJaYi1YeWhPa09RSEluXzY1YXUtTnhtLWdzV2pic1ZVQzlzaGdlYm5wUVdoRUpTNVFrZHY4dkRLdXltZXMta09mNTFmQ1pnWm50RTZFejBibC13cDJOU201NGtqRGx1eDZPWU9GVHBzV00yTzI0M0M1MndPNEV4SGZFMDcxVzFfWFZ1b0pTeHdXVHhPQmJlSVpldkt2Mkc5cEJBY0t4dWRFVlhZMDhnMA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "Nokia named overall leader for network API platforms by ABI Research, ranking first in innovation and implementation - Nokia",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Nokia",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGtSTk8xY3pDbmtqTm5yOVRoX29LZGV3OXQxaVViSGgzUmdkdy1CeWh3RTRKVXJabDRoU2wwLUZ4OWdPTG1nN0ZyeXdQa2tIUkZYXzZzNzZsOGNOZk45LUJ1SjZGem1wcXhOUi04Ym1FNzI0elhuckdvTVVkN1hvb2tsOWVtOFF4c1pmMmI5SFJSVEVjUVhPVHV6YjFVUzFiNlRza1hkNlc5T0tEV1F5aUtINjFhQXdyM183ZDQtbkhxUThQdVBwcTFWYWNRVUNyc0FHWmN4R0MtX1ltZ1VpQg?oc=5\" target=\"_blank\">Nokia named overall leader for network API platforms by ABI Research, ranking first in innovation and implementation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nokia</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGtSTk8xY3pDbmtqTm5yOVRoX29LZGV3OXQxaVViSGgzUmdkdy1CeWh3RTRKVXJabDRoU2wwLUZ4OWdPTG1nN0ZyeXdQa2tIUkZYXzZzNzZsOGNOZk45LUJ1SjZGem1wcXhOUi04Ym1FNzI0elhuckdvTVVkN1hvb2tsOWVtOFF4c1pmMmI5SFJSVEVjUVhPVHV6YjFVUzFiNlRza1hkNlc5T0tEV1F5aUtINjFhQXdyM183ZDQtbkhxUThQdVBwcTFWYWNRVUNyc0FHWmN4R0MtX1ltZ1VpQg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "New enhancements for merchant initiated transactions with the Google Pay API - blog.google",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "blog.google",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTNhZk9QNWItaHVHS005dURLYW5hOUR1VXBuYjRXZ2o5QWdER3EyRTNwaURvVEYyaUFFZ0c0SHVES2tJc3BJb0J3azNxcTRGYU4wOUNueV9DSGdGZU9JS0x3anlCcDFPZVBDcW1FSnZEcmhsZjJnM3RQcnFNNDBXWGtpd1RmYURmYWR4MmlMY0VCZUNVSFJ3MjdCRVJXVUdsdUNDQ3RLMVlYMUtfNFItaA?oc=5\" target=\"_blank\">New enhancements for merchant initiated transactions with the Google Pay API</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTNhZk9QNWItaHVHS005dURLYW5hOUR1VXBuYjRXZ2o5QWdER3EyRTNwaURvVEYyaUFFZ0c0SHVES2tJc3BJb0J3azNxcTRGYU4wOUNueV9DSGdGZU9JS0x3anlCcDFPZVBDcW1FSnZEcmhsZjJnM3RQcnFNNDBXWGtpd1RmYURmYWR4MmlMY0VCZUNVSFJ3MjdCRVJXVUdsdUNDQ3RLMVlYMUtfNFItaA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Prepay for the Gemini API to get more control over your spend - blog.google",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "blog.google",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0k5OVA2WHpOY0FDbXBPMk1mRjZRRHMzZllQYm9VVXJMeHVBNk50NGp1dlA0TFdIMWVNMWRBN1dxSmprM3Z4RmJzTVotdGdXb29hSzAwblU4NTVQVFJheGdNRHpvUnJKT3VpRlpNbFdyNkZVYnNLd1RmT0hxYk5sMUd6T2ktOVl2RUZ0Ug?oc=5\" target=\"_blank\">Prepay for the Gemini API to get more control over your spend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0k5OVA2WHpOY0FDbXBPMk1mRjZRRHMzZllQYm9VVXJMeHVBNk50NGp1dlA0TFdIMWVNMWRBN1dxSmprM3Z4RmJzTVotdGdXb29hSzAwblU4NTVQVFJheGdNRHpvUnJKT3VpRlpNbFdyNkZVYnNLd1RmT0hxYk5sMUd6T2ktOVl2RUZ0Ug?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Register domains wherever you build: Cloudflare Registrar API now in beta - The Cloudflare Blog",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Cloudflare Blog",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBekhKYUI1V0NVMmtWcjZFTGJkWG5RaGNrX2N0bXBJVWgtWlA3VG9JNWNSUENndVp6ZEw0cE04WXN0X1lYdTVHVnpxVVhNMjFJRmM0UThnZEVVQW8?oc=5\" target=\"_blank\">Register domains wherever you build: Cloudflare Registrar API now in beta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cloudflare Blog</font>",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBekhKYUI1V0NVMmtWcjZFTGJkWG5RaGNrX2N0bXBJVWgtWlA3VG9JNWNSUENndVp6ZEw0cE04WXN0X1lYdTVHVnpxVVhNMjFJRmM0UThnZEVVQW8?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "APi Group (APG) Shows Commitment Towards AI-Related Initiatives - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEFWR1lKZ3lEQXJ3dGl0dGhXMGVla0VKSFBPcE1kSXc4UG9WN0tXOVB6TkVuZEpXY3NXLU1xYnhQX3lyMENhbDJpM2Z4Znp2NUtWMUlyd1NDNXVaRUZnd045cEpsRGJEVDNPVi1YRTVWN1V1YVpLSU04blNCbDJKN3ZDcDI4T2Job0tkQmVsN1FvMU02SzQ4YU9NRQ?oc=5\" target=\"_blank\">APi Group (APG) Shows Commitment Towards AI-Related Initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEFWR1lKZ3lEQXJ3dGl0dGhXMGVla0VKSFBPcE1kSXc4UG9WN0tXOVB6TkVuZEpXY3NXLU1xYnhQX3lyMENhbDJpM2Z4Znp2NUtWMUlyd1NDNXVaRUZnd045cEpsRGJEVDNPVi1YRTVWN1V1YVpLSU04blNCbDJKN3ZDcDI4T2Job0tkQmVsN1FvMU02SzQ4YU9NRQ?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 2
+    },
+    "sentiment": {
+      "days_sampled": 7,
+      "delta": -0.021494708994708994,
+      "prior_mean": 0.023809523809523808,
+      "recent_mean": 0.0023148148148148147
+    },
+    "technical": {
+      "atr14": 1.37354977819992,
+      "close": 46.75,
+      "close_vs_ema200_pct": 16.78951029708432,
+      "close_vs_ema20_pct": 7.663131392531035,
+      "close_vs_ema50_pct": 9.941408949376996,
+      "close_vs_hh20_pct": 2.792436235708011,
+      "ema20": 43.4224784244416,
+      "ema200": 40.0292799251228,
+      "ema50": 42.522649515549,
+      "entry_ready": false,
+      "hh20_prev": 45.48,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.33458608020385
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 5,
+    "effective_adverse_effects": 5,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "industrials"
+    ],
+    "industry": "Engineering & Construction",
+    "sector": "Industrials",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 2 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 5 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "conflicting"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-18: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Amid blockade, U.S. destroyers shadow laden Iranian tankers - The Washington Post."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-18: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind): Trump says he has 'good news' on Iran as tankers cross Strait of Hormuz - Reuters."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (45.48), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.33, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-17: APi Group (NYSE:APG) Sees Large Volume Increase - Time to Buy? - MarketBeat."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-17: APi Group Announces the Acquisition of Wtech Fire Group - APi Group - Investor Relations."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 45.48 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-04-18: Amid blockade, U.S. destroyers shadow laden Iranian tankers - The Washington Post."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind): 2026-04-18: Trump says he has 'good news' on Iran as tankers cross Strait of Hormuz - Reuters."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 2.79
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.33
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 7.66
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 9.94
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 16.79
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 5
+      }
+    ],
+    "confidence": "high",
+    "label": "mixed_watch",
+    "score_0_to_100": 59
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-18",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-18_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-04-18",
+      "publisher": "MarketBeat",
+      "title": "APi Group (NYSE:APG) Hits New 12-Month High - What's Next? - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWNNOEVkTlY3emQxaWwyNDczUFhkazlXSVhfWHJjUmdCMzFFQWRRZVVRRml4S0ZTem9ZR2drYXpHamhsN1BKTTB0SnZQaGFKZVd5Yk5wbVdQZWtQMU1sbEREUjh1dkd6bVVsVE5WYTdXQXYtZXVSTXdSZmdZc2ZtdVRVZUUyMjJCd24tZmNfZHJHR3BsUFh0UWV5R1l5Mjk1a0JnSVAwaGU?oc=5"
+    },
+    {
+      "published_at": "2026-04-18",
+      "publisher": "MarketBeat",
+      "title": "APi Group (NYSE:APG) Rating Lowered to \"Hold\" at Wall Street Zen - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2RjOGE4dmZNMHFMMVdDMnNhT0U5Z0hUWGtQdjRkdzBCSVJSdnhpSjhmbWtFbm9IaGNqdzQzLVZPRFRnbnNTdEFzdFQwN3RseGxjVnVYZW9QN2YtM0xwWjJhNzZOdkRjc25DRkxONTNvbGc3dWhpVTQtX3Y3VEM5b00yektkQk1oVzl6ZUtuN0VIM2JhN2FvLWdzNzZtREpoM0F2UXNBaC1rc1hvOXZhc01ORQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-18",
+      "publisher": "GuruFocus",
+      "title": "APi Group Corp (APG) Stock Up 5.3% but GF Value Says Overvalued -- GF Score: 81/100 - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMmVHNmVnUzdtbElOVmtSNlVZODV4OW9ycHVaYWU0S3JUNWIzb1VGWWdhcjRkdHpDMjBuSndXdGJldHVQNi1sZmVka251VDBQaG1PSnJDajBEVXo1QXFHRUdpYjM2eDBETVNKMTNEcjdWX3BQNjlVLUZRaTAxTFBST211b0ZBQ3NCMEpSdTNId0xkSkJyelVvdjN5OUN6M0Q4U3IzcFl4LUhxOFFQazY1ZU5NN1RpclJBY0E3c2xsWGEwdGE1TkZhTGVUSWs2MXhxVm5sMVRnb1B6ZjdQb1pPaW9lTlFhVHFwNUFzN3k4dDl6RWRPT2EyYVdCc3Rndmdpb0VuemN3aENtZ0NNd0xWT1hrSHRiLVlDa2ZUc1RPRDFjaE5NLVVOc3Bmbk9mdG1mdEJz?oc=5"
+    },
+    {
+      "published_at": "2026-04-17",
+      "publisher": "MarketBeat",
+      "title": "APi Group (NYSE:APG) Sees Large Volume Increase - Time to Buy? - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTVtM29mVVc5c3FzYmswXzFIWDJudzl5anhUaVAzS2l4eWtWVWRXRlRFandLTktJQmtjN04ya3ZCNlJIQi10ZUxHNWROM2U2OG1MX0RTN3A1WElUbk5nN2kyeHpTRjVRckg2aEJBblNQQVlHZkYxbjhZMWpzVWhhSF9KcFNrNFFfYU1kM0k3NVNNb3JuOVFqQURqdjdlcnh3MnFvdGprazRydTI2dzhv?oc=5"
+    },
+    {
+      "published_at": "2026-04-17",
+      "publisher": "Investing.com India",
+      "title": "Api Group stock hits all-time high at 46.89 USD By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjlvUWpxSXptNFRZbnh0SWllOVJvTlI3aTJIZ2FEWWNtV3lNQWszUjVocF9xdnlvWVd5UlJYbExQZnZVNVprQUlHek9lSUQtTi1zYjNSdFZOZnlpeERaUkxBR3FHSnRDZW90NGdDRVdxeWt1ZkV4dnZ2M3dTMEJrbFNEeEFSaUxMR1V4azVaY3BFZm9rdlViOGYzeXhKeTFKNURJ?oc=5"
+    },
+    {
+      "published_at": "2026-04-17",
+      "publisher": "Moomoo",
+      "title": "APi Group: Transaction Expected to Close in 2H of 2026 >APG - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVg5Qm1aS3NGUi1IdVRqckVsYThaWHp3VGxUdDlnUURoRlh3UGdsamVyN0xCRGh3ajhoYkNVc0tuYlVIemdraGwyU2s5RVRycnRzQXFkUVkzeUhyQ2FmTEtMaVhCa2FwMlZJQkV0a0xUbVNvTld2ZnpwRDVFQ1NGU0xsanBZWjROLURaTGtXdWRWQW45T1E1ZmpFWQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-17",
+      "publisher": "APi Group - Investor Relations",
+      "title": "APi Group Announces the Acquisition of Wtech Fire Group - APi Group - Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHZPSEZYRmRudVBmVDNPZnlYaTNESjE3cm9FVTBYdGIwaksycUEzMXYzd2VmdHZVY1ZpdW5USVo4NDU5U25vRFV5UVhvVE1aX29ORGxiYWVHYnlITjZ0V2NBNlJrX3ZhQ3VvMHVaV0xtanRMZlVzZ1hILUtuZWxMUS1VdEw5NGF1aUlzal9RbE9JdXBiLUYtU3dyOFhhVDZCUGhOMkdyaFB1Z3JFZmc4VXZTMmdLVUlxQlF0Z3loQ1JFclcybjZKNDl3QzQ3OXM?oc=5"
+    }
+  ],
+  "summary": "APG scores 59/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 5 adverse effects.",
+  "symbol": "APG"
+}

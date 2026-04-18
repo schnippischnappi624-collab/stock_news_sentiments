@@ -1,0 +1,14 @@
+{
+  "country": "Cyprus",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-18T09:15:50.416719+00:00",
+  "industry": "Oil & Gas Midstream",
+  "long_name": "Frontline plc",
+  "provider": "yfinance",
+  "query_symbol": "FRO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FRO",
+  "sector": "Energy",
+  "short_name": "Frontline Plc",
+  "symbol": "FRO"
+}

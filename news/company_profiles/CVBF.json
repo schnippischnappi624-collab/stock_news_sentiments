@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-18T09:15:50.416719+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "CVB Financial Corp.",
+  "provider": "yfinance",
+  "query_symbol": "CVBF",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CVBF",
+  "sector": "Financial Services",
+  "short_name": "CVB Financial Corporation",
+  "symbol": "CVBF"
+}

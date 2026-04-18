@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-18T09:15:50.416719+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "First Financial Bancorp.",
+  "provider": "yfinance",
+  "query_symbol": "FFBC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FFBC",
+  "sector": "Financial Services",
+  "short_name": "First Financial Bancorp.",
+  "symbol": "FFBC"
+}

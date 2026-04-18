@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-18T09:15:50.416719+00:00",
+  "industry": "Semiconductors",
+  "long_name": "MaxLinear, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "MXL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MXL",
+  "sector": "Technology",
+  "short_name": "MaxLinear, Inc",
+  "symbol": "MXL"
+}
