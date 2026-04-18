@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Information Technology Services",
+  "long_name": "SNP Schneider-Neureither & Partner SE",
+  "provider": "yfinance",
+  "query_symbol": "SHF.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SHF",
+  "sector": "Technology",
+  "short_name": "SNP Schnei.Neureith.&Partn.SE I",
+  "symbol": "SHF.DE"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Entertainment",
+  "long_name": "Acast AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "ACAST.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ACAST",
+  "sector": "Communication Services",
+  "short_name": "Acast AB",
+  "symbol": "ACAST.ST"
+}

@@ -1,6 +1,6 @@
 {
   "analysis_mode": "hybrid",
-  "generated_at_utc": "2026-04-17T09:05:16.563117+00:00",
+  "generated_at_utc": "2026-04-17T13:21:00.400551+00:00",
   "investing_quote_links": {
     "cache_hits": 17,
     "lookup_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/maintenance/investing_quote_links.json",
@@ -14,15 +14,26 @@
     ]
   },
   "investing_technical": {
-    "resolved_symbols": 17,
+    "resolved_symbols": 3,
     "unresolved_symbols": [
+      "HYDRA",
       "GLO",
+      "N4G0",
+      "FAST",
+      "CMCOM",
+      "OPTS",
+      "MLP",
+      "BRKN",
       "DFDS",
+      "STGN",
+      "OHB",
+      "FREY",
+      "RAIKV",
+      "ZLNA",
       "MLUMG",
-      "SSAB-B",
-      "NDA",
-      "STORY-B",
-      "ATS"
+      "AKSO",
+      "ACAD",
+      "STORY-B"
     ]
   },
   "ok": true,

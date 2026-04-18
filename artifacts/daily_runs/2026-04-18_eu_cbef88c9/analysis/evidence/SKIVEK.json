@@ -1,0 +1,464 @@
+{
+  "analysis_date": "2026-04-18",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "low",
+    "label": "constructive_bullish",
+    "score_0_to_100": 75,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 4188.50 and attract follow-through volume."
+    }
+  ],
+  "company_name": "SKAGEN Vekst A",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Anthropic CEO visits White House amid hacking fears over new AI model - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk9iMkZSZEx1YWxvRXFzRm9vYWV4RWRaYlJFWjBYSFF2MHhITy10a0ZfbDNrTnptZDY4UTR6UmJZT2NSanpFSGZsMTJKRUdaRmZyOTVrTTF0Z2lKRXItVXpMNHlaak11aVlZbklIcVkwcWppdWs1T0lyakwxU3VTOFU1b1huWXd1?oc=5\" target=\"_blank\">Anthropic CEO visits White House amid hacking fears over new AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5\" target=\"_blank\">White House and Anthropic hold 'productive' meeting amid fears over Mythos model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTZsNzBDRkVYZnpocmpLbE91NTRZUm5Nb2Fua3pJN1U5ejVKYmtUX2dlWW1lMGRnOHpoVUtRaDJ0WVF2d1cycnVzUXlhdXBsMG9fekNBYkhoRGpUbXg5ZEd2cHRwb2NxRzRKZ2ROSElVdXRCMmppOE9oN3AtbmtDWVBNWndCZndhZ1E?oc=5\" target=\"_blank\">CEO of blacklisted Anthropic and White House hold \u2018productive\u2019 discussions on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNejBhcWEyajdTWTJnZ1RFNGQ2UFNieGo1TnB4U1h3TU1BaGVGdjZzTk5EaDZHRUdiY0hkRVFLb1JUNmR4Zk9EM3AydkZhTlBjX2Q2Z0pBZENjTEdhOVhmV0NVSGdNZXJqN1hsbVl2TDRsMVB1Mm1fQVZYeGQ4LVF1LQ?oc=5\" target=\"_blank\">Scoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9ISFZrOUduZ016M18xc2w3enE1VjB5eHl0NVZyelpQdnp1dmMzR2xyZUhzSk90RjlFdS1KYnFkd2kyc1kyenhIRHNCUzBSVXY5emFZNjBnLWIweEF1VUc3bnJIak8yNlNvRHRGX3prYw?oc=5\" target=\"_blank\">Anthropic\u2019s Nuclear Bomb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">War on the Rocks</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk9iMkZSZEx1YWxvRXFzRm9vYWV4RWRaYlJFWjBYSFF2MHhITy10a0ZfbDNrTnptZDY4UTR6UmJZT2NSanpFSGZsMTJKRUdaRmZyOTVrTTF0Z2lKRXItVXpMNHlaak11aVlZbklIcVkwcWppdWs1T0lyakwxU3VTOFU1b1huWXd1?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Amid blockade, U.S. destroyers shadow laden Iranian tankers - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUItdVpQc1ZBdUVTWHluMTltaWt1X0ZiOG5FZGd5RGMtUGN6SS01OEV3NC1FMkVOd0ltLUloeUljLUp0bUxwcnhPUkhlOUE5TG9LaUZRZWNxc1QyV3NhQXNyUFF1RERiTzJ0TGUwc2lxeFB4NnJZelNBQy1RU09rdXVtUnQ5a2Q2bHF3QmdFTFU3VFl1b3pV?oc=5\" target=\"_blank\">Amid blockade, U.S. destroyers shadow laden Iranian tankers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTHNEd0FlQlUtallta05jSW51N085aXFnZFo5WXRsalc1M2ZWRW9FVkdqM2l2NHg5SmhFdFNSN2lkbjhXNGszcTF0Z3JBV2xHWjFTbkE4dE5SaDZ1UTQ0UHFheEc5alh0RGpDazVTeVI2U1dkWERiS0hPN3RUTnlQOW1uN05RWmc1dVB1dTh1RWFsN3ZOdkdNX0FTUmRQSHNmZUxWWFZSNUxSUGdQV1NhbUJHQ0REY0hFSlJodjgycTZ1SGJUS3JpUGc3RTA3YVljclJONGY0T2VpUldHcU9Mbkpn?oc=5\" target=\"_blank\">Five Iran Tankers Headed to Malaysia Turn Around to Avoid U.S. Navy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3JxQVFMS19ua1RQem9vejdnaWJYaWFVaTZOOWtXcXZDQ2wxQ1FpRkZ0cmJnMHg4TVBSUnJ2ak9jVmRLMUZpSTFaQUFQMEI0dlllRm5oS3VVWlFub0tqcmhYdklDYmlRTzBhNm40N3huM1NWeWtUY0pPcHFnUVVoaWpKRkVyQVI4R2FaQXRlZmJrQlpJUmlpY1VjUGpOalhIMHV3?oc=5\" target=\"_blank\">Iran Continues to Sell Oil Out of its Floating Storage Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Maritime Executive</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMU9nVTQyRGNZY0JKaUQxTEh1Q0dUc3l3NFhxbzd0TFp5NnpmRTIydFJ2UGpwOEJFcXE5b3c3QU1vY3dLS3d6UWlsQnBqX2N5YWpTLVdqUmgwYW5ocmpjWVRiVEpnZ2xCbmpNLUFwSzQ5UHk4Tkcyc3VDcEFlV080bnpreDZlU3NxTDQtRDFibXVtX1J2X3J1bWpXY3BhT1BnZWFTUXdYWnpPaGtfTEhDV2pNSnhNVVV1N19IOUEtOVg4dFhNcTZkV1FyckJsX1ZGUlRKOGNLcmxGUQ?oc=5\" target=\"_blank\">How ships carrying Iranian oil circumvent sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IslanderNews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjQzcjlISEVTWUFnY1JJZ0d3Nm1wYmNna0pGbFluOFg3VlRDX3hrS19QOUZvNGFmb2dKNHhTNjA0UzlCZllXVzJJRXpoZXVyR2dtdlk0VVJNeG0xWWFXYzh0aWlpRElfQktyU0ZERDFJWHNOd3NHWUE5NnA1cVFWdmtTbXdkdnJNcVo0LUxwTzFaSTgyNjFvYVFucWZkV1NLckhN0gGoAUFVX3lxTE0wV25RUnp4NmFnTUZWUmlQMXhBNV81VWQ4b3QxVzcxT3NZZXFZbzdaY3ZVZUFmdkJpQ3cwVWREbjVpaWxraVgwQkNjWUdrNDVwMW5henhEd0dHaFN1RTc2aHM1Ukw5LTUteFVHOFpHUWQ2dUM0bmZOUFg3NVNnZmdSOUZuN1NHZmd1VnZIVUMtUWw1RTVxVWVkOHE4eTVULXY5Q254ZGtreg?oc=5\" target=\"_blank\">How Iran's Dark Fleet Is Quietly Keeping Oil Markets Afloat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crude Oil Prices Today | OilPrice.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUItdVpQc1ZBdUVTWHluMTltaWt1X0ZiOG5FZGd5RGMtUGN6SS01OEV3NC1FMkVOd0ltLUloeUljLUp0bUxwcnhPUkhlOUE5TG9LaUZRZWNxc1QyV3NhQXNyUFF1RERiTzJ0TGUwc2lxeFB4NnJZelNBQy1RU09rdXVtUnQ5a2Q2bHF3QmdFTFU3VFl1b3pV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Iran mediators meet in Turkey to discuss peace push - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE56UjRxalFwVHR5dWlnX1ZOUWdnX2FSd0dwS19yR292Tjg2X004RVZCTDBacGVQbVdOSmRXamFiT3dqLWVhUnhuOUdILWw0M2FHb25QX0FOeXlYdkNCUWNhMnIwSUpBakNXQnhkZHpmWEhEUVU?oc=5\" target=\"_blank\">Iran mediators meet in Turkey to discuss peace push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXNUl6ekVCSHlwQVhGWXVJVUZDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56UjRxalFwVHR5dWlnX1ZOUWdnX2FSd0dwS19yR292Tjg2X004RVZCTDBacGVQbVdOSmRXamFiT3dqLWVhUnhuOUdILWw0M2FHb25QX0FOeXlYdkNCUWNhMnIwSUpBakNXQnhkZHpmWEhEUVU?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Federal Court Temporarily Freezes Nexstar\u2019s Merger With Tegna - The New York Times",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VmakgwcHhVY0xBaFlxTXBYR1JZNi1LMWk5TkZNUGV3QV9wMVBnY0NfaldMR2FXWUZYWHR6RTgtR0VZaW81RV93ckJGa0RaTjJybmNCZFJ5cVZLSjRYeWZyR2F0dG1sbDlZWDdfclhtc1g4NU1PbHo1Z3ZCakwzamFkbjdkR2NLU3c?oc=5\" target=\"_blank\">Federal Court Temporarily Freezes Nexstar\u2019s Merger With Tegna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmxGVS1XS00wOWRvS3Z5V3AtdnNFZVZsam1ocTNOZjVIVnBTZ2RwZjVoY3pYM2VleFY0Zk1uX2ZaOFhXSE9TeU9KNElRVGFUeFItbVZ6R1g0ZjJVcUVlUjA5U1NhWHdfOUpSUGFsclZGeGRGZFlKT1JVYjA4bTkwcHR0WmExdTRkTmtQaGxrbGloX29jVmlOTDBnNnNmdGFMdEYw0gGoAUFVX3lxTE1Jc3RYbjl4TUxXNldmMzVVbm9TR2pwSHlITHlOcmZya25nbnd4Q29aU3VJYmZrbjJYTk91SFp2MG5EOFhGVkNhbDFVd3d0dzdjdlRucmRvSTgwaUZsem1kUXp3UVkxbTZESDFwZjBpamlPMWRGZUZOZVYzY2QtNDJJc0VTUkJaSHRsN3hadGtGUkFrTThSbWtEdVBXSUFEM3RQNVZESEdBRQ?oc=5\" target=\"_blank\">Judge blocks Nexstar's acquisition of Tegna until antitrust suit resolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUVvRXVHVjF3VkZzaWN2V1p1c1BMX3ZQZElCUEN6bFNYR1FqRUJQdmNiRUdSd3FrQjhjWGZnN3JnampySW1QbklYbDZuMVJJamFQdzQxYk9yZlJ5bXhqQ20zUVFVX25FeDRSLUZQdlhtOFcySWRSSlRqQnlERkFmQkdXNWdvTENMM3o0SlNoVng?oc=5\" target=\"_blank\">Judge Halts Nexstar-Tegna TV Station Merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGd1Zkp2M296cEJ0RURWRlJGa0ppUXFSM0FaaURscGN0XzZ2bUI5TFZ0VVZ5djFIQllLMnl1SUVTZjdicWVVZi1neldlMy1oUzNzRjdlMmRSLTc1VVh6bDROa203cFBOd3VPM0lZaWl0ZW41QlN6NmE2cm5QVUwwb3Q3cUl0NGowcDNNZzdJbw?oc=5\" target=\"_blank\">Judge halts local TV giant Nexstar's takeover of rival Tegna until trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUW5SQWVHOUZPcWh5SEVWSU5NbENlcVRJc0M1MkpKVzhoaE1QX0F3bDdFTWctcU5SY2U1Q0lyeEd4SmlSM1gtSVhhQVRDeDdjYXJGYlpEV09Wdk54dGN0X2hnUFUxbHZfc2R2aE9VVGJhM1VPa21MVURPV0NQZDFQYnlzWXh0bGUwdG9VNElBTEk0MmdqQ2xmd25SR0h0cmhsY2NB?oc=5\" target=\"_blank\">Judge Issues Preliminary Injunction Against Nexstar-Tegna Takeover, Orders Nexstar to Halt Integration Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VmakgwcHhVY0xBaFlxTXBYR1JZNi1LMWk5TkZNUGV3QV9wMVBnY0NfaldMR2FXWUZYWHR6RTgtR0VZaW81RV93ckJGa0RaTjJybmNCZFJ5cVZLSjRYeWZyR2F0dG1sbDlZWDdfclhtc1g4NU1PbHo1Z3ZCakwzamFkbjdkR2NLU3c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "One of the world\u2019s most wanted men is arrested, ending years-long hunt - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5\" target=\"_blank\">One of the world\u2019s most wanted men is arrested, ending years-long hunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EaGo2R3dKZWpLc0xoUHpBR05BWlRNekFGa1VnQ3VPUERKcVA2c0hLOFlJQnEwa3BnTTdSWVFKYUIyRTVaWktrcWRhRVpScVFEdUxrcTg1NHIwdw?oc=5\" target=\"_blank\">Daniel Kinahan arrested in Dubai over serious organised crime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3cyTG5mdVZGTmJOeXhaVDAyLTNlbXlZRlhmQzRuQTIxa2M3UTRZY0pDRDdJVDdqMHpxSVRJblNKTU9mQ2FNUFJULTlDMDFlZU1yMnQweEVoZTlfUFB4ZnJYcHRYWDdfQzJGaEdSXzhNanIwSjhIdE13UTI0MnZuVkxkQW90QjVIcDRuTlgzbGVPU3FqaG90SEJqeDMxaDJoMjdqSW5LMFNVUVBndHBuS1JfYXBxSWlBYWxiYjBYM2xGQdIBxwFBVV95cUxNSEVBZ2dkQ21uM1Y0eGpGXzJhcUk2LWJua3Y1S05jaE5Kc1JXQlJfMk05X3hRNG45aENHVXlBSi1JTlpOTUpzTTJJWEc4VXo0MXJjTWkxUGo5UmZwdkExbUFDZnlCRzJLM1J5OXVaOEVfa0hnR0tjRzVReXlHMVJIbGtZMjBNaEtENk1GTjVlUDk4N1FjenFBckJGYUF4UklDTzRSNVFoN0dOckdoeXA4N1VmazFUTXpITTRCa180NnlXX1JybGxF?oc=5\" target=\"_blank\">Alleged Irish cartel boss arrested in covert operation on organized crime charges after years-long manhunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GN3dGalFsNXJPM3U5MDNDcXlMeko5QVd4ZGN4blNMS1A0cTV6WHpGVkp4T2h0emNoSmFCUmU1dnRZMEh5QnUyWWFHZWx5R25jRHpkYm1XZllPUWxOUWZQajJBUG93MFo1UDc4bFRzSVVBZw?oc=5\" target=\"_blank\">Daniel Kinahan arrested in United Arab Emirates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTE.ie</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0VJUTRISlZSb3o5OUVYeEppQmlrbllJVnpIemZQMUtCY0JJMFRibW8zb0NhVHVIQXBXcjk5SUgtbXNMQnhHVjExVWJsR1ZOQS1aQTdkcXdwOHFkaDRnTXpsdVg2cUFWelJGUEE2YUYwSWtuRmtRZ0lxRlZHWUNjUHVQT0N0Tk9HMDdoOWVmMF9RU0I5VG1QMlFJbGJyWUdtMWtxXzZxdXd1SWRGbWU0?oc=5\" target=\"_blank\">Daniel Kinahan, alleged leader of Irish organised crime group, arrested in UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Trump plans to ease access to psychedelics like psilocybin, ibogaine - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5\" target=\"_blank\">Trump plans to ease access to psychedelics like psilocybin, ibogaine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50TDhmRzJqVzYtRzhjNnRwUDNHQWcwb1AwOWJoX0xZMFhwd1hrV0xRbzcxbVBOdGVqdGZIbkVIWEhZa3FWazlFV3BVY1VtZ3MzZTN4X1k4REhZRS1HaV9ZQk9mbVV6Q0lpOXhtd19hWmxEZWwwOUtpY1hCXzZfZFk?oc=5\" target=\"_blank\">Trump Expected to Loosen Restrictions on Psychedelic Drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMml0Z1BYVFBfczdQOS1vaGQ5OVY1Z002OTlob3hudnQwcXdrLXY5S3ZNQ0Jxd0k3LUtHbFM0QUxsMGV5YU5jSkNteEJKNV9UMlNoUFhydm5VeVdXa3Q1TVYtMDRMOUtsWEd3WFh6b3c0c2VMUjNMUUNody1mM2VxZE5XZ3M3b0hZWVYwV25admo0UnVP0gGaAUFVX3lxTE9VVlFuOEUwYzdsUC05Rl9kWU1QMXBVVXV2Si1ITURZa1Zwa3lrSG5tcDNjMndyeTFZdHk0Rjg0ZU9KZ1VzTVJoYXpqc3JhWEV1RFoyZU9lckg4RTBaTVR0SWlwSE4tYXRfTW5BcndNS2paRktyc0J1UG0zb0xyb1g0VUYxYzhKZ2drZXk1VUNiVXo5UG80NmhQWHc?oc=5\" target=\"_blank\">Trump to sign executive order on psychedelic drug used abroad to treat PTSD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVJrZk5PUTQ5blVXV093NHk3QkNhNVN4VXRHdWFQMFZQOFU4cGVqOGd0RWtLd3hjcWQyM1BRT3BMaXBSUjF3SkhPeDVrU0ZsNC1aZG9GQUZnSUg0OWZMVEc4ZG1LZzhFczVkaVA4WHNaQXlxR3pRYUlyVGZqMnBrUEtRRk9IdGZkbmlGRkMwVVpZNGhtUDZhYkw2dFhFLTc2eUZzLU5nY29KaUNkbk91LThiWQ?oc=5\" target=\"_blank\">Trump set to ease restrictions on psychedelic drug used to treat PTSD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFZkMFd2aGxmNnZGRjlHWWZsV0lNeDdaeXVLSWxwWE9VZkZlRWtyRmI2dFJILWljRVNzc1hqRUhXeXhDZS1aaVJacHd4dHdOYTZ4Y2ZVeVAyN0MyRURZSXQ5TExGMTVZc1h4Z1ZIU1htTmRZWThlSVpfUG1PRVg4RGVaMFhOMjQ?oc=5\" target=\"_blank\">Trump expected to sign executive order urging more research into psychedelic ibogaine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - abcnews.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "abcnews.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5\" target=\"_blank\">Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abcnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOendQRTcwSDdTV1RCQXRiNjd5ZnJzUDlvc2VkTmdqYmhXUE56bFdkeFV6ZUxQVTFScjl4R3RFYjlnREo3cW5nRHZadEZqNG5jVEFhTWlrQVNjZTB0b0RQYzl0clQza20wN3g2UWVvZXZvblJLM0dTU0VoeGlyQTRYVmhLaDVFYUlLSVE?oc=5\" target=\"_blank\">Ford Recalls up to 1.39 Million F-150s Over Risk of Unexpected Downshifting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVRLaVJEZ3AwOURBZ3FBaEIxdFAzSXBqY0dwQ2N2WGpUNlZVZzhSN1AzMXEwemdQUm8yX0xUc1hpbFpfdFZlS3ZFU1ZxMWl4b0M1X1gteWlfUU5OcUQwMlVVcEF5dGZtR1phdEVybWhTTUZydC1ZbVFHU0stMVkwNXhaa9IBiAFBVV95cUxNVk1ONWR0TmViVDF5WVlPSV83WEdDdHItSFdwWDZ6cjR6MFpfckVkUlpXaVp1MW1CVExfaldJZVprdHBGUk02OEMtVldWT0h6cTl4U0NsNE1vbkRIX01NYU5fc093UUZSSGNzNEsyTGJkUnhjQzlxRWI5S25WckpTQkl1UGRXYWo1?oc=5\" target=\"_blank\">Ford recalls nearly 1.4 million F-150 pickup trucks due to gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGVmbTdxYTFXTlFreS02R19KT2Mtbm1tVUoxZVdETTk3ZUJDYnFSaVpaQ0d3azZRQlVCYWxVMHBGNHZOS2I2X3NreWJCTFpBZzVUN1JSalJoRjN0WlJTRnd6ZHpDc1dXNzdTMGFZMV9EYWJJRFcwa1Fld1JJQXJQdGJxTDBtZE8wckZyRXZn?oc=5\" target=\"_blank\">Ford recalls nearly 1.4M vehicles. See affected models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDlYbEJFbFFrUHh5amJ4dWt0cnRrRnB6SUZuMEpPcDRiaEpMblkxc1V5ampnenZVMi1wRFdxZGlCelNiY1UtRkNJVlo0S1FGYkZZdU0zZnRsQy1Lci1GcEJqbXlobkhVYUU3YTRSQ2pTdURIQXpPRjFPWWJmLUxoWnM0NnB6clViUnF3WnpjQi1PRW9WRVpkTXRhQjg2Y2NXY2lTempR0gGrAUFVX3lxTFBiemR5cXpneTlmWGdFZEJ3SFN1SmhVLWdIUjFJWk91X3kxUlU2cmJzZG10YmhvZ05PUktxakZhOS1JSk5mWE9VV0ZlZmYwR0ljamZpVm82NUstVWp3U1VtWjZrWUJ4dWFQQXJrSnFGaG1ZUzlkaTVrVHpnX2loLTdQamxMMUZnZXFwSnEzcGZ6QzJoY1hxaTU5enRIYUxmZy1qZU13TGoyYWRzYw?oc=5\" target=\"_blank\">Ford recalls nearly 1.4 million F-150 pickup trucks over gearshift issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Iyak1WZWxKakF5UUZxRGdTYlo0U3RHRERIN1pCN1B1ZzNMRWdIWlNVSnBydlliMWxRQ2VnNk84LWZYamExQ1dzcXRHb1RyUmg4bUNzeXZOWXlTd2lvbnBxQkdTaHVIOUh6NzFDcmdkZFlmcW9RN3hLenBVYks5ZkozWkZkMXZfanVsWEt2V2htRVdMMEl0VdIBngFBVV95cUxPcE11OVpnYldmbDV5bDAwV2kxOW9oSDVkVEpFdmJhLXVzSG81eThrVlJKNmdjOXN0S3g1NFhTc0U5clhMVVZuVkU5ZGVpUXp1eDVMTFV6ZC1IdmhvVGR0YkswRHRwV2w3WEpXazg4NExMRXREWFlBVDNBX25wRlA0a09xZlVENWVtTVNzOEJ4Q3hyZy0zZ29uNkFpRTdHZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Think the rally is safe? This elite market-timing indicator says a correction is overdue.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The gold-platinum ratio suggests the stock market is living on borrowed time.",
+          "url": "https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "Google could pay $135 million settlement to U.S. Android users. How to get your money. - Mashable",
+          "kind": "mixed",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": -0.020202020202020204,
+          "source": "Mashable",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVE5c2FzbF9sUEVMb0xlVkJTVkM3TTVRNmVBYjVkZDFUQjhhYnZlZFNfZDBjVUx1ZGlSQVc4VzRNQjk3OXpNSWczNFBsbHpEblp5R1RJczNHU3dzd21saHNMNmFmWkhiR2NHcDJKWmhrNlNFUlN6T3VPSGJXbXVwTlVxWkdLbDlsUXlN?oc=5\" target=\"_blank\">Google could pay $135 million settlement to U.S. Android users. How to get your money.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNm1haDktVUp0dERFak1TU0hMdXptRmYyeTVjRFotSGxSSEJoT3owZGFoYTE5Z0ZUcEFMZFA4ZEgwNlVkUEIyazhFOEZVa1RHdnQzMUczQW9YWjUzRGVNOENOTUJhQVJoV2lIdEtlWVNJa21QakdycXZ6Wl9ZX0U2ZF9qSWoxWTFOejBHSmctUERCVGhqTDdnX0FGUW9JbUIzSWdMSm9xNkxvWnlPLUx1VUczdzFMclMwSlVmNmtBbk5xbDQ?oc=5\" target=\"_blank\">Google Will Pay $135M to Android Phone Owners. Learn Who's Eligible and How to Get Paid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWRZT3B5Z3BTYzBieFdrcnR3U3I3dkUzMnVRcGpQNGwyS05FY2c3ZXJ2MkRMWXhDMlk4NWg4cEE0OWEtaWVKWVI4Mlk5ZnljaFRGNjRDTFVWLWZIamM2a05raWF6VmRjanY3NXRDMHFWMXREYUM1LTNvY1pTVnRoV2V2UzVoaGIxY25MY3JmSUlNZEtEMHFWRFRia3Q2ZWxla1U2UkJibm9xM0JMNllRZUlmZktYQ1pvRmlTVWNnOWFQamJKR091dkpoemJnOWx0TjgxQUplN3VmaXNPVGZ0Mk1Nak9xWUtTMkRMbWVpNA?oc=5\" target=\"_blank\">Google settles lawsuit over Android data harvesting: how to collect your piece of the $135 million settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdW5tbkE4dERZMWxQdzhidDZXRXRncWJxOUdHQnlwNzdBdDg1UW5pTm1zdUxOU1JjRnhBZU9UR3U2aHc4RDJKQUJ1XzNSTS1qeDdBWUI2QWdiM2luNTlJbzRRVHNuTWh5TTlkWm43S0hUVXd4dk5KT1ZLLW1KZnRZcTdWWlN2Rk5MVWFfRGRUSHZOenE0aURodEcyMTBBWFZrSFAzTVBoTW9DS0ZxaW1iZDVHeGFTWDNEVF9YZjgzWjF0OWM3Z05FdWdwNDhwWGNRTWVXV2VINWpFUW5XOGdDSl9NNzFubm1WY2ZJNzFTZXpjUQ?oc=5\" target=\"_blank\">Android phone users can claim money from Google's $135M settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clarion-Ledger</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzM1cElZZlM3LVE0bWxtdDZFaXRUV3VFUTRaLWNnTUN5WmhWQmcta1JobFl5RDFCWldGWG5NSVF4cWk2NnZmbVgyT2VlY2FjR01RcTQwOXlXcHZCT09YVnl2QzdlbzVZWWFmQ0JxVzRGT1lnbktvRlVPVGVkRUxobVNyY2Z2bURmSzB6MmhCSQ?oc=5\" target=\"_blank\">Class action lawsuit claims Google's Android platform transmitted data without users' knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGAL</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVE5c2FzbF9sUEVMb0xlVkJTVkM3TTVRNmVBYjVkZDFUQjhhYnZlZFNfZDBjVUx1ZGlSQVc4VzRNQjk3OXpNSWczNFBsbHpEblp5R1RJczNHU3dzd21saHNMNmFmWkhiR2NHcDJKWmhrNlNFUlN6T3VPSGJXbXVwTlVxWkdLbDlsUXlN?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Gruenbaum leaving as GSA FAS commissioner - Federal News Network",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Federal News Network",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVi1WeVZxdEZBazhYc3VHMVdFbENIRmRwdExGNEotYXBZWmlnUHVBQjJaLWNEQUVxemhhNDFvVnNVR3IzNXh6b0tOWmFySlpQSVM4UldSY0lodjRCVmV4WUpmRVVsRHZQaVVGT2Zkc0laclZvb0l0WDBBbjZkcDZMZjBudnBRa1R1ZmpMbjA5X3FWQQ?oc=5\" target=\"_blank\">Gruenbaum leaving as GSA FAS commissioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVi1WeVZxdEZBazhYc3VHMVdFbENIRmRwdExGNEotYXBZWmlnUHVBQjJaLWNEQUVxemhhNDFvVnNVR3IzNXh6b0tOWmFySlpQSVM4UldSY0lodjRCVmV4WUpmRVVsRHZQaVVGT2Zkc0laclZvb0l0WDBBbjZkcDZMZjBudnBRa1R1ZmpMbjA5X3FWQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-18",
+          "headline": "Stock Market News, April 17, 2026: Dow Jumped, Oil Tumbled After Iran Declared Strait Open - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlFoa2E1VHZ1LXZXdnNLV2VhejlyQUkySFNaMzIxVFVIZDBwX2k5M21rZ0dNNllHRGJQMFpnak9YUmVLTXFKbFB5YWxVb0N2R2YyWVdBU0Iwd0NfUF9XMXU1ZVA0N0ZMY2lhVW1kM1gtaDRJWmRrTWx0ajVBRUsyeDZ6aHp4cGc?oc=5\" target=\"_blank\">Stock Market News, April 17, 2026: Dow Jumped, Oil Tumbled After Iran Declared Strait Open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQW9WeVo1RnVYM1lmX0tNUmFDa3doLWwxS1d3dER1enRkbXdPRmV1TVZ5VWFMYWFYVVM0d1hPNkZiT3h0a1l2dkNXbFRZR1VBQy1JR3BrNVotSFREX293WFU5bkdEd3BESWVpeXpqWmJCdkEwS2NidVBzWHpqV3ctMVNCY1BiemRxZ0Mxek93?oc=5\" target=\"_blank\">Stocks Extend \u2018Astonishing\u2019 Rally as Middle East Tensions Ease Further</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZkF1MDMyTWp4VDA2UnhBVWxTcDRtYjdrVXlQZk8xTlpBOWgwN0tpSHJjcVFPQWFzWE13NERvaFNVbEhNV1BfVXF6ZjVfbHNPMXY3RHVVUFI1QmpPWGhSUWpzMHZWZ1d4TVN3bU9VM0ZZVVhQLW9B0gF8QVVfeXFMUFZQU0k2MF85UEpnTE9uc0FWcFFLcl9CeWhxYml6S005aE5QNGtRbTNJNy16QUpvRGcwdWR6ek4zSXhITHRYVG9wQ1pVN3Bkb3U1d3R0WFhHR1F3ZGlKaFdKaWViaHF4VERKQmc4aWZUeXN4ZHRWczhIX1FJSA?oc=5\" target=\"_blank\">S&P 500 notches first close above 7,100, Nasdaq posts longest win streak since 1992: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBROHc3clhJaHY4X3dKM1dEQjlNUDlocFpoRV9zWFo5Z0FjcTlNcGxtSHREOFFySUFoeGpfV1Rhc2NZcklKY3FoRzJTa0JCNjh4eER2YzNfbHpCVEEzRjlqOUtpaUhrbk1aV0l4dFh1X3paamswWmtOQWNNdw?oc=5\" target=\"_blank\">Stocks romp to records, oil plunges on hopes of US-Iran peace deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0JiakFrUms4ZENvTVhqaDUyR25oWDlua2pLbWRaNmtaU0o5NHFUcTd1ZjN5R3c5QnFMMnVSS2I5VHdDWDJ2VEFsd1Z2OEs0Zm1PZWZQX1VoQ19JVkZWSjE1OGh6MHFhUW1PdDI2WE5zekh3RG9hMkI5UDl1VG85bU96c3doOGhkNnE1WW00ZWUwVEVDN1BpVTlab2lmcF9Jb2RQYmpPSVNjaTlhbHJpTzRYQjFQUQ?oc=5\" target=\"_blank\">Wall Street Rushes to Price Out War Damage as Stocks Hit Records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlFoa2E1VHZ1LXZXdnNLV2VhejlyQUkySFNaMzIxVFVIZDBwX2k5M21rZ0dNNllHRGJQMFpnak9YUmVLTXFKbFB5YWxVb0N2R2YyWVdBU0Iwd0NfUF9XMXU1ZVA0N0ZMY2lhVW1kM1gtaDRJWmRrTWx0ajVBRUsyeDZ6aHp4cGc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-18",
+          "headline": "OpenAI loses 3 top executives as it cuts back on 'side quests' - Business Insider",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": -0.025974025974025976,
+          "source": "Business Insider",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF9kQU9yWldwTHBOZ1lvUjhTWHEwNzl1eE54NjFCM3J2djZVb2tyWDB4YUlXMXk0OVd1YzhFR25YWkhqTlFlWUNsR19iTC1faE9TZEVvS1Q3bFZtc1pNY0VIQTJXaGlKOVRTZFpOVzNnWDdDT1p0NFhrVkRobGVVSVFvNEZjTkc3TGxQS1lvdmVNZFRyNnc?oc=5\" target=\"_blank\">OpenAI loses 3 top executives as it cuts back on 'side quests'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cWFYWlJLM0UzdEJVMVJUa2dOTk9EQ1NPUDl2WFJwenhFbVlKZm1ybDdnd0Zldk0tblM2TnRpMTktNmR4WTJKc3c1Wi1KOXhRQzVicTZnbGd3WERuN2xUa0dCMEc1WUtJSWR5R9IBckFVX3lxTFA3NW5pRjJfUVdmV3pIbzB3dnNJVEQ2NnZRZTh2ZmdpcWNLUjdrcHkzd1YtTkJ3OWFTZDU2aXRBcHU0VUtleXBjeC1KQlg2U1J1cHhwVU9pSHI0T203ZGxQalpFNTVTTGxxcXBQRGhSbk5Fdw?oc=5\" target=\"_blank\">OpenAI loses multiple executives in latest leadership shakeup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmZfX0RPWWpkS0M0Wm9DdXN6dVJoa3dETEVDNk1BcEhlVnRwb0xVWUcxOHZDSGNCdGc2TFllM2JEVjNheXozRFpKVjAtNzJ4Tks2N0VGYXdkS05mczZJdlExS0VFaHp2R00zSENXWjVJZjdoNENJQ1pfN1kyREdkT0E2dFc0eTgxRmp1T1ZrcTNLb21YOHdienJoQ0hzbEx5RlVKcE93djFlZzNx?oc=5\" target=\"_blank\">OpenAI\u2019s Former Product Chief and Sora Head Leave Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlhGa3gtb1pzNFNKN1NOdm9RU0dDOFRCMnpseGh1NndlaUZrQTJkZ1F5SV9JbkwyY1FhLWpKbmpSeDJjRzY5eFBJVnNxV0EteHBLLWVmbUtSNDRTWFdkT0ZLQmh2aHJyOHA0d3NSQXRONlQyMndZX0Q4R0dDSk13SDlBcC1Edw?oc=5\" target=\"_blank\">OpenAI Executive Kevin Weil Is Leaving the Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3lfUDVGeXhMUW5JMTByNUhmeWFSQVA2SnM0ZFh4SDd2N0NZVVJ2SkwtQW5wdkt3SUV5Wm5oMzVadUlyanMxTHBXQUN1MWZZbXZRR1FzVUppUFFBNGE2WDh1cE5tRm1odGhiZk1zY25JWVBRQWYtY0lZNDB2U0d0VFBtZ01lTTlWb2std0hnYmFjaWNxQ2VROXdPd1gtRXRHUU85WTFYNHd6UW5yV3gwOFBfdzN3dw?oc=5\" target=\"_blank\">Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF9kQU9yWldwTHBOZ1lvUjhTWHEwNzl1eE54NjFCM3J2djZVb2tyWDB4YUlXMXk0OVd1YzhFR25YWkhqTlFlWUNsR19iTC1faE9TZEVvS1Q3bFZtc1pNY0VIQTJXaGlKOVRTZFpOVzNnWDdDT1p0NFhrVkRobGVVSVFvNEZjTkc3TGxQS1lvdmVNZFRyNnc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Iran Update Special Report, April 17, 2026 - Institute for the Study of War",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Institute for the Study of War",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPY05JU0FwWnJyTGZqbTlxMUJ4ZWxDT1lmWno5U0VyeXQ4X1BGNE4yX0RtdjdFMHRRYzBsakM5UG5RMzI2OGc5Rm1UMU4zSDVZZnJnMDFBT25rTGEzWE1OY29SNUZsOVZqeEd6dGd0MXZMVm43R2dhREhNdU1KSHF4cW5iN0RXTUxtbGllQ2QyWWJPWHBZamc?oc=5\" target=\"_blank\">Iran Update Special Report, April 17, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pOX0pyNEVCSHdYeDhlQ1hnazBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY05JU0FwWnJyTGZqbTlxMUJ4ZWxDT1lmWno5U0VyeXQ4X1BGNE4yX0RtdjdFMHRRYzBsakM5UG5RMzI2OGc5Rm1UMU4zSDVZZnJnMDFBT25rTGEzWE1OY29SNUZsOVZqeEd6dGd0MXZMVm43R2dhREhNdU1KSHF4cW5iN0RXTUxtbGllQ2QyWWJPWHBZamc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy - Deadline",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.01098901098901099,
+          "source": "Deadline",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNhdmN1bThYM2Q4akRkWVNEMDhnNWVDREgtaTlYS3FpTXpwX25Ud25pVVNKWkZ6VGtHZnFINFQxNFJ1dzRrU3VfVzF6dFRzYlU1VjRBZ2VsM3lSbjB5NG8yTG1GOHJ5RVEwU1dhZFBWaGloRV9vd1B3dFUyajZFNnNETWlFeWtOZ1h4NjBraHNuc3M?oc=5\" target=\"_blank\">QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzZCTWw3WWU2LTNaZ1ZVbUZydVY1U0k4OENSM1FFUlVPQlRtOFVrUzNhcEttbGJ6cjhQQkFHUFNBb2t0N3RLOFZqbTdHM3Z1by1qdjRSd3llOFBZdXhmOVhLa21mRnl6ZklvNjd3T2ZFSGppdDRkWmRNRUhibmJmTzNvSGFNTF95M2hjZ1BpWTNhYkJZdnNrUFgyM0dzbURubzZnWjhfWkNWNUXSAbABQVVfeXFMTmlyZnV0dWtnLVZMTEJORUZfMnNDUElhcHJxS3l4RThGaHVyV3RWdDU1cFhDQVZGdE92WGdBTzQtTVJ3cTY5UGpiT1QzczQ4NnpnbFVTOTBqREVFV2VtSnlEUTVzWlJJQWlqZERjX2ZyS0hiaHU2RWdvQ3hvSW5WcjM5QW5sQ1lUandzcFd2QlZzeGpMa2JMNzJYRERiUzM5MFZqT1ZGMTdIcXd2SDVGek0?oc=5\" target=\"_blank\">TV shopping empire behind QVC, HSN files for bankruptcy amid mounting losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0pfSXE4OXpCUC1SVTV6T2wtcWZENXd2dGpGN3kzRktZZ29aTHhzdWhSSW9sc0VtRnFYLTc1UUhKa1lRamM1bW1jSFBmUmVleFBnenJEdEdQTnFrd2hZdnJwQVhwY3ZDOE91QnVaYWEyLUlwdEdiajlpY256ZzV0WTlLT3g0bWhVV1NYemZMUDJyQWZMRkJDdVBtMmR6clJXV1lkSm50d0g?oc=5\" target=\"_blank\">Clarks, Skechers Among Shoe Brands Hit by QVC Bankruptcy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2JkZ1prWlAxMXBiLWRBM2dqUklQN28ycXBiR3RJOEQ5QUpJS2dhUzdWWm83QTAwMnJVRHRGa2lSTVZNbGJ1VTNpS1g5UUlCSWRYV1FKMTB2UGQ2MWRxci01TkNJTmJWVGNZVHNzQWZDSUQwcnlkVkRHZl9qZFNDa09zMW5RNkV4Nm5aSHQyT0ZoZXdVT2o4d0tVQjltZlhjVk9lNlEzR1RiWU9tYjBTV2FTaDM4VXpXdHlXN09JdFl4SlU?oc=5\" target=\"_blank\">QVC Group to Significantly Strengthen Financial Position as Company Continues Advancing Transformational Live Social Shopping Growth Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QVC Group</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0JpS1dzSmJJTXlycFFBMG9xWHlnMnZyWDN6V0hrRXNtWDRYR2xqbG9jWjRBdzR2QVdHRE1pdE5odDRVemRkWjFWc0FXTjg2aEhWT3o0b3o4RjNoU0FDOUZDalpWUjZYZjBUTTlaXzNwY0M0b05rS21pdGtMR1NhdlYxV3d0bkZsY2E0VE5LcjJfWURpQzgwS0dYQnhhckdyMnl1ZWZoeDVtclNoX29WZl93eHlUa3pHbzZYSg?oc=5\" target=\"_blank\">QVC Files for Chapter 11 Bankruptcy, Plans to Restructure $6.6 Billion of Debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNhdmN1bThYM2Q4akRkWVNEMDhnNWVDREgtaTlYS3FpTXpwX25Ud25pVVNKWkZ6VGtHZnFINFQxNFJ1dzRrU3VfVzF6dFRzYlU1VjRBZ2VsM3lSbjB5NG8yTG1GOHJ5RVEwU1dhZFBWaGloRV9vd1B3dFUyajZFNnNETWlFeWtOZ1h4NjBraHNuc3M?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "\u2018I am the trustee\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cFelony charges are pending.\u201d",
+          "url": "https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Statement by UNICEF on the killing of two water truck drivers in the Gaza Strip - Unicef",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Unicef",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZW9QTXRjMXA4ZjlaMjFMNkFTZFE1bDlxbHZCaERleGtjamZyLVFYNEtGYW44YlU0RVllZlo3eW40YlBYWFFhOVFHQlN4LTc5QU1KeTZGdDR2VUtZenBsOWtzSDVOZUhYMFRwQTRrODJfdF80c0JrTm1GNXpfcTYyWEZPQ0c0bHdLNXI4cmtOd256MWU2WE5vSEdueUZyZzhZ?oc=5\" target=\"_blank\">Statement by UNICEF on the killing of two water truck drivers in the Gaza Strip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unicef</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pocEl2NEVCSHNUS1BlQmVvMGR5Z0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZW9QTXRjMXA4ZjlaMjFMNkFTZFE1bDlxbHZCaERleGtjamZyLVFYNEtGYW44YlU0RVllZlo3eW40YlBYWFFhOVFHQlN4LTc5QU1KeTZGdDR2VUtZenBsOWtzSDVOZUhYMFRwQTRrODJfdF80c0JrTm1GNXpfcTYyWEZPQ0c0bHdLNXI4cmtOd256MWU2WE5vSEdueUZyZzhZ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Cal-Maine\u2019s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.02857142857142857,
+          "source": "marketwatch_topstories",
+          "summary": "Egg prices crossed the $6 barrier in March of last year, but they have since fallen as farmers have replenished their flocks.",
+          "url": "https://www.marketwatch.com/story/cal-maines-stock-falls-as-doj-reportedly-weighs-bigger-crackdown-on-major-egg-producers-96e8315b?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Sazerac Prepares $15 Billion Cash Offer for Maker of Jack Daniel\u2019s - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0125,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlZvY3dsY0VxUlE3VG5QOUdtT1g3eEVVRHVCQW1WdFdQREhEMTV3Y09yVW5FMlMwamdnU254aXg1c0lSVzBLQ1c3Q1JyVWw5VDZURjVqTVRaWGpHZlBUN1JfUkJJMGtfWWkxNm8yZlgwUUFBblVlWjR5Umh1MzFkMnNtbmlvNkQxdmc?oc=5\" target=\"_blank\">Sazerac Prepares $15 Billion Cash Offer for Maker of Jack Daniel\u2019s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnJvbTlXUUdacTdrZEJFNlM1bXdhU0RYS0k3RnFnMlZIcndCU3FUNTdzRTRFSUdGNVdKdVJOQmNENmRHUUhFN2lkeUNaRWRKWHNXREdSMW5oSnVUc3NwVnh4eHJmTFNzd0FPSVNhWjZaRmdfb3ZyWlR0LWdnSkRIeHItUG1UdVhrSGpRNURSbkZkdzBhQUFxWVlHNnRhZFdXYVRTdnAyZWpOU2tzb3RVMTBqU3RweXQ1T0VSSWU2bzdIOXJGcFlMTDRhZkowSmZk?oc=5\" target=\"_blank\">Sazerac bids $15 billion for Jack Daniel's maker Brown-Forman, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWU2dzdfdWJFNHE1d2dMLXVqNU5sb21kd0paaGpaemprMGZkYUZxcmJ2czlHY1NsV0daS252eHUxNEZDNWltTFJLUkl1UzNoWk5BQ2pnUHN4dk03UVNrTHF2ZmdXWVlHU0JoWVNyUTNyT0ExOV9QLWdaMHJFajFuZS0xOGNfUQ?oc=5\" target=\"_blank\">Brown-Forman talks \u201congoing\u201d, Pernod Ricard says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Just Drinks</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHRpTzUtVGJ3VmdaTnJ3d3JnUVBBNHFfakRmeVR1aHR0RGV6TTVjZEJBT3BHeGlkX204RElzLVZlcHV6VUJuYl9maDF2RWJFTG5neEdjZ01wV2o3TUZnWm04Y1l1am9UNXlBNUp0WjZISGdFWno1LUJQdlNGd081TXVGR0xCNk9VSmlyRnlCeUQ2aHlKdVFOaEpVOHF0SXh2bU1rUGgxdjl5ZVNFVlFUT1E2NExzOHJhMV9hdmlpTlh6Q2VLV2pFOVZmRWl3QWZ1YUdKcnRLRnlNQmlNaTNRVjBEVEVydUtPS0Vv?oc=5\" target=\"_blank\">Reported $15B bid revealed for Brown-Forman as Louisville company draws interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWxwNk5Wc2YwZmVNcml0RXZGM1FVNGF5ck5UWVhKRXNyNDk2a2xEV2RQaE9KODJPU1E2azF1c3BucHF4YmFZNkdkOXBUR0Flb2l6U05UNFlSTEJPb0pROWlKUjRQUmNoVkZVdmo1dnR6dVJRaEFvUGN5bDZyVlVfeXdNcGJ2ZDFQZ19NOEpsU2VrOTAwX0YzQmFldmZGZXJxM09R?oc=5\" target=\"_blank\">Exclusive | Sazerac Offered to Buy Brown-Forman for Around $15 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlZvY3dsY0VxUlE3VG5QOUdtT1g3eEVVRHVCQW1WdFdQREhEMTV3Y09yVW5FMlMwamdnU254aXg1c0lSVzBLQ1c3Q1JyVWw5VDZURjVqTVRaWGpHZlBUN1JfUkJJMGtfWWkxNm8yZlgwUUFBblVlWjR5Umh1MzFkMnNtbmlvNkQxdmc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building \u2014 or rent it out?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cMy wife is not a fan of tying up $2 million of equity in one building.\u201d",
+          "url": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-17",
+          "headline": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "TechCrunch",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTUyWDZWcjB2dXo4a3RZcVRIVjFfellLVkRwRzctRS1FUEhHeHg0bDVmaVFpdjczU2REQTdwTW5JeUJZeUItZjByVERWUnJNUkY2Q0c1NVVwTEQySkJxTUh5SHlJZU1JRlA0QVJJYXd0cHVuMFhkV2pxNjBpeUVsNkRwdk1BRUtkWE0xSndhb2V4VkZpRnVxb3l2SDdoR0pydEZoVllabld4cVhOX1h1NkhnZ0hra3ItQXNLTjh5SnU?oc=5\" target=\"_blank\">Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZ2dsQ1Q0VzlsZktRazduM1VaNG5RM1NjVTJ4TVVhX191U2VIcXZwTTZMa3dBSUU0TlV0eGtSYkV0NDRLTU9qV2NyWjFHLVhwMzluY0dqeWxTbm5GTjJ3UjlrbXNRWUpiVVlhUUxqQngxLUlwNm02a1NkRTJmWjg?oc=5\" target=\"_blank\">Sam Altman's \"proof of human\" company pushes into mainstream services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtZ2Rsek1KREpHRHZ4UTYwa2lSMVRPUWtqQkFSOUpmMTlVZnJxN2o4cG4zd01EWi1MWWMyMHhWWUttVWs4bDZkZnQzV0Z6cEJ4eEY5aWstel82dw?oc=5\" target=\"_blank\">Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVZENUxvRjljcjVFWHc4UllRNl82Yi04ek0zeFhYOVZnc1piemE2RGM5UHBRUDk3WmdERTRfS0doZDhMYkJrazdJcm5XaWwzd1dISW1NMkluU1RNdHQ2T3pqQnRLaDlIUWw3U1k1SXBzR3lycXZING5mclQ2ZXlfbzh5TkExVUx4QU5DVnJWajFBaTg?oc=5\" target=\"_blank\">Gazing Into Sam Altman\u2019s Orb Now Proves You\u2019re Human on Tinder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbGk3TVp0cW5zWXZiX096cjh0ZUgzNjc5LVAyWlVxNzNJMVhKbTBDbkttTlVIbjlCbldFNXE0enFPLWkwaWF1dmN0UzA0R1RGeGFRcjFJY2ZpemJ2SkpzQnozSWVqTk9UcDlBc3dMR2tWWFd2TWRra1Itb0tVX2diUXRTdnBjcVhpb0s3OVoxajV0eU1YRWRvN3JjbjhMdw?oc=5\" target=\"_blank\">Should you stare into Sam Altman\u2019s orb before your next date?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTUyWDZWcjB2dXo4a3RZcVRIVjFfellLVkRwRzctRS1FUEhHeHg0bDVmaVFpdjczU2REQTdwTW5JeUJZeUItZjByVERWUnJNUkY2Q0c1NVVwTEQySkJxTUh5SHlJZU1JRlA0QVJJYXd0cHVuMFhkV2pxNjBpeUVsNkRwdk1BRUtkWE0xSndhb2V4VkZpRnVxb3l2SDdoR0pydEZoVllabld4cVhOX1h1NkhnZ0hra3ItQXNLTjh5SnU?oc=5"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": null,
+        "provider": "yfinance",
+        "sector": null
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
+    },
+    "news": {
+      "article_count": 0,
+      "catalyst_signal_count": 0,
+      "classified_articles": [],
+      "coverage_quality": "none",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 0,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": null
+    },
+    "technical": {
+      "atr14": 39.7839855084753,
+      "close": 4191.5,
+      "close_vs_ema200_pct": 12.695362851586268,
+      "close_vs_ema20_pct": 2.3848420793137146,
+      "close_vs_ema50_pct": 4.1281687453977245,
+      "close_vs_hh20_pct": 0.07162468664199595,
+      "ema20": 4093.86771994335,
+      "ema200": 3719.31896214752,
+      "ema50": 4025.32768078211,
+      "entry_ready": true,
+      "hh20_prev": 4188.5,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 3.38121546961326
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": null,
+    "sector": null,
+    "supportive_effects": 0,
+    "weight_scale": 0.35
+  },
+  "news_support": {
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (4188.50), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 3.38, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 4188.50 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.07
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 3.38
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 2.38
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 4.13
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 12.7
+      }
+    ],
+    "confidence": "low",
+    "label": "constructive_bullish",
+    "score_0_to_100": 75
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-18",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-18_universe_5_EU_Results.txt"
+    }
+  ],
+  "summary": "SKIVEK scores 75/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
+  "symbol": "SKIVEK"
+}

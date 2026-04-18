@@ -564,11 +564,11 @@
     "moving_averages": "Strong Sell",
     "overview": "Strong Sell",
     "provider": "investing.com",
-    "resolved_at_utc": "2026-04-17T09:04:00.684571+00:00",
+    "resolved_at_utc": "2026-04-17T13:21:00.331870+00:00",
     "technical_indicators": "Strong Sell",
     "technical_page_url": "https://de.investing.com/equities/lpkf-laser---electronics-ag-technical",
-    "timeframe": "1h",
-    "timeframe_label": "St\u00fcndlich"
+    "timeframe": "daily",
+    "timeframe_label": "Daily"
   },
   "market_overlay": {
     "adverse_effects": 9,

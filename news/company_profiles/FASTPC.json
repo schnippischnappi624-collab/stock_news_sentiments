@@ -1,0 +1,14 @@
+{
+  "country": "Denmark",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Software - Application",
+  "long_name": "FastPassCorp A/S",
+  "provider": "yfinance",
+  "query_symbol": "FASTPC.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FASTPC",
+  "sector": "Technology",
+  "short_name": "FastPassCorp A/S",
+  "symbol": "FASTPC.CO"
+}

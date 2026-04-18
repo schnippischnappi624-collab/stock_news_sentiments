@@ -1,6 +1,6 @@
 {
   "analysis_mode": "hybrid",
-  "generated_at_utc": "2026-04-17T09:15:43.486992+00:00",
+  "generated_at_utc": "2026-04-17T13:35:30.358549+00:00",
   "investing_quote_links": {
     "cache_hits": 1,
     "lookup_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/maintenance/investing_quote_links.json",
@@ -18,8 +18,18 @@
     ]
   },
   "investing_technical": {
-    "resolved_symbols": 10,
-    "unresolved_symbols": []
+    "resolved_symbols": 1,
+    "unresolved_symbols": [
+      "JBHT",
+      "NN",
+      "VSH",
+      "BK",
+      "AVNS",
+      "TAL",
+      "AXGN",
+      "ARCB",
+      "AMLX"
+    ]
   },
   "ok": true,
   "reports_failed": 0,

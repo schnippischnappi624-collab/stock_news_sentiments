@@ -4,37 +4,36 @@
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-04-17_eu_152f589b`
-- Prior regional run: `2026-04-16_eu_61705d46`
-- Feed dates: `2026-04-17`
-- Symbols analyzed: `24`
+- Run ID: `2026-04-18_eu_cbef88c9`
+- Prior regional run: `2026-04-17_eu_152f589b`
+- Feed dates: `2026-04-18`
+- Symbols analyzed: `39`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
-- Rows shown: `15` of `24`
+- Rows shown: `15` of `39`
 
 ### Entry Ready Near Trigger
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [BRKN](<eu/analysis/markdown/BRKN.md>) | Burkhalter Holding AG | $\color{#9a6700}{\textsf{+2.51\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [MLP](<eu/analysis/markdown/MLP.md>) | MLP SE | $\color{#bc4c00}{\textsf{+4.19\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(7)}}$ |
-| 3 | [FAST](<eu/analysis/markdown/FAST.md>) | Fastned B.V. | $\color{#bc4c00}{\textsf{+4.30\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#9a6700}{\textsf{thin(2)}}$ |
-| 4 | [CMCOM](<eu/analysis/markdown/CMCOM.md>) | CM.com NV | $\color{#9a6700}{\textsf{+2.02\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#2da44e}{\textsf{good(4)}}$ |
-| 5 | [OPTS](<eu/analysis/markdown/OPTS.md>) | Optare Solutions, S.A. | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 6 | [HYDRA](<eu/analysis/markdown/HYDRA.md>) | Hydratec Industries NV | $\color{#9a6700}{\textsf{+1.42\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 7 | [STGN](<eu/analysis/markdown/STGN.md>) | Starrag Group Holding AG | $\color{#9a6700}{\textsf{+2.23\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
-| 8 | [OHB](<eu/analysis/markdown/OHB.md>) | OHB SE | $\color{#9a6700}{\textsf{+1.01\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{71}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(12)}}$ |
-| 9 | [LPK](<eu/analysis/markdown/LPK.md>) | LPKF Laser & Electronics AG | $\color{#bc4c00}{\textsf{+4.67\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#9a6700}{\textsf{thin(2)}}$ |
-| 10 | [RAIKV](<eu/analysis/markdown/RAIKV.md>) | Raisio Oyj | $\color{#1a7f37}{\textsf{+0.86\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{68}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#2da44e}{\textsf{good(3)}}$ |
-| 11 | [FREY](<eu/analysis/markdown/FREY.md>) | Frey SA | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 12 | [0QMG](<eu/analysis/markdown/0QMG.md>) | Swiss Life Holding AG | $\color{#1a7f37}{\textsf{+0.30\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{61}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(14)}}$ |
-| 13 | [UTDI](<eu/analysis/markdown/UTDI.md>) | United Internet AG NA | $\color{#1a7f37}{\textsf{+0.22\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 1 | [0J6V](<eu/analysis/markdown/0J6V.md>) | Covivio | $\color{#bc4c00}{\textsf{+3.16\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(9)}}$ |
+| 2 | [BOY](<eu/analysis/markdown/BOY.md>) | Banco Bilbao Vizcaya Argentaria S.A | $\color{#9a6700}{\textsf{+1.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(9)}}$ |
+| 3 | [ACAST](<eu/analysis/markdown/ACAST.md>) | Acast AB | $\color{#9a6700}{\textsf{+2.72\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(5)}}$ |
+| 4 | [VIRP](<eu/analysis/markdown/VIRP.md>) | Virbac SA | $\color{#bc4c00}{\textsf{+4.31\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(13)}}$ |
+| 5 | [B7J](<eu/analysis/markdown/B7J.md>) | SRV Yhtiöt Oyj | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(7)}}$ |
+| 6 | [QH9](<eu/analysis/markdown/QH9.md>) | ADTRAN Holdings Inc. | $\color{#9a6700}{\textsf{+2.55\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 7 | [AMD](<eu/analysis/markdown/AMD.md>) | Advanced Micro Devices Inc | $\color{#1a7f37}{\textsf{+0.74\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 8 | [LBIRD](<eu/analysis/markdown/LBIRD.md>) | Lumibird SA | $\color{#9a6700}{\textsf{+2.02\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#9a6700}{\textsf{thin(2)}}$ |
+| 9 | [0AAL](<eu/analysis/markdown/0AAL.md>) | Allfunds Group PLC | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 10 | [SKIVEK](<eu/analysis/markdown/SKIVEK.md>) | SKAGEN Vekst A | $\color{#1a7f37}{\textsf{+0.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 11 | [CWIEMMKL](<eu/analysis/markdown/CWIEMMKL.md>) | C WorldWide Emerging Markets KL | $\color{#9a6700}{\textsf{+1.80\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 12 | [SYIFJERADKKA](<eu/analysis/markdown/SYIFJERADKKA.md>) | Sydinvest Fjernøsten Akkumulerende KL | $\color{#9a6700}{\textsf{+2.18\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 13 | [ASCN](<eu/analysis/markdown/ASCN.md>) | Ascom Holding AG | $\color{#9a6700}{\textsf{+2.31\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(6)}}$ |
+| 14 | [GLKBN](<eu/analysis/markdown/GLKBN.md>) | Glarner Kantonalbank | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#2da44e}{\textsf{good(4)}}$ |
+| 15 | [SHF](<eu/analysis/markdown/SHF.md>) | SNP Schneider-Neureither & Partner SE | $\color{#1a7f37}{\textsf{+0.99\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#2da44e}{\textsf{good(3)}}$ |
 
 ### Entry Ready But Already Spiked
 
-| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [N4G0](<eu/analysis/markdown/N4G0.md>) | THE NAGA GROUP AG NA O.N. | $\color{#cf222e}{\textsf{+25.13\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 2 | [ZLNA](<eu/analysis/markdown/ZLNA.md>) | Zelluna ASA | $\color{#cf222e}{\textsf{+22.61\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(7)}}$ |
+No names from this section landed inside the current top-`15` cutoff.
 
 ### Candidates
 

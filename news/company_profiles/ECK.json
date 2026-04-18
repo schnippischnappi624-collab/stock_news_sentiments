@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Department Stores",
+  "long_name": "LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG",
+  "provider": "yfinance",
+  "query_symbol": "ECK.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ECK",
+  "sector": "Consumer Cyclical",
+  "short_name": "LUDW.BECK A.RATH.ECK-TEXTIL.AGI",
+  "symbol": "ECK.DE"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Scientific & Technical Instruments",
+  "long_name": "Vaisala Oyj",
+  "provider": "yfinance",
+  "query_symbol": "VAIAS.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "VAIAS",
+  "sector": "Technology",
+  "short_name": "Vaisala Corporation A",
+  "symbol": "VAIAS.HE"
+}

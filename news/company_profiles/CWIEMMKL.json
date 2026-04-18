@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": null,
+  "long_name": "C WorldWide Emerging Markets KL",
+  "provider": "yfinance",
+  "query_symbol": "CWIEMMKL.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CWIEMMKL",
+  "sector": null,
+  "short_name": "C WorldWide Emerging Markets KL",
+  "symbol": "CWIEMMKL.CO"
+}

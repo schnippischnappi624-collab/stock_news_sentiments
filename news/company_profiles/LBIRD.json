@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Diagnostics & Research",
+  "long_name": "Lumibird SA",
+  "provider": "yfinance",
+  "query_symbol": "LBIRD.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "LBIRD",
+  "sector": "Healthcare",
+  "short_name": "LUMIBIRD",
+  "symbol": "LBIRD.PA"
+}

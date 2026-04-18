@@ -8,9 +8,9 @@
 | **Score** | $\color{#9a6700}{\texttt{73}}$ |
 | **Confidence** | $\color{#1a7f37}{\texttt{high}}$ |
 | **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
-| **Investing overview (1h)** | $\color{#bc4c00}{\texttt{Sell}}$ |
-| **Investing indicators (1h)** | $\color{#cf222e}{\texttt{Strong Sell}}$ |
-| **Investing moving averages (1h)** | $\color{#9a6700}{\texttt{Neutral}}$ |
+| **Investing overview (daily)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing indicators (daily)** | $\color{#1a7f37}{\texttt{Strong Buy}}$ |
+| **Investing moving averages (daily)** | $\color{#2da44e}{\texttt{Buy}}$ |
 | **Current price** | `238.32 USD (202.27 EUR)` |
 | **Entry limit** | `230.19 USD (195.37 EUR)` |
 | **Distance to entry limit** | $\color{#bc4c00}{\texttt{8.13 USD (6.90 EUR) / +3.53\%}}$ |

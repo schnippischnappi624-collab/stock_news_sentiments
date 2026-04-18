@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Semiconductor Equipment & Materials",
+  "long_name": "Soitec SA",
+  "provider": "yfinance",
+  "query_symbol": "SOI.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SOI",
+  "sector": "Technology",
+  "short_name": "SOITEC",
+  "symbol": "SOI.PA"
+}

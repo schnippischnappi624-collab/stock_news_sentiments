@@ -1,0 +1,14 @@
+{
+  "country": null,
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": null,
+  "long_name": "Sydinvest Fjern\u00f8sten A DKK Akk",
+  "provider": "yfinance",
+  "query_symbol": "SYIFJERADKKA.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SYIFJERADKKA",
+  "sector": null,
+  "short_name": "SYIFJERADKKA.CO",
+  "symbol": "SYIFJERADKKA.CO"
+}

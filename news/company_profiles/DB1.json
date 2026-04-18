@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Financial Data & Stock Exchanges",
+  "long_name": "Deutsche B\u00f6rse AG",
+  "provider": "yfinance",
+  "query_symbol": "DB1.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "DB1",
+  "sector": "Financial Services",
+  "short_name": "DEUTSCHE BOERSE AG            N",
+  "symbol": "DB1.DE"
+}

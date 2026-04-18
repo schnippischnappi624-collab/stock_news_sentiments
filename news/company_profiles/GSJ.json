@@ -1,0 +1,14 @@
+{
+  "country": "Spain",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Engineering & Construction",
+  "long_name": "Grupo Empresarial San Jos\u00e9, S.A.",
+  "provider": "yfinance",
+  "query_symbol": "GSJ.MC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GSJ",
+  "sector": "Industrials",
+  "short_name": "GRUPO EMPRESARIAL SAN JOSE, S.A",
+  "symbol": "GSJ.MC"
+}

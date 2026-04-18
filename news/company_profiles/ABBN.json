@@ -1,0 +1,9 @@
+{
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "provider": "yfinance",
+  "query_candidates": [
+    "ABBN"
+  ],
+  "symbol": "ABBN",
+  "warning": "no_plausible_match"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-04-18T04:01:35.082875+00:00",
+  "industry": "Asset Management",
+  "long_name": "Investor AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "INVE-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "INVE-B",
+  "sector": "Financial Services",
+  "short_name": "Investor AB ser. B",
+  "symbol": "INVE-B.ST"
+}
