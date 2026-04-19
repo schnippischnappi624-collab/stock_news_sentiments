@@ -1,5 +1,0 @@
-asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
-20260417,US,RAPP,"Rapport Therapeutics, Inc. Common Stock",USD,USA,39.71,1657343.0,4.65288701439401,39.66,2.02852650213203,5.11,39.66,36.6172,3.0428,45.7456,48.7884,6.35,0.75,,250.0,,,,
-20260417,US,LION,Lionsgate Studios Holding Corp. (to be renamed Lionsgate Stu dios Corp.),USD,USA,12.45,9033836.0,3.92981169730948,11.4,0.505910149232637,4.06,11.4,10.6411,0.7589,12.9177,13.6766,5.83,0.5,,250.0,,,,
-20260417,US,MXL,MaxLinear Inc,USD,USA,26.27,4157233.0,3.41193727016162,23.45,1.17437690981352,4.47,23.45,21.6884,1.7616,26.9731,28.7347,5.31,0.5,,250.0,,,,
-20260417,US,TRVI,Trevi Therapeutics  Inc,USD,USA,15.23,7151652.0,4.51775869730608,14.75,0.888250804750082,5.83,14.75,13.4176,1.3324,17.4148,18.7471,5.22,0.5,,250.0,,,,

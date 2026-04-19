@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-04-18",
-    "filename": "2026-04-18_universe_3_US_Results.txt",
+    "feed_date": "2026-04-19",
+    "filename": "2026-04-19_universe_3_US_Results.txt",
     "kind": "Results",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-04-18_universe_3_US_Results.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-04-19_universe_3_US_Results.txt"
   },
-  "run_date": "2026-04-18",
+  "run_date": "2026-04-19",
   "table_count": 2,
   "tables": [
     {
@@ -52,16 +52,16 @@
           "exchange_code": "US",
           "hh20_prev": 23.45,
           "isin": null,
-          "last_run_id": 122,
+          "last_run_id": 124,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260417,
           "symbol": "MXL",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-04-18T08:45:49Z",
+          "updated_ts_utc": "2026-04-19T08:45:46Z",
           "vol_anom": 3.41193727016162,
-          "volume": 4157233.0
+          "volume": 4184800.0
         },
         {
           "asof_date": 20260417,
@@ -77,16 +77,16 @@
           "exchange_code": "US",
           "hh20_prev": 11.4,
           "isin": null,
-          "last_run_id": 122,
+          "last_run_id": 124,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260417,
           "symbol": "LION",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-04-18T08:45:49Z",
+          "updated_ts_utc": "2026-04-19T08:45:46Z",
           "vol_anom": 3.92981169730948,
-          "volume": 9033836.0
+          "volume": 9834700.0
         },
         {
           "asof_date": 20260417,
@@ -102,16 +102,16 @@
           "exchange_code": "US",
           "hh20_prev": 14.75,
           "isin": null,
-          "last_run_id": 122,
+          "last_run_id": 124,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260417,
           "symbol": "TRVI",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-04-18T08:45:49Z",
+          "updated_ts_utc": "2026-04-19T08:45:46Z",
           "vol_anom": 4.51775869730608,
-          "volume": 7151652.0
+          "volume": 7258600.0
         },
         {
           "asof_date": 20260417,
@@ -127,16 +127,16 @@
           "exchange_code": "US",
           "hh20_prev": 39.66,
           "isin": null,
-          "last_run_id": 122,
+          "last_run_id": 124,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260417,
           "symbol": "RAPP",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-04-18T08:45:49Z",
+          "updated_ts_utc": "2026-04-19T08:45:46Z",
           "vol_anom": 4.65288701439401,
-          "volume": 1657343.0
+          "volume": 1667200.0
         }
       ],
       "table_key": "universe_3_us_entry_ready_neu_heute",
@@ -197,7 +197,7 @@
           "tp_2r": 45.7456,
           "tp_3r": 48.7884,
           "vol_anom": 4.65288701439401,
-          "volume": 1657343.0
+          "volume": 1667200.0
         },
         {
           "actual_invest_eur": null,
@@ -224,7 +224,7 @@
           "tp_2r": 12.9177,
           "tp_3r": 13.6766,
           "vol_anom": 3.92981169730948,
-          "volume": 9033836.0
+          "volume": 9834700.0
         },
         {
           "actual_invest_eur": null,
@@ -251,7 +251,7 @@
           "tp_2r": 26.9731,
           "tp_3r": 28.7347,
           "vol_anom": 3.41193727016162,
-          "volume": 4157233.0
+          "volume": 4184800.0
         },
         {
           "actual_invest_eur": null,
@@ -278,7 +278,7 @@
           "tp_2r": 17.4148,
           "tp_3r": 18.7471,
           "vol_anom": 4.51775869730608,
-          "volume": 7151652.0
+          "volume": 7258600.0
         }
       ],
       "table_key": "universe_3_us_entry_stop_targets_neu_heute",
