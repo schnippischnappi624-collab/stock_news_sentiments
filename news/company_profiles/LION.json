@@ -1,11 +1,13 @@
 {
   "country": null,
   "exchange": "NYQ",
-  "fetched_at_utc": "2026-04-12T14:31:24.854885+00:00",
+  "fetched_at_utc": "2026-04-20T09:15:50.358693+00:00",
   "industry": null,
   "long_name": "Lionsgate Studios Corp.",
   "provider": "yfinance",
+  "query_symbol": "LION",
   "quote_type": "EQUITY",
+  "requested_symbol": "LION",
   "sector": null,
   "short_name": "Lionsgate Studios Corp",
   "symbol": "LION"
