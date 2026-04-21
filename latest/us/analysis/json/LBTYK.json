@@ -1,0 +1,471 @@
+{
+  "analysis_date": "2026-04-21",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "low",
+    "label": "mixed_watch",
+    "score_0_to_100": 58,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 12.28 and attract follow-through volume."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Liberty Global PLC Class C",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Ben Affleck gives Jennifer Lopez his share of $60 million, 24-bathroom Beverly Hills mansion",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Actor Ben Affleck has reportedly given his ex-wife, Jennifer Lopez, his portion of their $60 million Beverly Hills marital home \u201cfor free,\u201d after the former couple spent more than a year trying to sell the home,",
+          "url": "https://www.marketwatch.com/story/ben-affleck-gives-jennifer-lopez-his-share-of-60-million-24-bathroom-beverly-hills-mansion-eec5b224?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Lizzo finally sells her Beverly Hills mansion at a big loss",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.046511627906976744,
+          "source": "marketwatch_topstories",
+          "summary": "Pop sensation\u00a0Lizzo\u00a0has finally sold her beleaguered\u00a0Beverly Hills, Calif., mansion\u2014but has taken a $3.9 million loss on the property after\u00a0spending more than a year\u00a0trying to secure a buyer.",
+          "url": "https://www.marketwatch.com/story/lizzo-finally-sells-her-beverly-hills-mansion-at-a-big-loss-cad733b1?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Alaska Air says it will spend more on fuel this quarter than it earned the last two years",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.020833333333333332,
+          "source": "marketwatch_topstories",
+          "summary": "Alaska Air detailed the cost of the Iran war, and they\u2019re big: some $600 million extra in fuel costs, which is more than their entire profits the last two years.",
+          "url": "https://www.marketwatch.com/story/alaska-air-says-it-will-spend-more-on-fuel-this-quarter-than-it-earned-the-last-two-years-587d85c8?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-21",
+          "headline": "Tim Cook Will Step Down as Apple C.E.O. - The New York Times",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPOFhEVHl5NWxiT0RoMDFlX2hjaFdMMElqWkJka0FFdEdpQmJzZ3ZSS3dRSGZUUi1UdHh4ZjdqcWVycm8xNDN5QjVMd0JoX1BmSUl2VHlPZU8zeEJ6UEdxMTM3WlBELWpod05ldEZXVVU3Q2h1R2hPUHhsNThTMFAxUmw0UDlPb1E?oc=5\" target=\"_blank\">Tim Cook Will Step Down as Apple C.E.O.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Z3k2Q0tJOUNCdXZGaWlQQ20yaWYyM1JpZUtIOWtSVndxVjBfR0QwLWlLdC1MU1BtcHR3bFBMTjZhMlB2T0VUNzBtbVRQQ2tiM1dZc3p1QzYyRlVLLTRfMGRjRHdITm9z?oc=5\" target=\"_blank\">Apple enters post-Cook era chasing its next hit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzBxQWZaTExwQTZCdVFWTW9HR2doNTh6MVl6VEZEWXZ5NG5VNFhwQVdaa1M4VkN5YUdRREtGMnhhQW9TUWhxendmcUNacnduQWhWajhQWmZTWi1GbFBOU2d6OXVVbFU1Y0VVcWw3UUlzYjBST3BrUHRhUmk5dzRid0FJcGNfZDNPdm1NM2ZVSkt4eVF0TTZnUEhVVjN4bXZoRGF3?oc=5\" target=\"_blank\">Apple CEO Tim Cook\u2019s 15-Year Legacy by the Numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3lqZXVIaE5GV19MZzJmWTFXRjdGNG9RM29kWVdOSUVLQzdMSzZuX2ZYa0lINmRyUW5oSWVJZ2lzejVHOUU2emwyZlFaT0JRVUFITmYtN0FLTDJuU3poeXFvU3VBQzM3cFhyUzM3N2lNMElLaVltYklrV2pfZC11Q2ZndTBJdjN6c0dMeUlabzA3aGNMcTRjTVBOYjBlQjR4a1RielVJeUNBZHpiZ3pmOE0tcDB0UQ?oc=5\" target=\"_blank\">Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlBHS3RuVzlVQ2VZRFF6NmVWekZiZVBHemotNURidnk1WHY0M2NKckNXeVJVX0ZNRFAydDNNdHZOaHJaRmhTdF9iLWphbDVkVVBLcXU3Qnc0akNkby1ralJ6MkdMaWVOV2l0SGZBOFVVQjFaOURrUUczTjdabE1CaElJeXhTTEdUZzNXN3FITjhCY21MRFNEdklsNm9IcUI1ZnppVA?oc=5\" target=\"_blank\">Report: John Ternus to be \u2018decisive\u2019 leader, \u2018reinvent\u2019 product lineup as Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOFhEVHl5NWxiT0RoMDFlX2hjaFdMMElqWkJka0FFdEdpQmJzZ3ZSS3dRSGZUUi1UdHh4ZjdqcWVycm8xNDN5QjVMd0JoX1BmSUl2VHlPZU8zeEJ6UEdxMTM3WlBELWpod05ldEZXVVU3Q2h1R2hPUHhsNThTMFAxUmw0UDlPb1E?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-21",
+          "headline": "The end of freedom of the seas: Why global shipping may never be the same",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Freedom of maritime navigation has long been considered a staple feature of the post-war liberal order but all this is changing in the era of competing superpowers",
+          "url": "https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Gunman shoots several tourists at historic pyramids in Mexico - NPR",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "NPR",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMWFySkZCMTc4M3BBWWpqdXR1TXZKQ05DWFgwMkNkQWJST0NWdXZxcThIU25MR3ZmbWVnWW03N3QyRkd6SEVxMkFRNkJYLVZCZnBCQ0YxMEFoSmZJQXRLdUk0S1BvQ0VHQzlhRnBYN0ozQjQ?oc=5\" target=\"_blank\">Gunman shoots several tourists at historic pyramids in Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bS1kRU44Z0RPaU13VENFcVhlTTFKelhnUGNNZTZQUnZ4VnZpLU0wOVE4WWlGbGNOZFhrNjFMME9vSzVXS0ZxSTdvRkl3bUE1OVh1NXZoTkd5UQ?oc=5\" target=\"_blank\">Canadian killed in shooting at Mexico's ancient Teotihuac\u00e1n pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3YyblB2QUVidnpraDU3Njc5VWw1NUl0WE5SeTBhV0dWVVhyRFFJck0wNzMtYVZuZVNTRmgzR2tfbjktZDh3V0ZMUlRWa3lXT19XVXdRQjdCSzJKWWZuVHNlVmgyWEM4VUJEVm8ydi13bVE1RVZpRHFJcEUyZGtrdEtNOEg5UQ?oc=5\" target=\"_blank\">Video shows armed man shooting at tourists at Teotihuac\u00e1n pyramids near Mexico City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaldSLXNMSC1IdWRiRFh2Um5CY0FtUWM1a3FmaGV6WTJyV1lkNkFZaktUTy1DbExibGV0eDZqMkkxTVFQU0N3MkxjQXdmam9RTGRLcTkyVG9wWG84WFVxUGpDTmJJWExEcWQtQWtWMXRkMHZMdnF4WDZ0ZzlHVkllX3pWNGlaaU5yZE9KSE5BSFV2STRJMTI1dVk5RS0yTGdzNHhiSVVoRGYzeEdUYmxqYTVFU1ZYVmdjSkJWYWR2MWo?oc=5\" target=\"_blank\">Canadian woman killed after gunman opens fire at Mexico\u2019s Teotihuac\u00e1n pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOemxiRi04Q1VEQVItUFNvTGg0b0J1RkRKckNUOHM0aWtlLW04RzNWcHpHVDI3N0JiUHdMek5zOElLMDFOWjhaTGlGWmlRRTVSNHZPNjB0N1UxUGFtTWQ1ZGtZQ2VvX1Q5Tjd1TmY4OWlPX2hOZi0xemFlMnRTSUJFd0pwNG5OUmtYZ0VyRVEzdUFhWUpKbGc?oc=5\" target=\"_blank\">Canadian Tourist Is Killed in Shooting at Mexico\u2019s Pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMWFySkZCMTc4M3BBWWpqdXR1TXZKQ05DWFgwMkNkQWJST0NWdXZxcThIU25MR3ZmbWVnWW03N3QyRkd6SEVxMkFRNkJYLVZCZnBCQ0YxMEFoSmZJQXRLdUk0S1BvQ0VHQzlhRnBYN0ozQjQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Japan lifts ban on lethal weapons exports in major shift of pacifist policy - Al Jazeera",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.011627906976744186,
+          "source": "Al Jazeera",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNOdGxBSmlqM1hJRHpTQ2lHelJMcEdodExqZG1pZFFIcUNncUFWd0RaZV9DRWFYbVBqZ0FORXNUaXBGdWdTN1IyWDRYX1RhbHNkOXhvSUZ0aS1OREwwc0NqNU9RQV9yaUZBN18zYy00QUxsV0tiWllXVEZHQnRXbzR4TERzLXREa0lQUlpLNHVxLXZJLTNBbzhvbVMtb09EbURaQVJsX2lEb1RBd3lJaEtycUhBUnfSAbwBQVVfeXFMTm01UHV1cUFsZWlqS3V3N05QNWViUk9GWUdzenNxc2ZwRmVwWldfNnhqQnF3cXJZUm1sVzkyZGYwVlFGbHZYYXRoUG53TE9mTDVtY04tSnlBYkdIVUl3UW03QjEtUGtYWlRWVzE1ZlZYUnlxdFZTVkdzMTBHdnp3UXNKSEpmTExjOVpxandZZXZuOXlhaVBmMW9MdFpzbU5UV1JPYUszVGhWWVpYSjhtWGRZRHM5RlFtamVybVI?oc=5\" target=\"_blank\">Japan lifts ban on lethal weapons exports in major shift of pacifist policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzcxdXU2aklDSDZaMjlGTnZucTMzcUluR2NpNHhhSVpVMEd5ZC1pZEtiM0Q3bjg5SVdTWE1Cb3ducEdPSVdfQkhHenZUeUI4YnA3ek5hbVgwdWtjTDVxVXU3SURwbXRoQ3drR09aWmF2VHY4RDU2dzNZRVQzRjZOck9tbUllZFHSAYwBQVVfeXFMT2hQVklfZ0x5UjRkcmM0LXdTaHZSMC00WF9HVm1WeXowdENQOXdTYnE1bERrNzdxMXVjTXZ0dFFQM1hkRGgzT2Q4M1E0VEtsd2kyVm1QbE1ZelJPZ1kxc3ZnWklMd3E3MWF2SEVubzJkTjg1Zll2QUtnV1pIeGhQQ21wbl9CdUdyUmRCbzk?oc=5\" target=\"_blank\">Japan scraps ban on lethal weapons exports in major shift of pacifist policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXdG9hQ2tVNFJzYUtCdXVlME5TRXVVTmw3SEpHVHNxWG1fNlctLXZNZUsxZ1UzdnNJQ3ZpQ01IXzBPaFlCeGtZeGtRMTg3ZGhVaGRMbjdSbFItQQ?oc=5\" target=\"_blank\">Japan loosens arms export rules in break from post-WW2 pacifism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHJzZC1WNnlrc2k5dTNNODNIa1dKSTJHSjdKWC1aR1lrWTRwczREQ3BQRUZWcVpnSllmVlNsZHNsNEd6Mm9BbTdacnFWN2t2bUFfMGdCOFdzaTdNUFJPcl9DRV9aTWlBTlRCOElWRUdqR3BlRmJuZURtdklsemJpbEVpVl9tM0FLM1NKZHBrRVFHc01Yc3hzWVlaVkJZUzdJZUN1R2hPNDJrdnNqcEJfamFtUG82bkxXXzVxelRnY0M?oc=5\" target=\"_blank\">Japan opens door to global arms market with overhaul of defence export rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHlzLU9DNnNoZ05yNllULVpOd1k5bjVlUnF6WllYVG4yZE5YLXRqMjVlYU16V0g0ZHdROW4xTWdsUmVXWldZZ1hxejJjUGU4V0p3c053bWNGZXF5TzI1RmhkMVM0RnBVeDBIXzJHeHJhcmZrM3JkVWdUZkx4LVVfLUtLRi1sdU1wYWZxejl5VlV0NVNaajFV0gGcAUFVX3lxTE9SeWNmZl9RNHMxY0VUNE5VYlNQaEFLdlRSR1MtZmhuLWF1S2NZTzJmT2tTbHZoMkxPSVNqZWJxcmhOWVpSeFZtVHNOZktJS2pRaUM2eHVTQlR4a2d6eVo1c2lHSjNsQlFyNjU5eGZWdmx3MkRGUm0zQU5PbXFtRFVHRG14SGtUd3kxX0hKVDFPeEl2LV93a2xmQVNBTA?oc=5\" target=\"_blank\">Can Japan\u2019s arms industry gain from Trump trust loss?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNOdGxBSmlqM1hJRHpTQ2lHelJMcEdodExqZG1pZFFIcUNncUFWd0RaZV9DRWFYbVBqZ0FORXNUaXBGdWdTN1IyWDRYX1RhbHNkOXhvSUZ0aS1OREwwc0NqNU9RQV9yaUZBN18zYy00QUxsV0tiWllXVEZHQnRXbzR4TERzLXREa0lQUlpLNHVxLXZJLTNBbzhvbVMtb09EbURaQVJsX2lEb1RBd3lJaEtycUhBUnfSAbwBQVVfeXFMTm01UHV1cUFsZWlqS3V3N05QNWViUk9GWUdzenNxc2ZwRmVwWldfNnhqQnF3cXJZUm1sVzkyZGYwVlFGbHZYYXRoUG53TE9mTDVtY04tSnlBYkdIVUl3UW03QjEtUGtYWlRWVzE1ZlZYUnlxdFZTVkdzMTBHdnp3UXNKSEpmTExjOVpxandZZXZuOXlhaVBmMW9MdFpzbU5UV1JPYUszVGhWWVpYSjhtWGRZRHM5RlFtamVybVI?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Trump\u2019s Federal Reserve nominee is set to face a tough hearing before Senate panel - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdG1nQ0pSNUJ0OXpYXzVoVFVFcEF2endvUWo0bzhJQ081WThYekRiU3MxcHBsRm9NMHRWYk5JRy1Zb2ZmQVlxMmVYYmVTQWdmLUFHeWRVZ2JyWVk5czYyOHZJRlFGSEhvSWk2ZUVQQVlINXh0REdlTVBIUmlBMzZkbEpkWEt5ODdNS0hCcWh0U0JKVy1iS2pkdGdwX29Pb29EX1E0?oc=5\" target=\"_blank\">Trump\u2019s Federal Reserve nominee is set to face a tough hearing before Senate panel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5FTWVYd0o3S25tR2ZIZDkxbV80azBTdUdBMkU1c0lMeHd6N3VjS0VSUzdLYm0xYmZ5eFdsaFc2Z2cyelNlSVdjMWk4T0ljRGlSR1FNRnd1YXUxNVlnUWxTMjJVeVF6dTk5MWVROGxHZnlBOFY1VVRXdThJcFnSAYIBQVVfeXFMUERDSTBMeUwta3pmRnhGTkZCVUt0THBvTnFxU3JqMW5TOW5zdi1VUWdaaGNYaG5meTBFdUtRcU9tekU5S05ONTdna0NXTTRqRHJVQ2xjZjNGS0x5dXl3aEp6NUNzLURoT1dPZnJtb1FiUUZnM3ZYTkpZamg1UTEzbVM2Zw?oc=5\" target=\"_blank\">Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdU5nNkdYcVlWVk1hOU9oTGVjM25WVldCLWt3M2FBOVp0djBrejhxcjJIQjJuQ0lKQWd3LVB4RjNsT3pib1BjTGhReHJZaXloa2tuUFBVRkVMT21CeGlZYXBJSl9RYU9uVWI2MEZHN2VJUVctRDBDc3hHYkx3aTd2Uk5hNkY1QXRKb0UzRGNlcUZTR2REb21UYWx4SWF6aHdGdHI1S0taWktJSDg4anhHd1d2VG5yR2t4VTMwbHhKajPSAcYBQVVfeXFMTkl3VVNqRTA2bHAteW9xSWlRMHBVQVZaeTU5M1JPazBCZkpWaXdHVkN5UXF5UDU0OUlTS3F1TXRwRE9iM2NvWVRMcWg0amdkQ3N0LS1vRUE1dDVpQlRfekJ2VlQ1U3hMNFRNSHF2cEdXT0JoVm1ObHRIVDV4aWh6YmZHenpBZERvOXU0WjZiM3BreHQtczY5Yzljd19RRi15aWlib3lXTkxfbTBDbUFXOU9hdklmMHJEaWoxVE95ZVhyNEdMOVl3?oc=5\" target=\"_blank\">Warsh faces high-stakes Senate confirmation hearing to lead world\u2019s most powerful central bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQllJS2tBakdwbU5SZVlTaGg3ajRaTXB1WmJMNmFqc29UQU9KdlBBdW5ScVdiUmV5VVdrVFp2WjEzSXlrSG1KUldVOFh1dHVZMnFnX1p3c1NCQTBoUXhKVjBnMWRlOXlvejFYOUM3NDNmaGJna2pIQnpJcE9rMlhjRG1ENjZaak1FMlFtUmRoRURMMEF4ZXNj?oc=5\" target=\"_blank\">Opinion | A New Era for the Federal Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3JnTktPVi1VUEpKaElOVm44Rk5EVkNJS2hZOVdibUNiTmVCaHFoODdDdXRxU2JCR2NpRzZ5V0tZclFveUM1YVpXeUFBTUR0Y2o0VTFoemFNN2ZJSk1YMFd4VzBVal9CajdJMUpRVEpzanlHZWhzaVpDQjRSdVRmbFhEUmltVUNlRHJ5ZGZYdm5TUHBma1lIS1RjS3pZQkJTVlpMV0ZBZ2thblpmN0lMSXFTR1BzY0ly?oc=5\" target=\"_blank\">How Trump\u2019s Fed Drama Risks Backfiring \u2014 and Keeping Powell in Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdG1nQ0pSNUJ0OXpYXzVoVFVFcEF2endvUWo0bzhJQ081WThYekRiU3MxcHBsRm9NMHRWYk5JRy1Zb2ZmQVlxMmVYYmVTQWdmLUFHeWRVZ2JyWVk5czYyOHZJRlFGSEhvSWk2ZUVQQVlINXh0REdlTVBIUmlBMzZkbEpkWEt5ODdNS0hCcWh0U0JKVy1iS2pkdGdwX29Pb29EX1E0?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Did Pope Leo find his voice in Africa? Or did the world finally hear him? - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZno5dHIwbm01ZWFvd3hUODNYUmZ3amVLUEVCNC15ZmVjb2MwcFY0TTIyV0doWnlUbk5IYkU3QXJZbXh1MDNXMms4cUIzYnVYWlhZSEV0N2ZQb0hHX3RmQ2xFckJQWE90eGNYSVJQazEwS18xbms1VEI2SnNBbUZtOU10SVhDUG9aeWZYU2QyZ002UGhT?oc=5\" target=\"_blank\">Did Pope Leo find his voice in Africa? Or did the world finally hear him?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObEhWUDJBZWRFeU5ETUVGdUNnUDdrWERxekJ2RC1GY0lyTTY0LVhYZzRxYUhRSHBmUS1HZVNuMFFobjBYUURwbWFDWTd2dVFfcnZCbkd6UWYxazVzWmJtYlBxQUx5TzJjYklIbjQxcWtFVk95Y1RXZ0Y5Y20xeEJSeTFaM3RKTzNISkE1VTZSbldhd005cEx6TzdkQVRnZVNqSnZkZ3dkVnRMLWx5MEZseTRZcW5HT1U?oc=5\" target=\"_blank\">Pope: Promote a reconciled memory by educating everyone in harmony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnRJc00xbzAtV1lqNTJiY2tSY2p3S3F2LWxzQXZOQVh6WHNLLTl6c0R1Q0U3SmlxeGl1N3hKeGgwRFNvaDJ6S1RPYmRDMWxLbEQ5S29Ub2EtQ0R1ejhrMXVxRXRFYVJMR1VhbU5raUNzWWZWUjlFWkdZQ3NIeVdWMUU2dm15Uk9XN2wtTVZCMGVFUjB6RzR1SXBZTzJjUFI1QlRYX2JqSWtWTVVX?oc=5\" target=\"_blank\">Pope urges Angola to heal divisions at events drawing 130,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjJDa3k3Z3VOQVFkRmZaOHRtNHEzd056SUpId0JjNU5OT1lOVjdwN3JXbDlFN25CZDQ5bTlXa3QxOHgzTkhBXzhRcjRGQUozSTVkVUpRa1ZtTXpsR2hFQW9fNkFKTk1CNlJXZWVfaTd1RlJqRUtNaTJFUFlyYW9qMUUtUGhqeHBCeDJMOXppc2JHR19nVmxZbVVHeXYxWDBGV2Z3NWJkTTdudw?oc=5\" target=\"_blank\">Pope Leo visits nursing home in Angola: The elderly \u2018need to be listened to\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EWTN News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVFmUm51akNrN3dHejhkTGZ0Z3lOdkZ6LTJwR2tCN1RqNE5xbk9Pa1hBSHBacFdLazVxZVNvSFdGU01feGYwOWcyUmJ4elpXYUk0emRSbFNVOVkya1M0TG1wbmI5UG1wTm5OT2pQTFdBM3pzVWJoS2JyMkloQWVSLXdSWQ?oc=5\" target=\"_blank\">In Angola, love for an American pope but not for an American president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZno5dHIwbm01ZWFvd3hUODNYUmZ3amVLUEVCNC15ZmVjb2MwcFY0TTIyV0doWnlUbk5IYkU3QXJZbXh1MDNXMms4cUIzYnVYWlhZSEV0N2ZQb0hHX3RmQ2xFckJQWE90eGNYSVJQazEwS18xbms1VEI2SnNBbUZtOU10SVhDUG9aeWZYU2QyZ002UGhT?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Stock Market News, April 20, 2026: Oil Climbs on Fresh Tensions in the Persian Gulf - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Y0UUs1b3Nlc2NMMmxVMGM4QWZMblpwb1FzbE4ycjRmRmtGWk0xX1dIZzQ0SXlfLTFPc0pnN1hHUWNZYTR2cm0wOERyRHhTbVdCZGRfWWxUYjl3MDd0WEVqZkhWR0dyVFBMREtsa3BBLUdrcEF5OUp4TUZzeG80SVNBZ1JTUGc?oc=5\" target=\"_blank\">Stock Market News, April 20, 2026: Oil Climbs on Fresh Tensions in the Persian Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcUZYa2tlM0pESEt4V21GZV9FMC1tdDhOeFRfSXozaktmMXZuVVdBN0w2aEp6bXNlTTh6NDNsMW9WMlZDSU9kazhFb0hNRjZ0a19qN01QUVl3azZob2ZwcDFwVUwycDZRZHdwdnBTS2l1ZzJqNXRxMkZYaE11VHVEdm9nUjlsRVFDbGdNMW1Ca3NVWXExMjROQnVtenVzN0xEelFjN0p4UFExM1g5NU40NVRpMlBtclhKdEJkOXJxbE5VMjBSS0lWcnk0ZXRHZlJ0MWJ3eHZ3bnJ2ejVFMk5tcGswaHFHdFk2LTgtUldxUlEtMUNNRlZZVQ?oc=5\" target=\"_blank\">Stock market today: Dow slips, S&P 500 and Nasdaq retreat from records with Middle East peace talks at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Jakh0T1FtQ3pMM3ZKNG94dkE2ZVpfYTBMZGlLNjFaeEZCdEVvcGhBMGtVMVltbWdkSTlWUDdxc0tpOEhXU1BZS283dWxSWDFxWWxSVU9leXhuZmIxMmw2ZEZib3UwZUhTaG02MnUyOFRLTXVkV3hDSQ?oc=5\" target=\"_blank\">Iran war-driven supply shortfalls will soon start to appear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnZERm5EbUc0TVlpc2ZMUEhQbXluQ0ZYaFFEUEVBMEljMkJEQVhfeU9vdFQ3RVFpTFhEREdfamhuYnY4OWY1anQzbTlfbjJSZWEzY0g0XzZRWUhFOENmNWRPQTNhOTR0QVN3bXgtOUdfV2VPSzZVWFM3OUhRVXVwUVBoZFFzYWg5RUhkQmlB?oc=5\" target=\"_blank\">Fresh Middle East Strains Drag on Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjU2TlFwQnBjVlAzdFJFUENydUg2ZmFkc3dtVnRtOHhfZDVKNkN6SnZzdE9iOG45Mm01UUJnbVU4RHFjNUFZMVlicFZwMks0OTNOMDFiQWZfM3BfZm1tSVNRakg4ZWh6REtwNVRIQ1NLOGhSMDA5VE5nM3FGRTFkXy14Q09HZ0VNc0ZuQVNPRmZ3TE14UkhvbnNJTmliTlR4RWVn?oc=5\" target=\"_blank\">Wall Street closes slightly down on renewed tensions between US, Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Y0UUs1b3Nlc2NMMmxVMGM4QWZMblpwb1FzbE4ycjRmRmtGWk0xX1dIZzQ0SXlfLTFPc0pnN1hHUWNZYTR2cm0wOERyRHhTbVdCZGRfWWxUYjl3MDd0WEVqZkhWR0dyVFBMREtsa3BBLUdrcEF5OUp4TUZzeG80SVNBZ1JTUGc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-21",
+          "headline": "Saudi Arabia and Iraq Are Caught in a Hidden War Within the War - WSJ",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnRvUE1XekxWZVZtaE44cFluWHpuTzF6bzBwamhxZERaVG9VRzJBLXlGV0NiWGY4YXFqQVBkUmd4TTExc0g0Y3Z4YmNxUVllcnNEMkNKeVJoUThRY3F6b25fek93TXY0emZnLU9wSktaQkFNNkF1RXRQelRkTVRQMjROWDNmMzBjVkE?oc=5\" target=\"_blank\">Saudi Arabia and Iraq Are Caught in a Hidden War Within the War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEtxdjZqaE8yd0tJaEtCeGgtRXlvd2hOVzR0bkFlZ2xJZU1reVpTQ2NWRXFQT01yNks2bVdCcVVLbDlnY2JmRkJtUFFNVWY5MDRTVWZyd3RoQ090bXB5TWw1ak9zRWZmZG1QRTVaY2Y1b0dlWUdmaUFzcTIxYVlKNzJaX1BPVmZtbkFaOG1QekhhMWxaWFdLeHJaSzNGS0I5ajBQa1g3WXllODjSAbABQVVfeXFMTzM3NlRkTlRLbGw5RVhXcHowUkNTLWxSNllibFV4MzBoOTU4RnUyUzRHSHhTRXQ1cXhGVFhBWXM1LS03OTlQaExWOUZ1bW9sQmxVaGJmZ2pjbzktbTlsYTZ1S2VBdVJHVlBhNWppeGtOc2NiMWw4cHJFUTB5Tk1GMzR6MXhEcTlYN2RJeEtNNFlTRFpRbEZ6aWpHd1o0UVA1X25VX3d3NzBoWWVPa3dwZnI?oc=5\" target=\"_blank\">Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOU2E2bTd3cElzaC0wODdhWUFQWlFpeGdGZU13UGVvSkxEeng1T0toVFNHRWdEbmdzb1AwSjZoUlppZWJqckN6b0NFMm9Id3RvbFZISTlyTVFpMlE0SFh0NjRyWDAwcmM3NnROSWZkRkJQUGdudm9rRi11YkdlX196TUgyamVsaE4yR0FzSzRmTUs2aWV1b2I5WXM1MktUQQ?oc=5\" target=\"_blank\">Iran-backed militias launch drone attacks on Saudi Arabia, Gulf states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWtXSC0tQWJvUTRucVBvMXB6MGUzS3A4U0htT3pmdmZON05MMGNlOVZoRi0wcmQ2bnkzcEtnaThlWUJ6b29XQkVsSlBaSTIxZEg2SXh1S0tQM0w1UHZIU1ZRamY4aXJfM3VZOXV4SFQ1QWI3N1BxOXhYTVVwNmFwdnYzSVVPc1NVcGUyalFabWtUR2JVMHdoStIBngFBVV95cUxNaWR0ZmZreU45WUg4WWRvaEt1SjdfYkhCc01fSjZXc183Rkd1OHhRTkg0UUROSUJFZE9NMHc3MENHVzQ1VzJWc1VTdHpMSFFwR0VIMXpHcHlMOUR6VDhOV19NUUI2Ti1iXzBzMWVGWjhWV2ZESUU4WUV2UVM3VndiclBhNTR5NHdZckZBUnRES2dCRmxnNlE1TjE4blR1UQ?oc=5\" target=\"_blank\">Gulf states weigh UN complaint against Iraq over militia attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Arab</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZENKc3BWQTBETXJhdWZialphRmxKam9CUC1wcHBZRHlWZVZiV1pjcVJ5V3EwcFFjWUhPeGt3SS1WTUxia3A3Wm1DS0xieFMzb2tUVFFUUi1xU09ud2pONzY2NnJkT2pUa0NYeUVfMVREdDhoVk52T2tFWHUzUUxzZ3lpelRQWkhNVEFTQ2hOU1lDYzJTNmVzN2xNOWNtd1NZLXVFNVBlT1BxQ0hSM3BVUTI5VTgwTm94MWFDalhJQ3BkOE0?oc=5\" target=\"_blank\">Saudi Arabia Summons Iraq Envoy Over Drone Threats From Iraqi Territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnRvUE1XekxWZVZtaE44cFluWHpuTzF6bzBwamhxZERaVG9VRzJBLXlGV0NiWGY4YXFqQVBkUmd4TTExc0g0Y3Z4YmNxUVllcnNEMkNKeVJoUThRY3F6b25fek93TXY0emZnLU9wSktaQkFNNkF1RXRQelRkTVRQMjROWDNmMzBjVkE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Do I earn too much to contribute to an IRA?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "You may not be eligible \u2014 here are your options.",
+          "url": "https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Canadian Tourist Is Killed in Shooting at Mexico\u2019s Pyramids - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOemxiRi04Q1VEQVItUFNvTGg0b0J1RkRKckNUOHM0aWtlLW04RzNWcHpHVDI3N0JiUHdMek5zOElLMDFOWjhaTGlGWmlRRTVSNHZPNjB0N1UxUGFtTWQ1ZGtZQ2VvX1Q5Tjd1TmY4OWlPX2hOZi0xemFlMnRTSUJFd0pwNG5OUmtYZ0VyRVEzdUFhWUpKbGc?oc=5\" target=\"_blank\">Canadian Tourist Is Killed in Shooting at Mexico\u2019s Pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bS1kRU44Z0RPaU13VENFcVhlTTFKelhnUGNNZTZQUnZ4VnZpLU0wOVE4WWlGbGNOZFhrNjFMME9vSzVXS0ZxSTdvRkl3bUE1OVh1NXZoTkd5UQ?oc=5\" target=\"_blank\">Canadian killed in shooting at Mexico's ancient Teotihuac\u00e1n pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHFoa085dEhzeFp5VVZIcDRSQnl0R0tkOHhzcGwweHd6UlFSTVRJZjhtT3dsbnFGdTl2WmlRMVlJczZ0ZXhQV0ZGSmZFM2ItQ0JmS0xHV1JTT0UzZzhZTGs5ZUdaWk1HZ04ySmFSU05DZXBsTEVVcFpCLU9RbXREZUhwdnh2c0h6bXZZZkx5dmZvd1d4dXVhbGExMzRjb0VYeGx3ZndQYzJkM01mQWxzNlV1SHHSAboBQVVfeXFMTWZBYzBQdGY0czBIUDA0NE1kTTFPWE8wc1I5ZlE0OVRoeloyX1FoRzA0RmxFVGtHc1YteW5CMEx2OTRjVkgxSHpmTW9aYXBQUmpIN09RcTVkbGRiOXdPTTk0VktXYllXTk1PMXVUTHNWMFU0MUxabExoUUxaN2VlT2h6ZUFKUVMxU1NLZElveW1yQXRhTnlkZllwUURhVFliaTQ2VjFWTFFjLU9nTkpjV09pbFBKVXU4OXBR?oc=5\" target=\"_blank\">Deadly shooting at historic tourist site leaves one dead, several injured as motive unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBwcjUtaUY4Um45QldHOWdDQ09Db3BYb2RJcWwxYmplOUNmaURfb2dUeEwxTG9ERFlzRmI3RmQ0VWJtdkgxdnBHVjlzMEZrRzlYYm1vbGFYR19rVmFyaHVwQ1NwWG1fYlVPMmRyZVl6SDE3VGZSZjU1ZHBDdlFaN0N6Zlk0UzFWaERfNmhiSlA?oc=5\" target=\"_blank\">Gunman opens fire at Mexico\u2019s Teotihuacan pyramids, killing Canadian and injuring others, government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0gwWUJTMEg3VlUzSnZrQlJnSFdYbWd2cTJaYi1lVFV0WWhHNHVITWtpVlhEZlMtYkd4bHVzU2IxbzBnMUFCaEREV0FlczRsazRrbk5Qd1VXNkhMM1lCczNzczdQbkl1SDl6UEw1MjZ6aVZTc19BcG5mMzVhc09CV0paRVFGUUVabkQ1R2J0YnRfTkZlMlQyLXRzVF9KdnFZeTVpai12VXY?oc=5\" target=\"_blank\">Shooting at pyramids north of Mexico City leaves 1 Canadian tourist dead, injures 6 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemxiRi04Q1VEQVItUFNvTGg0b0J1RkRKckNUOHM0aWtlLW04RzNWcHpHVDI3N0JiUHdMek5zOElLMDFOWjhaTGlGWmlRRTVSNHZPNjB0N1UxUGFtTWQ1ZGtZQ2VvX1Q5Tjd1TmY4OWlPX2hOZi0xemFlMnRTSUJFd0pwNG5OUmtYZ0VyRVEzdUFhWUpKbGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead.",
+          "url": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Stocks rebound on AI boost as Iran talks, Warsh hearing in focus - Reuters",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9MXzZvQUd0ODB4YjU2ZXFaVHh6QnFua0ZacEg1RkFSV2V4VGZxazBpR1VNdjB3UjhqQzZGazdfOGNnVl8wU0I2ZFdDVkF6UGlhbXVpSmZjQUZ6alN3NUxSX3JKbEV2LW12TElTT2o5MloyVE9ZZm1SVWZsOA?oc=5\" target=\"_blank\">Stocks rebound on AI boost as Iran talks, Warsh hearing in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFM3YW5sYzZKS0hzNjM3OGsteFdadFo4MlZNMXQtQVlNeDV1cWtVUDVzem1NUU1EX2ZXeUhMeExleVZhUDhWOGNhMmhNYmZJS29qSFZ1aVAxVF9VUUw4SXY0dHZsNzlxaUNuZFQ5eDFTX05MOU5ZdTFScy1OdGJKUlhNVG1rRU43ZllBREZyTWlJTVRRMVE?oc=5\" target=\"_blank\">Stocks Set for Gains, Oil Dips on Peace Deal Hopes: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1laVdhNEhwMHpTZVJCeDZoclRzTnRWWnJCSGVOY205cERGcEI0WDZfQl9iY2FObWtEdzhuLUVvVnNEaG51SWU4WVhuTS0zaUdvSi1ETGN5czh3d3ZHaFhKYTBpRlRqUHBFeDA2WWcwdUJscWotQUdwYXVQaFNJd9IBgwFBVV95cUxNQnoyRXBMMmFOdHl3X1NPczIwZnU1QzlJaTZmSHRvRmwxZmdyckp2V3ZJUDZhNGVRa0J4ZHJIYTlOcVlxZG9uQjV5OTZfWXpqcTg5TlVkMjRxVFJZd05aUXNkS1p4RTdfeldra3Y5TmRYMjhSeC1OYlhtQTBCQVRPSU1nNA?oc=5\" target=\"_blank\">Global stocks have recouped Iran war losses to hit fresh records \u2014 but the shadow of Mideast conflict still looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdlRzSkt3RGtCbXM3Zjd6ZkN4VU02b0VMRmlxQkVSOEcyN1dGeTRlUFItUFhLYV92TERSVnBIM1l1LXlhelAydklEVzZaaThsOEN4ZjhfZTFaOFZFRmNmRmxOTFdqbVVkWkVYQ0NuT3dpdVBGSDV1ZDZWSzZLeXhMMDZiWFpXRkNsMzYwaVd1ZTY1bHpQX0tfcVYxcDJ2LUhFQXc?oc=5\" target=\"_blank\">Oil prices drop 9% and Wall Street rallies to a record after Iran reopens the Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEJxNkdUaGFicEdPYXV0S2dmSUJ6LWo2a1NINTBYb3RaM3NGS3V2eURkWFdCdURzcTU3QmpkWURWSDZkWm8xTHFqOG9zanpsaFFIRHozOFhOYlk4bUwyUFlTSGI2ckMxUHJDejhQaFZmSmVOajM4aU9wcTNuOXRZbnhkZ2ZaLVlMaHJ1TmNKcmVfdTBnN0Q0bGtKcnhMcmNOdWQwY2JRZHNBamRUbkUxRjlCMm5PZw?oc=5\" target=\"_blank\">Asian shares are mixed and oil prices slip as talks on ending Iran war in doubt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MXzZvQUd0ODB4YjU2ZXFaVHh6QnFua0ZacEg1RkFSV2V4VGZxazBpR1VNdjB3UjhqQzZGazdfOGNnVl8wU0I2ZFdDVkF6UGlhbXVpSmZjQUZ6alN3NUxSX3JKbEV2LW12TElTT2o5MloyVE9ZZm1SVWZsOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Japan on high alert for 'huge' second earthquake after lifting tsunami warning - BBC",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.010752688172043012,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ON3NvUEZFYXk3WXlwWkdqTm84X1JUSjNnRDNTTWlzOUJ5YWtYcGRabGdkblBRc3FKWEZXQVZoVzFZcHZrNENObkExUGwtV0hzVXlEZjIwaXJudw?oc=5\" target=\"_blank\">Japan on high alert for 'huge' second earthquake after lifting tsunami warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9XRGdqWEV4aHIycjdPQWhabFpVNlZOeWFGbElRdDZ4bFluYmxqb0tYWklDalI1Zk04MjQzWk1uRkZ6S2V5cVdZLUxxdEtnVGJlanNTbjhKZmdHM0w1SFkxSzBtWmRxSUpkM0w5R3lXbUllVXk5V21LOFdVNTRUVFE?oc=5\" target=\"_blank\">Tsunami advisory lifted after Japan earthquake but warnings for potential stronger quake issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDRrWFBpZkk1VW00YVBWd3BwNXMtUER5ZTFhUnBiMGtpMTZ3TUZLU3Y3VWNSRW12REFGa0tRUW5peTByckdmN1BWTHp5V0U5Q2c1OHBNYnRHRW9FcFV5UDkyT0RoUHlfS3E0ZkVZVDlEbjJETEpsa2plTDlmZ0x2ZVRwM3g5Z1FlYjFOVkhtUHBMaUJSLXd1RVVuYVhzbTNP?oc=5\" target=\"_blank\">Japan earthquake mapped: Country on high alert for large quake after tsunami warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUtxR2d2S2ktTjBsU0VTblFldjlJaGFRMncyOG8yS1I4WWtRZVZvMW50NXhLcGZyUTBTeUpQeGhrck1lcmFlU0sxYmlzbG4yTzFQZHczVFpmaDZVc3FXdmxqMlphMEpuS09xeTVKVzZnOXo4VjNGTmJTT3UwZVZNejE3QURUUWk5X1Q3TQ?oc=5\" target=\"_blank\">Earthquake sets off brief tsunami alert and a megaquake advisory in northern Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVJvUVE5N0pPSFN2QWpRbjF0dm94dlIwcEtSbTRmZWRHeXNpd0dweDA2YVd1d3VJaC1wd2xBTmF0YmVEY3BJV3JHcERxN05PdXhnd2ozNjM5SElsNjhydDljN3Y2ZmRyOU9mWWtPN2RrczJLZkxSUlBSR2VKUzQ4QVN6NmJaV3htbTJiNFB3S24zT1FSUDQ4Y25IR2todm9nbG9V?oc=5\" target=\"_blank\">Is it Safe to Travel to Japan? What to Know About the 'Megaquake' Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cond\u00e9 Nast Traveler</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ON3NvUEZFYXk3WXlwWkdqTm84X1JUSjNnRDNTTWlzOUJ5YWtYcGRabGdkblBRc3FKWEZXQVZoVzFZcHZrNENObkExUGwtV0hzVXlEZjIwaXJudw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Okta\u2019s stock is surging. Here\u2019s why identity security has become the next hot thing.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02564102564102564,
+          "source": "marketwatch_topstories",
+          "summary": "Barclays turned bullish on Okta just days after Raymond James did, as customers are reinvigorating investment into identity security for the first time in years.",
+          "url": "https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Who is John Ternus, the incoming Apple CEO? - TechCrunch",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "TechCrunch",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzlSQnUyVkNVd0VCQVRPZy1HZDJJOWJjUmRtTXFBb3N6YVdlc09IU3UtTFdSYWpGemV6VmJOYUJOTEhNcWtnNXZjdTY0bVJIb2lzVmxkZ2tMdnBxZTNGMVplX2RPWWJwMHVMbkh0TnZpNW1jMTA3ajBFdjR6eF9CVkJB?oc=5\" target=\"_blank\">Who is John Ternus, the incoming Apple CEO?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3lqZXVIaE5GV19MZzJmWTFXRjdGNG9RM29kWVdOSUVLQzdMSzZuX2ZYa0lINmRyUW5oSWVJZ2lzejVHOUU2emwyZlFaT0JRVUFITmYtN0FLTDJuU3poeXFvU3VBQzM3cFhyUzM3N2lNMElLaVltYklrV2pfZC11Q2ZndTBJdjN6c0dMeUlabzA3aGNMcTRjTVBOYjBlQjR4a1RielVJeUNBZHpiZ3pmOE0tcDB0UQ?oc=5\" target=\"_blank\">Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNVFNRSFJmNHg2bWJWeDF2UEdhWUFIdTBldy0wUWdJMG9KUzFPZWwyVFEtQnlUZkFFdl9UekdQVkpZVjV4SjVkS1ZtYS1iYUdLNjEzbHJfUmVJSmJVNnlGd2tKSW1ETExmZGVIUVZEanUyQQ?oc=5\" target=\"_blank\">Who is John Ternus, the incoming CEO of Apple?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnpIdEdOMno1RTdua3hleXRGV3g1ODZ5VS1jS2w4ZGZ4aWdqNW1DbGMxMC1SUTQzMjFhcnFSajVqbVJOcnJ2cE1oOTBISXRFT0hnM2NzaFNqZXEyNUVINnlFX1AwRDZ6OU14aHFhYURvNjlQek02WFVjTmFQQVRnWm5YYUhnUV8wb0ZDdFlEakpYVDFJNzZv?oc=5\" target=\"_blank\">Tim Cook hands Apple over to its hardware guru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXFCUUp4ejRwX2dLYnZFbnRKaVVhR2lwUXkxeEpKMGN1S0h1NzFQazdWX2N3WDhRVEUxQXFfaU81Q2V1RGZVOVJsLTRVRnVTZHBlY0JacDZqeDFfMC0wZnJtZENpY2lXWnlYa0E2dGJaTEpNaVpGQzFpRC12ZUNzQg?oc=5\" target=\"_blank\">Tim Cook to step down as Apple CEO. In letter, describes 15 years of emails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzlSQnUyVkNVd0VCQVRPZy1HZDJJOWJjUmRtTXFBb3N6YVdlc09IU3UtTFdSYWpGemV6VmJOYUJOTEhNcWtnNXZjdTY0bVJIb2lzVmxkZ2tMdnBxZTNGMVplX2RPWWJwMHVMbkh0TnZpNW1jMTA3ajBFdjR6eF9CVkJB?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-21",
+          "headline": "Anthropic bites back in the compute wars with Amazon partnership - Axios",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBodDJTWFRsYnN3NXItQVQxTXQxWWdSZy1LUDl4b1o4M21hZVpaSVMzYmt4c0Q1MWpOX0ZtYVdNVHNFcTZZS0c2WEI4TnIyMUlJY3hibi1LT2dCamlrbFAwdzVuN25hanNqUjJHVURvSQ?oc=5\" target=\"_blank\">Anthropic bites back in the compute wars with Amazon partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0NRZVNGRFVoMmlaZU1MNnBadTVRQmZTd3YzeVNfaGowNldFb0lQaDczem93TXpmd1BrVUF3T3BIamcwbGNJbmNPVkliZUJpRmg5SnpPc0tVLUtLQjQtMEpNYVl3bXFicUFoSnhYeEk5Sll4SVMxeUROQjJfempxNEMtbGlrUHh4TXNnS252UGx3M1dYUTRFUHBYclRJNmpVV0NNcFFyRXhublQ3ZHc?oc=5\" target=\"_blank\">Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5\" target=\"_blank\">Amazon and Anthropic expand strategic collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdENHZTV6MTdDdGFScHBGUTJEandaV2pqb3ZJWWFVTHpJNUtsNWJJUVBWZFQyQ05MSWVYOFcwQ05Keks4R1FEWVNENkw4VTRHOEZjXzkwLUNIZ1pjd1ZRNUpfSmVFZTZWQ21HX09jQzdUSUJhS1lDTzZPWFg2QmpVeWhZdHlOZGRoVVRkOEdOZzNSNWFDRjFMSTZXdk1LX2ZjcFVJWmZ1YUQ3d9IBrwFBVV95cUxNVWN2VjU0RFV1OFl6R1cyVXlpQ2JKaTdfQndJQzBuZ0tuQVZlUUJJQ09WMDAwY2NYdk51UWdyZElSTGkwZHVXX1JPSVBTWE5rbzBURWRGaFhtZHR1OFN5WXJvRlA3RlMtX2Z5SjRnTGRZZjFkVDRtcTFtZmNobVk2MzRwNDdHUkZpdl92c21HUkF6eWZrSjFTUTRSWmdNajhpcW1MSm9OTmU1THpGRlJF?oc=5\" target=\"_blank\">Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWdXRDhqZ3Q5emN4eER6VmNBNHVXZ1VsNkJsWElZUEpTSmtsaTRkdWs1OEotWjhNdm5pSko4LUhaOWJJTTR4MURZbmNoeGJYaUstM1R3a18tQ3pIbHVpV2lxbWFrc2N4S2d0aFRXS18tZko3bUVOSEV3U1NwNjRlZXo0V2o4WjBMWkZ5SVlKbjBsdUEzdVJQY2xDNEpIQmlKQ09DOVpsUQ?oc=5\" target=\"_blank\">Amazon to Invest an Additional $5 Billion in Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBodDJTWFRsYnN3NXItQVQxTXQxWWdSZy1LUDl4b1o4M21hZVpaSVMzYmt4c0Q1MWpOX0ZtYVdNVHNFcTZZS0c2WEI4TnIyMUlJY3hibi1LT2dCamlrbFAwdzVuN25hanNqUjJHVURvSQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02631578947368421,
+          "source": "marketwatch_topstories",
+          "summary": "John Ternus is expected to usher in a renewed focus on hardware as Apple positions itself for the age of AI.",
+          "url": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": "Telecom Services",
+        "provider": "yfinance",
+        "sector": "Communication Services"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
+    },
+    "news": {
+      "article_count": 0,
+      "catalyst_signal_count": 0,
+      "classified_articles": [],
+      "coverage_quality": "none",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 0,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": null
+    },
+    "technical": {
+      "atr14": 0.307494050265389,
+      "close": 12.29,
+      "close_vs_ema200_pct": 7.874862657057123,
+      "close_vs_ema20_pct": 2.5821693253361993,
+      "close_vs_ema50_pct": 4.056750137377016,
+      "close_vs_hh20_pct": 0.0814332247556986,
+      "ema20": 11.9806395992881,
+      "ema200": 11.3928302639614,
+      "ema50": 11.8108628068574,
+      "entry_ready": false,
+      "hh20_prev": 12.28,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.39379950902942
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": "Telecom Services",
+    "sector": "Communication Services",
+    "supportive_effects": 0,
+    "weight_scale": 0.35
+  },
+  "news_support": {
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (12.28), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.39, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 12.28 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.08
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.39
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 2.58
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 4.06
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 7.87
+      }
+    ],
+    "confidence": "low",
+    "label": "mixed_watch",
+    "score_0_to_100": 58
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-21",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-21_universe_3_US_Results_CANDIDATES.txt"
+    }
+  ],
+  "summary": "LBTYK scores 58/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
+  "symbol": "LBTYK"
+}

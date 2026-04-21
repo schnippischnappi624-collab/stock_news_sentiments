@@ -1,0 +1,14 @@
+{
+  "country": "Bermuda",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Telecom Services",
+  "long_name": "Liberty Global Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "LBTYK",
+  "quote_type": "EQUITY",
+  "requested_symbol": "LBTYK",
+  "sector": "Communication Services",
+  "short_name": "Liberty Global Ltd.",
+  "symbol": "LBTYK"
+}

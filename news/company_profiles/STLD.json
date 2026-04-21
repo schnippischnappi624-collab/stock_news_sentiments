@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Steel",
+  "long_name": "Steel Dynamics, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "STLD",
+  "quote_type": "EQUITY",
+  "requested_symbol": "STLD",
+  "sector": "Basic Materials",
+  "short_name": "Steel Dynamics, Inc.",
+  "symbol": "STLD"
+}

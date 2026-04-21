@@ -1,0 +1,14 @@
+{
+  "country": null,
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": null,
+  "long_name": "Hewlett Packard Enterprise Co",
+  "provider": "yfinance",
+  "query_symbol": "HPE-PC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HPE-PC",
+  "sector": null,
+  "short_name": "Hewlett Packard Enterprise Comp",
+  "symbol": "HPE-PC"
+}

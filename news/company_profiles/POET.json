@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "NCM",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Semiconductors",
+  "long_name": "POET Technologies Inc.",
+  "provider": "yfinance",
+  "query_symbol": "POET",
+  "quote_type": "EQUITY",
+  "requested_symbol": "POET",
+  "sector": "Technology",
+  "short_name": "POET Technologies Inc.",
+  "symbol": "POET"
+}

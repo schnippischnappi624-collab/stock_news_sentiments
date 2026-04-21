@@ -1,0 +1,14 @@
+{
+  "country": "Switzerland",
+  "exchange": "NGM",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Biotechnology",
+  "long_name": "Oculis Holding AG",
+  "provider": "yfinance",
+  "query_symbol": "OCS",
+  "quote_type": "EQUITY",
+  "requested_symbol": "OCS",
+  "sector": "Healthcare",
+  "short_name": "Oculis Holding AG",
+  "symbol": "OCS"
+}

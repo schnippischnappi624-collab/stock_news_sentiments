@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "REIT - Healthcare Facilities",
+  "long_name": "Sila Realty Trust, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "SILA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SILA",
+  "sector": "Real Estate",
+  "short_name": "Sila Realty Trust, Inc.",
+  "symbol": "SILA"
+}

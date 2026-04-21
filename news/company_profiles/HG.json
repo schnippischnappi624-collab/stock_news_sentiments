@@ -1,0 +1,14 @@
+{
+  "country": "Bermuda",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Insurance - Reinsurance",
+  "long_name": "Hamilton Insurance Group, Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "HG",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HG",
+  "sector": "Financial Services",
+  "short_name": "Hamilton Insurance Group, Ltd.",
+  "symbol": "HG"
+}

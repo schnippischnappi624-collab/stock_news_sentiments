@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Semiconductors",
+  "long_name": "Microchip Technology Incorporated",
+  "provider": "yfinance",
+  "query_symbol": "MCHPP",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MCHPP",
+  "sector": "Technology",
+  "short_name": "Microchip Technology Incorporat",
+  "symbol": "MCHPP"
+}

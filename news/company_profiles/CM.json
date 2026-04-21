@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-21T09:16:10.944717+00:00",
+  "industry": "Banks - Diversified",
+  "long_name": "Canadian Imperial Bank of Commerce",
+  "provider": "yfinance",
+  "query_symbol": "CM",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CM",
+  "sector": "Financial Services",
+  "short_name": "Canadian Imperial Bank of Comme",
+  "symbol": "CM"
+}
