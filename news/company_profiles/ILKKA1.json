@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-04-21T04:00:46.388797+00:00",
+  "industry": "Publishing",
+  "long_name": "Ilkka Oyj",
+  "provider": "yfinance",
+  "query_symbol": "ILKKA1.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ILKKA1",
+  "sector": "Communication Services",
+  "short_name": "Ilkka Oyj 1",
+  "symbol": "ILKKA1.HE"
+}

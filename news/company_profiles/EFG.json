@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-21T04:00:46.388797+00:00",
+  "industry": "Entertainment",
+  "long_name": "Eagle Football Group SA",
+  "provider": "yfinance",
+  "query_symbol": "EFG.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "EFG",
+  "sector": "Communication Services",
+  "short_name": "EAGLE FOOTBALL GROUP",
+  "symbol": "EFG.PA"
+}

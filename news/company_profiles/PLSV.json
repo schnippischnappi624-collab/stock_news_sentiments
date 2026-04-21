@@ -1,0 +1,14 @@
+{
+  "country": "Bermuda",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-04-21T04:00:46.388797+00:00",
+  "industry": "Oil & Gas Drilling",
+  "long_name": null,
+  "provider": "yfinance",
+  "query_symbol": "PLSV.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "PLSV",
+  "sector": "Energy",
+  "short_name": "PARATUS ENERGY SERVICES LTD.",
+  "symbol": "PLSV.OL"
+}

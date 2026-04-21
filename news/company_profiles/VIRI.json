@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-21T04:00:46.388797+00:00",
+  "industry": "Oil & Gas Equipment & Services",
+  "long_name": "Viridien Soci\u00e9t\u00e9 anonyme",
+  "provider": "yfinance",
+  "query_symbol": "VIRI.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "VIRI",
+  "sector": "Energy",
+  "short_name": "VIRIDIEN",
+  "symbol": "VIRI.PA"
+}

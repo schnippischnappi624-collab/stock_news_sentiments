@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-04-21T04:00:46.388797+00:00",
+  "industry": "Scientific & Technical Instruments",
+  "long_name": "Nynomic AG",
+  "provider": "yfinance",
+  "query_symbol": "M7U.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "M7U",
+  "sector": "Technology",
+  "short_name": "Nynomic AG                    I",
+  "symbol": "M7U.DE"
+}

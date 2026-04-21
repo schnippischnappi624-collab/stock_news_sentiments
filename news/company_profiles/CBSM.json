@@ -1,0 +1,14 @@
+{
+  "country": null,
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-04-21T04:00:46.388797+00:00",
+  "industry": null,
+  "long_name": "Franklin ClearBridge US Smaller Companies UCITS ETF USD Acc",
+  "provider": "yfinance",
+  "query_symbol": "CBSM.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CBSM",
+  "sector": null,
+  "short_name": "SCBSM",
+  "symbol": "CBSM.PA"
+}

@@ -1,0 +1,464 @@
+{
+  "analysis_date": "2026-04-21",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "low",
+    "label": "constructive_watch",
+    "score_0_to_100": 72,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 23.90 and attract follow-through volume."
+    }
+  ],
+  "company_name": "CURATIS N AG",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Stock Market News, April 20, 2026: Oil Climbs on Fresh Tensions in the Persian Gulf - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Y0UUs1b3Nlc2NMMmxVMGM4QWZMblpwb1FzbE4ycjRmRmtGWk0xX1dIZzQ0SXlfLTFPc0pnN1hHUWNZYTR2cm0wOERyRHhTbVdCZGRfWWxUYjl3MDd0WEVqZkhWR0dyVFBMREtsa3BBLUdrcEF5OUp4TUZzeG80SVNBZ1JTUGc?oc=5\" target=\"_blank\">Stock Market News, April 20, 2026: Oil Climbs on Fresh Tensions in the Persian Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcUZYa2tlM0pESEt4V21GZV9FMC1tdDhOeFRfSXozaktmMXZuVVdBN0w2aEp6bXNlTTh6NDNsMW9WMlZDSU9kazhFb0hNRjZ0a19qN01QUVl3azZob2ZwcDFwVUwycDZRZHdwdnBTS2l1ZzJqNXRxMkZYaE11VHVEdm9nUjlsRVFDbGdNMW1Ca3NVWXExMjROQnVtenVzN0xEelFjN0p4UFExM1g5NU40NVRpMlBtclhKdEJkOXJxbE5VMjBSS0lWcnk0ZXRHZlJ0MWJ3eHZ3bnJ2ejVFMk5tcGswaHFHdFk2LTgtUldxUlEtMUNNRlZZVQ?oc=5\" target=\"_blank\">Stock market today: Dow slips, S&P 500 and Nasdaq retreat from records with Middle East peace talks at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Jakh0T1FtQ3pMM3ZKNG94dkE2ZVpfYTBMZGlLNjFaeEZCdEVvcGhBMGtVMVltbWdkSTlWUDdxc0tpOEhXU1BZS283dWxSWDFxWWxSVU9leXhuZmIxMmw2ZEZib3UwZUhTaG02MnUyOFRLTXVkV3hDSQ?oc=5\" target=\"_blank\">Iran war-driven supply shortfalls will soon start to appear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnZERm5EbUc0TVlpc2ZMUEhQbXluQ0ZYaFFEUEVBMEljMkJEQVhfeU9vdFQ3RVFpTFhEREdfamhuYnY4OWY1anQzbTlfbjJSZWEzY0g0XzZRWUhFOENmNWRPQTNhOTR0QVN3bXgtOUdfV2VPSzZVWFM3OUhRVXVwUVBoZFFzYWg5RUhkQmlB?oc=5\" target=\"_blank\">Fresh Middle East Strains Drag on Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjU2TlFwQnBjVlAzdFJFUENydUg2ZmFkc3dtVnRtOHhfZDVKNkN6SnZzdE9iOG45Mm01UUJnbVU4RHFjNUFZMVlicFZwMks0OTNOMDFiQWZfM3BfZm1tSVNRakg4ZWh6REtwNVRIQ1NLOGhSMDA5VE5nM3FGRTFkXy14Q09HZ0VNc0ZuQVNPRmZ3TE14UkhvbnNJTmliTlR4RWVn?oc=5\" target=\"_blank\">Wall Street closes slightly down on renewed tensions between US, Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Y0UUs1b3Nlc2NMMmxVMGM4QWZMblpwb1FzbE4ycjRmRmtGWk0xX1dIZzQ0SXlfLTFPc0pnN1hHUWNZYTR2cm0wOERyRHhTbVdCZGRfWWxUYjl3MDd0WEVqZkhWR0dyVFBMREtsa3BBLUdrcEF5OUp4TUZzeG80SVNBZ1JTUGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Saudi Arabia and Iraq Are Caught in a Hidden War Within the War - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnRvUE1XekxWZVZtaE44cFluWHpuTzF6bzBwamhxZERaVG9VRzJBLXlGV0NiWGY4YXFqQVBkUmd4TTExc0g0Y3Z4YmNxUVllcnNEMkNKeVJoUThRY3F6b25fek93TXY0emZnLU9wSktaQkFNNkF1RXRQelRkTVRQMjROWDNmMzBjVkE?oc=5\" target=\"_blank\">Saudi Arabia and Iraq Are Caught in a Hidden War Within the War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEtxdjZqaE8yd0tJaEtCeGgtRXlvd2hOVzR0bkFlZ2xJZU1reVpTQ2NWRXFQT01yNks2bVdCcVVLbDlnY2JmRkJtUFFNVWY5MDRTVWZyd3RoQ090bXB5TWw1ak9zRWZmZG1QRTVaY2Y1b0dlWUdmaUFzcTIxYVlKNzJaX1BPVmZtbkFaOG1QekhhMWxaWFdLeHJaSzNGS0I5ajBQa1g3WXllODjSAbABQVVfeXFMTzM3NlRkTlRLbGw5RVhXcHowUkNTLWxSNllibFV4MzBoOTU4RnUyUzRHSHhTRXQ1cXhGVFhBWXM1LS03OTlQaExWOUZ1bW9sQmxVaGJmZ2pjbzktbTlsYTZ1S2VBdVJHVlBhNWppeGtOc2NiMWw4cHJFUTB5Tk1GMzR6MXhEcTlYN2RJeEtNNFlTRFpRbEZ6aWpHd1o0UVA1X25VX3d3NzBoWWVPa3dwZnI?oc=5\" target=\"_blank\">Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR2g1N0RtYlFzYXlXT1NscFByUTlHOEtwWHctdFp4UTZBR1VKRUVzWUJJY2JlTFgxZklzWnMwTGJidmFVRW82RDBlVXhOQTFrT0R2UTRfVnFXUVc4UzJJZ3c2dDBuM0huSzkweV9SOGs5S1lyV1hQQ1VnYWlPTFlpc1oxWDFVMmFoUW5wS0hCOXBjei1sZ3VYOUZUR0xFQXBNRG1ybzU0TlVCUExKSVIxV3hzX3VDdlJ2eTU0VTZQVVktNV9oY05jb1dRbG9ZekROOHFpQmF3czVPXzVBUWctZG9pY055WUXSAewBQVVfeXFMT0F5czhRMGozUHVYSVdHa2pDd21SOXg0Q3pJTzEyLXo1SWFRZUtVMlNvbm0wTk9ZS2pNUnVib0pkcFNBMmhwZWxuNjN4TkN4SVJhcF9XcF9ObmxYb2YyU0V6clVFRmVKeVhVSm9HOGs4RmYwQWRXeUFqMFBjMU9adjM5YTZtYWhiajFTYWpoRzdaRERmT2VoOG9CYzJPWXJhRUtCXzg0dlJBUVktN0Y4R0dZWjQ4eUtLcUFmSXU3OFNldHdqVDRhR21wTE8zMHlHNWlnWUtzSzlWRjUyOW5RZU1vUGZfOGxBMGl1b2E?oc=5\" target=\"_blank\">Saudi Arabia Summons Iraq Envoy Over Oil Infra Attacks Amid Iran-US Truce | Firstpost Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZENKc3BWQTBETXJhdWZialphRmxKam9CUC1wcHBZRHlWZVZiV1pjcVJ5V3EwcFFjWUhPeGt3SS1WTUxia3A3Wm1DS0xieFMzb2tUVFFUUi1xU09ud2pONzY2NnJkT2pUa0NYeUVfMVREdDhoVk52T2tFWHUzUUxzZ3lpelRQWkhNVEFTQ2hOU1lDYzJTNmVzN2xNOWNtd1NZLXVFNVBlT1BxQ0hSM3BVUTI5VTgwTm94MWFDalhJQ3BkOE0?oc=5\" target=\"_blank\">Saudi Arabia Summons Iraq Envoy Over Drone Threats From Iraqi Territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWtXSC0tQWJvUTRucVBvMXB6MGUzS3A4U0htT3pmdmZON05MMGNlOVZoRi0wcmQ2bnkzcEtnaThlWUJ6b29XQkVsSlBaSTIxZEg2SXh1S0tQM0w1UHZIU1ZRamY4aXJfM3VZOXV4SFQ1QWI3N1BxOXhYTVVwNmFwdnYzSVVPc1NVcGUyalFabWtUR2JVMHdoStIBngFBVV95cUxNaWR0ZmZreU45WUg4WWRvaEt1SjdfYkhCc01fSjZXc183Rkd1OHhRTkg0UUROSUJFZE9NMHc3MENHVzQ1VzJWc1VTdHpMSFFwR0VIMXpHcHlMOUR6VDhOV19NUUI2Ti1iXzBzMWVGWjhWV2ZESUU4WUV2UVM3VndiclBhNTR5NHdZckZBUnRES2dCRmxnNlE1TjE4blR1UQ?oc=5\" target=\"_blank\">Gulf states weigh UN complaint against Iraq over militia attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Arab</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnRvUE1XekxWZVZtaE44cFluWHpuTzF6bzBwamhxZERaVG9VRzJBLXlGV0NiWGY4YXFqQVBkUmd4TTExc0g0Y3Z4YmNxUVllcnNEMkNKeVJoUThRY3F6b25fek93TXY0emZnLU9wSktaQkFNNkF1RXRQelRkTVRQMjROWDNmMzBjVkE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Do I earn too much to contribute to an IRA?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "You may not be eligible \u2014 here are your options.",
+          "url": "https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Canadian Tourist Is Killed in Shooting at Mexico\u2019s Pyramids - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOemxiRi04Q1VEQVItUFNvTGg0b0J1RkRKckNUOHM0aWtlLW04RzNWcHpHVDI3N0JiUHdMek5zOElLMDFOWjhaTGlGWmlRRTVSNHZPNjB0N1UxUGFtTWQ1ZGtZQ2VvX1Q5Tjd1TmY4OWlPX2hOZi0xemFlMnRTSUJFd0pwNG5OUmtYZ0VyRVEzdUFhWUpKbGc?oc=5\" target=\"_blank\">Canadian Tourist Is Killed in Shooting at Mexico\u2019s Pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bS1kRU44Z0RPaU13VENFcVhlTTFKelhnUGNNZTZQUnZ4VnZpLU0wOVE4WWlGbGNOZFhrNjFMME9vSzVXS0ZxSTdvRkl3bUE1OVh1NXZoTkd5UQ?oc=5\" target=\"_blank\">Canadian killed in shooting at Mexico's ancient Teotihuac\u00e1n pyramids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHFoa085dEhzeFp5VVZIcDRSQnl0R0tkOHhzcGwweHd6UlFSTVRJZjhtT3dsbnFGdTl2WmlRMVlJczZ0ZXhQV0ZGSmZFM2ItQ0JmS0xHV1JTT0UzZzhZTGs5ZUdaWk1HZ04ySmFSU05DZXBsTEVVcFpCLU9RbXREZUhwdnh2c0h6bXZZZkx5dmZvd1d4dXVhbGExMzRjb0VYeGx3ZndQYzJkM01mQWxzNlV1SHHSAboBQVVfeXFMTWZBYzBQdGY0czBIUDA0NE1kTTFPWE8wc1I5ZlE0OVRoeloyX1FoRzA0RmxFVGtHc1YteW5CMEx2OTRjVkgxSHpmTW9aYXBQUmpIN09RcTVkbGRiOXdPTTk0VktXYllXTk1PMXVUTHNWMFU0MUxabExoUUxaN2VlT2h6ZUFKUVMxU1NLZElveW1yQXRhTnlkZllwUURhVFliaTQ2VjFWTFFjLU9nTkpjV09pbFBKVXU4OXBR?oc=5\" target=\"_blank\">Deadly shooting at historic tourist site leaves one dead, several injured as motive unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBwcjUtaUY4Um45QldHOWdDQ09Db3BYb2RJcWwxYmplOUNmaURfb2dUeEwxTG9ERFlzRmI3RmQ0VWJtdkgxdnBHVjlzMEZrRzlYYm1vbGFYR19rVmFyaHVwQ1NwWG1fYlVPMmRyZVl6SDE3VGZSZjU1ZHBDdlFaN0N6Zlk0UzFWaERfNmhiSlA?oc=5\" target=\"_blank\">Gunman opens fire at Mexico\u2019s Teotihuacan pyramids, killing Canadian and injuring others, government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0gwWUJTMEg3VlUzSnZrQlJnSFdYbWd2cTJaYi1lVFV0WWhHNHVITWtpVlhEZlMtYkd4bHVzU2IxbzBnMUFCaEREV0FlczRsazRrbk5Qd1VXNkhMM1lCczNzczdQbkl1SDl6UEw1MjZ6aVZTc19BcG5mMzVhc09CV0paRVFGUUVabkQ1R2J0YnRfTkZlMlQyLXRzVF9KdnFZeTVpai12VXY?oc=5\" target=\"_blank\">Shooting at pyramids north of Mexico City leaves 1 Canadian tourist dead, injures 6 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemxiRi04Q1VEQVItUFNvTGg0b0J1RkRKckNUOHM0aWtlLW04RzNWcHpHVDI3N0JiUHdMek5zOElLMDFOWjhaTGlGWmlRRTVSNHZPNjB0N1UxUGFtTWQ1ZGtZQ2VvX1Q5Tjd1TmY4OWlPX2hOZi0xemFlMnRTSUJFd0pwNG5OUmtYZ0VyRVEzdUFhWUpKbGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead.",
+          "url": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Okta\u2019s stock is surging. Here\u2019s why identity security has become the next hot thing.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02564102564102564,
+          "source": "marketwatch_topstories",
+          "summary": "Barclays turned bullish on Okta just days after Raymond James did, as customers are reinvigorating investment into identity security for the first time in years.",
+          "url": "https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Who is John Ternus, the incoming Apple CEO? - TechCrunch",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "TechCrunch",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzlSQnUyVkNVd0VCQVRPZy1HZDJJOWJjUmRtTXFBb3N6YVdlc09IU3UtTFdSYWpGemV6VmJOYUJOTEhNcWtnNXZjdTY0bVJIb2lzVmxkZ2tMdnBxZTNGMVplX2RPWWJwMHVMbkh0TnZpNW1jMTA3ajBFdjR6eF9CVkJB?oc=5\" target=\"_blank\">Who is John Ternus, the incoming Apple CEO?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3lqZXVIaE5GV19MZzJmWTFXRjdGNG9RM29kWVdOSUVLQzdMSzZuX2ZYa0lINmRyUW5oSWVJZ2lzejVHOUU2emwyZlFaT0JRVUFITmYtN0FLTDJuU3poeXFvU3VBQzM3cFhyUzM3N2lNMElLaVltYklrV2pfZC11Q2ZndTBJdjN6c0dMeUlabzA3aGNMcTRjTVBOYjBlQjR4a1RielVJeUNBZHpiZ3pmOE0tcDB0UQ?oc=5\" target=\"_blank\">Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNVFNRSFJmNHg2bWJWeDF2UEdhWUFIdTBldy0wUWdJMG9KUzFPZWwyVFEtQnlUZkFFdl9UekdQVkpZVjV4SjVkS1ZtYS1iYUdLNjEzbHJfUmVJSmJVNnlGd2tKSW1ETExmZGVIUVZEanUyQQ?oc=5\" target=\"_blank\">Who is John Ternus, the incoming CEO of Apple?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnpIdEdOMno1RTdua3hleXRGV3g1ODZ5VS1jS2w4ZGZ4aWdqNW1DbGMxMC1SUTQzMjFhcnFSajVqbVJOcnJ2cE1oOTBISXRFT0hnM2NzaFNqZXEyNUVINnlFX1AwRDZ6OU14aHFhYURvNjlQek02WFVjTmFQQVRnWm5YYUhnUV8wb0ZDdFlEakpYVDFJNzZv?oc=5\" target=\"_blank\">Tim Cook hands Apple over to its hardware guru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXFCUUp4ejRwX2dLYnZFbnRKaVVhR2lwUXkxeEpKMGN1S0h1NzFQazdWX2N3WDhRVEUxQXFfaU81Q2V1RGZVOVJsLTRVRnVTZHBlY0JacDZqeDFfMC0wZnJtZENpY2lXWnlYa0E2dGJaTEpNaVpGQzFpRC12ZUNzQg?oc=5\" target=\"_blank\">Tim Cook to step down as Apple CEO. In letter, describes 15 years of emails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzlSQnUyVkNVd0VCQVRPZy1HZDJJOWJjUmRtTXFBb3N6YVdlc09IU3UtTFdSYWpGemV6VmJOYUJOTEhNcWtnNXZjdTY0bVJIb2lzVmxkZ2tMdnBxZTNGMVplX2RPWWJwMHVMbkh0TnZpNW1jMTA3ajBFdjR6eF9CVkJB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Anthropic has \u2018unprecedented\u2019 demand \u2014\u00a0and it\u2019s leaning on Amazon for support",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Amazon is investing another $5 billion in the maker of Claude.",
+          "url": "https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02631578947368421,
+          "source": "marketwatch_topstories",
+          "summary": "John Ternus is expected to usher in a renewed focus on hardware as Apple positions itself for the age of AI.",
+          "url": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Israeli strikes in Gaza kill five, local officials say \u2013 as it happened - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXJfU0lReTNDN3VUaUg3SGJQMTJuNXUzUzJzZ21QbFpRUFZROWNGY09MNy12VUU1djdRU2lmZHRMdWhDVkJ3b2N2ZUxMWExCSm4zTUxnUThkWWdFX2JxbExxbHRaaXZMY29BR0VJcDNWODgyRTdwN0FQdjhPWjZUUUFfS0VNUHR6dklXV1RPMWowREFzNk5vTzltNDc1VUNKRzBvTXNWU0pEVnU5M0tvTW9WZnVQRF91ZXdEa05hU1AyOEFxTXJHTg?oc=5\" target=\"_blank\">Israeli strikes in Gaza kill five, local officials say \u2013 as it happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1ZWTm5xWkxldEd4dnRyWFNrWUlNU2w4VklLWWhmRFVsUWJ0aDYzczVsYU92bHZnb2tMSUFoM0wyZ3pxUFp0TTYyc0J0X0x3a29ITnl2NnctWnJFSFpIUFJsQ0VjVTJJM3lNbXhBT1NKOFNUNG9hZzRqM0VQMzlBX3lpVFQ5cFZnd1A3VllqN2djZkc1SWhLODl1OElHLUNuaUcwRWxvYUZjMURsR19XcnVZX2UzUS04c3IyZEtscEs?oc=5\" target=\"_blank\">Israeli strikes kill five in Gaza, Hamas clashes with Israeli-backed militia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGpiMzlJenNuMkJHX3N1NENpNzJXN2pQcTNaWURXNGZETFV5MTY4bzZ3enZoaGVMcVBlWDBZdmU5bFVZV3Y0bW5EcnpwaWpfNDRWMXhKOUh5ang4MkZSRWpDU0UzMzFDNFFRa204ZnNIUnNOdi03aEtwUFd0anVvTUk2OXVyXy1LbjJKaElSM2NVT3IwbVNSRTlXcURreklady1uRFAtV2JjRy1LbGfSAbMBQVVfeXFMTkZiLWlOVlVXVjFvQXdRUS16ZzdVRjFScURKZG5VSjR2WE5DNktsWV8wTlJlWGVDdXhjVUo2Tm4wWkZPSDQzNDB5MmcxVFd3NmtoT1RwR2Q4YkxDZVVfOE16XzdvLUhvQjEzVDlwbHVJMXJ5cTd3N01qU3BSWDY4U2dxUXFjWklrZ2I0VGc5TU9RdUR5QnFEbm5UNF85RHlZSTFaS3poUjdneVJMZ2NfX3ZsQUk?oc=5\" target=\"_blank\">Israeli attacks kill several over two days in Gaza despite \u2018ceasefire\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0s4aDRvMnhYdGFWbngzOElKVzZLd0sxYzBMckpBR2s2UHZWTVpsUnZlOWI5ZnNfUUhyWW1hQmx5eU5QT3JyMnNnSHZKWTB4ZHl6TmlSZkxHX2xPaGVTSm1IQ1lMSzQ5aTZGcDJkZzlENVZYczRRU0sxRnJCVmVwSVFJWGJqcG1JdVJPLWZibFFQU2FIUzlWY2NiVEFKOVJ5Y0J3?oc=5\" target=\"_blank\">Israeli drone strike kills two in southern Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Eye</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUxPbkRvTVQ5ZVY0RGpkdG12bzB1RVVZYVZlVl9NM0k0NENadm0zLVE0RWwxWU1xVHU4WXRlc2ZxRTVRZmdkNmNyT0JHLUxnSHZDOGRwU2VmdzZFUVNLaVJtbzBpSjg3QjNheFhSanpyVV9JRWFCNzVoaVJMRW9QR05SSzhYQ0paR00tVWdYRFRvWHlpSVFvU2NXZ3pnRVN0ekJ3T2NwNk53c2JqT0xKQW1YQ2Q?oc=5\" target=\"_blank\">Reported impact snapshot | Gaza Strip (15 April 2026) at 15:00</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXJfU0lReTNDN3VUaUg3SGJQMTJuNXUzUzJzZ21QbFpRUFZROWNGY09MNy12VUU1djdRU2lmZHRMdWhDVkJ3b2N2ZUxMWExCSm4zTUxnUThkWWdFX2JxbExxbHRaaXZMY29BR0VJcDNWODgyRTdwN0FQdjhPWjZUUUFfS0VNUHR6dklXV1RPMWowREFzNk5vTzltNDc1VUNKRzBvTXNWU0pEVnU5M0tvTW9WZnVQRF91ZXdEa05hU1AyOEFxTXJHTg?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-21",
+          "headline": "Israel entrenches hold on south Lebanon; US to host talks on Thursday - Reuters",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3VjMHRZTVVMa2hOXy02ZFZZRVFWcW5HbUNPNk1FTF9mMFhJM0hoaHBqM0FrZjZ3WmJCOEh3cENKS3VzbFQ2dzV0Sm9QUW5EczcxZV9qUXJBQUs3SGxDelhWMG0wLTNsY3VPSFdpZHFRczltcm9qWVdtME40LTZxNU04V3lVeTJHY0hlWGhwX1pHUlpxRzVSMGtMcl9Oc0l6NGJ6ZzAxUTBBLTVHNTFmNlVqcjg3QQ?oc=5\" target=\"_blank\">Israel entrenches hold on south Lebanon; US to host talks on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxOQnpIWmhXOVJQMkMxRUJKTDlSRVF1REhWZ192OEdqMXJnS0JUZ0lkeDhRTXluZ0hLVjRISjdOamtMSnBYQk5XSWpOY2hkYmF5Ym9UM0pRSVpSR3g4Z1VSWnF6aXBLZ3NSbTZMQ2VMSTREcllhcEJmWEdYUm9SRmMwRWp4aGFOU1RYbWpGNloxYldaaVM2bThrcmJiSzNtd0N4WWR1NXl0REdTOXpFSFAyZmh4UHRxNlFXdDM5SDNhMHpuTjRQNFdaLXl1V3dJbVM4RS1lc2M5MUlwdTk0NktKZ0R0SUFyeV9aYmZTanJkVWI0Zm1aVDVCUU5XaDEtUEtLbE1obzZBcHlVTUVfMkFreHBZUm5kb1BlRTFlVjJOQmI3VHpTNGo5TXQ0WU1NMzlFa3c?oc=5\" target=\"_blank\">'Is This Really the Solution?': Inside the IDF's New Buffer Zone in Southern Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHFQZXlNYjBleHFUQ0ZrdzlYYTZIM3UycldzeWNGYVB4YTNHOWRDY3ZTUWU2d2JFenhFa09LUDhuNjRVN1I4SVdTbDZVdUVxbG9OOHJ3XzJCRzMtcG5kNU8tTmpjNWpsN3NhVUhXeThrY1gxWENLbnVDanNYR1kwZmJ6RldPRmY2SjVxTzdWdlBRYzIyME5XTTEzemFobWFfTV9zZmtPTElRd0M4X29jWjdsN0ZlOXdBOUNjVA?oc=5\" target=\"_blank\">IDF unveils map of forward defense line in southern Lebanon amid ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHdYR1Y3QmdJZkxYWG0yQkJibmNoZVRqRnhBWFNTMjJnTFN0S2lpU01UeUc3a1BibmFrVkptRlhsYWpBY3ptYVZBbkFlVUlLX21uRERGQjg4UXE4eFhYVHNLOHdGR1RzcU9KZ1QxcG1Nb3NWbGR1RmFUdEJfeW5iV3ZtZXpsT1J5VTlJMXpVSUJ2Ym1aTGF4MGFuVlJMZ1l6TVZv?oc=5\" target=\"_blank\">Israel Pushes Deeper into Lebanon with 5 Brigades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGc1bFlUY0s1NnRJSDR3cU1xRE1lbmI2Wm5kTUlGMld4d2IyeWNoT3g3Q0FpcVdSWjhraC04UGs4XzV5ZGV1ZXZjaV9iWGpKSkw5ZXBaNG0wSG9CSTJzQ2lGa0ZCZkJKb0dCOC1OeFVlZ0RwWGpqX1daelhJaWhGb3lEMmEyRmo4bTZ5OURJVzhYMjdUV3NhNENjaWl3RElPUWJtZUNqdG1uWEXSAbABQVVfeXFMUG5RQThiVzRDOXkzTHlZa2loZGVGOGdOX1Vld1BDS29TeU81ZnpoRDFXd2hqYWswRzIyYmhMWk42a0UyN3BBUFI1QXh3eVdJZ0duQk9mdGpWQkJnczFfSVUtSjl1QlZhbmViczJZc2JjZGNpSHBOQXRMT1VudFRhVlJOWFVJaldMakZzODRmZ0cwZHppWjh0dkptM2JwM1N3bnl2WWNUYTVZQ21tZy1xZUo?oc=5\" target=\"_blank\">Israel says established a \u2018yellow line\u2019 in Lebanon, as it has in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3VjMHRZTVVMa2hOXy02ZFZZRVFWcW5HbUNPNk1FTF9mMFhJM0hoaHBqM0FrZjZ3WmJCOEh3cENKS3VzbFQ2dzV0Sm9QUW5EczcxZV9qUXJBQUs3SGxDelhWMG0wLTNsY3VPSFdpZHFRczltcm9qWVdtME40LTZxNU04V3lVeTJHY0hlWGhwX1pHUlpxRzVSMGtMcl9Oc0l6NGJ6ZzAxUTBBLTVHNTFmNlVqcjg3QQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Saw a show through Ticketmaster? You may get a refund in D.C. - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdU1xaTZzRV9TSGJkQkYxSGYwT1VqWjhZYzNWbnJHaEFWaVNhaXFlOWF1Zk1uamlsY2phaW9wdTZNbzFybWN2RVlZeHBxUmhZZ1RLZ1RYWmd1bkdqVUVzdDFSMmtLSEhESXNKMVgyUFl2WG5LZVpvOS1GSGppc0ZVVVQyWUhNaERWMWd1TWRZYUlTVk4zaFhF?oc=5\" target=\"_blank\">Saw a show through Ticketmaster? You may get a refund in D.C.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8wanFDbkxQZTVxbGhMaXp6M09IUFZHVk90ejZHa2FOLUVKUFRsblZVMGpGa2piM21fSUZNT0FhNkxXYVNQbVFQUGxIaEhNdW42cVFMNlh3dWtyTkRBMWpZbFRFc2ZrQ2tsZG5nMDJ0Q3IzcnBOMVFYanUwTWZfdw?oc=5\" target=\"_blank\">Attorney General Schwalb Announces Live Nation Will Pay $9.9 Million for Deceptive Ticket Pricing Practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">District of Columbia | Attorney General (.gov)</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmtHUjI3UGVYMS1jWW5UTHdqaW5sQnU1VVV4ZlRoRWVXZTJTMTRudmZ0M24tRk42eEFkZVZ4UmRRNTQxQ0Q1S0E3a25sb3lLZnRObUlLZy1ucTlCS2lnczhsakpkOFFZbnpHU1lVZkxjV2FVbWhydk1pdVdkcm1zMV9mel9aTW5YTlkyTzNtUy0zTVU5T1E?oc=5\" target=\"_blank\">$9M coming to DC residents who used Ticketmaster in last decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzlONnpqQXBiQWZZSUJ1SDhCZGRGYjk1SXY1TWNrakIzdGlmV2VRcVNYWWI2NWVCYnZoSFJUblNCVDViUEFrS1BxeXMyZ1NPOS1FNUhQanJlUjB2aXpsZ2FiN0hFMlNJaDBuTl9OVnkwN2hpNGpoVE5td2ZCOEFpeXRTQnJUM3BJWFRQQ3Rtd0NmZmJzZWtSYnpPeWNPMHB0MG1aQmJJZHBzWl9ZQmVFNHFDLWpRRmdHc3JLUlk1ODhHNUZYbzB1RGRTRHZLQnMzNlhXQXoyQTV4NjZkTTFJeVhQQ1k?oc=5\" target=\"_blank\">Live Nation to pay $9.9 million for deceptive ticket pricing practices in DC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUSA9</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWNYaXlqZk8yUVF5SFlDOGYteVRwNEkwMlA2Si1xeGtadkZUUXphejlzMTlLZnp6SDBqYVNmSS1HTzd0MmVZTkN2Zk1mTWpZQkQ5Z1FmaDljbDZOaW5oVlBXQnVFTEo4UkUtbkpLQS0tQ3pPMlNsYTRod2I4ZFR4ajJBTE1VQ2phNFo2NVJVT1VrcHdwV2FSVXJn?oc=5\" target=\"_blank\">Ticketmaster refunds may be coming to D.C. residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdU1xaTZzRV9TSGJkQkYxSGYwT1VqWjhZYzNWbnJHaEFWaVNhaXFlOWF1Zk1uamlsY2phaW9wdTZNbzFybWN2RVlZeHBxUmhZZ1RLZ1RYWmd1bkdqVUVzdDFSMmtLSEhESXNKMVgyUFl2WG5LZVpvOS1GSGppc0ZVVVQyWUhNaERWMWd1TWRZYUlTVk4zaFhF?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-21",
+          "headline": "Anthropic bites back in the compute wars with Amazon partnership - Axios",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBodDJTWFRsYnN3NXItQVQxTXQxWWdSZy1LUDl4b1o4M21hZVpaSVMzYmt4c0Q1MWpOX0ZtYVdNVHNFcTZZS0c2WEI4TnIyMUlJY3hibi1LT2dCamlrbFAwdzVuN25hanNqUjJHVURvSQ?oc=5\" target=\"_blank\">Anthropic bites back in the compute wars with Amazon partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdy1yMjdvS1NvTl9pS3h1ck56aG0wRERDMy0yeDJJNmdJdEd0Z3I4N0xYS3RlY3AxWmtBR25FSkpPUWNrM0M1U1RxT0lPTXhja1prTGw4RGNNOHIweHdvcXd3Nk1DUQ?oc=5\" target=\"_blank\">Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0NRZVNGRFVoMmlaZU1MNnBadTVRQmZTd3YzeVNfaGowNldFb0lQaDczem93TXpmd1BrVUF3T3BIamcwbGNJbmNPVkliZUJpRmg5SnpPc0tVLUtLQjQtMEpNYVl3bXFicUFoSnhYeEk5Sll4SVMxeUROQjJfempxNEMtbGlrUHh4TXNnS252UGx3M1dYUTRFUHBYclRJNmpVV0NNcFFyRXhublQ3ZHc?oc=5\" target=\"_blank\">Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdENHZTV6MTdDdGFScHBGUTJEandaV2pqb3ZJWWFVTHpJNUtsNWJJUVBWZFQyQ05MSWVYOFcwQ05Keks4R1FEWVNENkw4VTRHOEZjXzkwLUNIZ1pjd1ZRNUpfSmVFZTZWQ21HX09jQzdUSUJhS1lDTzZPWFg2QmpVeWhZdHlOZGRoVVRkOEdOZzNSNWFDRjFMSTZXdk1LX2ZjcFVJWmZ1YUQ3d9IBrwFBVV95cUxNVWN2VjU0RFV1OFl6R1cyVXlpQ2JKaTdfQndJQzBuZ0tuQVZlUUJJQ09WMDAwY2NYdk51UWdyZElSTGkwZHVXX1JPSVBTWE5rbzBURWRGaFhtZHR1OFN5WXJvRlA3RlMtX2Z5SjRnTGRZZjFkVDRtcTFtZmNobVk2MzRwNDdHUkZpdl92c21HUkF6eWZrSjFTUTRSWmdNajhpcW1MSm9OTmU1THpGRlJF?oc=5\" target=\"_blank\">Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXBBT1dVOXNDWjJzWXpMSzNxRWxxRXZDeUVvaTF1Q2JONWZSLXRBQ3N6QXNWdk1pbm9SVU96MXl6RGJaWURwTy1NR2h1NkFKbmhTNTdMOE1zSGJsVDdtZFR5VWxOR3lnelM0ZWhuamRqS2dTYy1JUHBuakIyS1JWRVMzT29WMUFKZ2M0a1U0OXc0d3dB?oc=5\" target=\"_blank\">Stocks to watch on Monday after hours: AAPL, AMZN, STLD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBodDJTWFRsYnN3NXItQVQxTXQxWWdSZy1LUDl4b1o4M21hZVpaSVMzYmt4c0Q1MWpOX0ZtYVdNVHNFcTZZS0c2WEI4TnIyMUlJY3hibi1LT2dCamlrbFAwdzVuN25hanNqUjJHVURvSQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-20",
+          "headline": "Asia markets mixed as hopes for Iran peace talks offset Trump threat of escalation - CNBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.01098901098901099,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamRoZ09TRlEwY3pxN2taTndkMHVab2l5NVNfTnFsUGlZcFRGUzU5WHc5Q092UGxieU02ZnhsMHg4cFZfY18zdy1uOHI2elpOeWpmdUtwekQxbGthVjNWQ2Ixck9maW53dVBXV1dOOS1ORzh5b0Fya0VjRkZsdVlzS21oSFU4b1ViWlpwQzFnUEVBVFo0X25SbGlfT2s1c3FOdGhQSXBkSXZNQdIBrwFBVV95cUxQUmxNQzRHN0haMGlQbmFoNmFNNi1Tc21vVEJOT0IwM3NJek1Ub0lGQVdiUkxLZl9QQjBqY0hBV0JOVXUwbnVYRmpIbzl6S3BBN3pPSGxLWF83SXJHckt0TXplRjRvYWJBcFlkaU9heDQteHoyODJPTWU3SllRT3Fva3dFSVU1SUFqOXE5My1JbUFZYlA1UU9iYWk5dDBnMDFjVmxSWjJuOUtIXzJYWDZr?oc=5\" target=\"_blank\">Asia markets mixed as hopes for Iran peace talks offset Trump threat of escalation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFM3YW5sYzZKS0hzNjM3OGsteFdadFo4MlZNMXQtQVlNeDV1cWtVUDVzem1NUU1EX2ZXeUhMeExleVZhUDhWOGNhMmhNYmZJS29qSFZ1aVAxVF9VUUw4SXY0dHZsNzlxaUNuZFQ5eDFTX05MOU5ZdTFScy1OdGJKUlhNVG1rRU43ZllBREZyTWlJTVRRMVE?oc=5\" target=\"_blank\">Stocks Set for Gains, Oil Dips on Peace Deal Hopes: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9MXzZvQUd0ODB4YjU2ZXFaVHh6QnFua0ZacEg1RkFSV2V4VGZxazBpR1VNdjB3UjhqQzZGazdfOGNnVl8wU0I2ZFdDVkF6UGlhbXVpSmZjQUZ6alN3NUxSX3JKbEV2LW12TElTT2o5MloyVE9ZZm1SVWZsOA?oc=5\" target=\"_blank\">Stocks rebound as Iran peace talks in focus; Warsh hearing looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEJxNkdUaGFicEdPYXV0S2dmSUJ6LWo2a1NINTBYb3RaM3NGS3V2eURkWFdCdURzcTU3QmpkWURWSDZkWm8xTHFqOG9zanpsaFFIRHozOFhOYlk4bUwyUFlTSGI2ckMxUHJDejhQaFZmSmVOajM4aU9wcTNuOXRZbnhkZ2ZaLVlMaHJ1TmNKcmVfdTBnN0Q0bGtKcnhMcmNOdWQwY2JRZHNBamRUbkUxRjlCMm5PZw?oc=5\" target=\"_blank\">Asian shares are mixed and oil prices slip as talks on ending Iran war in doubt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3E1aUdRbVgwWlFWXzNhVjdpM3pSeG9YTC0wcFE5endQbC1xa1BpckQ1N09KTklhVHpkcmZkc3NYTHBsdUtWaEZQQ013VVVMSEVaUnl2RnZXZW13VnJRVkdVT2lyd0RBemZycmV3SzJYNzY5S0k1Y09sOHdCMUtDN2RIbjRWMWdWSXlsNExDQWxtTjN1VWRWLVZoNHM3b2VqQWpvUVltcw?oc=5\" target=\"_blank\">Lack of clarity around US-Iran talks weighs on Asia stock rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nikkei Asia</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamRoZ09TRlEwY3pxN2taTndkMHVab2l5NVNfTnFsUGlZcFRGUzU5WHc5Q092UGxieU02ZnhsMHg4cFZfY18zdy1uOHI2elpOeWpmdUtwekQxbGthVjNWQ2Ixck9maW53dVBXV1dOOS1ORzh5b0Fya0VjRkZsdVlzS21oSFU4b1ViWlpwQzFnUEVBVFo0X25SbGlfT2s1c3FOdGhQSXBkSXZNQdIBrwFBVV95cUxQUmxNQzRHN0haMGlQbmFoNmFNNi1Tc21vVEJOT0IwM3NJek1Ub0lGQVdiUkxLZl9QQjBqY0hBV0JOVXUwbnVYRmpIbzl6S3BBN3pPSGxLWF83SXJHckt0TXplRjRvYWJBcFlkaU9heDQteHoyODJPTWU3SllRT3Fva3dFSVU1SUFqOXE5My1JbUFZYlA1UU9iYWk5dDBnMDFjVmxSWjJuOUtIXzJYWDZr?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-20",
+          "headline": "\u2018I hope to retire at 59\u2019: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Roth conversions are permanent. Once done, they cannot be undone.",
+          "url": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-20",
+          "headline": "Iran war accelerates America\u2019s breakup with the world - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmVaa2dsQTV5cUptYVlSYXJfMl8zOGx4d3FPQWVGUEpTODQtaGM0SFR5MTV1dDh0V2RHa0Mxd0xmcURvMmF1Z0t1dlBqdU5jMjhwbjRuWUJRbXB6MGdKRjRMMTBFYUxRWlAwZGg3TUpLamNaek5DOGFNdzFPcWxFT0YyWQ?oc=5\" target=\"_blank\">Iran war accelerates America\u2019s breakup with the world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9kZEpGdE5iRnZiaFc1ajZ2emY1M1hJNHFUd05uczJfX1I5NEhwSlR1WFgwLTloaHg4RXZPaGFySE81a3JKd1dnOXpsbFhBdi10Z1hHS0xvbDBLUDl3WHBiN3Fmc0VYS2ZyYmY5ZjF3Z0tpa05rOUFqb3dR?oc=5\" target=\"_blank\">Opinion | Trump isn't just losing his base at home. He's losing his friends abroad.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MS NOW</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGtab3pWWElETVg2UHJnaXRNYkZTaVJFZmFuUTJOVUotU2pYalEwSm5YUzRwSUZXUEZMTGszYjk4bHhURGQyNnNjdDNCc2dDY3ZYM0dmM0EwUUVPamxoUXljTGJVcGZybGFVWTdGU2VSaTFVenNTTmpHMFhueG1rMkJOaWRYTHhyQmRXUmNxMlhSdw?oc=5\" target=\"_blank\">Even for Europe\u2019s populist firebrands, Trump is going too far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSndGdE5aMWpwcVQ0bndmN1VDcHVleUFxcWR5Q1FFM3A1SlJqcE9fUVlCV0Uyc0tHSU1za3RxZTVwN2VTU3lLQnV5VVBLekowMll1QlpfYWFmNHVCVXIyMzNjYWtmS215NlNzVEc4clZHUTB2RWE4cXZDVUR3ZWJhZVA4Ry1jelA5eWFmMFdB?oc=5\" target=\"_blank\">Count \u2019Em on One Hand: Trump\u2019s Global Friends Are Disappearing Fast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOamh5U1FxeVJ3bldScktlZFlaTFNfWnNYOVc5ckRlUlVrM01OaWl6X3g5bjg4X0Y4aFdNckZweUZkaTlFUmFsVjVtM0FJZkNRbndob0taeENPR0I1TDFZMW4zTE1QTDBSRG1MQzFGajlDbmV4WWhtNEdkRWdWcXdWdFdqcWFfSVRLQTBweWVMbHNQN3ZqMTVDUVAtZ9IBoAFBVV95cUxON2U5QnlQQ1pNcmZLck9MN1ViWkljUnlpNU5QZUVhZWpBVHFMUGtlYS1YaW5Sc3hTa0FrdWV4c3hKVjJZQWRDOWtWVGwyYjEwLTg1b3NPTVFVbnhvNFNkOEVQVUtHT0ZQSGxqR3kwb0hxai1uMjF6NU80WmtnS3JtaG9ad2c3ZWVCU2xaSmIwMVd2cVMtY3NzOVhYOThtMzFw?oc=5\" target=\"_blank\">US war with Iran hints at limits of 'Make Europe Great Again' project, analysts say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmVaa2dsQTV5cUptYVlSYXJfMl8zOGx4d3FPQWVGUEpTODQtaGM0SFR5MTV1dDh0V2RHa0Mxd0xmcURvMmF1Z0t1dlBqdU5jMjhwbjRuWUJRbXB6MGdKRjRMMTBFYUxRWlAwZGg3TUpLamNaek5DOGFNdzFPcWxFT0YyWQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-20",
+          "headline": "For Confirmation, Warsh Plans to Tout Fed Autonomy on Rates - Newser",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Newser",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDhMa0xaS293YTFnU2VrdTJ0UUhLUklZbEllaHpxQjhQLTdfX1pRN1FhT2U1aGxGaXhZM3lGVUNjbzRzWXI4dE5sc3piWGI4Ym1zWUpqMlJOMHU4NFJTTjlPRnFFeHF0NzNxR0M5MmhkLVhrTkUyaDBNdXE4T0JLQTFlYWNOWXAxa1p3enVpNDVCYnZkX1pUV0ZPb1RJLTI4?oc=5\" target=\"_blank\">For Confirmation, Warsh Plans to Tout Fed Autonomy on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newser</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5FTWVYd0o3S25tR2ZIZDkxbV80azBTdUdBMkU1c0lMeHd6N3VjS0VSUzdLYm0xYmZ5eFdsaFc2Z2cyelNlSVdjMWk4T0ljRGlSR1FNRnd1YXUxNVlnUWxTMjJVeVF6dTk5MWVROGxHZnlBOFY1VVRXdThJcFnSAYIBQVVfeXFMUERDSTBMeUwta3pmRnhGTkZCVUt0THBvTnFxU3JqMW5TOW5zdi1VUWdaaGNYaG5meTBFdUtRcU9tekU5S05ONTdna0NXTTRqRHJVQ2xjZjNGS0x5dXl3aEp6NUNzLURoT1dPZnJtb1FiUUZnM3ZYTkpZamg1UTEzbVM2Zw?oc=5\" target=\"_blank\">Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQllJS2tBakdwbU5SZVlTaGg3ajRaTXB1WmJMNmFqc29UQU9KdlBBdW5ScVdiUmV5VVdrVFp2WjEzSXlrSG1KUldVOFh1dHVZMnFnX1p3c1NCQTBoUXhKVjBnMWRlOXlvejFYOUM3NDNmaGJna2pIQnpJcE9rMlhjRG1ENjZaak1FMlFtUmRoRURMMEF4ZXNj?oc=5\" target=\"_blank\">Opinion | A New Era for the Federal Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3JnTktPVi1VUEpKaElOVm44Rk5EVkNJS2hZOVdibUNiTmVCaHFoODdDdXRxU2JCR2NpRzZ5V0tZclFveUM1YVpXeUFBTUR0Y2o0VTFoemFNN2ZJSk1YMFd4VzBVal9CajdJMUpRVEpzanlHZWhzaVpDQjRSdVRmbFhEUmltVUNlRHJ5ZGZYdm5TUHBma1lIS1RjS3pZQkJTVlpMV0ZBZ2thblpmN0lMSXFTR1BzY0ly?oc=5\" target=\"_blank\">How Trump\u2019s Fed Drama Risks Backfiring \u2014 and Keeping Powell in Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjExYW9LRV9seDhMMVdhN3JBZ3lzblp6eWhDOGRmUUQzdFFGeGJxQXZOOGpmYnV1NEEyQTR1bnVrNkRuT1JmT3RuNVJoNWxzZnlub3Z5ZGpmMHNvV01pSE5LVmxOb1NOb1A1XzhyazB5WlNUaGlQaVJKVDJ2TDVyd0kwM2JDSVdY?oc=5\" target=\"_blank\">Here\u2019s what Trump\u2019s Fed pick could have in store for the world\u2019s most powerful central bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDhMa0xaS293YTFnU2VrdTJ0UUhLUklZbEllaHpxQjhQLTdfX1pRN1FhT2U1aGxGaXhZM3lGVUNjbzRzWXI4dE5sc3piWGI4Ym1zWUpqMlJOMHU4NFJTTjlPRnFFeHF0NzNxR0M5MmhkLVhrTkUyaDBNdXE4T0JLQTFlYWNOWXAxa1p3enVpNDVCYnZkX1pUV0ZPb1RJLTI4?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-04-20",
+          "headline": "This AI power company ousted its CEO. Why that could help it sign up its first customer.",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Shares of Fermi, which was co-founded by Rick Perry, a former U.S. secretary of energy, were tumbling Monday after the surprise disclosure that its CEO was giving up that role. Some analysts say that could actually be good news.",
+          "url": "https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-20",
+          "headline": "AST SpaceMobile\u2019s stock falls after failure of Jeff Bezos-backed satellite launch",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": -0.037037037037037035,
+          "source": "marketwatch_topstories",
+          "summary": "Blue Origin successfully launched AST SpaceMobile\u2019s satellite to orbit, but it was at the wrong altitude.",
+          "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-falling-after-failure-of-jeff-bezos-backed-satellite-launch-a46cb653?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-20",
+          "headline": "Why Cadence\u2019s \u2018ChatGPT moment\u2019 may have already arrived",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The rise of agentic AI tools should drive more demand for the company\u2019s electronic design automation systems, an analyst says",
+          "url": "https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": null,
+        "provider": "yfinance",
+        "sector": null
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
+    },
+    "news": {
+      "article_count": 0,
+      "catalyst_signal_count": 0,
+      "classified_articles": [],
+      "coverage_quality": "none",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 0,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": null
+    },
+    "technical": {
+      "atr14": 1.14768276268666,
+      "close": 24.0,
+      "close_vs_ema200_pct": 51.39281328331068,
+      "close_vs_ema20_pct": 6.03489973371746,
+      "close_vs_ema50_pct": 15.724924648030939,
+      "close_vs_hh20_pct": 0.41841004184101016,
+      "ema20": 22.6340573342084,
+      "ema200": 15.8528000632945,
+      "ema50": 20.7388339832532,
+      "entry_ready": true,
+      "hh20_prev": 23.9,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 2.98835492865344
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": null,
+    "sector": null,
+    "supportive_effects": 0,
+    "weight_scale": 0.35
+  },
+  "news_support": {
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (23.90), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.99, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 23.90 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.42
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.99
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 6.03
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 15.72
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 51.39
+      }
+    ],
+    "confidence": "low",
+    "label": "constructive_watch",
+    "score_0_to_100": 72
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-21",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-21_universe_5_EU_Results.txt"
+    }
+  ],
+  "summary": "CURN scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
+  "symbol": "CURN"
+}
