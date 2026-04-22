@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-22T09:16:05.570801+00:00",
+  "industry": "Biotechnology",
+  "long_name": "Arcus Biosciences, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "RCUS",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RCUS",
+  "sector": "Healthcare",
+  "short_name": "Arcus Biosciences, Inc.",
+  "symbol": "RCUS"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-22T09:16:05.570801+00:00",
+  "industry": "Integrated Freight & Logistics",
+  "long_name": "Pitney Bowes Inc.",
+  "provider": "yfinance",
+  "query_symbol": "PBI",
+  "quote_type": "EQUITY",
+  "requested_symbol": "PBI",
+  "sector": "Industrials",
+  "short_name": "Pitney Bowes Inc.",
+  "symbol": "PBI"
+}

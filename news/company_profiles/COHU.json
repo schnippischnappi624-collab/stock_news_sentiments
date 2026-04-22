@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-22T09:16:05.570801+00:00",
+  "industry": "Semiconductor Equipment & Materials",
+  "long_name": "Cohu, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "COHU",
+  "quote_type": "EQUITY",
+  "requested_symbol": "COHU",
+  "sector": "Technology",
+  "short_name": "Cohu, Inc.",
+  "symbol": "COHU"
+}

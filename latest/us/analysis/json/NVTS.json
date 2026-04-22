@@ -1,0 +1,703 @@
+{
+  "analysis_date": "2026-04-22",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_bullish",
+    "score_0_to_100": 78,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-22: Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings - Insider Monkey."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-22: Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings - Yahoo Finance."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Navitas Semiconductor Corp",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Lily Allen and David Harbour sell their quirky Brooklyn townhouse for $7 million, a year after breaking up",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Acrimonious exes Lily Allen and David Harbour have moved closer to severing ties after selling their marital townhouse in Brooklyn for $7 million\u2014about$1 million less than their original asking price.",
+          "url": "https://www.marketwatch.com/story/lily-allen-and-david-harbour-sell-their-quirky-brooklyn-townhouse-for-7-million-a-year-after-breaking-up-76cf01d7?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Citadel founder Ken Griffin just added a $38 million Park Avenue apartment to his $1.5 billion real estate portfolio",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The billionaire appears to have purchased the 7,500-square-foot duplex, inside a storied New York building, in an off-market deal.",
+          "url": "https://www.marketwatch.com/story/citadel-founder-ken-griffin-just-added-a-38-million-park-avenue-apartment-to-his-1-5-billion-real-estate-portfolio-93ae762a?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Stock futures rise after Trump extends ceasefire with Iran: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBESktpb2N6M2dtQ1JRQkI3bFJnelRzaGNreHV5NG83d05hUzFMakM5MnlEWU5NZWhiT0d4eERPaGhrTHpidjdrc3ZJUk9wZnpJeVltU1dnLVhlQVJrUzQ5RTRhYi1ZNHhKLW52RWpLSGJPclFqZjU40gF8QVVfeXFMTVFkTVEyOEFvQjhPQmVPZDNtVVhqTGtRWk5CM180M3NsYmw4Yy1EcFhQZnFSTDYzQTMxRnNBakVYdW01NG92RDVtUzVMeFMxZzBCRm9SdUNGakR3dGxJR0dLbGN4a0JjMGwtbXlLMTJLYlNDMHZ1T05SRHo4cg?oc=5\" target=\"_blank\">Stock futures rise after Trump extends ceasefire with Iran: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l2cDk3N0VCRzRXMVBLR3J5ZWFDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBESktpb2N6M2dtQ1JRQkI3bFJnelRzaGNreHV5NG83d05hUzFMakM5MnlEWU5NZWhiT0d4eERPaGhrTHpidjdrc3ZJUk9wZnpJeVltU1dnLVhlQVJrUzQ5RTRhYi1ZNHhKLW52RWpLSGJPclFqZjU40gF8QVVfeXFMTVFkTVEyOEFvQjhPQmVPZDNtVVhqTGtRWk5CM180M3NsYmw4Yy1EcFhQZnFSTDYzQTMxRnNBakVYdW01NG92RDVtUzVMeFMxZzBCRm9SdUNGakR3dGxJR0dLbGN4a0JjMGwtbXlLMTJLYlNDMHZ1T05SRHo4cg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "SpaceX nears deal with Cursor - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.025,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xLTFkNWtjdHNZTU1fQ2EyZ1JydXEwZjJnNmNMeDhOMjg0dEcwYUtLa1FvOE5sNUFsQUZSQld2UGVzanJCNTZjeWRVLWtodGktX2MyRFNJTktpSHFtbGc2RjAxekU?oc=5\" target=\"_blank\">SpaceX nears deal with Cursor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc09qeXN1bEtPeW5LbzNZT1BpMzJPVE5SWEc1TFhJR3U4TG1KNmh2eHpodmFiQjRoZE5lZE8yb19aOEZFRFhHNXRITUE5YXBtYkVwbTVKcFcyLVV4QmVHOExFbmg1SXpnUEJLdlF0ZDY4VlNjbzB0X2MzYW9LMGl1Y1pSYkRhaDhrRjRBbzlUQzN0MkNGS19DUk9Ec0Vvbnoycmc4RWx6dWQya1BKOVNtT2oyQUt5bjdrTU9ZaDAxY01JY2l5OW00YnRNc3UzcDBEeDBr0gHYAUFVX3lxTFB6cXNKNUVuenRDbHFHWWVWVDV0aTNtYTljQm1nTnNSZWJOUnhCdi1Ob3VwbmRLSW9qemhVV3F3b1lKZ2lwVzBsZm1McHVNNnlkVzBfRGhiRE9hQ2ZIN2RrOWJJWWFFSXVnaHVUUDNQMFdGMjBkc2RNNjJLMS1ZMnhPV1FRYXBnTXlpT0xvbnd3OHNXLWNQSWlELVFSSlhpR3dxN0E3TVliQVFpU0xJaEpWb1VpY3l0SmM5MWtZd3QtZ2t6Z2V0WnZneWhqN1U3UzhkeTJZek5RRw?oc=5\" target=\"_blank\">SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBHNHhhNnRlZGlEWGRJOUxsd0VGX29GOTNjbDE4YXRsTmIwbDhmczJOb3c0MWs0LWpFNktnbEVtakJIVEtKclY5b3ZLendoWlM2WUE1NFhMUVROd0VOaTFqVzRLdXVJWThJX0lzNXRXSXdMZw?oc=5\" target=\"_blank\">SpaceX Lines Up $60 Billion Deal for AI Start-Up Cursor as IPO Looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUlgwZ08tdjJ6S0l1OTRrRU90bmpOeUxDWnpnV2RyU1BKd0FlOVVOcHJkN3o2TFBBekg3aEhkSnNWVUd6RzNFZDVyS2h4aktsSlBGQjJ2ZlNuVlZjbjFJVS12QW9Fb1JzZ0x4ZXU4Mm9Ub0NoM2tYM3E3SUVONW1MZEpPQ0VvYXM?oc=5\" target=\"_blank\">SpaceX strikes $60 billion deal for the right to buy coding startup Cursor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1QVDZLTkwzNHhnTU00TndsZ29fbnA4NGRXeVpqNnYtZS10UHU3LUhCaVRpdkZIS18xWVJ4TkFNZ0N5cWdwQmZRcEpKNzhGaHh6WGIzQmkyUlVxS2pPYmJQcFgyblJlUWZzbDdUM3hFR1NCSFExUVE?oc=5\" target=\"_blank\">SpaceX Strikes Deal With Cursor for $60 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xLTFkNWtjdHNZTU1fQ2EyZ1JydXEwZjJnNmNMeDhOMjg0dEcwYUtLa1FvOE5sNUFsQUZSQld2UGVzanJCNTZjeWRVLWtodGktX2MyRFNJTktpSHFtbGc2RjAxekU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Iran War Live Updates: Trump Extends Iran Cease-Fire With Peace Talks in Limbo - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB4UkN3UnZ4bXVpSDJtX0JaOUl5OV9PRF82MnlxNXdxYzJyNEFGWWljTlNuSmxkT1pKcWJmMGxIMTFIYjNzd3NERU5VQ3ozMUZJRDI4TjNnVXpRZzZHd0g3cC1JRHJ2WHFsVEpF?oc=5\" target=\"_blank\">Iran War Live Updates: Trump Extends Iran Cease-Fire With Peace Talks in Limbo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pUcWVOb1k4dUZudVI4ZllXLXlkNDZZOXA4LVpVZVZCQmVSek9KZTFmQnhMQTBvSjE2dGFKZDlKeGVKaktWUEVidnF6MHl6SGNfQ1NjMW9MVzgzaW9hMEx6WTRmQ1dsVHFqZ2JlNkJhTG1uSnlUMHZQdDdubk56MGwzZXoybHozaTRR?oc=5\" target=\"_blank\">Live updates: Iran attacks container ship after Trump extends ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOek56STB6bE5kUE9aLUU4RmtzZmxhTmM1SFRSWHRlMF8xbWFiQlR0MUI1QldvdUZmbGlrYmpucWVvWEVxWi01d1pzSDVzU3E2WDlod3ppRTZIcnBlc09vd0ROSDVBNkk3V1BjaFBBQ0ZuQ3B4aE90Rm9TUWZxeWxUeFhKRkMtS3lmNzMxdFB3WHdnOTdoUGVuMEJxQVBJUkJxSm1TTg?oc=5\" target=\"_blank\">Three vessels hit by gunfire in Strait of Hormuz, crews safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzBweDVLbkNBQzVKQVRTQ3lFWEN4dE9KS25HWFFnTXVKcmFUMWh0RXJmX0FOcWYwYnNUaWtpYnFRblJrSGp0OFFTT3FwQlBOUWZIY1lVdG5TT1JtQzlXeE5CN3J1QzN6akJTbjdrNk9pRGVzcGIteTloQXRaeDh4d2NMNjRMTzM1c1YwLXk2MGdNTDRKX3RhYm8wampnb3dKMmpJOTh2US15eFpVUW85QzNjcDlHY2pJcTZGOF9EdHhybzN3Q1lEdUFvM2RFaDA?oc=5\" target=\"_blank\">Middle East crisis live: Trump extends ceasefire but blockade continues as second ship attacked in strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlpoZy1GNFVwRWhTQng2aHctOWVETDJpa2VPSlJ5bWNoVTRFLTYtNFYxMjFUU1hMQVlqZHNGQ3NfbVh4VXRwMW5jODFaT0FJeVB1UGotVEFfT3Y3bm10SzFYMlppcGc1aGhsMHRKdDRrNmx5QS0yVmw0dng5RVMxZU5mSkdCUjZ5V216aGZmZFkyRk84dklGMkt2Y2xMNHFlWm5MeV9xdVV1UUM4OS02OGVOX1kwaU1xY2c?oc=5\" target=\"_blank\">2 ships attacked in Strait of Hormuz, complicating diplomatic efforts to resume talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4UkN3UnZ4bXVpSDJtX0JaOUl5OV9PRF82MnlxNXdxYzJyNEFGWWljTlNuSmxkT1pKcWJmMGxIMTFIYjNzd3NERU5VQ3ozMUZJRDI4TjNnVXpRZzZHd0g3cC1JRHJ2WHFsVEpF?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.029411764705882353,
+          "source": "marketwatch_topstories",
+          "summary": "Positive expectations  from the Trump-Xi summit in Beijing mid-May may  serve to underpin toppy equity markets in the near-term",
+          "url": "https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war - CNBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.021052631578947368,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGhTX0F4WVRNU2t0bzFHbmw1SW1CVzdSaExNLUtRckVHNlhaYjJoSUhhQnN1WXZObnN3UjNVb2oxbVp0YzVkYlBmX3MxSDUweVFVWU4tVk5XM0IwTEdCZ01ORnFjN0duNDBQUGxyOG45dFNyUXpMX1NJemJZbW5aUGZrc0JyaW5Edk1TSGZYTnllbnhoaTJFUnlUN015MUd0aVZZNkR30gGrAUFVX3lxTE5KN2N1cDh4YWZzdVZsMzdxaVh5Sm05MzI2bFVmakY3TFU5VUZCT1VmbFN1bkxzaVZmMDBuRTREZGFnMDREVGhzNHpRX09MaGlHV05qUjFxazFZQnF4RHJvTGZIbUYwWHhkMVIzc3B5UzAtV0dESkU0U2pEYUhoemxnT3dKTmhHSUhkLWV4SFNYdmozbVloVzhnREdYaTNGRWZSNi1INndLMEVjaw?oc=5\" target=\"_blank\">UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmxOMzFoX29RNWliVXZ0X1FUYTRqbUl5TThjUk9hV180ekZRdzZJajN2ZHBncklzVDNCeXRSS2NGMFB4X252Q3hqV1pUSjg0OHU0UUVEcFp4VzdjMmltWnNILUdnNzJrUjZLeHg5X0xHd0M5bEgxNkZKdDd3UlhVWl92NWx6M0Z2Y0FhdHJGY3NjZ2JuUDhjNmt4R3pqNk9zMDlr?oc=5\" target=\"_blank\">U.K. Inflation Jumps as Iran War Pushes Fuel Prices Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhEWkphdXh5eTdNQXczNERwdmI3OGY4eXF5blkxLUt0bU9ZTTVBbEdXNXRlTk5IbXJ4ZDludDdPZ2ZwQmJnNWszUnRtZFlMdlNtSTd6emNHdXdaemlFY2NDRDk3WDJKeHF2bzdMMkk1WUcyVDd4VlM1aWhSSzdaeGlhNUhMS3ktQ2FxblFHbkNXbk9ZcUZYZU1tZERCQXhILXdZNnN1QzJmUk5uZkFZLQ?oc=5\" target=\"_blank\">UK Inflation Hits 3.3% as War Sends Petrol Costs Soaring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUEgyRF9iamZWRWJuYjhNaDExME1FdlNESTdPdF9JT1VpY1VHOUpDWjVNQU81clhmZklhaGpGRXh5VFZDT29KbXJQdTVyREtrME5DQVZtWTBoZEFSQkFwR2QzaGpOd2RQSDhGdzlIMEJueHFjSlpMdi1VVjR0Zno2QmRER3E2UHgtRGFMdTl0c0VfVTZCeGxySUhJeldJS0ZSVnpLVG5fdFhaYnpUMGEteHg2dkdBdXZwelpVcDh5ZzBIVnV5dC13RktjOWhudk1pTThQcllxdUpsWDZ6dE4ydVRpWQ?oc=5\" target=\"_blank\">UK inflation climbs to 3.3%, driven by largest increase in fuel prices in over three years \u2013 business live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNQ3pzcHBTN0VjMnBWbFU2T0lYNFdSejluRHNlZk9rTk00TmI4VGdkRDk1Mm91THY5eG5tdTFvMWtseHlFQkExZnFzd3BXRWFYRzRHYmZ0TE9nNl96aDEzRHdDLUFGbWpOb3JqVFJINXFvYTljcHRpMVZINjVoajFRcHNxZ1V2Q2pMSnFuYzlrcW5aMFNUdldpclE3NWFwUlNTRjdVdU9ER1dkN1U0VXNlNklUVXFndWQwY1JtbnFIUTQ0MXVJMUJxQ2hvSDhvZkRHeHA5Q2x0X2hRWHFieW1aQUNZREJCdHBhR2d3ZDEzamUzYTBnVmNxRzNneVkyYzVEd0NoUGVn?oc=5\" target=\"_blank\">UK inflation rises in March as prices at the pump spike higher after Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">10TV</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGhTX0F4WVRNU2t0bzFHbmw1SW1CVzdSaExNLUtRckVHNlhaYjJoSUhhQnN1WXZObnN3UjNVb2oxbVp0YzVkYlBmX3MxSDUweVFVWU4tVk5XM0IwTEdCZ01ORnFjN0duNDBQUGxyOG45dFNyUXpMX1NJemJZbW5aUGZrc0JyaW5Edk1TSGZYTnllbnhoaTJFUnlUN015MUd0aVZZNkR30gGrAUFVX3lxTE5KN2N1cDh4YWZzdVZsMzdxaVh5Sm05MzI2bFVmakY3TFU5VUZCT1VmbFN1bkxzaVZmMDBuRTREZGFnMDREVGhzNHpRX09MaGlHV05qUjFxazFZQnF4RHJvTGZIbUYwWHhkMVIzc3B5UzAtV0dESkU0U2pEYUhoemxnT3dKTmhHSUhkLWV4SFNYdmozbVloVzhnREdYaTNGRWZSNi1INndLMEVjaw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid - NPR",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "NPR",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3c5MG94YnFJOEZic3Z6VVFoSmpiUngyS0hpdHJyZkpST3JjbVVOQjBQSEQwQW1meTlTVHMzbDBNM3RtX2l0NkhKakNfb19FN0JSTWd5Skx2VTVTWGNpd05pbHhVZl9PbC1pNE95T1FGdElCMm5WSDAwNmpzcUpxRA?oc=5\" target=\"_blank\">Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pONVlUNkVCR3dCVlFpaEtOVldTZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3c5MG94YnFJOEZic3Z6VVFoSmpiUngyS0hpdHJyZkpST3JjbVVOQjBQSEQwQW1meTlTVHMzbDBNM3RtX2l0NkhKakNfb19FN0JSTWd5Skx2VTVTWGNpd05pbHhVZl9PbC1pNE95T1FGdElCMm5WSDAwNmpzcUpxRA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Military planners set to bypass the clowns and reopen the Strait of Hormuz themselves - investingLive",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "investingLive",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEtreFhtMjlxeTQ2U29DTDYwSi1tb0VGQmJya3prdURFcm5IWHhWQmcxZ2dNVnk3V05UeUlzc1NSZFY3bjN5R3NXVnNPWlhJcVdFcDlqcF9lb00tRzQ3MU85R3JncmR1VnphSWlMRzlkRmR4dW9iUVJvbjVTMlVzVVNMcWtfbWRVVHNoMGVlX1hkQUtkdjZfMDR3VUVwNDVvMUhaR1QyUUtfdWF3Z3pnQmJJeVQ3OWJveHpVR1RjaVppbFpQMWE2RTdaa0E5d9IB0wFBVV95cUxQUkUwSmFrTHIwSXh2OUFwbFl6aFVSaFRCa1VhUmQyZ2Y0YXM3RjVrSFZNTDk0czBHakt4YUx1ZUZTand5RGtPajNWYzNkZUQ5d0lMbWxQOFVRczE3OFBkR0VaU0dJa0o0V3I4VExHcWtaOGU5WVJpMkxneHRnblZQdmJ4b0hiN1VZSGludUotTTl6LUFFS1pKMnBJMTlfeHpvdndaWC1palpqWTJhdXpyalpuWnhoQ1kwNnRFS1pHRFJZWWo4cXZPMGRBRUVuVFFadEVN?oc=5\" target=\"_blank\">Military planners set to bypass the clowns and reopen the Strait of Hormuz themselves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDVYR3VsS2hIYXVSMkhDZjhGZVBBNGowQXRvbWlZYnVaTmJrRklUSWZrWndScElCazNDUWNIcFRZcl82V0Y2RmFxaUVwd3dMbkc3VVhqeHBqcnl2Zk9MRDVXcVBYNnV6OVBRVGU0ZG1GeFFZZ0Q3b0VNaURmLWlGN01kLVJWVkgyNEhqZnRHNA?oc=5\" target=\"_blank\">Europe Wanted a Say on the Iran War, but It\u2019s Still on the Sidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTkNEVFR1dFd1aWxhZ1I3Y0RhQVczNjhpTnNKWVhxZzBEemU2YlBrcWxON1ZpelZldVNZTU1KVXJVazFLQ0FwcU95NnhlQXpEWjFTSkdUUkh6ai1sZXdNTEpsRGUwLTU1M2doR3hxMENWeHFCN3BadXFLYTRMMFA1ZzQzLVhwTWNSbEZ0ZXd0cEFfczAtZGc?oc=5\" target=\"_blank\">Military planners to discuss Hormuz reopening in London</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHVnakYwblp0eTV2RU5zVVcza1h0VGktLUpmNTVsNjNId1I5eFpZNHJtOXlDbXpRUGRtNXd3eVZyejFUaGVHSUF3blBfd3JoRlZHMExLclEzSDJ6MDVXX1FkRWVLZmNtb2F1cWJFbWZmT3Eyd1VnZGsxRVhnR0pJOG8za3c0STFrVEs0RkJwRU90d2F1cHdxcDNraGRfWXUxcXcwZ20wNWtrNHBaRENMMg?oc=5\" target=\"_blank\">UK, France Convene Fresh Hormuz Summit on Re-Opening Planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16TnVSZTZ5OTZOMUFJOHItWVhkelJwYkJ2cmhRTVJybm4wVGs2NUxPSlFCa19idURQYzBYZXVtQ1VYdTdhLVp6S3BYbHIwN0dJNFB2eHlzNFRoZw?oc=5\" target=\"_blank\">UK and France to lead defensive mission in Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEtreFhtMjlxeTQ2U29DTDYwSi1tb0VGQmJya3prdURFcm5IWHhWQmcxZ2dNVnk3V05UeUlzc1NSZFY3bjN5R3NXVnNPWlhJcVdFcDlqcF9lb00tRzQ3MU85R3JncmR1VnphSWlMRzlkRmR4dW9iUVJvbjVTMlVzVVNMcWtfbWRVVHNoMGVlX1hkQUtkdjZfMDR3VUVwNDVvMUhaR1QyUUtfdWF3Z3pnQmJJeVQ3OWJveHpVR1RjaVppbFpQMWE2RTdaa0E5d9IB0wFBVV95cUxQUkUwSmFrTHIwSXh2OUFwbFl6aFVSaFRCa1VhUmQyZ2Y0YXM3RjVrSFZNTDk0czBHakt4YUx1ZUZTand5RGtPajNWYzNkZUQ5d0lMbWxQOFVRczE3OFBkR0VaU0dJa0o0V3I4VExHcWtaOGU5WVJpMkxneHRnblZQdmJ4b0hiN1VZSGludUotTTl6LUFFS1pKMnBJMTlfeHpvdndaWC1palpqWTJhdXpyalpuWnhoQ1kwNnRFS1pHRFJZWWo4cXZPMGRBRUVuVFFadEVN?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "April 21, 2026 - Letters from an American | Heather Cox Richardson | Substack",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Letters from an American | Heather Cox Richardson | Substack",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hd1ZGM25YaWhrQ09lUEMyelp2NHZUZGVGNlJrb3M0bFQtckxOQ3JPN0FVTERtaGRLbjBSMDhwUGRaQTU0ZGh1bV9lRUdDRXJBanRqUExFcWttcmZRempPa05QUXQydFZC?oc=5\" target=\"_blank\">April 21, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Letters from an American | Heather Cox Richardson | Substack</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmJsdnd3dTZYeTNmNWI5TDZYV3hmYzlwdmxuTEo3RERUZDBmY1lKVTJBWExTY3dBVG9DQ3hLeTIwaWVMN3dpX2RoM3J0emlPT1cyakV4LWJGTjFtbk5HVFBKWFhEVENaVFBxNkw2QTdVaVlBRmlHbGNzWGZMZE9iX0ZzSmNiVk9oYWxGZWY5dW1jNkVZNnEtZEtMYU1ZTzFiaVV1R0lHWkFld19CbTFCUnBsWU1zd3IzTXdHaHNCeHlVLTQ4cW1YVjlBcUFfUWNf?oc=5\" target=\"_blank\">Early Edition: April 21, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Just Security</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUVNS0hhZlZiVGMwQ2xxQ2lNcUJFNzZqQzRKMGVVSzVaaGhXQ0ZMNGtFRHhGSVBfT2pSbnJnV2tfX0p2SnE3a3d2Y1BMYUhWYnAxWTRkLUtSbXJUT05MTlIyeWljeWhYYkU5UFZvMm5HOUw0SjFWNThMajVtNXVQMk1CSWw4Qm9YRVJrNE5Qa19GcWMx?oc=5\" target=\"_blank\">Iran News in Brief \u2013 April 21, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Council of Resistance of Iran - NCRI</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVhEcTUtbHF6dlE2ZzItZFg3SDlzU2RTQW54SnlQUVU4eVdYbDVTTU1kOU9yU1R6TlBXWHV5WDR1bVYxaGw4eWIwUkFmVWxublluYTBqdlRSWHFseC1NUjNReFhTdUE1dzI2dzd0dnJwazdmNXBWbmpkcmNSU0EtVXhkVzNVa3c?oc=5\" target=\"_blank\">The World and Everything in It: April 21, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wng.org</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9KcGMzZVNtaVYwODZCbUItTDJSd3N3MG9BRm15NzdWVWVMTk00MmNUVVlaT2Y4ZWUyTldia2NqSmZHQzZvZXIyNUxRNnlIejlsa1VtNG9nb29ZWnVyM0l4M0JtamlmT0lZbnF0OUcxOFhvMC1YNjlPRTJYM3U?oc=5\" target=\"_blank\">Daily World Briefing, April 20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xinhua</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hd1ZGM25YaWhrQ09lUEMyelp2NHZUZGVGNlJrb3M0bFQtckxOQ3JPN0FVTERtaGRLbjBSMDhwUGRaQTU0ZGh1bV9lRUdDRXJBanRqUExFcWttcmZRempPa05QUXQydFZC?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Some Unknown Group Is Reportedly Using Claude Mythos Without Permission - Gizmodo",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.013333333333333334,
+          "source": "Gizmodo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2FTQXZUNE55SG1QYzVheUV2QTgycUx4SGxLUU5hazE5eDA2ZGI5LTVRUUptRmJiY0I4WFNJcVFpNnBYemJKWTM3Z096UkN1WVlsOWFIN29HengzaUZqTGRHY1pmY3NYOEUyNDFMeGFMY3pDRmtqc0tNMkh2bnRnbWZNb1RVLVUxT3R5YjcxODhBQzZTNno3ZV9FdzZmcHA3MFA1dA?oc=5\" target=\"_blank\">Some Unknown Group Is Reportedly Using Claude Mythos Without Permission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHY3bk40dGNJVTJCU2JQRWl3UTNqWmdTZlZOcFRfbUtLSEs2MDNZVUcwOEVjaTRCVnE4X21DNWxFVVVWRF9BWkRObklfSVhtWjhwSjJsOXBjMm1IekxzeFpNTzktWjRTZ1RhemJ1eDJxZ2QxbXA0WU9rclB4d1RfcUxkc2gyZGVnWHBoYm0wYXRLNGxOdlE2SWVmcDA0Q0h3X0hfLW9zeFFVdnk0T0puRVlHdHFIUQ?oc=5\" target=\"_blank\">Anthropic\u2019s Mythos Model Is Being Accessed by Unauthorized Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5\" target=\"_blank\">Anthropic investigates report of rogue access to hack-enabling Mythos AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDg1aVAyVzhfODN6TGJ2MW1TNUQyamhBOEJta0R6cTA1Yjczd1N2YkNMTWNid3drWFNMYVZ5bUNUcGZRZUsydzB3Q0tBVGl0MUFVTTBRNnNCR3R6Z1A2UHRLSWhsMndBOVJEVjFTQjRtWG5uNkRROEQ3UHQ2MTN3clFrZ3o?oc=5\" target=\"_blank\">Claude Mythos and the AI Cybersecurity Wake-Up Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bain & Company</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2NzZaZlJ3Y21VbHdvNm43anJ4SU41WS10cjAxb3NaSWFFOFlDSWFIRDR0MUtfQ1NXVmJkUFhGWVlkYnlzUmtRbDBsQTktYzhWakRHVlFYSjBPQQ?oc=5\" target=\"_blank\">AI hacking tools like Mythos can be 'net positive' says top cyber official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2FTQXZUNE55SG1QYzVheUV2QTgycUx4SGxLUU5hazE5eDA2ZGI5LTVRUUptRmJiY0I4WFNJcVFpNnBYemJKWTM3Z096UkN1WVlsOWFIN29HengzaUZqTGRHY1pmY3NYOEUyNDFMeGFMY3pDRmtqc0tNMkh2bnRnbWZNb1RVLVUxT3R5YjcxODhBQzZTNno3ZV9FdzZmcHA3MFA1dA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "\u2018Stop sucking up to America\u2019: Japan\u2019s youth rises up to protect pacifist constitution - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbVRWT3lONnZJX0ZZOGNkekRXVTY1N1R5Tkp5WDA2YzNBOVR5NHVMemdlMUpKenlyV3RLdU9oSVJvRjFyaXFIbkJFZlZoUTMwbWhNb0poNHhKZ2VOWGZ3U0pzUzRnTUJMd1NKUlRQdVJjc0pNQklmRmpLd09hVUFyOFY4Sk9UTHZNX01fQXFRQk1YdVp3?oc=5\" target=\"_blank\">\u2018Stop sucking up to America\u2019: Japan\u2019s youth rises up to protect pacifist constitution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWlmbDhMdHZkS1VBQzktd1BtOVFkZkd4OVRSQVRlUkJKLV9rQUFWQVBwRFZGenBWM2diSUVZTVlHTjBwQ3NNZGF1ZFhLbmdoZ0dUelBFd29JaENlNkZmbHE0VThtdkdUVTY2TjlGX2t0Nlh4azJ2YjlSYUdLbHk1Wg?oc=5\" target=\"_blank\">Japan approves scrapping a ban on lethal weapons exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXdG9hQ2tVNFJzYUtCdXVlME5TRXVVTmw3SEpHVHNxWG1fNlctLXZNZUsxZ1UzdnNJQ3ZpQ01IXzBPaFlCeGtZeGtRMTg3ZGhVaGRMbjdSbFItQQ?oc=5\" target=\"_blank\">Japan loosens arms export rules in break from post-WW2 pacifism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1gxaHYxajJjOFoxc2Q3d2dyQjlsTGFqU3dEbmFmTkZ3bHB4NXYwOHlXdFlsaGRXNHhCNG1vZTB4VUVIVmJZenpsellxV3pSUTZOM0ZRZFJuMVVReE11WjVma1JpcUsyejd6VENyTVMwQ2g5RkgxaXh5QUdFcTJhQzN5dw?oc=5\" target=\"_blank\">Japan lifts post-World War II ban on lethal weapons exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2RnSXN4M0dCQ0YxeHlMNU1VVERMeUhRUWt0Q3VpOEs2UzB2aEJiYktUbFI5SUVVYWVZRDRhMVYzRmVsaXI0T3VWVzZMcGdFVklNdHJsM3B3UGZ1bEVTUUVnWDNOUXpKcHdqOFE3czJMSUl2cmFaQW0tQmlrZHNNRlBpQTY5Zw?oc=5\" target=\"_blank\">Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbVRWT3lONnZJX0ZZOGNkekRXVTY1N1R5Tkp5WDA2YzNBOVR5NHVMemdlMUpKenlyV3RLdU9oSVJvRjFyaXFIbkJFZlZoUTMwbWhNb0poNHhKZ2VOWGZ3U0pzUzRnTUJMd1NKUlRQdVJjc0pNQklmRmpLd09hVUFyOFY4Sk9UTHZNX01fQXFRQk1YdVp3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Back home, Hong Kong fire victim gathers memories from the ashes - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzhlNGdYVWtIeGpLNk02bDZfYnl3UXVESktDZU8wMnRhQVQxejhJckVQX0V4dnhYd01zMGJkSmc0dGx3VGthUENxSUxEcHdfV2g4QnFCYjJ6elFsc0xuQ1FBV2JUQzZidlpTdVhoWWloQmtRSnR0TjFBYzdCeWRITDFoamMzRDROSm1lTVNERE1tVHVydGRkYTl5TWVVSmN0WGREdw?oc=5\" target=\"_blank\">Back home, Hong Kong fire victim gathers memories from the ashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjZMRTBhQzVSaXh5NDB3bkJRRGNZckpDbFBBVUprMnJqdDFEY2ZSTU1DcjVCUmxmaER2WTdNamFEZzlqWGNjclpkSTZkeEpZY0ROaEtCQURLU253N1FQeDNZWmwzc0FBT3FrU2t0R1ZXMEo3WnJ1Nl95TFYyMEE3VnBybXdjSjQ?oc=5\" target=\"_blank\">Hong Kong fire survivor returns home to save memories from ashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOejM3bkVMZTJzZG8wNjVDdHl1ejZtSUx2cUZaZnE4aXlXUGtWX2piQUdDMGtaQXBsekROeWpQZVBUYzN0NXp0VEozUWxWdjNpa043S19vbEZxMVZTRjVUdkVHS2Jua0VQM3lUOHVoX0laa2hkSWFSUDgzSy1yWGUxV2ZVUVJBMTcwYktRX0R4TGE0SlJkcE40YmxTaHpBX2lF?oc=5\" target=\"_blank\">Grieving, traumatized survivors return to their homes 5 months after deadly Hong Kong fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQaG5mSlBObnZXbFhKSjdJWjkxSkJhMmpDSHlfeG5uZEVhenU1TmM0aXB5STB5RVU1c1Q3VzNNOXBSTS1oeXZxTzhIaDJDUC1KZE9NUF9QSC1BYVJlRGJ6T3pBbzB2RDcwZ0RUTVkxMXkyc29IMGl5MjktRzVvcHRVN2lPYm9TYzZ1ZVBlSlNrVGlnb1otbHVkSlY1QU5BNjl3?oc=5\" target=\"_blank\">Survivors of Apartment Blaze That Killed 168 Return to Their Homes for First Time and Make Surprising Discoveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">people.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEZ5Q1l5VFVxWGJCTXpRXzY4MFRQT2t6Q2RxSVBzRk5WVVluUHJBWWhyMUR1dDVsWVZkOVhlcVp2N25ZdFNvcDltSUdqMWl6ZWtFUHBod0JUTlhfb0RFcHRkd3p0OTZmamhBT21lVWFSWlRIa3hDWHpWV2lpOGhUeUp4VERRbVhfMFNFSkh5OENXUExNVFlSUVp0TnBMYnQ4R010OHRRa0FCWjJQVWJ5cDYxSU8?oc=5\" target=\"_blank\">Hong Kong Fire Aftermath</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal-News.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzhlNGdYVWtIeGpLNk02bDZfYnl3UXVESktDZU8wMnRhQVQxejhJckVQX0V4dnhYd01zMGJkSmc0dGx3VGthUENxSUxEcHdfV2g4QnFCYjJ6elFsc0xuQ1FBV2JUQzZidlpTdVhoWWloQmtRSnR0TjFBYzdCeWRITDFoamMzRDROSm1lTVNERE1tVHVydGRkYTl5TWVVSmN0WGREdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Stock futures rise after Trump extends ceasefire with Iran: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBESktpb2N6M2dtQ1JRQkI3bFJnelRzaGNreHV5NG83d05hUzFMakM5MnlEWU5NZWhiT0d4eERPaGhrTHpidjdrc3ZJUk9wZnpJeVltU1dnLVhlQVJrUzQ5RTRhYi1ZNHhKLW52RWpLSGJPclFqZjU40gF8QVVfeXFMTVFkTVEyOEFvQjhPQmVPZDNtVVhqTGtRWk5CM180M3NsYmw4Yy1EcFhQZnFSTDYzQTMxRnNBakVYdW01NG92RDVtUzVMeFMxZzBCRm9SdUNGakR3dGxJR0dLbGN4a0JjMGwtbXlLMTJLYlNDMHZ1T05SRHo4cg?oc=5\" target=\"_blank\">Stock futures rise after Trump extends ceasefire with Iran: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTNWZWl3dFF5M2J4RDVibWhuREV1UGI1LVdSQjRDQ1ZadTN4ODJkOEdoVHNVVmhUc2dlQUNnU2x0SUkyM0ZsNHVrNl9HXzRJN0M1d3NhSFZVckJaa2k1SVhSS2c5WWhIbURYc1Q0TVBUNHJSbVRFSEZmVW1UOC1rNGJONS04dHNHemJEWHhxV01oOTJnZE9KODZFUmZ1LTRueGJxZ1pTVk12Rk0?oc=5\" target=\"_blank\">Gold rises as oil weakens after US extends ceasefire with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQczczZ25ncGNCQS1qN3JEamVBZlpxZ1dYbVgyeTBXdU95UDlEUnVSR2RzaDZJUFFDdzdfNGhldHpaWTAxcXpXczd4cmY3OTRNRkJMQ3lCVGRHZDQyOG13ZUYtQ2tZOVQ2TU9ZMWtsUEdMb2w3YzVaMFpWclUyeGlMdWdYa2FMakVjMlVHd3hhdzM5b283?oc=5\" target=\"_blank\">US Stock Futures Rise as Trump Extends Iran Truce: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGdZRmZxTkRzZlZieUZjMFd2UkJkUXItUkZVOFBIVU5kV3Ztd2U5dWN6dGlMY1UwNUtXWWZrN3FYdm4zVU80RUViTGhvd3ZldVFfSExVdjdOODN5NTZKbmFqYkhvZG5KUm51NVByYmZRZWJuZ3J6RXlmN2FBN1ZjblBDRDFtR2w5QVY2NzVCaU8zM1pkR3VuWEdQT0VPNVBydzVkRk55eVlkYTVjNGpBMy01VUdXQkFPMjlDS0EwaTc4ajhvSDJFOFFnREV1RDBKSEhQMF9ibDhfWEstRGM2d1A2RmdHOGFIUXVLVw?oc=5\" target=\"_blank\">Hong Kong stocks retreat after Trump extends Iran war ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa29zVk9oYUloRVp5aTg3TVNITlVfMFFFMWlEWXRwS0V1RmcyQnNZQjQ5eUpJNmNFdlVzZmttbElxYmVuRThjNngwWUFNa1dKdGZGUkEzOW5OVU14dGZ6MG5sOXEyWmtSUWFZcnZRVkR3a00wdjc4WVlVdjkzZHlaWVVYSlg3MnFaYVNncHVZdmJrcTAtekFhRzFCaTVsNUdjY0dMMmEtSVM?oc=5\" target=\"_blank\">Stock Market News, April 21, 2026: Trump extends U.S.-Iran cease-fire after Dow ends nearly 300 points down, S&P 500 and Nasdaq close lower on doubts over next round of peace talks; Fed chair nominee Kevin Warsh testifies in front of Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBESktpb2N6M2dtQ1JRQkI3bFJnelRzaGNreHV5NG83d05hUzFMakM5MnlEWU5NZWhiT0d4eERPaGhrTHpidjdrc3ZJUk9wZnpJeVltU1dnLVhlQVJrUzQ5RTRhYi1ZNHhKLW52RWpLSGJPclFqZjU40gF8QVVfeXFMTVFkTVEyOEFvQjhPQmVPZDNtVVhqTGtRWk5CM180M3NsYmw4Yy1EcFhQZnFSTDYzQTMxRnNBakVYdW01NG92RDVtUzVMeFMxZzBCRm9SdUNGakR3dGxJR0dLbGN4a0JjMGwtbXlLMTJLYlNDMHZ1T05SRHo4cg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Former Republican Rep. Devin Nunes out as Trump Media CEO - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGNWd2RuSzg0RkJRcHAtOEcxZFVOT00yVW1wZVFiVFJhY3BCZjd6RktaV0hXYmpHYnkzYmkxNHVvMkg3VmxSaGZXbEwxWHJaQmtJQURQZHNNNjM4N1hfamYwU2xwaE9Ka1g5VGZFRVRJdVo3b3FMOUE2MXNiaV9EajFiUFROcnZfeDZib2NMMnRYLWxHOHA4Ym5oU0RJbC1mUTZjWVRpTHlwZw?oc=5\" target=\"_blank\">Former Republican Rep. Devin Nunes out as Trump Media CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFMtVVZlVXpaZndKYzlZamhTOE04b25aLV9ma291d2NhaUFHTDVyMlYyOGJGT0loX3ZaX19YeVFRbTlHUGF3TzFJbXRFWUVoUkY1alVEaHM3S1RPSG9nS2RTYi14VDZ4MGZ4Zjg0SFhLWW92WXpzSXdxWjhmZVdaWjVuX0IwaldFSVRn?oc=5\" target=\"_blank\">Devin Nunes Departs Trump Media After 4 Years as C.E.O.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3p5TThXVFU2TERyVHVDVjAyd0pzalBxdzJZNnNQaEVyMWZLM0J6VHoxTDhHNDluZ3FDQ2d6UDZQQV96bmI2djZvRGN5NmdSOTg3Zmc5aG5jWm5UaUdFd0FXYjZlbUFjRkl1T2piZHBTa3lQdlYyMHo4WF9RZ3VRazhZcDhHVmNHRk5pajhucERCSDV0T1RjMmIwakNuRXhFdDRN?oc=5\" target=\"_blank\">Trump media company replaces CEO, ex-congressman Nunes after stock plunge that wiped out billions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5TcExiQ01WMVBWUlZpaGlFYWc0aEpqenJVT3p0bjlCUmZNNThrZmdnRXhkRjBsY1FTdHNENlJDLUZyUFZxUURibGE2U2VJcjJWaHdZUEQwdHo5Y2FOSXdqRFNZeVh3MWZLQ0hlUHJTMm9sQWk4MUJhWU1OLV9hSUE?oc=5\" target=\"_blank\">Trump Media CEO Devin Nunes Steps Down. His DJT Successor Has a Tough Job.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3Q3c3pzMTI5dEhONWdDMHRvaGJVQnNqdy1IX1NTYU54Uk5NNy1uV2drQzU4Q1dWeXZCLS1BSlJ6R1BNQmZJR1RseHF1TkZSQmhha0dwWXBZU0s1a1o4RnhuUUFFVHhsMWZUdXZaWlE1TjhSaDdXTnN5T3I5RXJFZVZBWHlXSVhfUnpSSENocF95Zw?oc=5\" target=\"_blank\">Trump Media Appoints Kevin McGurn, Former Hulu and Vevo Exec, Interim CEO as Devin Nunes Exits Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGNWd2RuSzg0RkJRcHAtOEcxZFVOT00yVW1wZVFiVFJhY3BCZjd6RktaV0hXYmpHYnkzYmkxNHVvMkg3VmxSaGZXbEwxWHJaQmtJQURQZHNNNjM4N1hfamYwU2xwaE9Ka1g5VGZFRVRJdVo3b3FMOUE2MXNiaV9EajFiUFROcnZfeDZib2NMMnRYLWxHOHA4Ym5oU0RJbC1mUTZjWVRpTHlwZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Prices for World Cup public transportation range from free to $150. Here\u2019s what\u2019s going on.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "In one instance, train fares are being inflated from $26 to $150.",
+          "url": "https://www.marketwatch.com/story/prices-for-world-cup-public-transportation-range-from-free-to-150-heres-whats-going-on-4e379437?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Oil prices dip as Trump extends Iran war ceasefire - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MdTk3QWl5Si1PNnNaVl9WT0swVmpkMVhac2tPaWpEOXBncUMzOFU3LVpIbWhuaTZNTnRWNjF6SDljRGlsZF9JUENJSURqYTB2TDMxRzkxbHJZdw?oc=5\" target=\"_blank\">Oil prices dip as Trump extends Iran war ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzVEc0xFMEtnem5NMUJtT2RCZkFycEFtQlJySm5sZ0k1Q1FjVFNILUMxS1JpUWwzamV0eE5XbUtEaVlrV1NTYi1LNmJVd1ZXMlpsQjA1Z25yN3h1M05KRFRpNmY4TTk0UW13X09naFNZNnphaF9IRFNGYnBzWVZBS2ZxMUV5U0VIRVg2THZCTQ?oc=5\" target=\"_blank\">Citi spells out 3 scenarios for the Strait of Hormuz \u2014 and where oil prices would go in each</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPaldJVHFNXzhfMUpCX1NaY25aUHZpdXJ6WVppeGdtTS1YN2h5NkhWaDl6TjNZM3FTSkZhcERXR1dYMFpldjRrZWllS3VBbWUxZDU2QzlrQnNuRlEzNngtY3NrUVpxQVZMTjJWMGZCX0VwZVZoSExnWXFZUU1kRWlaY1I4czhDd01aMDBoUVZVMk1EaE9UYU1NdlJHSi0zQXo0cDRBalVYQi1aNE13ak04RA?oc=5\" target=\"_blank\">European Gas Steadies Amid Uncertainty Over Iran Peace Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTNmcDRxa2Y1MTdXa2R3RUZuZ0g5ZWFDSjQ1QTBvbHotX3lpTHpsQUR0NWdHVzhUWEZPSmpFYVJuUWpMbUNpa2RfNE1PX2JoMTBIdENNZGppb0Q1cGk2THE1dmhvb3cxd3hEeDdub1VoSUx1U1RFTWtDNDRFNDJhUWlnNHEzTlJlekxsYWZ4Y0hPSEJmRHJVYXowSjZnVzIx?oc=5\" target=\"_blank\">Oil Futures Settle Higher With U.S.-Iran Talks Undecided</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR09ZSmd3djlFaW5uX3VvR2hWbWIyeC1jYkZ6UHIzV3VOMmJ2VWdmM0hnd0R1cjNqcTg1OWNBN1BjNWhUck1oVmwwMW5MOW85bWFDOWU0UkFZR2JhN0Q5RE83N0ltRzR1ZEZqdXpxZWozT0FSUHVFYnV1aWRLYVVodVp1d1dIaWJIVVdxMVpOeXByZUtUb0ZYc01sczBjdndtZE0yMTlid0poek0?oc=5\" target=\"_blank\">Oil prices dip after Trump announces ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MdTk3QWl5Si1PNnNaVl9WT0swVmpkMVhac2tPaWpEOXBncUMzOFU3LVpIbWhuaTZNTnRWNjF6SDljRGlsZF9JUENJSURqYTB2TDMxRzkxbHJZdw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-22",
+          "headline": "Amazon.com Launches Program for GLP-1 Weight-Loss Drugs With One Medical - WSJ",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": -0.014285714285714285,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFZPZGtGdW5LY0tfSG1ZdVhlemN5ZkIyYW9RV2luRG1WOFFsRkEzSlIwRXp4OTV0TUFSVXZQRWFVd3dxekNQRklrS2FyenJ5RGs5WFZDUWstVXIwclRsOFVLTm5rOEF4bVludnhQMlNLRnh6TVdjamFFZ2Mtd3lLcW56SUlNWXJHWmN5cnpPNzBRUGQySzVmYlNqMXpibHc?oc=5\" target=\"_blank\">Amazon.com Launches Program for GLP-1 Weight-Loss Drugs With One Medical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE53ZlBjMmN3VUNhc2ZiSEhtdjFhQi1sQS1UaFZDVHZhQkx6eDg5NHZOYUxzSUcyN0hGdHl6VzcwSVNURW9FYUtnSzFFaXA5dVBQOVk0YW4ydm1iSTBUQXJQRnBNYjJNWnltR05kcXd2ekVHUWtfM0dPMtIBfkFVX3lxTE9PZkhrOWRuU0NOb2htaG9QRjhDOTV6YXltOE1zNTl6LUgzckRaT3RBQnZHTndmOUhRRzdzVGxJZEdUeGdIMXpNbEVjMTJ0TmFUVUZpNUpOSEZ1dlNyM016b1Zjb3htb1ZVZHRTQ2RJU1pPTUU5TEZBX0plT3FjUQ?oc=5\" target=\"_blank\">Amazon launches GLP-1 weight loss program, promising 'fast, convenient' access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5XWDFfOTZyWU4tbU1HSURrNHVDam9NblFiS1Btblhodm5qOVFoaFF5Q1d6Q0NkOURDMHQyMHRjTi1IUXpwcXVRTnhXSHh6U3VjUV9EMmNGRy1XU2FMWUtUdUJlSGwxZXdwWXg2NkZvSXFfaFRkNTdRMURR?oc=5\" target=\"_blank\">Amazon One Medical introduces weight management program with upfront GLP-1 medication costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0yODZsTVRESkVNMUZPbV9nT0JXT2VJbzllbXRTcVBsWWZ4elBHdEwxWkUxR2p1OTJOaDhRa2Y3YUNaNzJCUW5FX01pWjBob0F3THlvcXVLWXh6alNrbmhzNFZVcXM3VzZrb3FHODNrS2owRGQtWGNmMjVrTGRSQQ?oc=5\" target=\"_blank\">Amazon launches comprehensive GLP-1 program with One Medical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVN2MHNzazAzVkhDd05mUDY2cEh1VENVcmh3clVXbUM3d2lHVjFYeW9NNGRqZ1ZsdzV5cmZ0Snk3RmRZVDBHZ2VXRUg2Y0J2YWN4NllOSExzbklrTXBZMWpRakM2cWlnLXhUMWJSdTVmUlkyY2hXZW5iUGYyTllNMjg2b1NfRGdVSDFGV2pRY28zYzdwQTI3UA?oc=5\" target=\"_blank\">Amazon launches nationwide GLP\u20111 weight\u2011loss program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFZPZGtGdW5LY0tfSG1ZdVhlemN5ZkIyYW9RV2luRG1WOFFsRkEzSlIwRXp4OTV0TUFSVXZQRWFVd3dxekNQRklrS2FyenJ5RGs5WFZDUWstVXIwclRsOFVLTm5rOEF4bVludnhQMlNLRnh6TVdjamFFZ2Mtd3lLcW56SUlNWXJHWmN5cnpPNzBRUGQySzVmYlNqMXpibHc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Mideast crises divide Europe as it grapples with rising fuel costs and policy toward Israel - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDd3SDU5YV9wUlFqS2ZLclBiZ3NYZU1kb2Vvb0xHZWUzNDdqdzJJaGlhdTJTdWhrVDZMb3AyeXNoU3VpZ3hNNmV1NWhmSjlwZUZEOUdIWEhXSlpxTzFub0VUOEpXN1FRVXNuemkyZDQwRjF4WkQtZlc2OFEySVBVeGhtd29iajRpU0ZfaWxkeGlPVTBaS2UxVmJ1bmNZWm80VUtlejh6OVh5cmNF?oc=5\" target=\"_blank\">Mideast crises divide Europe as it grapples with rising fuel costs and policy toward Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lyNjZYNUVCSE1FcElPMVc4UG1DZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDd3SDU5YV9wUlFqS2ZLclBiZ3NYZU1kb2Vvb0xHZWUzNDdqdzJJaGlhdTJTdWhrVDZMb3AyeXNoU3VpZ3hNNmV1NWhmSjlwZUZEOUdIWEhXSlpxTzFub0VUOEpXN1FRVXNuemkyZDQwRjF4WkQtZlc2OFEySVBVeGhtd29iajRpU0ZfaWxkeGlPVTBaS2UxVmJ1bmNZWm80VUtlejh6OVh5cmNF?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Devin Nunes Departs Trump Media After 4 Years as C.E.O. - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFMtVVZlVXpaZndKYzlZamhTOE04b25aLV9ma291d2NhaUFHTDVyMlYyOGJGT0loX3ZaX19YeVFRbTlHUGF3TzFJbXRFWUVoUkY1alVEaHM3S1RPSG9nS2RTYi14VDZ4MGZ4Zjg0SFhLWW92WXpzSXdxWjhmZVdaWjVuX0IwaldFSVRn?oc=5\" target=\"_blank\">Devin Nunes Departs Trump Media After 4 Years as C.E.O.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3p5TThXVFU2TERyVHVDVjAyd0pzalBxdzJZNnNQaEVyMWZLM0J6VHoxTDhHNDluZ3FDQ2d6UDZQQV96bmI2djZvRGN5NmdSOTg3Zmc5aG5jWm5UaUdFd0FXYjZlbUFjRkl1T2piZHBTa3lQdlYyMHo4WF9RZ3VRazhZcDhHVmNHRk5pajhucERCSDV0T1RjMmIwakNuRXhFdDRN?oc=5\" target=\"_blank\">Trump media company replaces CEO, ex-congressman Nunes after stock plunge that wiped out billions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGNWd2RuSzg0RkJRcHAtOEcxZFVOT00yVW1wZVFiVFJhY3BCZjd6RktaV0hXYmpHYnkzYmkxNHVvMkg3VmxSaGZXbEwxWHJaQmtJQURQZHNNNjM4N1hfamYwU2xwaE9Ka1g5VGZFRVRJdVo3b3FMOUE2MXNiaV9EajFiUFROcnZfeDZib2NMMnRYLWxHOHA4Ym5oU0RJbC1mUTZjWVRpTHlwZw?oc=5\" target=\"_blank\">Former Republican Rep. Devin Nunes out as Trump Media CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3Q3c3pzMTI5dEhONWdDMHRvaGJVQnNqdy1IX1NTYU54Uk5NNy1uV2drQzU4Q1dWeXZCLS1BSlJ6R1BNQmZJR1RseHF1TkZSQmhha0dwWXBZU0s1a1o4RnhuUUFFVHhsMWZUdXZaWlE1TjhSaDdXTnN5T3I5RXJFZVZBWHlXSVhfUnpSSENocF95Zw?oc=5\" target=\"_blank\">Trump Media Appoints Kevin McGurn, Former Hulu and Vevo Exec, Interim CEO as Devin Nunes Exits Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUENQOGF4cms3X1MtZTFDSkZFaWllakw4QTV4cm9kSzhYWEI2Tk1LcFA3X0p6dXhsM1Ftb2JxWGh5YjZnVWp5LWNEaGlONlhuUzcyYklGLXJ4MlZBV29BMEd6WHdrVVV3ZHU1MmJPV0VoeUplRURJLThYWjZseVNGLUJXbUtBdktRVVMyZ1lVODRNdV9MYVFuQ0xrcHFkWnRUN2lVZ1NVYnZKRFVhMVpUV2hJaE43M3lyNHVtZDB3dXY?oc=5\" target=\"_blank\">Trump media company replaces CEO, ex-congressman Nunes after stock plunge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livingstonenterprise.net</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFMtVVZlVXpaZndKYzlZamhTOE04b25aLV9ma291d2NhaUFHTDVyMlYyOGJGT0loX3ZaX19YeVFRbTlHUGF3TzFJbXRFWUVoUkY1alVEaHM3S1RPSG9nS2RTYi14VDZ4MGZ4Zjg0SFhLWW92WXpzSXdxWjhmZVdaWjVuX0IwaldFSVRn?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "semiconductors",
+        "software"
+      ],
+      "company_profile": {
+        "industry": "Semiconductors",
+        "provider": "yfinance",
+        "sector": "Technology"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "NVTS Stock Jumps Premarket: Retail Hype Builds, But Analysts Say Not So Fast - Stocktwits",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stocktwits",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxON012LWxIUTdlaDhTb3AzempHVWl4RThGa3IzLVMwbTh3bkM0Nnk1LVFJTVdKZzdHeVJhOEhmTGdOcy14cU4tX0hNOTZuSVNSMjJHbUdIcmFucGlkVHZucEJ1Y214d3hBOHZzdmRMNE5GNXU0d2FkTkFib2pCM0ZsTUg5ZHdIU0VhaUlMWjB4VzYxeGU4ektEZGg2ZGFHd2ZEX0stRmwyNFQ1LUNkT1gyUzJsTGt1bkpCdVc2ZlBQbkNrM0ZoOUp6Y3NvSlZ3TzJYSUh4bg?oc=5\" target=\"_blank\">NVTS Stock Jumps Premarket: Retail Hype Builds, But Analysts Say Not So Fast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON012LWxIUTdlaDhTb3AzempHVWl4RThGa3IzLVMwbTh3bkM0Nnk1LVFJTVdKZzdHeVJhOEhmTGdOcy14cU4tX0hNOTZuSVNSMjJHbUdIcmFucGlkVHZucEJ1Y214d3hBOHZzdmRMNE5GNXU0d2FkTkFib2pCM0ZsTUg5ZHdIU0VhaUlMWjB4VzYxeGU4ektEZGg2ZGFHd2ZEX0stRmwyNFQ1LUNkT1gyUzJsTGt1bkpCdVc2ZlBQbkNrM0ZoOUp6Y3NvSlZ3TzJYSUh4bg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-22",
+          "headline": "Navitas Semiconductor Stock Surges 16% In A Single Day, Why You Shouldn Not Be Buying The Stock - Trefis",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Trefis",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOejNUeFlERnVQVGNUNFM4QmJncERhbDUwNmZDa2NEYkEyVG54NVhweFVHS3BxbWFNZDlZTjNzSk92RVZTbVB5bTlVRHBjNy1aSXgxRldER1JLUzZiSWhNcC12MkYxUHA0VW9Obk5mcFVSYmRITUxWbllNQnE1MkFHNjBydE9OMVhCbXhHYWtGbVllRzJzWUpwNjFwdTBYV1RRT2p3alByR1gtQm5hMkJZZ1ZZUVE4YjZsZ3pDTXA4UU9TYTNGc1lmQ3ptallSYVU0Y0t4SkZHc1Z2N05ZLV9mNTZYWTNxWkJKOW1GemhpSm9tek1uNlE?oc=5\" target=\"_blank\">Navitas Semiconductor Stock Surges 16% In A Single Day, Why You Shouldn Not Be Buying The Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOejNUeFlERnVQVGNUNFM4QmJncERhbDUwNmZDa2NEYkEyVG54NVhweFVHS3BxbWFNZDlZTjNzSk92RVZTbVB5bTlVRHBjNy1aSXgxRldER1JLUzZiSWhNcC12MkYxUHA0VW9Obk5mcFVSYmRITUxWbllNQnE1MkFHNjBydE9OMVhCbXhHYWtGbVllRzJzWUpwNjFwdTBYV1RRT2p3alByR1gtQm5hMkJZZ1ZZUVE4YjZsZ3pDTXA4UU9TYTNGc1lmQ3ptallSYVU0Y0t4SkZHc1Z2N05ZLV9mNTZYWTNxWkJKOW1GemhpSm9tek1uNlE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-22",
+          "headline": "Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings - Insider Monkey",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Insider Monkey",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2Q3cXF3YXFTQkFlcDUtenJ6c09VSFB4TUFQanhsMVY0b012SzdSeVc0N1pwQTREelA1aEp2UGZCbmVMMkZTUnQ3OFlzSnMtQTBndFNCaTE3ZmZhaTJyVDBEMEptQ01ia2YzMzRqTE8weGE3SEVDOFotNU5tNFJTV25Selc5OUdRMXNKQlRTTEVnbWl0SU5WN9IBmAFBVV95cUxOX2Q3cXF3YXFTQkFlcDUtenJ6c09VSFB4TUFQanhsMVY0b012SzdSeVc0N1pwQTREelA1aEp2UGZCbmVMMkZTUnQ3OFlzSnMtQTBndFNCaTE3ZmZhaTJyVDBEMEptQ01ia2YzMzRqTE8weGE3SEVDOFotNU5tNFJTV25Selc5OUdRMXNKQlRTTEVnbWl0SU5WNw?oc=5\" target=\"_blank\">Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2Q3cXF3YXFTQkFlcDUtenJ6c09VSFB4TUFQanhsMVY0b012SzdSeVc0N1pwQTREelA1aEp2UGZCbmVMMkZTUnQ3OFlzSnMtQTBndFNCaTE3ZmZhaTJyVDBEMEptQ01ia2YzMzRqTE8weGE3SEVDOFotNU5tNFJTV25Selc5OUdRMXNKQlRTTEVnbWl0SU5WN9IBmAFBVV95cUxOX2Q3cXF3YXFTQkFlcDUtenJ6c09VSFB4TUFQanhsMVY0b012SzdSeVc0N1pwQTREelA1aEp2UGZCbmVMMkZTUnQ3OFlzSnMtQTBndFNCaTE3ZmZhaTJyVDBEMEptQ01ia2YzMzRqTE8weGE3SEVDOFotNU5tNFJTV25Selc5OUdRMXNKQlRTTEVnbWl0SU5WNw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-22",
+          "headline": "Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjY1LTF2MXRJYkZsRXEzRl8waUgwUkwyclZESEhKTmk0eWdwVE5NTW1uTlBsdXFVNm5zdDEyR1VlMloxQ3VTempqcTctU3M3dUtiSDF2TnVQbjM1TnN6ZUFsT01uaWpwVm94N2ZUMm8tVExMSTNwUWhTakFvYllKVWszVFVlQTF2Z091d1ZWeUxxVWR1dk5fcg?oc=5\" target=\"_blank\">Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjY1LTF2MXRJYkZsRXEzRl8waUgwUkwyclZESEhKTmk0eWdwVE5NTW1uTlBsdXFVNm5zdDEyR1VlMloxQ3VTempqcTctU3M3dUtiSDF2TnVQbjM1TnN6ZUFsT01uaWpwVm94N2ZUMm8tVExMSTNwUWhTakFvYllKVWszVFVlQTF2Z091d1ZWeUxxVWR1dk5fcg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Why Did Navitas Semiconductor Stock Tumble 14% Pre-Market Today? - MSN",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxOSnZodlVPQ2NQekQyUFBPQTRxd0pEUmxlZFJNV0lMOEd3Wk9Wd3ZCNnZMaGdWeWs5djZ6S3VmUzZNS3ZWNDdGTVl3MXpwZ3h2V1MxNGpoWjFWRU4zakRXVUVFalpsWWFDY19jdnVkUFdiN25sOUJsYU9UdzNKX203MlFGVnVseWN3Y21RWXdOdUMwbEFwZnQ2NS1XeDlHcEJZWFhZRjJRdmVjT1hfWU5fZEJEUndtc2RtbFA0eVpqaFhjSFRPX1NYb0YwLTh6aUJLOWhrR3YyN3lRRFpNNjNRMnNGUF9hLXcxMnY2bDJYbnVFTjJ6NGtFcFJ3UGVFNWRFcF94bUdnRHBvdXRIT2RnLTY1eHBXcElMcC1DRmQ0YmE3dDJLbEpCSmhhRTc4Wm1MVVVtRTJyeEpVTE5nZkxQYVNpaEtjZ3ZMUzRHdmxn?oc=5\" target=\"_blank\">Why Did Navitas Semiconductor Stock Tumble 14% Pre-Market Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOSnZodlVPQ2NQekQyUFBPQTRxd0pEUmxlZFJNV0lMOEd3Wk9Wd3ZCNnZMaGdWeWs5djZ6S3VmUzZNS3ZWNDdGTVl3MXpwZ3h2V1MxNGpoWjFWRU4zakRXVUVFalpsWWFDY19jdnVkUFdiN25sOUJsYU9UdzNKX203MlFGVnVseWN3Y21RWXdOdUMwbEFwZnQ2NS1XeDlHcEJZWFhZRjJRdmVjT1hfWU5fZEJEUndtc2RtbFA0eVpqaFhjSFRPX1NYb0YwLTh6aUJLOWhrR3YyN3lRRFpNNjNRMnNGUF9hLXcxMnY2bDJYbnVFTjJ6NGtFcFJ3UGVFNWRFcF94bUdnRHBvdXRIT2RnLTY1eHBXcElMcC1DRmQ0YmE3dDJLbEpCSmhhRTc4Wm1MVVVtRTJyeEpVTE5nZkxQYVNpaEtjZ3ZMUzRHdmxn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Why Navitas Semiconductor Rallied Today - The Motley Fool",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Motley Fool",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWVzVG82QXg2Y1NVSXFyOV81RTZoQ0RQN0lMZHRWcl96elhaeWhNdlVtdE9UNm55cnZ2ZkM2MWdRVnF4NGpzSUtmdll5MmxZcUllMHdqWW4wTWFyUTZPTzdUMkI0cHA1VFdhLTRJcDlhMm52U0ZCeTZzME00dWU2OVJVSklfUUNDTUE?oc=5\" target=\"_blank\">Why Navitas Semiconductor Rallied Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWVzVG82QXg2Y1NVSXFyOV81RTZoQ0RQN0lMZHRWcl96elhaeWhNdlVtdE9UNm55cnZ2ZkM2MWdRVnF4NGpzSUtmdll5MmxZcUllMHdqWW4wTWFyUTZPTzdUMkI0cHA1VFdhLTRJcDlhMm52U0ZCeTZzME00dWU2OVJVSklfUUNDTUE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Is Navitas Semiconductor (NVTS) the Best Up and Coming Semiconductor Stock to Buy? - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.03125,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVmWUVmc3JqUy04bmlBWWxzR1dmTGJLSWZJUmF5UnhRZngzSTl3QXFFb213ZjNPTHdiZ1FiSXFVNGxFbE9LLVJ3WEt0LUVyMjhRaU43RkNPX3d6VmhWTlUtWmpNV3h1d01NbU1RWkFuZkt4RzdsVEkwaHFxM2E2OVRiRjBDZGthOFhlS1BpVklWRU9qZ0VzcDZ5ZHIzdjJwdTE2OGNJaUh0TDg?oc=5\" target=\"_blank\">Is Navitas Semiconductor (NVTS) the Best Up and Coming Semiconductor Stock to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVmWUVmc3JqUy04bmlBWWxzR1dmTGJLSWZJUmF5UnhRZngzSTl3QXFFb213ZjNPTHdiZ1FiSXFVNGxFbE9LLVJ3WEt0LUVyMjhRaU43RkNPX3d6VmhWTlUtWmpNV3h1d01NbU1RWkFuZkt4RzdsVEkwaHFxM2E2OVRiRjBDZGthOFhlS1BpVklWRU9qZ0VzcDZ5ZHIzdjJwdTE2OGNJaUh0TDg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Why Navitas Semiconductor Rallied Today - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0xIc2J6MUNXQVE5djRVWXMwcG8zdlYwcXRtUmxvZnd0RHpuc2JHUDdwemtGM0lkUkZFSEY0QllJYlMxMWZuS1p3TEo5VGNBYTgyNXVzREd2N05qWER6STdIcUg1RUhRclJnd3lVclRVYVFLeU5lc1lLTGlKNDRNSkFRQkFCNHdhNUc0MzhKSi1lcnZxU3VKeWg1SWJiSEQzMG5kTVNQRQ?oc=5\" target=\"_blank\">Why Navitas Semiconductor Rallied Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0xIc2J6MUNXQVE5djRVWXMwcG8zdlYwcXRtUmxvZnd0RHpuc2JHUDdwemtGM0lkUkZFSEY0QllJYlMxMWZuS1p3TEo5VGNBYTgyNXVzREd2N05qWER6STdIcUg1RUhRclJnd3lVclRVYVFLeU5lc1lLTGlKNDRNSkFRQkFCNHdhNUc0MzhKSi1lcnZxU3VKeWg1SWJiSEQzMG5kTVNQRQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Why Is Navitas Semiconductor Stock Charging Higher Tuesday? - Benzinga",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Benzinga",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREk0QjZ3RHNlblhfTUpETHlCaUt6S0UzRkFoUDRLODZpczAtWXZzV1ZKYXdYU0lpZkE4dS1NQjlVcHdDalZZWkV0em42ajhrWGxSQ1IyLTNpM2l1dFlwUXB2N21fQW1Gb2NodjRLQzlwTjB2SnN0MEtHMkY4U1pSVVJZTVZKRG5pREFYLUl6dFVkN2E0b3NIMVREeW51ZEZxRUluQzdvY25QUEFIT2llczFtY2FyOVdzb2Z3?oc=5\" target=\"_blank\">Why Is Navitas Semiconductor Stock Charging Higher Tuesday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREk0QjZ3RHNlblhfTUpETHlCaUt6S0UzRkFoUDRLODZpczAtWXZzV1ZKYXdYU0lpZkE4dS1NQjlVcHdDalZZWkV0em42ajhrWGxSQ1IyLTNpM2l1dFlwUXB2N21fQW1Gb2NodjRLQzlwTjB2SnN0MEtHMkY4U1pSVVJZTVZKRG5pREFYLUl6dFVkN2E0b3NIMVREeW51ZEZxRUluQzdvY25QUEFIT2llczFtY2FyOVdzb2Z3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Avis Brings Back The Short Squeeze \u2014 Navitas, Beyond Meat Join In - Benzinga",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Benzinga",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXR3ZWdjcmpPYllnU3hTN2ZVY2dUcTJKOTNyTElPUlR4NUJuSVhXaUZjYXhxcVV5NnNGM1lXN0xzbXdXUTRTMVNFWGppT1pZc2lhdmhDZ1YzR3VGbVdoYWR0ejV0eVdnZDllVHVVS2dLTWh1Q0JqS1MyanRsdEhVOWNFNUNWYlI5THo4WllXZmtOV1NkaUxvQ0lRVGpIcW9ORURrbDJyZklWUW80elFPMVJqSk5ZZUlpc3hzVjlobzA?oc=5\" target=\"_blank\">Avis Brings Back The Short Squeeze \u2014 Navitas, Beyond Meat Join In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXR3ZWdjcmpPYllnU3hTN2ZVY2dUcTJKOTNyTElPUlR4NUJuSVhXaUZjYXhxcVV5NnNGM1lXN0xzbXdXUTRTMVNFWGppT1pZc2lhdmhDZ1YzR3VGbVdoYWR0ejV0eVdnZDllVHVVS2dLTWh1Q0JqS1MyanRsdEhVOWNFNUNWYlI5THo4WllXZmtOV1NkaUxvQ0lRVGpIcW9ORURrbDJyZklWUW80elFPMVJqSk5ZZUlpc3hzVjlobzA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "5 Reasons Navitas Semiconductor Stock Is Exploding Higher in 2026 - inkl",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "inkl",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXlrVnZNNTQwSi1HcWcxOU1QVmJzR2xDWmthdmhPejJHWXFLbENiZV9NRWtyOWR6OGhPbG1sbUJVVHBTOWxEaGJqaTZoSGNSUlRpdzgxRUJWODZXdWlBNDRZbTdXUlY1YlI4dEY0azhYY3JNWV9nNUExRnNwck1WOWZqNUpHU2poM3lJY1Rod203Mkl4Qnc?oc=5\" target=\"_blank\">5 Reasons Navitas Semiconductor Stock Is Exploding Higher in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXlrVnZNNTQwSi1HcWcxOU1QVmJzR2xDWmthdmhPejJHWXFLbENiZV9NRWtyOWR6OGhPbG1sbUJVVHBTOWxEaGJqaTZoSGNSUlRpdzgxRUJWODZXdWlBNDRZbTdXUlY1YlI4dEY0azhYY3JNWV9nNUExRnNwck1WOWZqNUpHU2poM3lJY1Rod203Mkl4Qnc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "5 Reasons Navitas Semiconductor Stock Is Exploding Higher in 2026 - International Business Times",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "International Business Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm54SXI3UDF3b2RETHRrbGZHaXlJdUdncE1RUlFNUjBLSzAwcGFfWW9HcDdobGFjQ19SNzRUbjA1dzJmZFVNWGc4VFcyM0R5WFN6RGtaMjNSNjhIWEg3bU1hTXluMThtNWQ0Y25QdFhYZl85dlFReVpPcFV2VlgzQmU0TXpBUS1XdVZrWUlGUzNTYVZBX0E?oc=5\" target=\"_blank\">5 Reasons Navitas Semiconductor Stock Is Exploding Higher in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm54SXI3UDF3b2RETHRrbGZHaXlJdUdncE1RUlFNUjBLSzAwcGFfWW9HcDdobGFjQ19SNzRUbjA1dzJmZFVNWGc4VFcyM0R5WFN6RGtaMjNSNjhIWEg3bU1hTXluMThtNWQ0Y25QdFhYZl85dlFReVpPcFV2VlgzQmU0TXpBUS1XdVZrWUlGUzNTYVZBX0E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Navitas Semiconductor Stock Explodes 19% in Early Trading on AI Power Momentum - International Business Times Australia",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "International Business Times Australia",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQai1HTXdtMFRwZDk4c1VaMnBDZXlzc19idkF0bXRsV01XZnRDcUxjNURMYjZpTWxDaGJIUGQ3bFRHaGNjMElIWE11dHRuSFR2VFZKR19CMHAtY2dXREQzbE1xWVNwZFdLUDZBeWh2ZGE2bDEteTgxX2ZPS3N2dngzSFQ3ckhJbHdTN3phMkdFRGd0M2VFekhzUUxMZXc0NUFCak10bmRKQ3FyUQ?oc=5\" target=\"_blank\">Navitas Semiconductor Stock Explodes 19% in Early Trading on AI Power Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times Australia</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQai1HTXdtMFRwZDk4c1VaMnBDZXlzc19idkF0bXRsV01XZnRDcUxjNURMYjZpTWxDaGJIUGQ3bFRHaGNjMElIWE11dHRuSFR2VFZKR19CMHAtY2dXREQzbE1xWVNwZFdLUDZBeWh2ZGE2bDEteTgxX2ZPS3N2dngzSFQ3ckhJbHdTN3phMkdFRGd0M2VFekhzUUxMZXc0NUFCak10bmRKQ3FyUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-21",
+          "headline": "Why Navitas Semiconductor Stock Is Suddenly Slipping - TipRanks",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TipRanks",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPck5PcVhNT1JhWHRUUm4tZU5XMDN1am1BVjFNY2dhZFJtQWJESTdqZ09CUG1rRlRHdG56LTNDWFV5NkhUbjM3OUphblcxWkJhMmxOUEZCYURJNHFkY3k5b0Q3Um9mdzUyai1TSFBvUVRudWgzTnhKeFVtbExJNWRja0RGdHRUTzRpNkdpdzN5dkF0NFhKMWc?oc=5\" target=\"_blank\">Why Navitas Semiconductor Stock Is Suddenly Slipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck5PcVhNT1JhWHRUUm4tZU5XMDN1am1BVjFNY2dhZFJtQWJESTdqZ09CUG1rRlRHdG56LTNDWFV5NkhUbjM3OUphblcxWkJhMmxOUEZCYURJNHFkY3k5b0Q3Um9mdzUyai1TSFBvUVRudWgzTnhKeFVtbExJNWRja0RGdHRUTzRpNkdpdzN5dkF0NFhKMWc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-20",
+          "headline": "Navitas Is One Misstep Away From A Sharp Re-Rating (NASDAQ:NVTS) - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVplZEx3Q2xXNkZrbjB2bmFWdG9zYTVTZXl0Q3Ftc2JlR3lHcEFSdkZZX3JXWDFkQkZxZEdDMmt3blJHN1I0MFNhV1VUUHRQNzdjdVFnd2trVWUzYkNZTWdFWDZzRktvVktHYUNsM0lBSzZCZEc4MzFfcjhkbUVCcjNXNGk1LXZJaWlrakxZekEtYWhDMmc?oc=5\" target=\"_blank\">Navitas Is One Misstep Away From A Sharp Re-Rating (NASDAQ:NVTS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVplZEx3Q2xXNkZrbjB2bmFWdG9zYTVTZXl0Q3Ftc2JlR3lHcEFSdkZZX3JXWDFkQkZxZEdDMmt3blJHN1I0MFNhV1VUUHRQNzdjdVFnd2trVWUzYkNZTWdFWDZzRktvVktHYUNsM0lBSzZCZEc4MzFfcjhkbUVCcjNXNGk1LXZJaWlrakxZekEtYWhDMmc?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 8,
+      "delta": 0.0010416666666666667,
+      "prior_mean": 0.0,
+      "recent_mean": 0.0010416666666666667
+    },
+    "technical": {
+      "atr14": 1.13298587054421,
+      "close": 15.33,
+      "close_vs_ema200_pct": 83.32403996776034,
+      "close_vs_ema20_pct": 43.75802966001338,
+      "close_vs_ema50_pct": 56.760717244140345,
+      "close_vs_hh20_pct": 14.232488822652758,
+      "ema20": 10.6637521648393,
+      "ema200": 8.36224207294142,
+      "ema50": 9.77923568448908,
+      "entry_ready": true,
+      "hh20_prev": 13.42,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 3.61149866589439
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "semiconductors",
+      "software"
+    ],
+    "industry": "Semiconductors",
+    "sector": "Technology",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 0 constructive, 0 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (13.42), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 3.61, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 13.42 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 14.23
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 3.61
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 43.76
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 56.76
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 83.32
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_bullish",
+    "score_0_to_100": 78
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-22",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-22_universe_3_US_Results.txt"
+    },
+    {
+      "published_at": "2026-04-22",
+      "publisher": "Stocktwits",
+      "title": "NVTS Stock Jumps Premarket: Retail Hype Builds, But Analysts Say Not So Fast - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON012LWxIUTdlaDhTb3AzempHVWl4RThGa3IzLVMwbTh3bkM0Nnk1LVFJTVdKZzdHeVJhOEhmTGdOcy14cU4tX0hNOTZuSVNSMjJHbUdIcmFucGlkVHZucEJ1Y214d3hBOHZzdmRMNE5GNXU0d2FkTkFib2pCM0ZsTUg5ZHdIU0VhaUlMWjB4VzYxeGU4ektEZGg2ZGFHd2ZEX0stRmwyNFQ1LUNkT1gyUzJsTGt1bkpCdVc2ZlBQbkNrM0ZoOUp6Y3NvSlZ3TzJYSUh4bg?oc=5"
+    },
+    {
+      "published_at": "2026-04-22",
+      "publisher": "Trefis",
+      "title": "Navitas Semiconductor Stock Surges 16% In A Single Day, Why You Shouldn Not Be Buying The Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOejNUeFlERnVQVGNUNFM4QmJncERhbDUwNmZDa2NEYkEyVG54NVhweFVHS3BxbWFNZDlZTjNzSk92RVZTbVB5bTlVRHBjNy1aSXgxRldER1JLUzZiSWhNcC12MkYxUHA0VW9Obk5mcFVSYmRITUxWbllNQnE1MkFHNjBydE9OMVhCbXhHYWtGbVllRzJzWUpwNjFwdTBYV1RRT2p3alByR1gtQm5hMkJZZ1ZZUVE4YjZsZ3pDTXA4UU9TYTNGc1lmQ3ptallSYVU0Y0t4SkZHc1Z2N05ZLV9mNTZYWTNxWkJKOW1GemhpSm9tek1uNlE?oc=5"
+    },
+    {
+      "published_at": "2026-04-22",
+      "publisher": "Insider Monkey",
+      "title": "Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2Q3cXF3YXFTQkFlcDUtenJ6c09VSFB4TUFQanhsMVY0b012SzdSeVc0N1pwQTREelA1aEp2UGZCbmVMMkZTUnQ3OFlzSnMtQTBndFNCaTE3ZmZhaTJyVDBEMEptQ01ia2YzMzRqTE8weGE3SEVDOFotNU5tNFJTV25Selc5OUdRMXNKQlRTTEVnbWl0SU5WN9IBmAFBVV95cUxOX2Q3cXF3YXFTQkFlcDUtenJ6c09VSFB4TUFQanhsMVY0b012SzdSeVc0N1pwQTREelA1aEp2UGZCbmVMMkZTUnQ3OFlzSnMtQTBndFNCaTE3ZmZhaTJyVDBEMEptQ01ia2YzMzRqTE8weGE3SEVDOFotNU5tNFJTV25Selc5OUdRMXNKQlRTTEVnbWl0SU5WNw?oc=5"
+    },
+    {
+      "published_at": "2026-04-22",
+      "publisher": "Yahoo Finance",
+      "title": "Navitas (NVTS) Climbs 16% Ahead of Q1 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjY1LTF2MXRJYkZsRXEzRl8waUgwUkwyclZESEhKTmk0eWdwVE5NTW1uTlBsdXFVNm5zdDEyR1VlMloxQ3VTempqcTctU3M3dUtiSDF2TnVQbjM1TnN6ZUFsT01uaWpwVm94N2ZUMm8tVExMSTNwUWhTakFvYllKVWszVFVlQTF2Z091d1ZWeUxxVWR1dk5fcg?oc=5"
+    },
+    {
+      "published_at": "2026-04-21",
+      "publisher": "MSN",
+      "title": "Why Did Navitas Semiconductor Stock Tumble 14% Pre-Market Today? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOSnZodlVPQ2NQekQyUFBPQTRxd0pEUmxlZFJNV0lMOEd3Wk9Wd3ZCNnZMaGdWeWs5djZ6S3VmUzZNS3ZWNDdGTVl3MXpwZ3h2V1MxNGpoWjFWRU4zakRXVUVFalpsWWFDY19jdnVkUFdiN25sOUJsYU9UdzNKX203MlFGVnVseWN3Y21RWXdOdUMwbEFwZnQ2NS1XeDlHcEJZWFhZRjJRdmVjT1hfWU5fZEJEUndtc2RtbFA0eVpqaFhjSFRPX1NYb0YwLTh6aUJLOWhrR3YyN3lRRFpNNjNRMnNGUF9hLXcxMnY2bDJYbnVFTjJ6NGtFcFJ3UGVFNWRFcF94bUdnRHBvdXRIT2RnLTY1eHBXcElMcC1DRmQ0YmE3dDJLbEpCSmhhRTc4Wm1MVVVtRTJyeEpVTE5nZkxQYVNpaEtjZ3ZMUzRHdmxn?oc=5"
+    },
+    {
+      "published_at": "2026-04-21",
+      "publisher": "The Motley Fool",
+      "title": "Why Navitas Semiconductor Rallied Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWVzVG82QXg2Y1NVSXFyOV81RTZoQ0RQN0lMZHRWcl96elhaeWhNdlVtdE9UNm55cnZ2ZkM2MWdRVnF4NGpzSUtmdll5MmxZcUllMHdqWW4wTWFyUTZPTzdUMkI0cHA1VFdhLTRJcDlhMm52U0ZCeTZzME00dWU2OVJVSklfUUNDTUE?oc=5"
+    },
+    {
+      "published_at": "2026-04-21",
+      "publisher": "Yahoo Finance",
+      "title": "Is Navitas Semiconductor (NVTS) the Best Up and Coming Semiconductor Stock to Buy? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVmWUVmc3JqUy04bmlBWWxzR1dmTGJLSWZJUmF5UnhRZngzSTl3QXFFb213ZjNPTHdiZ1FiSXFVNGxFbE9LLVJ3WEt0LUVyMjhRaU43RkNPX3d6VmhWTlUtWmpNV3h1d01NbU1RWkFuZkt4RzdsVEkwaHFxM2E2OVRiRjBDZGthOFhlS1BpVklWRU9qZ0VzcDZ5ZHIzdjJwdTE2OGNJaUh0TDg?oc=5"
+    }
+  ],
+  "summary": "NVTS scores 78/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "NVTS"
+}

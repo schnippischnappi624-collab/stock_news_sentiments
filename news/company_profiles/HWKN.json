@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-22T09:16:05.570801+00:00",
+  "industry": "Specialty Chemicals",
+  "long_name": "Hawkins, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "HWKN",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HWKN",
+  "sector": "Basic Materials",
+  "short_name": "Hawkins, Inc.",
+  "symbol": "HWKN"
+}
