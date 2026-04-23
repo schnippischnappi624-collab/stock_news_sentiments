@@ -1,0 +1,14 @@
+{
+  "country": "Netherlands",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-23T09:16:07.207456+00:00",
+  "industry": "Semiconductors",
+  "long_name": "STMicroelectronics N.V.",
+  "provider": "yfinance",
+  "query_symbol": "STM",
+  "quote_type": "EQUITY",
+  "requested_symbol": "STM",
+  "sector": "Technology",
+  "short_name": "STMicroelectronics N.V.",
+  "symbol": "STM"
+}

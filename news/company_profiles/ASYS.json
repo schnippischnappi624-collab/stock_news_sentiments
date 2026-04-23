@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-23T09:16:07.207456+00:00",
+  "industry": "Semiconductor Equipment & Materials",
+  "long_name": "Amtech Systems, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "ASYS",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ASYS",
+  "sector": "Technology",
+  "short_name": "Amtech Systems, Inc.",
+  "symbol": "ASYS"
+}

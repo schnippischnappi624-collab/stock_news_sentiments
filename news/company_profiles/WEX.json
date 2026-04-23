@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-23T09:16:07.207456+00:00",
+  "industry": "Software - Infrastructure",
+  "long_name": "WEX Inc.",
+  "provider": "yfinance",
+  "query_symbol": "WEX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "WEX",
+  "sector": "Technology",
+  "short_name": "WEX Inc.",
+  "symbol": "WEX"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-23T09:16:07.207456+00:00",
+  "industry": "Resorts & Casinos",
+  "long_name": "Monarch Casino & Resort, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "MCRI",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MCRI",
+  "sector": "Consumer Cyclical",
+  "short_name": "Monarch Casino & Resort, Inc.",
+  "symbol": "MCRI"
+}

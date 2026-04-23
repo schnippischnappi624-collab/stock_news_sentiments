@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-23T09:16:07.207456+00:00",
+  "industry": "Steel",
+  "long_name": "Reliance, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "RS",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RS",
+  "sector": "Basic Materials",
+  "short_name": "Reliance, Inc.",
+  "symbol": "RS"
+}

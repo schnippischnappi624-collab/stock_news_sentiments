@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-23T09:16:07.207456+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Hanmi Financial Corporation",
+  "provider": "yfinance",
+  "query_symbol": "HAFC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HAFC",
+  "sector": "Financial Services",
+  "short_name": "Hanmi Financial Corporation",
+  "symbol": "HAFC"
+}
