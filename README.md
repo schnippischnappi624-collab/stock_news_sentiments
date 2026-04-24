@@ -3,8 +3,8 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-04-23, 2026-04-24`
-- Symbols analyzed: `33`
+- Feed dates: `2026-04-24`
+- Symbols analyzed: `29`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -51,42 +51,42 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-04-23_us_2b04aacf`
-- Prior regional run: `2026-04-22_us_e37b58e5`
-- Feed dates: `2026-04-23`
-- Symbols analyzed: `19`
+- Run ID: `2026-04-24_us_985ea577`
+- Prior regional run: `2026-04-23_us_2b04aacf`
+- Feed dates: `2026-04-24`
+- Symbols analyzed: `15`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
-- Rows shown: `15` of `19`
+- Rows shown: `15` of `15`
 
 ### Entry Ready Near Trigger
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [POWI](<latest/us/analysis/markdown/POWI.md>) | Power Integrations Inc | $\color{#bc4c00}{\textsf{+3.21\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [HAFC](<latest/us/analysis/markdown/HAFC.md>) | Hanmi Financial Corporation | $\color{#bc4c00}{\textsf{+3.46\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 3 | [CRVS](<latest/us/analysis/markdown/CRVS.md>) | Corvus Pharmaceuticals Inc | $\color{#bc4c00}{\textsf{+3.30\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
-| 4 | [ASYS](<latest/us/analysis/markdown/ASYS.md>) | Amtech Systems Inc | $\color{#bc4c00}{\textsf{+3.39\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#2da44e}{\textsf{good(4)}}$ |
-| 5 | [IFNNY](<latest/us/analysis/markdown/IFNNY.md>) | Infineon Technologies AG ADR | $\color{#1a7f37}{\textsf{+0.80\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 1 | [VLY](<latest/us/analysis/markdown/VLY.md>) | Valley National Bancorp | $\color{#1a7f37}{\textsf{+0.51\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [AZZ](<latest/us/analysis/markdown/AZZ.md>) | AZZ Incorporated | $\color{#bc4c00}{\textsf{+4.70\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#9a6700}{\textsf{thin(2)}}$ |
 
 ### Entry Ready But Already Spiked
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [FCEL](<latest/us/analysis/markdown/FCEL.md>) | FuelCell Energy Inc | $\color{#cf222e}{\textsf{+14.09\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [HCSG](<latest/us/analysis/markdown/HCSG.md>) | Healthcare Services Group Inc | $\color{#cf222e}{\textsf{+14.97\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 3 | [INBX](<latest/us/analysis/markdown/INBX.md>) | Inhibrx Biosciences, Inc. | $\color{#cf222e}{\textsf{+28.03\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 4 | [MCRI](<latest/us/analysis/markdown/MCRI.md>) | Monarch Casino & Resort Inc | $\color{#cf222e}{\textsf{+11.06\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 1 | [TXN](<latest/us/analysis/markdown/TXN.md>) | Texas Instruments Incorporated | $\color{#cf222e}{\textsf{+18.19\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [WST](<latest/us/analysis/markdown/WST.md>) | West Pharmaceutical Services Inc | $\color{#cf222e}{\textsf{+10.14\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{84}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 3 | [UNP](<latest/us/analysis/markdown/UNP.md>) | Union Pacific Corporation | $\color{#cf222e}{\textsf{+5.92\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
 
 ### Candidates
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [WEX](<latest/us/analysis/markdown/WEX.md>) | Wex Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{71}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [SIRI](<latest/us/analysis/markdown/SIRI.md>) | Sirius XM Holding Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{67}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 3 | [ZWS](<latest/us/analysis/markdown/ZWS.md>) | Zurn Elkay Water Solutions Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 4 | [PBI](<latest/us/analysis/markdown/PBI.md>) | Pitney Bowes Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{64}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 5 | [RS](<latest/us/analysis/markdown/RS.md>) | Reliance Steel & Aluminum Co | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{63}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#2da44e}{\textsf{good(3)}}$ |
-| 6 | [TXN](<latest/us/analysis/markdown/TXN.md>) | Texas Instruments Incorporated | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 1 | [NEE](<latest/us/analysis/markdown/NEE.md>) | Nextera Energy Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [HXL](<latest/us/analysis/markdown/HXL.md>) | Hexcel Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 3 | [BA-PA](<latest/us/analysis/markdown/BA-PA.md>) | Boeing Co | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{62}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
+| 4 | [CX](<latest/us/analysis/markdown/CX.md>) | Cemex SAB de CV ADR | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(6)}}$ |
+| 5 | [DOV](<latest/us/analysis/markdown/DOV.md>) | Dover Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 6 | [ARMK](<latest/us/analysis/markdown/ARMK.md>) | Aramark Holdings | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{56}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 7 | [TECK](<latest/us/analysis/markdown/TECK.md>) | Teck Resources Ltd Class B | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{56}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#2da44e}{\textsf{good(3)}}$ |
+| 8 | [BYD](<latest/us/analysis/markdown/BYD.md>) | Boyd Gaming Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 9 | [BA-P-A](<latest/us/analysis/markdown/BA-P-A.md>) | BA-P-A | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 10 | [AIZ](<latest/us/analysis/markdown/AIZ.md>) | Assurant Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{42}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
 
 
 

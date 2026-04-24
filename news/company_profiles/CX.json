@@ -1,0 +1,14 @@
+{
+  "country": "Mexico",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-24T09:15:52.547612+00:00",
+  "industry": "Building Materials",
+  "long_name": "CEMEX, S.A.B. de C.V.",
+  "provider": "yfinance",
+  "query_symbol": "CX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CX",
+  "sector": "Basic Materials",
+  "short_name": "Cemex, S.A.B. de C.V. Sponsored",
+  "symbol": "CX"
+}

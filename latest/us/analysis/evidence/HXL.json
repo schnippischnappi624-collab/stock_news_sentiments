@@ -1,0 +1,961 @@
+{
+  "analysis_date": "2026-04-24",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 69,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-24: Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aeros - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-24: Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aerospace Demand Boosts Revenue and ... - Investing.com Canada."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-23: Hexcel (HXL) Reports Q1 2026 Earnings in Line with Expectations - GuruFocus."
+    },
+    {
+      "confidence": "low",
+      "point": "2026-04-24: Market theme to monitor (Middle East conflict / defense tailwind): Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post."
+    }
+  ],
+  "company_name": "Hexcel Corporation",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 6,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "How SaaSpocalypse fears actually bolstered SAP profits by over $150 million",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.034482758620689655,
+          "source": "marketwatch_topstories",
+          "summary": "For one software giant, the fear that artificial intelligence will render their products obsolete has a silver lining.",
+          "url": "https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "TikTokers Savannah and Cole LaBrant pull $5.4 million Nashville mansion off the market",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Users on the social media app began speculating the reasons the property was listed then removed just days later.",
+          "url": "https://www.marketwatch.com/story/tiktokers-savannah-and-cole-labrant-pull-5-4-million-nashville-mansion-off-the-market-5046862e?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [
+                "defense"
+              ],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Jerusalem Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9RazlLaGJENjNLVUZfczZWSFRNWW1oUW1lSV9aOGlFS0t5SzZYSXVpNDZId1lRbktPQm1SNDlvZEFLaGdRM0xkc0NLaS1oU3pHN05KbEZuVS1qSFlrSE1jTF9HOWdxdmNGbE9lNHlyRU9sYVdMd0ZfemlobjZkVVU?oc=5\" target=\"_blank\">Live Updates: Latest from Israel, Iran, and the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOTzB4SnNzYWFsVTlyVi16ZHRLc0h2YTBvS2FnamdjX0t3cGdTWmQ5R1h4MlpmM0lVSGY1WDNRMlBFc0dBZlRidW03eG52YzFQay1OQ3BjcV9GSTdUc2s1ZUg5WmZOSl9uNWR1dmJsYUFQOEIxUHJ3MkR0SHFnZG1LWTd0a1U1VXZLdnc4WUJfSWlMZzhNdXNzck12WE5BQVJZQjZ4eDZoUkpQbGxJTnZXSWNiMURmdnJaclZLTVB4RXlobGV2bkNCbzJ2aGZZLU9IcDJ6a1AtZFU0V2ZIMERNaEQ5YjFwV2RLSXZRQV9sNFdkT1JDYVYxM3dYS0ladkZHVGliT0tRb1NIbnlCRERnOU9oWm9PS213MHVwZw?oc=5\" target=\"_blank\">Hezbollah fires rockets at northern Israel; talks resume between Israel, Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2pOeVhPQklIWDE0RVU4YkZ1SjhhdFk3SEJBa0RENldTUmtBRk9qT3FrWHg0NG9MUVpSTFlWYlo0RWI1Tnh0Z0ZNMDFqT0Vpa2t6X29jVmllREJlYnd5MmFUMElWX3FBTlhqUEMxc2VsSXJHR08xNldrRWVxZWFpaldLeVl3X2tKNkFWTmROTnhpTlN5bGFnWVpRODUzMmFpanBoYmdDZw?oc=5\" target=\"_blank\">Israeli military says launches from Lebanon intercepted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFZuNmdZX2pLM0lyZUwzLUVFQkhtRlBMc3B6VUtDN0lUOWxNXzBWZHJrYmZtRWtoa1JiODNKdXZ0Q1dIRGcwTkw1UmlrYjVGZDU3YlpZWllaRHJQQ05kQU8xZkZTdGlWT2s5MmxNbDJVNXZVZk5ES0tjTGFyTmpVSmdKSUFSVmRoMVFra3pTcHAyWWJj?oc=5\" target=\"_blank\">Hundreds of Hezbollah terrorists killed in 24 hours before Israel-Lebanon ceasefire, IDF reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWhONWxHdmJEV0lXMlNTeU13YTFjSG5GdTNtODVxWDdCcnE2WEJWZk9YMzdMcENaSjNIaVpDakJoWmpOUkdBUWlhZHVybG5QSXhLOG5sNHNHTG92RGZhSUlqTDJKOXg3MGRIOXVnUFIydHBMOXFhV1h4dkR5bHpOMjVyT0VuQll3ZnZmQ1lqVm8wbl90VkduOGdRT1VURy0tdll1eHdQUFNWWlQzdG5BUlVQbjVjWWcwdG1TVVZ1ekFacm5wVjNLLWFuRQ?oc=5\" target=\"_blank\">Hezbollah claims it targeted IDF bulldozer in south Lebanon demolishing homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RazlLaGJENjNLVUZfczZWSFRNWW1oUW1lSV9aOGlFS0t5SzZYSXVpNDZId1lRbktPQm1SNDlvZEFLaGdRM0xkc0NLaS1oU3pHN05KbEZuVS1qSFlrSE1jTF9HOWdxdmNGbE9lNHlyRU9sYVdMd0ZfemlobjZkVVU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan \u2014 and his clumsy attempt to cover it up",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "A soldier made over $400,000 profiting from inside information on the U.S. capture of Venezuelan leader Nicolas Maduro \u2014 and made a clumsy attempt to cover it up, according to an indictment.",
+          "url": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-04-24",
+          "headline": "China\u2019s AI upstart DeepSeek drops new model. Will it make waves like last year? - CNN",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNN",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE55Y1R1d1JabXdTbW9oWVZ1bFdUckNlTFNfcDV6dDl0VHUyc1ZmSHd5dmZDN05vamtkb09tVEVVRV9jcWdtZ0FqNVFKV1BzSXhJOG5rMUNkencwUjU3STRWY0N4ZXAxeWRyY2w3NXFFRDJwRlJp?oc=5\" target=\"_blank\">China\u2019s AI upstart DeepSeek drops new model. Will it make waves like last year?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlBaam5rSExHaXJZZEM3WjgydGtwVjJpNjFBY2lkOElwbUEzZS1hSDZVRW9tbVFCdFlfck5iNGJYc21mSTBSbVB1UTREbExCUEFqdDlmZjZiRjh6eVlvTUotTTlPNUcxdUJZWWNUemhGQXVqVmtvdUJZWGJ5V3pLUzNQYlIzWnIzcnFmNFZMbkJxTVZ0Q0xaRzZDRkIzdzZHZmlkMGpZdml3enNNX010dW5B?oc=5\" target=\"_blank\">DeepSeek Unveils Flagship AI Model a Year After Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUJEZTB1RUpqVU9rWDlsM2ljckdaZ0N3Q1RLWl9OWTZZMkw5U0VwNjVzcldBVnpJU1ZIM2tBbjVzUkdDMkhVdVhFc1B2dlE1N3F4VHRNUE94SHlTWF9vbHlKWlNBUmNSTWtKUWJRa0VwRzJHQnlCX2N2Q05ZMVlsdE96WUxUNFdEQXFFU2t2WmU0MTBwTXBaTG1SdFpBVktNWllKSURXTkZDSUI5TGlWZjJuay3SAboBQVVfeXFMT1FoTmp4NHJ6S2tjWlhnLWZ1dzNkd1BLa2dSQVNlLWFMQ1FqMmZzSDZrTzM0aEVVcWEtTEZoTFgwdXA0QVZ2VkFidGdkdUVYMGY2SWN3NlpGbi03Rll1Y2hwTWJ6bk42b0NwRHFadnh2WVgxYXdMeTZrV2JnNFR6eGRCd01uUmE0RHBLa2R3SHFuZFRkQmdnbU0xbngzZXhydVZLd0U0bV80alZpUnFvMWNTZncwVEZsSGJ3?oc=5\" target=\"_blank\">China\u2019s DeepSeek unveils latest models a year after upending global tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPd3BGX1RVY2NmcVZoZnpqQ0hDTmdhem9nVE5wLWlKN2lIYzNuVjJtUjdqeU9oWWIxVjY4WG1BU0ctMm5VNURWZmhnU05IQTVnakRJUFJSeHI5dFB0WThCb1h1Q2Fnb3k5aUwyTUd6NEZ3bU1LRWs5OHZvTi1MQlJpVzNMbnRzcDd6UkZxdFlsX0FycjU5SVc4ONIBngFBVV95cUxQWWFDRGp5MGRYM2FYZ0lvN0Y5cTVOSm56QmZQeENWTzdUQzVXOVZIQjVZZy1OcnJLeEFzSklFVEpWdWV6d05POWktN2JIbkJzQnhSZDdtRm1VQzBEbjR3ZjNyQ0VjSkVpenFrWGM5MnFWdndlVTg5OGgwMUpJa0RONnF2em9hdGhycjNGdmpmZHlQSEdudTMyRm1mdjVQUQ?oc=5\" target=\"_blank\">China's DeepSeek releases preview of long-awaited V4 model as AI race intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5\" target=\"_blank\">China's AI darling DeepSeek previews new model adapted for Huawei chip technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55Y1R1d1JabXdTbW9oWVZ1bFdUckNlTFNfcDV6dDl0VHUyc1ZmSHd5dmZDN05vamtkb09tVEVVRV9jcWdtZ0FqNVFKV1BzSXhJOG5rMUNkencwUjU3STRWY0N4ZXAxeWRyY2w3NXFFRDJwRlJp?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Pentagon email floats 'punishing' NATO allies, suspending Spain - The Jerusalem Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [
+                "defense"
+              ],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Jerusalem Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYbDlaT0JMYXVOTmdmRjdHMU9qMGE5SXFWXzQ5bUZQMkM3ZnZTTzhJajV4aVA4T2hHc1hKRC0xdmxSb0ZwRlg3VzVmb0ZoSlZJVzM1VDlCdU9naGdULTBF?oc=5\" target=\"_blank\">Pentagon email floats 'punishing' NATO allies, suspending Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5\" target=\"_blank\">Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUG5EaWY1Y0liNjBOX1F5N3NSWjhfTnFyNGw3cjNHeFBjVkwzZ2NYYXZETmVIZEtWWlVFMXFzOW5vMEh6NTh1V3dyY3dTSnFqV042MXlYRmp6eHVtcFdBYldSWUNMNkN6OWJ1YzZGMGhhVU10UkEzWFAtUzNQVWZSYTZXcjdVcmFsZEdyOTl3?oc=5\" target=\"_blank\">Trump weighs consequences for NATO allies on \u2018naughty\u2019 list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWU4U01ib2tXRG9jdGo5NFU4WWRGN0U4NkpxVjlJc1ZFdFRYTDV4Zm05LUZMbnJ2SENUVzc4RXg2V2ZtMkZOUTdkUl82YUlzMllLVDVRMmhwNEdIbFprYWxyWDlDTU4xdVFGTjN6MEdRS05KUkNVTWNzVDEtcGZZZFRYODdSRndCQzRjRWNVUGZIa2ZnUU5ubmdJMFU2M011bTFXUUlLd1c4aHF3aE9BNnVBRFM?oc=5\" target=\"_blank\">Sanchez Pledges Cooperation After Report of US Threat Over NATO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkxjckc5MU5vaFdBT0FFUS1lZ2Z3NUxFTVFyd2J5b3VacUhvOW91OGJ2MmRLa24zNHFFUGNXZDVrU01VQjRITWdWdXVKSTRpUkNwaTZvYWFYWnpGNnJqblVsRGZkNEF1bUhpOFZJaXV0M2Z4em9KSzJ0aWk1SVB1cVRqSmVGcEQ4ZnFtanBLaFRabVVvOGkyb21oeG0yM1h2ZHpzWnN3?oc=5\" target=\"_blank\">US threatens to review UK\u2019s Falklands claim over Iran war disagreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYbDlaT0JMYXVOTmdmRjdHMU9qMGE5SXFWXzQ5bUZQMkM3ZnZTTzhJajV4aVA4T2hHc1hKRC0xdmxSb0ZwRlg3VzVmb0ZoSlZJVzM1VDlCdU9naGdULTBF?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Europe Mulls What Mutual Defense Looks Like Outside NATO - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHY0aERJalYybzRnUXR5d0JOYXFpdEdMS2VwQV9tQktpcS00d3FqTkFyaGhfakJReVhyUUVvbnJLSkxsRWgyRExRN1Y0REUybVFwZEQtenF0Zm5qQkx2d242NmlqNmdSZzhzX290TlpLVHg2blBoRWJDZ2lFNzRkeDlUQWJLa01V?oc=5\" target=\"_blank\">Europe Mulls What Mutual Defense Looks Like Outside NATO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1KWWs4dUhVWlNuUERQVlZMenNLN203VnduT0xoRHdEZzVucjk0Mml6TmlHNFdDaV9ZZWpUUktWcEVRYVhOZjFEelByVFQ3LUdtN3VkaENYdEZ5VS1BbVJaYUhKWHV4ZmpsVFgyeVhOUnV1QnY0VlhtZWItdmpYSEJlNmtsNEdGMWViZ29UNmgzVjhaNjUxaklrNA?oc=5\" target=\"_blank\">European Union ramps up crisis testing, convinced that Trump's security priorities lie elsewhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObVJvNFJzdV8xVTNpZ1EtNG5HYXlJYWl5UE92enhpTzRrWG9uM0h2enBzbUlsNENUMldKOWdYV1BRUlNHUktaY1g0Zms5bGJkUUxOamNqbTdqb3JBWDlCdk1kMHBwWk55ZC11Y1ZRWFRBSFp0bzFqSW9LNWZDenMxZlJQYjVrR2pTYUxVZUtmMFV4UmVuU2pFaVRxUTN6VW1UQV9NZmlsSFhFVTFOcmFv?oc=5\" target=\"_blank\">Trump attacks against NATO allies 'painful', says former NATO chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkVTQUl1YlUxdHNvV0pkQUJ0ZkwzRC1sWjhhYWg0ZkZaSGFjLUhlSWxzdVR6VVVxUmp2U2ZMTkRrZExHbjNiSXhfcTZHdGt0VE01SjRJekR1WVR6QXJmUVp5T3BOWHpLWjdpNDhZdVFSazhXSkpId3NseTFmY0pyT0hNUC0ydGpwbVhKWU9GbGF6bDBxWlFsUDAxVGMycjRocHlIZUVvNUdzLWpJbW92VXhJM0ZNRzNmX1BZYUp3?oc=5\" target=\"_blank\">EU leaders to discuss mutual assistance pact amid NATO doubts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBQandTb0tJY1l6ZlJfeDRmWHQ5eE1lbXJxZWR6M0xWVDJWc3dremdBQWpmUkIzTWlOWkpvWGV3YzBUM09Ya1I3R2V1ODYyQVowazh5SVdkX0dyVl8xWWhBWTM1VzhYSmtSWTd0b0RlRkpuY1E?oc=5\" target=\"_blank\">Exclusive | Europe Is Accelerating a NATO Fallback Plan in Case Trump Pulls Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHY0aERJalYybzRnUXR5d0JOYXFpdEdMS2VwQV9tQktpcS00d3FqTkFyaGhfakJReVhyUUVvbnJLSkxsRWgyRExRN1Y0REUybVFwZEQtenF0Zm5qQkx2d242NmlqNmdSZzhzX290TlpLVHg2blBoRWJDZ2lFNzRkeDlUQWJLa01V?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "How Roman Sailors Repaired Ships on the Fly Far From Home - Gizmodo",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Gizmodo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFJYZTMzc1pDVl9RbHdaUF80RlhmOGpSRmQ3a0d4OFQyeW1HZXREWVVUdzhSclp3b3FWWjNKZVVkRkU5c0xZTlBTb2ZvTmNWRWRoQU9qdzV1MzZ2Z2ZlcGw3aEtVUmk3dkJyUHBrX0VUMmh1cV9wdGh4RDhFSmw1Q2x3LVZHakJCTnVQQThJRlpvZw?oc=5\" target=\"_blank\">How Roman Sailors Repaired Ships on the Fly Far From Home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaktmaEp2TGN1bkNRV0VjbjVtbmJwU3dwLW9LdXpZaXRyX3Y2VWd2Z2oyZjBFaVI2bDNncDBIN2pHajNfYkFnWVJSTmozYUR1R1dseVlUR3RjQVlRbTllWGw3ek5WV2M2Vjk2NHp1RTQwbEs5TDRnU2VnVFFYZ1RfQkR0cGt3dnozSzhYWHdEcXYzWkVlVVphSGVqVHU?oc=5\" target=\"_blank\">Roman-Era Wreck Reveals How Ships Were Built to Last 2,000 Years Ago</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ScienceAlert</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBLQmpqaVVzYVNhc2N2VGhMeW85S2hUcVJfaEhGazQ2aWViWTVkQXQ0NEhLeFV5TkFjT2FfZHFUWWNLMVdPVjZmQU9sRUlBbHNUeDNsNWl4Vlg4dFhiazNpRk1kQm1tTmJqMkZuRTd1d2VKQQ?oc=5\" target=\"_blank\">This 2,200-year-old Roman wreck hid a repair story that rewrites how ancient ships survived long voyages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1lJOUtINENybXdkV3FVNV9PVWtGNUxZOUlyVmwwblhXbWxLdkZKN24tYUluejhFVEtqb3gwOUJ3VTFoNlBGY29DV01jMmswU2ozalloazZqd1hvaV9OT2E2Y3hhaG0yV0ZjQnpvLTFFQkZ3Z0F0MnJLcUd3dmZkdkpvYjgyNWlVQWw3dk5SWmcwNWVpOHRHTmJLeEpBVnZXVFJJWE9zakhGd3FieW1IVVF3MnpRTnVWOVhNNDE4QU1RRWc?oc=5\" target=\"_blank\">Analysis of Roman shipwreck\u2019s coatings tells story of its time on the seas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chemistry World</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUt6c2ptWjg5NmkyZWFwZGhTNFZyOXF4Vlk5eVI4ZGt1QzU3dlF6cGFWNmVTdTYzVUt4cjRjN2Q1N3BBZnpETUo4S0ItdFZXZmQwQnZjaml4bFlaNTE5by04LTlqM3VrRkp2Q1J4OTR4OGhEY0Z3Znp6OHd3MGh2QzFXdmJJUHBxd1FuOHZGNVdYeGwzdmdhSFFsUTY0UnpybGtQenlzbkRaYVNxRnZDTA?oc=5\" target=\"_blank\">Adriatic shipwreck shows signs of waterproofing and repair with novel materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courthouse News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFJYZTMzc1pDVl9RbHdaUF80RlhmOGpSRmQ3a0d4OFQyeW1HZXREWVVUdzhSclp3b3FWWjNKZVVkRkU5c0xZTlBTb2ZvTmNWRWRoQU9qdzV1MzZ2Z2ZlcGw3aEtVUmk3dkJyUHBrX0VUMmh1cV9wdGh4RDhFSmw1Q2x3LVZHakJCTnVQQThJRlpvZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Air travel prices likely to get worse in coming weeks, Chevron CEO says - CBS News",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [
+                "defense"
+              ],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CBS News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWU4xbjlWcnYtSDNBa2NGRFN0Zkk5OFVlMmV4c1dPdjU4Q1g0Y3RIR21wQkRJVjQ4T2VZMXlnTnNaNTJzMjF6ZlVLd09vazhUdW11ajI3YjZDR1FmWTBpdW85NGFfX2VQZEtfMmtzc3pSb2dnU29rU3RGaDFTS1pCN2JEb2JjX2tPNllzUC1Bdmc2WUQxemd6X2ZR0gGfAUFVX3lxTE05THc4SmdHRmJhMzIteWFfcDlXV1pQUndxQV9CTWthcmZtVHFRUFZJdmZJRF9yREdyTXFrcG9WZUQySGFuQ0c1RkM2MEZKODA4Y3pBNExsWThVN21kdnJlemQydG5od1E0NzlUS1VydWcydTNyQmhESTRQazhQZnNQemdTeDMxRU1mMER4c2d5dzFHbURoUXlMdGhmRGtHRQ?oc=5\" target=\"_blank\">Air travel prices likely to get worse in coming weeks, Chevron CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE00SkhrWENGYi1KNGt1MVlGX0gwX3kyTjYwcVptNEhrZ2gxaDFQZFVrWVFlbHNJOVIyaFJSNkNBZ09HWVhyMGdTUkx0R20wTHpuNnl5T05EQ3o4MUZBTHZnQkhiajZlbVplS2lxT21yY25NeXQ5?oc=5\" target=\"_blank\">Airlines are about to run out of jet fuel because of the Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcDVfNFBFeVJRakl4bVpudk56cUh5ajBtUmhaVmxYZVh6NG5QR3dGSGl0Q3VkVzVKRlJOaWY0THJXeS1OX24yUjdZWGZVYTNLVDUzQXZ3Mi1pei16REo4SmloT3JDTW1qYlNuTkVyOG0yLVh6M2NOOG02OF9ySDNoRjdoRHhJR09fUFJVUFRRODFoX0djSThNQjNzVVRpcTlkTzBERDRudzFlYmZwTlJyR2pITzB0eG1ka3d6QU5yY2NVRVRPM3Y5Rm9KM0VnUW0zeTUwdGdn?oc=5\" target=\"_blank\">All the airlines cancelling flights and adding extra charges amid jet fuel crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTVCNkI5ekc4UUFpY1hhMVNiNkIwaTJyb2tMNWZDbll0UmhBZDlMb0lKa3l2TkdXVGxJbGp0UW54TS0taDNPM0ZGUGNJT2JjbFlTNE1aQ0JCNlZyYkg2M01PRURoLWtFZ2JIYlhBT2s3MTlpcEh1bVIwdnhlWjdRbFlDaEQ0Y3Y4cW1wSHlHOVJ5b00?oc=5\" target=\"_blank\">Jet Fuel Is Running Out in Europe. Why Your Summer Travel Plans Are at Risk.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDM3dW54c3BTOE90bW05TzMzRDR6LXVVOHpHYWdlNW9hRWE2R2Y1ZGNaNGNhVmZqcWRnMmxYY2pja1RvNzNsbElibTZTeVpfa2p3dUJvb29VMkhPRDM5TGtvTFluUUU4TnJULUFhY2JCZFVtbjZXUW9Xakhkd3h1X2dHZTZGcXpzOWfSAY8BQVVfeXFMTWY0QkZQYUdZYURQSXNmUHhSM045a1FXcGxLUkhiZWJ4aVMwZ0ZOTG1TRzVpSmlHcnhFWGNlMHNoOFR2Z1g3LTlVclNDMTFYQ21uMGxBRnlfR3ZfM0JfcE1MT0FHWTNpaGYxUmpKSjA0V1NlRDhpdlYtR0hhaUtrZjlsOURFVkNhRnlrRVp5dEE?oc=5\" target=\"_blank\">Europe's summer travel is on the line as airlines' jet fuel supply dwindles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWU4xbjlWcnYtSDNBa2NGRFN0Zkk5OFVlMmV4c1dPdjU4Q1g0Y3RIR21wQkRJVjQ4T2VZMXlnTnNaNTJzMjF6ZlVLd09vazhUdW11ajI3YjZDR1FmWTBpdW85NGFfX2VQZEtfMmtzc3pSb2dnU29rU3RGaDFTS1pCN2JEb2JjX2tPNllzUC1Bdmc2WUQxemd6X2ZR0gGfAUFVX3lxTE05THc4SmdHRmJhMzIteWFfcDlXV1pQUndxQV9CTWthcmZtVHFRUFZJdmZJRF9yREdyTXFrcG9WZUQySGFuQ0c1RkM2MEZKODA4Y3pBNExsWThVN21kdnJlemQydG5od1E0NzlUS1VydWcydTNyQmhESTRQazhQZnNQemdTeDMxRU1mMER4c2d5dzFHbURoUXlMdGhmRGtHRQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Asia stocks fall as tech losses, oil surge weigh; Japan CPI in focus - Investing.com",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [
+                "defense"
+              ],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcW1McTAtYlRySzZ1bHpfcW9FbWhvX25maEl0YnVBY0hWOHlJS0UxWFdBcjgydUI3Vk51YWtyVWVILU51UklhWHR3UmxoQllrVHF6RHFoYTM5bUZISVJUUWEza2hOZmJBX3lFYjAxUkx5WTFZSzNINXN2U0lodHJUdEgwSFhfVWVINUJOOHcwRUxRV3hSNlFDMG1kelFaeDZpWVFPNDdhNkhmaFk5Wjloa09ocF9KdUljWkpybGJtQjg?oc=5\" target=\"_blank\">Asia stocks fall as tech losses, oil surge weigh; Japan CPI in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHNBMHVSM2tubWlhOGh6b0VCdGlKVUtDMVpOSDAzcDlUYno1U3Z0c3o0eFZmNDFqM0NGaHhxaHZvMy0wWkJ3V2FPeG5IM283Uy13RG10UDBRQ29kLWpEQlp6T3lxNUpEVGRfR3pnTFl3bHdEUU1CMkhxWlVQbTNmQTZNemtEdlZWWFM1T0lPbWdjMHMtUEdpTTcwVlFBMzdY0gGmAUFVX3lxTE9rbjZvNlpLRzRkeHNIUTI3MzFfUzJsX1Jnel8tQVN4MDV6NnVKaHRqcWswR2NtSXVPZEd2Z1JVX0ZEMW5EQVJRclZyQmNNUTNUOENDbTBVSjlyXzQyb3FMeWUzbGhKcGxvMGZGQnl2QWs5cVVPRElJU0xURVplRWJFallCN2xudUw4TUtnS3RPSXFrdWFWR2k4TTJQQ01Cb3pEd0trRmc?oc=5\" target=\"_blank\">Asia markets mostly end lower as U.S. reportedly intercepts Iranian oil tankers, rattling fragile ceasefire optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPem1LV0dCZlZhV1g3NExPcG9zV3hVbjBoRnBWVk5oMm9pUktkX1RmRzExTjNEVVdRUHFjMV9nY2EyODlxOXJndUJiZHdEU003OWZ3emtvR0NHODEwVk5MYk5QUUFzSkVXOHQyNnc2WWg1TUxiSHBWRFp6WXBBSVhWLTMzRWw4dkV0dENlamFzSHI0QQ?oc=5\" target=\"_blank\">Asian stocks are mixed as the Iran war standoff pushes oil prices higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFQzejRVS0JBLS1QV2FpS0JJRkdjbWJKbk41d1BDcUp4bWxsM3FvNXJVbDF4OWp1UjZNVVdEVzJKS1pRWWpyWlZsYjJfTUt3M09SS2xOREZUWW96c2NVd2JTQTVnNEI5YlE5ZUZLUmRuWHcwbEl0bWdWMDdfRDY2U19fcndNRGtsdFZoS0s2UmZ3WEZoa1ZfRmhfSUppZ19ydWcwWDRnWmpzTWo3SHFCelZzaUhxM19nMlHSAb8BQVVfeXFMTjhoUFUzOTJDUW5WMC1KQWlNMVN6SHkxemNvcy1aY1EyRHYxMTBfdktfdzB5a1hvdXFRSjN0RmNKWnFVZ08wUzhuMksyaC15aUNDY2FZSEl0d0ZiYlhHeFItbUJjR3RYN0w2ZVZsendDYlI1d0lydDJ3SDNuY1JRNm5CVy1rbEh5WXF4dF8yQzY3NHExS0VfTi1aWkdBYWlIQ1g4dmo2Y2ViUHA1OU1aY0k2aVZFVkRCdkxGejMyRjQ?oc=5\" target=\"_blank\">US stocks fall on a shaky Wall Street as Brent oil briefly barrels above $107</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS10 ABC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ3oxalhMTHBXOEFsemhORVptMHlXTHpfSmw5LWZFbURZdzdtZlFWU3pabjJqTEM4dVFmZWltRUNIVmJmZE9EMlozN1paYzQtT3lmcDZuaHJIYm92WjJzZW83ME1sdU1QdUluYnA1VWR4Tnd2MjBUQkdidm1mQXRsSzVuTTFjM0k1OC1GMFgxZWw5NkFHRXpwQ21aZHo3Rjh3TmprMjhWZHhfQkZ1cW4yWk9udmdrb2RLTnV0UFI5Y2YwVVR2cVN4dVhiWlJvSEQ4VmpJYkdVQmlwOEcyaWxyaHVCSjZ0Vmt5Mkg4Vg?oc=5\" target=\"_blank\">Stocks retreat and oil tops $100 despite fresh records on Wall St</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eagle-Tribune</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcW1McTAtYlRySzZ1bHpfcW9FbWhvX25maEl0YnVBY0hWOHlJS0UxWFdBcjgydUI3Vk51YWtyVWVILU51UklhWHR3UmxoQllrVHF6RHFoYTM5bUZISVJUUWEza2hOZmJBX3lFYjAxUkx5WTFZSzNINXN2U0lodHJUdEgwSFhfVWVINUJOOHcwRUxRV3hSNlFDMG1kelFaeDZpWVFPNDdhNkhmaFk5Wjloa09ocF9KdUljWkpybGJtQjg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Behind Cursor\u2019s Deal With SpaceX, Anthropic and Compute Costs Loomed Large - The Information",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.010526315789473684,
+          "source": "The Information",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjdlSlRtZkZNRExLcjRKN3pOMmc5VE1VRkpwdzZJVGd0OC1qT1REUGQ1ejNnRVFzb3k1TUVQcDBtaVZkbEFCNnpwd045S3I1YkRiLVgxSFE3RnppZ1h0ODBLLWZWSnBGdXMzTDVzQWY5YWxjbGV2NEZfbTJScklmRndfem8zMkJNdld5allfUUhBdm96Qjl1dHhjSGFVS08yZGowcWFn?oc=5\" target=\"_blank\">Behind Cursor\u2019s Deal With SpaceX, Anthropic and Compute Costs Loomed Large</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGVEc0RSN2E3cG9EenZaQzl2bVJZaUNTNUVqS0ZkeXFLcVZQdEFBMF9XVmdpMjFwTGhmQjdiRUZGMWZGc004N1I2eEx6Z3czZTBNeUY3d2dzdF9XY3lPbng5dDA4X2paOVg5X09tdFFtTlZ2M1NJSHB2UERVMnJWR2lFWVJycDVsX3VtRm80S3dvbUhJMGZnWnhqY29PVVN2cUFVU2k1T3VLUzdTWlJCcXQ4cVE?oc=5\" target=\"_blank\">Cursor\u2019s 25-year-old CEO is a former Google intern who just inked a $60 billion deal with SpaceX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWG8xaXdSZHRoeldrbUZhVDFPd1oxWWZ4UU9aVTQxa1BLejVtLTk0UFFqeHZkbnJ3NWdPZjBmQ2oyRkRxc0VvM2R5WUtxMFdaY0g4UDVRdEgtNkxrYU53WTFwb0ZyLUdNOHhBSmNiWWpLcEpiZm91RWdqSlhOWVJIdDhoa1dqekY2OTdaaVBqUQ?oc=5\" target=\"_blank\">What smart people are saying about SpaceX's $60 billion deal with Cursor: 'The Hunger Games have just begun'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOckRjaTdPS1Q5WUxJcXloV0lldG9JcG44N1BqYmM4c3pnWnBtMXhDeVhRN212UGQzQXZ5M2NrN21vRUZwemNNMEtUdUNCWjNzaXdvM1ZxOEs2c1NSYVREZXQ5blcwOGhkQUpWZk9zNFV1UTlUQlVNdDRvYnZ6ZlZZdk5OazY1NUJpNTY2V2RaT0xTZTFqNWRQMThjc2g4ZDBOZUcw0gGoAUFVX3lxTE1aaTk0VTAyd3hDbUFCc0ZZR2IwSko4c19hWk15RXJoeTdxU1o3QTk1Y0V4S2hLdWZpYVFSdTJKeTlmR256c3kyUzZtS0JHSHRUQUwyQkZrakhpNmRXUC11RXo2X2xsUzEtRHkzZHBNeFEzX0VhTk9wRGVnOThyWXNxdmk0MVFlVGtKaHdEdzk3SjM4UnZpNDRFNW5ERC0ySGpZUlBhUk9BNg?oc=5\" target=\"_blank\">Microsoft looked at buying Cursor before SpaceX deal, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2lRakQ2TnVPRUZwVGF1OGpCd1N4Y3RoVGsxcTdWRVBIX0VTOXlQMjlTVGtKa0FfS2pUZWJiVUEzaThVcWc4cUVFSW5xeGlpNmJ1bENRbzVXUDlzaUJIaVE2U20xSG1RdFZCbDd2Rk9FLWYwazhMWVk2UUFfRUZpV0RFZElmYlRyNkZhMGdhN2NPQllhWDQ3Z0UtTXNWdlBzSzNYWEp1SGJhNjBRQllXanpB?oc=5\" target=\"_blank\">Musk's $60 Billion Bet on Cursor Comes as xAI Falls Behind on Coding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjdlSlRtZkZNRExLcjRKN3pOMmc5VE1VRkpwdzZJVGd0OC1qT1REUGQ1ejNnRVFzb3k1TUVQcDBtaVZkbEFCNnpwd045S3I1YkRiLVgxSFE3RnppZ1h0ODBLLWZWSnBGdXMzTDVzQWY5YWxjbGV2NEZfbTJScklmRndfem8zMkJNdld5allfUUhBdm96Qjl1dHhjSGFVS08yZGowcWFn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Iran Update Special Report, April 23, 2026 - Institute for the Study of War",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "mixed",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [
+                "defense"
+              ],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Institute for the Study of War",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1dnZ2NNWjFpbEQxSnFqSVBJLUdjZTdNTlhaNUlPSm9Oc2lpTzhTbDI5Wk5MZ01MRFl5WldmMTRCRl9IOWRHLUs3SjR1SEF3bU5PbXlzaG53VXRkcVNCdW91WXo5ZkpiMHplZENwNC16dGJEbVpGSE0wc3VmVTJEa3VsMHdzM0RSQjhLY1NQam1LbHYxQnc?oc=5\" target=\"_blank\">Iran Update Special Report, April 23, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjVPVVRCbzI3UDlkVjBBOVNRNDlnd3NZbGlSZDA2aGlHUGV5V2dwanc3WVgtcG42ZmV0ZFZRaVNjWUVUNUx0NEJzaTJyazcyd3p4OGExcGtReWVFUW5vN2ZjU1g0dTJtdnA1N3VBLUhBUHdDRTZ4UWZfZThrQ2RqS1lKdUFpYWRfeUozZE1tT0toQVFEdVhyeGMyYVJSRjZPMkhwTnZKYzJnRUh5eHUtWWZvaU04VzNL?oc=5\" target=\"_blank\">Iran Says It\u2019s Collecting Tolls for Ships Transiting Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Democracy Now!</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbG9WazIzUnJnM0dGamR1NXVFSzhTSWZDOWkwOVUyVDhjeHNEelJTU1VtNUcxdGN4VWRtMGRZdmNkQUpPalQ4YWg3Y2RHdDJsaDM1VHdHaDdrTllXLWI0TTlnVmZaNFpfbU1FSHQ0NTdLUlpMRVFMT0hjdmxHdUtWX1hTZ1JvWkU?oc=5\" target=\"_blank\">The World and Everything in It: April 23, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wng.org</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGw5dDVPOG5QeHhVRnBvR2ZNNWM2R2xqUXc0N0JXSWZETzFPQ1dZWlVuYXJtREVuamU0ZThFQUs3RHdrTkNhRngtaElOTWJhNkpESGRvaTlHV051RjJ1bC1kNkNNQUJnZlg2RFdSOWdiTVd3VHNrdEYwaGl6aHVyX0h3ek9DM3NONTlxU0hpZ0VpZ0N6RkdXOTNKYjRsZnJ5R0haTjhVSHpxRld4ZDI4bHl5Q2EzYVd4OVNlR2k4bkhQZVZiMWo5b1JFbw?oc=5\" target=\"_blank\">National and International News in Focus: April 23</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNU0p1dmVXUUQwRkpuTVFKalNnQmN4bGNIcFYydUhabnAzZXNtUzF1Zk9mYWJvN2d5bkRmam1aOFI4Mld6Y2FqWS1UbzNiZ1p2NWs5d0hsU2Nta3B1Q2I0R2FnWF9VdGM0VDY2YURwOXpWdw?oc=5\" target=\"_blank\">Early Edition: April 23, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Just Security</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1dnZ2NNWjFpbEQxSnFqSVBJLUdjZTdNTlhaNUlPSm9Oc2lpTzhTbDI5Wk5MZ01MRFl5WldmMTRCRl9IOWRHLUs3SjR1SEF3bU5PbXlzaG53VXRkcVNCdW91WXo5ZkpiMHplZENwNC16dGJEbVpGSE0wc3VmVTJEa3VsMHdzM0RSQjhLY1NQam1LbHYxQnc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-24",
+          "headline": "Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our 'paranoid' roots - Fortune",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.021505376344086023,
+          "source": "Fortune",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2Z5QUJnWmhJODdWT3cxRnVGOU5mVjEzYnJjOFRjNGY4eVh4Wmk2dDJIaVZvckktSXY2SVN0MkprTVAtejVGNFpvQ2Y5NFZOWVBmeUJUVzVuYW5nWkZURVFMNURudURHQVZLOXZndXQ4X1B4MEtRdUxNVlFsMG53VmpoTVBsOFBkOHJEd0p1UVZLbFpnanI1UTVlc1p6MlVWN0E?oc=5\" target=\"_blank\">Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our 'paranoid' roots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2pwTTJWcjJOMmNxSWcyUXRBNFlxTlo2OWhCeEdnc3hZeEd6S0lLVDlKaklQbTVKa1lFOU9XQTdZUEhLLWgwcDMtTXNrcnhZR1gtSENvNUpXUGJEdDRNTFZ6N0NJQy1nXzNCaGtwbzVzWnlocHp0V19fc09yeFdZalNxY0NoR1VOQm1PbTZpbG03UzMtUXlqTG9mSC12QWJkckMtZkItbkJvVXVqUjcyQ3pfWS1GRHBpaTlRdw?oc=5\" target=\"_blank\">Intel stock soars on Q1 earnings beat, strong outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8wU19PWER2WW0tZHBobnhjRFBNbUdzUVkyRUZiMDBzNzZlTTVuY3VjUjc1Tlh3Y0tHTlhyeHQ1R0JxamZhRmUyT2VCVTgzdnRsTjl1b0NYSDhHSjVicFhrRTdCbGxYMFNZQXU3U1NTX042MF9jenRlNFV6ONIBgAFBVV95cUxOYWcwVFNyN2ZNNTlKb3R5X2hkZ2JlNFFYcXQ0R3N6czRBRmZFV2ZXQ1F3cEx3UV9oenl2a193dWdURzRFMnF6VTBiNWlSM0xacVc3TDZ1VkJEeHd1TXhQQUR5Sm9jTDdTRUV4azBaV0VxMjMtYlB0aExzVlRETjNNZQ?oc=5\" target=\"_blank\">Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE10RnRjdm4yNUp5Y3JIVmtZaklRbUNkeFNZcWcxTkFWU2NYb1I5OFJmWm5LaGplbk5lcFZvNnlkbGNkM1A5Y1NDMTdrU3VuT0pKVnRydGkzUHJyYlVzS2t0VGFPb0FVYUNFTEZNZGtCQ2NjbEF1YTQ0?oc=5\" target=\"_blank\">Intel\u2019s Revenues Soar, Aided by A.I. Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRG9SNXFudndRNktiSzBjWF9sZVY1X0RBeU56b1pySXIxc2JXNkd0Q0FVNm54UFFTVWh6MGI4MTNna2hIbXJsenNYV0h1VUNjb0Q3c2JuUGt1Yloxc2hKTm9tN0g2dmJGYW42V3p0d1UwUVd1QUNVcDZFSlQ0bTBmbFBvWDVNb3VjX0wtVXhXR3FWRzdNTlRvcS1ldXBKMXB1TmNoSDdkLWxnT0tsWGZB?oc=5\" target=\"_blank\">Intel forecasts second-quarter revenue above estimates, shares jump 19%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2Z5QUJnWmhJODdWT3cxRnVGOU5mVjEzYnJjOFRjNGY4eVh4Wmk2dDJIaVZvckktSXY2SVN0MkprTVAtejVGNFpvQ2Y5NFZOWVBmeUJUVzVuYW5nWkZURVFMNURudURHQVZLOXZndXQ4X1B4MEtRdUxNVlFsMG53VmpoTVBsOFBkOHJEd0p1UVZLbFpnanI1UTVlc1p6MlVWN0E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "As Americans turn to blue-collar jobs for stability, here\u2019s which ones offer the most security \u2014 and which offer the least",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "College affordability issues and tech layoffs have boosted interest in the skilled trades, but \u201cblue-collar work isn\u2019t necessarily insulated from other market forces.\u201d",
+          "url": "https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough",
+            "product_followthrough"
+          ],
+          "date": "2026-04-24",
+          "headline": "Warner Bros Discovery vote to approve $110bn merger with Paramount Skydance - The Guardian",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation",
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3I2M2lLTWtGTkVnWDktM25oX1VZMGZiamVaa3Q0cHFERUJDblFZVGVtYThLTXY3ZEpaeFpSc1BXd3dKeXBDZm02Vko4X3ZmSHc3MjJaOWdrRkg2SWtwTGlhLXhyZ05fcGlmaFlBQm9XR3pTZUZiQUpoV01IaUlDSndNNnFoWGZjbjBjSld5Mlh3ajd3M2tr?oc=5\" target=\"_blank\">Warner Bros Discovery vote to approve $110bn merger with Paramount Skydance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGppdmx4NndjUTdES01RR3o4aEM4VmQ1TGNSUFpRZ1NMaWRxUk5KQm8tMEV4QWczOTZNLVNwTG5fRHJFQk5ESVJOU0s3VDFmbFI3NFEyakJpUWpOdmxPUG44aF9hMGxGOW9MSmlVYmFrWEY0OWkzVWU1T0hqbDRnT1VFXzN4RHM?oc=5\" target=\"_blank\">Warner Bros. Discovery shareholders approve Paramount takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN0x6MlU0YUIxaVZMWF9Wb1FKcl96UlVPNHNZUkhwamVmQlctMmdVbVlMSnlvdmpkYUk0dEhzZFFYTDZXQTRMVFd6SlpyeHlXWG9VSkRCM3Rtb2V0cGlEeUFETktic3d6clptOW9mTkRrUnUxbTNFMmJZRGx6SWVVR1UwYjNFNVV2NDBlQ3M1c0RLZWRNdUhRQUprTTZmSERnQjRSNE0xX05teC0wZmQ0aGhQT1BaNjlRaVFMZ3RwZTlVS0lMTG5IZkU1SGpOZzFMUURCaGpSM1lRSDlyYTBTcFdFUQ?oc=5\" target=\"_blank\">Warner Bros. investors approve $110 billion sale to Paramount Skydance, following long battle with Netflix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU1ueXVBcjViZF9kM2ZFWl9wb2Y4NThJTjNhdVVtLUN3X2dmZG9EYlZlVV9DMXFqcjJfYVRZQ0stUkxKQ2lSQzlnc1VnbWRHZC1OOG5PVlgwaC1jakxJMmlEdFhwaWdhYTFxWG92MTlLMlh5Y0ZOb0lLX0lvZUlfODl1WDZnX0xqMjFHNjNEZ0c3UHJNemhPeTd3VEFwcDVZZ2fSAacBQVVfeXFMT0NPbGFIRVhHVEppR0xYZzIzOXpPNDZfeVdqNUxvdi1saEFVSVBBbTBKNUtrbjJ1RTRLRGlULWdsVnJGSHNfdjdqc2hiX1M2ZEZ1anJlWWxVS1ZVVE95MURVVlEzTEFvazk5ZWdUMlhGLW9YdGh6Y0RqdEJRemNuczdKbkFKTGxuZ2p1MEx2V1dnaUYtcFJEaXVFY0V3d0tGU0t2UzBIVTA?oc=5\" target=\"_blank\">Warner Bros Discovery shareholders approve Paramount Skydance deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOekZRaDFpcjZGaHd2c2RiV243WDhKQl9BVkxmdmNqT3pzUGpxVzBTeTQ5Z3dBRHZFNmY0MzJYaUFqZXZaYVdicVFYLUdmdFRDUmRZd2tVNmtyNjJ4RFBqTEhHVjFlSVBoaEFySkpHaFlfQ0FadEZnNVpqZUN5Mmc2S2R2aHJxcHRaVUtBSU5vUURtbzF4SmhyamxR?oc=5\" target=\"_blank\">David Zaslav Merger Payout Approved By Just 17% Of WBD Shareholders; 82% Opposed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3I2M2lLTWtGTkVnWDktM25oX1VZMGZiamVaa3Q0cHFERUJDblFZVGVtYThLTXY3ZEpaeFpSc1BXd3dKeXBDZm02Vko4X3ZmSHc3MjJaOWdrRkg2SWtwTGlhLXhyZ05fcGlmaFlBQm9XR3pTZUZiQUpoV01IaUlDSndNNnFoWGZjbjBjSld5Mlh3ajd3M2tr?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Trump confirms he's weighing a taxpayer takeover of Spirit Airlines \"for the right price\" - CBS News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CBS News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWJvT0d6VnpKTDFBQndNazRldXppbTlNd3h1WjVYdGtBSmRuMHFQXzdLUWFjSFFnZGQ4cFhGQXZabGNDRl9jdnp6NkcyTU9wQm9ScXhBSktsbVBmRXRIVzhDQkpUa2JFampPMXotNHNJM3hBRnY2bUNCSU91TFVzOElUU3fSAYoBQVVfeXFMTnhXUVhxamdvSmlqYlRqbGUyMGtpN0trMjdvbHBkSjktQ1BBMGlTQk5VTFBQMk1kdnNPMHBoMzA3S0stdGE2VHVBcUxwWU92X3hfMVY1c3lfVzRQQnpMZUUyLTBMdDlUb1VNU1JTRS1LTzc0ZXJhdXpKdFFxMF9IeXF5Qmw4SHJzVmxB?oc=5\" target=\"_blank\">Trump confirms he's weighing a taxpayer takeover of Spirit Airlines \"for the right price\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZVRKQ3dvaUhySzZFdnRrRFJRWjhnLXJNeWotc3o4TktKaXNHY3IzSVBPTVJIN01DZFVPOHctbXEtWjFQcHgxYmpLcWpkQkIwSFcyNURTc2VoYTlLd3dtd1NkeU93amVvTzJyX2t2endySEJMeTFtWmxleXE3dw?oc=5\" target=\"_blank\">Big-name Republicans are balking at Trump taking a stake in Spirit Airlines. Here\u2019s why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUC1uMUdLQUF0RXNQbjBEWk5iajA2ejd2UFpyQmRTRUI1dWxZZnpLaFYzVXVUN0pNUzh3NWwyakZxdm9qczRJLUFIdkFTU0c0clhDTlI5UmNtTHNqSWpXMzk4Nlk4M3J3dE5pNHpaUWVlUlpxNHdXVVRIMTRyZkJEY2cwUF9PdmZMUUQ0?oc=5\" target=\"_blank\">Possible Spirit rescue fuels new fears about government involvement in business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTVzNWZnMUxyaGRCbTBzUWxrY2xnTGdqSWRVYUhOT3NXelFCeVpqZmdyanRFdXFBODVPOWJadGx5a0VISVQydndZcGRHT2ZvT0kwaG1zMzZJTWNja2FyUWxuNHFjcVhHZm00QS1uNW91WFZ3aTJsdXE1UmdlcDg5ZzBBaS1JSVVtWFg4akRzd01HTGhuaGlRbC1OYlhTVnRBMktBMTIteExmMUxrYXQw?oc=5\" target=\"_blank\">US Taps Kirkland & Ellis for Advice on Spirit Airlines Rescue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkpsQm1KaEw1NUQyUDdOZmJqREhUYUE5SmhTaUdqVWhnd1RTWWEyQ2ZoYndycDRUSVQwNk1VektIMDllcWFCMzlSX2F6OGZvOGNsRGgzaW9fWTBIY0VCd05VSVJLOVRSWkdZQWRtWVdTYXNMMUlTZTAzemtkeXhXQ1p30gGHAUFVX3lxTE1mbEx6QlFaM2JFM0N1Q195elNtdkJ0TjBhNmZVSUJtWXp2dWUtSHYtdng5SmtxTTlZTXpJYjRKeno0eFA3WXdpWnlEbnFaWXZ3enlwSXZPZ1pnNVNzb21WSTl0U3hscXlrUWNvRDN2SnBoVGltVE1xUHVKUXJyTXBRcTNMOEN0Zw?oc=5\" target=\"_blank\">Spirit Airlines lawyer says cash 'not going to last for very much longer,' but government rescue on the table</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWJvT0d6VnpKTDFBQndNazRldXppbTlNd3h1WjVYdGtBSmRuMHFQXzdLUWFjSFFnZGQ4cFhGQXZabGNDRl9jdnp6NkcyTU9wQm9ScXhBSktsbVBmRXRIVzhDQkpUa2JFampPMXotNHNJM3hBRnY2bUNCSU91TFVzOElUU3fSAYoBQVVfeXFMTnhXUVhxamdvSmlqYlRqbGUyMGtpN0trMjdvbHBkSjktQ1BBMGlTQk5VTFBQMk1kdnNPMHBoMzA3S0stdGE2VHVBcUxwWU92X3hfMVY1c3lfVzRQQnpMZUUyLTBMdDlUb1VNU1JTRS1LTzc0ZXJhdXpKdFFxMF9IeXF5Qmw4SHJzVmxB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "After toasting \u20ac90B loan, EU leaders face up to the morning after - politico.eu",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "politico.eu",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTJnU2VhSzU0VTBzcmwxb1FxZHZ1dF85T3NMdkE4eEllcVV3dTZGb2hKekczYklHc0NYRS1pSzhMV1pjWmZKRDFfYXpNTllDRllDdUpPUGF0TUFxR1dOSWpvREpnd1VfZnoweGpxS1BrSE5NY2Z0NlpmZTdOdXVXOGNRM3RramdxRjVYMFZwSDY1bGNBNGF5Rks4UEx3R3ZEY21oWFMzV0JRYU1JaklmZ0VoTFBNZWF5?oc=5\" target=\"_blank\">After toasting \u20ac90B loan, EU leaders face up to the morning after</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGw5M2FWMnZPUTlIQTE0cHRSS3VobG8tVUZMNTIyVnBqWm1sN3NEa1dWYnY0LWU2bWdsWHdEaE4wLTNZWHNNNjhOZUZqVXlybG1fMmxmT1BuM2d4QXhOc2NJdkdvb2hPRExHc3htRXFoRmZFSElkN25oNjRPaHBJbFVXY09ERUpZcVdQM1dHdm5xa3J2d3lZOVY5YXBUVXhFVFBKbDViR1owNktBWHhqanZGNF9JVjFs?oc=5\" target=\"_blank\">E.U. approves a $106 billion loan package to help Ukraine after Hungary lifts its veto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUFma0R2SDdFbkZWLTlHXzI4YzRfcnJ5OHdZa094Y1FYOFBmNUhTVUlUdVhMZGFfellwX2ZOVHRHR0hCZWJfSXZwVklzeVhBcTMyVmRIYVlObUlBd1J3NVJ3NjNJQkswN1l2aDNuRmVtMFBKOGdPYWgwc2NQaVhPc2VPd2UyY3ZmaGM2MTdOZ2o?oc=5\" target=\"_blank\">Sidney Crosby got a penalty for embellishment. This Flyers fan from Fishtown gave him a look that spoke for everyone.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEp5MEtDU3lDcGlhRHRobHNzSHJMUmZ0MTBEcTNHRjdJU0s3Xy04OG54b0pDaWN4LWxiNC1ScE1HbXRfZlFLcnNOZXdsZEdPeUF3OVJHQ1Y5Tm9CYzh4VWJfdmhIdHJQVkxBdkZqdzVuUVRBbmJXc3p4SWk1Y3pKclZn?oc=5\" target=\"_blank\">Druzhba pipeline restarts Russian oil flows to Europe, unblocking $105B EU loan for Kyiv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3lkRmw2VlpoNlR4YnZSWWJ5ZTdyb2MyYmhXT3U2NDlQNmlwbHRwYlNOd3dJMDhabmVYaWNoYzU4S3Jkemw1bWo0bGUzd0VyQWZDR0VJNWpXVEctWnRFNFlxTGVuVERtNFlIN2dqM0xSZFRvZklMRTBqVjBUbjlZWkdRc0pMdHpWNUdyZld4dmlxMmt0Wm9ybDJqdlR6TE9JbXEzak9ERk8zNzFzR2MyTHdn0gG3AUFVX3lxTE1GdnliTm51WmFGUEFWLTE1RFlxZ1RVeDNYVVdvLVNOTC1yYWlwR000cXNLeHN6ODU2bTZGakduQW5mdXFrSDdCOExLTHlsTXhzMUFnN3ZPQU9WV0I0T29jdEZ6TWlVQVEyLV85RW14Q1lXSTV3V2pYRnhXaE8xMlkwN2ZoTU1kXzRDNDdzRmdYNlBWMUZBNTJybEp0S042MHRDbXNocGYzMHBTM1RIZktmbDAzVVF3VQ?oc=5\" target=\"_blank\">EU formally approves 90bn euro Ukraine loan and new sanctions on Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTJnU2VhSzU0VTBzcmwxb1FxZHZ1dF85T3NMdkE4eEllcVV3dTZGb2hKekczYklHc0NYRS1pSzhMV1pjWmZKRDFfYXpNTllDRllDdUpPUGF0TUFxR1dOSWpvREpnd1VfZnoweGpxS1BrSE5NY2Z0NlpmZTdOdXVXOGNRM3RramdxRjVYMFZwSDY1bGNBNGF5Rks4UEx3R3ZEY21oWFMzV0JRYU1JaklmZ0VoTFBNZWF5?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "NTSB report describes chaos at LaGuardia Airport ahead of deadly Air Canada crash - Gothamist",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Gothamist",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDFkc043d0ptLWJZeHFkQUhlb2V1QjV3cFFFQmJVZF8yUXc5blgxUFNpWnJaV2F4cFU0eFlqNDktZWVyLTJTMTFjT3ZpWjg4c1ZMLXJLa0NLM3EyMGRtQTNxcWZkS2ZwU2lzOUI2ODZTeXZsTTN0b29OcjhhM00wNWtCZHEyUjdkdzJGamZGcDZnVUp5RlJTbUxreVFxRmFWTjN0UTE0NkFQUS1s?oc=5\" target=\"_blank\">NTSB report describes chaos at LaGuardia Airport ahead of deadly Air Canada crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlBsSkdoc1hpZWk3bExDSXN6dnB0eDJuTjZrSXFDR0NzNnpHZUp3YWNmX3REMW5JbTNCdmdwVEFMc0ZjS214MzU2VmVaa21aclpjYWJFQXY2aUJ1dF9YMzNYdlFCNjVkaTlpRU1BTjdyOXJ2NkItMjNETzRSVWtqVnRYUXR4MmRYaTBESXJDNnlndko5cnAtOEwtUDhQektrYVNDRENtcWFqeTh1ZlRMWWVUZVNaVktKWTBZNmh6Z9IBxAFBVV95cUxOWFVKX2JfOGFyYVJhWmMxd0RYYzNGUGw4VHdLMDBZMERVMF9aNnJuUUFORWpYWVBVQjVtQVFDZ0FFbmZ1YkdBcDdSVk9kdjRnelE5RGNTdVNMS2pkWWVFRkszN0ZETnAzeHRUNUhLMmZjR3liSzJDMXlvNDdPbVVxbUlmQnFSLVFSYzQ5dnZDdXozcTNVSV8ybzdEZ0VtVVJDa2c0YkdPVGVzUzJzeW9nRUpXaWJJbTFNaXMyMDhNV3dZZFZS?oc=5\" target=\"_blank\">LaGuardia plane crash: NTSB releases preliminary report for deadly runway collision with truck in NYC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXBiWE4zSVRlQmhuQVQwUGdoUG5KSWswQUVMWkwtR2FZazhmeXB6dXoxUFhXOGlGX0hVSUlDRU8tNHI4OUZ6ZmpmVVZsZ1ZIQ1AtRFo4dVlaYWVDV0xmY3pUd1h3UGxLSDVxUmExb29aNkJoVWlOWWRyejNxM0ExQURONXVjbVdKVWVkdm84ZzQ?oc=5\" target=\"_blank\">LaGuardia firefighter heard \u2018stop\u2019 before crash but didn\u2019t know who it was for, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWtZV0xkV0g5VWFxalQ5RzJ2Vy1qbHFLeVQzaXJfQklTOXRJbUc1UlluT3YzY3JjR2d5QXRsMmR0QWJhUWp2bExMZUtMNUtSd3Q5VGNLb2pmVTBSMkJfbmI1eDBjNVlOTmYzSjVIWVpidjJsRzh2ZENMemh6N2VzdmEtVGhTYkpDNlJTLUNwVGROa3lBMTQyeks1dFNLbUkzTnJpS09JUmtkbW14TnFxbTBJeHFSRHFaUXc?oc=5\" target=\"_blank\">Communication issues contributed to fatal LaGuardia crash, preliminary report shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzNYSTY5emgtazRYRVJsMnUzWmdlcUlpUWt1NHhlMVRnSUtSVFFNUEVXUXEzckk5Rmo4S1ByMDk2bHo1ekljMEdlM0x5QWI0VVJzWjU4RVoxeXloTnBPUzZTSGJwc2wyeVpkQXR5R3czOUQyOVhlTXdhMWVDdlRxNmFn?oc=5\" target=\"_blank\">Communication Failures Preceded Deadly Crash at LaGuardia, N.T.S.B. Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDFkc043d0ptLWJZeHFkQUhlb2V1QjV3cFFFQmJVZF8yUXc5blgxUFNpWnJaV2F4cFU0eFlqNDktZWVyLTJTMTFjT3ZpWjg4c1ZMLXJLa0NLM3EyMGRtQTNxcWZkS2ZwU2lzOUI2ODZTeXZsTTN0b29OcjhhM00wNWtCZHEyUjdkdzJGamZGcDZnVUp5RlJTbUxreVFxRmFWTjN0UTE0NkFQUS1s?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Here\u2019s how much money the 2026 NFL draft picks will make \u2014 and who\u2019s at risk of losing millions",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Three NFL players will make over $50 million in tonight\u2019s draft",
+          "url": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-24",
+          "headline": "Why Intel\u2019s stock is on track for a historic surge after earnings",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.06060606060606061,
+          "source": "marketwatch_topstories",
+          "summary": "Intel shares could see their best post-earnings performance on record and finally surpass their 2000 closing high amid a \u201cCPU renaissance.\u201d",
+          "url": "https://www.marketwatch.com/story/why-intels-stock-is-on-track-for-a-historic-surge-after-earnings-5128afa7?mod=mw_rss_topstories"
+        }
+      ],
+      "company_exposures": [
+        "defense",
+        "industrials"
+      ],
+      "company_profile": {
+        "industry": "Aerospace & Defense",
+        "provider": "yfinance",
+        "sector": "Industrials"
+      },
+      "effective_adverse_effect_count": 6,
+      "effective_supportive_effect_count": 5,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [
+            "defense"
+          ],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [
+            "defense"
+          ],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [
+            "defense"
+          ],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [
+            "defense"
+          ],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "mixed",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [
+            "defense"
+          ],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        }
+      ],
+      "supportive_effect_count": 5,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 11,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-24",
+          "headline": "Copeland Capital Management LLC Sells 50,938 Shares of Hexcel Corporation $HXL - MarketBeat",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkR3a3pOWjFoaHdBUlVqdkkyV25uLU40ak5mRHRQVndSODRGcUxxbWZPdzZEOXN4MkdJYnc3VHFKSUpQQnVyU2tiYXN4cGlqRlNnZ1dSLXo1ZFh6OEdxNXR5M0NiWkhUc3dmaWhKdHloYVcyb29UWjBWcXdBcEJRYzJxaHhqSXhKQmx4Skp6SnZJbkxoSlVqTnJOampCOXJTZXphNUM1M20xZUtRUUJqbHlhbFRvWEhfUG10Q0ptZUE4ZGdGLU94RnBxVU5OM2ZMMVpN?oc=5\" target=\"_blank\">Copeland Capital Management LLC Sells 50,938 Shares of Hexcel Corporation $HXL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkR3a3pOWjFoaHdBUlVqdkkyV25uLU40ak5mRHRQVndSODRGcUxxbWZPdzZEOXN4MkdJYnc3VHFKSUpQQnVyU2tiYXN4cGlqRlNnZ1dSLXo1ZFh6OEdxNXR5M0NiWkhUc3dmaWhKdHloYVcyb29UWjBWcXdBcEJRYzJxaHhqSXhKQmx4Skp6SnZJbkxoSlVqTnJOampCOXJTZXphNUM1M20xZUtRUUJqbHlhbFRvWEhfUG10Q0ptZUE4ZGdGLU94RnBxVU5OM2ZMMVpN?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-24",
+          "headline": "Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aeros - GuruFocus",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.08333333333333333,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0ZuQXVtc0syUzFPRUtmNk5MY1hEWGlMaS1aLTdMMHdCRHRUWFJrenVpSDJ2dE1IMTF2M3JXWFlRTHJlLWM5UHRpZkduRkRaeU5ZUENNSmRaMFVpM09GTXJCRjJaTFlMM3N2Vm5IcU5rYXo4b0pYRWY2eE5FU0JndWMyNm5TaVZpWk9odWgxdlB3TV9hbHBydUVMOW5jMlV2OFRQdm5MdGgtcm0weWxRd3daTTZ1UkU5S2g3ZElIemxCdEdveU9HbUFDOTNZTWFkMWFNSg?oc=5\" target=\"_blank\">Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aeros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0ZuQXVtc0syUzFPRUtmNk5MY1hEWGlMaS1aLTdMMHdCRHRUWFJrenVpSDJ2dE1IMTF2M3JXWFlRTHJlLWM5UHRpZkduRkRaeU5ZUENNSmRaMFVpM09GTXJCRjJaTFlMM3N2Vm5IcU5rYXo4b0pYRWY2eE5FU0JndWMyNm5TaVZpWk9odWgxdlB3TV9hbHBydUVMOW5jMlV2OFRQdm5MdGgtcm0weWxRd3daTTZ1UkU5S2g3ZElIemxCdEdveU9HbUFDOTNZTWFkMWFNSg?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-24",
+          "headline": "Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aerospace Demand Boosts Revenue and ... - Investing.com Canada",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05714285714285714,
+          "source": "Investing.com Canada",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFFPNjNXV0Z1RFNybmxibHdpYmUtX2VtS1VJQmpDZ1BPTDk1bk5KTGVURnFmb3FaZkJVclJENFJMbGRzdThSN3VlRHZ6LXhaUWFYdWdPTE1lallGVjJ6bTF5bjY3eFk0UUVJSDBVSFlDSVFTakh5QktQSjFhUG9POU53dlIyUERHMDRIaUsyaUlFQnJKLXBsVjdUWjFBM3pMU181U3M1SmU0NGFGdkROY1U0Qk9GbHZoZDNMcVZZNUtWbERmS21LMUstX2c3U0Z0NmhwQmVZMkItZW8?oc=5\" target=\"_blank\">Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aerospace Demand Boosts Revenue and ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFFPNjNXV0Z1RFNybmxibHdpYmUtX2VtS1VJQmpDZ1BPTDk1bk5KTGVURnFmb3FaZkJVclJENFJMbGRzdThSN3VlRHZ6LXhaUWFYdWdPTE1lallGVjJ6bTF5bjY3eFk0UUVJSDBVSFlDSVFTakh5QktQSjFhUG9POU53dlIyUERHMDRIaUsyaUlFQnJKLXBsVjdUWjFBM3pMU181U3M1SmU0NGFGdkROY1U0Qk9GbHZoZDNMcVZZNUtWbERmS21LMUstX2c3U0Z0NmhwQmVZMkItZW8?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Hexcel (HXL) Reports Q1 2026 Earnings in Line with Expectations - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDBHY294S1VwTEtPN3pEVlZFamFsZ09iMXIyZ243QUJmaDhwQTdsRFNVcUp5Zmg2OWFSU0VVdjRSQUVwR2JVMmoyTjFka1M3NVk5b2tQRm9EeGRPLUd0eXhvQkVTTjF6R1lDWHhndUlubXBQWF9GMFZKcnNibUhzbzNnT0tkbUFfVlJLbEtUNzk0bF91WnVsSldjbFUteFJubjlIR3lab2RwQ1Y3ZDRoVk93?oc=5\" target=\"_blank\">Hexcel (HXL) Reports Q1 2026 Earnings in Line with Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDBHY294S1VwTEtPN3pEVlZFamFsZ09iMXIyZ243QUJmaDhwQTdsRFNVcUp5Zmg2OWFSU0VVdjRSQUVwR2JVMmoyTjFka1M3NVk5b2tQRm9EeGRPLUd0eXhvQkVTTjF6R1lDWHhndUlubXBQWF9GMFZKcnNibUhzbzNnT0tkbUFfVlJLbEtUNzk0bF91WnVsSldjbFUteFJubjlIR3lab2RwQ1Y3ZDRoVk93?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Earnings Call Summary | Hexcel(HXL.US) Q1 2026 Earnings Conference - Moomoo",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Moomoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOajk5TGl6UlVtU0xQdFVmREZVUV9YUk5XcXdHMUZldFlIcmtUcmlORDJHZEhvOW5aQUN3akNzOXRXbVFnNGdFak1jZExoYVdsdk5HbXlQYzFKN3NIWjJfclZ6b0h5ZEt2N1I1cjJRQzNiSTBKYkNpcmlkT25sYlhwS2JrY3I5SC1fbHdjemdLWFRrNXMtZVdqZTFzVHl3R3VFeURSMU85cw?oc=5\" target=\"_blank\">Earnings Call Summary | Hexcel(HXL.US) Q1 2026 Earnings Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajk5TGl6UlVtU0xQdFVmREZVUV9YUk5XcXdHMUZldFlIcmtUcmlORDJHZEhvOW5aQUN3akNzOXRXbVFnNGdFak1jZExoYVdsdk5HbXlQYzFKN3NIWjJfclZ6b0h5ZEt2N1I1cjJRQzNiSTBKYkNpcmlkT25sYlhwS2JrY3I5SC1fbHdjemdLWFRrNXMtZVdqZTFzVHl3R3VFeURSMU85cw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-23",
+          "headline": "Did Hexcel's (HXL) Q1 Beat and Reaffirmed Outlook Just Reset Its Aerospace Margin Story? - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0625,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOalU3VUY1Tzh5VG5KempwZUNidUk3MEpQc2FIUEpicWJ5ODhhbmNOY0wtWFhPSy0tRktERi1UZ3I5a2lCRTJrTHc1S0dORTJzZmkwZFhWN3I3bk5FZG9Yd1ZPYndJSVREdU1DeEF1Z3oybEowMVBCMkw5LVdxbnpEa0F6MHpNMWhvbDdfSGs5XzJhNXRhaVpwZVdKdU5NVEVFQVBuVGlia1RuMGV2Y0NOSWtlSXRDU1JZeTJKNGc5Vm85Qm1pd2fSAcsBQVVfeXFMTktkYks3RzFDYmlSWlNmZ00tbjY4a2t0dkZvdE9NRnhFYkZudG5PZ19VQU1SYndQUWZVMnRnOU9GTDNPVHVEMnJIMjcyRnk0SHpFVXdPMUdWVWo4QjBPa2RvTDJ3TkUxWUUtNUJDcV9DclZTcTlieWU0R0lfM3hzZmJPVVk2OFVEZzQ5bDZ2aG5fLWxZR2prYVVOSHF5V2tTYmtWQ3diUU5FT3UtZ2hsNjRJeHFXYjU0OGczSU0tYU1maFE1ak9WZHBXSWc?oc=5\" target=\"_blank\">Did Hexcel's (HXL) Q1 Beat and Reaffirmed Outlook Just Reset Its Aerospace Margin Story?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOalU3VUY1Tzh5VG5KempwZUNidUk3MEpQc2FIUEpicWJ5ODhhbmNOY0wtWFhPSy0tRktERi1UZ3I5a2lCRTJrTHc1S0dORTJzZmkwZFhWN3I3bk5FZG9Yd1ZPYndJSVREdU1DeEF1Z3oybEowMVBCMkw5LVdxbnpEa0F6MHpNMWhvbDdfSGs5XzJhNXRhaVpwZVdKdU5NVEVFQVBuVGlia1RuMGV2Y0NOSWtlSXRDU1JZeTJKNGc5Vm85Qm1pd2fSAcsBQVVfeXFMTktkYks3RzFDYmlSWlNmZ00tbjY4a2t0dkZvdE9NRnhFYkZudG5PZ19VQU1SYndQUWZVMnRnOU9GTDNPVHVEMnJIMjcyRnk0SHpFVXdPMUdWVWo4QjBPa2RvTDJ3TkUxWUUtNUJDcV9DclZTcTlieWU0R0lfM3hzZmJPVVk2OFVEZzQ5bDZ2aG5fLWxZR2prYVVOSHF5V2tTYmtWQ3diUU5FT3UtZ2hsNjRJeHFXYjU0OGczSU0tYU1maFE1ak9WZHBXSWc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-23",
+          "headline": "Hexcel (HXL) Stock Trades Up, Here Is Why - StockStory",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "StockStory",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmEyM01rVWZ6VXBjZkstRGNFMFZRTlgybVdmREU3cHlLaHgzanU3U2NEN1V6czhKOEVyeWg2X3h3QnY0SUpoeXZfeldqSUVRNTBYeno2UGhpT21FWE9SeTY1R1ZqNlBMbURiN0pjS3BWdy1WSWZDVjdEMDFJZk9QYVBOdXlnTnNCOHNFejNvYXFTN3hQc2stVVN4WkVvUmhM?oc=5\" target=\"_blank\">Hexcel (HXL) Stock Trades Up, Here Is Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmEyM01rVWZ6VXBjZkstRGNFMFZRTlgybVdmREU3cHlLaHgzanU3U2NEN1V6czhKOEVyeWg2X3h3QnY0SUpoeXZfeldqSUVRNTBYeno2UGhpT21FWE9SeTY1R1ZqNlBMbURiN0pjS3BWdy1WSWZDVjdEMDFJZk9QYVBOdXlnTnNCOHNFejNvYXFTN3hQc2stVVN4WkVvUmhM?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Hexcel (HXL) Q1 2026 Earnings Call Transcript - The Motley Fool",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Motley Fool",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0pVUXhiVjNDaVZxRDZlN3RNUVRfanN2Q1NsaXgza3VoU0V2dGtad0JwNWVPMWI2cG51clozeTRHcm1YSTVjc3p6OExUTk45Q2lFUDAxM2pkS2tucUlFcFJvQlRrQWZ3SVp2ZllmemNXU1hxakNFOHRLeTU4aGNwUUF0cXVtU045TmFHaGRKbnBvZTcxdnBST0N0S0xWZ0hFdldsUA?oc=5\" target=\"_blank\">Hexcel (HXL) Q1 2026 Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0pVUXhiVjNDaVZxRDZlN3RNUVRfanN2Q1NsaXgza3VoU0V2dGtad0JwNWVPMWI2cG51clozeTRHcm1YSTVjc3p6OExUTk45Q2lFUDAxM2pkS2tucUlFcFJvQlRrQWZ3SVp2ZllmemNXU1hxakNFOHRLeTU4aGNwUUF0cXVtU045TmFHaGRKbnBvZTcxdnBST0N0S0xWZ0hFdldsUA?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Transcript : Hexcel Corporation, Q1 2026 Earnings Call, Apr 23, 2026 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGFlX0ZYVWRtSHNLOVh4eGpEdW5KUmxQOGlnWVhtMGVzMWdJcDk0Z3dJQXNHdVk3aWFTUVp2a2lxU1N6OEU3MU1FRGhReUpGU015WkUzb1gtNW8yUEVIVjYzdjFkMC1vMnVXbVplTkNXaUtna3ZIVTBWcXJvWU94NjZBeVNuajBDQktQb2NhSUNjelN3VjB2NHdWODZ2c0dsLWVheVgwMGx6QXdyMFVLS3Fvc0w3blE?oc=5\" target=\"_blank\">Transcript : Hexcel Corporation, Q1 2026 Earnings Call, Apr 23, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGFlX0ZYVWRtSHNLOVh4eGpEdW5KUmxQOGlnWVhtMGVzMWdJcDk0Z3dJQXNHdVk3aWFTUVp2a2lxU1N6OEU3MU1FRGhReUpGU015WkUzb1gtNW8yUEVIVjYzdjFkMC1vMnVXbVplTkNXaUtna3ZIVTBWcXJvWU94NjZBeVNuajBDQktQb2NhSUNjelN3VjB2NHdWODZ2c0dsLWVheVgwMGx6QXdyMFVLS3Fvc0w3blE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Earnings call transcript: Hexcel Q1 2026 EPS beats forecast, stock surges - Investing.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXBmQzN1bjhURjlDcGxlZnlJUDFhOVZhd3hlM0s2dUNnMjhNNWlHaEVfVjhEZ05CdVpLa2pYQkRUOEJiNlZNa2VwazdaeTkwRTh2bG1Hdzh2MGl1dmszU1BSUWw4c1ZDUnhyT2RqUTI4VTNSbzFoVUREVGZwdmstcUFFTzk0LTllYld2OGhBNk9GVFZhOGlmV1FwZUYzQUE1QVFLQ2NRQURCMDdhWFpQbjRnbExpMUNteUE1Ny1INVRIMUdsYVE?oc=5\" target=\"_blank\">Earnings call transcript: Hexcel Q1 2026 EPS beats forecast, stock surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXBmQzN1bjhURjlDcGxlZnlJUDFhOVZhd3hlM0s2dUNnMjhNNWlHaEVfVjhEZ05CdVpLa2pYQkRUOEJiNlZNa2VwazdaeTkwRTh2bG1Hdzh2MGl1dmszU1BSUWw4c1ZDUnhyT2RqUTI4VTNSbzFoVUREVGZwdmstcUFFTzk0LTllYld2OGhBNk9GVFZhOGlmV1FwZUYzQUE1QVFLQ2NRQURCMDdhWFpQbjRnbExpMUNteUE1Ny1INVRIMUdsYVE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Hexcel Q1 Earnings Surpass Estimates, Revenues Improve Y/Y - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEhNcXloVURvUUc1YmlGVkFEZG1LRXk4YUF3QWxHcjJNM3RYWDh0aHAtNEItWE9UX1dWQzVDXzNzRzBsRkpuTkZWaE5pLXFFbXV2TVJWWUxmVlUzVTRYWjlHMnpscnZqT2llb0dZclYwdVVyRnMxUXVaaXBsbzhtMnkyOElTTVZnWlg5aUhPQ2JIUHNjOEJpZzZKck5tT1pPc0tvQjAzSmh5cGRGRktod0ZSZw?oc=5\" target=\"_blank\">Hexcel Q1 Earnings Surpass Estimates, Revenues Improve Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEhNcXloVURvUUc1YmlGVkFEZG1LRXk4YUF3QWxHcjJNM3RYWDh0aHAtNEItWE9UX1dWQzVDXzNzRzBsRkpuTkZWaE5pLXFFbXV2TVJWWUxmVlUzVTRYWjlHMnpscnZqT2llb0dZclYwdVVyRnMxUXVaaXBsbzhtMnkyOElTTVZnWlg5aUhPQ2JIUHNjOEJpZzZKck5tT1pPc0tvQjAzSmh5cGRGRktod0ZSZw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-23",
+          "headline": "Hexcel Corporation Q1 2026 Earnings Call Summary - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmh4MXVRRzFXZXRrY0pfYy1NY2ZVbUdDb0dFN0haR0tpYlhkd2dvcWdwT3RkMjE2UTE5ZlNSWHNRVzQ3TG1pMlNhV19KSWtoVFd6d3pTRm0tcW93cmJLMzVXMkRyWk55SC1PNnk4MVE0QUFLQUxKZEFBU3psNV9FTVhzVi1JcEpnaUhQbzhsb1k1NVNVYzN6STZMZ0VlUFdxQkE?oc=5\" target=\"_blank\">Hexcel Corporation Q1 2026 Earnings Call Summary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmh4MXVRRzFXZXRrY0pfYy1NY2ZVbUdDb0dFN0haR0tpYlhkd2dvcWdwT3RkMjE2UTE5ZlNSWHNRVzQ3TG1pMlNhV19KSWtoVFd6d3pTRm0tcW93cmJLMzVXMkRyWk55SC1PNnk4MVE0QUFLQUxKZEFBU3psNV9FTVhzVi1JcEpnaUhQbzhsb1k1NVNVYzN6STZMZ0VlUFdxQkE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-23",
+          "headline": "Hexcel named Embraer best supplier of the year for second consecutive year - JEC - Connecting the World with Composites",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "JEC - Connecting the World with Composites",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOcFpiY0NtbnpyYjJySXFlbXFrTXhicjhfMFFTZ3BKeTVwZDBBS1lUSzJleGRvamV5WkJ3UmVmYi1CWVVqRTcwcDJMNlB1OXdMajZyRDdfbG12WXdadVNOakNkZmx1ckIwTFQxNmRud3dHMEpLUWlrbVlfZ05RNFRaclJVQ2hnVDgwcnRwRV95SVY3Qi1Vdk9sa1M5ZnJVaXhxYVJ6bWd1cUVyTXozUHlqUVI2ak5GeDBWcHl2Nzdlc2xaZXE0djZ6XzQ2WmVpTW5oWnJSa0JLUFliOXRsYkFTajUzUVZNRGV4eURCTGRnek5CQlF1SnRwWGdpZWltVHNVakFFLU1IVDFJWUk3Smo4TVFOYkZPdw?oc=5\" target=\"_blank\">Hexcel named Embraer best supplier of the year for second consecutive year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JEC - Connecting the World with Composites</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcFpiY0NtbnpyYjJySXFlbXFrTXhicjhfMFFTZ3BKeTVwZDBBS1lUSzJleGRvamV5WkJ3UmVmYi1CWVVqRTcwcDJMNlB1OXdMajZyRDdfbG12WXdadVNOakNkZmx1ckIwTFQxNmRud3dHMEpLUWlrbVlfZ05RNFRaclJVQ2hnVDgwcnRwRV95SVY3Qi1Vdk9sa1M5ZnJVaXhxYVJ6bWd1cUVyTXozUHlqUVI2ak5GeDBWcHl2Nzdlc2xaZXE0djZ6XzQ2WmVpTW5oWnJSa0JLUFliOXRsYkFTajUzUVZNRGV4eURCTGRnek5CQlF1SnRwWGdpZWltVHNVakFFLU1IVDFJWUk3Smo4TVFOYkZPdw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-22",
+          "headline": "Hexcel Corporation (HXL) Stock Rises on Q1 2026 Earnings - Quiver Quantitative",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Quiver Quantitative",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk5DWlh2V1VDZVRpOEJEV29xNlZhalE3azlsTDM5ODlNWFBhMlN3T2hOOEcwVmJGM0U0RFRZWTRUeFpiLVZzS1F2TUJpV3NkeXd2SnRJaXdPUEJrVFVuY05zeGFSb01acjZ4T0Qxei1NYVVQSVZBdkZrTEJyQ1EtRzhNMUZ0dEM1UTBLOThCTjJfWldFMkN3Zw?oc=5\" target=\"_blank\">Hexcel Corporation (HXL) Stock Rises on Q1 2026 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk5DWlh2V1VDZVRpOEJEV29xNlZhalE3azlsTDM5ODlNWFBhMlN3T2hOOEcwVmJGM0U0RFRZWTRUeFpiLVZzS1F2TUJpV3NkeXd2SnRJaXdPUEJrVFVuY05zeGFSb01acjZ4T0Qxei1NYVVQSVZBdkZrTEJyQ1EtRzhNMUZ0dEM1UTBLOThCTjJfWldFMkN3Zw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-22",
+          "headline": "Hexcel jumps after Q1 beat as aerospace demand lifts results (HXL:NYSE) - Seeking Alpha",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSl9kX0R4QzVLQUktRms5MHJxZ2lnTTFoZzB2cXpwZ0dLVFd3NWMzRC1FV3pIcERXbDk5bGxtOVE5cDA3dUlzVTVCSm5PTUZXb25IRGkzWUY3ZHlNakY2QVlIeEtpSkJPUTNQczUya1FHc3FTMk9lTkJyVVgwUmtCNTZ4OXo4Y1lRM0k5MFVQRnZRU1Z3MEVOS1o0emU4VGc?oc=5\" target=\"_blank\">Hexcel jumps after Q1 beat as aerospace demand lifts results (HXL:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSl9kX0R4QzVLQUktRms5MHJxZ2lnTTFoZzB2cXpwZ0dLVFd3NWMzRC1FV3pIcERXbDk5bGxtOVE5cDA3dUlzVTVCSm5PTUZXb25IRGkzWUY3ZHlNakY2QVlIeEtpSkJPUTNQczUya1FHc3FTMk9lTkJyVVgwUmtCNTZ4OXo4Y1lRM0k5MFVQRnZRU1Z3MEVOS1o0emU4VGc?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 5
+    },
+    "sentiment": {
+      "days_sampled": 4,
+      "delta": 0.03315272690272691,
+      "prior_mean": 0.0,
+      "recent_mean": 0.03315272690272691
+    },
+    "technical": {
+      "atr14": 3.63065767699834,
+      "close": 91.32,
+      "close_vs_ema200_pct": 21.34266062338375,
+      "close_vs_ema20_pct": 7.328141564072545,
+      "close_vs_ema50_pct": 9.001566543391048,
+      "close_vs_hh20_pct": 0.81695738573636,
+      "ema20": 85.0848609406732,
+      "ema200": 75.2579509389807,
+      "ema50": 83.7786124510858,
+      "entry_ready": false,
+      "hh20_prev": 90.58,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.67483180317868
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 6,
+    "effective_adverse_effects": 6,
+    "effective_supportive_effects": 5,
+    "exposures": [
+      "defense",
+      "industrials"
+    ],
+    "industry": "Aerospace & Defense",
+    "sector": "Industrials",
+    "supportive_effects": 5,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 5 constructive, 0 adverse, and 11 catalyst-tagged signals. Coverage quality is strong. It matched 5 supportive and 6 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-24: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-24: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Pentagon email floats 'punishing' NATO allies, suspending Spain - The Jerusalem Post."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (90.58), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.67, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-24: Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aeros - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-24: Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aerospace Demand Boosts Revenue and ... - Investing.com Canada."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 90.58 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-04-24: Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-04-24: Pentagon email floats 'punishing' NATO allies, suspending Spain - The Jerusalem Post."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.82
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.67
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 7.33
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 9.0
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 21.34
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 5
+      },
+      {
+        "label": "Supportive market / sector theme overlay",
+        "points": 6,
+        "value": 5
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 6
+      },
+      {
+        "label": "Headline sentiment is improving",
+        "points": 3,
+        "value": 0.033
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 69
+  },
+  "sources": [
+    {
+      "published_at": "2026-04-24",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-04-24_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-04-24",
+      "publisher": "MarketBeat",
+      "title": "Copeland Capital Management LLC Sells 50,938 Shares of Hexcel Corporation $HXL - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkR3a3pOWjFoaHdBUlVqdkkyV25uLU40ak5mRHRQVndSODRGcUxxbWZPdzZEOXN4MkdJYnc3VHFKSUpQQnVyU2tiYXN4cGlqRlNnZ1dSLXo1ZFh6OEdxNXR5M0NiWkhUc3dmaWhKdHloYVcyb29UWjBWcXdBcEJRYzJxaHhqSXhKQmx4Skp6SnZJbkxoSlVqTnJOampCOXJTZXphNUM1M20xZUtRUUJqbHlhbFRvWEhfUG10Q0ptZUE4ZGdGLU94RnBxVU5OM2ZMMVpN?oc=5"
+    },
+    {
+      "published_at": "2026-04-24",
+      "publisher": "GuruFocus",
+      "title": "Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aeros - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0ZuQXVtc0syUzFPRUtmNk5MY1hEWGlMaS1aLTdMMHdCRHRUWFJrenVpSDJ2dE1IMTF2M3JXWFlRTHJlLWM5UHRpZkduRkRaeU5ZUENNSmRaMFVpM09GTXJCRjJaTFlMM3N2Vm5IcU5rYXo4b0pYRWY2eE5FU0JndWMyNm5TaVZpWk9odWgxdlB3TV9hbHBydUVMOW5jMlV2OFRQdm5MdGgtcm0weWxRd3daTTZ1UkU5S2g3ZElIemxCdEdveU9HbUFDOTNZTWFkMWFNSg?oc=5"
+    },
+    {
+      "published_at": "2026-04-24",
+      "publisher": "Investing.com Canada",
+      "title": "Hexcel Corp (HXL) Q1 2026 Earnings Call Highlights: Strong Aerospace Demand Boosts Revenue and ... - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFFPNjNXV0Z1RFNybmxibHdpYmUtX2VtS1VJQmpDZ1BPTDk1bk5KTGVURnFmb3FaZkJVclJENFJMbGRzdThSN3VlRHZ6LXhaUWFYdWdPTE1lallGVjJ6bTF5bjY3eFk0UUVJSDBVSFlDSVFTakh5QktQSjFhUG9POU53dlIyUERHMDRIaUsyaUlFQnJKLXBsVjdUWjFBM3pMU181U3M1SmU0NGFGdkROY1U0Qk9GbHZoZDNMcVZZNUtWbERmS21LMUstX2c3U0Z0NmhwQmVZMkItZW8?oc=5"
+    },
+    {
+      "published_at": "2026-04-23",
+      "publisher": "GuruFocus",
+      "title": "Hexcel (HXL) Reports Q1 2026 Earnings in Line with Expectations - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDBHY294S1VwTEtPN3pEVlZFamFsZ09iMXIyZ243QUJmaDhwQTdsRFNVcUp5Zmg2OWFSU0VVdjRSQUVwR2JVMmoyTjFka1M3NVk5b2tQRm9EeGRPLUd0eXhvQkVTTjF6R1lDWHhndUlubXBQWF9GMFZKcnNibUhzbzNnT0tkbUFfVlJLbEtUNzk0bF91WnVsSldjbFUteFJubjlIR3lab2RwQ1Y3ZDRoVk93?oc=5"
+    },
+    {
+      "published_at": "2026-04-23",
+      "publisher": "Moomoo",
+      "title": "Earnings Call Summary | Hexcel(HXL.US) Q1 2026 Earnings Conference - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajk5TGl6UlVtU0xQdFVmREZVUV9YUk5XcXdHMUZldFlIcmtUcmlORDJHZEhvOW5aQUN3akNzOXRXbVFnNGdFak1jZExoYVdsdk5HbXlQYzFKN3NIWjJfclZ6b0h5ZEt2N1I1cjJRQzNiSTBKYkNpcmlkT25sYlhwS2JrY3I5SC1fbHdjemdLWFRrNXMtZVdqZTFzVHl3R3VFeURSMU85cw?oc=5"
+    },
+    {
+      "published_at": "2026-04-23",
+      "publisher": "simplywall.st",
+      "title": "Did Hexcel's (HXL) Q1 Beat and Reaffirmed Outlook Just Reset Its Aerospace Margin Story? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOalU3VUY1Tzh5VG5KempwZUNidUk3MEpQc2FIUEpicWJ5ODhhbmNOY0wtWFhPSy0tRktERi1UZ3I5a2lCRTJrTHc1S0dORTJzZmkwZFhWN3I3bk5FZG9Yd1ZPYndJSVREdU1DeEF1Z3oybEowMVBCMkw5LVdxbnpEa0F6MHpNMWhvbDdfSGs5XzJhNXRhaVpwZVdKdU5NVEVFQVBuVGlia1RuMGV2Y0NOSWtlSXRDU1JZeTJKNGc5Vm85Qm1pd2fSAcsBQVVfeXFMTktkYks3RzFDYmlSWlNmZ00tbjY4a2t0dkZvdE9NRnhFYkZudG5PZ19VQU1SYndQUWZVMnRnOU9GTDNPVHVEMnJIMjcyRnk0SHpFVXdPMUdWVWo4QjBPa2RvTDJ3TkUxWUUtNUJDcV9DclZTcTlieWU0R0lfM3hzZmJPVVk2OFVEZzQ5bDZ2aG5fLWxZR2prYVVOSHF5V2tTYmtWQ3diUU5FT3UtZ2hsNjRJeHFXYjU0OGczSU0tYU1maFE1ak9WZHBXSWc?oc=5"
+    },
+    {
+      "published_at": "2026-04-23",
+      "publisher": "StockStory",
+      "title": "Hexcel (HXL) Stock Trades Up, Here Is Why - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmEyM01rVWZ6VXBjZkstRGNFMFZRTlgybVdmREU3cHlLaHgzanU3U2NEN1V6czhKOEVyeWg2X3h3QnY0SUpoeXZfeldqSUVRNTBYeno2UGhpT21FWE9SeTY1R1ZqNlBMbURiN0pjS3BWdy1WSWZDVjdEMDFJZk9QYVBOdXlnTnNCOHNFejNvYXFTN3hQc2stVVN4WkVvUmhM?oc=5"
+    }
+  ],
+  "summary": "HXL scores 69/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 5 supportive versus 6 adverse effects.",
+  "symbol": "HXL"
+}

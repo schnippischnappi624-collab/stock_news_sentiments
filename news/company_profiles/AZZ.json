@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-24T09:15:52.547612+00:00",
+  "industry": "Specialty Business Services",
+  "long_name": "AZZ Inc.",
+  "provider": "yfinance",
+  "query_symbol": "AZZ",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AZZ",
+  "sector": "Industrials",
+  "short_name": "AZZ Inc.",
+  "symbol": "AZZ"
+}

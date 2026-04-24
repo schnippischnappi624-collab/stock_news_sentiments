@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-24T09:15:52.547612+00:00",
+  "industry": "Other Industrial Metals & Mining",
+  "long_name": "Teck Resources Limited",
+  "provider": "yfinance",
+  "query_symbol": "TECK",
+  "quote_type": "EQUITY",
+  "requested_symbol": "TECK",
+  "sector": "Basic Materials",
+  "short_name": "Teck Resources Ltd",
+  "symbol": "TECK"
+}

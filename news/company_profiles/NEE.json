@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-24T09:15:52.547612+00:00",
+  "industry": "Utilities - Regulated Electric",
+  "long_name": "NextEra Energy, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "NEE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NEE",
+  "sector": "Utilities",
+  "short_name": "NextEra Energy, Inc.",
+  "symbol": "NEE"
+}
