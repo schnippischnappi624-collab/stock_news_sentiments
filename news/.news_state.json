@@ -224,7 +224,7 @@
     "provider": "google_news_rss"
   },
   "AZZ": {
-    "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
+    "last_fetch_utc": "2026-04-25T09:15:05.481364+00:00",
     "provider": "google_news_rss"
   },
   "B7J": {
@@ -984,7 +984,7 @@
     "provider": "google_news_rss"
   },
   "TXN": {
-    "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
+    "last_fetch_utc": "2026-04-25T09:15:05.481364+00:00",
     "provider": "google_news_rss"
   },
   "UI": {
@@ -992,7 +992,7 @@
     "provider": "google_news_rss"
   },
   "UNP": {
-    "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
+    "last_fetch_utc": "2026-04-25T09:15:05.481364+00:00",
     "provider": "google_news_rss"
   },
   "UTDI": {
@@ -1016,7 +1016,7 @@
     "provider": "google_news_rss"
   },
   "VLY": {
-    "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
+    "last_fetch_utc": "2026-04-25T09:15:05.481364+00:00",
     "provider": "google_news_rss"
   },
   "VSH": {
@@ -1052,7 +1052,7 @@
     "provider": "google_news_rss"
   },
   "WST": {
-    "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
+    "last_fetch_utc": "2026-04-25T09:15:05.481364+00:00",
     "provider": "google_news_rss"
   },
   "WT": {
