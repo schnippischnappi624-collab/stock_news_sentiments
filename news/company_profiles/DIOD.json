@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-04-26T09:15:51.682527+00:00",
+  "industry": "Semiconductors",
+  "long_name": "Diodes Incorporated",
+  "provider": "yfinance",
+  "query_symbol": "DIOD",
+  "quote_type": "EQUITY",
+  "requested_symbol": "DIOD",
+  "sector": "Technology",
+  "short_name": "Diodes Incorporated",
+  "symbol": "DIOD"
+}

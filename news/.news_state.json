@@ -259,6 +259,10 @@
     "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
   },
+  "BKR": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
   "BMA": {
     "last_fetch_utc": "2026-04-16T04:00:06.896775+00:00",
     "provider": "google_news_rss"
@@ -316,7 +320,7 @@
     "provider": "google_news_rss"
   },
   "COHU": {
-    "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "COTN": {
@@ -391,6 +395,10 @@
     "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
     "provider": "google_news_rss"
   },
+  "DIOD": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
   "DOV": {
     "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
     "provider": "google_news_rss"
@@ -413,6 +421,14 @@
   },
   "ENDUR": {
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
+    "provider": "google_news_rss"
+  },
+  "ENTG": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
+  "ESI": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "EWBC": {
@@ -517,6 +533,10 @@
   },
   "HPE-PC": {
     "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
+    "provider": "google_news_rss"
+  },
+  "HRTG": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "HTBK": {
@@ -635,6 +655,10 @@
     "last_fetch_utc": "2026-04-17T04:00:05.903568+00:00",
     "provider": "google_news_rss"
   },
+  "LSCC": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
   "M7U": {
     "last_fetch_utc": "2026-04-26T04:00:06.255457+00:00",
     "provider": "google_news_rss"
@@ -667,12 +691,16 @@
     "last_fetch_utc": "2026-04-17T04:00:05.903568+00:00",
     "provider": "google_news_rss"
   },
+  "MRAM": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
   "MRVL": {
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
     "provider": "google_news_rss"
   },
   "MXL": {
-    "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "N4G0": {
@@ -767,6 +795,10 @@
     "last_fetch_utc": "2026-04-23T09:15:06.001499+00:00",
     "provider": "google_news_rss"
   },
+  "PDFS": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
   "PEAB-B": {
     "last_fetch_utc": "2026-04-13T14:45:06.016731+00:00",
     "provider": "google_news_rss"
@@ -780,7 +812,7 @@
     "provider": "google_news_rss"
   },
   "POET": {
-    "last_fetch_utc": "2026-04-21T09:15:06.162616+00:00",
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "POWI": {
@@ -849,6 +881,10 @@
   },
   "RXL": {
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
+    "provider": "google_news_rss"
+  },
+  "SCI": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "SEM": {
@@ -939,12 +975,20 @@
     "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
     "provider": "google_news_rss"
   },
+  "SXT": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
+    "provider": "google_news_rss"
+  },
   "SYF": {
     "last_fetch_utc": "2026-04-20T09:15:05.475272+00:00",
     "provider": "google_news_rss"
   },
   "SYIFJERADKKA": {
     "last_fetch_utc": "2026-04-20T04:00:06.406977+00:00",
+    "provider": "google_news_rss"
+  },
+  "SYNA": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "SYRE": {
@@ -997,6 +1041,10 @@
   },
   "UTDI": {
     "last_fetch_utc": "2026-04-21T04:00:05.712824+00:00",
+    "provider": "google_news_rss"
+  },
+  "UVE": {
+    "last_fetch_utc": "2026-04-26T09:15:05.773679+00:00",
     "provider": "google_news_rss"
   },
   "VAIAS": {

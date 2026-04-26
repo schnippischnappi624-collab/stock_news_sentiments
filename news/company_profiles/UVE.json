@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-26T09:15:51.682527+00:00",
+  "industry": "Insurance - Property & Casualty",
+  "long_name": "Universal Insurance Holdings, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "UVE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "UVE",
+  "sector": "Financial Services",
+  "short_name": "UNIVERSAL INSURANCE HOLDINGS IN",
+  "symbol": "UVE"
+}

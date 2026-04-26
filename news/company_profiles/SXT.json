@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-04-26T09:15:51.682527+00:00",
+  "industry": "Specialty Chemicals",
+  "long_name": "Sensient Technologies Corporation",
+  "provider": "yfinance",
+  "query_symbol": "SXT",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SXT",
+  "sector": "Basic Materials",
+  "short_name": "Sensient Technologies Corporati",
+  "symbol": "SXT"
+}
