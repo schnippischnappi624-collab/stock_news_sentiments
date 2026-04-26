@@ -3,7 +3,7 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-04-25`
+- Feed dates: `2026-04-25, 2026-04-26`
 - Symbols analyzed: `19`
 
 Quick links:
@@ -13,9 +13,9 @@ Quick links:
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-04-25_eu_479e76ec`
-- Prior regional run: `2026-04-24_eu_8fd69b77`
-- Feed dates: `2026-04-25`
+- Run ID: `2026-04-26_eu_50ae807b`
+- Prior regional run: `2026-04-25_eu_479e76ec`
+- Feed dates: `2026-04-26`
 - Symbols analyzed: `14`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `14` of `14`
@@ -24,17 +24,17 @@ Quick links:
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [VIRI](<latest/eu/analysis/markdown/VIRI.md>) | Viridien | $\color{#bc4c00}{\textsf{+3.60\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(9)}}$ |
+| 1 | [VIRI](<latest/eu/analysis/markdown/VIRI.md>) | Viridien | $\color{#bc4c00}{\textsf{+3.60\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
 | 2 | [ZUBN](<latest/eu/analysis/markdown/ZUBN.md>) | Zueblin Immobilien Holding AG | $\color{#bc4c00}{\textsf{+3.76\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 3 | [0ROY](<latest/eu/analysis/markdown/0ROY.md>) | Davide Campari Milano SpA | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(12)}}$ |
-| 4 | [EFG](<latest/eu/analysis/markdown/EFG.md>) | Eagle Football Group SA | $\color{#9a6700}{\textsf{+2.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(9)}}$ |
+| 4 | [EFG](<latest/eu/analysis/markdown/EFG.md>) | Eagle Football Group SA | $\color{#9a6700}{\textsf{+2.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
 | 5 | [ILKKA1](<latest/eu/analysis/markdown/ILKKA1.md>) | Ilkka Oyj 1 | $\color{#9a6700}{\textsf{+1.35\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 6 | [CBSM](<latest/eu/analysis/markdown/CBSM.md>) | Soc Centrale Bois Scieries Manche SA | $\color{#bc4c00}{\textsf{+3.63\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 7 | [TGS](<latest/eu/analysis/markdown/TGS.md>) | TGS NOPEC Geophysical Company ASA | $\color{#bc4c00}{\textsf{+4.13\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 8 | [CURN](<latest/eu/analysis/markdown/CURN.md>) | CURATIS N AG | $\color{#1a7f37}{\textsf{+0.92\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 9 | [ROBA](<latest/eu/analysis/markdown/ROBA.md>) | Robeco Sust Global Stars Eqs Fd – EUR E | $\color{#9a6700}{\textsf{+1.44\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 10 | [FREY](<latest/eu/analysis/markdown/FREY.md>) | Frey SA | $\color{#9a6700}{\textsf{+1.11\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 11 | [CRAP](<latest/eu/analysis/markdown/CRAP.md>) | Caisse Régionale du Crédit Agricole Alpes Provence | $\color{#1a7f37}{\textsf{+0.15\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{64}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(7)}}$ |
+| 11 | [CRAP](<latest/eu/analysis/markdown/CRAP.md>) | Caisse Régionale du Crédit Agricole Alpes Provence | $\color{#1a7f37}{\textsf{+0.15\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(8)}}$ |
 | 12 | [CRTO](<latest/eu/analysis/markdown/CRTO.md>) | Caisse Reg Cred Agric Mut Tourain Poitou | $\color{#1a7f37}{\textsf{+0.04\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 
 ### Entry Ready But Already Spiked
