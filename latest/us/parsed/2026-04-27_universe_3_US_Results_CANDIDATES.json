@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-04-26",
-    "filename": "2026-04-26_universe_3_US_Results_CANDIDATES.txt",
+    "feed_date": "2026-04-27",
+    "filename": "2026-04-27_universe_3_US_Results_CANDIDATES.txt",
     "kind": "Results_CANDIDATES",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-04-26_universe_3_US_Results_CANDIDATES.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-04-27_universe_3_US_Results_CANDIDATES.txt"
   },
-  "run_date": "2026-04-26",
+  "run_date": "2026-04-27",
   "table_count": 1,
   "tables": [
     {
@@ -80,7 +80,7 @@
           "symbol": "COHU",
           "turnover_20d": 46144373.028,
           "turnover_day": 173847492.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 1138508318.02649,
           "vol_anom": 3.74636769374029,
           "volume": 3704400.0
@@ -116,7 +116,7 @@
           "symbol": "LSCC",
           "turnover_20d": 190663228.02,
           "turnover_day": 408813480.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 4286656350.21507,
           "vol_anom": 2.14356439804496,
           "volume": 3329100.0
@@ -152,7 +152,7 @@
           "symbol": "ESI",
           "turnover_20d": 109658315.646,
           "turnover_day": 218411329.08,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 2897411355.52344,
           "vol_anom": 1.99174433597063,
           "volume": 5414262.0
@@ -188,7 +188,7 @@
           "symbol": "SCI",
           "turnover_20d": 84753882.572,
           "turnover_day": 154878542.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 4080273999.48652,
           "vol_anom": 1.75279408543672,
           "volume": 1765400.0
@@ -224,7 +224,7 @@
           "symbol": "BKR",
           "turnover_20d": 569530526.742,
           "turnover_day": 1068742350.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 17708996815.3925,
           "vol_anom": 1.85923368757314,
           "volume": 15502500.0
@@ -260,7 +260,7 @@
           "symbol": "ENTG",
           "turnover_20d": 374917224.726,
           "turnover_day": 676547652.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 9439605089.7969,
           "vol_anom": 1.79488619620451,
           "volume": 4337400.0
@@ -296,7 +296,7 @@
           "symbol": "DIOD",
           "turnover_20d": 57611417.4,
           "turnover_day": 106341840.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 1432238290.40181,
           "vol_anom": 1.83592514771213,
           "volume": 1018600.0
@@ -332,7 +332,7 @@
           "symbol": "SYNA",
           "turnover_20d": 71151882.347,
           "turnover_day": 170374672.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 1530376421.13139,
           "vol_anom": 2.3324945078842,
           "volume": 1815200.0
@@ -368,7 +368,7 @@
           "symbol": "HRTG",
           "turnover_20d": 6703788.5925,
           "turnover_day": 13484689.0,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 179484757.147907,
           "vol_anom": 1.71897250502384,
           "volume": 460700.0
@@ -404,7 +404,7 @@
           "symbol": "PDFS",
           "turnover_20d": 20816243.8505,
           "turnover_day": 62698784.99,
-          "updated_ts_utc": "2026-04-26T08:45:46Z",
+          "updated_ts_utc": "2026-04-27T08:45:51Z",
           "vol_adj_liq": 461567813.329058,
           "vol_anom": 3.01201241877718,
           "volume": 1348651.0
