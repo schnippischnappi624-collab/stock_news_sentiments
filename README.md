@@ -3,7 +3,7 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-04-27`
+- Feed dates: `2026-04-27, 2026-04-28`
 - Symbols analyzed: `29`
 
 Quick links:
@@ -13,9 +13,9 @@ Quick links:
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-04-27_eu_52604858`
-- Prior regional run: `2026-04-26_eu_50ae807b`
-- Feed dates: `2026-04-27`
+- Run ID: `2026-04-28_eu_df30e4b1`
+- Prior regional run: `2026-04-27_eu_52604858`
+- Feed dates: `2026-04-28`
 - Symbols analyzed: `14`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `14` of `14`
@@ -26,7 +26,7 @@ Quick links:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [VIRI](<latest/eu/analysis/markdown/VIRI.md>) | Viridien | $\color{#bc4c00}{\textsf{+3.60\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
 | 2 | [ZUBN](<latest/eu/analysis/markdown/ZUBN.md>) | Zueblin Immobilien Holding AG | $\color{#bc4c00}{\textsf{+3.76\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 3 | [0ROY](<latest/eu/analysis/markdown/0ROY.md>) | Davide Campari Milano SpA | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(13)}}$ |
+| 3 | [0ROY](<latest/eu/analysis/markdown/0ROY.md>) | Davide Campari Milano SpA | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(14)}}$ |
 | 4 | [EFG](<latest/eu/analysis/markdown/EFG.md>) | Eagle Football Group SA | $\color{#9a6700}{\textsf{+2.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
 | 5 | [ILKKA1](<latest/eu/analysis/markdown/ILKKA1.md>) | Ilkka Oyj 1 | $\color{#9a6700}{\textsf{+1.35\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 | 6 | [CBSM](<latest/eu/analysis/markdown/CBSM.md>) | Soc Centrale Bois Scieries Manche SA | $\color{#bc4c00}{\textsf{+3.63\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
@@ -42,7 +42,7 @@ Quick links:
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [M7U](<latest/eu/analysis/markdown/M7U.md>) | Nynomic AG | $\color{#cf222e}{\textsf{+23.62\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(2)}}$ |
-| 2 | [MLGAL](<latest/eu/analysis/markdown/MLGAL.md>) | Galeo Concept SA | $\color{#cf222e}{\textsf{+15.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 2 | [MLGAL](<latest/eu/analysis/markdown/MLGAL.md>) | Galeo Concept SA | $\color{#cf222e}{\textsf{+15.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 
 ### Candidates
 
