@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Electronic Components",
+  "long_name": "Schweizer Electronic AG",
+  "provider": "yfinance",
+  "query_symbol": "SCE.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SCE",
+  "sector": "Technology",
+  "short_name": "SCHWEIZER ELECTRONIC AG       N",
+  "symbol": "SCE.DE"
+}

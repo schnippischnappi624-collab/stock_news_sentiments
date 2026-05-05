@@ -1,0 +1,14 @@
+{
+  "country": "Luxembourg",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Steel",
+  "long_name": "Aperam S.A.",
+  "provider": "yfinance",
+  "query_symbol": "APAM.MC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "APAM",
+  "sector": "Basic Materials",
+  "short_name": "APERAM",
+  "symbol": "APAM.MC"
+}

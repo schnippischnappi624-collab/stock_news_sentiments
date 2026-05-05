@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Telecom Services",
+  "long_name": "Weaccess Group, Soci\u00e9t\u00e9 Anonyme",
+  "provider": "yfinance",
+  "query_symbol": "MLWEA.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MLWEA",
+  "sector": "Communication Services",
+  "short_name": "WEACCESS GROUP",
+  "symbol": "MLWEA.PA"
+}

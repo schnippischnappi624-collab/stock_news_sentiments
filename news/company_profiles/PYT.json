@@ -1,0 +1,9 @@
+{
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "provider": "yfinance",
+  "query_candidates": [
+    "PYT"
+  ],
+  "symbol": "PYT",
+  "warning": "no_plausible_match"
+}

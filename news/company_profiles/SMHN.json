@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Semiconductor Equipment & Materials",
+  "long_name": "SUSS MicroTec SE",
+  "provider": "yfinance",
+  "query_symbol": "SMHN.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SMHN",
+  "sector": "Technology",
+  "short_name": "SUSS MicroTec SE              N",
+  "symbol": "SMHN.DE"
+}

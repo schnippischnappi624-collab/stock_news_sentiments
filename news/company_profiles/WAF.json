@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Semiconductors",
+  "long_name": "Siltronic AG",
+  "provider": "yfinance",
+  "query_symbol": "WAF.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "WAF",
+  "sector": "Technology",
+  "short_name": "Siltronic AG                  N",
+  "symbol": "WAF.DE"
+}

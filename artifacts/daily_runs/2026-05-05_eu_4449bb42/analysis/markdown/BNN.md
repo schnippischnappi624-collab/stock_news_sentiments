@@ -1,0 +1,65 @@
+# BNN - BRAIN Biotech AG
+
+- Quote: [Investing.com (BNN)](<https://de.investing.com/search/?q=BNN%20BRAIN%20Biotech%20AG>)
+
+|  |  |
+| --- | --- |
+| **Breakout stance** | $\color{#2da44e}{\texttt{constructive watch}}$ |
+| **Score** | $\color{#9a6700}{\texttt{72}}$ |
+| **Confidence** | $\color{#cf222e}{\texttt{low}}$ |
+| **Bucket** | $\color{#1a7f37}{\texttt{entry ready}}$ |
+| **Current price** | `2.76 EUR` |
+| **Entry limit** | `2.75 EUR` |
+| **Distance to entry limit** | $\color{#1a7f37}{\texttt{0.01 EUR / +0.50\%}}$ |
+| **Initial stop** | `2.47 EUR` |
+| **Prior 20d high trigger** | `2.76 EUR` |
+| **2R target** | `3.29 EUR` |
+| **3R target** | `3.57 EUR` |
+| **Risk distance** | `0.27 EUR` |
+
+## Investment View
+BNN scores 72/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.
+
+- Thesis: The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through.
+
+## What Matters
+- Price is holding above the prior 20-day high (2.76), a basic breakout confirmation signal. (high)
+- Volume anomaly is strong at 2.56, which supports the move. (high)
+
+## Risks / Invalidation
+- A close back below 2.76 would weaken or invalidate the current breakout picture. (high)
+
+## Catalysts
+- The next 1 to 4 weeks matter most around whether price can keep holding above 2.76 and attract follow-through volume. (medium)
+
+## News Read
+- Stance: `mixed`
+- Explanation: Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.
+
+## Key Levels
+- Volume anomaly: `2.56235047219307`
+- Close: `2.76`
+- Prior 20d high: `2.76`
+- ATR14: `0.182630945221162`
+
+## Why This Score
+- Base breakout score: `+40`
+- Feed marks the setup as ENTRY_READY: `+10`
+- Price is holding above the 20-day high trigger: `+7` (value: `0.0`)
+- Volume confirmation is supportive: `+6` (value: `2.56`)
+
+## Coverage
+- Stock-news coverage quality: `none`
+- Stock-specific articles scored: `0`
+- Market headlines scanned: `20`
+- Macro overlay weight used in scoring: `0.35`
+
+## Market Overlay
+- Exposures: `metals`
+- Matched supportive macro effects: `0`
+- Matched adverse macro effects: `0`
+- Effective supportive effects after coverage weighting: `0`
+- Effective adverse effects after coverage weighting: `0`
+
+## Sources
+- [Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)](<https://stock.sdc-fried.de/data/2026-05-05_universe_5_EU_Results.txt>) - 2026-05-05

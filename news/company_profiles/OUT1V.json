@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Steel",
+  "long_name": "Outokumpu Oyj",
+  "provider": "yfinance",
+  "query_symbol": "OUT1V.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "OUT1V",
+  "sector": "Basic Materials",
+  "short_name": "Outokumpu Oyj",
+  "symbol": "OUT1V.HE"
+}

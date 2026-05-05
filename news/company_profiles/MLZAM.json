@@ -1,0 +1,14 @@
+{
+  "country": "Zambia",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Other Industrial Metals & Mining",
+  "long_name": "ZCCM Investments Holdings Plc",
+  "provider": "yfinance",
+  "query_symbol": "MLZAM.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MLZAM",
+  "sector": "Basic Materials",
+  "short_name": "ZCCM",
+  "symbol": "MLZAM.PA"
+}

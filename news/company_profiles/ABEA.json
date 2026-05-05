@@ -1,0 +1,10 @@
+{
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "provider": "yfinance",
+  "query_candidates": [
+    "ABEA.DE",
+    "ABEA"
+  ],
+  "symbol": "ABEA",
+  "warning": "no_plausible_match"
+}

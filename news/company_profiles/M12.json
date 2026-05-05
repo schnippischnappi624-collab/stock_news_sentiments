@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-05T04:01:02.608344+00:00",
+  "industry": "Medical Distribution",
+  "long_name": "M1 Kliniken AG",
+  "provider": "yfinance",
+  "query_symbol": "M12.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "M12",
+  "sector": "Healthcare",
+  "short_name": "M1 Kliniken AG                I",
+  "symbol": "M12.DE"
+}

@@ -1,0 +1,648 @@
+{
+  "analysis_date": "2026-05-05",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_bullish",
+    "score_0_to_100": 82,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-30: Cementos Molins, S.A. Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-08: Caisse R\u00e9gionale de Cr\u00e9dit Agricole Mutuel Sud Rh\u00f4ne Alpes Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-03-25: Caisse r\u00e9gionale de Cr\u00e9dit Agricole Mutuel d'Ille-et-Vilaine Soci\u00e9t\u00e9 coop\u00e9rative Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Cementos Molins SA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 9
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "Melkite Catholic bishops express concern over Israeli demolitions in southern Lebanon - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGE3RUx4eGhqVTQ1WFpDZVBGNGdtU0FVMUs0OTNYMDVhRm9yam9rci12cExncmlvUFZUaE9GYTk5eHprRVdsMnBJVGw1MjM2SDQwQl9RMVZpc002MEQxYnBrcVVIVTF5eDZBSUxLYUMyU2Q5OTZMMEN6TDZ0ZzVaV3IyaGc4dXZXeWNhZXFka056SGR5ZVZ4Vl9R?oc=5\" target=\"_blank\">Melkite Catholic bishops express concern over Israeli demolitions in southern Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lTdHJpREVSRjVQV0RURXpSUDZ5Z0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">View Full Coverage on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGE3RUx4eGhqVTQ1WFpDZVBGNGdtU0FVMUs0OTNYMDVhRm9yam9rci12cExncmlvUFZUaE9GYTk5eHprRVdsMnBJVGw1MjM2SDQwQl9RMVZpc002MEQxYnBrcVVIVTF5eDZBSUxLYUMyU2Q5OTZMMEN6TDZ0ZzVaV3IyaGc4dXZXeWNhZXFka056SGR5ZVZ4Vl9R?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "Your Spirit loyalty points are probably worthless now \u2014 but these other airlines may match your rewards",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Loyal customers who amassed thousands of points through flight purchases and credit-card swipes might not see a penny in compensation for their accumulated rewards.",
+          "url": "https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "What to know about the US military presence in Europe as Trump seeks drawdown of thousands of troops - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.018867924528301886,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUpKbThZbkZuSGtQYWxQM3dlVHBnNVMzUjBzWlhXMnkyUXpTSFpwNW05ODBOYVpuR0dJd2tRS1pNU3M5MFRQdU1sRE1wbkNzT1NfRlQzakZYLUtQNG55TXZ1V1haVnRLeWx3Rl84RF9WUXBfYU1aUGU0aS1CSjNHVHFWTjBESkpNbFVfN29GQWJwRlpfa3F1dnVtcGNNTkt4bVFoUXp0UDh0RWQ3SC1v?oc=5\" target=\"_blank\">What to know about the US military presence in Europe as Trump seeks drawdown of thousands of troops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1vQmVIazhLbXhxTnNWMEJoNTlEelVLU3ZnU1otSlFhSUVwaTRDTHZ1OGpVZXVzbWM0WV9hZUJzaW5HLXJRUTNQZ1dtSDduRjJMRWZVQXlEWTBGaWJhcW9nTkFBWEtsdEtTTklqZmxNXy1HbnJwN1ozdlpR?oc=5\" target=\"_blank\">The loss of 5,000 US troops in Germany is just the tip of the challenge facing Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeVJYdnJvMUlyUDk3TGlBbzhFclhEb21lbG1aWExqZ2UxdndMeUZqWVYwdlk5VmpTXy1PRnRielFKNGpoR19BbWZuWllQX2pMcW1KeFlQX0hOejRzSlE1NURfR3p2OEVfLTAyYmdPSUsxMVdoLVJKcnowdUxKSTBpc1hVaGxTMXhqQm1z?oc=5\" target=\"_blank\">Germans Are Not Panicking Over Trump\u2019s Troop Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZExfd0NiSGl5b0VHMFUtMm9ZaFF6YjBHRGQ5MWs1bVo4QWoyR0Q4aFROQlJSNE5TM3VmRzBqM3Z2aDBoVUYxTDZRWno4b0Vyai0tZmNDN2NOVlNzR2t2QUg5VWlOQWVzNWltMkRYNEVFLVBzbnhyb3BUeE1Sck9sQ0xFWF9ZemZxM3pNdUdWLVZUZlEzUnVheNIBsgFBVV95cUxNM0ZpcXNtY3ZmcV9uQ0pLREd6OFNyYUFqR2J1MW4xUlpGSXJYTzJ0TEFpUm40OXoxR05HNkFCM0lKejBLZDRGamxtQ2Q5UnJMNFowVzNPMEpqUm13c2FndjRtdVdocE5TUGNWVmdsa3lxTnIybUh4VWV6RGVjSmliT2NEclMtREVtV3d5UjZvaXh6MEhyQk5UckxMUjUzYXVpaFRtRkEwRXZyd3czZDItOUR3?oc=5\" target=\"_blank\">Trump threatens to pull troops from Germany. Why Europe isn\u2019t panicking.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Christian Science Monitor</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFZvYi1hUWd3UE1yc0szVWs1bGlGd2tsRHZkVmd3b1VtTVBxYURkOHV1TFhRMmZCTEVmbUNId3Z4eWwzd3VCSWUtVFQ1T2YzVFFzWDdfYmVPaUppVWFVRnFvOXp1UFJ5WFpZLVNfMWgtN3dFSXRfY2h0OXZkM3VJMkZ1T3dWOUh3RER3Vm5XWXZhMmo4SVZGQlc4QWhVV1hLTXdKU3pUT2VHUQ?oc=5\" target=\"_blank\">Trump's Germany troop cuts show limits of NATO efforts to keep US on board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUpKbThZbkZuSGtQYWxQM3dlVHBnNVMzUjBzWlhXMnkyUXpTSFpwNW05ODBOYVpuR0dJd2tRS1pNU3M5MFRQdU1sRE1wbkNzT1NfRlQzakZYLUtQNG55TXZ1V1haVnRLeWx3Rl84RF9WUXBfYU1aUGU0aS1CSjNHVHFWTjBESkpNbFVfN29GQWJwRlpfa3F1dnVtcGNNTkt4bVFoUXp0UDh0RWQ3SC1v?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "Merz\u2019s strategy for dealing with Trump\u2019s anger: Tell him he\u2019s right - politico.eu",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "politico.eu",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmVzbjRLbzJEVDJpcUVOdVVJN1BXWk5TaGJYVUhmeTVxSjFIdjdabUhQM1VQZU43blYyY0VibXZtMHp4WElmQ1duX0FPam5zVTh1YlJpRGtWUk9oS1RfUXhxS1YwQjVNZGxwNVp1akExTTYtZ2RnV1ZHLU9PVllTR3ljdWRNQWRiMDM4SUVkUmMyYUkzdVBxZ1ZrVjdaUWhITDVHMm84NjhodV9UYXhqamZEb3hBQQ?oc=5\" target=\"_blank\">Merz\u2019s strategy for dealing with Trump\u2019s anger: Tell him he\u2019s right</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0Q0X3M4MVFEZXE2a0prcFNRaWJNcVM2bm1PeWRHdDduTExiTzlVZUVMcm5GRDdMeGNQT0hCR1hQbWVkYXNBdmtQSXhod3oxTW1hRG85YU10bUowWmEtYzBzVThOaDBReWpHQVdncnFCZGhCUkhkcXgxak1ZVEZ1U1JRYzEzTFBWZzZ3WFhYUlc2U05PakxWVnRn?oc=5\" target=\"_blank\">Friedrich Merz\u2019s ill-timed tussle with Donald Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjdERFlCZlpUOGpNSy1Semg3alZjVFQyNlJPZ3NQb25YVDF6NnZRNGotNWx2c1J3d1RxVDk2MlhlMVFncGdrV0Fnd1poSlc5R1RPZXUtZWVFejZFemZ6RnlLWTRhbWxrSzZNdWVEVkIzODJaZHZGMFd4SXJJekJHMUYxM3g?oc=5\" target=\"_blank\">Trump continues broadsides against Germany's Merz over Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxORHpTTi1Kb3lvc3NYNXJqWWVoWXVNcHl0Ty1qa05zUk4tTUhpM01kMWdUUmhOMnhmNG1FQnJ0RDBlYVlOWGhjbno0WGxzRktWMXpPV2dyM0xXdHJCN2xVYkMyNHFoa1pWTGRiSGl1LTZsYUhra2dSSlZWd2dDVFhZelhNRE1UMHNudmxubUxMVXp1M09BYnFtYTlMUkZYRnBOQzVFNWxFQkdiS2xN?oc=5\" target=\"_blank\">Merz \u2018not giving up on working with Trump\u2019 despite Iran war spat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNcGszM2JpZnFoenk4Zm43ME91dVhIdFFReXlLdnNTRDJuYXdMYmtLRk1DQW14WElSdzBGbjYxY0dfMm1jeXd5dVQ2Qk1zM2RqaGFSQ3Zvbzh5THdBWUg2OHpfSEM0WHJNbVRxSWpCbmgyZjE3cExUMnBjWXVyQWExQ0FUONIBiAFBVV95cUxPQldTUlBzUTV3Qk82cVU1MTNYUGZRR0ZyM0wyOG1zQVNaWm82ajNSMnl4X0VRLVlzZVNQS3gySzJCY0xXOWJNZWtXY1BrVUotU1IwREk3OTZSTE1fdDNBZnJqUjVETXpLY1dhSGhYTWFLNFBqeTZULWRIX3J1ZkVCZHNUMVItVzl2?oc=5\" target=\"_blank\">Trump\u2019s war of words with Friedrich Merz takes toll on US-German relationship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmVzbjRLbzJEVDJpcUVOdVVJN1BXWk5TaGJYVUhmeTVxSjFIdjdabUhQM1VQZU43blYyY0VibXZtMHp4WElmQ1duX0FPam5zVTh1YlJpRGtWUk9oS1RfUXhxS1YwQjVNZGxwNVp1akExTTYtZ2RnV1ZHLU9PVllTR3ljdWRNQWRiMDM4SUVkUmMyYUkzdVBxZ1ZrVjdaUWhITDVHMm84NjhodV9UYXhqamZEb3hBQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "Explosion at China fireworks factory kills 21 people - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKRVlsYWlEUzlzcHcxeUVJWmdFcVhDREVvT2Q0SmxRR3d4dXVTcU9qazdfQThPYm43MGFCRWN1RVdkY2JIRHBiczU3bTJQUWR2ZGdZWHM5RFpFQQ?oc=5\" target=\"_blank\">Explosion at China fireworks factory kills 21 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcERBdmZqR0ZnV3dwaHJtU1ZwR29oS1VLT1hucVVGNnJaTlFFaEZidGdCU0ZtM01hS3M4Um5pV3ZSWUVUQlZoYzlLSFVOLVJleU0wQjBkRnFPZnlyUXRVdGNsd3ItXzBBZXdkYzFPcEFnTmlPMXpyV1plRVZ2dEw0VVZKMG1YczdIUmNCSk44YnB3TjdlUG0yVHBrYy1sb1l6?oc=5\" target=\"_blank\">At least 21 dead, 61 injured in explosion at Chinese fireworks factory, state media says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1hLdm93SWozNW9wbGx2aklFZFhSUmF6Yk1IcjkyZWVZa0pnLVpFcUd3ZWdzR25HQUZtcTBQUEdpVXBPZ2k3MHJHTlktUkl3MXg5eDNCTmlvd0hKcWVHaGpNVG83ZXloRVFVTWNHdlF4dURoXzZjTmthc1RHRG5aWU5HRVduTk5kam5uN3V2aVltcTVlQjFVUg?oc=5\" target=\"_blank\">Explosion at fireworks factory in China kills at least 21 people , state media says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnByWE4zcURReDVBLXh3R1ZFMkVRZDVFd3FJTnZPeVVIQkdzX2hEQVliR1doMVQzRWhCaFBLVEI4bEpXeHpnOTJrVVR3ZllqMGlnMG03WXBjWldTMkwyRFZ0UTBEOVJMcUgxd2Q0X05XYzJMdEU2MVZUTFJ4M2xnOWpMT05VcTJkazA3VG9FQ0Y2Wkk4TjQ4N21mQk81UzhJOHFpVHRuUHE3S21RRlZzSWxUckVJN3FCMkc3NkdjSQ?oc=5\" target=\"_blank\">Developing | China fireworks factory explosion kills 21, injures more than 60 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmFNcGtWdTloeXhhUEdyTk93R19TRnFWLVZreUVTX2p3Zm1qdk1qdGFMRldQTEpmMXdGQWNIY1ZxVUkxOUVlV3BUa21VaEVsaHhRV29Zc1d1TmQ4YWdIczRiNk96UDJPR0R4bjl1UnlEUXpHa19ScGgwMFpsNDQ0VjhlQTJ5YnlXeTN6UHJTZXA2Q05vVzdVNDJQN2ozSGhIUmpCLXE3SV9pcWVuUXdQYTlWeFEzcVhYVDJfd2w5SHZqa1RDbFI4?oc=5\" target=\"_blank\">An explosion at a fireworks plant in China kills at least 21 people, state media says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKRVlsYWlEUzlzcHcxeUVJWmdFcVhDREVvT2Q0SmxRR3d4dXVTcU9qazdfQThPYm43MGFCRWN1RVdkY2JIRHBiczU3bTJQUWR2ZGdZWHM5RFpFQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "They boarded a luxury Antarctic cruise. Then hantavirus took a deadly toll - Los Angeles Times",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Los Angeles Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTdJVjRCc2VhN2VrOE83bGJ6dU5nT204TFd2MWt5SktxV2ZjYkRtTWVBSE9IRzN2NGZ0bXhxUnJFaXl5NzVyMFRNazZKYnJNekNEWmtOTVJoVlFycndZdlozSWh3NFR1TUxHMTZjQldzVEJ6M0JQU0VPVDZYall0RmptbUFqbkFlYjY5V3V2RlV6Wjg?oc=5\" target=\"_blank\">They boarded a luxury Antarctic cruise. Then hantavirus took a deadly toll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlRlaFRJTG5JaTVTS0g4b3IzazNySDVIM2ttTDZEa3hnMEZfUmVJdlMwUWRLdnNMV0w1em9Femc4aHJwSlFmUHBUWXJXaktXdmJPbkdLVG5KVlc0QWp6Qm5PTjliakl4VGhQbHRTU2xCejlETGgxc3lPTmRWS1BRd2NKb1pRMkZvY1pBcVJB?oc=5\" target=\"_blank\">More than 100 people remain on ship where suspected hantavirus outbreak has killed 3. Here\u2019s what we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXpWVXp1NWt5OF9iMDl5U3dZMjJIcmxfcFBUOWVZZ012TmdwT3puVURBdGZmcUNkRUZOYWZhODBJRVBVMmFpUFJCd0REYktFbmMxWk1RSEIzQm9adm1fNW02U1RiTEQ3ekZUQlpoTF9RX1BielBmZG1SdkMxZldDOEpBeFM4Y2VnVG5xQkJQbkhEVlZhRHFMRW15MjFkNU44TE9lTWhhTlllSHBUVmdpStIBtgFBVV95cUxPMWU1SUhIb242dzZ4d0dKbzNBMEJGMmotY2puRHVlNmpXeU1nMm5nNDJPMVI3bEs4ZjBNUFVISmV1YTg0QzBjSFNNUmVycm1YS3ZjdW9qQTJQN1ZEZWtYVXR4bzdaZ0VRb1ZPWUNHQ3BxT0hPRWIyclVkNjd1Y05OSmJqY0pqcGp4dUktZElMcUt6LWpfaXk5aEpFMm52YThHQ3ViREg4Z3VvS25STUZPR3VWOFJHQQ?oc=5\" target=\"_blank\">Cruise ship passenger describes uncertainty after 3 deaths amid hantavirus probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE56aUR3QUE0TzJ2OU0wM0RueDU0M21ZR0xzZzVxd19IelI2RXRvS2lIYVFMM1BfOUVtTlFKN2V6R2JvSGpORnFERlJyVktteXZ2SDdRR2M1NkJwOWJ0X05fSjRKN0ZJdkFTVkNvSy10cjdMd0ZURmVYMnVoZjRqVm8?oc=5\" target=\"_blank\">\u2018You Just Can\u2019t Get the Air In\u2019: How Hantavirus Turns Deadly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORVpLaUEzSTEyUkdYMHJ2ZlQzQTdzeU9qR25rcGxXSE5xN25rd1d1UmxPOS05TXZwR0I1MVFEdHRMX1V0TWFBMXZLaUEzdU9NVmJlX1hCTE5mMnA3VkU5Y0hiSkhDb3ExcVBoNXczbm9OUUk0UjdZaWItRGFZWGZWajV1OFNVaXFCT3lwbV9BNGYySG1ySHVfR3Q1LUFJQktqYXNBUXRGckpSak1YSm5WTUdmbzVYY0padGVfX0VIT3VCMmxXdjlWY0xydFFxalV5U0VGTGlPYWhfdlBzOWc?oc=5\" target=\"_blank\">Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTdJVjRCc2VhN2VrOE83bGJ6dU5nT204TFd2MWt5SktxV2ZjYkRtTWVBSE9IRzN2NGZ0bXhxUnJFaXl5NzVyMFRNazZKYnJNekNEWmtOTVJoVlFycndZdlozSWh3NFR1TUxHMTZjQldzVEJ6M0JQU0VPVDZYall0RmptbUFqbkFlYjY5V3V2RlV6Wjg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "\u2018If all six have hantavirus, that\u2019s very worrisome\u2019: This is the key question about the cruise-ship outbreak",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "A rare form of hantavirus can be spread from person to person, raising concern that the current outbreak is the result of the Andes virus.",
+          "url": "https://www.marketwatch.com/story/if-all-six-have-hantavirus-thats-very-worrisome-this-is-what-we-know-about-the-cruise-ship-outbreak-eb1df8d5?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-05",
+          "headline": "Modi\u2019s party wins control of India\u2019s West Bengal in a key state election - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.011764705882352941,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTBwSFM1VGdCUWlqbWplVFlSaW04UEw3RlptdGxLZjlrZTdtTXBUbGpkeVBQdURvTzdXUE5rYkVCNDdWclFLa1VIOExOU3FNdzhYc0hESmE4X0FITDBRMzV3VldONVUzS2R5bm5SRzk0Y0VUamFLY09BZGZ2NjZLR2hFVUdOVHA1cEFnWWZlX0VxMTNPVW5Cb0Z2NTUxX2RYVVZEUUxfckQ?oc=5\" target=\"_blank\">Modi\u2019s party wins control of India\u2019s West Bengal in a key state election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTEg1cDFaQjU4UGJYTzRVbG95dnFjV2Y4M2N4NWtIeU84OUZzNVdhR2VsSVJtM2VjN2JmOXFfLTZzS2k3Z1kyc1M1WEVVRTFIVktmcVN4NkY1OHlwaUxBTTBGMDR2b2E2WGVRODhvRUxISHI1NnI0eTIyU1NKM0l6MXVfaVdZMGdLZUt5MG5QR0NFVmJIRE0yZDJQYUNTdw?oc=5\" target=\"_blank\">Narendra Modi\u2019s BJP wins election in West Bengal for the first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVAzTWliMXl4RnRnM1NPWUhYZUhqR0pZUmdkNFdSel9JeW10dkNkNHpjMVNsRFFsNjB3V3U5clhrN1dPcjNyLVo1M0czU3RxUmliY2pUU05rTmVEZ3VPWHBOc3RfUHpXbDVhWDM1Zm5XNk40d1I4aVU5a2JjblVhUXNpWFk?oc=5\" target=\"_blank\">Narendra Modi\u2019s BJP wins historic landslide in key Indian state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YMEdwWUtUREJEdS05V3l5ZTI2N0lVX25BNXVzY2lVNy10M3pobXBEMDdBUndXLVp4dXR6TjVVTXljbTktZmVQa9IBTkFVX3lxTFBramZVRGdobnEzMnl4Z2tPU3l1cFJ4ZkNnZWRZT09KMjVFSk9fZTdyNHU0MFFRaDVJYWtyTXNxTGw2cVI3aXdkYmNRcjQ3QQ?oc=5\" target=\"_blank\">India's Modi celebrates 'record' win in opposition-held West Bengal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dawn</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNM3NsTFNoeEx6NTA1NDFXRHJCX3lBR3pCcW5HN1FxcE9lWjlNclIyMG8yc3ppUDhnNFdBYVN2ZlkzNTRZVmJoRlNBMGRHTWtkbjRLWEhCbU0tSFV5R0FSYzZHU2JrZWpwbnFLOFFGdks5WjFWOWlzd19ib0ZvcVM2dkZNV0F0UEpnSmRkOFptZW85NmRrcVg2Ny14VE90MEFiRUFoWk9vaS1UWlZYNmkzaDdocDQwMm9uMnNjcVY2NlV0NXdhYjlpWGxVMTZzX1ZzaElkbHZiWjRLYnFOZGlXLUtuSExaZXlrVVMwODVQZTRWWS1NRDllUlhfWElVcHdocldiX1FOc20zZTR2N1BMRXg3bXBUM1ZlZmw4?oc=5\" target=\"_blank\">Election Results Highlights: \"Bengal Has Seen Poriborton\": PM Promises Action Against Infiltrators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTBwSFM1VGdCUWlqbWplVFlSaW04UEw3RlptdGxLZjlrZTdtTXBUbGpkeVBQdURvTzdXUE5rYkVCNDdWclFLa1VIOExOU3FNdzhYc0hESmE4X0FITDBRMzV3VldONVUzS2R5bm5SRzk0Y0VUamFLY09BZGZ2NjZLR2hFVUdOVHA1cEFnWWZlX0VxMTNPVW5Cb0Z2NTUxX2RYVVZEUUxfckQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "Stock Market News, May 4, 2026: Oil Rises, Dow Falls on Fears of Escalation in Hormuz - WSJ",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone",
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.05154639175257732,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmlHZzRDQnVNaU96aHlkZHF5YXp3ZThRUUVQWFVlRVZ6aE0yY1B4SE9JRjkwRjNEaHJTc2g4MWtCWnk5WlBJMVdaclg5WjFlcWxMNWJuajJIMjNaV3Z6UDk5N3FnMm9xYjd1VURoWUdsdDN2UHZMNEdCUWdQMk5vczRLWWhNbW8?oc=5\" target=\"_blank\">Stock Market News, May 4, 2026: Oil Rises, Dow Falls on Fears of Escalation in Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0RocHdTcHFUY2ZWdGpYOGhCY2RFUWx5OUllVGhVV1R6VWJaelRYdl9PWnFLM2tEaUE5MXB0TWV0MkNHemNTT0ZlbTNXQVlvWm83eXA3aU1QNGVxZFFBVmpHOVZ3dnZSSU93Z2RqV093VkcxSWwyVFVUS1dqRGx0TVhxZw?oc=5\" target=\"_blank\">Oil jumps, stocks drop as Iran tightens grip on Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2c0RTVlcS1FOG5adTZUckpJTWxiYnFyWGtNeW51ZHhOMWllVmFSdkt5SDBaUDE5c3FuWFRpUUh2ZzNDdTdETHZQWnNKUW1LNmtKTnJlTmtNZXVQTk5Ld0lHNnBnSEI1NHhOX0NhTnZncmVhSTc2U05ZMjA2ZnRHTGx2eEdOMDN5Ry1La21LOGhlRGZHSGg0?oc=5\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq drop as Hormuz tensions increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFBYUEZPNVlfZkx5YnUyRFF5bEZSZDE5cTN2c2h3bG9JNWRURFNKS1FJVzNqN0RYV0JSaG1aeUxuUUh0elB6ekFkOFg1UjYydFdUdkl3TDV5Sl9qNUJmRXZlR3RGaktvZnFpdGt3bU5BekxIUXNYbjlQR3ZSdTFXZTY3THY1TDVPMG12U0tTNVhYdVVObW53U0NWUHJadVp6Sk0wRjNvcldrbF8xVENzTGRB?oc=5\" target=\"_blank\">US Stock Futures Dip on Reports of Increasing Mideast Tension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNG0tbDF3ZDlmbU53LWpYUnlBSnNWTk90aTlxNjlzUjJrNnNTRTlDV0Jtd3daZzdfcmstWVZ0dWpNOHZzbFpyRmRaU2xfUGt0OWVrbEc1R0htUnVXaEp1a0tsSUZhdkd3cVpKd09Fa1V6TmtvRmFwNk9aY2JKWUxCdkRnTGNMai1EaGp5cnJpYm5pa28?oc=5\" target=\"_blank\">Wall Street falls from its records and oil prices jump after fighting flares in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmlHZzRDQnVNaU96aHlkZHF5YXp3ZThRUUVQWFVlRVZ6aE0yY1B4SE9JRjkwRjNEaHJTc2g4MWtCWnk5WlBJMVdaclg5WjFlcWxMNWJuajJIMjNaV3Z6UDk5N3FnMm9xYjd1VURoWUdsdDN2UHZMNEdCUWdQMk5vczRLWWhNbW8?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-05",
+          "headline": "Palantir posts its fastest revenue growth ever while calling out \u2018AI slop\u2019",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.07142857142857142,
+          "source": "marketwatch_topstories",
+          "summary": "Palantir earnings beat expectations on the heels of explosive demand in the company\u2019s core U.S. market.",
+          "url": "https://www.marketwatch.com/story/palantir-posts-its-fastest-revenue-growth-ever-while-calling-out-ai-slop-03108298?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "South Korean-operated vessel ablaze in Strait of Hormuz; Trump says Iran fired at ship - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFBqaE4zOHBMRUw5MVQ5SkZRZGptd1Z0SXprcXdJcHZ4dk9oaFVfOElQOENfWm16c3BaSWROWWJQRkktSXRmTG9LUV9ORDM4bGhEUF84UkgzdVdfTHRBd0UxSk04blZFQzdmVmZuRUVQSG80al9vOVJWZVdTeVFDNU5qYkJOWDhGN2FyU1RWWG5Ha3Rydk1sYmVTa0ttRXprYktIWUlPYVdNQnhDM0R6OGhVWEozQjVpUUo3cHg4SFNQVnlRMG9SazJWVQ?oc=5\" target=\"_blank\">South Korean-operated vessel ablaze in Strait of Hormuz; Trump says Iran fired at ship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUhPTDJIQ2NSVTFvSllLZlN5emt3MnZpRmxWUzRpSXZFSEJWX2JsamkxbnBGRTJOdm90bUdaUDRaN3ZNN3dKTWhOZnVoXzZsWFlLemNhVzh3ZUEtMW9LTlppbE1yckxDdXE2ZTJHZWphWFJicUF6dDF0T0U3WHBzaENEUl9xXzdENDdMOHVELVZrOFl4dmFVMG1McGNVWjZGVnNBQllselVENGY5ZWc?oc=5\" target=\"_blank\">South Korea Says Its Ship Damaged in Hormuz for First Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VN0V3ZEl0RjlTbEI2cTBLZm1Wb2MydkN3R3pkcEJfQUNWUXUtTkZhanFNWlJDUFd6UGk0NDJGOWlWdkEwRHV5Q0x0OTZBM3IzampLd0EzeFR4Y0FpY05N?oc=5\" target=\"_blank\">South Korean ship attacked near Strait of Hormuz, country's government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTJPTWdiQnVVcVVZY3lnaUJhQTdNUkhUU0hMbjl1TWhCcFhueEJJX0dHRjkzWTh0clA5X09jOEw4Wm5udzl0QzktRXRIWXJDS21jajJRd21fRkV3dHBjdmVfU05QcnktVk1ZVmRneE81ZU5RcmVJNnFnMFBjRWgwQ0pJMUVBUDVsU3c?oc=5\" target=\"_blank\">HMM cargo ship hit by explosion off UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seatrade Maritime News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYml2VUQwTE5QVlJWMTAxQ1RqNlJ0M1YzMnB5ejVQLVNSTHRTc21oTVFFT21DcjNFTlJ0UmtjZHFhTDJOU3dRZmYxUl9EbW40SFBkY0syeVpIbVhuajJORHpZZ0JROGVLRTFWaExRMnhFV20xaEVQeVNoMllnQTJabGtWbldNT04tVFVrTDlTU3RiLUhwQXR2NFlLMWt5UUpsUzFON0xBT1pQa1BPMnE5MktxdFpBbUpER2RocmJQSEd3RG8?oc=5\" target=\"_blank\">South Korea checking whether Korean-flagged vessel struck in Hormuz, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFBqaE4zOHBMRUw5MVQ5SkZRZGptd1Z0SXprcXdJcHZ4dk9oaFVfOElQOENfWm16c3BaSWROWWJQRkktSXRmTG9LUV9ORDM4bGhEUF84UkgzdVdfTHRBd0UxSk04blZFQzdmVmZuRUVQSG80al9vOVJWZVdTeVFDNU5qYkJOWDhGN2FyU1RWWG5Ha3Rydk1sYmVTa0ttRXprYktIWUlPYVdNQnhDM0R6OGhVWEozQjVpUUo3cHg4SFNQVnlRMG9SazJWVQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Elon Musk settles SEC lawsuit over Twitter disclosures, $1.5 million fine imposed - Reuters",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal",
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.05747126436781609,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1JxZnFpTnV6VWtBdEdMLVMtU0R2NDMxSlpvMDNzbzcxdXB4bXUwLXM1bGxJcWtsV0xoZzA0bHhtb0JRWXo2QjVSQ1dkakFEaUp5STRvRXFYVUVhS2I4NXVGcWEyekZRS3IxU2llQkQ3Y1FzUGszUjhiMHZ1MjFwMFE1cF9tTi1RQmE3Q01wQXJ6TjdkSWhHaURZTFZaT3VuX19vQlR2Ynh5djJob1owb3ZHM1J5WFdzNWhIM0FVZw?oc=5\" target=\"_blank\">Elon Musk settles SEC lawsuit over Twitter disclosures, $1.5 million fine imposed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHdyRnJ6eFdkLUcwdGN6QTB1OGhGOU9QczFQYVRBQ0JLeFRYWnRsTnNBRUJiNVluTjE3VHpBNVlCYU9yeDhsNG5IMFdKTWdOLWlkTXdGYXhDeDFidnV5cWhSSXFwY1htNkl4SWVPdUtJU0lRRHNwWmZYc2FFUHpQbTdXaGp2MmZTVU02dlUtUmkwamVjNEtHZXQ3cXhPZXFiQ0R0M0NKRXlKQdIBrwFBVV95cUxPaFVpNTI3TUhkTGItd0FRWFlIUkdaalBxdGt1aC05anlMcEJFTnN5VG90cHdkek9EYUQ1WlFENmg3dUF4a0VSeFVkOTRpZlZxMUxob0M3dVhzMTlzU2syazQ1Q0NsS1VWQUNsMDVPMjk2dXdaQXJmNnQtV0t2VF90M1VlMlNfMGIxb1ZHOVlDQktuX1cwMHB2Q3BXNEhDdzloTXRRMTlKTFhBdnpZUUlR?oc=5\" target=\"_blank\">SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnlmTHVnZ0VLeVdPM01IeGVONUV5M1lzRThrNkFWYkk3UFJ3TDNHQlp4TmVxajJJWUlGa05Ia1gzdUR5SDB6RjAzbkpldDJ5b1lIbHRLQ21DeTNKLW1lcV85aWY0MS1TRy0tZTg3RGgtbld2N1BweF9zcU5GQXo2NDhDV3g0YUdVanVRMWIxZV9zOUlYS3E3RERSTlBhTWVqay14Y3pULWVyZ09vZ05z?oc=5\" target=\"_blank\">Elon Musk settles SEC lawsuit over Twitter stock disclosures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnlpN0FXQlM2aHE0TXZ5VWRxX3BSTVNJNUlKMW1mNkVTbjVyaXdTbXQ5NW5EMVBhYkVTajhIOVV0X0E5aU42X3NsbHRkbnB4SnJKWEZLME9IaERMVTNlRVNlUktneFllbEl6LTk4b3Fub29ZTVNHZkpScVRPbDlWbzZUYl9wOG9YVzliano5VGJYMkhGLVVKaEtWaWg3TTB2SU9UOWVzZ3doMUw3RmwzZkt3?oc=5\" target=\"_blank\">Elon Musk gets just a slap on the wrist as he settles Twitter lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTE9VczF2amlyME9YcmRXcDlKNjlPT2dBMkFGZTJXWHpYQklfRGQxUVlVNGd5TUhWQlEwbE8ycnJkX3U2cnhXV2RrcnNOV3N1Vk80XzBjVmxEWENpcWRDZnJWQ2Vsc09hSkk1MTRDSUNNMmQ2dnZEeXlUS2EzN2lrenlnd1pheGFzVTJPcW80Rm8?oc=5\" target=\"_blank\">Elon Musk settles SEC lawsuit over Twitter purchase and agrees to pay $1.5m fine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1JxZnFpTnV6VWtBdEdMLVMtU0R2NDMxSlpvMDNzbzcxdXB4bXUwLXM1bGxJcWtsV0xoZzA0bHhtb0JRWXo2QjVSQ1dkakFEaUp5STRvRXFYVUVhS2I4NXVGcWEyekZRS3IxU2llQkQ3Y1FzUGszUjhiMHZ1MjFwMFE1cF9tTi1RQmE3Q01wQXJ6TjdkSWhHaURZTFZaT3VuX19vQlR2Ynh5djJob1owb3ZHM1J5WFdzNWhIM0FVZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Robots move in as waste firms struggle to find staff - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zekZ0aFJkTGVtckNySGhYR1JaVTVacHlSTDd2UFhNTHlaMUprS1pibjA5SnFXX3hJRG5SZjRXc1ZpUmxaaEVHS1ZnOGREWmgxT0otd3pseVNzZw?oc=5\" target=\"_blank\">Robots move in as waste firms struggle to find staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zekZ0aFJkTGVtckNySGhYR1JaVTVacHlSTDd2UFhNTHlaMUprS1pibjA5SnFXX3hJRG5SZjRXc1ZpUmxaaEVHS1ZnOGREWmgxT0otd3pseVNzZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "\u2018I always did the graveyard shift\u2019: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The Committee for a Responsible Federal Budget published a paper suggesting capping Social Security at $100,000 for a married couple.",
+          "url": "https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Alberta separatists submit petition for independence referendum - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFByclQ1ZXJ5dUhadnNaZllPUnNDSW0wbVJCVkptQklMVnNVQ0pQTzVKcnJuR0dsa2hfUmE3SnpSTDRwZzcyWlc1d1BhZWlJeVNNY0xtX09lWXhxdw?oc=5\" target=\"_blank\">Alberta separatists submit petition for independence referendum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlRakhvY0NBeE9LZ1JCY0F2WFRKNWE3cW13Ykpma3NQQ2lIeUVBbENLYjZIY2hmazlfMGpycm9DZUdzVDd0bjRjdkV2T3hBa1hyNll4LXZqVFU4a1ZfNlVZZEN2ZzBYaXE4dHFxMmVhWVBnWmVlMFBIN19VM0h4WXZB?oc=5\" target=\"_blank\">Alberta separation group delivers petition, says it has enough names for referendum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGNtanZMUExZSUU5SkM2aElYcU14enk1N0JfRGptdE5VQVBFYWxXc2kzNENjWnlzM2RXVU1VQ3pMQWNLRlpTaXNLMWo0V0hEWnZSN2lLOXhHUUhOWWtCZHNiajBnZllJWXhNeC1kRFhJc3BuWXM3R0Z3azJVSFVKTTdWOVJUcmFxaHJ5REtmTDc5WXc0bDRBMjdNeERFMmRUZmk2TG5raTlFdHUyX3c?oc=5\" target=\"_blank\">Alberta separatist group says more than 300K have signed petition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmx3T0dxS2JBWGQ4VEQzU2tFd0ZwenI4V2F6RTFrY3hRelB0RFptUlRjaUUwQWdrdGtIa1pRbFVRWkdKWFQzQTJpelBtbGI4UU9nZGY0cVVONDN3STM5RXVXQUN5QV9vdkVPZ3dYa3VmQ05ROWFwb2t2bS1uNHRLdUE5dVFFZFpyM09fZFlldnBVNGd5clhMcE1ud3owMnBFVzNwYU9uejgyWHlwS1c0VUpHaXZnQkVZTWc?oc=5\" target=\"_blank\">Alberta separatist group submits petition calling for referendum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUURoNEJCV21HWXlyRjZfdVJlUFE0VHJ2MjRNeURSbWVhdGJuemNVTEpkdkROd1E1a1BFajZSTDRxcEJITEJraHFSN0llWHljYUhFOGdZTURwQkN4Y29BRWtSZXkyUVhPNVd1NmQ5Y21ybnN5ZUpWaDlwZDN4S0V1bHR2aU4tOTcwME55Snp4YWJrZUFVZG5TTXBIcmxfSGFQNG5ycklyUDR2REhfblBZSy03Zw?oc=5\" target=\"_blank\">Alberta Independence Vote Moves Closer as Separatists Clear a Hurdle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByclQ1ZXJ5dUhadnNaZllPUnNDSW0wbVJCVkptQklMVnNVQ0pQTzVKcnJuR0dsa2hfUmE3SnpSTDRwZzcyWlc1d1BhZWlJeVNNY0xtX09lWXhxdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Amazon is taking on FedEx and UPS. That may not be so simple.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "FedEx and UPS shares are falling, but one analyst isn\u2019t sure that Amazon\u2019s new service will have a significantly disruptive effect.",
+          "url": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Tesla just hit a \u2018symbolic\u2019 self-driving milestone. Real-world success will be tougher.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Tesla has reached the threshold Musk once said would be required to achieve \u201csafe unsupervised self-driving,\u201d but the company still faces various hurdles.",
+          "url": "https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "What the Spirit Airlines Implosion Means for Your Vacation - WIRED",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.01282051282051282,
+          "source": "WIRED",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDlXVG5uUGpnUU04bUFvVzg3SEt5dGZDUWJjVDVOTjlaRVozM0hYUEwtUDJhSjF2by1XVl9kc2NCMzBPUW02MlMxVGV0RVJJRFRTNVE1enBJVzh5SDZsd3BMcXNaVUFuVDV0UGdXeUFnb1ZhRklqVzcxR2lGVWVWbFJCYjdpVk5zNnhYQXlqajA?oc=5\" target=\"_blank\">What the Spirit Airlines Implosion Means for Your Vacation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmhpaklUTUR1cXRVbVk4cGxyNmd5NklYWVpTN0lrRk4xZVU1d1RISzh5bkhYQzJTWEpnT0xQMmhfeEtGQjE2NlpYeXRFczBRNUdTc2EwMHpmQ05qUWQ3NDMzZjc4Z2tCcFJOWVBhWHBiUldxeUVCYkkxNllIMkg0X04zNTBkNHV3Yjd5ZU13aVZtbUpINFRiME9NOVd2YXI0VlZpUDRWMU8zdk5IVktpRg?oc=5\" target=\"_blank\">Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkxPR1JpdFR2djhxMGtnWkdpaGFzemJYVS1lTGhfelRzZ21NN2xhNG1pT3AzU1hyN0s0bmZlR1AwSlFkRmh3bU5FXzBRUzhFMDJVeXVDNnduTk5ZeFRiY1JCY2VLZjBTOG81TFA2VnJ6WjMwYTN4akhWQnJDYWtZcjlINU90YUgwa3hOMlBPM29aUzM3Q2FHX0hRUlBNTEV2SUpNWXNDMHh5NE1HS1BmS2JaeVVlZ2l3NlE?oc=5\" target=\"_blank\">Frontier Airlines Announces Discounted Rescue Fares to Support Spirit Airlines Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontier Airlines</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdks5SEV3cHRwcDJlcHkzdjgwdl9UbFhyLVZrMzFKU2wwWGYwZ3FubTF1VnI5bHV6UmlQZEFyN25hY2JNOWJ3ODhueEVvTHd5cG0yOHY2MUdnVkdMT2s1UGhtM3VmT2lHcW1EQXMyNGFiaDdtVXVSY1REdFNsUklHU3VMd20tZFluWUhpdUN1U1I1UGQtdVE?oc=5\" target=\"_blank\">The Only Thing Worse Than Spirit Airlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjlkc2FZNGF4a1ZPUGRhZTVFa0FvUnNkQ2dVRnBpYWQ0V3haTVd0V0lWcGVlQWY2Y19ST21taGFTenZnQ1o4U0FZSDFqS0xna2tpeGdPSG5uYXFBMExtVVhmNVdlOUlKclF5aVJxWndCTXZmMkswNHdDR0VxTUVzb1I1Y2tWUGJmTFFaWFBlQmlmSFdmNUgweWt0eVd2eTdRVS1VTzdYWGNYc1VmZEdOTHRDOEJTNGZ0YlNScUln?oc=5\" target=\"_blank\">Spirit Airlines doomed by sky high fuel prices due to 'recent geopolitical events,' court docs say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDlXVG5uUGpnUU04bUFvVzg3SEt5dGZDUWJjVDVOTjlaRVozM0hYUEwtUDJhSjF2by1XVl9kc2NCMzBPUW02MlMxVGV0RVJJRFRTNVE1enBJVzh5SDZsd3BMcXNaVUFuVDV0UGdXeUFnb1ZhRklqVzcxR2lGVWVWbFJCYjdpVk5zNnhYQXlqajA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Here\u2019s just how quickly Micron has risen up the ranks of the top U.S companies",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "At the start of last year, Micron wasn\u2019t even among the top 100 U.S. companies. Its fortunes have changed dramatically since then.",
+          "url": "https://www.marketwatch.com/story/heres-just-how-quickly-micron-has-risen-up-the-ranks-of-the-top-u-s-companies-fd95ae8d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows - CBS News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CBS News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG83Y2xZcHEta2hmaVlHd2tqTHY0b29mYVBBcmF0VkVsMkxyUnZVaDV4US15UFZCR0F1eW9Tb1F2V05vVVp3MXlfb0wwUXZjQUdEUC1YeDhmR2xVNWVEd2xDYnFSVEFlaUdrREF3Z1ljU3cwXzZiZkVudWhtZnRrR0FGWlFza1FBUjFqNGZKTF9XLXpJdWhvLUVRcUIxQnVsUUpoY0Zod08wbGVxbnVHcUlGZnhWUy13dl9ERg?oc=5\" target=\"_blank\">Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPakx2VE9DRWdmclJqTmt2TU1pQnI3Q1Q0ZUVnR3RaT09XZ3RnMVpDXzFjeWowWDZiV1RIZFZEX3FLUEE5cEFWV1RwUUN3V2paWlZRVnFXanlRcy0telBxWExsWEE1RG5GaEN2UGdPa3hnS2NzT243RHMyYUp2SFQwSUNqcWZWbmdFdE9FLWROSEV1TFN5V2Y3UmZHdDlWaC1DVTZFRG1YTnRsek9YQUZuSXJjbTl4SDVLQnR3bWhhOA?oc=5\" target=\"_blank\">Plane collides with bakery delivery truck during landing at Newark Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdU4ydERsZXljeGVLbGc1VzhWMldfYWlmd3JtcS1iR0VyZ1RRcTBsd2tyUVVHdlJkU2JvS2R0MV9JT1BrR0FHOHNBbFRnYzU0VXFOYzVPOTdwV3Y3M25CcE1pY1FZeThOeUNrSlZyalFDY05UUFhxNUYyTHREZWRMTHJSQ0otN1RtenZld1lZYktSWkFGSmdmZnB2Z3lJdndXZHZBMVZJY0F1WEpCX1FfSFY1VWN3QzZhS0ZrZnowcS1aRzM4OWdLSFpqZmlKaXRa0gHWAUFVX3lxTE94NlNxbGNGUm9hWFdSS29kb2ViTEFyU3RoY1NYYmI3NnZWWmtpMG9EOTJwZWx5N3lwTGxITFQzOUVnT0RsUUZqN29KMG9jdDZsUEdabUNPLXk4Zk1GVWZSOHlfbVN3R20taGVnVEtId250R2dXME04UDRxSnllb09CMGF3cXVDRmdsbWxCU09rNmRlTkhyQk41OExfSDJlS1l5c0F4R01zRmNRZnJpQTY5cTBXOHlPOWhRYmh6QVloRFNsZnQ0eG02RG0yZk43b0tiRmRxamc?oc=5\" target=\"_blank\">NTSB investigating after United Airlines collision with light pole, truck damaged on NJ Turnpike during landing at Newark Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3BWOGdzMzMwa3hNSU1hVE9XVWhPX2FVeC03N2tuN096Smx4aDJIQ2FtT1FrZGF2UWRSSkNfZHFmRVRCVlQ1RDNlYkNWbFRHQjh3Tjd0N0I0VmM1WE9HUDFRQWJzb3NvSEp3aktlcHJ6VWVaeUIyMVA2N0VSbEh3NzR3YkxJdUYxbG5oYVJ0ZVR2S2NKS21KMGY2M3VfZ2RWZHh1bEl1M2psNW8?oc=5\" target=\"_blank\">Baltimore truck driver shaken after getting hit by United jet on New Jersey Turnpike, father says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnpHZm5mX2hPdWdWbG5nZUpNV3NQOWRaMG5DczMzWS1QYTBsbmdISDhLaDlNTmFpTi1NV2dILVZrSEtFYkZHS0FTMEpuWjI2VUxFSGpzWVlHMTE5RDhYN0dTb3UzVTk3VktIUUZMM2UtZ3NIWEt0eTBkanpucXFkcnFINXZ0MzVQQnlQOURRSlVvZlM1LVRKczJ4UkdFd3NCNW1zMEtKcFZoSUHSAbABQVVfeXFMT3Q4OGtwdm1zZG9TcGtJekwyaUtpTmlxUUZPWXhmOUxJMlYtemV0X0c2UjBORkotWjJMeDRFeEkxdkJzbVlrQVlLM0ZiSWcxU0FCSXE4VlZtbGJURW1BZmE0aGNkazBxVWlPYWFERjRIanp0WEpYRU1FQWZuVVZKUmljcVBQM3ZuTHRUQWFUMWxfLUIyc1BFVEY2QXZUemUyaWw3MW93bG1tb2tPSm1Fbmw?oc=5\" target=\"_blank\">United flight carrying 221 passengers hits pole and truck on approach to Newark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG83Y2xZcHEta2hmaVlHd2tqTHY0b29mYVBBcmF0VkVsMkxyUnZVaDV4US15UFZCR0F1eW9Tb1F2V05vVVp3MXlfb0wwUXZjQUdEUC1YeDhmR2xVNWVEd2xDYnFSVEFlaUdrREF3Z1ljU3cwXzZiZkVudWhtZnRrR0FGWlFza1FBUjFqNGZKTF9XLXpJdWhvLUVRcUIxQnVsUUpoY0Zod08wbGVxbnVHcUlGZnhWUy13dl9ERg?oc=5"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": null,
+        "provider": "yfinance",
+        "sector": null
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 9,
+      "catalyst_signal_count": 3,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-30",
+          "headline": "Cementos Molins, S.A. Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWi00aHVQTUpBeXJpaEtzX0hRLUdQbWNNVDEyUkZ5T1NGNzBIWEEyYklha3RRZ0lJWGxGM3FaelpNdldOc3N3WHZlM2dUWnNSdFRoYzVaQ3o5cm9Zand1cExqajhuWUlTVHJIdXdrWTVKN2Q0NHhqUXJybnZmT1Vac0tlNmRrdjhuUDVFcEJtV252SmgyUjBYRmE2aW02aWlfWlJrSTZ3d25KZEJkMk56ajZua2dyNEZUNGpMOHVQa1JFdWhJWm1UdThESzdNY3gtNm5iNzFn?oc=5\" target=\"_blank\">Cementos Molins, S.A. Reports Earnings Results for the First Quarter Ended March 31, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWi00aHVQTUpBeXJpaEtzX0hRLUdQbWNNVDEyUkZ5T1NGNzBIWEEyYklha3RRZ0lJWGxGM3FaelpNdldOc3N3WHZlM2dUWnNSdFRoYzVaQ3o5cm9Zand1cExqajhuWUlTVHJIdXdrWTVKN2Q0NHhqUXJybnZmT1Vac0tlNmRrdjhuUDVFcEJtV252SmgyUjBYRmE2aW02aWlfWlJrSTZ3d25KZEJkMk56ajZua2dyNEZUNGpMOHVQa1JFdWhJWm1UdThESzdNY3gtNm5iNzFn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-30",
+          "headline": "Cementos Molins Q1 net profit at 49 mln euros - marketscreener.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.09090909090909091,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVVjaVhUeEE3NWxNMTJ0b1dnb0hvSG1JODJrUVlndlJnaUZ1SWRWXzZpS0Q5OVdCdHFBYUc2VkN1b3FnQnZUUHdUUUVmRzVBOXRseFk1RzFJbGJONDZoZkdidmUwNTUtUnZNYjJ5Slc5MDYtdjQzMGhJaWxMb2hud29nM2xTTTIwSV9OV255UHNhTklsR3poMDYyWExtUzg?oc=5\" target=\"_blank\">Cementos Molins Q1 net profit at 49 mln euros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVVjaVhUeEE3NWxNMTJ0b1dnb0hvSG1JODJrUVlndlJnaUZ1SWRWXzZpS0Q5OVdCdHFBYUc2VkN1b3FnQnZUUHdUUUVmRzVBOXRseFk1RzFJbGJONDZoZkdidmUwNTUtUnZNYjJ5Slc5MDYtdjQzMGhJaWxMb2hud29nM2xTTTIwSV9OV255UHNhTklsR3poMDYyWExtUzg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-30",
+          "headline": "Cementos Molins S A : Molins reports a strong first quarter of 2026 - marketscreener.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkdnVnNiX3I5VFFXMjNBcDNMcUJUWDNGMEE5d0cxc2hvQl9LQl9XSElzUTUwNThLNzl5VVIwa3BXbk9JYTVHemFJS3hJZ18wcDZ6YmdHc1JKbktoOWxxUW1DSS1hV3ZsYy13Mk1lSWpwSm9rTlVRdF9tX0hWR2JLNjZYNXMxdTlTbDhVczUyLUprcFk5Z0x5Y2VLQXdmNU9nNXlGcDNIaUlkMTNjaWd5UENYNVZ2NUYwblE?oc=5\" target=\"_blank\">Cementos Molins S A : Molins reports a strong first quarter of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkdnVnNiX3I5VFFXMjNBcDNMcUJUWDNGMEE5d0cxc2hvQl9LQl9XSElzUTUwNThLNzl5VVIwa3BXbk9JYTVHemFJS3hJZ18wcDZ6YmdHc1JKbktoOWxxUW1DSS1hV3ZsYy13Mk1lSWpwSm9rTlVRdF9tX0hWR2JLNjZYNXMxdTlTbDhVczUyLUprcFk5Z0x5Y2VLQXdmNU9nNXlGcDNIaUlkMTNjaWd5UENYNVZ2NUYwblE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-14",
+          "headline": "Net revenue of Caisse Regionale de Credit Agricole Mutuel du Languedoc Cert.Coop.d'invt. \u2013 EURONEXT:CRLA - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHlnWlRULTNWRzBHa2tXLVZKSW5yTEdVVkJ3MU9DaWhyV0Zjc0xfS3psazcwTllGVDZHWjdFb0hWSnhXeUNGS3otQWlQSktvdGZKeHpCcVktRi1KbTB1cnZxQUR1eEZmVXNOZkhVQllCbHExam5GT1ZZNkJ2c2x1cGZKa3RnVExKa0hnNVFzUk9CcEpi?oc=5\" target=\"_blank\">Net revenue of Caisse Regionale de Credit Agricole Mutuel du Languedoc Cert.Coop.d'invt. \u2013 EURONEXT:CRLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHlnWlRULTNWRzBHa2tXLVZKSW5yTEdVVkJ3MU9DaWhyV0Zjc0xfS3psazcwTllGVDZHWjdFb0hWSnhXeUNGS3otQWlQSktvdGZKeHpCcVktRi1KbTB1cnZxQUR1eEZmVXNOZkhVQllCbHExam5GT1ZZNkJ2c2x1cGZKa3RnVExKa0hnNVFzUk9CcEpi?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-14",
+          "headline": "Caisse Regionale de Credit Agricole Mutuel Brie Picardie Cert. Coop. d'invest. - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVRCQzU3T0twakZ4Vi0wWVJ5MmtGb3Y5YXRCc2VIaXRoV01ZbXViM0tHc05PTk93dUo4a1hMb1g0eXRqdEhyYmdTQTVDWEtpblVDaTZSUlF0cXEwWXVaV3BqRzZmMlVnYXBvZ3J5X3l1aEh1Y2RkelkzaFFtMERnNDBKbUk1clczamFvZXRYUFRnM0tpSkExeVc0bmRSbzh0S1E?oc=5\" target=\"_blank\">Caisse Regionale de Credit Agricole Mutuel Brie Picardie Cert. Coop. d'invest.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVRCQzU3T0twakZ4Vi0wWVJ5MmtGb3Y5YXRCc2VIaXRoV01ZbXViM0tHc05PTk93dUo4a1hMb1g0eXRqdEhyYmdTQTVDWEtpblVDaTZSUlF0cXEwWXVaV3BqRzZmMlVnYXBvZ3J5X3l1aEh1Y2RkelkzaFFtMERnNDBKbUk1clczamFvZXRYUFRnM0tpSkExeVc0bmRSbzh0S1E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-12",
+          "headline": "Caisse Regionale de Credit Agricole Mutuel Toulouse 31 Cert.Coop.d'Invest. Em.janv.88 - TradingView \u2014 Track All Markets",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView \u2014 Track All Markets",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0pGZ2lGMHZLT045bWtKbFAxS0daa19rbmVkeTB1RGZpeDBxaTRaWjVuc2NrVllCeXhOek9SVWxMV3FGS2s0dW5uRkJKUXBGYUF5dHZiUnhHd3V6TDJCX0JpelI4eXNPQnBJNVVaNi1QRmcza21aMmI1T09aOVJHSmIza1FJS2VDeDFsZzhycTI2eGx4REVja2lqU0dJSHVvQUEzRjg5ajdpQQ?oc=5\" target=\"_blank\">Caisse Regionale de Credit Agricole Mutuel Toulouse 31 Cert.Coop.d'Invest. Em.janv.88</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView \u2014 Track All Markets</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0pGZ2lGMHZLT045bWtKbFAxS0daa19rbmVkeTB1RGZpeDBxaTRaWjVuc2NrVllCeXhOek9SVWxMV3FGS2s0dW5uRkJKUXBGYUF5dHZiUnhHd3V6TDJCX0JpelI4eXNPQnBJNVVaNi1QRmcza21aMmI1T09aOVJHSmIza1FJS2VDeDFsZzhycTI2eGx4REVja2lqU0dJSHVvQUEzRjg5ajdpQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-10",
+          "headline": "There's A Lot To Like About Caisse R\u00e9gionale de Cr\u00e9dit Agricole Mutuel du Languedoc Soci\u00e9t\u00e9 coop\u00e9rative's (EPA:CRLA) Upcoming \u20ac2.69 Dividend - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNTFM1YW1ySmVTMVd5RFdEczdFOGlPNnBpVWVOaVZPQ1p4YkY3cHZDQVg5aUY4YUVUYXhCT3g3NGZ4WGtvRmdwS1ZEZVBtTnVoUzdYaEV5QTVhVGt5ZWRXT1d3WS1ULTQteVpVODBJNjRHQVd0bHBIVGxZRzB4Q29sbXZHUXZSM05kOTBRYzJIOV9lWHdBUHYzSGdRSXR5elZfN1g0TlA1QXA2TUxlTU90dElWUnhLZVdveV9FSFdacnRrc1ZLWkd5SXBmTEVKY0FoSGliSG9rd3l6Y29yenBldEhubURxc29sZENwQ2xCUkJja2c5Yng4R3ZBYVY0MlNXVDVRbDFDZHR3LUdGcUhsdzNOcEZ1ajRQZ2dZNjQtNXd0enPSAagCQVVfeXFMUHIyUW9jZzBINy1TTlFPQXlMRk40S2REOXV2X2ZhcFJkRWotdWtpaFpyZG1YeXc4cWhNUUtlM2FrWGJ2N2hGQlRNNzlYamd3ZF8yZW94SHVQRWRRSUFVLTBScXdiWVg3aGozdXNnTmoyWTRMTkFyZFFqWmFadVE0MDhfY2wwc3NOcERFV1ltQ3RvVU9rZjRjTEZNY2ZKY21PM19rMjJxVXoyakgtWWFDS0twUXdlNlJ4ODJ0d1NLTk5UZmZ5aFRzMnFoeF9iX2szYWZmSzVNNWV2dmM0QkRscmZBQUhSM1M5bXlxTl9LMnQ2bmNkYTFHbm9kdHlsdjFPUDgtV2xfNUxQdUR6XzgtZktseWtsNFh4eWw3VVZtS1JzYVJ6c0hTajg?oc=5\" target=\"_blank\">There's A Lot To Like About Caisse R\u00e9gionale de Cr\u00e9dit Agricole Mutuel du Languedoc Soci\u00e9t\u00e9 coop\u00e9rative's (EPA:CRLA) Upcoming \u20ac2.69 Dividend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTFM1YW1ySmVTMVd5RFdEczdFOGlPNnBpVWVOaVZPQ1p4YkY3cHZDQVg5aUY4YUVUYXhCT3g3NGZ4WGtvRmdwS1ZEZVBtTnVoUzdYaEV5QTVhVGt5ZWRXT1d3WS1ULTQteVpVODBJNjRHQVd0bHBIVGxZRzB4Q29sbXZHUXZSM05kOTBRYzJIOV9lWHdBUHYzSGdRSXR5elZfN1g0TlA1QXA2TUxlTU90dElWUnhLZVdveV9FSFdacnRrc1ZLWkd5SXBmTEVKY0FoSGliSG9rd3l6Y29yenBldEhubURxc29sZENwQ2xCUkJja2c5Yng4R3ZBYVY0MlNXVDVRbDFDZHR3LUdGcUhsdzNOcEZ1ajRQZ2dZNjQtNXd0enPSAagCQVVfeXFMUHIyUW9jZzBINy1TTlFPQXlMRk40S2REOXV2X2ZhcFJkRWotdWtpaFpyZG1YeXc4cWhNUUtlM2FrWGJ2N2hGQlRNNzlYamd3ZF8yZW94SHVQRWRRSUFVLTBScXdiWVg3aGozdXNnTmoyWTRMTkFyZFFqWmFadVE0MDhfY2wwc3NOcERFV1ltQ3RvVU9rZjRjTEZNY2ZKY21PM19rMjJxVXoyakgtWWFDS0twUXdlNlJ4ODJ0d1NLTk5UZmZ5aFRzMnFoeF9iX2szYWZmSzVNNWV2dmM0QkRscmZBQUhSM1M5bXlxTl9LMnQ2bmNkYTFHbm9kdHlsdjFPUDgtV2xfNUxQdUR6XzgtZktseWtsNFh4eWw3VVZtS1JzYVJ6c0hTajg?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-08",
+          "headline": "Caisse R\u00e9gionale de Cr\u00e9dit Agricole Mutuel Sud Rh\u00f4ne Alpes Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEV2NFAxWjhQRlhrSUd2OFdLd3oxNFhQa3FEVC1oUTk2OUZpWjRyUk1NcHM5WFloeHQ3cE1YSEZhZTB6QmJUYXRfMmpDcC05T3FObGZ3SDY5M016SGdwaDNKSS1aUnJmcWl6ZHVzb3VyZUlrMElpaDBNZUtxT0pwUUZweUhHVkFfMldZX0cxYUVBODlMa09aVEtWTkwwbUhDZ09LbUtSVnRvVElBbEVTQUFZRk9PNTAxemJWNm4yUDFHQ3VBOGo4LS02RmM0ZG1LZ29KUXc2b0pvRjQ5U29SREgyam4xX0Uw?oc=5\" target=\"_blank\">Caisse R\u00e9gionale de Cr\u00e9dit Agricole Mutuel Sud Rh\u00f4ne Alpes Reports Earnings Results for the Full Year Ended December 31, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEV2NFAxWjhQRlhrSUd2OFdLd3oxNFhQa3FEVC1oUTk2OUZpWjRyUk1NcHM5WFloeHQ3cE1YSEZhZTB6QmJUYXRfMmpDcC05T3FObGZ3SDY5M016SGdwaDNKSS1aUnJmcWl6ZHVzb3VyZUlrMElpaDBNZUtxT0pwUUZweUhHVkFfMldZX0cxYUVBODlMa09aVEtWTkwwbUhDZ09LbUtSVnRvVElBbEVTQUFZRk9PNTAxemJWNm4yUDFHQ3VBOGo4LS02RmM0ZG1LZ29KUXc2b0pvRjQ5U29SREgyam4xX0Uw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-03-25",
+          "headline": "Caisse r\u00e9gionale de Cr\u00e9dit Agricole Mutuel d'Ille-et-Vilaine Soci\u00e9t\u00e9 coop\u00e9rative Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSjQ2aGtrZDlpSHhYaE00ZlYwck9BQThXa2lRa1V0SmhSbGxTN2lYMnZqUUszOENSNXZvXzdrR01KbENyU2FoWVlYZHJnZndRNnNGd1A3Z09NS1ZXRldsaUZuUzh2d0E0cnVmeFpBbmRIbzNHM3JNM3BtNERTQzFLcGx1dWw0c0M1Q1NNY083dmdZNGpFd2g4bXVpNWRUbFVYeTRzVnBUak0xVlU3cW9HV1lSTk5yOEtRNERMSjVoVTljRGZQeXRtN1BZQks5UTZuS0hHNVdQZEdwc0FUdXZkbTh4SE96dzlY?oc=5\" target=\"_blank\">Caisse r\u00e9gionale de Cr\u00e9dit Agricole Mutuel d'Ille-et-Vilaine Soci\u00e9t\u00e9 coop\u00e9rative Reports Earnings Results for the Full Year Ended December 31, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSjQ2aGtrZDlpSHhYaE00ZlYwck9BQThXa2lRa1V0SmhSbGxTN2lYMnZqUUszOENSNXZvXzdrR01KbENyU2FoWVlYZHJnZndRNnNGd1A3Z09NS1ZXRldsaUZuUzh2d0E0cnVmeFpBbmRIbzNHM3JNM3BtNERTQzFLcGx1dWw0c0M1Q1NNY083dmdZNGpFd2g4bXVpNWRUbFVYeTRzVnBUak0xVlU3cW9HV1lSTk5yOEtRNERMSjVoVTljRGZQeXRtN1BZQks5UTZuS0hHNVdQZEdwc0FUdXZkbTh4SE96dzlY?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 2
+    },
+    "sentiment": {
+      "days_sampled": 6,
+      "delta": 0.018037518037518036,
+      "prior_mean": 0.0,
+      "recent_mean": 0.018037518037518036
+    },
+    "technical": {
+      "atr14": 0.359560938594827,
+      "close": 37.8,
+      "close_vs_ema200_pct": 18.911475569490634,
+      "close_vs_ema20_pct": 7.5428267203047845,
+      "close_vs_ema50_pct": 9.812999362760396,
+      "close_vs_hh20_pct": 6.179775280898864,
+      "ema20": 35.1487878390155,
+      "ema200": 31.7883533266813,
+      "ema50": 34.4221542252298,
+      "entry_ready": true,
+      "hh20_prev": 35.6,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 6.70068315266486
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": null,
+    "sector": null,
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 9 stock-specific articles into 2 constructive, 0 adverse, and 3 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (35.60), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 6.70, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-04-30: Cementos Molins Q1 net profit at 49 mln euros - marketscreener.com."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 35.60 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 6.18
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 6.7
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 7.54
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 9.81
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 18.91
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_bullish",
+    "score_0_to_100": 82
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-05",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-05_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-04-30",
+      "publisher": "marketscreener.com",
+      "title": "Cementos Molins, S.A. Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWi00aHVQTUpBeXJpaEtzX0hRLUdQbWNNVDEyUkZ5T1NGNzBIWEEyYklha3RRZ0lJWGxGM3FaelpNdldOc3N3WHZlM2dUWnNSdFRoYzVaQ3o5cm9Zand1cExqajhuWUlTVHJIdXdrWTVKN2Q0NHhqUXJybnZmT1Vac0tlNmRrdjhuUDVFcEJtV252SmgyUjBYRmE2aW02aWlfWlJrSTZ3d25KZEJkMk56ajZua2dyNEZUNGpMOHVQa1JFdWhJWm1UdThESzdNY3gtNm5iNzFn?oc=5"
+    },
+    {
+      "published_at": "2026-04-30",
+      "publisher": "marketscreener.com",
+      "title": "Cementos Molins Q1 net profit at 49 mln euros - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVVjaVhUeEE3NWxNMTJ0b1dnb0hvSG1JODJrUVlndlJnaUZ1SWRWXzZpS0Q5OVdCdHFBYUc2VkN1b3FnQnZUUHdUUUVmRzVBOXRseFk1RzFJbGJONDZoZkdidmUwNTUtUnZNYjJ5Slc5MDYtdjQzMGhJaWxMb2hud29nM2xTTTIwSV9OV255UHNhTklsR3poMDYyWExtUzg?oc=5"
+    },
+    {
+      "published_at": "2026-04-30",
+      "publisher": "marketscreener.com",
+      "title": "Cementos Molins S A : Molins reports a strong first quarter of 2026 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkdnVnNiX3I5VFFXMjNBcDNMcUJUWDNGMEE5d0cxc2hvQl9LQl9XSElzUTUwNThLNzl5VVIwa3BXbk9JYTVHemFJS3hJZ18wcDZ6YmdHc1JKbktoOWxxUW1DSS1hV3ZsYy13Mk1lSWpwSm9rTlVRdF9tX0hWR2JLNjZYNXMxdTlTbDhVczUyLUprcFk5Z0x5Y2VLQXdmNU9nNXlGcDNIaUlkMTNjaWd5UENYNVZ2NUYwblE?oc=5"
+    },
+    {
+      "published_at": "2026-04-14",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "Net revenue of Caisse Regionale de Credit Agricole Mutuel du Languedoc Cert.Coop.d'invt. \u2013 EURONEXT:CRLA - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHlnWlRULTNWRzBHa2tXLVZKSW5yTEdVVkJ3MU9DaWhyV0Zjc0xfS3psazcwTllGVDZHWjdFb0hWSnhXeUNGS3otQWlQSktvdGZKeHpCcVktRi1KbTB1cnZxQUR1eEZmVXNOZkhVQllCbHExam5GT1ZZNkJ2c2x1cGZKa3RnVExKa0hnNVFzUk9CcEpi?oc=5"
+    },
+    {
+      "published_at": "2026-04-14",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "Caisse Regionale de Credit Agricole Mutuel Brie Picardie Cert. Coop. d'invest. - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVRCQzU3T0twakZ4Vi0wWVJ5MmtGb3Y5YXRCc2VIaXRoV01ZbXViM0tHc05PTk93dUo4a1hMb1g0eXRqdEhyYmdTQTVDWEtpblVDaTZSUlF0cXEwWXVaV3BqRzZmMlVnYXBvZ3J5X3l1aEh1Y2RkelkzaFFtMERnNDBKbUk1clczamFvZXRYUFRnM0tpSkExeVc0bmRSbzh0S1E?oc=5"
+    },
+    {
+      "published_at": "2026-04-12",
+      "publisher": "TradingView \u2014 Track All Markets",
+      "title": "Caisse Regionale de Credit Agricole Mutuel Toulouse 31 Cert.Coop.d'Invest. Em.janv.88 - TradingView \u2014 Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0pGZ2lGMHZLT045bWtKbFAxS0daa19rbmVkeTB1RGZpeDBxaTRaWjVuc2NrVllCeXhOek9SVWxMV3FGS2s0dW5uRkJKUXBGYUF5dHZiUnhHd3V6TDJCX0JpelI4eXNPQnBJNVVaNi1QRmcza21aMmI1T09aOVJHSmIza1FJS2VDeDFsZzhycTI2eGx4REVja2lqU0dJSHVvQUEzRjg5ajdpQQ?oc=5"
+    },
+    {
+      "published_at": "2026-04-10",
+      "publisher": "simplywall.st",
+      "title": "There's A Lot To Like About Caisse R\u00e9gionale de Cr\u00e9dit Agricole Mutuel du Languedoc Soci\u00e9t\u00e9 coop\u00e9rative's (EPA:CRLA) Upcoming \u20ac2.69 Dividend - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTFM1YW1ySmVTMVd5RFdEczdFOGlPNnBpVWVOaVZPQ1p4YkY3cHZDQVg5aUY4YUVUYXhCT3g3NGZ4WGtvRmdwS1ZEZVBtTnVoUzdYaEV5QTVhVGt5ZWRXT1d3WS1ULTQteVpVODBJNjRHQVd0bHBIVGxZRzB4Q29sbXZHUXZSM05kOTBRYzJIOV9lWHdBUHYzSGdRSXR5elZfN1g0TlA1QXA2TUxlTU90dElWUnhLZVdveV9FSFdacnRrc1ZLWkd5SXBmTEVKY0FoSGliSG9rd3l6Y29yenBldEhubURxc29sZENwQ2xCUkJja2c5Yng4R3ZBYVY0MlNXVDVRbDFDZHR3LUdGcUhsdzNOcEZ1ajRQZ2dZNjQtNXd0enPSAagCQVVfeXFMUHIyUW9jZzBINy1TTlFPQXlMRk40S2REOXV2X2ZhcFJkRWotdWtpaFpyZG1YeXc4cWhNUUtlM2FrWGJ2N2hGQlRNNzlYamd3ZF8yZW94SHVQRWRRSUFVLTBScXdiWVg3aGozdXNnTmoyWTRMTkFyZFFqWmFadVE0MDhfY2wwc3NOcERFV1ltQ3RvVU9rZjRjTEZNY2ZKY21PM19rMjJxVXoyakgtWWFDS0twUXdlNlJ4ODJ0d1NLTk5UZmZ5aFRzMnFoeF9iX2szYWZmSzVNNWV2dmM0QkRscmZBQUhSM1M5bXlxTl9LMnQ2bmNkYTFHbm9kdHlsdjFPUDgtV2xfNUxQdUR6XzgtZktseWtsNFh4eWw3VVZtS1JzYVJ6c0hTajg?oc=5"
+    }
+  ],
+  "summary": "CMO scores 82/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "CMO"
+}
