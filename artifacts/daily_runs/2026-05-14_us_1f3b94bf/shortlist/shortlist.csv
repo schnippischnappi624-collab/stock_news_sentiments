@@ -1,0 +1,8 @@
+display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
+1,MXL,MaxLinear Inc,entry_ready,True,,setup+breakout,ENTRY_READY,8.7,,7.71864939281905,60.32,28960000.0,37.37,3.92390088760522,37.37,31.4841,5.8859,49.1417,55.0276,,
+2,COHU,Cohu Inc,entry_ready,True,,setup+breakout,ENTRY_READY,7.25,,3.74636769374029,46.93,3704400.0,46.71,1.90209890601225,46.71,43.8569,2.8531,52.4163,55.2694,,
+3,SXT,Sensient Technologies Corporation,entry_ready,True,,setup+breakout,ENTRY_READY,7.23,,4.73013568938195,123.15,1763900.0,102.0,4.77840274921116,102.0,94.8324,7.1676,116.3352,123.5028,,
+4,POET,POET Technologies Inc,entry_ready,True,,setup+breakout,ENTRY_READY,5.94,,3.24414301676883,15.1,77618200.0,12.95,1.23795285331379,12.95,11.0931,1.8569,16.6639,18.5208,,
+5,UVE,Universal Insurance Holdings Inc,entry_ready,True,,setup+breakout,ENTRY_READY,4.12,,2.81631816552603,39.48,524500.0,36.46,1.40126499638614,36.46,34.3581,2.1019,40.6638,42.7657,,
+6,MRAM,Everspin Technologies Inc,entry_ready,True,,setup+breakout,ENTRY_READY,3.82,,3.11660550394771,14.07,1365000.0,13.22,0.736854977463345,13.22,12.1147,1.1053,15.4306,16.5358,,
+7,PDFS,PDF Solutions Inc,entry_ready,True,,setup+breakout,ENTRY_READY,3.71,,3.01201241877718,46.49,1348651.0,45.3,2.09665221157833,45.3,42.155,3.145,51.59,54.7349,,
