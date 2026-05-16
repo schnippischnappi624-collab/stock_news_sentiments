@@ -3,8 +3,8 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-05-14`
-- Symbols analyzed: `29`
+- Feed dates: `2026-05-14, 2026-05-15, 2026-05-16`
+- Symbols analyzed: `7`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -13,37 +13,20 @@ Quick links:
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-05-14_eu_0c292611`
-- Prior regional run: `2026-05-13_eu_30a9d79f`
-- Feed dates: `2026-05-14`
-- Symbols analyzed: `22`
+- Run ID: `2026-05-16_eu_a5daae5f`
+- Prior regional run: `2026-05-14_eu_0c292611`
+- Feed dates: `2026-05-15, 2026-05-16`
+- Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
-- Rows shown: `15` of `22`
+- Rows shown: `0` of `0`
 
 ### Entry Ready Near Trigger
 
-| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [OUT1V](<latest/eu/analysis/markdown/OUT1V.md>) | Outokumpu Oyj | $\color{#bc4c00}{\textsf{+4.72\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [BKS](<latest/eu/analysis/markdown/BKS.md>) | BKS Bank AG | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#2da44e}{\textsf{good(4)}}$ |
-| 3 | [MLWEA](<latest/eu/analysis/markdown/MLWEA.md>) | Weaccess Group SA | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#2da44e}{\textsf{good(4)}}$ |
-| 4 | [AYV](<latest/eu/analysis/markdown/AYV.md>) | ALD SA | $\color{#9a6700}{\textsf{+1.56\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 5 | [M12](<latest/eu/analysis/markdown/M12.md>) | M1 Kliniken AG | $\color{#9a6700}{\textsf{+1.91\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(6)}}$ |
-| 6 | [MVE](<latest/eu/analysis/markdown/MVE.md>) | Matvareexpressen As | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 7 | [WAF](<latest/eu/analysis/markdown/WAF.md>) | Siltronic AG | $\color{#bc4c00}{\textsf{+4.03\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 8 | [BNN](<latest/eu/analysis/markdown/BNN.md>) | BRAIN Biotech AG | $\color{#1a7f37}{\textsf{+0.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
-| 9 | [ALAVI](<latest/eu/analysis/markdown/ALAVI.md>) | AdVini S.A. | $\color{#9a6700}{\textsf{+1.66\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{68}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(6)}}$ |
-| 10 | [MLZAM](<latest/eu/analysis/markdown/MLZAM.md>) | ZCCM Investments Holdings Plc | $\color{#9a6700}{\textsf{+1.19\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
+No names from this section landed inside the current top-`15` cutoff.
 
 ### Entry Ready But Already Spiked
 
-| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [HDLY](<latest/eu/analysis/markdown/HDLY.md>) | Huddly AS | $\color{#cf222e}{\textsf{+13.64\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(9)}}$ |
-| 2 | [CMO](<latest/eu/analysis/markdown/CMO.md>) | Cementos Molins SA | $\color{#cf222e}{\textsf{+6.71\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{84}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
-| 3 | [PHM7](<latest/eu/analysis/markdown/PHM7.md>) | Altria Group Inc | $\color{#cf222e}{\textsf{+5.76\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 4 | [ABEC](<latest/eu/analysis/markdown/ABEC.md>) | Alphabet Inc | $\color{#cf222e}{\textsf{+5.86\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 5 | [ABEA](<latest/eu/analysis/markdown/ABEA.md>) | Alphabet Inc Class A | $\color{#cf222e}{\textsf{+6.01\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{80}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+No names from this section landed inside the current top-`15` cutoff.
 
 ### Candidates
 
@@ -99,7 +82,4 @@ No names from this section landed inside the current top-`15` cutoff.
 
 The repo currently hides symbols with a current price below `1.00 EUR` as a temporary workaround until the upstream source filter is fixed.
 
-- `EU` `NEWCAP` - Newcap Holding A/S - `0.25 DKK` (0.03 EUR)
-- `EU` `0DTI` - Bonheur - `2.63 NOK` (0.25 EUR)
-- `EU` `VOC` - Vocento - `0.77 EUR` (0.77 EUR)
-- `EU` `FINM` - Financiere Marjos SA - `0.90 EUR` (0.90 EUR)
+No symbols were filtered out by the temporary penny-stock rule in the latest runs.
