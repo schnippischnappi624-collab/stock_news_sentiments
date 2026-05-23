@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-23T09:15:27.161122+00:00",
+  "industry": "Aluminum",
+  "long_name": "Alcoa Corporation",
+  "provider": "yfinance",
+  "query_symbol": "AA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AA",
+  "sector": "Basic Materials",
+  "short_name": "Alcoa Corporation",
+  "symbol": "AA"
+}

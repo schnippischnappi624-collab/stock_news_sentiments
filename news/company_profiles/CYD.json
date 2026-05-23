@@ -1,0 +1,14 @@
+{
+  "country": "Singapore",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-23T09:15:27.161122+00:00",
+  "industry": "Auto Manufacturers",
+  "long_name": "China Yuchai International Limited",
+  "provider": "yfinance",
+  "query_symbol": "CYD",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CYD",
+  "sector": "Consumer Cyclical",
+  "short_name": "China Yuchai International Limi",
+  "symbol": "CYD"
+}

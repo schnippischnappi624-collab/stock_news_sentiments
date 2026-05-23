@@ -1,0 +1,761 @@
+{
+  "analysis_date": "2026-05-23",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "fragile_watch",
+    "score_0_to_100": 39,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-21: How Lantronix\u2019s New xPico 600 IoT Platform And Cloud Integration At Lantronix (LTRX) Has Changed Its Investment Story - simplywall.st."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-08: Lantronix (NASDAQ: LTRX) sets $30,000,000 at-the-market stock program - Stock Titan."
+    }
+  ],
+  "company_name": "Lantronix Inc",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-23",
+          "headline": "SpaceX Starship Flight 12 launch updates: Starship V3 Ship makes fiery splashdown in Indian Ocean as planned - Space",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Space",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTVlS3duM0JIRV9zMFRiNjY3Wjk1Wl91V19YY2xpREZuR1AzWXNicHpRbWc4dllxdUN6MUZaVDBQb1ZteXhPTjBqNW9semlQYzFXWkV0U28wM0drOXNYczNRQ2J4S0FtOFdrdWxfYW1fbUZrWW5kT0VjQTRxMW9XVmFZRXcwcEZJaUxRcQ?oc=5\" target=\"_blank\">SpaceX Starship Flight 12 launch updates: Starship V3 Ship makes fiery splashdown in Indian Ocean as planned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtrX05sLUlnWXJ5U000M2JoU2hBS21POEc0WW9pd04yN3dBNjdWQ01OcVVheTVuZ1hhdlZvemVtUUNzSG5vbEZJZWF0SHVsbURjbVlmOU9NbEp0RkJOZ2RzR3hRTmFpTEowODU4S2V3VzRHTVptVlJlRVk4RnZBRjVMcmdIUW92ZDBmVThwbGtYeXU1enc?oc=5\" target=\"_blank\">Highlights: Scaled-up SpaceX Starship megarocket finds mixed success in debut test flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1lHN2pwdnNJS2FuZlFhWV9DWXoyWEFkZVc0VnZ2a2dEM1hjT3BHY2piRXFaV0RHM1FhQl9mOFY0YjFJLVRUczgtY3FPZExNNlRIcGdZeGhoam9ESGEtc2NXc2MyRlJVUDRfVnNiUl9XMGpnaDJ6Zm1TMmllOGNRRTVuaktSTVhnNkJwTlJYWEQ5cWR6akt2ZjFaN0xEZWNMYk5nMC02NjFzc3NEdEE?oc=5\" target=\"_blank\">SpaceX launches its biggest, most beefed-up Starship yet on a test flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSL.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzFLR21nai1LN1ZFN1VtdmYwTl9TTHVndmJOOExpUmtlZk9uSGUzNXNlRGVxaHdEa0FaTDNhUnFzcWFOT0tOck9xTVZ5UHM4MmNZQXVPT0NjZ3pGUURWNTlIaWtacUhPaW0yWkdDVzhzcUVmUnU2THpGVDFEbkF2Mw?oc=5\" target=\"_blank\">SpaceX Completes Mostly Successful Starship Rocket Flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3c2QUE4UkpPQjNleG5WU1ZJd1RObkJmekktQXFnbTRJZlk4ZmRJSG5UdGsxdFhzWHNxc09aWmVYTThUWFNZUTlrRk5yaXpUcjFnX3lyN3RiN3dVM3RvSklzbV91bV9lSFRvbGVKbUtjTm9CQkFsbzJvTEdsNlBDV0Rqb0ZQOEh4aEpxWUV3Zm83UC1waXJWcGcyTdIBoAFBVV95cUxPcmpEXzVGVWRpM0hsLURidnJQZXVNd1pLUTB5SzJaNVFCbGtFVE9CRW8wUFJoMVVGVmpiUllUUEpJQlZEQWRrY2xGOXhaeDVjMGxMUjJkZjUwckRlRkc4Qkl5bGh1bnhsR3R1NldXcWwtRGtZX2g3YnNkQm44SmJhcmdTalJ2VERSQ1FBOWNQU1JuamZ5czR2VmxHam5CZ1Rv?oc=5\" target=\"_blank\">SpaceX launches more powerful Super Heavy-Starship rocket on test flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTVlS3duM0JIRV9zMFRiNjY3Wjk1Wl91V19YY2xpREZuR1AzWXNicHpRbWc4dllxdUN6MUZaVDBQb1ZteXhPTjBqNW9semlQYzFXWkV0U28wM0drOXNYczNRQ2J4S0FtOFdrdWxfYW1fbUZrWW5kT0VjQTRxMW9XVmFZRXcwcEZJaUxRcQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Chrysler, Dodge, And Ram Have 9 New Models Coming By 2030. Here's All Of Them - Motor1.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Motor1.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5mLVF5ODJzTDhjRXQ1Z0tDUW8tTjJPdkpJZ2pSYzZFb2dZOHBtZXpBcmtDYVJNQVlOTEluYjlTVWlQXzdWYktLQnZtYVAxRmVUQzE1SnIxbDhNSEpJVXY4UHNlbDJVcmotOGVvM2NCZDBraFJ6b0hUckpR?oc=5\" target=\"_blank\">Chrysler, Dodge, And Ram Have 9 New Models Coming By 2030. Here's All Of Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor1.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPanRMcDFOSzRRdVo3aEVLVWN1eFdyN2tGQm0yYktXUHJRbGRlaGJzUjZIZ2tYVTQ2QUdlQkVIbk5Tc3ZWRXFKdlcwVzg3Ull2c3lxYWN4MXRnejgyMGMxUDBzZGd4SWNHUHFxM29GcE5XVTRtNXVPMVF2Y2xNQ01wQkw3cC1yVXRjZG1SNExBX3FwZlVq?oc=5\" target=\"_blank\">Coming Soon! New Dodge SRT Models, a Jeep Wrangler Scrambler, and Two Sub-$30,000 Chrysler SUVs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car and Driver</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEJHcjhqdmVudlNuOWRMclo0a2JTeGd1X3VpVHU2T1ZNMXFNcmp3S3ZlYUplTTlCNnV1NGRPd3Z2cTBrdXhsLXJPcUpvdXRLS3R2azlFdktpNDFtWXIwdTFWdmc0clNlTnVoc3B2Tmc3OHh1QjRlQno0Yzh5VTFyWkVMNGFuekdjMHpSU3BjaGlzYl9rWm1pcGln?oc=5\" target=\"_blank\">\u2018Potential opportunities\u2019 for idled Brampton plant as Stellantis plans 11 new models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVE1oZ3lVWGRHclZJZVZnWE9Ga2pRU2RGclBzeWNSaEh5blJ6TjZvTDdjQmpOOFl2OTNWWG1aeU9oUjRYS2xGdXA1ODI1Q1ctSngyMWNsS0otdW1LRTFKQlM3eVlzZjVBV0NGQW1FM1JGaFpkcUJxREhoSGhBTnRYUHlNV2NvR2FV?oc=5\" target=\"_blank\">New and Affordable Vehicles Are Coming From Jeep, Ram, Chrysler, and Dodge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MotorTrend</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkJ3Z09pSHp5Mi1zSlBWUVl4SW9kamNETGowUjJ6VjB0OFhKVVdkVzVVd0FlZmZIT3g4NlRSU21sOUk0ZExvaXJRZUNfU0VwQ202QUctcWpsOTRlNEMwX192REhLUGx4TFFHWW40MUUyU0RxRXpJNklpTFJkRzJ5cFhHUE94ODE4YmNlTnpFNUs?oc=5\" target=\"_blank\">Stellantis Promises 60 New Products by 2030: More Rams, More Performance and More Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Edmunds</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mLVF5ODJzTDhjRXQ1Z0tDUW8tTjJPdkpJZ2pSYzZFb2dZOHBtZXpBcmtDYVJNQVlOTEluYjlTVWlQXzdWYktLQnZtYVAxRmVUQzE1SnIxbDhNSEpJVXY4UHNlbDJVcmotOGVvM2NCZDBraFJ6b0hUckpR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "China Coal Mine Explosion Kills 90 in Deadliest Blast Since 2009 - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNelFCaTAtZlE3WFJpeXdmTEFZT2xYRzJ0RExWWTZqTjZESUJDQmxKVGRKRkdBZkNQUWRyVWNvSjhRVHhXX2dudk42MjBPdFg3eUxhRHhLeVNXeXpkTzBieXc3U2dHcHBYdWc1Q1hlaGJidFFDSV9MX2VNSkJ1Nno4U1pjLXFIdUdPQm9WN1RlS2xYM3BCS1BpWDVaT0IySFFNU3BvWkNLSUJzbHZpZ1FsVF9sc2Q?oc=5\" target=\"_blank\">China Coal Mine Explosion Kills 90 in Deadliest Blast Since 2009</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1mdlBYM1VzeEFHQ05ZUmFmbHg0VFIzWXdkVmp6LXNHNGliLTdMZTdadnVFNHA1VTZiRzN2eGxONXI3eHl2X19ucy0wZ0hsMFgxckpnVldNVzhDREw4ZlFEQXE1RVFFbHM3QWxfdjRPWjVVMFdGMHBHSFBreFZqZw?oc=5\" target=\"_blank\">China coal mine blast kills 90, state media reports; deadliest mining disaster in a decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVdreTZUTzRDTmpJaUVseVpGQkFkQ0xIdmZNaEhQdjdrclRrc2tqeUw3UlFBS2d6eEdkekw4Z0FjZ012NWJCa1FSS1hpVG9xbkFyeUhpSl9XaXQ1N1V5MDFzcVdIZ09LSkJPVFhQVlZ1UlNPNzJxWlRsU3N3Z3hZV1FyOGM3Nms?oc=5\" target=\"_blank\">Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXZvR1JnMVk1Zzdlc1oxYVptZEVaSGZPWUdkdXBpanpjU2VoWm9ON3BMZUpyOC1NVFFUN1Y3c1Y5Z0xPelBqRDZXWnRtaDk5U2tsNDZwUlNEbFNWY0ZZUkRYdVVEck5sdDA1amlnTW5hZ3U3NjBmTWQzWnFLTjUyemZ1SGJZU1ZyOUpSdVgzZkg4R2k5Rnc?oc=5\" target=\"_blank\">China mine explosion: death toll leaps to 90 after gas blast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jR2ZmaWNxeHZJaVdCNFZvNi16SU9aZ1ZNS2syUGNmOExCc1BPbHgwRkMxMWtUZDA0aHJiWU95YlVVSXBhMF9hSkpycnhXZGRJcUNvUDhZeVBwQQ?oc=5\" target=\"_blank\">At least 90 dead in Chinese coal mine explosion, state media reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNelFCaTAtZlE3WFJpeXdmTEFZT2xYRzJ0RExWWTZqTjZESUJDQmxKVGRKRkdBZkNQUWRyVWNvSjhRVHhXX2dudk42MjBPdFg3eUxhRHhLeVNXeXpkTzBieXc3U2dHcHBYdWc1Q1hlaGJidFFDSV9MX2VNSkJ1Nno4U1pjLXFIdUdPQm9WN1RlS2xYM3BCS1BpWDVaT0IySFFNU3BvWkNLSUJzbHZpZ1FsVF9sc2Q?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Three months in, is Trump losing the Iran war? - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0xrTW5YOXpZTlM3YmFKQzVXNlN2UUtDOEc0dldIUkh3dExmSVU0NmtvbThyTGs4ZTJVeFl1VkFQekZqS0ItTFhDYVQ3X09hRzN2S2taT1FYNjhPakE4OWJxM3p1V1BHcUxBQ0FRanpsZU16anhHRGVlQmwyRGdVeXVlM3QxczNNUWZNVldZM1l2QVNfc0dJ?oc=5\" target=\"_blank\">Three months in, is Trump losing the Iran war?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHAzQzZCRV9UMjdOeWt6MVpWUFhGU0NGRVZadGtDcGZGVklkNUxqYXotR3RHYXNNT2dselVTMTRCWE42MXZKN3ZaUWVnSlNnMUFGM0U3T1pJZ05FZkZjYWhwdFBMS3p2dEwxWVBGOUdHS2xxRVBtQnRYbHRCOUZfaldZREpvRHBJOFVKaV9LVFFjVEE3TVBtc0V5UTVZcmpvQjlKLU5rc1BlNTg0Z1ZZXw?oc=5\" target=\"_blank\">An ever-expanding catastrophe over Iran is not inevitable. Trump can and must be stopped | Simon Tisdall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORmVxQlJRMWQ1UkZhd2F1VE5uSHFJNGZzUzhaWFl5UDVzTjF1X3R6X2NSdDU1YlBRdUpncDl4ZmRfTFV4bkdYR2lvR1ZHcnBFXzJCd3NHblIwWWRrVzNKaC1GdWJmSkdKZUEtUFpMQjBYS24yeHlZb3lLRHJxRjNsMlFUX2F0RkJoRy1LQ2VjbEVMcGRhSHpscU1QZWdDd1pOM280NU90emQxWTJjOXZXY2NiZEZWbkRBak1ub2dJLW5IMFE0YVE?oc=5\" target=\"_blank\">The Key Sticking Points for a US-Iran Peace Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcW9qcFRKWlJWeF9LZkpoc1JCUDRPcGJHcHFFXzlxUFVNZGJ5bkhSRUgzcnhMSVUxS09aWGU3cVpDOHZlNVU3VDd0X2NCbF93ZTItVjRJejhlYjB6Wjh1TGt2aVRNbEJUSXZxeG5VcHdobHJxNXhFdkVJUUxVa3Nua1BzMmQ?oc=5\" target=\"_blank\">Donald Trump\u2019s risky military options to break Iran deadlock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NZXliZ09ybG8yZFBtNG80S01ZejNobFIyZzhobm9JS294VWEwYTF0NXh5WTNrM0g4S2hSeVhBclExWVMyMjZnYmh0d2p5QkZWcUNDMEVvUkxBeG1FLVg0NEVsUVVQaXJkb0tzemJLZWwzc3pJeFdlbg?oc=5\" target=\"_blank\">Opinion | Don\u2019t Leave the Iran War Half-Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0xrTW5YOXpZTlM3YmFKQzVXNlN2UUtDOEc0dldIUkh3dExmSVU0NmtvbThyTGs4ZTJVeFl1VkFQekZqS0ItTFhDYVQ3X09hRzN2S2taT1FYNjhPakE4OWJxM3p1V1BHcUxBQ0FRanpsZU16anhHRGVlQmwyRGdVeXVlM3QxczNNUWZNVldZM1l2QVNfc0dJ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNXVMSk84Vm44XzV6bWFKZXZqVVlHZ196WWgwQndzWGxubGFtVEEwVGJIT09RcXdodnpSVlVQSGU1VkJoRzNiR1BaVGFMZHEwY1lQQ0VKcGpWUQ?oc=5\" target=\"_blank\">Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXV2V3Vsc194TEZJM2N3WTFZbXJ4YUowYlMzaWhkVGZUS3VoTlVRYXQ1LVF1MnVHRUN6TlM0cjFPcHNwZzFYRWdSeFFEQklrbV9nZEpfeVBQUjBEYkdfbHdkUnNkM3JwVjRsSkVBZ29pYVpuckNNOU1hV19WZzRuOTdGbmVfdDM3MFhTQ3pua2U3TTVUa0VvX2RnYk9hSV9LTU1iSUlHNjVWbTQ3YnVqUFhzWHFEQlZOdE1SYw?oc=5\" target=\"_blank\">Death toll in student dorm strike rises to 10, Russian-installed official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEMtMU43OE9zSTZlR3JhR3d6VVA1X2Y4cTRiQlZZTmRRZmRfVnQ1NG9sTFM0T1FTVWpwbEN1RFowd1Y2ODdJTEZlTG9VYTEzVUtvbnF2Vkg4ZnMtNkhTYTEwcG5nN2x0d3Z6d0llQ0pwNnVDTkJQYXdpV2thV3ppeF8teEJKdGtRdGhhLXlSX3pWTUU2bXp0VTkzVVgwNE1XcGJwOHY2NHBiendZVXFsOEhldWVyaVd1ZEQyNzdpMmF1Z1dYTEtadzQ4eGdTNVdKdkhoNENtRlpILW9NMEtV?oc=5\" target=\"_blank\">Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbmN3UTJLN0hid29sT2QyeE1ReGNFc0ZvRVFfMGpXd3ZqUzltVlBzN3dWLWszTmQ0WTg3RVo2cUJleWFnNkFEWEUycVkxYnhNYUp6cG4zUQ?oc=5\" target=\"_blank\">Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEhEc0RZd2ZtRkRLOUx3RU16M2V6T1hfMnRXaVlESXREUWVoVlJTWHBMNUdVN3VCNjJmNXkxU25FYUFlOEZwQ25ET1FSWFFTZ1pQODRFUlB1aFFrTm9uMEQ5NFBKaWN0LVZlWkFQUjBBVlp2SHdqOGhIMXJ2azB3UzJUTWRnbFBXNHBJZmtSR2pIVG5GczJOTTRQRHVDVzRINU0tOENUSC1TQW04Y0E0QV8tYw?oc=5\" target=\"_blank\">Putin Vows Response After Saying Six Died in College Strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNXVMSk84Vm44XzV6bWFKZXZqVVlHZ196WWgwQndzWGxubGFtVEEwVGJIT09RcXdodnpSVlVQSGU1VkJoRzNiR1BaVGFMZHEwY1lQQ0VKcGpWUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-23",
+          "headline": "SpaceX Starship Flight 12 launch updates: Starship V3 Ship makes fiery splashdown in Indian Ocean as planned - Space",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Space",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTVlS3duM0JIRV9zMFRiNjY3Wjk1Wl91V19YY2xpREZuR1AzWXNicHpRbWc4dllxdUN6MUZaVDBQb1ZteXhPTjBqNW9semlQYzFXWkV0U28wM0drOXNYczNRQ2J4S0FtOFdrdWxfYW1fbUZrWW5kT0VjQTRxMW9XVmFZRXcwcEZJaUxRcQ?oc=5\" target=\"_blank\">SpaceX Starship Flight 12 launch updates: Starship V3 Ship makes fiery splashdown in Indian Ocean as planned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtrX05sLUlnWXJ5U000M2JoU2hBS21POEc0WW9pd04yN3dBNjdWQ01OcVVheTVuZ1hhdlZvemVtUUNzSG5vbEZJZWF0SHVsbURjbVlmOU9NbEp0RkJOZ2RzR3hRTmFpTEowODU4S2V3VzRHTVptVlJlRVk4RnZBRjVMcmdIUW92ZDBmVThwbGtYeXU1enc?oc=5\" target=\"_blank\">Highlights: Scaled-up SpaceX Starship megarocket finds mixed success in debut test flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzFLR21nai1LN1ZFN1VtdmYwTl9TTHVndmJOOExpUmtlZk9uSGUzNXNlRGVxaHdEa0FaTDNhUnFzcWFOT0tOck9xTVZ5UHM4MmNZQXVPT0NjZ3pGUURWNTlIaWtacUhPaW0yWkdDVzhzcUVmUnU2THpGVDFEbkF2Mw?oc=5\" target=\"_blank\">SpaceX Completes Mostly Successful Starship Rocket Flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWHB2dkp1c0tnQUc1Si1aQVdTcWhGaFZUTXdQalc3M1J1TFpGZElrLWRTU09XdmJTM2pQaUUycUQ5aEVSUGd2c1NzT0YzWWxxelVCN2pNYTBVRkNQblVUWGNiNWE4TVRLVEloelA2ZzhVSUNOeFlaNDBWZ2E4WTV5d3U1SERudDJHbW11VG42WkIzdXhYQkJqejBRLWxPUklla3JEdlZJYy3SAa4BQVVfeXFMUC11RHRIQWJkRnZ0MGkzc2pJclFRUTRxU1BWM0hLZC02LVFLUXg1LVF0LW9GcWZLNU9MLUp5Q2NQS0EwbnZ4Y2RCd3RyV1MxX3lqTGFkUHZUTzVrbkRBNHllMGR2eWR3TC05STlJOWl5RDA2eVgxV1Rta28yVFBoN1gxVklUYmhBQWgxYmw5Z0k3Vm5aMjFzZDgtVmsxNTdqbDVZQnNLS08yaXpCLTBB?oc=5\" target=\"_blank\">SpaceX launches Starship test flight on second try</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3c2QUE4UkpPQjNleG5WU1ZJd1RObkJmekktQXFnbTRJZlk4ZmRJSG5UdGsxdFhzWHNxc09aWmVYTThUWFNZUTlrRk5yaXpUcjFnX3lyN3RiN3dVM3RvSklzbV91bV9lSFRvbGVKbUtjTm9CQkFsbzJvTEdsNlBDV0Rqb0ZQOEh4aEpxWUV3Zm83UC1waXJWcGcyTdIBoAFBVV95cUxPcmpEXzVGVWRpM0hsLURidnJQZXVNd1pLUTB5SzJaNVFCbGtFVE9CRW8wUFJoMVVGVmpiUllUUEpJQlZEQWRrY2xGOXhaeDVjMGxMUjJkZjUwckRlRkc4Qkl5bGh1bnhsR3R1NldXcWwtRGtZX2g3YnNkQm44SmJhcmdTalJ2VERSQ1FBOWNQU1JuamZ5czR2VmxHam5CZ1Rv?oc=5\" target=\"_blank\">SpaceX launches more powerful Super Heavy-Starship rocket on test flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTVlS3duM0JIRV9zMFRiNjY3Wjk1Wl91V19YY2xpREZuR1AzWXNicHpRbWc4dllxdUN6MUZaVDBQb1ZteXhPTjBqNW9semlQYzFXWkV0U28wM0drOXNYczNRQ2J4S0FtOFdrdWxfYW1fbUZrWW5kT0VjQTRxMW9XVmFZRXcwcEZJaUxRcQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-23",
+          "headline": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points - Investor's Business Daily",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.01904761904761905,
+          "source": "Investor's Business Daily",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5\" target=\"_blank\">Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3Y5TVpOQzdzTW5ZLUpjREZLQVBjSmQ0UEV0YzN0cjVBamNOOWhmRE5vVEZWSjRraE5kX0ZVU1E3T3FyUXZYMFRDeWRUY0FDem54aWU1S21XQmEwa0RpSGJpbnVISUh4VUZ4aFpNTXNaSWMyWUhQd21uNHZnZUg5eW9raUY1ZVpXdjJwMkxkWk5FSkh6TDVxcExUMk5OZDZDUXJB0gGoAUFVX3lxTFBEWU1nSlRXX2hybFhVTnRfdHNKTWU0VkJDOV9zYXVXQjJzeDdfM1laa2RGS041SWc4RU5XQkhRZ1lEeWpkd2ZzeDZaNDYyWWJLVDkwSGJOdWE2amVhUVFBUkRDb3o5X2dyOFM4M1Z3N3I3YzdzY0ttLUpDNDVFQ0wtbEJ6UHR2eDNvb2piVVF4N0hBTnVGVWQ0bi14aUNQdXdKUlZ3MUxvQg?oc=5\" target=\"_blank\">The Tech Download: What you might have missed in Nvidia\u2019s earnings \u2014 a $200 billion opportunity and edge computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTZ1ek9xX1A5SEY2XzFLMklMeXBzendlYnNBUmhlcDhKV3BiR0IzV2FjM1luWTl6MVZqQ18zS19rRENSelJSMkhJMzV3ZTk0YVB4MWFuQW9vY0V6aHpxaV9OYWp5UTNMdHdtSXU2eEs0WFhmN25vZU5iQUc4SVN4YjNqaWxZZXBIM0kwVGtTeVNPa2prWklEOFNUYXJId0NPZDZBZk9mOTB3UW5JSEp2VWtRNG5kc0U5dmVjNFh1OHU5VWlybmlB?oc=5\" target=\"_blank\">Nvidia\u2019s on a new path, and if you own an S&P 500 index fund your money is riding on it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2lqUXdyRi1vODkxVVotcGlzaV9MQ0V0UExCTWxndk1uYTFudUptWkV0TGd0WG0yMVBtcDJqWkFvVVAwcUxPeEVtNDF6M2hOeEg5QUZaN0tHZDIzMlZxU2xvS3RoMmVyalpDZkFFOTRpRjlMRnBqcXhDUGZmNDE2cDZ4cm1BM3d4TlgwYnYyQUszY2c?oc=5\" target=\"_blank\">Even at $5 Trillion, Nvidia Is Underappreciated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0FQTmp4Z3RKMl9hY1IxRUdoRlJDYmp6UXI4YkJyVjF3R1pRNktSUzN3eGFmbXZOU1JsM19BbEw5WFBjVUJLaEZaTzdFUXE4S2EyOGZNUDRlaEV4d2dsbndMTGVMeTlyZUhxYjZzSU4zcEU5dUJ5UlNhdzBUMi12cnhTc3RiblZxMXlrYzhn?oc=5\" target=\"_blank\">Nvidia Stock Gets Even Cheaper With Each Earnings Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEMtMU43OE9zSTZlR3JhR3d6VVA1X2Y4cTRiQlZZTmRRZmRfVnQ1NG9sTFM0T1FTVWpwbEN1RFowd1Y2ODdJTEZlTG9VYTEzVUtvbnF2Vkg4ZnMtNkhTYTEwcG5nN2x0d3Z6d0llQ0pwNnVDTkJQYXdpV2thV3ppeF8teEJKdGtRdGhhLXlSX3pWTUU2bXp0VTkzVVgwNE1XcGJwOHY2NHBiendZVXFsOEhldWVyaVd1ZEQyNzdpMmF1Z1dYTEtadzQ4eGdTNVdKdkhoNENtRlpILW9NMEtV?oc=5\" target=\"_blank\">Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNXVMSk84Vm44XzV6bWFKZXZqVVlHZ196WWgwQndzWGxubGFtVEEwVGJIT09RcXdodnpSVlVQSGU1VkJoRzNiR1BaVGFMZHEwY1lQQ0VKcGpWUQ?oc=5\" target=\"_blank\">Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHdwUXVTUDdqRGxxLTZRV3Z0UHN4U2poVm1iRU5iYmVSU2tET2Zud05ZOUxnaUZRSHJ0bUhPQjlOZWthYjRnZDRIMlJRUUl3Yng1eWlnZFA1VnphWWJlaXJMWnU1enI2WDJQSDhEMXBpOC1VTXBtVEhRcS1fZUpuc285RUg0a29UVWNTOTJ2YVdpMjZGOWgzN0cya1FFNDdzeFE3NG9MZW5ZMk1haFJDQTRqc0phekZ4RG1DemtLMTgzSWljVU9wQQ?oc=5\" target=\"_blank\">Putin accuses Ukraine of deadly attack on student dorm, orders military to prepare options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEhEc0RZd2ZtRkRLOUx3RU16M2V6T1hfMnRXaVlESXREUWVoVlJTWHBMNUdVN3VCNjJmNXkxU25FYUFlOEZwQ25ET1FSWFFTZ1pQODRFUlB1aFFrTm9uMEQ5NFBKaWN0LVZlWkFQUjBBVlp2SHdqOGhIMXJ2azB3UzJUTWRnbFBXNHBJZmtSR2pIVG5GczJOTTRQRHVDVzRINU0tOENUSC1TQW04Y0E0QV8tYw?oc=5\" target=\"_blank\">Putin Vows Response After Saying Six Died in College Strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWnRJZ3NMWXkzcU8zbDdoMFJBNjBGeGFzNGw2dndjWUViemZpMWM3ZXIxTmpRdEJYcEZIaU5QUnQtYUdDbHppTkM2ZzZRRnZBbXJJZEJCaGxwbkJwQXBxSG4zdVdCaDByYUcwcnBBc0UzbHFXekp5UmV2ejRYeU5Sdl9HaUhyNHVIX2FaZEs5OHI4MmdvN3JKOWhDMGdRU1J2dV8zSWVjcWV6NTVm?oc=5\" target=\"_blank\">Vladimir Putin blames Ukraine after six killed in drone strike on school</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEMtMU43OE9zSTZlR3JhR3d6VVA1X2Y4cTRiQlZZTmRRZmRfVnQ1NG9sTFM0T1FTVWpwbEN1RFowd1Y2ODdJTEZlTG9VYTEzVUtvbnF2Vkg4ZnMtNkhTYTEwcG5nN2x0d3Z6d0llQ0pwNnVDTkJQYXdpV2thV3ppeF8teEJKdGtRdGhhLXlSX3pWTUU2bXp0VTkzVVgwNE1XcGJwOHY2NHBiendZVXFsOEhldWVyaVd1ZEQyNzdpMmF1Z1dYTEtadzQ4eGdTNVdKdkhoNENtRlpILW9NMEtV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Ebola Ward in Congo Burns After Residents Turn Against Medics - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG5LRWtMY1MzdnpHVzFCQkNRS3BQeTNyNk9ibGNzc2tSR3dCcHB2akowM3RKMEY4YVUteUNTeUhpR0pCazZkdDl2bXgyLUgxUnRtOWNuQU1sNXFOQ3IzakhNUTZCS0tFTjdzdjZjYjdDZUdPbG5SaU1zZVhsMDU5c1A0aEprU2l3LTBWVTFJWVM?oc=5\" target=\"_blank\">Ebola Ward in Congo Burns After Residents Turn Against Medics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbk94bG1IZ1FhZFVLWjA5VC1qOXE2c2hEN2pYalVpTUFFTzhWQkQxNWVBdkNKVFExaC1mQXQ0MjZBNXdvejRkS3VRM21BcmxCT2NobHV5T2hXeXI2ZTAxdEgzelpHemNwcVZnWGNGaFRKam54NzFkRDhGd0gyMnBFNkNHMTVkOHM1d25NdQ?oc=5\" target=\"_blank\">Protesters attack DRC treatment center as the WHO warns violence is threatening Ebola efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QaGJQNTM2aVpPbS0tcXZSd1lSeUM5WFdHZHhnTkVRblZaUjJSVnl4LTNHRXBSN09JZHU2ZS1uN0lnZjdWcVo2Z1d6aTNPcDFBaVhaN3I2SkM1UQ?oc=5\" target=\"_blank\">Angry crowd sets Ebola hospital tents on fire in DR Congo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkstLXdwXzZCRHktMmwzcVJqWk5nanRhQklQTXVSTnlRQkdxdEpMdmktSjNQd2MtUVpTOVpfc3BQVUlSSDA1ajVPS0EtNXMyYUlSVlBvbXd2MkhZWHdPcEk5Q0xDR2ZBa2QwdjRGNGdkNFM3OTV6RzlwWFhKQmF2SjNZY3JCNG95c1RxbmhIdlc3eXlILTVZc3lTemRkT2lORzFPVkV4alJCaDBtNDlvS19SOENuSjg4MHVmUGU3aVNMYUxJRDdud1FUdmRUOGVTV2F5VWlzbjVmVzFEVVJB?oc=5\" target=\"_blank\">Congo protesters set fire to Ebola treatment tents in dispute over victim's body</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVndWNTQxdjJIVzJUSGxrSmtsM0ticVMtNVFIM2Y5STR2REhHTF9EZDRfa2EzOG5aSTE3Z0xCTXhDcnZnaHFzMFRjTVYtV1Q3eEh5TXgyUG1pbm5hUEpkWUJnTzY3clZTZGVMdVlzbVNyTVZjdlFGNXBIT3BhYXVrdFY1UnlKeGdyb2NDU0dMREJDblVxT2dJWkNhcV9UUWRYQXdoTmRDeUFfdkN3YzBmaGI5aUpqUQ?oc=5\" target=\"_blank\">Residents burn an Ebola treatment center in DR Congo as anger grows over the outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG5LRWtMY1MzdnpHVzFCQkNRS3BQeTNyNk9ibGNzc2tSR3dCcHB2akowM3RKMEY4YVUteUNTeUhpR0pCazZkdDl2bXgyLUgxUnRtOWNuQU1sNXFOQ3IzakhNUTZCS0tFTjdzdjZjYjdDZUdPbG5SaU1zZVhsMDU5c1A0aEprU2l3LTBWVTFJWVM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Mob Burns Congo Ebola Center Amid Rare Strain Outbreak - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG5LRWtMY1MzdnpHVzFCQkNRS3BQeTNyNk9ibGNzc2tSR3dCcHB2akowM3RKMEY4YVUteUNTeUhpR0pCazZkdDl2bXgyLUgxUnRtOWNuQU1sNXFOQ3IzakhNUTZCS0tFTjdzdjZjYjdDZUdPbG5SaU1zZVhsMDU5c1A0aEprU2l3LTBWVTFJWVM?oc=5\" target=\"_blank\">Mob Burns Congo Ebola Center Amid Rare Strain Outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbk94bG1IZ1FhZFVLWjA5VC1qOXE2c2hEN2pYalVpTUFFTzhWQkQxNWVBdkNKVFExaC1mQXQ0MjZBNXdvejRkS3VRM21BcmxCT2NobHV5T2hXeXI2ZTAxdEgzelpHemNwcVZnWGNGaFRKam54NzFkRDhGd0gyMnBFNkNHMTVkOHM1d25NdQ?oc=5\" target=\"_blank\">Protesters attack DRC treatment center as the WHO warns violence is threatening Ebola efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QaGJQNTM2aVpPbS0tcXZSd1lSeUM5WFdHZHhnTkVRblZaUjJSVnl4LTNHRXBSN09JZHU2ZS1uN0lnZjdWcVo2Z1d6aTNPcDFBaVhaN3I2SkM1UQ?oc=5\" target=\"_blank\">Angry crowd sets Ebola hospital tents on fire in DR Congo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkstLXdwXzZCRHktMmwzcVJqWk5nanRhQklQTXVSTnlRQkdxdEpMdmktSjNQd2MtUVpTOVpfc3BQVUlSSDA1ajVPS0EtNXMyYUlSVlBvbXd2MkhZWHdPcEk5Q0xDR2ZBa2QwdjRGNGdkNFM3OTV6RzlwWFhKQmF2SjNZY3JCNG95c1RxbmhIdlc3eXlILTVZc3lTemRkT2lORzFPVkV4alJCaDBtNDlvS19SOENuSjg4MHVmUGU3aVNMYUxJRDdud1FUdmRUOGVTV2F5VWlzbjVmVzFEVVJB?oc=5\" target=\"_blank\">Congo protesters set fire to Ebola treatment tents in dispute over victim's body</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2RUMC03MGpmdDhwT1p2Z3pmZjZwTnhSalNrc3dLa3lxTWEtSlMxZWNIWk5oSWtiNFluS25RTVNRN2pnam4wOXVLdTFSUE1DWjJueElWcVI4NXFpVjNBQ3h1WllIN2czUFZQWERDOElyN0otMWIzdkdrbXRwNzV0bnlDd2R0R1VhYTNVZUN2M0VNTm1CajZPelVPQnd5NVBvNkE?oc=5\" target=\"_blank\">Residents burn an Ebola treatment center in Congo as anger grows over the outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG5LRWtMY1MzdnpHVzFCQkNRS3BQeTNyNk9ibGNzc2tSR3dCcHB2akowM3RKMEY4YVUteUNTeUhpR0pCazZkdDl2bXgyLUgxUnRtOWNuQU1sNXFOQ3IzakhNUTZCS0tFTjdzdjZjYjdDZUdPbG5SaU1zZVhsMDU5c1A0aEprU2l3LTBWVTFJWVM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "30 Absolutely Tragic And Disturbing Photos From Global History - BuzzFeed",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BuzzFeed",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zQklveDJQdzlObHNTOGNYeXM0ZzcxbTdJclBpQUxpUGlWVmJta2NFaVE2emFzTDFWeGZiaF9fYWRsRndncTFDbUlmdmxDOFNydUxfbzZ3aEZubXhuSnp1Ym9aVWFjVkhsRXFIRWpmRlpRb0g0N3BOSUhYTQ?oc=5\" target=\"_blank\">30 Absolutely Tragic And Disturbing Photos From Global History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BuzzFeed</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTZWNUU5a3NYa25aaC1MaWtYSWhCQ2JTLWxFbksyeVVZR1hoeXRVM3hiS19xcmNFZWlGN3pTUW9jX01IZzg4eWtLMjlKS1N5cFQxSmdxNFhKR2NrOXg5WENSck4yN0t5S2QyQ0pWelRxU2JvSno5OU1NV1dnU0gxeUNVSHZ5WVE?oc=5\" target=\"_blank\">30 Horrifying And Tragic Historical Photos You Probably Never Saw In Textbooks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Lifestyle Singapore</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPOGpQaUd3UXhkVWtqd0FkaWRaY09hTV9KRFFMQ0U2RzBnZVJ2NDhrQ1kzUUh2Y2NnbGtSTjBPQmpzMWNfUW1pUW9VRm8zb2RnMlZtREFNa2I3T2tCd2pRWU9nblhsSzFEOFY3OVUzWUJNY2IwTkx6QVpiSzNjY21EYTdn?oc=5\" target=\"_blank\">\u201cHistory Cool Kids\u201d Shared 58 Interesting Photos That Might Make You See The Past Differently</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zQklveDJQdzlObHNTOGNYeXM0ZzcxbTdJclBpQUxpUGlWVmJta2NFaVE2emFzTDFWeGZiaF9fYWRsRndncTFDbUlmdmxDOFNydUxfbzZ3aEZubXhuSnp1Ym9aVWFjVkhsRXFIRWpmRlpRb0g0N3BOSUhYTQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Flotilla video: Ben-Gvir\u2019s template of televised abuse was honed on Palestinians - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0125,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjhrYkdDVzB1cVJXUXU3dXRyRHZYeWdvZUZMYTROX0dDbEJfZ0xxT0E3RlBXZ2VJenVTYmV1YmtyZUhRRE8tNHdOa09pY1RPS1htRjllckZxM2drTVBqSVZWZERyYUNIT1BIT3hqMXhGWkdTZDhjNjI0U0tLeTB2UGtiRGRKUDJiY2pJUnNIZmd6NThJeVJqZ1BOcVFLT05TVHIyd3pWMGNIejY5dXRuTjVyTQ?oc=5\" target=\"_blank\">Flotilla video: Ben-Gvir\u2019s template of televised abuse was honed on Palestinians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxON3Y4UEQ0VWRuVEpYaFJRMDhsck5JTUZkLVkzWndDT09KN0hZUTdzZU82elFEcHN5QVlLMGVKQXE5UF9PXzJnYUFBbWdpRWItdlhZTUxXdU90ckdTajJvV3dLV1Uzb3F3QmF2WEFCdFRsZElQY2pNVVpGaHpJTHdXYURsMS1Oc1BERzFYMDVoYTVpVmhZbzAw?oc=5\" target=\"_blank\">Freed Gaza flotilla activists accuse Israeli forces of sexual violence and abuse while in custody</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWN1QUtJbGtIS0E4bUVXWW8teDZOMFQ4cmdFcW5KaE9pUGc1dzNmcE5Tal9BZDhwN1BIVk1lWS16SFFWWTNYanQ3QUYyOTZkanBVazhGVDhwVVNFTGxhMnl1Y0Y0dG1HLWgwZTZkNzJXSWxPcFNFeU5FRmFDZWkyaXYtclhObnpE?oc=5\" target=\"_blank\">Israeli security minister who taunted flotilla activists has a record of extreme actions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE11QnpXZENDUHRKSU9JTWI1eEhRZFZvX0tIOG1VTjFfUmNuRWxrdVE3UDJ2UFJSU3l2Q3RxbDhmcWxONzh1VEdGUFpPT2pxTktSZ0l3Y2pBUW12Zw?oc=5\" target=\"_blank\">Gaza flotilla activists allege abuse by Israeli forces while detained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQYl9rQ21FOV9mbEROeXI4MXpSQmxtYW4yM1AyMGxGUTNqb3ZBcWVROU5YVjI5N0xlN0VnTUNSLWRFOXpIa0xCalZfNTQtYTJrQ014ZXh3UlFmdFRHSGVLWHRCejlhUWxsRGRCZmFJazEwQ2NaTkEtdHlWdlFyckNlUmh0N0MtRGc?oc=5\" target=\"_blank\">Israel\u2019s Human Wrecking Ball</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjhrYkdDVzB1cVJXUXU3dXRyRHZYeWdvZUZMYTROX0dDbEJfZ0xxT0E3RlBXZ2VJenVTYmV1YmtyZUhRRE8tNHdOa09pY1RPS1htRjllckZxM2drTVBqSVZWZERyYUNIT1BIT3hqMXhGWkdTZDhjNjI0U0tLeTB2UGtiRGRKUDJiY2pJUnNIZmd6NThJeVJqZ1BOcVFLT05TVHIyd3pWMGNIejY5dXRuTjVyTQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVRtMmplV09tT2h0NE8tdS1PdWZnZnRuZVo0Mms2dkplM0F2c2hVT241ckhXVVh4YXpNRDNWTHl3OHlaLVYzUjJMbDQ2d0txZXZmNDJvSUo5VnNuaVRrWTFEMlNnZU1jWnFtc1dKTXRrMExaRXBjX2Z4TzNpNXUyNVB5eXZSTENxaHFIbEpR?oc=5\" target=\"_blank\">In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQTTdxYVJfVzh5V2llOEJybnBsbjA4UHRpREw1czRSMHByQndndThUVFM4OHdTelR5U0UtbzZsRWFRTTd1MnVnQTVjcmFTd1ZiSG1OMk1YQWNEVTJ1T2JReUxKOU82TUctYVZuQzNWc3E0S1lmQ2VMWkVEQzdJdm5PaWdGOUxyQkpqV1FkbUFtOFUxUXdJLWI2dlZ4cWMwOTE1dzlPNHhEQTNDWnZyNThrcjVPSTh6OTBXMkFXb3BkREhRTmprV2RiQUJTSDB2RFVObFNzYUxOVGYxd0VyakVGYWJqaDNDU0Q0SUcwU3QwWm1pc2JyckVPT3VqcXFxaFU4N1FHbHdOTERZOGFvY3RmNw?oc=5\" target=\"_blank\">Empathy Toward a Dog but Not Palestinian Kids: Israelis' Selective Compassion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0JkZHBKN1dkbXhJUzVaRVc4bjJqU1lBR0E1ZV9GQ0NvQTFRUzBiLVZET2RWX0FhSHpfX2FEYVNxN2ZYM1J6R1I3d05NVzF5SVl2QVFac2hTRzlpaWRSeHZGSk0wa0FlYVZNczBwcDFlY01WX1V5ZmpRNlZYb0lzekpzblBWNUw0dW1YNHRyY2NpSDZ6eEx1VXVjR1Naa2JfaTNn?oc=5\" target=\"_blank\">Israeli settler filmed throwing concrete block at cats days after dog beating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Eye</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0tmTkNuN3ZoQUZkTVJEaWxiYTl0LVllVEhONHVENDVXdzJMQWZ2QTVUX04yM2p0RlpHek9UNHoyQUFEcXB6cFk5SGtQSThydjlMalBKal9Zak9MWUtnTVZBTGw4UWdyQUZPb19CbEIxNUoxTUw4NlF5UXlwM3lOM19MMFk5VXhMaXd0Z2RfTnlpNVppRC1YRllLQ0FpTnNsd1pKaVYyTk42Qk1Ob2xzamhSTUZRZW1JNW02b3hfZEQ?oc=5\" target=\"_blank\">Settler filmed clubbing dog to death in central West Bank Palestinian village</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0toSTI0UExFT09NTlFIQWN1ZWRvY1cxN1pxaVJ0M1B0eC01NHdMUWdGOXR1QjB5cDRBbmFvaG5FdlBvd01aaDhISWpSOGVsMlBaUDBubDlneGMzRHFFU3hTNGJmUnlwYkJoZlpEVkRERTQtT1VLTV84TnljRkRJVmpqb1VIeXlxdllqekZucjgzcE3SAZgBQVVfeXFMUGRjNW14SXRrZFpGQVZlQk14U3NvS3YwRWkzZi1tX1VlMHNCcEY3eHJxbWlBNzBnaS1wdFMwRG5adm1NZXliSFpZMTJZMXk1bFhJNEJDM1JYN1dlS0NNdzh1OVZaZkVuU0NuMl96MVlaTElJblkxeWRyeGJWU3pCMWFqM1VVaWNwMEJaZU1zVEpldXhMdDdZVk0?oc=5\" target=\"_blank\">Palestinian-owned dog survives after Israeli settler beating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Arab</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVRtMmplV09tT2h0NE8tdS1PdWZnZnRuZVo0Mms2dkplM0F2c2hVT241ckhXVVh4YXpNRDNWTHl3OHlaLVYzUjJMbDQ2d0txZXZmNDJvSUo5VnNuaVRrWTFEMlNnZU1jWnFtc1dKTXRrMExaRXBjX2Z4TzNpNXUyNVB5eXZSTENxaHFIbEpR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Russian Offensive Campaign Assessment, May 22, 2026 - Institute for the Study of War",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Institute for the Study of War",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ21xOW1rUjg2ZnYybkRSR3AySDZtd2w1RmNVOXVEalJ1Ujl5Y3N4S1c2UkFleEgzaWlZQlBBWWVGVGI4RmdoWmxKWmxwNE5DZkN5aWtJWnNSTEVaLURXTldrdGg1ZW5QSmRNN2FoeVdvaFp2YXNORHQ4SzZDLXo1SUIxZlRRYWRReDdwM29GTnhyMmEwS2F5aXZoVGpZak82bXlDMGJR?oc=5\" target=\"_blank\">Russian Offensive Campaign Assessment, May 22, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3BsNEZtRTdWcWdLd2h6Wi1zRk5jMzZVc0VBZkNaT3RUam13WFVCNW0yM1F0NTE1cEdFMmF4QUJhQ0RMWC1EaEIxUFNTTjVmR18wZC1GSVE2U0ppeTVrVUpnMDJCNGpmZmt4QWFSR2IzYkVEZlZfN0VGTVhVSVdqaTNDWVFROEQwU2w2Q0hTOVJGSTRSc054RjdtazBJQ3h2SUNQeGpOVVVad0M4?oc=5\" target=\"_blank\">The Russia-Ukraine War Report Card, May 20, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Russia Matters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVMtSmVFWV9qM0c5S3kwbXc4dHYzdlY3UGZoTmF2WFBSVXJnRkdfNTBZS1NIaW0yM0huY2p5SDAydnNmd1Y5eUI5VW1VLUFfbVpHV1drSFRmazY2ZzJzWjVGdXRaNWpBM05zSkcwcTl6ZERWWEpwR3ZvcVE1cE5nSjZwbldndmdsQ0kxTkE2alQzT0tyc3dsMWM2d2daZkt4Y3lOZEl6NnBJQnRrUmZnNlJTOWJlaFNjSnlpWXptOXQ?oc=5\" target=\"_blank\">Friday, May 15. Russia\u2019s War On Ukraine: News And Information From Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE02X0NSQUN3QnJ6MWtFbEVMZ0Q1OUJKemRwTzY1UHdVT2tsS293dTVfWTRXMkVBSW5sR2lHVWVhMWFHZk54U0JvTlF5Nkl4R0M0V2VWT2JiS29oUjIxUFZuNXNtc0pGUHc1SlVDS0hpUktYTHB3dHp1WWtSSWlfeE0?oc=5\" target=\"_blank\">Ukraine war situation update | 2 May \u2013 8 May 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACLED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9PbHRWMF9sMV91c0RtQnA1N212UTlsRnRmaVBnYmVpUXNzdGh1UXEtSVVQTnl5OTNqQUE2TFVLTlI2VURlbGVHWVdoUDF6NFEwdVd3NmhLTk9ZRDEtTzN2a1c1UmpGeGNWcF91eg?oc=5\" target=\"_blank\">A woman looks at a makeshift memorial for fallen soldiers in the Russia-Ukraine war on Independence Square in Kyiv, Ukraine, on Friday.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandusky Register</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ21xOW1rUjg2ZnYybkRSR3AySDZtd2w1RmNVOXVEalJ1Ujl5Y3N4S1c2UkFleEgzaWlZQlBBWWVGVGI4RmdoWmxKWmxwNE5DZkN5aWtJWnNSTEVaLURXTldrdGg1ZW5QSmRNN2FoeVdvaFp2YXNORHQ4SzZDLXo1SUIxZlRRYWRReDdwM29GTnhyMmEwS2F5aXZoVGpZak82bXlDMGJR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "A rapidly growing asset class on Nvidia\u2019s balance sheet reveals how deeply tethered its future is to the financial health of its partners",
+          "url": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "Senegal\u2019s president fires prime minister after months of tensions - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOVWdtVVYtNTRwUk02UFhOel9mTDAzZE5idWRMLXFQRkw3LWkxdHktWUtwSXNVR1RUTFRBZ2dSNEdrN3NiX0hiOHE0bGVTMEZHVTNzNDUwYUY5dHZZZkZrcmc2cjFMYjVvZElaMmppMExXSUhGZmJPb0VNbVdrM0JYemp1RnI3R2E4ZkR1ZndvOW5ERkFqQ0o4aHdxUzZUUQ?oc=5\" target=\"_blank\">Senegal\u2019s president fires prime minister after months of tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1Q3U3FCRV82bmw2Nm9ubHQxOEdYQTU3MTF5QzBVNUVyX0FSZWRVVnBKOWgtVDQzUDVNX2hfNzdnbm8xc1Jwc2MxdTdLT21UMEQ0VVdzNXZuaGlUWUd4d1FUWE4tZ2dsakZkR1BRcmxGLXNEUl9renk1c1dtRmFVNFduc2NKNjN5SHB4eklfMWJkVkdpUTUzalRxNHBxOFVKbXIwQ3BPa3c3Q1gyNWQ1cXVaelViU1d0Y2c?oc=5\" target=\"_blank\">Senegal president sacks PM Sonko, dissolves government after months of friction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeUdmMmVnOTNEcGE5VlIwUE82Q1llRV9iNXgxakxySmRIS2pzR3ZLeEo5a1VteUxGME4wWE9CMlBSbkZCVVNZV2xWdmxxUGxuNURyVkx0MTFlQQ?oc=5\" target=\"_blank\">Senegal's president sacks prime minister Sonko after months of tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUc0Nndkb2ZGSGxyMXl5a3RUMUhBOGtEX2p3eHNZRmwtNkZ0eTIzcXh2LVF3aHB6Q3RmcnM2Qlp5RTRzRFp5R0tnTkFPdVZzWGwzcENCb2I1Z1JCOVI2c1BJSzdCcDZEc0pvOTZ5MnZKVnZEVXpmR0U2TENydW5GTVNPbkpVeUVjRGZ2STY2cEQtdw?oc=5\" target=\"_blank\">Supporters of ousted Prime Minister Ousman Sonko celebrate in Senegal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPT01CcXA1Qml4NGFNN19RaWFJVWhKcFhkcVhqMnNMRDFYczdaM0xTclFMSzRYc1draE1qR1pTOVRqbnJHQVZjbmhWMXRHNl91YWdiUlRvNFVlWHBQRm9QMmFOdlA1ZjVOUG9tNVZ3M2dQRVhXRnFDYmVNb040UkVhLWl4Mkc?oc=5\" target=\"_blank\">Senegal\u2019s president sacks prime minister after power struggle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWdtVVYtNTRwUk02UFhOel9mTDAzZE5idWRMLXFQRkw3LWkxdHktWUtwSXNVR1RUTFRBZ2dSNEdrN3NiX0hiOHE0bGVTMEZHVTNzNDUwYUY5dHZZZkZrcmc2cjFMYjVvZElaMmppMExXSUhGZmJPb0VNbVdrM0JYemp1RnI3R2E4ZkR1ZndvOW5ERkFqQ0o4aHdxUzZUUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "Consumer sentiment sinks to an all-time low. Is this about Democrats\u2019 distaste for Trump?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "A long-running survey of how Americans feel about the economy sank to another all-time low \u2014 but not just because Democrats are furious at President Trump and his policies.",
+          "url": "https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "This 2008 \u2018train wreck\u2019 oil scenario could unfold if Hormuz isn\u2019t opened by end of August",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.027777777777777776,
+          "source": "marketwatch_topstories",
+          "summary": "There\u2019s a new warning from the commodity market about the risks of a delayed reopening of the Strait of Hormuz.",
+          "url": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "Melania Trump Scores Court Win as Judge Dismisses Michael Wolff Lawsuit - TMZ",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.02857142857142857,
+          "source": "TMZ",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnNYN3UybzBuY09rNk10OFNpSFpvbnVvc0VKMTBnWlNodjVkdDZLaVV3XzlDYmhzSW5rN3JwUWRqTjJSd3JmTDJYc1JjOHJJUDg0VzFHdjJGdWtWMVFrdkN2Y2lWMUdUdXpLbDBwWXZLX1IzUVFPRXRqWEx6VmpGamotcw?oc=5\" target=\"_blank\">Melania Trump Scores Court Win as Judge Dismisses Michael Wolff Lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMZ</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pJb1BtYUVSR3J6cE5sNmZjOUN5Z0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnNYN3UybzBuY09rNk10OFNpSFpvbnVvc0VKMTBnWlNodjVkdDZLaVV3XzlDYmhzSW5rN3JwUWRqTjJSd3JmTDJYc1JjOHJJUDg0VzFHdjJGdWtWMVFrdkN2Y2lWMUdUdXpLbDBwWXZLX1IzUVFPRXRqWEx6VmpGamotcw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "Flotilla activists describe beatings, tasers and mistreatment by Israeli forces - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.013157894736842105,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUIxVmRjM2ozVnptOV8tME8wWlRWNHh6Q0JuMlU2eDJjSUZNcTJmckJwU0F0TUZEWko3RENDMG5PbHlHYjV2QUJ0VGVKWGEzTUJMdllUaUlDRDlvUFBuM0NpeVY3aVV3cHBxNzEyMzIwc1N6c29ublJkU0psMTNBYnVJSUVOZWVSUnFuMWFRS3BCWFZqTTFTWlhGbU5oVDVlLTQ4WHEzSkZZVkxyeFFXTkEwcDR4c2pGX2tUSGkxazVoaTNnMWZB?oc=5\" target=\"_blank\">Flotilla activists describe beatings, tasers and mistreatment by Israeli forces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxON3Y4UEQ0VWRuVEpYaFJRMDhsck5JTUZkLVkzWndDT09KN0hZUTdzZU82elFEcHN5QVlLMGVKQXE5UF9PXzJnYUFBbWdpRWItdlhZTUxXdU90ckdTajJvV3dLV1Uzb3F3QmF2WEFCdFRsZElQY2pNVVpGaHpJTHdXYURsMS1Oc1BERzFYMDVoYTVpVmhZbzAw?oc=5\" target=\"_blank\">Freed Gaza flotilla activists accuse Israeli forces of sexual violence and abuse while in custody</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWN1QUtJbGtIS0E4bUVXWW8teDZOMFQ4cmdFcW5KaE9pUGc1dzNmcE5Tal9BZDhwN1BIVk1lWS16SFFWWTNYanQ3QUYyOTZkanBVazhGVDhwVVNFTGxhMnl1Y0Y0dG1HLWgwZTZkNzJXSWxPcFNFeU5FRmFDZWkyaXYtclhObnpE?oc=5\" target=\"_blank\">Israeli security minister who taunted flotilla activists has a record of extreme actions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQYl9rQ21FOV9mbEROeXI4MXpSQmxtYW4yM1AyMGxGUTNqb3ZBcWVROU5YVjI5N0xlN0VnTUNSLWRFOXpIa0xCalZfNTQtYTJrQ014ZXh3UlFmdFRHSGVLWHRCejlhUWxsRGRCZmFJazEwQ2NaTkEtdHlWdlFyckNlUmh0N0MtRGc?oc=5\" target=\"_blank\">Israel\u2019s Human Wrecking Ball</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE11QnpXZENDUHRKSU9JTWI1eEhRZFZvX0tIOG1VTjFfUmNuRWxrdVE3UDJ2UFJSU3l2Q3RxbDhmcWxONzh1VEdGUFpPT2pxTktSZ0l3Y2pBUW12Zw?oc=5\" target=\"_blank\">Gaza flotilla activists allege abuse by Israeli forces while detained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUIxVmRjM2ozVnptOV8tME8wWlRWNHh6Q0JuMlU2eDJjSUZNcTJmckJwU0F0TUZEWko3RENDMG5PbHlHYjV2QUJ0VGVKWGEzTUJMdllUaUlDRDlvUFBuM0NpeVY3aVV3cHBxNzEyMzIwc1N6c29ublJkU0psMTNBYnVJSUVOZWVSUnFuMWFRS3BCWFZqTTFTWlhGbU5oVDVlLTQ4WHEzSkZZVkxyeFFXTkEwcDR4c2pGX2tUSGkxazVoaTNnMWZB?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "software"
+      ],
+      "company_profile": {
+        "industry": "Communication Equipment",
+        "provider": "yfinance",
+        "sector": "Technology"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Lantronix (LTRX) Valuation Check As Edge AI And IoT Developments Draw New Attention - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUpzcEQ0TWQyaEtxZmtWMVNCUGtIUWJPdVczM20wdHFUZXFSU29wOGpqUDRUZWVfZktOam9NMHNOR3VpbVhuNEJTZXFVejkzLS1GOEZ6eWxXcExERnotVmcwSjZ4TmJ0UjhYS0FvVHBBSGRpRU1YSVQ5SVFJTW9ySEJvN1NHM0tmQ2dvT3JFR3JYM0NuZnFYYWZZRHZJMVVVTmdBTVg4N2RldXJWSExHUlYxbWViR3Z3TllON0ZoVVgzd9IBxwFBVV95cUxORmRXaGhDeFo0VFhJOFJmcDltSHliSWdsWVZ1YWxOelhxdlVmQW55QkdrTC1icmFhdk5HS2V6c0hJWDVrdG84aTJpWUNSVlByd1F6U0JZeXJ2M0Y4NGxnS1BXMnBlb2lNUXNnS3ZRLTZPc1dLVHpWNXdRQ1N1Y3YxcFdKLWRaYTUwbDBubXZ0NE1FaFFkaVNFZC1iTlpob1VlUlFmVTlPUU01R0sxYWdZWXI1dGdKNW1PVDR0UTRLU2taY2JkQmY0?oc=5\" target=\"_blank\">Lantronix (LTRX) Valuation Check As Edge AI And IoT Developments Draw New Attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUpzcEQ0TWQyaEtxZmtWMVNCUGtIUWJPdVczM20wdHFUZXFSU29wOGpqUDRUZWVfZktOam9NMHNOR3VpbVhuNEJTZXFVejkzLS1GOEZ6eWxXcExERnotVmcwSjZ4TmJ0UjhYS0FvVHBBSGRpRU1YSVQ5SVFJTW9ySEJvN1NHM0tmQ2dvT3JFR3JYM0NuZnFYYWZZRHZJMVVVTmdBTVg4N2RldXJWSExHUlYxbWViR3Z3TllON0ZoVVgzd9IBxwFBVV95cUxORmRXaGhDeFo0VFhJOFJmcDltSHliSWdsWVZ1YWxOelhxdlVmQW55QkdrTC1icmFhdk5HS2V6c0hJWDVrdG84aTJpWUNSVlByd1F6U0JZeXJ2M0Y4NGxnS1BXMnBlb2lNUXNnS3ZRLTZPc1dLVHpWNXdRQ1N1Y3YxcFdKLWRaYTUwbDBubXZ0NE1FaFFkaVNFZC1iTlpob1VlUlFmVTlPUU01R0sxYWdZWXI1dGdKNW1PVDR0UTRLU2taY2JkQmY0?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-21",
+          "headline": "How Lantronix\u2019s New xPico 600 IoT Platform And Cloud Integration At Lantronix (LTRX) Has Changed Its Investment Story - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDc4ZzFJZm5SSEtGMkVnWC1lNWtEV3lMa0pLdHliR1pYNzAtVGdkQWlXQ29mYkhGWmtZM2pWMVE4NWJHcGltRUFHUmZ5ODBPV1hFMUNzYUprUGE4SXRkWE1XUV9tUlBmdHdqOW1ianIzanEwUGRxZmwzOEV1b0U3WGhZd3JNVFc0MnpGbldjUFpEZmJsUnJGM2U3Qk1xWjd2YzN6Rm82bTZOa01MbkJuZW5QLXQ2RW52SzJORDJZRDM0d9IBxwFBVV95cUxPdWIzNVJyenVIZ2JKZ1Zxc0NrdzVYM0FiOW9NWWdCTFJ5cHktWEJQLXczSmNLeDByMHU0TUxCTmlTTXJwWklGRF9zY0RrUzBKWDJmeG5QVFVpVG5WUHJCb3VTR0FMeEM3aXd6dExCMW83VXk5c1Fkb0tTdk5SdVlqMm9TdlZYdEdUbzJwbENYRndlLVo3QkNleGQ1NjZ0ZEVhWmxZUjdJa2NBT0tRUmlfNm90QVZzNzJ5Y0djcUh3SU56UGx4Qms0?oc=5\" target=\"_blank\">How Lantronix\u2019s New xPico 600 IoT Platform And Cloud Integration At Lantronix (LTRX) Has Changed Its Investment Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDc4ZzFJZm5SSEtGMkVnWC1lNWtEV3lMa0pLdHliR1pYNzAtVGdkQWlXQ29mYkhGWmtZM2pWMVE4NWJHcGltRUFHUmZ5ODBPV1hFMUNzYUprUGE4SXRkWE1XUV9tUlBmdHdqOW1ianIzanEwUGRxZmwzOEV1b0U3WGhZd3JNVFc0MnpGbldjUFpEZmJsUnJGM2U3Qk1xWjd2YzN6Rm82bTZOa01MbkJuZW5QLXQ2RW52SzJORDJZRDM0d9IBxwFBVV95cUxPdWIzNVJyenVIZ2JKZ1Zxc0NrdzVYM0FiOW9NWWdCTFJ5cHktWEJQLXczSmNLeDByMHU0TUxCTmlTTXJwWklGRF9zY0RrUzBKWDJmeG5QVFVpVG5WUHJCb3VTR0FMeEM3aXd6dExCMW83VXk5c1Fkb0tTdk5SdVlqMm9TdlZYdEdUbzJwbENYRndlLVo3QkNleGQ1NjZ0ZEVhWmxZUjdJa2NBT0tRUmlfNm90QVZzNzJ5Y0djcUh3SU56UGx4Qms0?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-21",
+          "headline": "Safe Pro and Lantronix Advance Their Collaboration Delivering AI-Driven Edge Intelligence for Defense and Commercial Autonomous Systems - AI Magazine",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "AI Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fMkswSTEyWDRlSGtQZk56cGFOWmp5Z1Y0RWZ4bkNwTTl0a29aeGhSM0tUajJVa3JCUXN6a0h0ZVJSWUJFUlh4czlGZ1E0UEpjT0dMWF9wUQ?oc=5\" target=\"_blank\">Safe Pro and Lantronix Advance Their Collaboration Delivering AI-Driven Edge Intelligence for Defense and Commercial Autonomous Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Magazine</font>",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fMkswSTEyWDRlSGtQZk56cGFOWmp5Z1Y0RWZ4bkNwTTl0a29aeGhSM0tUajJVa3JCUXN6a0h0ZVJSWUJFUlh4czlGZ1E0UEpjT0dMWF9wUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "Safe Pro Group (NASDAQ: SPAI) Advances Edge AI Threat Detection Collaboration With Lantronix - The Globe and Mail",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Globe and Mail",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPUkRibVBjMmd2SEFVZUs0U1lPNHMwUXBsbnNVTlFuTTQ5VXgyTG5PcUVPeEQ4ekVyYWhRd2JvS3NvbXR0WUtfSUU4amU4eGZ5TzRlemk4aWNDTVh0TUxxOGNLRnJTRVA4VnNnS3hoMFFMUnJEX0JZM3FpMVJNLUZKV1pJa1Vpa2IxMWNvbzlrcHJfYWFvd2xiUUtXZG5LR1ZOMjdvQWZ3aS0zMUJxU0NEQTM4T3UzSzdjU3NmOVduMG9zTjBrYmpla2ZCVlhnekdfVzVGWDNtaTZZa3RmZ25nZUNtYnlxcXk1bXVYZkxmUEJXVjR4Q2JyTENocElPYjlmOTZsTQ?oc=5\" target=\"_blank\">Safe Pro Group (NASDAQ: SPAI) Advances Edge AI Threat Detection Collaboration With Lantronix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUkRibVBjMmd2SEFVZUs0U1lPNHMwUXBsbnNVTlFuTTQ5VXgyTG5PcUVPeEQ4ekVyYWhRd2JvS3NvbXR0WUtfSUU4amU4eGZ5TzRlemk4aWNDTVh0TUxxOGNLRnJTRVA4VnNnS3hoMFFMUnJEX0JZM3FpMVJNLUZKV1pJa1Vpa2IxMWNvbzlrcHJfYWFvd2xiUUtXZG5LR1ZOMjdvQWZ3aS0zMUJxU0NEQTM4T3UzSzdjU3NmOVduMG9zTjBrYmpla2ZCVlhnekdfVzVGWDNtaTZZa3RmZ25nZUNtYnlxcXk1bXVYZkxmUEJXVjR4Q2JyTENocElPYjlmOTZsTQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "Safe Pro partners with Lantronix for AI-driven edge intelligence - TipRanks",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TipRanks",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0dsYktSckpSbTN3TWVxOG5Rb3MySHFWb1FYb2NhS0FJRUMzQTBYZzVPRE9adkVCU2xYMVUxY1FzVGtIWEtyMHZ5U2JiaWRNVXlqVVlQZ3NESHQzNElqRnlfM3hlRXdaM1F3dFpabXhuOVZLRG9XcWNPeDItbGREOTgtNVJjNFNMQ0dYeGwwNllTTTNmSWdGT2NpX044MkJHOWNrVllzWE4xMFZfQk95MlNfa0s?oc=5\" target=\"_blank\">Safe Pro partners with Lantronix for AI-driven edge intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0dsYktSckpSbTN3TWVxOG5Rb3MySHFWb1FYb2NhS0FJRUMzQTBYZzVPRE9adkVCU2xYMVUxY1FzVGtIWEtyMHZ5U2JiaWRNVXlqVVlQZ3NESHQzNElqRnlfM3hlRXdaM1F3dFpabXhuOVZLRG9XcWNPeDItbGREOTgtNVJjNFNMQ0dYeGwwNllTTTNmSWdGT2NpX044MkJHOWNrVllzWE4xMFZfQk95MlNfa0s?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "Lake Street Initiates Lantronix(LTRX.US) With Buy Rating, Announces Target Price $8 - \u5bcc\u9014\u725b\u725b",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "\u5bcc\u9014\u725b\u725b",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWF1TGthUnEzc2NwTTBBcmJaZHIwS0gtVlFoNldjRVhyaF9Gc1lZMXBkWXR6MDlaTnVUUDgxcTg1a3R6X1dQZ1pXWTJDU0hRSUtTd2ctcTc4TkowOXBmNDZfMzB3eHR4aUZrVjhpcU5ObGVDczNialpVdmdwSHZqd2Y2X0J2YkNnNklqQnVQczludGcxcy02U3pMNVhMNWU3MHVBdERnVHJtQlRTZHdfSlRn?oc=5\" target=\"_blank\">Lake Street Initiates Lantronix(LTRX.US) With Buy Rating, Announces Target Price $8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u5bcc\u9014\u725b\u725b</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWF1TGthUnEzc2NwTTBBcmJaZHIwS0gtVlFoNldjRVhyaF9Gc1lZMXBkWXR6MDlaTnVUUDgxcTg1a3R6X1dQZ1pXWTJDU0hRSUtTd2ctcTc4TkowOXBmNDZfMzB3eHR4aUZrVjhpcU5ObGVDczNialpVdmdwSHZqd2Y2X0J2YkNnNklqQnVQczludGcxcy02U3pMNVhMNWU3MHVBdERnVHJtQlRTZHdfSlRn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "Safe Pro Group advances AI threat detection with Lantronix - Investing.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVm1ITmxtOHZ1YWdMSGZCM0s5UlRzMEVmZ0ttSWszT0RGakc4bVZCYk1qNVZKazF2YVA5TVBTQWJPTnpjUlVNQldXbHllOFBvaGhfT1c1S183cjdvejZGTzJ5SXVPZ0VuYnFMWktLVzFDeVpKMEZaRGxZcFg2WHJMaVJsaUtNOXdVUDZEdkdKX195VlRLczJoNWFDX1M4eHBFWTAzNHh6bkJDRTNYOGF1YUVpTjNnZw?oc=5\" target=\"_blank\">Safe Pro Group advances AI threat detection with Lantronix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVm1ITmxtOHZ1YWdMSGZCM0s5UlRzMEVmZ0ttSWszT0RGakc4bVZCYk1qNVZKazF2YVA5TVBTQWJPTnpjUlVNQldXbHllOFBvaGhfT1c1S183cjdvejZGTzJ5SXVPZ0VuYnFMWktLVzFDeVpKMEZaRGxZcFg2WHJMaVJsaUtNOXdVUDZEdkdKX195VlRLczJoNWFDX1M4eHBFWTAzNHh6bkJDRTNYOGF1YUVpTjNnZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "AI drones help spot landmines: Safe Pro and Lantronix team up - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3p1V0xtVWhBUUoteEh2R2dGYWhiRG1DLWdYeklLb19nN3ZzZU9ZN0FmTlJzcnVfRy0wbjNOMGZuY2VqUUVBRlFUMlYwWUlXRVNFZ3haU2xNUjA5bHJzc2ptT2VhUTRtRWFsRXBPRm9nX3JmdXBjM1JNQWhtQVFkMXBQVmQxaGlxenNERHVsRk12VUM5VEhTWkJ0WmVQRHZFUTRDcnFwMmptUWVrZ0hUUFZuX01fSjlJSURn?oc=5\" target=\"_blank\">AI drones help spot landmines: Safe Pro and Lantronix team up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3p1V0xtVWhBUUoteEh2R2dGYWhiRG1DLWdYeklLb19nN3ZzZU9ZN0FmTlJzcnVfRy0wbjNOMGZuY2VqUUVBRlFUMlYwWUlXRVNFZ3haU2xNUjA5bHJzc2ptT2VhUTRtRWFsRXBPRm9nX3JmdXBjM1JNQWhtQVFkMXBQVmQxaGlxenNERHVsRk12VUM5VEhTWkJ0WmVQRHZFUTRDcnFwMmptUWVrZ0hUUFZuX01fSjlJSURn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-19",
+          "headline": "LTRX Stock Price, Quote & Chart | LANTRONIX INC (NASDAQ:LTRX) - ChartMill",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "ChartMill",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE92Q1RFZVhldDJVV3lBZzlQSHZoT1U3OE5idWtQRW82TUxkQ1lDWVp6WDBoNUFmcUhIeHQwWjJfX2Q1UURSUEhUX2pVYzJqNkhKMVY4NXlLQ01IRGprVWIw?oc=5\" target=\"_blank\">LTRX Stock Price, Quote & Chart | LANTRONIX INC (NASDAQ:LTRX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChartMill</font>",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92Q1RFZVhldDJVV3lBZzlQSHZoT1U3OE5idWtQRW82TUxkQ1lDWVp6WDBoNUFmcUhIeHQwWjJfX2Q1UURSUEhUX2pVYzJqNkhKMVY4NXlLQ01IRGprVWIw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-12",
+          "headline": "Lantronix xPico 600 Brings Wi-Fi 6, Enterprise Security and - GlobeNewswire",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GlobeNewswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPMWxwbENValZPNC1zZmo1TzVxZHdfRUVPbGZCSWc5YXBjSV9seVNFczJINXEtV3YxYkU4czN5Qkk4cWZ5YWZDY29RN1RuWTdfX1lKcElDQmF4dWVneFRUZ1VoMlhWakRUXzlrWkhSMjAxNjcwMWI3aDNXWWpQaExKb3NYSHdwRU1yWVBuTU43NFUtWTR5dW9RUlI5N0NUcFlOakhKNUcwcmFNWHhDOXNRMi05TGdjdkdLdHRxZmd6ZkJqaTN3NDZuM19zeV9mVVJ1YUJpamtjNmRrd2M3c09EaThtd1NYc203RWd4ek1XcTEzWUFmQTk2blUwZlh3dUtkTklEYXREX0lqXzRwWVZlRldXRUttZ2dHeVdlQUstTlROZ28?oc=5\" target=\"_blank\">Lantronix xPico 600 Brings Wi-Fi 6, Enterprise Security and</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMWxwbENValZPNC1zZmo1TzVxZHdfRUVPbGZCSWc5YXBjSV9seVNFczJINXEtV3YxYkU4czN5Qkk4cWZ5YWZDY29RN1RuWTdfX1lKcElDQmF4dWVneFRUZ1VoMlhWakRUXzlrWkhSMjAxNjcwMWI3aDNXWWpQaExKb3NYSHdwRU1yWVBuTU43NFUtWTR5dW9RUlI5N0NUcFlOakhKNUcwcmFNWHhDOXNRMi05TGdjdkdLdHRxZmd6ZkJqaTN3NDZuM19zeV9mVVJ1YUJpamtjNmRrd2M3c09EaThtd1NYc203RWd4ek1XcTEzWUFmQTk2blUwZlh3dUtkTklEYXREX0lqXzRwWVZlRldXRUttZ2dHeVdlQUstTlROZ28?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-08",
+          "headline": "Lantronix Inc - May Offer And Sell Common Stock Up To $30 Million Through Sales Agents - SEC Filing - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1NmdERpZ1ZUN0ZBVHRxWmt4NUJTYWJwcnd0OThFWlJNTnpGdnZLRzk5ZGVidmtmWGphdmNBNlowLU9FbnRkT1NRbzh1bDNKa0JuM0JFem8zQXJHYUR0bkNWNmRjVlFuS3pXSFdwMUxfeUdGNDNzeEdrblRWQjNrTzFNaDR4SUZjd0w5SVlzVDhZREwzQmgtZVdpVFZnRFd0N3VnMUJTUUJuYnRXQ20zdW83TjFGSEVRb3k4VjBlLU5UdUo0VXBfLXdsM1pZc1BYWlRDTDc3TEhIWm00NE9aSUJhcVdCZFFwS2c5d1MwZHN4bnBqSmxF?oc=5\" target=\"_blank\">Lantronix Inc - May Offer And Sell Common Stock Up To $30 Million Through Sales Agents - SEC Filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1NmdERpZ1ZUN0ZBVHRxWmt4NUJTYWJwcnd0OThFWlJNTnpGdnZLRzk5ZGVidmtmWGphdmNBNlowLU9FbnRkT1NRbzh1bDNKa0JuM0JFem8zQXJHYUR0bkNWNmRjVlFuS3pXSFdwMUxfeUdGNDNzeEdrblRWQjNrTzFNaDR4SUZjd0w5SVlzVDhZREwzQmgtZVdpVFZnRFd0N3VnMUJTUUJuYnRXQ20zdW83TjFGSEVRb3k4VjBlLU5UdUo0VXBfLXdsM1pZc1BYWlRDTDc3TEhIWm00NE9aSUJhcVdCZFFwS2c5d1MwZHN4bnBqSmxF?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-05-08",
+          "headline": "Lantronix (NASDAQ: LTRX) sets $30,000,000 at-the-market stock program - Stock Titan",
+          "kind": "negative",
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzJ1ZWExRlVvR2tYZXFQY0dSMmRPVUpyeXZnVFVqV1ZhbDhkc29RZjNjSGVoc1hvUTFwcmJBU2lNVThjTmVaS1ktU2tYQURZalpGV2RMNzVlRDVHYkMtVHlmWS1VZVYwbnpiVGo4dEhuWmEzUXotdjRiTWYxUDNFQ0VQX21Td3AtVWNfTVp0TVNtSUVLay0xZFUzUEY5aDNpUzNhTw?oc=5\" target=\"_blank\">Lantronix (NASDAQ: LTRX) sets $30,000,000 at-the-market stock program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzJ1ZWExRlVvR2tYZXFQY0dSMmRPVUpyeXZnVFVqV1ZhbDhkc29RZjNjSGVoc1hvUTFwcmJBU2lNVThjTmVaS1ktU2tYQURZalpGV2RMNzVlRDVHYkMtVHlmWS1VZVYwbnpiVGo4dEhuWmEzUXotdjRiTWYxUDNFQ0VQX21Td3AtVWNfTVp0TVNtSUVLay0xZFUzUEY5aDNpUzNhTw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-08",
+          "headline": "Is Lantronix, Inc. (NASDAQ:LTRX) Potentially Undervalued? - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1ZobThXa1VieTFfcDJ2cnVvUmI3NjhSdEM2ZEh3Y3Mxa3ZJa3VwUnRHY0FyVFVCczIxWmhlb3NmT0VhSTlrRUZJY29PdU9Db3drUE92ZGFxSzVJX2VSaWwyRUkwUXlzWGp0bUdLZEIxck4wWTl0TGVNd01JNU1lOFBHdldaNFFaRDVyRmdnUzJ1alNTa1FnQnJGWFZLQ3laeklrdQ?oc=5\" target=\"_blank\">Is Lantronix, Inc. (NASDAQ:LTRX) Potentially Undervalued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1ZobThXa1VieTFfcDJ2cnVvUmI3NjhSdEM2ZEh3Y3Mxa3ZJa3VwUnRHY0FyVFVCczIxWmhlb3NmT0VhSTlrRUZJY29PdU9Db3drUE92ZGFxSzVJX2VSaWwyRUkwUXlzWGp0bUdLZEIxck4wWTl0TGVNd01JNU1lOFBHdldaNFFaRDVyRmdnUzJ1alNTa1FnQnJGWFZLQ3laeklrdQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-07",
+          "headline": "Lantronix (NASDAQ: LTRX) trims losses amid mixed IoT demand - Stock Titan",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.08333333333333333,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnVTM1lLNFRacFlscHhaN2FGYlNMZHFmV0xSVkRjaEs3VHlQc3BuNG12TjZrNFZBUHloemstZ0lXTUxnalNtczk2bmRtS2xCN2JvS2d3VUFONEdMUzB1TS1QQ2NJaGNkbW5XOXZGeUpkdDJ1RkMtdXA3R19FMXdKbHhGUlBxalk2dFFRWFN6Q1ludUtVOG1fTUxxTlowZktTdFdiRFZ1TDByUQ?oc=5\" target=\"_blank\">Lantronix (NASDAQ: LTRX) trims losses amid mixed IoT demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnVTM1lLNFRacFlscHhaN2FGYlNMZHFmV0xSVkRjaEs3VHlQc3BuNG12TjZrNFZBUHloemstZ0lXTUxnalNtczk2bmRtS2xCN2JvS2d3VUFONEdMUzB1TS1QQ2NJaGNkbW5XOXZGeUpkdDJ1RkMtdXA3R19FMXdKbHhGUlBxalk2dFFRWFN6Q1ludUtVOG1fTUxxTlowZktTdFdiRFZ1TDByUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-06",
+          "headline": "Lantronix (NASDAQ: LTRX) posts Q3 2026 growth and raises drone outlook - Stock Titan",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1h6bFd5eENWb2pXVzNqR1dyZzF6QmpnbWZ5TDhsUjdYdjY0NnQ3SGp5eER4LWZUQ2NTUW1nbU9UMnY5QzY1cXdpZ1pzeUptZURRUFV4WlJiSnNZZ3hGM29OV2FpaWllaVkwUjBpZWctajllRGtIUFcxMzBRUHFFRm85WWRUM2FIeFpaVkYzNHk1RGtBYnF2eTJqNDBkdkVLMUp4Tw?oc=5\" target=\"_blank\">Lantronix (NASDAQ: LTRX) posts Q3 2026 growth and raises drone outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1h6bFd5eENWb2pXVzNqR1dyZzF6QmpnbWZ5TDhsUjdYdjY0NnQ3SGp5eER4LWZUQ2NTUW1nbU9UMnY5QzY1cXdpZ1pzeUptZURRUFV4WlJiSnNZZ3hGM29OV2FpaWllaVkwUjBpZWctajllRGtIUFcxMzBRUHFFRm85WWRUM2FIeFpaVkYzNHk1RGtBYnF2eTJqNDBkdkVLMUp4Tw?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 2,
+      "positive_signal_count": 3
+    },
+    "sentiment": {
+      "days_sampled": 8,
+      "delta": 0.005128205128205128,
+      "prior_mean": 0.0,
+      "recent_mean": 0.005128205128205128
+    },
+    "technical": {
+      "atr14": 0.388907273993749,
+      "close": 7.08,
+      "close_vs_ema200_pct": 30.458843943122492,
+      "close_vs_ema20_pct": 10.62579008893631,
+      "close_vs_ema50_pct": 13.738449374246798,
+      "close_vs_hh20_pct": -0.28169014084506444,
+      "ema20": 6.39995429122641,
+      "ema200": 5.42699888026506,
+      "ema50": 6.22480791583843,
+      "entry_ready": false,
+      "hh20_prev": 7.1,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.08909430017722
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "software"
+    ],
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 3 constructive, 2 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-08: Lantronix (NASDAQ: LTRX) sets $30,000,000 at-the-market stock program - Stock Titan."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-07: Lantronix (NASDAQ: LTRX) trims losses amid mixed IoT demand - Stock Titan."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.09, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-21: How Lantronix\u2019s New xPico 600 IoT Platform And Cloud Integration At Lantronix (LTRX) Has Changed Its Investment Story - simplywall.st."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-20: Lake Street Initiates Lantronix(LTRX.US) With Buy Rating, Announces Target Price $8 - \u5bcc\u9014\u725b\u725b."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-06: Lantronix (NASDAQ: LTRX) posts Q3 2026 growth and raises drone outlook - Stock Titan."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "Price is still below the prior 20-day high (7.10), so the breakout remains unconfirmed."
+    },
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 7.10 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "high",
+      "point": "Dilution or share-supply risk remains relevant: 2026-05-08: Lantronix (NASDAQ: LTRX) sets $30,000,000 at-the-market stock program - Stock Titan."
+    },
+    {
+      "confidence": "medium",
+      "point": "Recent adverse headline could still cap follow-through: 2026-05-07: Lantronix (NASDAQ: LTRX) trims losses amid mixed IoT demand - Stock Titan."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is still below the 20-day high trigger",
+        "points": -8,
+        "value": -0.28
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.09
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 10.63
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 13.74
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 30.46
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 6,
+        "value": 3
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -4,
+        "value": 2
+      },
+      {
+        "label": "Dilution or share-supply overhang detected",
+        "points": -6
+      }
+    ],
+    "confidence": "high",
+    "label": "fragile_watch",
+    "score_0_to_100": 39
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-23",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-23_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-05-23",
+      "publisher": "simplywall.st",
+      "title": "Lantronix (LTRX) Valuation Check As Edge AI And IoT Developments Draw New Attention - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUpzcEQ0TWQyaEtxZmtWMVNCUGtIUWJPdVczM20wdHFUZXFSU29wOGpqUDRUZWVfZktOam9NMHNOR3VpbVhuNEJTZXFVejkzLS1GOEZ6eWxXcExERnotVmcwSjZ4TmJ0UjhYS0FvVHBBSGRpRU1YSVQ5SVFJTW9ySEJvN1NHM0tmQ2dvT3JFR3JYM0NuZnFYYWZZRHZJMVVVTmdBTVg4N2RldXJWSExHUlYxbWViR3Z3TllON0ZoVVgzd9IBxwFBVV95cUxORmRXaGhDeFo0VFhJOFJmcDltSHliSWdsWVZ1YWxOelhxdlVmQW55QkdrTC1icmFhdk5HS2V6c0hJWDVrdG84aTJpWUNSVlByd1F6U0JZeXJ2M0Y4NGxnS1BXMnBlb2lNUXNnS3ZRLTZPc1dLVHpWNXdRQ1N1Y3YxcFdKLWRaYTUwbDBubXZ0NE1FaFFkaVNFZC1iTlpob1VlUlFmVTlPUU01R0sxYWdZWXI1dGdKNW1PVDR0UTRLU2taY2JkQmY0?oc=5"
+    },
+    {
+      "published_at": "2026-05-21",
+      "publisher": "simplywall.st",
+      "title": "How Lantronix\u2019s New xPico 600 IoT Platform And Cloud Integration At Lantronix (LTRX) Has Changed Its Investment Story - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDc4ZzFJZm5SSEtGMkVnWC1lNWtEV3lMa0pLdHliR1pYNzAtVGdkQWlXQ29mYkhGWmtZM2pWMVE4NWJHcGltRUFHUmZ5ODBPV1hFMUNzYUprUGE4SXRkWE1XUV9tUlBmdHdqOW1ianIzanEwUGRxZmwzOEV1b0U3WGhZd3JNVFc0MnpGbldjUFpEZmJsUnJGM2U3Qk1xWjd2YzN6Rm82bTZOa01MbkJuZW5QLXQ2RW52SzJORDJZRDM0d9IBxwFBVV95cUxPdWIzNVJyenVIZ2JKZ1Zxc0NrdzVYM0FiOW9NWWdCTFJ5cHktWEJQLXczSmNLeDByMHU0TUxCTmlTTXJwWklGRF9zY0RrUzBKWDJmeG5QVFVpVG5WUHJCb3VTR0FMeEM3aXd6dExCMW83VXk5c1Fkb0tTdk5SdVlqMm9TdlZYdEdUbzJwbENYRndlLVo3QkNleGQ1NjZ0ZEVhWmxZUjdJa2NBT0tRUmlfNm90QVZzNzJ5Y0djcUh3SU56UGx4Qms0?oc=5"
+    },
+    {
+      "published_at": "2026-05-21",
+      "publisher": "AI Magazine",
+      "title": "Safe Pro and Lantronix Advance Their Collaboration Delivering AI-Driven Edge Intelligence for Defense and Commercial Autonomous Systems - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fMkswSTEyWDRlSGtQZk56cGFOWmp5Z1Y0RWZ4bkNwTTl0a29aeGhSM0tUajJVa3JCUXN6a0h0ZVJSWUJFUlh4czlGZ1E0UEpjT0dMWF9wUQ?oc=5"
+    },
+    {
+      "published_at": "2026-05-20",
+      "publisher": "The Globe and Mail",
+      "title": "Safe Pro Group (NASDAQ: SPAI) Advances Edge AI Threat Detection Collaboration With Lantronix - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUkRibVBjMmd2SEFVZUs0U1lPNHMwUXBsbnNVTlFuTTQ5VXgyTG5PcUVPeEQ4ekVyYWhRd2JvS3NvbXR0WUtfSUU4amU4eGZ5TzRlemk4aWNDTVh0TUxxOGNLRnJTRVA4VnNnS3hoMFFMUnJEX0JZM3FpMVJNLUZKV1pJa1Vpa2IxMWNvbzlrcHJfYWFvd2xiUUtXZG5LR1ZOMjdvQWZ3aS0zMUJxU0NEQTM4T3UzSzdjU3NmOVduMG9zTjBrYmpla2ZCVlhnekdfVzVGWDNtaTZZa3RmZ25nZUNtYnlxcXk1bXVYZkxmUEJXVjR4Q2JyTENocElPYjlmOTZsTQ?oc=5"
+    },
+    {
+      "published_at": "2026-05-20",
+      "publisher": "TipRanks",
+      "title": "Safe Pro partners with Lantronix for AI-driven edge intelligence - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0dsYktSckpSbTN3TWVxOG5Rb3MySHFWb1FYb2NhS0FJRUMzQTBYZzVPRE9adkVCU2xYMVUxY1FzVGtIWEtyMHZ5U2JiaWRNVXlqVVlQZ3NESHQzNElqRnlfM3hlRXdaM1F3dFpabXhuOVZLRG9XcWNPeDItbGREOTgtNVJjNFNMQ0dYeGwwNllTTTNmSWdGT2NpX044MkJHOWNrVllzWE4xMFZfQk95MlNfa0s?oc=5"
+    },
+    {
+      "published_at": "2026-05-20",
+      "publisher": "\u5bcc\u9014\u725b\u725b",
+      "title": "Lake Street Initiates Lantronix(LTRX.US) With Buy Rating, Announces Target Price $8 - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWF1TGthUnEzc2NwTTBBcmJaZHIwS0gtVlFoNldjRVhyaF9Gc1lZMXBkWXR6MDlaTnVUUDgxcTg1a3R6X1dQZ1pXWTJDU0hRSUtTd2ctcTc4TkowOXBmNDZfMzB3eHR4aUZrVjhpcU5ObGVDczNialpVdmdwSHZqd2Y2X0J2YkNnNklqQnVQczludGcxcy02U3pMNVhMNWU3MHVBdERnVHJtQlRTZHdfSlRn?oc=5"
+    },
+    {
+      "published_at": "2026-05-20",
+      "publisher": "Investing.com",
+      "title": "Safe Pro Group advances AI threat detection with Lantronix - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVm1ITmxtOHZ1YWdMSGZCM0s5UlRzMEVmZ0ttSWszT0RGakc4bVZCYk1qNVZKazF2YVA5TVBTQWJPTnpjUlVNQldXbHllOFBvaGhfT1c1S183cjdvejZGTzJ5SXVPZ0VuYnFMWktLVzFDeVpKMEZaRGxZcFg2WHJMaVJsaUtNOXdVUDZEdkdKX195VlRLczJoNWFDX1M4eHBFWTAzNHh6bkJDRTNYOGF1YUVpTjNnZw?oc=5"
+    }
+  ],
+  "summary": "LTRX scores 39/100 as a fragile_watch setup. The score is driven mainly by the technical breakout picture, with 3 constructive versus 2 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "LTRX"
+}

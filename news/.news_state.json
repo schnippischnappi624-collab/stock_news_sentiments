@@ -47,6 +47,10 @@
     "last_fetch_utc": "2026-05-23T04:00:06.200708+00:00",
     "provider": "google_news_rss"
   },
+  "AA": {
+    "last_fetch_utc": "2026-05-23T09:15:05.248783+00:00",
+    "provider": "google_news_rss"
+  },
   "ABBN": {
     "last_fetch_utc": "2026-04-20T04:00:06.406977+00:00",
     "provider": "google_news_rss"
@@ -245,6 +249,10 @@
   },
   "AVNS": {
     "last_fetch_utc": "2026-04-17T09:15:05.756747+00:00",
+    "provider": "google_news_rss"
+  },
+  "AVR": {
+    "last_fetch_utc": "2026-05-23T09:15:05.248783+00:00",
     "provider": "google_news_rss"
   },
   "AXAHY": {
@@ -447,6 +455,10 @@
     "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
     "provider": "google_news_rss"
   },
+  "CYD": {
+    "last_fetch_utc": "2026-05-23T09:15:05.248783+00:00",
+    "provider": "google_news_rss"
+  },
   "DAC": {
     "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
@@ -569,6 +581,10 @@
   },
   "FRT": {
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
+  },
+  "GFS": {
+    "last_fetch_utc": "2026-05-23T09:15:05.248783+00:00",
     "provider": "google_news_rss"
   },
   "GLKBN": {
@@ -735,6 +751,10 @@
     "last_fetch_utc": "2026-04-21T09:15:06.162616+00:00",
     "provider": "google_news_rss"
   },
+  "LNTH": {
+    "last_fetch_utc": "2026-05-23T09:15:05.248783+00:00",
+    "provider": "google_news_rss"
+  },
   "LOIHDE": {
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
     "provider": "google_news_rss"
@@ -761,6 +781,10 @@
   },
   "LSCC": {
     "last_fetch_utc": "2026-04-27T09:15:07.385482+00:00",
+    "provider": "google_news_rss"
+  },
+  "LTRX": {
+    "last_fetch_utc": "2026-05-23T09:15:05.248783+00:00",
     "provider": "google_news_rss"
   },
   "M12": {

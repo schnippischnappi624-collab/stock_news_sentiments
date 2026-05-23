@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NCM",
+  "fetched_at_utc": "2026-05-23T09:15:27.161122+00:00",
+  "industry": "Communication Equipment",
+  "long_name": "Lantronix, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "LTRX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "LTRX",
+  "sector": "Technology",
+  "short_name": "Lantronix, Inc.",
+  "symbol": "LTRX"
+}
