@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Education & Training Services",
+  "long_name": "Cedergrenska AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "CEDER.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CEDER",
+  "sector": "Consumer Defensive",
+  "short_name": "Cedergrenska AB",
+  "symbol": "CEDER.ST"
+}

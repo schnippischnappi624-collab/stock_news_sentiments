@@ -1,0 +1,14 @@
+{
+  "country": "Denmark",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Specialty Chemicals",
+  "long_name": "SP Group A/S",
+  "provider": "yfinance",
+  "query_symbol": "SPG.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SPG",
+  "sector": "Basic Materials",
+  "short_name": "SP Group A/S",
+  "symbol": "SPG.CO"
+}

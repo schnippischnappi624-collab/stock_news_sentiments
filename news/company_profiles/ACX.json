@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Gambling",
+  "long_name": "bet-at-home.com AG",
+  "provider": "yfinance",
+  "query_symbol": "ACX.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ACX",
+  "sector": "Consumer Cyclical",
+  "short_name": "bet-at-home.com AG            I",
+  "symbol": "ACX.DE"
+}

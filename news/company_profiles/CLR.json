@@ -1,0 +1,14 @@
+{
+  "country": "Spain",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Engineering & Construction",
+  "long_name": "CLERHP Estructuras, S.A.",
+  "provider": "yfinance",
+  "query_symbol": "CLR.MC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CLR",
+  "sector": "Industrials",
+  "short_name": "CLERHP ESTRUCTURAS, S.A.",
+  "symbol": "CLR.MC"
+}

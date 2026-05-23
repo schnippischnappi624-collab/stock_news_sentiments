@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Real Estate Services",
+  "long_name": "Stenhus Fastigheter i Norden AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "SFAST.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SFAST",
+  "sector": "Real Estate",
+  "short_name": "Stenhus Fastigheter i Norden AB",
+  "symbol": "SFAST.ST"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Scientific & Technical Instruments",
+  "long_name": "Viscom SE",
+  "provider": "yfinance",
+  "query_symbol": "V6C.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "V6C",
+  "sector": "Technology",
+  "short_name": "Viscom SE                     I",
+  "symbol": "V6C.DE"
+}

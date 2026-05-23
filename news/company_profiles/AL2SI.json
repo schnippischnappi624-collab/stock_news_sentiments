@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Computer Hardware",
+  "long_name": "2CRSI S.A.",
+  "provider": "yfinance",
+  "query_symbol": "AL2SI.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AL2SI",
+  "sector": "Technology",
+  "short_name": "2CRSI",
+  "symbol": "AL2SI.PA"
+}

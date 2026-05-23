@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Utilities - Renewable",
+  "long_name": "\u00c9lectricite de Strasbourg Soci\u00e9t\u00e9 Anonyme",
+  "provider": "yfinance",
+  "query_symbol": "ELEC.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ELEC",
+  "sector": "Utilities",
+  "short_name": "ELEC.STRASBOURG",
+  "symbol": "ELEC.PA"
+}

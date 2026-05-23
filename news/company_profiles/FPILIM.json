@@ -1,0 +1,14 @@
+{
+  "country": null,
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": null,
+  "long_name": "Formuepleje LimiTTellus",
+  "provider": "yfinance",
+  "query_symbol": "FPILIM.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FPILIM",
+  "sector": null,
+  "short_name": "Formuepleje LimiTTellus",
+  "symbol": "FPILIM.CO"
+}

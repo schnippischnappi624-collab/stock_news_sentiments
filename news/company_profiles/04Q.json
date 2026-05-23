@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Nordea Bank Abp",
+  "provider": "yfinance",
+  "query_symbol": "04Q.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "04Q",
+  "sector": "Financial Services",
+  "short_name": "Nordea Bank Abp               R",
+  "symbol": "04Q.DE"
+}

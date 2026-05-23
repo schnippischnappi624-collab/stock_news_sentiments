@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Personal Services",
+  "long_name": "HomeMaid AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "HOME-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HOME-B",
+  "sector": "Consumer Cyclical",
+  "short_name": "HomeMaid AB ser. B",
+  "symbol": "HOME-B.ST"
+}

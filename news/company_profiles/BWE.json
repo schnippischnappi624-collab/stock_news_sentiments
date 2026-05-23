@@ -1,0 +1,14 @@
+{
+  "country": "Bermuda",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Oil & Gas E&P",
+  "long_name": "BW Energy Limited",
+  "provider": "yfinance",
+  "query_symbol": "BWE.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BWE",
+  "sector": "Energy",
+  "short_name": "BW ENERGY LIMITED",
+  "symbol": "BWE.OL"
+}

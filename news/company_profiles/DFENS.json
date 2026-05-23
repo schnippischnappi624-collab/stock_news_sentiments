@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Aerospace & Defense",
+  "long_name": "Fjord Defence Group ASA",
+  "provider": "yfinance",
+  "query_symbol": "DFENS.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "DFENS",
+  "sector": "Industrials",
+  "short_name": "FJORD DEFENCE GROUP ASA",
+  "symbol": "DFENS.OL"
+}

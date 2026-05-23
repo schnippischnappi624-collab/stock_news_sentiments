@@ -1,0 +1,14 @@
+{
+  "country": "Spain",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
+  "industry": "Real Estate Services",
+  "long_name": "Montebalito, S.A.",
+  "provider": "yfinance",
+  "query_symbol": "MTB.MC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MTB",
+  "sector": "Real Estate",
+  "short_name": "MONTEBALITO, S.A.",
+  "symbol": "MTB.MC"
+}
