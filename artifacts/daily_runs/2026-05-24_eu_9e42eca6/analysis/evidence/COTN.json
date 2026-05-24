@@ -1,0 +1,696 @@
+{
+  "analysis_date": "2026-05-24",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "fragile_watch",
+    "score_0_to_100": 39,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 353.20 and attract follow-through volume."
+    }
+  ],
+  "company_name": "Comet Holding AG",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Our deals experts found the 172 best Memorial Day sales live for the long weekend - CNN",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.00980392156862745,
+          "source": "CNN",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFV1akcyVU5jWndpR1AyUkZXUFhBV1BwMDNNYnZ2WGpKa1g1QWp3U3JGTmZrUGVLbEVIc2VEWmwwZ3dtTVJmWWdTbEJvS2hHNlRIaExJLWVmMGlqdm9BdjZsV2xSaGU5bi14aGtfR1BJbFh6bEZvaXNac3dBY2QyU1Bn?oc=5\" target=\"_blank\">Our deals experts found the 172 best Memorial Day sales live for the long weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xQjVyNzRwYlV6RFRpcHNGVVFzd1l1czlMa2VONkZtLTlXSktLcE5LUUtIeXo2ZnFuTGlMWEJIbll1UEtsU2lGTkpsM0MtbkUzZFAybTFka0tCeXBkdlpNdXJXcmJCXzJIVzItZk1IdUE0LXFlbi1vbWRB?oc=5\" target=\"_blank\">Best Memorial Day Deals Under $50: Massive Discounts on Tech, Home Essentials and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzJ1elVPTUlCcjhJak5XZC1taUIyS3JfV1lnb2ZESmUySHJZQkhvVm9mVlAtLVFKSnI0MnljV21pV2tNWFpEUGxRZWxweEhFZ292V256YmtTNUQ2UnN2YTBHeGtTOTRoV1pscXlEaHZvNU1Fc3VCQTVMSGVsWW05WTZ1RTc3b28zYktJRmZBdW9xWEpWaDQ5UmVRem9UNEk1QWktSg?oc=5\" target=\"_blank\">Amazon's Memorial Day Sale Offers Up to 58% Off Nike, Cole Haan, UGG and More Summer and Travel-Ready Styles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVJPeE9QOXVtOUZvbGFCMVYwdWNGdVRQME0wejU3eVlzVXdzMkxCTlZISXFkazRpQUFUMVdLc3FSUWdOMXZBTTBGWko0alhESnJQUVVSd09uMlRkeXVHdnppTVQ5WTR6a3JnRlVpNWYxcmUzSlh5WTBRbFk4TjBVczFHTXdMTXNwTmI0dW0zUQ?oc=5\" target=\"_blank\">We sorted through all of Amazon\u2019s Memorial Day deals \u2014 these 51+ are actually good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpicDNVRkJGUXpnUHI0NFlvcWJHUWxNZElDRld1SXRNajNZMW5NT3phRG1Sa210TkJQWldROWNzWDBobGllU2tfOXdZTzJ5YUMwekNMNDd2LUhfbmhyaEFlUWxWcHZidjdXYm4xOWxZdXdMaTNwVU1kVWJmNDVCenhTLVg?oc=5\" target=\"_blank\">What to buy \u2014 and skip \u2014 during Memorial Day sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KETV</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFV1akcyVU5jWndpR1AyUkZXUFhBV1BwMDNNYnZ2WGpKa1g1QWp3U3JGTmZrUGVLbEVIc2VEWmwwZ3dtTVJmWWdTbEJvS2hHNlRIaExJLWVmMGlqdm9BdjZsV2xSaGU5bi14aGtfR1BJbFh6bEZvaXNac3dBY2QyU1Bn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Exclusive: What's inside the Iran deal Trump is close to signing - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5\" target=\"_blank\">Exclusive: What's inside the Iran deal Trump is close to signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWlqdG5sVHJmQ2JTVkM4ckdPdlR2OU1Nb3BWcTZpQnNDTFQtTmU3d0ZBTGdrVV9UNTc3TEluT1dsWWhKdWVjOTZ3S3Y0X3Nxa0l1bHNCSE45SmJmTjFxUnVOTi1FT3VfTFB1WnZ3VDN1YUdYY3YyTW56eGxsc05RdWlwekdGaktOOG9RSUh5TQ?oc=5\" target=\"_blank\">Trump\u2019s Endgame Is Surrender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NZXliZ09ybG8yZFBtNG80S01ZejNobFIyZzhobm9JS294VWEwYTF0NXh5WTNrM0g4S2hSeVhBclExWVMyMjZnYmh0d2p5QkZWcUNDMEVvUkxBeG1FLVg0NEVsUVVQaXJkb0tzemJLZWwzc3pJeFdlbg?oc=5\" target=\"_blank\">Opinion | Don\u2019t Leave the Iran War Half-Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVRDaEwtbnB3Z3VuTi1wMWlGY0RGMXRVUk1Uc3ZKWG9SZTQwM1dRNFVrNVREeEJWdGk4UE5hZWc1R2YzN01pTFR4aWVKS3VFTTlVZnNNaFFHY1J2THEyeGlrU0laQjBrajh4ODZITkh0blVpU2p0SHg5UE93My0wYjlxOEswZ05iZDlRejNCLVg?oc=5\" target=\"_blank\">Many Questions, Few Details in Latest Iran Peace Proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHAzQzZCRV9UMjdOeWt6MVpWUFhGU0NGRVZadGtDcGZGVklkNUxqYXotR3RHYXNNT2dselVTMTRCWE42MXZKN3ZaUWVnSlNnMUFGM0U3T1pJZ05FZkZjYWhwdFBMS3p2dEwxWVBGOUdHS2xxRVBtQnRYbHRCOUZfaldZREpvRHBJOFVKaV9LVFFjVEE3TVBtc0V5UTVZcmpvQjlKLU5rc1BlNTg0Z1ZZXw?oc=5\" target=\"_blank\">An ever-expanding catastrophe over Iran is not inevitable. Trump can and must be stopped | Simon Tisdall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-24",
+          "headline": "Iran War Live Updates: Trump Says Peace Deal Is Near - The New York Times",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWFBLT2d1d0NIaS04SU5PN2dyTGh5ZUtxN2IyWHMxNzhVbHBQRGlMNXR2V0NmenV3eGQ4WGNvMTBpZjJzVnFCdzBISDgzQV9qamRkSDRmZmdZYThOeHZFXy1WWTlUckl3M1UyTVhRZlM?oc=5\" target=\"_blank\">Iran War Live Updates: Trump Says Peace Deal Is Near</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEw5VWRTWHZxOHdyWTJ1TFdpSE51ell3MWVmbDVDNF9jS2lhSWM3VUYtYUU5eTZ6cEQ1UEE5dDFXZEY5dlNEVEpnYWFGNkNUY3JFNUszSkk3eXBWM0hzN2xvQzlucEwtRjVwYTJ5U3hRQ2l6ckpVRU8zN2dkaEVMTXFZcFJuRXVaVXRsSklORjVYZnB2cG9aVnJ5NGRKUHk0QVVKdnVIbUczcE9kbHFCWmZtZ9IBuAFBVV95cUxPQXZOall0dEpNMlNUUjdpZFBQNHpCajlNdXJQVHZTRVJMVE9OVzZhZnpBUDdpTFNLUnotRnlCMUNkQUZ4Y0g1bndRd3phZnVSRjhHOEtONG85Ym4xeG5BNC1qWXNSSzh6c1Jha3pTUlhrbnltNE54UDZta1k3QkNnOXl2MndlVHFZNnM2QkRhT3d3bzE1OGV2dUtCUzBlN3dEQzRVek9ndXlzY0VNQUtWZ01yR0Fzb05G?oc=5\" target=\"_blank\">Trump says Iran agreement \u2018largely negotiated\u2019, awaiting finalisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMTA2cFZ6SEJySXhLV19xZ0p2TkFTQ0hLLWpKMlNuZXlmQ0p0R2hFR2FVNjdMV0RkVmlhZlFpS3NWeU13Z3h4RnplMDBpNG4wUlI3R2xxeHpjYXBKT0c0d2ZSSXktU01LZUd3Q2FTWnBVaG1nTmJrUjRoVDJub3hnSm5JZWpGcE9UME9jdGY3cEhDV3B4ZHRJZXd2MEJNUkJ4ZFBoNlpqaDluOWRJUVppVTUxdkVKbDFMVUo2UlBReFZfdGEyaGlnRkRXSVg3WWl3QUpNVUllRU9zMjFXS2NQeDI5ajZiYnpiX1dqX1Fwb3hVYTF1UEZJMA?oc=5\" target=\"_blank\">\"Deal Largely Negotiated\": Trump Claims Hormuz To Reopen, Iran Responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GekFKeFgteThEeDR5RXM5d1lBaE9aYm9wdnk2LXY5RUFOTXl6LS1tWHdDLWNhNEc5bW5lUmM3X1VHOTItbldiallXdm5UWTJFQ0ZGVXRvcC1qWUZZWkF4cDFfekTSAWpBVV95cUxNR2JTUFdkSGpMenRzU2pxNm5iT0UyWTJyOFJQQ3E5bGwxUGxzZVNBY2NpQWw5OFRfdlJ6dDltN053empCTjFIWVJDQjhDSHJ2b1ZTdFdRTlZTdFQwS0w2a1FtZDVzWWFrN3V3?oc=5\" target=\"_blank\">Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFh4TWl1cnI4MkdBMGRqZjZfZC1ZZEZLVWU3T0pLUFhvbjdBaTRhWmstc3lSUkhPSWRsTE4zRXBNbm5sdUlrbmtiQ2J0WURPc2tJQVYzeFBZejBHRG4tbWZ2MnNtUVdLUS1HOE50NlZocDJWSVdZVjF6Y0NPd1ZXRE51VWdXM0F4ZHJNMlZpUTZTMmljYUc2NWphNUw4cU53UEh1VHdzRnZkY0dEbHljSA?oc=5\" target=\"_blank\">Trump says Iran ceasefire deal in final stages, to be \u2018announced shortly\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWFBLT2d1d0NIaS04SU5PN2dyTGh5ZUtxN2IyWHMxNzhVbHBQRGlMNXR2V0NmenV3eGQ4WGNvMTBpZjJzVnFCdzBISDgzQV9qamRkSDRmZmdZYThOeHZFXy1WWTlUckl3M1UyTVhRZlM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Ukraine war briefing: Zelenskyy sounds warning after Russia strikes Kyiv with Oreshnik missile - The Guardian",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.02197802197802198,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDF1bGxDaEU1TWsxWld5b090NmZSbms2Z3pxNXVTZHhtTktNV3drenY5QjBtTWFwNlQ3Z0F5Z1NPY1Q5WGQ3REk3ZHNIUDZudFc5YnpDV0JxOTZ0RC1BZE55WUtubEljZnlXSFI3Ty1TMXotdzJtaDZJb1JfdVZCdDY5SkVjYVhudEdaeldKZ3I0dDdwZUVSZmhWemQyOFF6U0RKbDBxZGlpc1JhVzEzVm5hdm43aUJEQlRzcGIxVXo3UlhoY214cFllU2Rnc180R1cyLXJR?oc=5\" target=\"_blank\">Ukraine war briefing: Zelenskyy sounds warning after Russia strikes Kyiv with Oreshnik missile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hbm1ZYkpQaE9iR28wXzdlZ0UwQUE0bVUzeW1kWC1ZcHFqNzkzTHotbmFBSkduVzNPUXVUUHRrNXN4ckpSRzJnakVuNjN0NE5qTEZZZTdrZUdCWDhhVW9DN2ExaW9PTjhWZXBreXVPd2J1bHV2LXFRcmF3UUF1czQ?oc=5\" target=\"_blank\">\u2018Massive\u2019 Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTF3TzRleUdUZEptV2xCbjAyVWRISkNuTTBEM1hTWXZtZk9fT25jV0M3X0x5NlJWN2FxeUtqMjRMWWhac1RSX1U1MHl4dFJJSkZPZWE2M3lsNlJkTUtTZ3BvSkRmWXdBOHRTbG1FSDdiSUpGN0p1THdLaE1mUFBGM2FEY19wLXZEcjA4V0doX1BCUmlINUkzYU0zQTZ6djYyY0V4NTZNOEpEZw?oc=5\" target=\"_blank\">Russia strikes Kyiv with massive missile and drone attack, killing one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPdzF2SUxSZFp1ekFqbFBjcWY3THVfRGxBZVNCX1JhV3FXM2xtOGlEUUhEOU03VUNXOW5NZzB3bDY1SmpaTWhqUGJDVEtLZTA4TWlXLVlVYUdfSWo2Y2pxZnlOSWFhdkFEVXNiM0VIQWFIOG5KYWlHZXlnV051UGhEOVhFbDE4d2FEWGpfYi0xYkFaR0dCSVp4MGNvOFUxNWJxT2dhcU5WdzFNUXZOclQyUFZkNE1NSFBoTEw1OEV4VGVJN04tNi1FekE2NGbSAdIBQVVfeXFMTnozMllseklzQzBTQWhVUlhQU0lCcmNrNVE1elJmQ1lwRkJlekZVWUlQTWFEZ0FEc0NhWUxRTzlOY2pQakZkSVZYQW8wbzQyd2JGQWtEVjNrWVBFc1NWOGxXbFBqRE5Rcm1KY3c5cGlSc0FGSTZFVXYyT3RfbkRNd05zdmNnaDFFSUwwTGdONkpoLWpuZ0tidFRtNzNGb2ZFdGlPNjRSdEYtYUw2UTVMdklkRFJ3TF9udERkSXMxZEVWNGxYSjZwTHVsMUpRRklkSk9n?oc=5\" target=\"_blank\">Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWd5X0pDbTVMMlVfWUlnY2g4UlUtQUVOaHNzNVlOa2tjTl9iM2hJRC03YUtKM1BBNExBQ05BTTJxaFBBNVU3Y0lSUFp1UWtEb3JhMlcyN1hTSndqa2FUc3plYW9HUDRaRkNCb2JvMnNZcVYyWHBnZE1qdjdlTDJRWXZQczlxS05yTi03d0NtN0xBUnJvUnNGZNIBngFBVV95cUxNU2ZKelJwblN1SjkzYi1DUVYxVVlJSVptcF9WQmdDcnFiRl9ObUpMWE5GZEZrdmdLTmkweTdqZTBTcWNIUXlEcVB3SllDQno4RUd6T2RTM1Z5MHJIbWpYZzNYRV8wa3I5YzdwczBHLUVvNl9NZXVNNk1KMGdWWUdVNXpzbVByTFBNdVFQdHNYOXgtdnBVc1BHNXp3ZEdZZw?oc=5\" target=\"_blank\">Russia launches heavy missile strikes on Kyiv after Ukraine drone attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDF1bGxDaEU1TWsxWld5b090NmZSbms2Z3pxNXVTZHhtTktNV3drenY5QjBtTWFwNlQ3Z0F5Z1NPY1Q5WGQ3REk3ZHNIUDZudFc5YnpDV0JxOTZ0RC1BZE55WUtubEljZnlXSFI3Ty1TMXotdzJtaDZJb1JfdVZCdDY5SkVjYVhudEdaeldKZ3I0dDdwZUVSZmhWemQyOFF6U0RKbDBxZGlpc1JhVzEzVm5hdm43aUJEQlRzcGIxVXo3UlhoY214cFllU2Rnc180R1cyLXJR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Trump Mobile Phone Review: My Long Weekend With The Golden T1 - CNET",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNET",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8zNGlGWktkV0oyNTZfVzZzY1lBajc4YVktdzVXUno4QXQtMXRwVjJZLVV4aXpUZzJqZW0zQ0JxLUtZZWkyMTdWN1ZteTl6TWQ4VEtPMVc0TU9yX205cmFYTEY4STNLanl0ZjNLOQ?oc=5\" target=\"_blank\">Trump Mobile Phone Review: My Long Weekend With The Golden T1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3BRS3NNbm9INTRVSFdiYUZKQ1EyYTVCcmowVm9QczRBbUhHRWtPQTNFU3JnVEg3ZC1SX2xfdzk0VXlwUUVWWnRpRWN0RTVkTjFXbGZkN2pOblN2Z1FETW95dmlnYS1obVhxdWpGZHhCcnJYN1c2SUplUmlKTmFKMjNUT1Q0d1ZTYlJQdWI5bkRGWTR2S3B4M1oycllFcUh4NlI4a05NNA?oc=5\" target=\"_blank\">We tested the Trump Mobile phone. It was 9 months late and no longer \u2018Made in the USA.\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNODhLYk1DS2RERHRUcUFHT0RodUZDN2RlVW82SVk2Q21VNzlZWUM3TkdaSWFPTDVDaWNWNGNLaGVscHAzRVBVQ0pHRnVsc1BKdE9kZEk1R3NYMWJ2OVFLUjFoZElQQ3V5VTBmNWpFbXJ6NDJmckV4dXpMTXowTTJ4Sg?oc=5\" target=\"_blank\">Trump Phones Are Finally Here\u2014And People Aren\u2019t Happy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ09JSUVmb2pJQlM0SjFXSjZQVGdqZFFRTmtvV3ZUemNIWWkzZjM2aHhIRS1EeWpSSUNzSmVXWVN5RUhxZWc5SGRWZEZPN3U0dWRvNlFfenhwbFhxaWVlOXlXMnhhM3V6czViXzV4SGxCZ1hTWTVkSXB5TzQ4Y3VqTFRZLWVqc0o3ZUZnNVgxajNsdDVfTFRaX1VPOUlBbmZKNnJFNHBrVWt5T2dTamNBbllyOUFQdFZpemlMSGUyWi0?oc=5\" target=\"_blank\">US Senator Warner, Democrat and ex-telecom exec, questions Trump Mobile's claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUNSY25HOFotalZfbk1FbWVoOEUtdG1QaXZqRmNzX2pJdkljb1gwbzNzVVB3NEpyTl93QmFsTzdIamQydnRMRTNxZW5reFFqX2ZWR3ZuR0dIek5oY3o0cXlLbUY2ekZmY3VyMEtOcjF6aGluMTYwdFVBd2tCQTl1cnNwU2o0Q0ZKUU1IcWNudXJWMEhXSlg4NkFhaFNQaE9IUUh6ejFlSS03Wm8?oc=5\" target=\"_blank\">Colbert Reveals the Only Thing More Disappointing Than Trump\u2019s Phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zNGlGWktkV0oyNTZfVzZzY1lBajc4YVktdzVXUno4QXQtMXRwVjJZLVV4aXpUZzJqZW0zQ0JxLUtZZWkyMTdWN1ZteTl6TWQ4VEtPMVc0TU9yX205cmFYTEY4STNLanl0ZjNLOQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVm80R1FkUnZ2RUoweDRHRGZUak1XOF9VWS1YaVZYaE92OUFZUzJqcWNFeEZDdGZva3FEcUgtemgwXzBfOXBidk9NR3B1ZXZidFlzcGExZmt1Zw?oc=5\" target=\"_blank\">Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1hLQUZ0ZUtfY3dXY1RoSFV1cUVNUHNlY1NvblJjMzFNZHVqVzFBOWFTWVpyTmZaQjNKUFNjZXMzMUFxWm1IYkxacmxabkpfLXBnTHZab0FsVU0zNkxHZEdpRFhqOEIxR2MxNXhlaEdONzdNMndpa1Jla1ptcGI3MF9POVc2a0NnY0pob2NVMkpFc2IwMWVIWENNaVBWYXJ3ZGpHS2xQYzd0a3JkMElYVHhLRQ?oc=5\" target=\"_blank\">Russia blames Ukraine, vows retaliation as 16 killed in strike on student dorm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVh5ZXMtYjRNWUdqLUpTZmNzRWtkY1VSX29TeG5SRzA0MUZseWRhUHRaN2ttcVM1SzZ4dmZ4Zkc1Y2oyTFV1VjVpM2dHZHBpS1hmb1ltY0pyb2dLbjFJOHpOdENZVjJKV1ZJTDdfbG1TRkN3TC1LTE5vZXNmMngtVHBWaHlkRE9FMEp1RUNmYWVNUEwxalHSAZYBQVVfeXFMTlM5NGN1ZGRhcF9FdTBzeE9WTG45dTR6cUlpWjN2UGRqMXBrbVRPM0xkSmRkdXF2NTJ2c3NiQnBBb0pIYWVDYU03WTFZOVZtUzZ5VGc4cnVSbHA3bHpnY2lPU0FnMGVrc1BIZ1ctdFhJRmVma2pfMlIzQVZxaDlqWGpQWFgyc0RGRDlvSzZOZDRGMjd5eEtB?oc=5\" target=\"_blank\">Ukrainian strike in Russian-controlled area leaves 10 dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEMtMU43OE9zSTZlR3JhR3d6VVA1X2Y4cTRiQlZZTmRRZmRfVnQ1NG9sTFM0T1FTVWpwbEN1RFowd1Y2ODdJTEZlTG9VYTEzVUtvbnF2Vkg4ZnMtNkhTYTEwcG5nN2x0d3Z6d0llQ0pwNnVDTkJQYXdpV2thV3ppeF8teEJKdGtRdGhhLXlSX3pWTUU2bXp0VTkzVVgwNE1XcGJwOHY2NHBiendZVXFsOEhldWVyaVd1ZEQyNzdpMmF1Z1dYTEtadzQ4eGdTNVdKdkhoNENtRlpILW9NMEtV?oc=5\" target=\"_blank\">Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbmN3UTJLN0hid29sT2QyeE1ReGNFc0ZvRVFfMGpXd3ZqUzltVlBzN3dWLWszTmQ0WTg3RVo2cUJleWFnNkFEWEUycVkxYnhNYUp6cG4zUQ?oc=5\" target=\"_blank\">Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVm80R1FkUnZ2RUoweDRHRGZUak1XOF9VWS1YaVZYaE92OUFZUzJqcWNFeEZDdGZva3FEcUgtemgwXzBfOXBidk9NR3B1ZXZidFlzcGExZmt1Zw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Spanish police beat and detain returning Gaza flotilla activists amid clashes at airport - The Times of Israel",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.031578947368421054,
+          "source": "The Times of Israel",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHA2ZXVzMXB4RVhDdURqU1l2VllmRG1NX1NmOUZxUmlobzEtTTE0bXJ1aEpDQ2NURXdqZzFsNVROM19RQmZ3WC1MN1ptWlVXbW0tSzhaOEdUMU1MVFBMUEtRYnRIUzVRSnc2MGw0SVN6Qm1aTms0djNGOGN3OFVHck53OE5MdEpySm5CZE5yQ2dtWW9VcnJRZEx6YWVVS29KRnVKa0h5SUhjOTFVMXfSAbMBQVVfeXFMT29SZE54a0FlS2RIVUNxVW5TU1NFNUtlRmNkRVU5bUwwQk9CMHJLR0J6dTlaajFXTlNCRDBrZ191cXU4UElMbnpPZDAzamdWamswemxSbTZxeUVRcmJfWlpQOU9DTThRbER3VUNnRUc5VUtVU2pQNXNDd2xlaEk2Tmo5ckloYUpXalAzYWxscEQzTHFCdHo5bXB6SFRDLUd4NFlLR3dRU0xKMGhKendxZGNpYVU?oc=5\" target=\"_blank\">Spanish police beat and detain returning Gaza flotilla activists amid clashes at airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5SlB0SENVNkFsOG03WThCUG5zaXRwSmZJY2xtYmFWdkdxU3pval9LT1NYRWg4dE0yeTFDVHZjU0FsT2w4V21Xb3pEeC14dkNockdObA?oc=5\" target=\"_blank\">Clashes in Spain: Gaza flotilla activists beaten by police at Bilbao airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ynetnews</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZV2N4czNHX0o2dUFsdFpydGxDd1l5UG0tSEtTNWRDWHJ0V3FSWlFHb2FYTVdMdV9vT0dnUGpJR2pPS1A4bVZ1YVZCMEFrbWZfX25sV3RpSzk0Q185TWVJZjc4SUs5b05SSEdZTVRVZE03ZHVU?oc=5\" target=\"_blank\">Basque Police Beat Global Sumud Flotilla Torture Survivors In Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Out Loud with Ahmed</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VT0FBREwyaTJObHZCcHdnYlBTYW56ZnZNc0VVMkxSbXBhR0VXMEdzVUhoX3VDUTNBT3pzVEMwQkx0eGFmNldzb1AtZXVQUzVsSlJSTUdzZVYtSVF6OWJz?oc=5\" target=\"_blank\">Spanish police filmed beating Gaza flotilla activists as Israel jabs back at Madrid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQWQtUkF0UnYySDhseEZzYU0wdFpraUxxLWVtY0NUNXp6Ul9YVmdVbzJvYjJQenl1LW9yR1FuNTA1ZHhTbEozQmtsNldjQjhfOWlvZTFWMXB1TWNabHhzVUV0VXRjWFRRTllIcVZVbmpqY0ZXdVhobnRISzZMaTJXOFBoNEc4STliTjVmdzVsa1JCYk80YlpMRnFKcjJ5VnpHMjVTSDhvbjM2YkhDYW9zLUxfSE9BYmgyV1Y5MWtZaUp2bFQ2cmJ1YjRRaHJQWWVmOTVsOWFfRS0taU5vbjBtcWxwRHlkMm96Nm92Vg?oc=5\" target=\"_blank\">Licensable picture: Protesters welcome Global Sumud Flotilla activists in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters Connect</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHA2ZXVzMXB4RVhDdURqU1l2VllmRG1NX1NmOUZxUmlobzEtTTE0bXJ1aEpDQ2NURXdqZzFsNVROM19RQmZ3WC1MN1ptWlVXbW0tSzhaOEdUMU1MVFBMUEtRYnRIUzVRSnc2MGw0SVN6Qm1aTms0djNGOGN3OFVHck53OE5MdEpySm5CZE5yQ2dtWW9VcnJRZEx6YWVVS29KRnVKa0h5SUhjOTFVMXfSAbMBQVVfeXFMT29SZE54a0FlS2RIVUNxVW5TU1NFNUtlRmNkRVU5bUwwQk9CMHJLR0J6dTlaajFXTlNCRDBrZ191cXU4UElMbnpPZDAzamdWamswemxSbTZxeUVRcmJfWlpQOU9DTThRbER3VUNnRUc5VUtVU2pQNXNDd2xlaEk2Tmo5ckloYUpXalAzYWxscEQzTHFCdHo5bXB6SFRDLUd4NFlLR3dRU0xKMGhKendxZGNpYVU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "The Booing Will Continue Until Commencement Speeches Improve - Gizmodo",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Gizmodo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcW9TM0tuYmdfUnA0SXBzeU13MGtndUFfVTlnZ1hidGJtQjJjMU9FcVc5VDBQSE1RR0M3S1B4anRtaVFTNGxHSWk1aVlCSjFJdElKcWwwQ3JJUC1EbHRRVnRFZGFlZUdUNlpwVFQ2ZTV6MXpOLVFkeWY5d0FxWjJDQUhUMkZTa25KUlNXclVVbktXejN0U1E?oc=5\" target=\"_blank\">The Booing Will Continue Until Commencement Speeches Improve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUZDR1FRUnlQM3pLNVEyNjBIX0dWb2plYmdiSHJHWjFOd19NWXh6ekpGcncyWFJ6V1FKaklSZlJyOVFEMnVMNXFqUTNhbm9oaFhfRk1sVV80bDB2QXN1MGlfTnVVT04tdjJVNkxTWENlV0Y3ak9xY2RpWklHcVlaa2J6Q3ZEQUtweDVpaEllRlhKYzVGMFNfTXJHNW9WMkxydFBtNXBR?oc=5\" target=\"_blank\">Here's why people are booing college commencement speakers this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnpGcDNERTNKc2hlMHd6Z2VtYm56Z0JtRXhveUxVTEFsWXJiY3lpeWdBMGJwaVhLaXVITEFjSXl1SXUtbFplTUZoR1NnUkFqNkNfRlBhMk9FWVdlenNKOUJpS2djUm1SX1BubXNKWlhDbU14YmQ1XzU5NU5PaENZdDRNa1ZzUzJjMm9uQ1JfQ2Rfb2NX?oc=5\" target=\"_blank\">\u2018F*** this guy\u2019: Graduation speakers keep getting booed for talking about artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXBVU3E5OFVoNDB2RlZLNnBsLW1tT19MRVFvdUFpdE9iRnNfUEpiOXIzRzVZWjZzeHhRVEo3enNKU0pvTGdscWw1N2J4VlJNTG1aZl9rd1NMU1pTV0RaSHFLanpxUnVHaXNnRUNXVTB2QlRJbnJWQ0h1WEp2dHcyck5vTUdhZw?oc=5\" target=\"_blank\">Why College Students Are Booing AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGx6WnJCR2ZMSXVMbzdTMTBFLUROazhOaFppcTVuUTU2WDctZF9KVDNQeWlUbXNIcDZKbFYzbmxhSURjUktfRzVoX09CV3VzRC00SzNUSzN6MnUweFAxczdjSGFINmNNNndGUmFnWklzUEx4V1dYa3NSX1ZYaXMxX0dVOUZERHVHcUhWLVZwM2F3SWJSWGw2TTd2NFJXUDJjVl9wbjJkMVh4TnlnbVlINQ?oc=5\" target=\"_blank\">Meta Is in Crisis, Google Search\u2019s Makeover, and AI Gets Booed by Graduates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcW9TM0tuYmdfUnA0SXBzeU13MGtndUFfVTlnZ1hidGJtQjJjMU9FcVc5VDBQSE1RR0M3S1B4anRtaVFTNGxHSWk1aVlCSjFJdElKcWwwQ3JJUC1EbHRRVnRFZGFlZUdUNlpwVFQ2ZTV6MXpOLVFkeWY5d0FxWjJDQUhUMkZTa25KUlNXclVVbktXejN0U1E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Walmart shares a dire warning to customers - thestreet.com",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.025974025974025976,
+          "source": "thestreet.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUzNXcF9OeTIySlYwX3hWdV9uLVRybzdoVEMxaE9jUG15Q2RzeG13d19WWlVjVG5EcDJta3hONVY5SlJzRDJIWnVRWXNDYmo1ZzRLUEs5QjNhYnhhUkY0V2diaUlRazlweEhlNjNjZEpGMUVHTUNiVWFBYzU5SmVUVw?oc=5\" target=\"_blank\">Walmart shares a dire warning to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOS15eV9xWHNjUmx0blE3c2docUEtU2E5WUIxQl94VWdPQTFUZ1hnQzFudXBOazVkSHNSRlFhaG43YnNFV1diQWJvZkpKRmMybjkyOUUtQndtcjUzTFdYUzhBX1Z6UlVIS2FyYlVuSVlGQ1XSAXhBVV95cUxNUG95TGo5R3VBZnJaTkN4Zm1mbTdVdXByTy1iQ3paZnllRHR1ZmhibzZjUXRWbkZBbzl5LVl2OWxyOEZ2cVhEUnNObk9YWE91bjFNUE9WNGpqelhTdUZWUU5rOWZlUXBDSGxjeXhZS3ROaFdoSVFWajE?oc=5\" target=\"_blank\">Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVExGbHJaRjd4R2gzX1VfSU03dU1PRGlncUtiZ1oyOEFMS0dRSnVjcERVSVVseWkxUUM1TnBnX05zWUVKWGZhOXphWWF4MVR5cG5DdXQzR3c3cEdQcUMwOGVyNlVuUExVWnE3dzlmMmtIRWg0bkplN0ZhYjdLZ1h1QzlDa2dlU3VoSmk1alRRZHk0MUFi?oc=5\" target=\"_blank\">Walmart signals it may raise prices in response to soaring fuel costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpzOTNkd2lqbVhPZ3hpck1hZDFfaVFYbWNVQkFoNUZfSEIzR3drdHVBNDVtbG50eXhFb2Qta3JCOUQyc216UHFrZzktSFV3alRrUnVlNjBaQ3d6emg3VzhGQlFyZFprakt0YV9qZUdHdmtZWW1obUJwXzlsOU5sQ0M4ZDRPM3c?oc=5\" target=\"_blank\">Walmart Sees Signs at Gas Pump That Consumers Are Stressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEdiU1RwVEJpaUllMWVpYy1RbnBBbld0dVk0bzNpNEdfak5mNzROc2ZPWVpEVGwzaXc3bEdPdGlxaGdBcDVhZnZGX3lldUp6SEVhR1pIZHQ4TWZyZmVDb2NNYkZXemk3emJiQk9GbHF2MXBwQS05eVNwTzhCcTdpaXZpdlNTUVNLVWFqQ19iUWN2b010VUNRTDNGalJsTDRSdzN2Z09sd29FLTBSd2hVMzVuTFZFaC10VUx3Y1h0VlBtMnJzc3hUYzJvbzB5eUxGYnp3NkFyY3RHelJf?oc=5\" target=\"_blank\">Walmart stock just violated a key technical level, delivering a blow to the bulls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUzNXcF9OeTIySlYwX3hWdV9uLVRybzdoVEMxaE9jUG15Q2RzeG13d19WWlVjVG5EcDJta3hONVY5SlJzRDJIWnVRWXNDYmo1ZzRLUEs5QjNhYnhhUkY0V2diaUlRazlweEhlNjNjZEpGMUVHTUNiVWFBYzU5SmVUVw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Britain Preparing for Mission That Could Clear Strait of Hormuz - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlvelJfTS1RU19JMTEwRjg0UXM3UGVSOW5ndUhBMGFlVjNWN0ZSOVFEY1Z2VHZIQUt6WmFCQnBHYmdPSVFsWDZaWk5VLTJzbVJOTy12eGdQZU55V2xpWDJ6ZWNHOWxnZnFCNGxhN2tkempscE9tLXBjTmpDRjR1dDhBT01SZWEy?oc=5\" target=\"_blank\">Britain Preparing for Mission That Could Clear Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2xEOTVzWWRpbTUyc1ozc1Y3U19DeDh3MEdKSjVOeW85MkMzdkVGZ3JOZldFUUdFOUVpQUk1NVpHdk9NcVBQX2RfOGJHZmVDcWNFNWZ1TFA5NXNSU3dtdWd5ZWQ2bml2MXpKckNCcmUxUk1kQVdRemI4RjRBazZfVTNXVklRWEdLQUNPSnlmbTFSTUlURHgxMXlJZzdBellINlZxQzYzZExzTURRaHZBRXRmZy1TVVQtOU5QZlc4SXU?oc=5\" target=\"_blank\">From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWNqU285RGxNVlQ5UTlyNnF3aExpaFJuRGZEMjVhaEd6UktfM1A5eEVEc0xlcGNqWm9wQjZmQU5vX3h1ZWVMdDVZeEplZ3hVckFvYXdpeUFMOFRkVkVWOTdJYjV4Q051dFE4eEE4b1RoOXFOZE5uN05kaEhwM2ZkUGxmS1RPSURUNm9Md250VXU0ZG9EZ3lqMA?oc=5\" target=\"_blank\">Britain\u2019s navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1hKNjB1NzhVc05JT2VKYVNza19hQVBNdUphaGxDcTdpMWV5UTZoakJDUmx3SGk5TUxVcDF1NGhYdng5a01pQWhvS2dPRjVQVmhoLUpwYTZWV192Q1RjZ2JlVkJqaFgwRHBtaHNKMWdjb3FEeTlBcXlReDJleXJzOV9R?oc=5\" target=\"_blank\">Sweden \u2018open\u2019 to NATO role in reopening Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjBDdXk3YTNUQ245NnIzWC1FaWlTWUxCSVRnU1BZUmhKbVRJQ1FkUU5QWXRtYlYyWEdyQkVDOUxQNnh3Q1JJM2tIZktVamtGZjdfck5ZenlUMm1sZnR5QlNyR18xTHBNYWNPdkNDb2dmRTR6VUZoMWM0VjczUmZndnZ3ZnQ0dGs10gGIAUFVX3lxTE5CZ3BhZVJzeDN2NzNINWttdWdDTlFOREQ0U2wzbGNjRjdncENseUpzOENvWVMwbFU2eDhHdUh5OV9SUlFYYnFqOEs0MzFWZjRtbmpWOXdRdUFHRmJlYTBvaEk3dW94aXdOcXdvdkxBbWZrcjI1ZlVXTWF3STY1em1FQ19wSFBmaEo?oc=5\" target=\"_blank\">Amid Iran war, Germany reaches out to Gulf states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlvelJfTS1RU19JMTEwRjg0UXM3UGVSOW5ndUhBMGFlVjNWN0ZSOVFEY1Z2VHZIQUt6WmFCQnBHYmdPSVFsWDZaWk5VLTJzbVJOTy12eGdQZU55V2xpWDJ6ZWNHOWxnZnFCNGxhN2tkempscE9tLXBjTmpDRjR1dDhBT01SZWEy?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Tens of thousands rally in Serbia for antigovernment demonstrations - Al Jazeera",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Al Jazeera",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjRLVGRfTDVnc0VCdzBVR0N1Z1YxYV8xQ19NcXpJTXVGSnR6SFVSdkNONlBIRnpCWjBrazZYckc4U2FpUXF5VC1lNXBva3dsNXEzMEFNVHlIYkxUcXhNNkpDd1F3QlAzM1Z1RHpjM3VRQk9Va2ZZQTdEZWxaZXVyZjM1ZVVJdmg3eVB4Sm5ENVR5WDF4V2NQSFFxc2swR2lSb0QtSzlESHJ3Ulhr0gGyAUFVX3lxTE5kQjllT3lKLUs4clZmX1NhamxXZ3Jpd3ZmVjdhZzN6c1FUbldfMVJvMjRRVjRWLVVYNExWQ3kxZDJmRFNVazB1OThGcklSaTMwaHRNN1d3SGY3UTctTFNuaFVOMXlzMTFPSi1xRTZGM2JfaWcwSWREUDRyMU43SFpJV3oxNzh4eWM2enFYUnY0cjExUDRGVUlmR2tlZFNDbFlfSXVrUXMyOXZLaXloekVKSEE?oc=5\" target=\"_blank\">Tens of thousands rally in Serbia for antigovernment demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BmRExoSVJYUmloTUtwbGRwdWxpRk9GdFFhcFhIM0pyNlNZaVFQNXdXWjRRU1otczd2NTl1eXpqWVNiczJOaWpJN1N2S3lVRzBQX0ZqaXNZLTRmZ1hHdnRfX203d1V6YVJSMHNxZWk0OHp3ZVhudzlSazN6dXNOUGhnbWlRN2MyU0HSAY8BQVVfeXFMUFBOc3VUc3NwRVA4bHppbGdLMklfYXlzNlZNNTFiR2x3aF8wSXRKajRxU01yVGpSUWdTOWE1LXlDSWpwbU5iTEJJZGwwZ3N1RHA1NmRLUE1IZnh1eHgyckdoVDI1S2Y4UllzU3hrMHV1SDhTQzBNTjFTTmdWSU5QeVNzanFUNlpvWXhYeVF4QnM?oc=5\" target=\"_blank\">Serbian protesters clash with police amid massive anti-government rally in Belgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05FeEpzZTdZWWdpRmhpQlRxT3J6Z01HZ0NNdWExS2stOUVtdEV1eWlDTl93aXo2VDJfNm5xVFBkMXkxcUxwaDhCMy1feWZDaE5NRVJXei1aTnd6MUp4Yks0MWNJTXdJVnlWdDllQ2lLVmVRM2x6UkdpX1BDU1VsNWw5RHBjRFE4Y2R6ajRWelh6YTJKQno3TWhMMzJkUEtNYnc1UmpIVW1KLTZkT1A2Y1pR?oc=5\" target=\"_blank\">Anti-Government Protest Kicks Off Serbia Election Campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1EtSGZYb1ZFSUE3Ml83aGJQNmYtSndBQ1hDVWdsbF9hcVYtQnhWYkxDV1REY2lua3cyN09hQ3pQOHEtRktlOHhJVHVCdGNfbUg4cVB4cUxNMS1EZnBmdmQ5QkI2eXR1aHFMRXNGc01NTjdmQUNtSTBLRmU1dWpYcG9JdUpJenlyYnl6UjJRRmg3UUp4bUZvMzFkMEJpNnl6bDl6Qg?oc=5\" target=\"_blank\">Police and protesters clash in Serbia as crowds demand president's exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMFhmeGFCVDRSNDJDOUhQZHRLNTZ4SG5kTk5rcjRIeHFKcUlOdTJLZ3BfWVZsTERLODBBWGpvekRHZExQNU90MlZPdzB1UkprTWNlUUdPTDczMzFjbmpIRGg3SmxmMnVKNnZuOE5kOUJoYmVtVHNzb0FFNG12MmVuWXZxMA?oc=5\" target=\"_blank\">Tens of thousands rally in Serbia demanding elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjRLVGRfTDVnc0VCdzBVR0N1Z1YxYV8xQ19NcXpJTXVGSnR6SFVSdkNONlBIRnpCWjBrazZYckc4U2FpUXF5VC1lNXBva3dsNXEzMEFNVHlIYkxUcXhNNkpDd1F3QlAzM1Z1RHpjM3VRQk9Va2ZZQTdEZWxaZXVyZjM1ZVVJdmg3eVB4Sm5ENVR5WDF4V2NQSFFxc2swR2lSb0QtSzlESHJ3Ulhr0gGyAUFVX3lxTE5kQjllT3lKLUs4clZmX1NhamxXZ3Jpd3ZmVjdhZzN6c1FUbldfMVJvMjRRVjRWLVVYNExWQ3kxZDJmRFNVazB1OThGcklSaTMwaHRNN1d3SGY3UTctTFNuaFVOMXlzMTFPSi1xRTZGM2JfaWcwSWREUDRyMU43SFpJV3oxNzh4eWM2enFYUnY0cjExUDRGVUlmR2tlZFNDbFlfSXVrUXMyOXZLaXloekVKSEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "World leaders warn against connecting Jerusalem to Ma'ale Adumim - Israel National News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.024096385542168676,
+          "source": "Israel National News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmtjM3djV0lDU1A1SUVTQWxMODFzZkNfU3BvZ2Q0emppX3dCdVdEWW5MY3ZkT2YtQUJYOXp0aTgyMUd5MEFKdTh6Yld4OWhURHRQcS1DZ1k0UQ?oc=5\" target=\"_blank\">World leaders warn against connecting Jerusalem to Ma'ale Adumim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Israel National News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNODN6dkpnd2hObHd5MXFmYmdhTndRNE9QbG5Mbzlsdnd4VF9adllDVTI1R1NnQ203aHpHM1NIeklwQnBpc29lLWRvNTJqTUsxQnVTSWdNMVVsVU1xM0U0X3dMcHF1WlRBU2xFX2doYWo1Y0hWcHJfejZmbzViLXFvd05uck9Gd2tGYVZ5elB2NUVKUXBfVHA3YURlb3Z4dUZjbDFEWEM1WmlQM2w4SFdB?oc=5\" target=\"_blank\">Western powers press Israel to rein in settlers, halt expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlBOMjQzdUNwRkVXd0NjcHphTmhoZDlRay1SRWY0YnZJa3VTTG85M1VfU3E0bTdFSFJtT0tJUUROYmlQVXJpc3JwTWg2Rzd3VUNYZXV4QzJ3SVFXRlV4ZEgxXy0tUXdzaVQtSFFhVTdROUFOSlhycDhKbkIzdEphYUc4dk15Y1dMb0w4ZXBObw?oc=5\" target=\"_blank\">Joint statement on the situation in the West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pm.gc.ca</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLXZGY0t5NHNnRjF1Rk1WMEd5V2lNUzBmMHZhRnE0UlJqOUNjd1V0NlF2Rk9jNGQ3Y3hMdF8wa3FfTm5rbFVqdC1uS2w3OWROSUo2Z2EwYUxUYkVkSWs0SjJ4Q1MzS1RXcHREXzg2dDRKd25FeENyNURCS0lKV1I5azV2aXhCcjVuMWdCV1NCMDFqR0pkTHdpbndlbmdfNDR3NUxFRy1FS1M5VEZSOU0xb0NZRlFON1otNVhfZ2k0QTJtSUhURGVLWjZ6M0VrTDVmZEhYb1hUeEFCcXBKS3NyYlNTVnlxcDJYOHdXZldYbzUyd05aYnFnZA?oc=5\" target=\"_blank\">Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVENCczh5V0wzbUE5dWUwSlJ1ci1QX04yMzI1NDhLeDUxWEhzN0NtQjg2NDh2Vm5CaTJWNDJrenJTZVZ0YkhiblQ3LWlkTW16c3hHR2ZkNGNEUlRhdVI0?oc=5\" target=\"_blank\">Western powers condemn Israel for West Bank settlements, settler violence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmtjM3djV0lDU1A1SUVTQWxMODFzZkNfU3BvZ2Q0emppX3dCdVdEWW5MY3ZkT2YtQUJYOXp0aTgyMUd5MEFKdTh6Yld4OWhURHRQcS1DZ1k0UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "LIRR strike ended with solid raises for workers, but no reforms to costly work rules - Gothamist",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Gothamist",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGhuanAzY09SYk5HWVJHTXQ5MHVnY1BlbFBCRUx6M0RnYVd3S3lyZzRlTEwxRXNJSFlPdmp3NWpPLUR0Zm1rZUZiS2dOckh3ZEFkVkhYVWY0bkxCN09mSklTUEdYcDMtYnpWYkZ0TVZZRDE5XzJfU1pSZGhLbGdMUDFxVDJ5S0lKV01ZRndRLWtCYjF4VnU2ODlpRm1jdDFrWWdPcFp1Z0tFY2pVNkY4?oc=5\" target=\"_blank\">LIRR strike ended with solid raises for workers, but no reforms to costly work rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUJQeGMzMDZPZFBUaUY2TndCX0t1MXBnN2FrNGpuVWg1RURxMDUxNlNDR3JuVzM1ellDQnFWSHB2RUEzeWR1c0hLU0ZYWHBXMUNlV2lIaktJZDdYTFNuTTBHR3pWVjQ3QTRfMnVFeFpMYnppZUJNaEQ1NlcyazFDeThJT1lnRVViVUNtcnFtX201dWxYYnBzbDZ6Q2E?oc=5\" target=\"_blank\">Long Island Rail Road strike highlights commuter challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsday</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4tSW04THJTUTVTb09FUkQzX1hfbmlHZ2lod3hTZ0xadmM1MDBSUDJ2S1o3Skt4emtjZHZTVTRGRjk0dl85RjV3MjVoNVZrRDhqSld5WFV4elBFMDlwdXBKb0VaZXlRZmNybW55SUR1RVpQYm13aGluOGp3?oc=5\" target=\"_blank\">LIRR strike latest: What to know about schedules, refunds and the deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 New York</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzJPenlXZno2ZmFqUE9NYzZzc3hQQlVFNHhkYW0yWW1taVZLaHdrUUY1TzROZlFRZllsUVRkUFMtN2RoWnI3LW1FM3h1dFBIYWl1dEhiNFdCTmFEVkpoRlNGcG94cDNEM2MtWDNZZ2lRbjY3UVpKVDR4UjZvT2R4aTBfLUd6ZWFqdUR3V2VFczA5MkMxVXhFOGhiNkVBWjF4MEE?oc=5\" target=\"_blank\">NJASAP voices support for striking LIRR workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMS0zM2xVc2l3QVMweU1mUHotRXR4VmNVZGtUNW9pelJLZ0l3QW5DRHk0YWthakhZcXNndmdidHpfQ3I4cHNOOVoyYWdmZC15bkpaeDN2S0pLUGRXX2VCNDNlWlRmSFVucjQ3bw?oc=5\" target=\"_blank\">Long Island Rail Road Service Slowly Resumes After Strike Ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGhuanAzY09SYk5HWVJHTXQ5MHVnY1BlbFBCRUx6M0RnYVd3S3lyZzRlTEwxRXNJSFlPdmp3NWpPLUR0Zm1rZUZiS2dOckh3ZEFkVkhYVWY0bkxCN09mSklTUEdYcDMtYnpWYkZ0TVZZRDE5XzJfU1pSZGhLbGdMUDFxVDJ5S0lKV01ZRndRLWtCYjF4VnU2ODlpRm1jdDFrWWdPcFp1Z0tFY2pVNkY4?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy - Common Dreams",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Common Dreams",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVXFTdXZGWGU5UVJRLUFEOUhJRU00b2k1YkZ3X0NLd01JYzM2OGlGd2J5TmdqQklYamtRZjAxVDgwTlRBaXhaLUMwLUhqclZtV3M2UUFubEExTXFNbzBSM0xDNUhZVkNLSXZIbVdR?oc=5\" target=\"_blank\">'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Common Dreams</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlJKbGFybzVaOHVEWmhWcmEwb3h6Q2tjemYtbUkza0FJNGxDOWE1WjNZdVE4VTNpUWFzWnJIR2puTU1Ydy1pRm9VOWFQeEc1eHNydHVXLWllNVV1XzlsRDVjZUpxM3lHbGs0bGtST21abWtPWUFxVFdCVXJJNWVraWZEeU4zbWdMRWgtS0R6eGxJMFZWeUxNSGhtNGRBcWxxMkR5MjA3cmY2N3YtTDNkeG03ZGRRTEQz?oc=5\" target=\"_blank\">The Fed's worst inflation fears may be coming true as consumers lose faith in long-term prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWTJGRmtYWUM4WVQ1VWhPNTNSNy1ya3g0NXdpTlUxT0JBLVJBQ2hJRmFhVW9KdDRvbTJlR2JTTUk3bVh5WEQxRlB0d19vcFNxTGI3eUllUVdpTWl5MF9iNVRENHM2eWVZbTEwcXByR2Nkai10aHc?oc=5\" target=\"_blank\">High gas prices, cost of living send US consumer sentiment to all-time low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnpOUHhBNHFRQXhtX2RXUGlWZlVBajVLUml5LXFCVXd2cjNrUFRleWhHYmdIbW5yNlhaWU9VS1laM1VZRnRGLUJfcjEwT0hEUG03T21MSmhoZlQ1eksyazdReFpzSlY5c1RqbjJqZEZ0ejhycmpYeHZTS2JTNm8zdzJtczFzOWRFSkdtaGV6OTJ1QnJHb0hmaDg5WGl5czdiTFRkQmdZdGZrOWVnbzdKdWpZdVBHVDF1OVE?oc=5\" target=\"_blank\">People Hate the Idea of Losing Their Job Even More Than High Gas Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZmZBcDBXVVkzN0JLdGx3dnJDb0huVVo4em5mQnB5eGVHWW9rRTJLX29DV01pR2NzUm1Ud0t1ejR3NEhPMXNtUlhNNVppSVJ5SF9PdjN6SzFCYk1ib2hXdjRMOC1RRkNEazZuS2Vn?oc=5\" target=\"_blank\">A Whiff of Stagflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paul Krugman | Substack</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVXFTdXZGWGU5UVJRLUFEOUhJRU00b2k1YkZ3X0NLd01JYzM2OGlGd2J5TmdqQklYamtRZjAxVDgwTlRBaXhaLUMwLUhqclZtV3M2UUFubEExTXFNbzBSM0xDNUhZVkNLSXZIbVdR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Iran Progress Seen Amid Market Bets; 6 Stocks Near Buy Points - Investor's Business Daily",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.039603960396039604,
+          "source": "Investor's Business Daily",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5\" target=\"_blank\">Iran Progress Seen Amid Market Bets; 6 Stocks Near Buy Points</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB6Z1RlN284dVllbnhMYUlsajJBQVRNNzI2dUJETlpNU2ZvRWZQMDI4WW5RUnQ0UDVhSE9sTnQ2NF9kODZ1bUV5STBlVmt3bWRGWVFqMkNnb2kwUGFqbThFc2ZGUUNvSWFCSUhYN19GdlZhUTlGbzEw0gF8QVVfeXFMUFBVQUFoSHIxTDBZcGh4Q3NFbHpEM2ZoTjZISUZIRk5ORGdVWndtY255RGhZd1A0ajV6MkxzTkpKcXpHM3gzMVB5aS1lSFZWUzRfVmlBaW10d0dHVjdMZzNKWkNzWkVRLUZiRWtZYl8yNWZSa1ZEeHJhX2JsUw?oc=5\" target=\"_blank\">Dow adds nearly 300 points Friday for new record close; S&P 500 notches eighth winning week: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUVhtY1NxdnQyejhEeHBaX2ZKODNOZkFtVEtIX3JJaWZLNnpFUHNmTmxvMElrcXhSd3gwUGpRck9RZl85ZHZkOGdnMjRyRUw5X1FJQm9CZ3llSG9hcDczVE9QdzQ0Z1RKdXRqTUltNUdtbi1hWDhZc3hNdGx6ejRPNGhoUDM5cV93Vkg4QWxMVFRLYjRqRDZSNDNwZWtHbUhNdmZ4dUdaV04xbnJlNE5zbDNpSzJpa2lXV0FlSHFiZnJuMVpxRFMxUE5QcUxsQ1I2N1Y1Z3RtNGxmS0F3Z2M1TjlyRVQ?oc=5\" target=\"_blank\">Stock market today: Dow clinches record high, S&P 500 and Nasdaq rise as stocks rebound on US-Iran peace hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0Y4ZUpOT1hZMENGdzcxS1ZrR0ZpeEdpTFBubGZqbkc0NGhub2FMOWRtLXpHdVplUFdVNWJONWttX2VrajYtVXRISDJUSUJwLXI4WHZ1UjZvWjFoQnY3QkR6S2JQQk41R0o0X1o3aGloQXAyVk5hMEJaZnoxaUVIZEI0a0ZWWERJTDFjdkIzb0FEWTQ?oc=5\" target=\"_blank\">Wall Street keeps rising, even as U.S. households keep getting more discouraged</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVVTcFY0b3RjYXYwV3VJbFN1enpaTVUtYlBJbWw3SzVubHJDeWF2MjhaMEdQYzJFdk5Ld0NGQ3Jack5mX0lhaVEwQlpJWS11S1lIY0ZuM2k3dm5Ic0RkUXA1SW5FM1ZxQ0lZTG1IWHJIbkpXSkVhMW9SdTVDLUFHRlBWUGNwVHhEQjhzcm85U0d1UUJsZVJuczlqS0QyczVxYWdBNmxycDQ2TVM5Mk13RWFn?oc=5\" target=\"_blank\">S&P 500 Is Set for Longest Weekly Rally Since 2023: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "This bond strategy can protect your portfolio even if interest rates go up",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
+          "url": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Nvidia can deliver chips \u2014 but it can\u2019t buy Big Tech out of its credit and power-grid crisis",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.05714285714285714,
+          "source": "marketwatch_topstories",
+          "summary": "Corporate profits can\u2019t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Memorial Day traveler guide: The best and worst times to be on the road this weekend, and current gas prices at the pump - Yahoo",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Yahoo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1JaWFlLWi1tNU1tOEZSaGxOSVdyZ21sYWNmRGJtaXZVWkNWaXJmV1BSZHFuc1lRSzdRSXNvOVpfZWV4Z2YxWURrS3BmQVpmV3ZfOXVJX1B5M0ZaejgzMC1FZmV6Y0lSVlRCY0N1X3Y5eHV5LXlhTXNyWlF2Y3NwOHRYQjUxcnFfZ0s4b2t2YW11LVFUbUVVM1loUzJzY0s5VGZrR1N1MkxOUWVGWmNNa243MDNZLWdDcVpGeW1sZnZoTEJHOWpxbll0MTJkV0tCOXFjcUc0NWozZmhwRE9pYnVWSllrLVpCN3pHbUpmN2lkeFNpa2hBVDVac1BLeUZH?oc=5\" target=\"_blank\">Memorial Day traveler guide: The best and worst times to be on the road this weekend, and current gas prices at the pump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcV85bmc4SGsyM193XzFzbnN4cGV6MkZTOUxsVHU3V1dzc0hQMHN2QlU4dUFFMFNCT3dRRWhMckd2OW1ESU5mbVgxbG5lN0VmZDVtR0VMZzJLN2ZwY3JYNVFaSzdtY3d5QUpMcFpWMEtseEJHX1l1STN1Vkc2eUJleEdCdTBSMi1FUHZsaWRFbjFkSC1WOU9vZTZ5ZXgyaXhLeXlz?oc=5\" target=\"_blank\">Memorial Day: Higher fuel prices have some Americans scaling back their travel plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0NETHRJZnVOR0R1THdha0JXVWZZUGw0ZFd2cVViN013cGk5Q3FjSFg4SGV1RHJzMVRnTnAwMFFDRVpiZ3hXelVuZ0xpa0JYQU02cURLMDBJbzBnOVFPWDVLczZ4SmhjWmtFWmY4MG40OGhuY0JoeGgwUzJ3bXJscVlBRnFEalplM3pjYTMwR2stVWhPbWsxRVRFTW1Cdmhvc2lvcFVpaUNMNmNZemRIS25vZk5zbHVnamJfZQ?oc=5\" target=\"_blank\">War-driven gas spike puts pressure on summer travelers \u2014 and Republicans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPbkxoNnVGbGVRdFVKZ0p2R1hRaTd4YkNFTnZJcVVhajJsOVlMUjQtREpsa1BYcGZ6M0VXR3BRQ21ZQTRWYlNxa2NiLW9FYkFhY3l4dmoyN1d4TnExazh6b3ZYQ0pvQVJHeFlXcEZvYmpGT2picTZ3bkFCbG0zbVQ0WHdzX0RLVDVtc3A0OWVBeXJSbHJvQjF0dmhwT1FtWXZRc2p3SEZ2OEFYRXpxang4Sm95a0RGbmszWEtRYkFsZlcwaUM3Y2M5MklrMUdiSm4tMGJjdFUyMFRwNlZUZU5SckpSRHpLc25kUHRxTG9LTUhRdUpLcmJaMHZZR25ONGpWUzcyZjVHZnZoeldZMlI2NkZMNTJKQ0tm?oc=5\" target=\"_blank\">Western Washington drivers are skipping out on Memorial Day travel amid high gas prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5fYWhaTzQ5eGJTTjZDWXJhbXM5SktyTkM4Q2JvNEFJN0RGcnJrN2VDajJkdXFSWng0ZEpmc2J3SWNZX2EzUk9nY1NuS0xvaFpNLVFRQmhsM1Q5WlQ0RGJPOXV3ZFo5cWpNNDVwUi1ISdIBdEFVX3lxTE9nMTNLRXJQNVZ2X2daNmdpX1JuRDdXdHQ0dDFhRkUxM3pxaDdZT2FaN29pVWFsVk5xTmktQTlySk90d3l6MU1Fcm5iYXBNVElrak9tczQ4RXZ4VTFZZlZnQkFOUjFtcF9OY0U4bEwwb21MYm5u?oc=5\" target=\"_blank\">Spirit's collapse, high fuel prices test limits of summer vacation spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1JaWFlLWi1tNU1tOEZSaGxOSVdyZ21sYWNmRGJtaXZVWkNWaXJmV1BSZHFuc1lRSzdRSXNvOVpfZWV4Z2YxWURrS3BmQVpmV3ZfOXVJX1B5M0ZaejgzMC1FZmV6Y0lSVlRCY0N1X3Y5eHV5LXlhTXNyWlF2Y3NwOHRYQjUxcnFfZ0s4b2t2YW11LVFUbUVVM1loUzJzY0s5VGZrR1N1MkxOUWVGWmNNa243MDNZLWdDcVpGeW1sZnZoTEJHOWpxbll0MTJkV0tCOXFjcUc0NWozZmhwRE9pYnVWSllrLVpCN3pHbUpmN2lkeFNpa2hBVDVac1BLeUZH?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Kevin Warsh walks into a trap where the Fed can\u2019t cut rates even if it wants to",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.021739130434782608,
+          "source": "marketwatch_topstories",
+          "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy \u2014 forcing him to be something other than the disruptor he hoped to be.",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "JP Morgan Chase CEO warned of credit-market  \u2018cockroaches.\u2019 But opaque AI loans and excessive leverage \u2014 \u2018credit termites\u2019 \u2014 are hollowing out the economy.",
+          "url": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": null,
+        "provider": "yfinance",
+        "sector": null
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 0,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-21",
+          "headline": "Perplexity\u2019s Comet AI browser for iOS upgraded with 8 major improvements - 9to5Mac",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "9to5Mac",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQajN2RXNBMlVKMWR6TFpqeW5zT2lzSWdra1U3SzZVa1BOSy0yVW9iQnl6Q1ZHTHdoaUJnWFE5dURNbV90MGRYT3gyOUtrWXNhWGRFX0x0U0dhNXdpa0dvWUJtZmdSN1JKZEVwU05hZDAyUlpyMjhxQ2JvemcwUDhNVlhDb09ZellsY0NpbHYtRzExbDl0ZUFscnZ4emRKbF9BTWx5cVl3?oc=5\" target=\"_blank\">Perplexity\u2019s Comet AI browser for iOS upgraded with 8 major improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajN2RXNBMlVKMWR6TFpqeW5zT2lzSWdra1U3SzZVa1BOSy0yVW9iQnl6Q1ZHTHdoaUJnWFE5dURNbV90MGRYT3gyOUtrWXNhWGRFX0x0U0dhNXdpa0dvWUJtZmdSN1JKZEVwU05hZDAyUlpyMjhxQ2JvemcwUDhNVlhDb09ZellsY0NpbHYtRzExbDl0ZUFscnZ4emRKbF9BTWx5cVl3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-21",
+          "headline": "NASA\u2019s Hubble Accidentally Witnesses a Comet Shattering in Space - SciTechDaily",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "SciTechDaily",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2h6WDFHWWpnUkdjaFNOWVVoRlBmZkdaSUw0dlFzY09TV0RRRnBTMC11TlYzX0hOS1F0RzhzWFpNd3dOUHdkMkVjVlp0eU1uRXAxaUgybnAtYk5RRG1iaEJZWDBLd3l0T1h2RWFKV0dfZVFCbXh3TTJMWDE2S2hqbWhsZ2FhNC1kUkhoWEZpTUkzQ00?oc=5\" target=\"_blank\">NASA\u2019s Hubble Accidentally Witnesses a Comet Shattering in Space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SciTechDaily</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2h6WDFHWWpnUkdjaFNOWVVoRlBmZkdaSUw0dlFzY09TV0RRRnBTMC11TlYzX0hOS1F0RzhzWFpNd3dOUHdkMkVjVlp0eU1uRXAxaUgybnAtYk5RRG1iaEJZWDBLd3l0T1h2RWFKV0dfZVFCbXh3TTJMWDE2S2hqbWhsZ2FhNC1kUkhoWEZpTUkzQ00?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "Comet Holding AG Climbs 1.07% as X-Ray Tech Demand Strengthens - Meyka",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Meyka",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWNZSDhMWEg4RU91eXROeV9TcFNNVFBIckpxLXV2VjhKQ2xYREtvY2FlUUp3YWgtZGNfZTV2ZG1sR1ZpTk9GVFVPZzd6OWc1dlh4MlpuV3VkZl9zd0Zlc0VyZzlWODhKbGVvZk5oYWt1UGM1T1Mwa2pKSzhJT1FRVnhJc1prZlJIS2NvSmw3eGVDWDA?oc=5\" target=\"_blank\">Comet Holding AG Climbs 1.07% as X-Ray Tech Demand Strengthens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWNZSDhMWEg4RU91eXROeV9TcFNNVFBIckpxLXV2VjhKQ2xYREtvY2FlUUp3YWgtZGNfZTV2ZG1sR1ZpTk9GVFVPZzd6OWc1dlh4MlpuV3VkZl9zd0Zlc0VyZzlWODhKbGVvZk5oYWt1UGM1T1Mwa2pKSzhJT1FRVnhJc1prZlJIS2NvSmw3eGVDWDA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-15",
+          "headline": "Comet Holding AG Surges 5% as X-Ray Tech Demand Accelerates - Meyka",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Meyka",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZC1UMFM3YkFIQzJRMjdqWnFaU3l5am82OWNJaUJSMFhpUjNvU2lWSm02eXBHV2MtRFR0MjNDdnV1YUhTdWRPTHFiMWRiNWNMVV9mRVhfTFZKeVgzNWdITkh2bjhWNk9PZGlwSWEtU1RmUmhpakQ3ZTM1RnpkNkMtUjAwUjMxd0xRU1ZhR01HT0w?oc=5\" target=\"_blank\">Comet Holding AG Surges 5% as X-Ray Tech Demand Accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZC1UMFM3YkFIQzJRMjdqWnFaU3l5am82OWNJaUJSMFhpUjNvU2lWSm02eXBHV2MtRFR0MjNDdnV1YUhTdWRPTHFiMWRiNWNMVV9mRVhfTFZKeVgzNWdITkh2bjhWNk9PZGlwSWEtU1RmUmhpakQ3ZTM1RnpkNkMtUjAwUjMxd0xRU1ZhR01HT0w?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-12",
+          "headline": "2026 May 12 \u2013 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula - NASA (.gov)",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "NASA (.gov)",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQldMZGxuMnFOQjdKVVA0bHhLUzRNWDF3RVQ2dWJyN1JLTy1lV2NuOW9WbjhTT3VvSzRicGZFcXJvZDBXWXJqcGpjaHBXVkZSbVE?oc=5\" target=\"_blank\">2026 May 12 \u2013 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA (.gov)</font>",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQldMZGxuMnFOQjdKVVA0bHhLUzRNWDF3RVQ2dWJyN1JLTy1lV2NuOW9WbjhTT3VvSzRicGZFcXJvZDBXWXJqcGpjaHBXVkZSbVE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-11",
+          "headline": "COTN.SW stock surges 6.6% in May 2026 pre-market trading - Meyka",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Meyka",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOQi0zN2E4dEVScjdCV3dwQ045ZzJlYjNGSXNRY0VXZklnSzF4TXhsNG5NU1doN1JjQzRWVmxmLWFFV2Q0OE5GR295cWtCN3dDckgyWXhzdWJIZ3B1TnY1TTlpdlFhdGZGN2FReThYeWJLRnZ4OEJheXNhUDBTNGFFRkFMT3ZRamFMaFE?oc=5\" target=\"_blank\">COTN.SW stock surges 6.6% in May 2026 pre-market trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQi0zN2E4dEVScjdCV3dwQ045ZzJlYjNGSXNRY0VXZklnSzF4TXhsNG5NU1doN1JjQzRWVmxmLWFFV2Q0OE5GR295cWtCN3dDckgyWXhzdWJIZ3B1TnY1TTlpdlFhdGZGN2FReThYeWJLRnZ4OEJheXNhUDBTNGFFRkFMT3ZRamFMaFE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-08",
+          "headline": "COTN.SW Stock Surges 5.2% on May 8 as Comet Holding Gains Momentum - Meyka",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "Meyka",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1lRVUJBbE8td0JRejFCUFU2QjRaeVJZQjRBb3YtMkNINEtWOE10Q29HMlRXWnZ1R040UDBUZ1JnekpneW9DdDdneklYWmNSeko5dlRLd2M3eEltMjZfdWllWmFZVkFNWVFXaUlzMmFNYm9rZkh6Qmt0MUpFeVpWWE1ieHNrclJOd1ZKMEhudXdtUnZYRW1B?oc=5\" target=\"_blank\">COTN.SW Stock Surges 5.2% on May 8 as Comet Holding Gains Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1lRVUJBbE8td0JRejFCUFU2QjRaeVJZQjRBb3YtMkNINEtWOE10Q29HMlRXWnZ1R040UDBUZ1JnekpneW9DdDdneklYWmNSeko5dlRLd2M3eEltMjZfdWllWmFZVkFNWVFXaUlzMmFNYm9rZkh6Qmt0MUpFeVpWWE1ieHNrclJOd1ZKMEhudXdtUnZYRW1B?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "A Visitor From the Oort Cloud: Rare Comet Appears in Southern Skies - The New York Times",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2xBS0JCdzNUbGlTbGhoWDdkcW1pdXBhd0VoS05CNk1ieUtVUFNBUFZvdXZEV0xLVkJUNTQ2eUh2ckpROEZYZ2Q1V1JlaHdndVNnbzhFU1N1T1NJZkpVb0psUWJicnRTWVRZNGFfNEYwWWpESXBEWDM1dVNqRG52Q2FVb09YS0ZwbjhTSDJZempOdHJ4aUVVRENWcXRvTE0?oc=5\" target=\"_blank\">A Visitor From the Oort Cloud: Rare Comet Appears in Southern Skies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2xBS0JCdzNUbGlTbGhoWDdkcW1pdXBhd0VoS05CNk1ieUtVUFNBUFZvdXZEV0xLVkJUNTQ2eUh2ckpROEZYZ2Q1V1JlaHdndVNnbzhFU1N1T1NJZkpVb0psUWJicnRTWVRZNGFfNEYwWWpESXBEWDM1dVNqRG52Q2FVb09YS0ZwbjhTSDJZempOdHJ4aUVVRENWcXRvTE0?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-05",
+          "headline": "Meteor shower, a comet and the Moon: What's in the sky this month - Australian Broadcasting Corporation",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Australian Broadcasting Corporation",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGhIQlZ5eUhTWUFOZUlwVFg1N2pSVjA1WUUxTHk5MHFYU05WWF9xX25WNHJsSFFWMHYwWVhlYVpRd0steFNqNHcyRjB4ZmJBdnRWQzVCcF9jdzBlei1ONExvNm5WUGFYaWwxcS1oNUtMNVFiZFFERnhtTm5QUF9DQ2hOSDRSeEN2R2prMUxhdl8yaWtKUFJnLU4xQ2MxRmI5U0N2dFg3a1Vidw?oc=5\" target=\"_blank\">Meteor shower, a comet and the Moon: What's in the sky this month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGhIQlZ5eUhTWUFOZUlwVFg1N2pSVjA1WUUxTHk5MHFYU05WWF9xX25WNHJsSFFWMHYwWVhlYVpRd0steFNqNHcyRjB4ZmJBdnRWQzVCcF9jdzBlei1ONExvNm5WUGFYaWwxcS1oNUtMNVFiZFFERnhtTm5QUF9DQ2hOSDRSeEN2R2prMUxhdl8yaWtKUFJnLU4xQ2MxRmI5U0N2dFg3a1Vidw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-04",
+          "headline": "Rare comet to flash through New Zealand skies \u2013 before it disappears for 170,000 years - The Guardian",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YaGQwM3lzR0huenJCbVk5SGd0LXZyN3FrTFJTVzBERXFpZ0VqZnNZRVR1LS13cnVmQ09mc2pvRVZobVRyRFMxZGpOaDJRUFBYaDN5OTN3dnYtUE9vMzFnQUhOVlJiS1kzY3U1R0hkTGpod0t1U0Nj?oc=5\" target=\"_blank\">Rare comet to flash through New Zealand skies \u2013 before it disappears for 170,000 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YaGQwM3lzR0huenJCbVk5SGd0LXZyN3FrTFJTVzBERXFpZ0VqZnNZRVR1LS13cnVmQ09mc2pvRVZobVRyRFMxZGpOaDJRUFBYaDN5OTN3dnYtUE9vMzFnQUhOVlJiS1kzY3U1R0hkTGpod0t1U0Nj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-30",
+          "headline": "Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins - Sky & Telescope",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Sky & Telescope",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1piYjlSa0hkNmhNaE1JZURDUF9OOGItZ0h2dEJ4eHBGV2RRclB2ek9SVnlTTTJBeFRSVnpVZ1R5U19XMThFZWR4TzFtLWZ6QUh2WHF5Z1N6bUNZNUxsVVVWd1FlS2pvVk81YU8teHU2OUZiRVVqRDJuUmhDeUJwWHIycjA3TGdXQlE?oc=5\" target=\"_blank\">Interstellar Comet 3I/ATLAS Has Cold, Ancient Origins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky & Telescope</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1piYjlSa0hkNmhNaE1JZURDUF9OOGItZ0h2dEJ4eHBGV2RRclB2ek9SVnlTTTJBeFRSVnpVZ1R5U19XMThFZWR4TzFtLWZ6QUh2WHF5Z1N6bUNZNUxsVVVWd1FlS2pvVk81YU8teHU2OUZiRVVqRDJuUmhDeUJwWHIycjA3TGdXQlE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-16",
+          "headline": "COTN.SW stock rises 1.8% to CHF308.4 on SIX exchange - Meyka",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Meyka",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnVuem5yc3JhRmltNmRWemhLQURzbG0xcnVSOEdxVTZLWEhqejVtZ0dISWQ1eE9yTWtfUVV5N20xSm9fZHhqLUg3dDNYVkp4UzFucUFnWDVwVE40WkFKZWNkb2h4VkRPVHFiaV9FV1RKZExHTk1IbklhTFlDRkNUcDR2NA?oc=5\" target=\"_blank\">COTN.SW stock rises 1.8% to CHF308.4 on SIX exchange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnVuem5yc3JhRmltNmRWemhLQURzbG0xcnVSOEdxVTZLWEhqejVtZ0dISWQ1eE9yTWtfUVV5N20xSm9fZHhqLUg3dDNYVkp4UzFucUFnWDVwVE40WkFKZWNkb2h4VkRPVHFiaV9FV1RKZExHTk1IbklhTFlDRkNUcDR2NA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "How to see Comet Lemmon as it's visible this week - 10TV",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "10TV",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE9CQUtmbDk0d2ZsdGpYVmREUXZKSV93ZnRMd3lJTGFRUE1paEcwSFRXQTc3QS0tMXFaSERTdjVoeTk0MUhQTHlHZFRqUlk3aVpwR0ZxVWg2dTdkZUJzZ2dmaFQ0Qzc2UjFGalZmNjFYQWRYUjl1V3F1YUQtZjNjNlhGVGdjRHl4UC1kY09VbTZzYmtKSEh6Zkl2MkxpWGZnXzdvcEwxc1JRZHJ0N2NreXhaQzZ6aHpaVndQZWExd1NPVXZDdE82YWdVaDdZdGg5MGc?oc=5\" target=\"_blank\">How to see Comet Lemmon as it's visible this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">10TV</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE9CQUtmbDk0d2ZsdGpYVmREUXZKSV93ZnRMd3lJTGFRUE1paEcwSFRXQTc3QS0tMXFaSERTdjVoeTk0MUhQTHlHZFRqUlk3aVpwR0ZxVWg2dTdkZUJzZ2dmaFQ0Qzc2UjFGalZmNjFYQWRYUjl1V3F1YUQtZjNjNlhGVGdjRHl4UC1kY09VbTZzYmtKSEh6Zkl2MkxpWGZnXzdvcEwxc1JRZHJ0N2NreXhaQzZ6aHpaVndQZWExd1NPVXZDdE82YWdVaDdZdGg5MGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "Look up! You might see rare comet PanSTARRS passing Earth this week - Casper Star-Tribune",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Casper Star-Tribune",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVFHdlg5dUFVQUVzVDcwTGU1OF9EVmo1OFo5SmdYNGVSb3QwVE9PMnFuWHdnYUp4UzloS0NDdG1Xekw4TGozQTVCaldwQkMzSXhTWEkxNWJObHpHMm1WTEotNm9KY0RNNkFpWU95bWxad3RrRFJwWGs0STVpY2tXNmpLcFNudDAxZ3BqOGNlM09QREFMMnUw?oc=5\" target=\"_blank\">Look up! You might see rare comet PanSTARRS passing Earth this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Casper Star-Tribune</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVFHdlg5dUFVQUVzVDcwTGU1OF9EVmo1OFo5SmdYNGVSb3QwVE9PMnFuWHdnYUp4UzloS0NDdG1Xekw4TGozQTVCaldwQkMzSXhTWEkxNWJObHpHMm1WTEotNm9KY0RNNkFpWU95bWxad3RrRFJwWGs0STVpY2tXNmpLcFNudDAxZ3BqOGNlM09QREFMMnUw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-15",
+          "headline": "See Comet PanSTARRS glow above a false dawn in stunning new photo - Space",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Space",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX21aaWVmMnVpQVpiaEpBYkxIMVJ2dm50QlZDdlpaQWNyMll5NUlxTWJNTGZaaG1Ma0pOMnhrcktFSVFJeUdIeElmX3kwQmEtNUY5aWY1eVFEUEh6OUkyRlcwaC1DNUFmT2FOdFF4bC1fR0ZJeTVKTkRPSW5zQ2xFaHJCWXRveEcyWWNVSzdwYXNsTXRzdTEzeFV2WFdBZjZxcERrb3RBU1Y4RlRPV1FXM095cnFrQQ?oc=5\" target=\"_blank\">See Comet PanSTARRS glow above a false dawn in stunning new photo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmxBajFUNHc0cVpSYTZ5OV9KMEtNWW1vY2pYTXc3SkwwS1kxM1Bpd1VrcGVoaTdpZ2VwWWpROWpfUjh4Z0w1OVpQSW9HaC1VeGdaalZPWUM5ZmhVd3psejhkLXViUUdLM25GX0RiOUg1NGVrSDF5NU5UT3FNUTdmSW5SNWtYQmFPdzl1dTBESm5IYXJXaWNaRDBaU0wyVWNuMmtDUGJCbDFMeHV2Uml5ZzRyc0w2NnczcUZvRg?oc=5\" target=\"_blank\">Comet C/2025 R3 Is Making Its Closest Approach In 170,000 Years, And Is Brightening Spectacularly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IFLScience</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXQtbU1rWlNLVHNua3EzRnFtSDRTM29Bb1A4ZkdMekNqclFZRmxsSXpKSWZBQnFGamtBZW1HS0EwcS1mN282VlVjWC1mSzNFNmhSRjlPZUg0Y1RjVnJBTlNSRmtaMVIxZnRzeGdNM2Q5WGVHaTZIemhpRmwzNlZ3UkJnTTZUMlpyQkVOQ3huVGdDQUhn?oc=5\" target=\"_blank\">Early risers may catch Comet C/2025 R3 this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX21aaWVmMnVpQVpiaEpBYkxIMVJ2dm50QlZDdlpaQWNyMll5NUlxTWJNTGZaaG1Ma0pOMnhrcktFSVFJeUdIeElmX3kwQmEtNUY5aWY1eVFEUEh6OUkyRlcwaC1DNUFmT2FOdFF4bC1fR0ZJeTVKTkRPSW5zQ2xFaHJCWXRveEcyWWNVSzdwYXNsTXRzdTEzeFV2WFdBZjZxcERrb3RBU1Y4RlRPV1FXM095cnFrQQ?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 1
+    },
+    "sentiment": {
+      "days_sampled": 10,
+      "delta": -0.023809523809523808,
+      "prior_mean": 0.023809523809523808,
+      "recent_mean": 0.0
+    },
+    "technical": {
+      "atr14": 13.4696959221825,
+      "close": 352.2,
+      "close_vs_ema200_pct": 34.14552241604134,
+      "close_vs_ema20_pct": 7.343728944301822,
+      "close_vs_ema50_pct": 15.665896402527702,
+      "close_vs_hh20_pct": -0.28312570781426954,
+      "ema20": 328.104867851897,
+      "ema200": 262.550693945401,
+      "ema50": 304.497704988437,
+      "entry_ready": false,
+      "hh20_prev": 353.2,
+      "selection_bucket": "candidate",
+      "vol_anom": 1.71084059725516
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": null,
+    "sector": null,
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 1 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-08: COTN.SW Stock Surges 5.2% on May 8 as Comet Holding Gains Momentum - Meyka."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "Price is still below the prior 20-day high (353.20), so the breakout remains unconfirmed."
+    },
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 353.20 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is still below the 20-day high trigger",
+        "points": -8,
+        "value": -0.28
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 7.34
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 15.67
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 34.15
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 2,
+        "value": 1
+      }
+    ],
+    "confidence": "high",
+    "label": "fragile_watch",
+    "score_0_to_100": 39
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-24",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-24_universe_5_EU_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-05-21",
+      "publisher": "9to5Mac",
+      "title": "Perplexity\u2019s Comet AI browser for iOS upgraded with 8 major improvements - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajN2RXNBMlVKMWR6TFpqeW5zT2lzSWdra1U3SzZVa1BOSy0yVW9iQnl6Q1ZHTHdoaUJnWFE5dURNbV90MGRYT3gyOUtrWXNhWGRFX0x0U0dhNXdpa0dvWUJtZmdSN1JKZEVwU05hZDAyUlpyMjhxQ2JvemcwUDhNVlhDb09ZellsY0NpbHYtRzExbDl0ZUFscnZ4emRKbF9BTWx5cVl3?oc=5"
+    },
+    {
+      "published_at": "2026-05-21",
+      "publisher": "SciTechDaily",
+      "title": "NASA\u2019s Hubble Accidentally Witnesses a Comet Shattering in Space - SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2h6WDFHWWpnUkdjaFNOWVVoRlBmZkdaSUw0dlFzY09TV0RRRnBTMC11TlYzX0hOS1F0RzhzWFpNd3dOUHdkMkVjVlp0eU1uRXAxaUgybnAtYk5RRG1iaEJZWDBLd3l0T1h2RWFKV0dfZVFCbXh3TTJMWDE2S2hqbWhsZ2FhNC1kUkhoWEZpTUkzQ00?oc=5"
+    },
+    {
+      "published_at": "2026-05-20",
+      "publisher": "Meyka",
+      "title": "Comet Holding AG Climbs 1.07% as X-Ray Tech Demand Strengthens - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWNZSDhMWEg4RU91eXROeV9TcFNNVFBIckpxLXV2VjhKQ2xYREtvY2FlUUp3YWgtZGNfZTV2ZG1sR1ZpTk9GVFVPZzd6OWc1dlh4MlpuV3VkZl9zd0Zlc0VyZzlWODhKbGVvZk5oYWt1UGM1T1Mwa2pKSzhJT1FRVnhJc1prZlJIS2NvSmw3eGVDWDA?oc=5"
+    },
+    {
+      "published_at": "2026-05-15",
+      "publisher": "Meyka",
+      "title": "Comet Holding AG Surges 5% as X-Ray Tech Demand Accelerates - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZC1UMFM3YkFIQzJRMjdqWnFaU3l5am82OWNJaUJSMFhpUjNvU2lWSm02eXBHV2MtRFR0MjNDdnV1YUhTdWRPTHFiMWRiNWNMVV9mRVhfTFZKeVgzNWdITkh2bjhWNk9PZGlwSWEtU1RmUmhpakQ3ZTM1RnpkNkMtUjAwUjMxd0xRU1ZhR01HT0w?oc=5"
+    },
+    {
+      "published_at": "2026-05-12",
+      "publisher": "NASA (.gov)",
+      "title": "2026 May 12 \u2013 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQldMZGxuMnFOQjdKVVA0bHhLUzRNWDF3RVQ2dWJyN1JLTy1lV2NuOW9WbjhTT3VvSzRicGZFcXJvZDBXWXJqcGpjaHBXVkZSbVE?oc=5"
+    },
+    {
+      "published_at": "2026-05-11",
+      "publisher": "Meyka",
+      "title": "COTN.SW stock surges 6.6% in May 2026 pre-market trading - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQi0zN2E4dEVScjdCV3dwQ045ZzJlYjNGSXNRY0VXZklnSzF4TXhsNG5NU1doN1JjQzRWVmxmLWFFV2Q0OE5GR295cWtCN3dDckgyWXhzdWJIZ3B1TnY1TTlpdlFhdGZGN2FReThYeWJLRnZ4OEJheXNhUDBTNGFFRkFMT3ZRamFMaFE?oc=5"
+    },
+    {
+      "published_at": "2026-05-08",
+      "publisher": "Meyka",
+      "title": "COTN.SW Stock Surges 5.2% on May 8 as Comet Holding Gains Momentum - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1lRVUJBbE8td0JRejFCUFU2QjRaeVJZQjRBb3YtMkNINEtWOE10Q29HMlRXWnZ1R040UDBUZ1JnekpneW9DdDdneklYWmNSeko5dlRLd2M3eEltMjZfdWllWmFZVkFNWVFXaUlzMmFNYm9rZkh6Qmt0MUpFeVpWWE1ieHNrclJOd1ZKMEhudXdtUnZYRW1B?oc=5"
+    }
+  ],
+  "summary": "COTN scores 39/100 as a fragile_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "COTN"
+}

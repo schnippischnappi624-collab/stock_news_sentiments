@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-24T04:00:53.272818+00:00",
+  "industry": "Biotechnology",
+  "long_name": "Vicore Pharma Holding AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "VICO.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "VICO",
+  "sector": "Healthcare",
+  "short_name": "Vicore Pharma Holding AB",
+  "symbol": "VICO.ST"
+}

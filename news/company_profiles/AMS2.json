@@ -1,0 +1,9 @@
+{
+  "fetched_at_utc": "2026-05-24T04:00:53.272818+00:00",
+  "provider": "yfinance",
+  "query_candidates": [
+    "AMS2"
+  ],
+  "symbol": "AMS2",
+  "warning": "no_plausible_match"
+}

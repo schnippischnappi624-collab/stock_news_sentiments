@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-05-24T04:00:53.272818+00:00",
+  "industry": "Specialty Chemicals",
+  "long_name": "Elkem ASA",
+  "provider": "yfinance",
+  "query_symbol": "ELK.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ELK",
+  "sector": "Basic Materials",
+  "short_name": "ELKEM",
+  "symbol": "ELK.OL"
+}

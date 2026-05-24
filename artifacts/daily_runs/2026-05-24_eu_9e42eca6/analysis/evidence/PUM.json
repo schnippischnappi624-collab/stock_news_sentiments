@@ -1,0 +1,881 @@
+{
+  "analysis_date": "2026-05-24",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "mixed_watch",
+    "score_0_to_100": 56,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-07: PUMA SE 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:PUMSY) 2026-05-07 - Seeking Alpha."
+    }
+  ],
+  "company_name": "PUMA SE",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 7
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 11,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Our deals experts found the 172 best Memorial Day sales live for the long weekend - CNN",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.00980392156862745,
+          "source": "CNN",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFV1akcyVU5jWndpR1AyUkZXUFhBV1BwMDNNYnZ2WGpKa1g1QWp3U3JGTmZrUGVLbEVIc2VEWmwwZ3dtTVJmWWdTbEJvS2hHNlRIaExJLWVmMGlqdm9BdjZsV2xSaGU5bi14aGtfR1BJbFh6bEZvaXNac3dBY2QyU1Bn?oc=5\" target=\"_blank\">Our deals experts found the 172 best Memorial Day sales live for the long weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xQjVyNzRwYlV6RFRpcHNGVVFzd1l1czlMa2VONkZtLTlXSktLcE5LUUtIeXo2ZnFuTGlMWEJIbll1UEtsU2lGTkpsM0MtbkUzZFAybTFka0tCeXBkdlpNdXJXcmJCXzJIVzItZk1IdUE0LXFlbi1vbWRB?oc=5\" target=\"_blank\">Best Memorial Day Deals Under $50: Massive Discounts on Tech, Home Essentials and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzJ1elVPTUlCcjhJak5XZC1taUIyS3JfV1lnb2ZESmUySHJZQkhvVm9mVlAtLVFKSnI0MnljV21pV2tNWFpEUGxRZWxweEhFZ292V256YmtTNUQ2UnN2YTBHeGtTOTRoV1pscXlEaHZvNU1Fc3VCQTVMSGVsWW05WTZ1RTc3b28zYktJRmZBdW9xWEpWaDQ5UmVRem9UNEk1QWktSg?oc=5\" target=\"_blank\">Amazon's Memorial Day Sale Offers Up to 58% Off Nike, Cole Haan, UGG and More Summer and Travel-Ready Styles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVJPeE9QOXVtOUZvbGFCMVYwdWNGdVRQME0wejU3eVlzVXdzMkxCTlZISXFkazRpQUFUMVdLc3FSUWdOMXZBTTBGWko0alhESnJQUVVSd09uMlRkeXVHdnppTVQ5WTR6a3JnRlVpNWYxcmUzSlh5WTBRbFk4TjBVczFHTXdMTXNwTmI0dW0zUQ?oc=5\" target=\"_blank\">We sorted through all of Amazon\u2019s Memorial Day deals \u2014 these 51+ are actually good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpicDNVRkJGUXpnUHI0NFlvcWJHUWxNZElDRld1SXRNajNZMW5NT3phRG1Sa210TkJQWldROWNzWDBobGllU2tfOXdZTzJ5YUMwekNMNDd2LUhfbmhyaEFlUWxWcHZidjdXYm4xOWxZdXdMaTNwVU1kVWJmNDVCenhTLVg?oc=5\" target=\"_blank\">What to buy \u2014 and skip \u2014 during Memorial Day sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KETV</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFV1akcyVU5jWndpR1AyUkZXUFhBV1BwMDNNYnZ2WGpKa1g1QWp3U3JGTmZrUGVLbEVIc2VEWmwwZ3dtTVJmWWdTbEJvS2hHNlRIaExJLWVmMGlqdm9BdjZsV2xSaGU5bi14aGtfR1BJbFh6bEZvaXNac3dBY2QyU1Bn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Exclusive: What's inside the Iran deal Trump is close to signing - Axios",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5\" target=\"_blank\">Exclusive: What's inside the Iran deal Trump is close to signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWlqdG5sVHJmQ2JTVkM4ckdPdlR2OU1Nb3BWcTZpQnNDTFQtTmU3d0ZBTGdrVV9UNTc3TEluT1dsWWhKdWVjOTZ3S3Y0X3Nxa0l1bHNCSE45SmJmTjFxUnVOTi1FT3VfTFB1WnZ3VDN1YUdYY3YyTW56eGxsc05RdWlwekdGaktOOG9RSUh5TQ?oc=5\" target=\"_blank\">Trump\u2019s Endgame Is Surrender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NZXliZ09ybG8yZFBtNG80S01ZejNobFIyZzhobm9JS294VWEwYTF0NXh5WTNrM0g4S2hSeVhBclExWVMyMjZnYmh0d2p5QkZWcUNDMEVvUkxBeG1FLVg0NEVsUVVQaXJkb0tzemJLZWwzc3pJeFdlbg?oc=5\" target=\"_blank\">Opinion | Don\u2019t Leave the Iran War Half-Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVRDaEwtbnB3Z3VuTi1wMWlGY0RGMXRVUk1Uc3ZKWG9SZTQwM1dRNFVrNVREeEJWdGk4UE5hZWc1R2YzN01pTFR4aWVKS3VFTTlVZnNNaFFHY1J2THEyeGlrU0laQjBrajh4ODZITkh0blVpU2p0SHg5UE93My0wYjlxOEswZ05iZDlRejNCLVg?oc=5\" target=\"_blank\">Many Questions, Few Details in Latest Iran Peace Proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHAzQzZCRV9UMjdOeWt6MVpWUFhGU0NGRVZadGtDcGZGVklkNUxqYXotR3RHYXNNT2dselVTMTRCWE42MXZKN3ZaUWVnSlNnMUFGM0U3T1pJZ05FZkZjYWhwdFBMS3p2dEwxWVBGOUdHS2xxRVBtQnRYbHRCOUZfaldZREpvRHBJOFVKaV9LVFFjVEE3TVBtc0V5UTVZcmpvQjlKLU5rc1BlNTg0Z1ZZXw?oc=5\" target=\"_blank\">An ever-expanding catastrophe over Iran is not inevitable. Trump can and must be stopped | Simon Tisdall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-24",
+          "headline": "Iran War Live Updates: Trump Says Peace Deal Is Near - The New York Times",
+          "kind": "positive",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWFBLT2d1d0NIaS04SU5PN2dyTGh5ZUtxN2IyWHMxNzhVbHBQRGlMNXR2V0NmenV3eGQ4WGNvMTBpZjJzVnFCdzBISDgzQV9qamRkSDRmZmdZYThOeHZFXy1WWTlUckl3M1UyTVhRZlM?oc=5\" target=\"_blank\">Iran War Live Updates: Trump Says Peace Deal Is Near</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEw5VWRTWHZxOHdyWTJ1TFdpSE51ell3MWVmbDVDNF9jS2lhSWM3VUYtYUU5eTZ6cEQ1UEE5dDFXZEY5dlNEVEpnYWFGNkNUY3JFNUszSkk3eXBWM0hzN2xvQzlucEwtRjVwYTJ5U3hRQ2l6ckpVRU8zN2dkaEVMTXFZcFJuRXVaVXRsSklORjVYZnB2cG9aVnJ5NGRKUHk0QVVKdnVIbUczcE9kbHFCWmZtZ9IBuAFBVV95cUxPQXZOall0dEpNMlNUUjdpZFBQNHpCajlNdXJQVHZTRVJMVE9OVzZhZnpBUDdpTFNLUnotRnlCMUNkQUZ4Y0g1bndRd3phZnVSRjhHOEtONG85Ym4xeG5BNC1qWXNSSzh6c1Jha3pTUlhrbnltNE54UDZta1k3QkNnOXl2MndlVHFZNnM2QkRhT3d3bzE1OGV2dUtCUzBlN3dEQzRVek9ndXlzY0VNQUtWZ01yR0Fzb05G?oc=5\" target=\"_blank\">Trump says Iran agreement \u2018largely negotiated\u2019, awaiting finalisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMTA2cFZ6SEJySXhLV19xZ0p2TkFTQ0hLLWpKMlNuZXlmQ0p0R2hFR2FVNjdMV0RkVmlhZlFpS3NWeU13Z3h4RnplMDBpNG4wUlI3R2xxeHpjYXBKT0c0d2ZSSXktU01LZUd3Q2FTWnBVaG1nTmJrUjRoVDJub3hnSm5JZWpGcE9UME9jdGY3cEhDV3B4ZHRJZXd2MEJNUkJ4ZFBoNlpqaDluOWRJUVppVTUxdkVKbDFMVUo2UlBReFZfdGEyaGlnRkRXSVg3WWl3QUpNVUllRU9zMjFXS2NQeDI5ajZiYnpiX1dqX1Fwb3hVYTF1UEZJMA?oc=5\" target=\"_blank\">\"Deal Largely Negotiated\": Trump Claims Hormuz To Reopen, Iran Responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GekFKeFgteThEeDR5RXM5d1lBaE9aYm9wdnk2LXY5RUFOTXl6LS1tWHdDLWNhNEc5bW5lUmM3X1VHOTItbldiallXdm5UWTJFQ0ZGVXRvcC1qWUZZWkF4cDFfekTSAWpBVV95cUxNR2JTUFdkSGpMenRzU2pxNm5iT0UyWTJyOFJQQ3E5bGwxUGxzZVNBY2NpQWw5OFRfdlJ6dDltN053empCTjFIWVJDQjhDSHJ2b1ZTdFdRTlZTdFQwS0w2a1FtZDVzWWFrN3V3?oc=5\" target=\"_blank\">Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFh4TWl1cnI4MkdBMGRqZjZfZC1ZZEZLVWU3T0pLUFhvbjdBaTRhWmstc3lSUkhPSWRsTE4zRXBNbm5sdUlrbmtiQ2J0WURPc2tJQVYzeFBZejBHRG4tbWZ2MnNtUVdLUS1HOE50NlZocDJWSVdZVjF6Y0NPd1ZXRE51VWdXM0F4ZHJNMlZpUTZTMmljYUc2NWphNUw4cU53UEh1VHdzRnZkY0dEbHljSA?oc=5\" target=\"_blank\">Trump says Iran ceasefire deal in final stages, to be \u2018announced shortly\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWFBLT2d1d0NIaS04SU5PN2dyTGh5ZUtxN2IyWHMxNzhVbHBQRGlMNXR2V0NmenV3eGQ4WGNvMTBpZjJzVnFCdzBISDgzQV9qamRkSDRmZmdZYThOeHZFXy1WWTlUckl3M1UyTVhRZlM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Ukraine war briefing: Zelenskyy sounds warning after Russia strikes Kyiv with Oreshnik missile - The Guardian",
+          "kind": "negative",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.02197802197802198,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDF1bGxDaEU1TWsxWld5b090NmZSbms2Z3pxNXVTZHhtTktNV3drenY5QjBtTWFwNlQ3Z0F5Z1NPY1Q5WGQ3REk3ZHNIUDZudFc5YnpDV0JxOTZ0RC1BZE55WUtubEljZnlXSFI3Ty1TMXotdzJtaDZJb1JfdVZCdDY5SkVjYVhudEdaeldKZ3I0dDdwZUVSZmhWemQyOFF6U0RKbDBxZGlpc1JhVzEzVm5hdm43aUJEQlRzcGIxVXo3UlhoY214cFllU2Rnc180R1cyLXJR?oc=5\" target=\"_blank\">Ukraine war briefing: Zelenskyy sounds warning after Russia strikes Kyiv with Oreshnik missile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hbm1ZYkpQaE9iR28wXzdlZ0UwQUE0bVUzeW1kWC1ZcHFqNzkzTHotbmFBSkduVzNPUXVUUHRrNXN4ckpSRzJnakVuNjN0NE5qTEZZZTdrZUdCWDhhVW9DN2ExaW9PTjhWZXBreXVPd2J1bHV2LXFRcmF3UUF1czQ?oc=5\" target=\"_blank\">\u2018Massive\u2019 Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTF3TzRleUdUZEptV2xCbjAyVWRISkNuTTBEM1hTWXZtZk9fT25jV0M3X0x5NlJWN2FxeUtqMjRMWWhac1RSX1U1MHl4dFJJSkZPZWE2M3lsNlJkTUtTZ3BvSkRmWXdBOHRTbG1FSDdiSUpGN0p1THdLaE1mUFBGM2FEY19wLXZEcjA4V0doX1BCUmlINUkzYU0zQTZ6djYyY0V4NTZNOEpEZw?oc=5\" target=\"_blank\">Russia strikes Kyiv with massive missile and drone attack, killing one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPdzF2SUxSZFp1ekFqbFBjcWY3THVfRGxBZVNCX1JhV3FXM2xtOGlEUUhEOU03VUNXOW5NZzB3bDY1SmpaTWhqUGJDVEtLZTA4TWlXLVlVYUdfSWo2Y2pxZnlOSWFhdkFEVXNiM0VIQWFIOG5KYWlHZXlnV051UGhEOVhFbDE4d2FEWGpfYi0xYkFaR0dCSVp4MGNvOFUxNWJxT2dhcU5WdzFNUXZOclQyUFZkNE1NSFBoTEw1OEV4VGVJN04tNi1FekE2NGbSAdIBQVVfeXFMTnozMllseklzQzBTQWhVUlhQU0lCcmNrNVE1elJmQ1lwRkJlekZVWUlQTWFEZ0FEc0NhWUxRTzlOY2pQakZkSVZYQW8wbzQyd2JGQWtEVjNrWVBFc1NWOGxXbFBqRE5Rcm1KY3c5cGlSc0FGSTZFVXYyT3RfbkRNd05zdmNnaDFFSUwwTGdONkpoLWpuZ0tidFRtNzNGb2ZFdGlPNjRSdEYtYUw2UTVMdklkRFJ3TF9udERkSXMxZEVWNGxYSjZwTHVsMUpRRklkSk9n?oc=5\" target=\"_blank\">Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWd5X0pDbTVMMlVfWUlnY2g4UlUtQUVOaHNzNVlOa2tjTl9iM2hJRC03YUtKM1BBNExBQ05BTTJxaFBBNVU3Y0lSUFp1UWtEb3JhMlcyN1hTSndqa2FUc3plYW9HUDRaRkNCb2JvMnNZcVYyWHBnZE1qdjdlTDJRWXZQczlxS05yTi03d0NtN0xBUnJvUnNGZNIBngFBVV95cUxNU2ZKelJwblN1SjkzYi1DUVYxVVlJSVptcF9WQmdDcnFiRl9ObUpMWE5GZEZrdmdLTmkweTdqZTBTcWNIUXlEcVB3SllDQno4RUd6T2RTM1Z5MHJIbWpYZzNYRV8wa3I5YzdwczBHLUVvNl9NZXVNNk1KMGdWWUdVNXpzbVByTFBNdVFQdHNYOXgtdnBVc1BHNXp3ZEdZZw?oc=5\" target=\"_blank\">Russia launches heavy missile strikes on Kyiv after Ukraine drone attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDF1bGxDaEU1TWsxWld5b090NmZSbms2Z3pxNXVTZHhtTktNV3drenY5QjBtTWFwNlQ3Z0F5Z1NPY1Q5WGQ3REk3ZHNIUDZudFc5YnpDV0JxOTZ0RC1BZE55WUtubEljZnlXSFI3Ty1TMXotdzJtaDZJb1JfdVZCdDY5SkVjYVhudEdaeldKZ3I0dDdwZUVSZmhWemQyOFF6U0RKbDBxZGlpc1JhVzEzVm5hdm43aUJEQlRzcGIxVXo3UlhoY214cFllU2Rnc180R1cyLXJR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "Trump Mobile Phone Review: My Long Weekend With The Golden T1 - CNET",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNET",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8zNGlGWktkV0oyNTZfVzZzY1lBajc4YVktdzVXUno4QXQtMXRwVjJZLVV4aXpUZzJqZW0zQ0JxLUtZZWkyMTdWN1ZteTl6TWQ4VEtPMVc0TU9yX205cmFYTEY4STNLanl0ZjNLOQ?oc=5\" target=\"_blank\">Trump Mobile Phone Review: My Long Weekend With The Golden T1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3BRS3NNbm9INTRVSFdiYUZKQ1EyYTVCcmowVm9QczRBbUhHRWtPQTNFU3JnVEg3ZC1SX2xfdzk0VXlwUUVWWnRpRWN0RTVkTjFXbGZkN2pOblN2Z1FETW95dmlnYS1obVhxdWpGZHhCcnJYN1c2SUplUmlKTmFKMjNUT1Q0d1ZTYlJQdWI5bkRGWTR2S3B4M1oycllFcUh4NlI4a05NNA?oc=5\" target=\"_blank\">We tested the Trump Mobile phone. It was 9 months late and no longer \u2018Made in the USA.\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNODhLYk1DS2RERHRUcUFHT0RodUZDN2RlVW82SVk2Q21VNzlZWUM3TkdaSWFPTDVDaWNWNGNLaGVscHAzRVBVQ0pHRnVsc1BKdE9kZEk1R3NYMWJ2OVFLUjFoZElQQ3V5VTBmNWpFbXJ6NDJmckV4dXpMTXowTTJ4Sg?oc=5\" target=\"_blank\">Trump Phones Are Finally Here\u2014And People Aren\u2019t Happy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ09JSUVmb2pJQlM0SjFXSjZQVGdqZFFRTmtvV3ZUemNIWWkzZjM2aHhIRS1EeWpSSUNzSmVXWVN5RUhxZWc5SGRWZEZPN3U0dWRvNlFfenhwbFhxaWVlOXlXMnhhM3V6czViXzV4SGxCZ1hTWTVkSXB5TzQ4Y3VqTFRZLWVqc0o3ZUZnNVgxajNsdDVfTFRaX1VPOUlBbmZKNnJFNHBrVWt5T2dTamNBbllyOUFQdFZpemlMSGUyWi0?oc=5\" target=\"_blank\">US Senator Warner, Democrat and ex-telecom exec, questions Trump Mobile's claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUNSY25HOFotalZfbk1FbWVoOEUtdG1QaXZqRmNzX2pJdkljb1gwbzNzVVB3NEpyTl93QmFsTzdIamQydnRMRTNxZW5reFFqX2ZWR3ZuR0dIek5oY3o0cXlLbUY2ekZmY3VyMEtOcjF6aGluMTYwdFVBd2tCQTl1cnNwU2o0Q0ZKUU1IcWNudXJWMEhXSlg4NkFhaFNQaE9IUUh6ejFlSS03Wm8?oc=5\" target=\"_blank\">Colbert Reveals the Only Thing More Disappointing Than Trump\u2019s Phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zNGlGWktkV0oyNTZfVzZzY1lBajc4YVktdzVXUno4QXQtMXRwVjJZLVV4aXpUZzJqZW0zQ0JxLUtZZWkyMTdWN1ZteTl6TWQ4VEtPMVc0TU9yX205cmFYTEY4STNLanl0ZjNLOQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate - BBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVm80R1FkUnZ2RUoweDRHRGZUak1XOF9VWS1YaVZYaE92OUFZUzJqcWNFeEZDdGZva3FEcUgtemgwXzBfOXBidk9NR3B1ZXZidFlzcGExZmt1Zw?oc=5\" target=\"_blank\">Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1hLQUZ0ZUtfY3dXY1RoSFV1cUVNUHNlY1NvblJjMzFNZHVqVzFBOWFTWVpyTmZaQjNKUFNjZXMzMUFxWm1IYkxacmxabkpfLXBnTHZab0FsVU0zNkxHZEdpRFhqOEIxR2MxNXhlaEdONzdNMndpa1Jla1ptcGI3MF9POVc2a0NnY0pob2NVMkpFc2IwMWVIWENNaVBWYXJ3ZGpHS2xQYzd0a3JkMElYVHhLRQ?oc=5\" target=\"_blank\">Russia blames Ukraine, vows retaliation as 16 killed in strike on student dorm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVh5ZXMtYjRNWUdqLUpTZmNzRWtkY1VSX29TeG5SRzA0MUZseWRhUHRaN2ttcVM1SzZ4dmZ4Zkc1Y2oyTFV1VjVpM2dHZHBpS1hmb1ltY0pyb2dLbjFJOHpOdENZVjJKV1ZJTDdfbG1TRkN3TC1LTE5vZXNmMngtVHBWaHlkRE9FMEp1RUNmYWVNUEwxalHSAZYBQVVfeXFMTlM5NGN1ZGRhcF9FdTBzeE9WTG45dTR6cUlpWjN2UGRqMXBrbVRPM0xkSmRkdXF2NTJ2c3NiQnBBb0pIYWVDYU03WTFZOVZtUzZ5VGc4cnVSbHA3bHpnY2lPU0FnMGVrc1BIZ1ctdFhJRmVma2pfMlIzQVZxaDlqWGpQWFgyc0RGRDlvSzZOZDRGMjd5eEtB?oc=5\" target=\"_blank\">Ukrainian strike in Russian-controlled area leaves 10 dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEMtMU43OE9zSTZlR3JhR3d6VVA1X2Y4cTRiQlZZTmRRZmRfVnQ1NG9sTFM0T1FTVWpwbEN1RFowd1Y2ODdJTEZlTG9VYTEzVUtvbnF2Vkg4ZnMtNkhTYTEwcG5nN2x0d3Z6d0llQ0pwNnVDTkJQYXdpV2thV3ppeF8teEJKdGtRdGhhLXlSX3pWTUU2bXp0VTkzVVgwNE1XcGJwOHY2NHBiendZVXFsOEhldWVyaVd1ZEQyNzdpMmF1Z1dYTEtadzQ4eGdTNVdKdkhoNENtRlpILW9NMEtV?oc=5\" target=\"_blank\">Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbmN3UTJLN0hid29sT2QyeE1ReGNFc0ZvRVFfMGpXd3ZqUzltVlBzN3dWLWszTmQ0WTg3RVo2cUJleWFnNkFEWEUycVkxYnhNYUp6cG4zUQ?oc=5\" target=\"_blank\">Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVm80R1FkUnZ2RUoweDRHRGZUak1XOF9VWS1YaVZYaE92OUFZUzJqcWNFeEZDdGZva3FEcUgtemgwXzBfOXBidk9NR3B1ZXZidFlzcGExZmt1Zw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Spanish police beat and detain returning Gaza flotilla activists amid clashes at airport - The Times of Israel",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.031578947368421054,
+          "source": "The Times of Israel",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHA2ZXVzMXB4RVhDdURqU1l2VllmRG1NX1NmOUZxUmlobzEtTTE0bXJ1aEpDQ2NURXdqZzFsNVROM19RQmZ3WC1MN1ptWlVXbW0tSzhaOEdUMU1MVFBMUEtRYnRIUzVRSnc2MGw0SVN6Qm1aTms0djNGOGN3OFVHck53OE5MdEpySm5CZE5yQ2dtWW9VcnJRZEx6YWVVS29KRnVKa0h5SUhjOTFVMXfSAbMBQVVfeXFMT29SZE54a0FlS2RIVUNxVW5TU1NFNUtlRmNkRVU5bUwwQk9CMHJLR0J6dTlaajFXTlNCRDBrZ191cXU4UElMbnpPZDAzamdWamswemxSbTZxeUVRcmJfWlpQOU9DTThRbER3VUNnRUc5VUtVU2pQNXNDd2xlaEk2Tmo5ckloYUpXalAzYWxscEQzTHFCdHo5bXB6SFRDLUd4NFlLR3dRU0xKMGhKendxZGNpYVU?oc=5\" target=\"_blank\">Spanish police beat and detain returning Gaza flotilla activists amid clashes at airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5SlB0SENVNkFsOG03WThCUG5zaXRwSmZJY2xtYmFWdkdxU3pval9LT1NYRWg4dE0yeTFDVHZjU0FsT2w4V21Xb3pEeC14dkNockdObA?oc=5\" target=\"_blank\">Clashes in Spain: Gaza flotilla activists beaten by police at Bilbao airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ynetnews</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZV2N4czNHX0o2dUFsdFpydGxDd1l5UG0tSEtTNWRDWHJ0V3FSWlFHb2FYTVdMdV9vT0dnUGpJR2pPS1A4bVZ1YVZCMEFrbWZfX25sV3RpSzk0Q185TWVJZjc4SUs5b05SSEdZTVRVZE03ZHVU?oc=5\" target=\"_blank\">Basque Police Beat Global Sumud Flotilla Torture Survivors In Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Out Loud with Ahmed</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VT0FBREwyaTJObHZCcHdnYlBTYW56ZnZNc0VVMkxSbXBhR0VXMEdzVUhoX3VDUTNBT3pzVEMwQkx0eGFmNldzb1AtZXVQUzVsSlJSTUdzZVYtSVF6OWJz?oc=5\" target=\"_blank\">Spanish police filmed beating Gaza flotilla activists as Israel jabs back at Madrid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQWQtUkF0UnYySDhseEZzYU0wdFpraUxxLWVtY0NUNXp6Ul9YVmdVbzJvYjJQenl1LW9yR1FuNTA1ZHhTbEozQmtsNldjQjhfOWlvZTFWMXB1TWNabHhzVUV0VXRjWFRRTllIcVZVbmpqY0ZXdVhobnRISzZMaTJXOFBoNEc4STliTjVmdzVsa1JCYk80YlpMRnFKcjJ5VnpHMjVTSDhvbjM2YkhDYW9zLUxfSE9BYmgyV1Y5MWtZaUp2bFQ2cmJ1YjRRaHJQWWVmOTVsOWFfRS0taU5vbjBtcWxwRHlkMm96Nm92Vg?oc=5\" target=\"_blank\">Licensable picture: Protesters welcome Global Sumud Flotilla activists in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters Connect</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHA2ZXVzMXB4RVhDdURqU1l2VllmRG1NX1NmOUZxUmlobzEtTTE0bXJ1aEpDQ2NURXdqZzFsNVROM19RQmZ3WC1MN1ptWlVXbW0tSzhaOEdUMU1MVFBMUEtRYnRIUzVRSnc2MGw0SVN6Qm1aTms0djNGOGN3OFVHck53OE5MdEpySm5CZE5yQ2dtWW9VcnJRZEx6YWVVS29KRnVKa0h5SUhjOTFVMXfSAbMBQVVfeXFMT29SZE54a0FlS2RIVUNxVW5TU1NFNUtlRmNkRVU5bUwwQk9CMHJLR0J6dTlaajFXTlNCRDBrZ191cXU4UElMbnpPZDAzamdWamswemxSbTZxeUVRcmJfWlpQOU9DTThRbER3VUNnRUc5VUtVU2pQNXNDd2xlaEk2Tmo5ckloYUpXalAzYWxscEQzTHFCdHo5bXB6SFRDLUd4NFlLR3dRU0xKMGhKendxZGNpYVU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "The Booing Will Continue Until Commencement Speeches Improve - Gizmodo",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Gizmodo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcW9TM0tuYmdfUnA0SXBzeU13MGtndUFfVTlnZ1hidGJtQjJjMU9FcVc5VDBQSE1RR0M3S1B4anRtaVFTNGxHSWk1aVlCSjFJdElKcWwwQ3JJUC1EbHRRVnRFZGFlZUdUNlpwVFQ2ZTV6MXpOLVFkeWY5d0FxWjJDQUhUMkZTa25KUlNXclVVbktXejN0U1E?oc=5\" target=\"_blank\">The Booing Will Continue Until Commencement Speeches Improve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUZDR1FRUnlQM3pLNVEyNjBIX0dWb2plYmdiSHJHWjFOd19NWXh6ekpGcncyWFJ6V1FKaklSZlJyOVFEMnVMNXFqUTNhbm9oaFhfRk1sVV80bDB2QXN1MGlfTnVVT04tdjJVNkxTWENlV0Y3ak9xY2RpWklHcVlaa2J6Q3ZEQUtweDVpaEllRlhKYzVGMFNfTXJHNW9WMkxydFBtNXBR?oc=5\" target=\"_blank\">Here's why people are booing college commencement speakers this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnpGcDNERTNKc2hlMHd6Z2VtYm56Z0JtRXhveUxVTEFsWXJiY3lpeWdBMGJwaVhLaXVITEFjSXl1SXUtbFplTUZoR1NnUkFqNkNfRlBhMk9FWVdlenNKOUJpS2djUm1SX1BubXNKWlhDbU14YmQ1XzU5NU5PaENZdDRNa1ZzUzJjMm9uQ1JfQ2Rfb2NX?oc=5\" target=\"_blank\">\u2018F*** this guy\u2019: Graduation speakers keep getting booed for talking about artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXBVU3E5OFVoNDB2RlZLNnBsLW1tT19MRVFvdUFpdE9iRnNfUEpiOXIzRzVZWjZzeHhRVEo3enNKU0pvTGdscWw1N2J4VlJNTG1aZl9rd1NMU1pTV0RaSHFLanpxUnVHaXNnRUNXVTB2QlRJbnJWQ0h1WEp2dHcyck5vTUdhZw?oc=5\" target=\"_blank\">Why College Students Are Booing AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGx6WnJCR2ZMSXVMbzdTMTBFLUROazhOaFppcTVuUTU2WDctZF9KVDNQeWlUbXNIcDZKbFYzbmxhSURjUktfRzVoX09CV3VzRC00SzNUSzN6MnUweFAxczdjSGFINmNNNndGUmFnWklzUEx4V1dYa3NSX1ZYaXMxX0dVOUZERHVHcUhWLVZwM2F3SWJSWGw2TTd2NFJXUDJjVl9wbjJkMVh4TnlnbVlINQ?oc=5\" target=\"_blank\">Meta Is in Crisis, Google Search\u2019s Makeover, and AI Gets Booed by Graduates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcW9TM0tuYmdfUnA0SXBzeU13MGtndUFfVTlnZ1hidGJtQjJjMU9FcVc5VDBQSE1RR0M3S1B4anRtaVFTNGxHSWk1aVlCSjFJdElKcWwwQ3JJUC1EbHRRVnRFZGFlZUdUNlpwVFQ2ZTV6MXpOLVFkeWY5d0FxWjJDQUhUMkZTa25KUlNXclVVbktXejN0U1E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Walmart shares a dire warning to customers - thestreet.com",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.025974025974025976,
+          "source": "thestreet.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUzNXcF9OeTIySlYwX3hWdV9uLVRybzdoVEMxaE9jUG15Q2RzeG13d19WWlVjVG5EcDJta3hONVY5SlJzRDJIWnVRWXNDYmo1ZzRLUEs5QjNhYnhhUkY0V2diaUlRazlweEhlNjNjZEpGMUVHTUNiVWFBYzU5SmVUVw?oc=5\" target=\"_blank\">Walmart shares a dire warning to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBtOS15eV9xWHNjUmx0blE3c2docUEtU2E5WUIxQl94VWdPQTFUZ1hnQzFudXBOazVkSHNSRlFhaG43YnNFV1diQWJvZkpKRmMybjkyOUUtQndtcjUzTFdYUzhBX1Z6UlVIS2FyYlVuSVlGQ1XSAXhBVV95cUxNUG95TGo5R3VBZnJaTkN4Zm1mbTdVdXByTy1iQ3paZnllRHR1ZmhibzZjUXRWbkZBbzl5LVl2OWxyOEZ2cVhEUnNObk9YWE91bjFNUE9WNGpqelhTdUZWUU5rOWZlUXBDSGxjeXhZS3ROaFdoSVFWajE?oc=5\" target=\"_blank\">Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVExGbHJaRjd4R2gzX1VfSU03dU1PRGlncUtiZ1oyOEFMS0dRSnVjcERVSVVseWkxUUM1TnBnX05zWUVKWGZhOXphWWF4MVR5cG5DdXQzR3c3cEdQcUMwOGVyNlVuUExVWnE3dzlmMmtIRWg0bkplN0ZhYjdLZ1h1QzlDa2dlU3VoSmk1alRRZHk0MUFi?oc=5\" target=\"_blank\">Walmart signals it may raise prices in response to soaring fuel costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpzOTNkd2lqbVhPZ3hpck1hZDFfaVFYbWNVQkFoNUZfSEIzR3drdHVBNDVtbG50eXhFb2Qta3JCOUQyc216UHFrZzktSFV3alRrUnVlNjBaQ3d6emg3VzhGQlFyZFprakt0YV9qZUdHdmtZWW1obUJwXzlsOU5sQ0M4ZDRPM3c?oc=5\" target=\"_blank\">Walmart Sees Signs at Gas Pump That Consumers Are Stressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEdiU1RwVEJpaUllMWVpYy1RbnBBbld0dVk0bzNpNEdfak5mNzROc2ZPWVpEVGwzaXc3bEdPdGlxaGdBcDVhZnZGX3lldUp6SEVhR1pIZHQ4TWZyZmVDb2NNYkZXemk3emJiQk9GbHF2MXBwQS05eVNwTzhCcTdpaXZpdlNTUVNLVWFqQ19iUWN2b010VUNRTDNGalJsTDRSdzN2Z09sd29FLTBSd2hVMzVuTFZFaC10VUx3Y1h0VlBtMnJzc3hUYzJvbzB5eUxGYnp3NkFyY3RHelJf?oc=5\" target=\"_blank\">Walmart stock just violated a key technical level, delivering a blow to the bulls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUzNXcF9OeTIySlYwX3hWdV9uLVRybzdoVEMxaE9jUG15Q2RzeG13d19WWlVjVG5EcDJta3hONVY5SlJzRDJIWnVRWXNDYmo1ZzRLUEs5QjNhYnhhUkY0V2diaUlRazlweEhlNjNjZEpGMUVHTUNiVWFBYzU5SmVUVw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Britain Preparing for Mission That Could Clear Strait of Hormuz - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlvelJfTS1RU19JMTEwRjg0UXM3UGVSOW5ndUhBMGFlVjNWN0ZSOVFEY1Z2VHZIQUt6WmFCQnBHYmdPSVFsWDZaWk5VLTJzbVJOTy12eGdQZU55V2xpWDJ6ZWNHOWxnZnFCNGxhN2tkempscE9tLXBjTmpDRjR1dDhBT01SZWEy?oc=5\" target=\"_blank\">Britain Preparing for Mission That Could Clear Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2xEOTVzWWRpbTUyc1ozc1Y3U19DeDh3MEdKSjVOeW85MkMzdkVGZ3JOZldFUUdFOUVpQUk1NVpHdk9NcVBQX2RfOGJHZmVDcWNFNWZ1TFA5NXNSU3dtdWd5ZWQ2bml2MXpKckNCcmUxUk1kQVdRemI4RjRBazZfVTNXVklRWEdLQUNPSnlmbTFSTUlURHgxMXlJZzdBellINlZxQzYzZExzTURRaHZBRXRmZy1TVVQtOU5QZlc4SXU?oc=5\" target=\"_blank\">From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWNqU285RGxNVlQ5UTlyNnF3aExpaFJuRGZEMjVhaEd6UktfM1A5eEVEc0xlcGNqWm9wQjZmQU5vX3h1ZWVMdDVZeEplZ3hVckFvYXdpeUFMOFRkVkVWOTdJYjV4Q051dFE4eEE4b1RoOXFOZE5uN05kaEhwM2ZkUGxmS1RPSURUNm9Md250VXU0ZG9EZ3lqMA?oc=5\" target=\"_blank\">Britain\u2019s navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1hKNjB1NzhVc05JT2VKYVNza19hQVBNdUphaGxDcTdpMWV5UTZoakJDUmx3SGk5TUxVcDF1NGhYdng5a01pQWhvS2dPRjVQVmhoLUpwYTZWV192Q1RjZ2JlVkJqaFgwRHBtaHNKMWdjb3FEeTlBcXlReDJleXJzOV9R?oc=5\" target=\"_blank\">Sweden \u2018open\u2019 to NATO role in reopening Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjBDdXk3YTNUQ245NnIzWC1FaWlTWUxCSVRnU1BZUmhKbVRJQ1FkUU5QWXRtYlYyWEdyQkVDOUxQNnh3Q1JJM2tIZktVamtGZjdfck5ZenlUMm1sZnR5QlNyR18xTHBNYWNPdkNDb2dmRTR6VUZoMWM0VjczUmZndnZ3ZnQ0dGs10gGIAUFVX3lxTE5CZ3BhZVJzeDN2NzNINWttdWdDTlFOREQ0U2wzbGNjRjdncENseUpzOENvWVMwbFU2eDhHdUh5OV9SUlFYYnFqOEs0MzFWZjRtbmpWOXdRdUFHRmJlYTBvaEk3dW94aXdOcXdvdkxBbWZrcjI1ZlVXTWF3STY1em1FQ19wSFBmaEo?oc=5\" target=\"_blank\">Amid Iran war, Germany reaches out to Gulf states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlvelJfTS1RU19JMTEwRjg0UXM3UGVSOW5ndUhBMGFlVjNWN0ZSOVFEY1Z2VHZIQUt6WmFCQnBHYmdPSVFsWDZaWk5VLTJzbVJOTy12eGdQZU55V2xpWDJ6ZWNHOWxnZnFCNGxhN2tkempscE9tLXBjTmpDRjR1dDhBT01SZWEy?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Tens of thousands rally in Serbia for antigovernment demonstrations - Al Jazeera",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Al Jazeera",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjRLVGRfTDVnc0VCdzBVR0N1Z1YxYV8xQ19NcXpJTXVGSnR6SFVSdkNONlBIRnpCWjBrazZYckc4U2FpUXF5VC1lNXBva3dsNXEzMEFNVHlIYkxUcXhNNkpDd1F3QlAzM1Z1RHpjM3VRQk9Va2ZZQTdEZWxaZXVyZjM1ZVVJdmg3eVB4Sm5ENVR5WDF4V2NQSFFxc2swR2lSb0QtSzlESHJ3Ulhr0gGyAUFVX3lxTE5kQjllT3lKLUs4clZmX1NhamxXZ3Jpd3ZmVjdhZzN6c1FUbldfMVJvMjRRVjRWLVVYNExWQ3kxZDJmRFNVazB1OThGcklSaTMwaHRNN1d3SGY3UTctTFNuaFVOMXlzMTFPSi1xRTZGM2JfaWcwSWREUDRyMU43SFpJV3oxNzh4eWM2enFYUnY0cjExUDRGVUlmR2tlZFNDbFlfSXVrUXMyOXZLaXloekVKSEE?oc=5\" target=\"_blank\">Tens of thousands rally in Serbia for antigovernment demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1BmRExoSVJYUmloTUtwbGRwdWxpRk9GdFFhcFhIM0pyNlNZaVFQNXdXWjRRU1otczd2NTl1eXpqWVNiczJOaWpJN1N2S3lVRzBQX0ZqaXNZLTRmZ1hHdnRfX203d1V6YVJSMHNxZWk0OHp3ZVhudzlSazN6dXNOUGhnbWlRN2MyU0HSAY8BQVVfeXFMUFBOc3VUc3NwRVA4bHppbGdLMklfYXlzNlZNNTFiR2x3aF8wSXRKajRxU01yVGpSUWdTOWE1LXlDSWpwbU5iTEJJZGwwZ3N1RHA1NmRLUE1IZnh1eHgyckdoVDI1S2Y4UllzU3hrMHV1SDhTQzBNTjFTTmdWSU5QeVNzanFUNlpvWXhYeVF4QnM?oc=5\" target=\"_blank\">Serbian protesters clash with police amid massive anti-government rally in Belgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ05FeEpzZTdZWWdpRmhpQlRxT3J6Z01HZ0NNdWExS2stOUVtdEV1eWlDTl93aXo2VDJfNm5xVFBkMXkxcUxwaDhCMy1feWZDaE5NRVJXei1aTnd6MUp4Yks0MWNJTXdJVnlWdDllQ2lLVmVRM2x6UkdpX1BDU1VsNWw5RHBjRFE4Y2R6ajRWelh6YTJKQno3TWhMMzJkUEtNYnc1UmpIVW1KLTZkT1A2Y1pR?oc=5\" target=\"_blank\">Anti-Government Protest Kicks Off Serbia Election Campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1EtSGZYb1ZFSUE3Ml83aGJQNmYtSndBQ1hDVWdsbF9hcVYtQnhWYkxDV1REY2lua3cyN09hQ3pQOHEtRktlOHhJVHVCdGNfbUg4cVB4cUxNMS1EZnBmdmQ5QkI2eXR1aHFMRXNGc01NTjdmQUNtSTBLRmU1dWpYcG9JdUpJenlyYnl6UjJRRmg3UUp4bUZvMzFkMEJpNnl6bDl6Qg?oc=5\" target=\"_blank\">Police and protesters clash in Serbia as crowds demand president's exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMFhmeGFCVDRSNDJDOUhQZHRLNTZ4SG5kTk5rcjRIeHFKcUlOdTJLZ3BfWVZsTERLODBBWGpvekRHZExQNU90MlZPdzB1UkprTWNlUUdPTDczMzFjbmpIRGg3SmxmMnVKNnZuOE5kOUJoYmVtVHNzb0FFNG12MmVuWXZxMA?oc=5\" target=\"_blank\">Tens of thousands rally in Serbia demanding elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjRLVGRfTDVnc0VCdzBVR0N1Z1YxYV8xQ19NcXpJTXVGSnR6SFVSdkNONlBIRnpCWjBrazZYckc4U2FpUXF5VC1lNXBva3dsNXEzMEFNVHlIYkxUcXhNNkpDd1F3QlAzM1Z1RHpjM3VRQk9Va2ZZQTdEZWxaZXVyZjM1ZVVJdmg3eVB4Sm5ENVR5WDF4V2NQSFFxc2swR2lSb0QtSzlESHJ3Ulhr0gGyAUFVX3lxTE5kQjllT3lKLUs4clZmX1NhamxXZ3Jpd3ZmVjdhZzN6c1FUbldfMVJvMjRRVjRWLVVYNExWQ3kxZDJmRFNVazB1OThGcklSaTMwaHRNN1d3SGY3UTctTFNuaFVOMXlzMTFPSi1xRTZGM2JfaWcwSWREUDRyMU43SFpJV3oxNzh4eWM2enFYUnY0cjExUDRGVUlmR2tlZFNDbFlfSXVrUXMyOXZLaXloekVKSEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "World leaders warn against connecting Jerusalem to Ma'ale Adumim - Israel National News",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.024096385542168676,
+          "source": "Israel National News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmtjM3djV0lDU1A1SUVTQWxMODFzZkNfU3BvZ2Q0emppX3dCdVdEWW5MY3ZkT2YtQUJYOXp0aTgyMUd5MEFKdTh6Yld4OWhURHRQcS1DZ1k0UQ?oc=5\" target=\"_blank\">World leaders warn against connecting Jerusalem to Ma'ale Adumim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Israel National News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNODN6dkpnd2hObHd5MXFmYmdhTndRNE9QbG5Mbzlsdnd4VF9adllDVTI1R1NnQ203aHpHM1NIeklwQnBpc29lLWRvNTJqTUsxQnVTSWdNMVVsVU1xM0U0X3dMcHF1WlRBU2xFX2doYWo1Y0hWcHJfejZmbzViLXFvd05uck9Gd2tGYVZ5elB2NUVKUXBfVHA3YURlb3Z4dUZjbDFEWEM1WmlQM2w4SFdB?oc=5\" target=\"_blank\">Western powers press Israel to rein in settlers, halt expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlBOMjQzdUNwRkVXd0NjcHphTmhoZDlRay1SRWY0YnZJa3VTTG85M1VfU3E0bTdFSFJtT0tJUUROYmlQVXJpc3JwTWg2Rzd3VUNYZXV4QzJ3SVFXRlV4ZEgxXy0tUXdzaVQtSFFhVTdROUFOSlhycDhKbkIzdEphYUc4dk15Y1dMb0w4ZXBObw?oc=5\" target=\"_blank\">Joint statement on the situation in the West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pm.gc.ca</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLXZGY0t5NHNnRjF1Rk1WMEd5V2lNUzBmMHZhRnE0UlJqOUNjd1V0NlF2Rk9jNGQ3Y3hMdF8wa3FfTm5rbFVqdC1uS2w3OWROSUo2Z2EwYUxUYkVkSWs0SjJ4Q1MzS1RXcHREXzg2dDRKd25FeENyNURCS0lKV1I5azV2aXhCcjVuMWdCV1NCMDFqR0pkTHdpbndlbmdfNDR3NUxFRy1FS1M5VEZSOU0xb0NZRlFON1otNVhfZ2k0QTJtSUhURGVLWjZ6M0VrTDVmZEhYb1hUeEFCcXBKS3NyYlNTVnlxcDJYOHdXZldYbzUyd05aYnFnZA?oc=5\" target=\"_blank\">Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVENCczh5V0wzbUE5dWUwSlJ1ci1QX04yMzI1NDhLeDUxWEhzN0NtQjg2NDh2Vm5CaTJWNDJrenJTZVZ0YkhiblQ3LWlkTW16c3hHR2ZkNGNEUlRhdVI0?oc=5\" target=\"_blank\">Western powers condemn Israel for West Bank settlements, settler violence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmtjM3djV0lDU1A1SUVTQWxMODFzZkNfU3BvZ2Q0emppX3dCdVdEWW5MY3ZkT2YtQUJYOXp0aTgyMUd5MEFKdTh6Yld4OWhURHRQcS1DZ1k0UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "LIRR strike ended with solid raises for workers, but no reforms to costly work rules - Gothamist",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Gothamist",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGhuanAzY09SYk5HWVJHTXQ5MHVnY1BlbFBCRUx6M0RnYVd3S3lyZzRlTEwxRXNJSFlPdmp3NWpPLUR0Zm1rZUZiS2dOckh3ZEFkVkhYVWY0bkxCN09mSklTUEdYcDMtYnpWYkZ0TVZZRDE5XzJfU1pSZGhLbGdMUDFxVDJ5S0lKV01ZRndRLWtCYjF4VnU2ODlpRm1jdDFrWWdPcFp1Z0tFY2pVNkY4?oc=5\" target=\"_blank\">LIRR strike ended with solid raises for workers, but no reforms to costly work rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUJQeGMzMDZPZFBUaUY2TndCX0t1MXBnN2FrNGpuVWg1RURxMDUxNlNDR3JuVzM1ellDQnFWSHB2RUEzeWR1c0hLU0ZYWHBXMUNlV2lIaktJZDdYTFNuTTBHR3pWVjQ3QTRfMnVFeFpMYnppZUJNaEQ1NlcyazFDeThJT1lnRVViVUNtcnFtX201dWxYYnBzbDZ6Q2E?oc=5\" target=\"_blank\">Long Island Rail Road strike highlights commuter challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsday</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4tSW04THJTUTVTb09FUkQzX1hfbmlHZ2lod3hTZ0xadmM1MDBSUDJ2S1o3Skt4emtjZHZTVTRGRjk0dl85RjV3MjVoNVZrRDhqSld5WFV4elBFMDlwdXBKb0VaZXlRZmNybW55SUR1RVpQYm13aGluOGp3?oc=5\" target=\"_blank\">LIRR strike latest: What to know about schedules, refunds and the deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 New York</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzJPenlXZno2ZmFqUE9NYzZzc3hQQlVFNHhkYW0yWW1taVZLaHdrUUY1TzROZlFRZllsUVRkUFMtN2RoWnI3LW1FM3h1dFBIYWl1dEhiNFdCTmFEVkpoRlNGcG94cDNEM2MtWDNZZ2lRbjY3UVpKVDR4UjZvT2R4aTBfLUd6ZWFqdUR3V2VFczA5MkMxVXhFOGhiNkVBWjF4MEE?oc=5\" target=\"_blank\">NJASAP voices support for striking LIRR workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMS0zM2xVc2l3QVMweU1mUHotRXR4VmNVZGtUNW9pelJLZ0l3QW5DRHk0YWthakhZcXNndmdidHpfQ3I4cHNOOVoyYWdmZC15bkpaeDN2S0pLUGRXX2VCNDNlWlRmSFVucjQ3bw?oc=5\" target=\"_blank\">Long Island Rail Road Service Slowly Resumes After Strike Ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGhuanAzY09SYk5HWVJHTXQ5MHVnY1BlbFBCRUx6M0RnYVd3S3lyZzRlTEwxRXNJSFlPdmp3NWpPLUR0Zm1rZUZiS2dOckh3ZEFkVkhYVWY0bkxCN09mSklTUEdYcDMtYnpWYkZ0TVZZRDE5XzJfU1pSZGhLbGdMUDFxVDJ5S0lKV01ZRndRLWtCYjF4VnU2ODlpRm1jdDFrWWdPcFp1Z0tFY2pVNkY4?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy - Common Dreams",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Common Dreams",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVXFTdXZGWGU5UVJRLUFEOUhJRU00b2k1YkZ3X0NLd01JYzM2OGlGd2J5TmdqQklYamtRZjAxVDgwTlRBaXhaLUMwLUhqclZtV3M2UUFubEExTXFNbzBSM0xDNUhZVkNLSXZIbVdR?oc=5\" target=\"_blank\">'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Common Dreams</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlJKbGFybzVaOHVEWmhWcmEwb3h6Q2tjemYtbUkza0FJNGxDOWE1WjNZdVE4VTNpUWFzWnJIR2puTU1Ydy1pRm9VOWFQeEc1eHNydHVXLWllNVV1XzlsRDVjZUpxM3lHbGs0bGtST21abWtPWUFxVFdCVXJJNWVraWZEeU4zbWdMRWgtS0R6eGxJMFZWeUxNSGhtNGRBcWxxMkR5MjA3cmY2N3YtTDNkeG03ZGRRTEQz?oc=5\" target=\"_blank\">The Fed's worst inflation fears may be coming true as consumers lose faith in long-term prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWTJGRmtYWUM4WVQ1VWhPNTNSNy1ya3g0NXdpTlUxT0JBLVJBQ2hJRmFhVW9KdDRvbTJlR2JTTUk3bVh5WEQxRlB0d19vcFNxTGI3eUllUVdpTWl5MF9iNVRENHM2eWVZbTEwcXByR2Nkai10aHc?oc=5\" target=\"_blank\">High gas prices, cost of living send US consumer sentiment to all-time low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnpOUHhBNHFRQXhtX2RXUGlWZlVBajVLUml5LXFCVXd2cjNrUFRleWhHYmdIbW5yNlhaWU9VS1laM1VZRnRGLUJfcjEwT0hEUG03T21MSmhoZlQ1eksyazdReFpzSlY5c1RqbjJqZEZ0ejhycmpYeHZTS2JTNm8zdzJtczFzOWRFSkdtaGV6OTJ1QnJHb0hmaDg5WGl5czdiTFRkQmdZdGZrOWVnbzdKdWpZdVBHVDF1OVE?oc=5\" target=\"_blank\">People Hate the Idea of Losing Their Job Even More Than High Gas Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZmZBcDBXVVkzN0JLdGx3dnJDb0huVVo4em5mQnB5eGVHWW9rRTJLX29DV01pR2NzUm1Ud0t1ejR3NEhPMXNtUlhNNVppSVJ5SF9PdjN6SzFCYk1ib2hXdjRMOC1RRkNEazZuS2Vn?oc=5\" target=\"_blank\">A Whiff of Stagflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paul Krugman | Substack</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVXFTdXZGWGU5UVJRLUFEOUhJRU00b2k1YkZ3X0NLd01JYzM2OGlGd2J5TmdqQklYamtRZjAxVDgwTlRBaXhaLUMwLUhqclZtV3M2UUFubEExTXFNbzBSM0xDNUhZVkNLSXZIbVdR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Iran Progress Seen Amid Market Bets; 6 Stocks Near Buy Points - Investor's Business Daily",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.039603960396039604,
+          "source": "Investor's Business Daily",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5\" target=\"_blank\">Iran Progress Seen Amid Market Bets; 6 Stocks Near Buy Points</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB6Z1RlN284dVllbnhMYUlsajJBQVRNNzI2dUJETlpNU2ZvRWZQMDI4WW5RUnQ0UDVhSE9sTnQ2NF9kODZ1bUV5STBlVmt3bWRGWVFqMkNnb2kwUGFqbThFc2ZGUUNvSWFCSUhYN19GdlZhUTlGbzEw0gF8QVVfeXFMUFBVQUFoSHIxTDBZcGh4Q3NFbHpEM2ZoTjZISUZIRk5ORGdVWndtY255RGhZd1A0ajV6MkxzTkpKcXpHM3gzMVB5aS1lSFZWUzRfVmlBaW10d0dHVjdMZzNKWkNzWkVRLUZiRWtZYl8yNWZSa1ZEeHJhX2JsUw?oc=5\" target=\"_blank\">Dow adds nearly 300 points Friday for new record close; S&P 500 notches eighth winning week: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUVhtY1NxdnQyejhEeHBaX2ZKODNOZkFtVEtIX3JJaWZLNnpFUHNmTmxvMElrcXhSd3gwUGpRck9RZl85ZHZkOGdnMjRyRUw5X1FJQm9CZ3llSG9hcDczVE9QdzQ0Z1RKdXRqTUltNUdtbi1hWDhZc3hNdGx6ejRPNGhoUDM5cV93Vkg4QWxMVFRLYjRqRDZSNDNwZWtHbUhNdmZ4dUdaV04xbnJlNE5zbDNpSzJpa2lXV0FlSHFiZnJuMVpxRFMxUE5QcUxsQ1I2N1Y1Z3RtNGxmS0F3Z2M1TjlyRVQ?oc=5\" target=\"_blank\">Stock market today: Dow clinches record high, S&P 500 and Nasdaq rise as stocks rebound on US-Iran peace hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0Y4ZUpOT1hZMENGdzcxS1ZrR0ZpeEdpTFBubGZqbkc0NGhub2FMOWRtLXpHdVplUFdVNWJONWttX2VrajYtVXRISDJUSUJwLXI4WHZ1UjZvWjFoQnY3QkR6S2JQQk41R0o0X1o3aGloQXAyVk5hMEJaZnoxaUVIZEI0a0ZWWERJTDFjdkIzb0FEWTQ?oc=5\" target=\"_blank\">Wall Street keeps rising, even as U.S. households keep getting more discouraged</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVVTcFY0b3RjYXYwV3VJbFN1enpaTVUtYlBJbWw3SzVubHJDeWF2MjhaMEdQYzJFdk5Ld0NGQ3Jack5mX0lhaVEwQlpJWS11S1lIY0ZuM2k3dm5Ic0RkUXA1SW5FM1ZxQ0lZTG1IWHJIbkpXSkVhMW9SdTVDLUFHRlBWUGNwVHhEQjhzcm85U0d1UUJsZVJuczlqS0QyczVxYWdBNmxycDQ2TVM5Mk13RWFn?oc=5\" target=\"_blank\">S&P 500 Is Set for Longest Weekly Rally Since 2023: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "This bond strategy can protect your portfolio even if interest rates go up",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
+          "url": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Nvidia can deliver chips \u2014 but it can\u2019t buy Big Tech out of its credit and power-grid crisis",
+          "kind": "positive",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.05714285714285714,
+          "source": "marketwatch_topstories",
+          "summary": "Corporate profits can\u2019t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Memorial Day traveler guide: The best and worst times to be on the road this weekend, and current gas prices at the pump - Yahoo",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "consumer"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Yahoo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1JaWFlLWi1tNU1tOEZSaGxOSVdyZ21sYWNmRGJtaXZVWkNWaXJmV1BSZHFuc1lRSzdRSXNvOVpfZWV4Z2YxWURrS3BmQVpmV3ZfOXVJX1B5M0ZaejgzMC1FZmV6Y0lSVlRCY0N1X3Y5eHV5LXlhTXNyWlF2Y3NwOHRYQjUxcnFfZ0s4b2t2YW11LVFUbUVVM1loUzJzY0s5VGZrR1N1MkxOUWVGWmNNa243MDNZLWdDcVpGeW1sZnZoTEJHOWpxbll0MTJkV0tCOXFjcUc0NWozZmhwRE9pYnVWSllrLVpCN3pHbUpmN2lkeFNpa2hBVDVac1BLeUZH?oc=5\" target=\"_blank\">Memorial Day traveler guide: The best and worst times to be on the road this weekend, and current gas prices at the pump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcV85bmc4SGsyM193XzFzbnN4cGV6MkZTOUxsVHU3V1dzc0hQMHN2QlU4dUFFMFNCT3dRRWhMckd2OW1ESU5mbVgxbG5lN0VmZDVtR0VMZzJLN2ZwY3JYNVFaSzdtY3d5QUpMcFpWMEtseEJHX1l1STN1Vkc2eUJleEdCdTBSMi1FUHZsaWRFbjFkSC1WOU9vZTZ5ZXgyaXhLeXlz?oc=5\" target=\"_blank\">Memorial Day: Higher fuel prices have some Americans scaling back their travel plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0NETHRJZnVOR0R1THdha0JXVWZZUGw0ZFd2cVViN013cGk5Q3FjSFg4SGV1RHJzMVRnTnAwMFFDRVpiZ3hXelVuZ0xpa0JYQU02cURLMDBJbzBnOVFPWDVLczZ4SmhjWmtFWmY4MG40OGhuY0JoeGgwUzJ3bXJscVlBRnFEalplM3pjYTMwR2stVWhPbWsxRVRFTW1Cdmhvc2lvcFVpaUNMNmNZemRIS25vZk5zbHVnamJfZQ?oc=5\" target=\"_blank\">War-driven gas spike puts pressure on summer travelers \u2014 and Republicans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPbkxoNnVGbGVRdFVKZ0p2R1hRaTd4YkNFTnZJcVVhajJsOVlMUjQtREpsa1BYcGZ6M0VXR3BRQ21ZQTRWYlNxa2NiLW9FYkFhY3l4dmoyN1d4TnExazh6b3ZYQ0pvQVJHeFlXcEZvYmpGT2picTZ3bkFCbG0zbVQ0WHdzX0RLVDVtc3A0OWVBeXJSbHJvQjF0dmhwT1FtWXZRc2p3SEZ2OEFYRXpxang4Sm95a0RGbmszWEtRYkFsZlcwaUM3Y2M5MklrMUdiSm4tMGJjdFUyMFRwNlZUZU5SckpSRHpLc25kUHRxTG9LTUhRdUpLcmJaMHZZR25ONGpWUzcyZjVHZnZoeldZMlI2NkZMNTJKQ0tm?oc=5\" target=\"_blank\">Western Washington drivers are skipping out on Memorial Day travel amid high gas prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5fYWhaTzQ5eGJTTjZDWXJhbXM5SktyTkM4Q2JvNEFJN0RGcnJrN2VDajJkdXFSWng0ZEpmc2J3SWNZX2EzUk9nY1NuS0xvaFpNLVFRQmhsM1Q5WlQ0RGJPOXV3ZFo5cWpNNDVwUi1ISdIBdEFVX3lxTE9nMTNLRXJQNVZ2X2daNmdpX1JuRDdXdHQ0dDFhRkUxM3pxaDdZT2FaN29pVWFsVk5xTmktQTlySk90d3l6MU1Fcm5iYXBNVElrak9tczQ4RXZ4VTFZZlZnQkFOUjFtcF9OY0U4bEwwb21MYm5u?oc=5\" target=\"_blank\">Spirit's collapse, high fuel prices test limits of summer vacation spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNd1JaWFlLWi1tNU1tOEZSaGxOSVdyZ21sYWNmRGJtaXZVWkNWaXJmV1BSZHFuc1lRSzdRSXNvOVpfZWV4Z2YxWURrS3BmQVpmV3ZfOXVJX1B5M0ZaejgzMC1FZmV6Y0lSVlRCY0N1X3Y5eHV5LXlhTXNyWlF2Y3NwOHRYQjUxcnFfZ0s4b2t2YW11LVFUbUVVM1loUzJzY0s5VGZrR1N1MkxOUWVGWmNNa243MDNZLWdDcVpGeW1sZnZoTEJHOWpxbll0MTJkV0tCOXFjcUc0NWozZmhwRE9pYnVWSllrLVpCN3pHbUpmN2lkeFNpa2hBVDVac1BLeUZH?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Kevin Warsh walks into a trap where the Fed can\u2019t cut rates even if it wants to",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.021739130434782608,
+          "source": "marketwatch_topstories",
+          "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy \u2014 forcing him to be something other than the disruptor he hoped to be.",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "JP Morgan Chase CEO warned of credit-market  \u2018cockroaches.\u2019 But opaque AI loans and excessive leverage \u2014 \u2018credit termites\u2019 \u2014 are hollowing out the economy.",
+          "url": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories"
+        }
+      ],
+      "company_exposures": [
+        "consumer"
+      ],
+      "company_profile": {
+        "industry": "Footwear & Accessories",
+        "provider": "yfinance",
+        "sector": "Consumer Cyclical"
+      },
+      "effective_adverse_effect_count": 11,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "consumer"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        }
+      ],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 7,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-22",
+          "headline": "PUMA SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxPczJnMjI5dDk3LWpHSk5uZjFSYy04bUlnSnNrT0ZTMEVOMi15ajEzYnpxbXk3a0FiN25Zc21CQTNhdE8yamtzUGFkRGNxYzAtaHl4MWYwdW5Gbk1XU3NuWEd3RG5KbXZRak9UOHl3SVJfYkh0NWRoQWpVNlhzblo3cmJGUHhOMWFPTVplSjdVbTQ0Y3BfakdIdWVpQUxCNFlCLU03ZHVtU1BaMnJVa1FPdGdxS1hSamw0Q1psdFhURGVqZlVZbHl4WkU5bDZhWFhiYjBXTWdEbUhxXzRIZzRPc0Q4Q2hfSENoOEFudU5FQndNc3RseXJiOTdpTTJuOXlTdzV1eUdEVERsYTFSZjdTSEQ2NnhEOHBQSjd1eGp5cEl4dw?oc=5\" target=\"_blank\">PUMA SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPczJnMjI5dDk3LWpHSk5uZjFSYy04bUlnSnNrT0ZTMEVOMi15ajEzYnpxbXk3a0FiN25Zc21CQTNhdE8yamtzUGFkRGNxYzAtaHl4MWYwdW5Gbk1XU3NuWEd3RG5KbXZRak9UOHl3SVJfYkh0NWRoQWpVNlhzblo3cmJGUHhOMWFPTVplSjdVbTQ0Y3BfakdIdWVpQUxCNFlCLU03ZHVtU1BaMnJVa1FPdGdxS1hSamw0Q1psdFhURGVqZlVZbHl4WkU5bDZhWFhiYjBXTWdEbUhxXzRIZzRPc0Q4Q2hfSENoOEFudU5FQndNc3RseXJiOTdpTTJuOXlTdzV1eUdEVERsYTFSZjdTSEQ2NnhEOHBQSjd1eGp5cEl4dw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-18",
+          "headline": "PUMA SE stock (DE0006969603): sportswear group in focus after latest trading update - AD HOC NEWS",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "AD HOC NEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzhzZjdHQmstbjdadlhhbV9saDEwWEtJdDVRaWo4Y0taTXFTMmVQVU9xR3MwSjdMNlREUUppTkY1d3B2d250MHo4SzdCRVVHc2EtV2FNc2lOaDZTMTdvSHpCVkJwR3o1djY1UWxtU19ZNFV2WkhhNXQ4ZjkxZkFRN1R4YXQ1VUcwamRvbS1YbF9tZTNudDVLd0pZVkh2S25mOXY4dkpBM3R3ZWJUbXpLLU5pTnUwNExpTENoRTNtb01BZw?oc=5\" target=\"_blank\">PUMA SE stock (DE0006969603): sportswear group in focus after latest trading update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzhzZjdHQmstbjdadlhhbV9saDEwWEtJdDVRaWo4Y0taTXFTMmVQVU9xR3MwSjdMNlREUUppTkY1d3B2d250MHo4SzdCRVVHc2EtV2FNc2lOaDZTMTdvSHpCVkJwR3o1djY1UWxtU19ZNFV2WkhhNXQ4ZjkxZkFRN1R4YXQ1VUcwamRvbS1YbF9tZTNudDVLd0pZVkh2S25mOXY4dkpBM3R3ZWJUbXpLLU5pTnUwNExpTENoRTNtb01BZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-14",
+          "headline": "Puma SE (PMMAF) Stock Price & 30 Year Financial Data - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fVEJXTVdOVEJ1V2FELW12Ul8xVEo1czlmVzFOdmI2Ny1YOVhLU3lmVGxCQ3NqUkcyQmJyTjYzeHZiQWpxcTV6emRRLVVxelZna1R6V0dxal9PMU5jSk4xdHBYQQ?oc=5\" target=\"_blank\">Puma SE (PMMAF) Stock Price & 30 Year Financial Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fVEJXTVdOVEJ1V2FELW12Ul8xVEo1czlmVzFOdmI2Ny1YOVhLU3lmVGxCQ3NqUkcyQmJyTjYzeHZiQWpxcTV6emRRLVVxelZna1R6V0dxal9PMU5jSk4xdHBYQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-13",
+          "headline": "PUMA SE: ASTAM Holding GmbH, buy - marketscreener.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0625,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0JBM0NlQTZSZTFJeUtyUGtIZ0RsQkNNVy1sb21BZTE0bFNlc3ZUTHBGYkhfcG1FMU8xYmZKaWx4T29FODRDSUhvaGJDQzhHdnkySzZrbkppYnAzS3B5X2ZfcEZEVlk2RUtEWmh3UkcteF9NSng3aEZlQkt4dXNvbFBVN25yZ3BMLVM4?oc=5\" target=\"_blank\">PUMA SE: ASTAM Holding GmbH, buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0JBM0NlQTZSZTFJeUtyUGtIZ0RsQkNNVy1sb21BZTE0bFNlc3ZUTHBGYkhfcG1FMU8xYmZKaWx4T29FODRDSUhvaGJDQzhHdnkySzZrbkppYnAzS3B5X2ZfcEZEVlk2RUtEWmh3UkcteF9NSng3aEZlQkt4dXNvbFBVN25yZ3BMLVM4?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-07",
+          "headline": "PUMA SE 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:PUMSY) 2026-05-07 - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPakR5QzN6NU03MDlPdFdBSnFETWFxbXh3Mi1GeG5Mc2JJdkcwSnNjZ1prbWh1eEd1alFuTUI5ZmIxcUh4Uzl3Rl9ZcHV5ZGw1ZVN3QTUxOFRnMDRUaW51dHRLOGtxa0JORkdPTnRTQjlrdktvdDlsaUJzQXRUVzlQUkRBMEVjU3o5eUVXUkhmR0NvcHRZY3c?oc=5\" target=\"_blank\">PUMA SE 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:PUMSY) 2026-05-07</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakR5QzN6NU03MDlPdFdBSnFETWFxbXh3Mi1GeG5Mc2JJdkcwSnNjZ1prbWh1eEd1alFuTUI5ZmIxcUh4Uzl3Rl9ZcHV5ZGw1ZVN3QTUxOFRnMDRUaW51dHRLOGtxa0JORkdPTnRTQjlrdktvdDlsaUJzQXRUVzlQUkRBMEVjU3o5eUVXUkhmR0NvcHRZY3c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-03",
+          "headline": "PUMA SE Beat Analyst Profit Forecasts, And Analysts Have New Estimates - Yahoo Finance",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.14285714285714285,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3JGejdZMENiLTVuR1hGNEVYMEREUlRtV05tQ3Vjb1VsQXRKalVoQmM0TklmZHBhQ3N4U3puZWJ2UEhNNGNUeTRBNHgwMUNkLWpMLXNaSGIyTjdUN3E5S0pSLWVYSFl2akkzMHo5UXYwVEhDTEM4Q0VGdmVlbThvT0pYanJOR1VTdWo1YlhMVVZNdTRMcEJR?oc=5\" target=\"_blank\">PUMA SE Beat Analyst Profit Forecasts, And Analysts Have New Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3JGejdZMENiLTVuR1hGNEVYMEREUlRtV05tQ3Vjb1VsQXRKalVoQmM0TklmZHBhQ3N4U3puZWJ2UEhNNGNUeTRBNHgwMUNkLWpMLXNaSGIyTjdUN3E5S0pSLWVYSFl2akkzMHo5UXYwVEhDTEM4Q0VGdmVlbThvT0pYanJOR1VTdWo1YlhMVVZNdTRMcEJR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-30",
+          "headline": "PUMA appoints Mark Langer as Chief Financial Officer - PUMA SE",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "PUMA SE",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmxITFVyVkJqaVkyLXpXc0N5Tk9ueDRiNGVzR2NBS204YmJzc24wNGVyZTBuUFpMc2gxd1hlZ190S2hwWWN3VEVWN04zU3JTWlhIYTlTcjdXeXZiUld3SGF4Mm1OS0taN1FLR0dsMHRTMnB2ak10VmRqaVN6d2phbkdaZUxLVlJEaTd3bklPdGRUY1h6d3JMUHAyTUszX0JjSnQxaFB3YkVXZWt6RU5HMExpdGZ3Zw?oc=5\" target=\"_blank\">PUMA appoints Mark Langer as Chief Financial Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PUMA SE</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmxITFVyVkJqaVkyLXpXc0N5Tk9ueDRiNGVzR2NBS204YmJzc24wNGVyZTBuUFpMc2gxd1hlZ190S2hwWWN3VEVWN04zU3JTWlhIYTlTcjdXeXZiUld3SGF4Mm1OS0taN1FLR0dsMHRTMnB2ak10VmRqaVN6d2phbkdaZUxLVlJEaTd3bklPdGRUY1h6d3JMUHAyTUszX0JjSnQxaFB3YkVXZWt6RU5HMExpdGZ3Zw?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 2
+    },
+    "sentiment": {
+      "days_sampled": 7,
+      "delta": -0.06845238095238095,
+      "prior_mean": 0.06845238095238095,
+      "recent_mean": 0.0
+    },
+    "technical": {
+      "atr14": 1.18372898877912,
+      "close": 28.78,
+      "close_vs_ema200_pct": 22.981959362976916,
+      "close_vs_ema20_pct": 10.96640833848372,
+      "close_vs_ema50_pct": 16.754580919529488,
+      "close_vs_hh20_pct": 4.616503089785531,
+      "ema20": 25.935776809331,
+      "ema200": 23.4018063698732,
+      "ema50": 24.649996405568,
+      "entry_ready": false,
+      "hh20_prev": 27.51,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.24031311516155
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 11,
+    "effective_adverse_effects": 11,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "consumer"
+    ],
+    "industry": "Footwear & Accessories",
+    "sector": "Consumer Cyclical",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 7 stock-specific articles into 2 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 11 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "conflicting"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-24: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Exclusive: What's inside the Iran deal Trump is close to signing - Axios."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-24: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind): Iran War Live Updates: Trump Says Peace Deal Is Near - The New York Times."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (27.51), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.24, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-13: PUMA SE: ASTAM Holding GmbH, buy - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-03: PUMA SE Beat Analyst Profit Forecasts, And Analysts Have New Estimates - Yahoo Finance."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 27.51 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-05-24: Exclusive: What's inside the Iran deal Trump is close to signing - Axios."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind, Oil supply shock / energy tailwind): 2026-05-24: Iran War Live Updates: Trump Says Peace Deal Is Near - The New York Times."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 4.62
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.24
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 10.97
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 16.75
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 22.98
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 11
+      },
+      {
+        "label": "Headline sentiment is deteriorating",
+        "points": -3,
+        "value": -0.068
+      }
+    ],
+    "confidence": "high",
+    "label": "mixed_watch",
+    "score_0_to_100": 56
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-24",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-24_universe_5_EU_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-05-22",
+      "publisher": "TradingView",
+      "title": "PUMA SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPczJnMjI5dDk3LWpHSk5uZjFSYy04bUlnSnNrT0ZTMEVOMi15ajEzYnpxbXk3a0FiN25Zc21CQTNhdE8yamtzUGFkRGNxYzAtaHl4MWYwdW5Gbk1XU3NuWEd3RG5KbXZRak9UOHl3SVJfYkh0NWRoQWpVNlhzblo3cmJGUHhOMWFPTVplSjdVbTQ0Y3BfakdIdWVpQUxCNFlCLU03ZHVtU1BaMnJVa1FPdGdxS1hSamw0Q1psdFhURGVqZlVZbHl4WkU5bDZhWFhiYjBXTWdEbUhxXzRIZzRPc0Q4Q2hfSENoOEFudU5FQndNc3RseXJiOTdpTTJuOXlTdzV1eUdEVERsYTFSZjdTSEQ2NnhEOHBQSjd1eGp5cEl4dw?oc=5"
+    },
+    {
+      "published_at": "2026-05-18",
+      "publisher": "AD HOC NEWS",
+      "title": "PUMA SE stock (DE0006969603): sportswear group in focus after latest trading update - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzhzZjdHQmstbjdadlhhbV9saDEwWEtJdDVRaWo4Y0taTXFTMmVQVU9xR3MwSjdMNlREUUppTkY1d3B2d250MHo4SzdCRVVHc2EtV2FNc2lOaDZTMTdvSHpCVkJwR3o1djY1UWxtU19ZNFV2WkhhNXQ4ZjkxZkFRN1R4YXQ1VUcwamRvbS1YbF9tZTNudDVLd0pZVkh2S25mOXY4dkpBM3R3ZWJUbXpLLU5pTnUwNExpTENoRTNtb01BZw?oc=5"
+    },
+    {
+      "published_at": "2026-05-14",
+      "publisher": "GuruFocus",
+      "title": "Puma SE (PMMAF) Stock Price & 30 Year Financial Data - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fVEJXTVdOVEJ1V2FELW12Ul8xVEo1czlmVzFOdmI2Ny1YOVhLU3lmVGxCQ3NqUkcyQmJyTjYzeHZiQWpxcTV6emRRLVVxelZna1R6V0dxal9PMU5jSk4xdHBYQQ?oc=5"
+    },
+    {
+      "published_at": "2026-05-13",
+      "publisher": "marketscreener.com",
+      "title": "PUMA SE: ASTAM Holding GmbH, buy - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0JBM0NlQTZSZTFJeUtyUGtIZ0RsQkNNVy1sb21BZTE0bFNlc3ZUTHBGYkhfcG1FMU8xYmZKaWx4T29FODRDSUhvaGJDQzhHdnkySzZrbkppYnAzS3B5X2ZfcEZEVlk2RUtEWmh3UkcteF9NSng3aEZlQkt4dXNvbFBVN25yZ3BMLVM4?oc=5"
+    },
+    {
+      "published_at": "2026-05-07",
+      "publisher": "Seeking Alpha",
+      "title": "PUMA SE 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:PUMSY) 2026-05-07 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakR5QzN6NU03MDlPdFdBSnFETWFxbXh3Mi1GeG5Mc2JJdkcwSnNjZ1prbWh1eEd1alFuTUI5ZmIxcUh4Uzl3Rl9ZcHV5ZGw1ZVN3QTUxOFRnMDRUaW51dHRLOGtxa0JORkdPTnRTQjlrdktvdDlsaUJzQXRUVzlQUkRBMEVjU3o5eUVXUkhmR0NvcHRZY3c?oc=5"
+    },
+    {
+      "published_at": "2026-05-03",
+      "publisher": "Yahoo Finance",
+      "title": "PUMA SE Beat Analyst Profit Forecasts, And Analysts Have New Estimates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3JGejdZMENiLTVuR1hGNEVYMEREUlRtV05tQ3Vjb1VsQXRKalVoQmM0TklmZHBhQ3N4U3puZWJ2UEhNNGNUeTRBNHgwMUNkLWpMLXNaSGIyTjdUN3E5S0pSLWVYSFl2akkzMHo5UXYwVEhDTEM4Q0VGdmVlbThvT0pYanJOR1VTdWo1YlhMVVZNdTRMcEJR?oc=5"
+    },
+    {
+      "published_at": "2026-04-30",
+      "publisher": "PUMA SE",
+      "title": "PUMA appoints Mark Langer as Chief Financial Officer - PUMA SE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmxITFVyVkJqaVkyLXpXc0N5Tk9ueDRiNGVzR2NBS204YmJzc24wNGVyZTBuUFpMc2gxd1hlZ190S2hwWWN3VEVWN04zU3JTWlhIYTlTcjdXeXZiUld3SGF4Mm1OS0taN1FLR0dsMHRTMnB2ak10VmRqaVN6d2phbkdaZUxLVlJEaTd3bklPdGRUY1h6d3JMUHAyTUszX0JjSnQxaFB3YkVXZWt6RU5HMExpdGZ3Zw?oc=5"
+    }
+  ],
+  "summary": "PUM scores 56/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 11 adverse effects.",
+  "symbol": "PUM"
+}

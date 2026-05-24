@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-05-24T04:00:53.272818+00:00",
+  "industry": "Conglomerates",
+  "long_name": "Aker ASA",
+  "provider": "yfinance",
+  "query_symbol": "AKER.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AKER",
+  "sector": "Industrials",
+  "short_name": "AKER",
+  "symbol": "AKER.OL"
+}
