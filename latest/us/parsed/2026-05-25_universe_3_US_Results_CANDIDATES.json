@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-05-24",
-    "filename": "2026-05-24_universe_3_US_Results_CANDIDATES.txt",
+    "feed_date": "2026-05-25",
+    "filename": "2026-05-25_universe_3_US_Results_CANDIDATES.txt",
     "kind": "Results_CANDIDATES",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-05-24_universe_3_US_Results_CANDIDATES.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-05-25_universe_3_US_Results_CANDIDATES.txt"
   },
-  "run_date": "2026-05-24",
+  "run_date": "2026-05-25",
   "table_count": 1,
   "tables": [
     {
@@ -80,7 +80,7 @@
           "symbol": "LNTH",
           "turnover_20d": 110395724.45,
           "turnover_day": 208090900.0,
-          "updated_ts_utc": "2026-05-24T08:31:32Z",
+          "updated_ts_utc": "2026-05-25T08:31:34Z",
           "vol_adj_liq": 3199834843.00624,
           "vol_anom": 1.8769939237443,
           "volume": 2020300.0
@@ -116,7 +116,7 @@
           "symbol": "GFS",
           "turnover_20d": 438710687.122,
           "turnover_day": 1008488076.0,
-          "updated_ts_utc": "2026-05-24T08:31:32Z",
+          "updated_ts_utc": "2026-05-25T08:31:34Z",
           "vol_adj_liq": 8262427206.33371,
           "vol_anom": 2.25079237763224,
           "volume": 11775900.0
@@ -152,7 +152,7 @@
           "symbol": "AA",
           "turnover_20d": 281513012.32,
           "turnover_day": 495234440.0,
-          "updated_ts_utc": "2026-05-24T08:31:32Z",
+          "updated_ts_utc": "2026-05-25T08:31:34Z",
           "vol_adj_liq": 6624206844.28939,
           "vol_anom": 1.75305284360718,
           "volume": 6938000.0
@@ -188,7 +188,7 @@
           "symbol": "AVR",
           "turnover_20d": 9880713.063,
           "turnover_day": 22579102.0,
-          "updated_ts_utc": "2026-05-24T08:31:32Z",
+          "updated_ts_utc": "2026-05-25T08:31:34Z",
           "vol_adj_liq": 193819912.548795,
           "vol_anom": 2.1706411291624,
           "volume": 2347100.0
@@ -224,7 +224,7 @@
           "symbol": "CYD",
           "turnover_20d": 10028372.9775,
           "turnover_day": 22704865.0,
-          "updated_ts_utc": "2026-05-24T08:31:32Z",
+          "updated_ts_utc": "2026-05-25T08:31:34Z",
           "vol_adj_liq": 217205069.12183,
           "vol_anom": 2.26401121108481,
           "volume": 395900.0
@@ -260,7 +260,7 @@
           "symbol": "LTRX",
           "turnover_20d": 6654282.786,
           "turnover_day": 13909176.84,
-          "updated_ts_utc": "2026-05-24T08:31:32Z",
+          "updated_ts_utc": "2026-05-25T08:31:34Z",
           "vol_adj_liq": 121140244.154028,
           "vol_anom": 2.08909430017722,
           "volume": 1964573.0
