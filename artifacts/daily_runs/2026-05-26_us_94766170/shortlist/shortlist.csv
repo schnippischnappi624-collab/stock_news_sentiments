@@ -1,0 +1,7 @@
+display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
+1,LNTH,Lantheus Holdings Inc,candidate,False,1,setup,CANDIDATE,6.18,1.8769939237443,1.8769939237443,103.0,2020300.0,98.27,3.55354578477782,,,,,,,
+2,GFS,Globalfoundries Inc,candidate,False,2,setup,CANDIDATE,5.95,2.25079237763224,2.25079237763224,85.64,11775900.0,81.46,4.54723319272662,,,,,,,
+3,AA,Alcoa Corp,candidate,False,3,setup,CANDIDATE,5.55,1.75305284360718,1.75305284360718,71.38,6938000.0,69.73,3.03347997605549,,,,,,,
+4,AVR,Anteris Technologies Global Corp. Common Stock,candidate,False,4,setup,CANDIDATE,3.87,2.1706411291624,2.1706411291624,9.62,2347100.0,9.28,0.490416378875055,,,,,,,
+5,CYD,China Yuchai International Limited,candidate,False,5,setup,CANDIDATE,3.46,2.26401121108481,2.26401121108481,57.35,395900.0,56.0,2.64785344368292,,,,,,,
+6,LTRX,Lantronix Inc,candidate,False,6,setup,CANDIDATE,2.59,2.08909430017722,2.08909430017722,7.08,1964573.0,7.1,0.388907273993749,,,,,,,
