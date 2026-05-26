@@ -48,7 +48,7 @@
     "provider": "google_news_rss"
   },
   "12DA": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "AA": {
@@ -200,7 +200,7 @@
     "provider": "google_news_rss"
   },
   "AMS2": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "ANDR": {
@@ -396,7 +396,7 @@
     "provider": "google_news_rss"
   },
   "CLR": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "CLS": {
@@ -512,7 +512,7 @@
     "provider": "google_news_rss"
   },
   "E3B": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "ECG": {
@@ -548,7 +548,7 @@
     "provider": "google_news_rss"
   },
   "ERCB": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "ESI": {
@@ -564,7 +564,7 @@
     "provider": "google_news_rss"
   },
   "FAST": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "FASTPC": {
@@ -1076,7 +1076,7 @@
     "provider": "google_news_rss"
   },
   "SAVE": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "SCE": {
@@ -1144,7 +1144,7 @@
     "provider": "google_news_rss"
   },
   "SPG": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "SPIR": {
@@ -1284,7 +1284,7 @@
     "provider": "google_news_rss"
   },
   "VLK": {
-    "last_fetch_utc": "2026-05-25T04:00:06.056824+00:00",
+    "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
   },
   "VLY": {
