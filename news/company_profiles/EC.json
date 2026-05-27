@@ -1,0 +1,14 @@
+{
+  "country": "Colombia",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-27T09:15:43.408860+00:00",
+  "industry": "Oil & Gas Integrated",
+  "long_name": "Ecopetrol S.A.",
+  "provider": "yfinance",
+  "query_symbol": "EC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "EC",
+  "sector": "Energy",
+  "short_name": "Ecopetrol S.A.",
+  "symbol": "EC"
+}

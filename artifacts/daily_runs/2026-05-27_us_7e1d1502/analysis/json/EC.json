@@ -1,0 +1,608 @@
+{
+  "analysis_date": "2026-05-27",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 67,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-13: Earnings call transcript: Ecopetrol exceeds Q1 2026 earnings forecasts - Investing.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-13: Ecopetrol ADR earnings beat by $732.87, revenue topped estimates - Investing.com."
+    },
+    {
+      "confidence": "low",
+      "point": "2026-05-27: Market theme to monitor (Oil supply shock / energy tailwind): Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist - Investing.com."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Ecopetrol SA ADR",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.85,
+    "quality": "good",
+    "stock_articles": 3
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "My golf buddy dropped me when I didn\u2019t make him my financial adviser. Be careful who you trust.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cFriendliness alone is not a sufficient reason to trust someone with your finances.\u201d",
+          "url": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Drew Barrymore finds a buyer for $5 million Westchester mansion built in the 1740s",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Actress Drew Barrymore\u2019s 280-year-old weekend retreat has an offer, just weeks after it was put on the market for $4.99 million, following her dramatic restoration.",
+          "url": "https://www.marketwatch.com/story/drew-barrymore-finds-a-buyer-for-5-million-westchester-mansion-built-in-the-1740s-12e68e2b?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cThe sister claims she does not have to explain herself to anyone.\u201d",
+          "url": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Kathleen Kennedy Townsend quickly finds a buyer for charming $1.6 million Cape Cod home",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The Kennedy heiress has already secured an offer for the quaint home near the Kennedy family\u2019s famed Hyannis Port compound.",
+          "url": "https://www.marketwatch.com/story/kathleen-kennedy-townsend-quickly-finds-a-buyer-for-charming-1-6-million-cape-cod-home-d9bbd04d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Hynix quickly joins Micron in the $1 trillion club as one bank argues AI is actually underhyped",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The frenzy in memory-chip stocks continued on Wednesday as SK Hynix took less than 24 hours to join American peer Micron Technology in the $1 trillion valuation club.",
+          "url": "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Goldman Sachs hikes S&P 500 target and rejects bubble-era comparisons",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Speculative fervor is high but not at elevated levels pointing to a big market pullback",
+          "url": "https://www.marketwatch.com/story/goldman-sachs-hikes-s-p-500-target-and-rejects-bubble-era-comparisons-37736edb?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Stock futures are little changed after the S&P 500 closes at another record: Live updates - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.046511627906976744,
+          "source": "CNBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5\" target=\"_blank\">Stock futures are little changed after the S&P 500 closes at another record: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzNGN1WEVSRjJiLVFHdjRNZWxDZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-27",
+          "headline": "Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\" - CBS News",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CBS News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV90b0dVbHBrdzl0ZmxyUzl5d1dEZk5VbEtNVjBoRUtHVVkxRzNoWmxERVhhUVhTR19fbkZoWjRzdFhqeHlqY1pkZUR2WmgyQ2JOeHpyX3U2MDNLOUtsVko3VmVWSEtWaXlQTHVSRFV3TFJXVHZTQ2NIei1tUlBaOWFTRXBONUhIZmxGSllR0gGTAUFVX3lxTFBkZDdUNkFPQmptUk5mTDJ3VkNqMElGOUFORkJRWEFhMThnQzU5U09LQXhHZEJkLTZtNGR0TE9KNFVoR0lSekV4SXBfZWNBa1F5MC1EUFJkNjEwekY1RUdNLTNKVEtISGtBX2tVMm5MT2RnZjN1SnF1T2kxb05uMlJwVUdKOEJSUWtva0ZudmV1Q1p0QQ?oc=5\" target=\"_blank\">Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYzdyRkVnYnVJbDBrS0Fpb2VULTI2XzNIQlN2ZVZSMlg0b01VLTJXY1VDeDJ6NTlTQ1BScXdKTGEzaTdUWWR0UFdyalJneDlyUGZEckFpSFMzcjJvVFNfVUhJblIxWFM0MktoeXBLcG94UFk?oc=5\" target=\"_blank\">Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak11bmJ0aENrSXdzN28zazRIeDI4OTZjSFRyUE1zRkR2b1U0TnJ5bFdDQ1NjdkNqbi1XdjlzLXRyci04Yy1FeVJxRmc0SENFZEFvZWxxQmxDUUpOcWxCeUk0dGtKX2FuZ3lZQWJ5bkdkdzdva1RCZ0p1UHFvUlFKV0Q5T2lqckE2cllEbGQzZW1kMlNFSlZCUV81RE9zQWhFV2ZTdVczbVdwd9IBrwFBVV95cUxOMmRZT0RfTDBPYW1OTUpBMXBJcThaemNHcUFBOE5CeEVscUFiUUpjdVBha2Z3R1l6UTZtYkdtcWlNTHdhR0ljeXRaZzQ3aHV4emJFQ2NmTERvc0ZtYjhDOXVnb2tIaHZWQmZSNkQ3OVBoZWRJd0xhWVhzTGtBYVpWVkNTSC1XMGhwNUpXUWtoRFRkT2VmWVhwNGpiV09MVFJPci1zdVUtbjhsWEpDeEFN?oc=5\" target=\"_blank\">\u2018Deep suspicion\u2019 of US lingers as Iran ponders agreement to end war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0hNeUlkZDFxWXdGcnR2ZXplczNWOWFNLTRkZzdOckZsV0toUGhQcVF2Nm14MkxRdVNza0tib0Q4bGJwWVM0bEUwVDZMUDNuZ2hUVklIVU5TRVJFWTVKOEx2eXVNRnBOZndtelZRa2RwZVpvYTRzRU1XWmZDMVlTZExsZw?oc=5\" target=\"_blank\">When Iran thumbs its nose at the ceasefire, the Trump administration shrugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFpvZnh4M0FvR2hUYmNMc1JwV0ZoWTFSMjZsLWpQSDRPMkRvUnljTk5ub3htLWViMGhCZEFfNFc0eHFWcE85eDF4WlpWMlAwTklpdzY2ei04T0dzX1ozX1dHN1VnVk9iTzJYSGptSkgyUW85M1ZYQ0xUbnRyNEJJY0VMM1llN0lhZnc1SHZOanhONXlOdlBfQVIzY1NfZ0VHdzRHa1hnNEFER1U1bGVuV2xqUWNPMWpralRJVzZsaXRXWlk2eFVhY2FCX08?oc=5\" target=\"_blank\">Remaining military targets in Iran are more challenging and complicated to hit, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV90b0dVbHBrdzl0ZmxyUzl5d1dEZk5VbEtNVjBoRUtHVVkxRzNoWmxERVhhUVhTR19fbkZoWjRzdFhqeHlqY1pkZUR2WmgyQ2JOeHpyX3U2MDNLOUtsVko3VmVWSEtWaXlQTHVSRFV3TFJXVHZTQ2NIei1tUlBaOWFTRXBONUhIZmxGSllR0gGTAUFVX3lxTFBkZDdUNkFPQmptUk5mTDJ3VkNqMElGOUFORkJRWEFhMThnQzU5U09LQXhHZEJkLTZtNGR0TE9KNFVoR0lSekV4SXBfZWNBa1F5MC1EUFJkNjEwekY1RUdNLTNKVEtISGtBX2tVMm5MT2RnZjN1SnF1T2kxb05uMlJwVUdKOEJSUWtva0ZudmV1Q1p0QQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVUweXBvcTl3VmhhVURoTTl1VFk4eEp6Y2cxVVF0NnZuR1ZQbDFUZTFmY2xjaV9XOF9PMXY2ejNDeGhhR1VRVDFFS3htcWJfUzQzbmZMMW9KRm56MTVPWm9OM3VBRGFtQmhLQ2V2Y0t6ME1UZldYN0F1X3k3VnZMbTJ5c3FXMmRuc0hsQW94ajRRbnhFdHhZYkl6QUU1UEpvX0ZXa1NiREFIZkRaWnc?oc=5\" target=\"_blank\">Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc1lxTWxPek5FNFMzT09uTVpsYWpaRVl0Zlhia1MwcGpRNGdSUjNMVWM0VHZUSGliSS1zRHFZajV1RHQ1dGlqU01udFJQNEpsQ01CNVVEQlI1dw?oc=5\" target=\"_blank\">SK Hynix and Micron: Booming AI chip demand helps create two new $1tn club members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0FwT0x2WEx3ZGxaRmxjanJDdTU3b2pYWXE3TUdxbVRCZ01CZlVhWjQzczRUdEZOZTVfN0lvaHl5Y3dUQ1ctVlk4b0l5SG5NSFBNblZMdFBEbXZGMTlMbTF5WTRJOEdQSmtHQkF3b2Vpck55YVhxMUFROTdOS3NHRHp6ZFhxZk1VRzhwVGVocVlpSzEtbWhnV0ZlbEFVQWZmaHc?oc=5\" target=\"_blank\">Watch SK Hynix Joins $1 Trillion Club Amid AI Frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2hFMk1QdnljU09oWERvd1VFWjRFR3JfRGkyZ0FBbUdzV1lRTmgyMmR5VGFQQjBzMjlRTWMxWFpiRExBb1hBQTdDelVseTRUbXlBUk0wTjEwbHdSdW51ZU9zaEdJTU5udXpLTjFhVlQydTFpNVNseXhxTzlmd2ltUHpLdXVtZ1RvWmFDNy16MGM1WFRQLW1uYWRwVEpwVFRPY0xLOUxYS1ZVa0I1OXZLdURITF9UQUxYRExiZNIBwgFBVV95cUxPOXRzYW5seG9jS2dpb1N2R21FTnFLbmdDYmlCVVM2Ny1VYjhUcFYtRTVST25ZMldlQUFSdUMzS0praUNVR1hkQ1U5Q1NUWDk2dk9KYjl1VGozZGFnLUR6SHRvME9ZbTc1LTJBallSR1hVandXQy12c3lJaWxQbTk5eVhuZjNYa2hXemlBYWVBbzV1bDM4bFdqLWNpU2E1cGZ0V2hhNXhMa0J2S1Q1OEZCb3ljRkowczNrWlZLOVNjY2oydw?oc=5\" target=\"_blank\">Japan, South Korea stocks hit fresh records as markets weigh Iran tensions and ceasefire talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObHBoSENFcFNsS1NHYVpHbGhmaVZKNmNoNi1IeC1SUFE4MTd1X05JbzExVGhUYkNxUzRsQWEyaWNObHQwLVZOd3BpQWZGQkFGQk1Ea0g3SndkeTBTRU5aQ3dseXFuU0NBYnUxUGw3M21SVG5PcVo1S1RpQnFQbnI1N3d6b1AzbVNMSFB1Zm5oV0dHYWo5dHQ5WnFrdTBkUQ?oc=5\" target=\"_blank\">SK Hynix joins $1 trillion club after Samsung, Micron on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVUweXBvcTl3VmhhVURoTTl1VFk4eEp6Y2cxVVF0NnZuR1ZQbDFUZTFmY2xjaV9XOF9PMXY2ejNDeGhhR1VRVDFFS3htcWJfUzQzbmZMMW9KRm56MTVPWm9OM3VBRGFtQmhLQ2V2Y0t6ME1UZldYN0F1X3k3VnZMbTJ5c3FXMmRuc0hsQW94ajRRbnhFdHhZYkl6QUU1UEpvX0ZXa1NiREFIZkRaWnc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "BP\u2019s Ousted Chair Says He Was Fired Without Explanation - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOREx0eHN2dFlSYWdCZzZTeGozYTdUVHpkMzh1aHV1SDhiYmlfZTVFNi1SeXZYNXlLdnFRay16SVpKcF91TTI4RzBCVDhrek5yczhFQkpZWWFxRzBBSTRIengwZGpSTm9PU2ZWUVZKVTJHTkVCcW5paDF5WUV3SnB6bE0tOHJjT0hQNUlabUQ3N0dsSmJ0eXdUNmp3blR1T0QtQUNtUzIxZlB6a29BbXp6b0U2a3dWdw?oc=5\" target=\"_blank\">BP\u2019s Ousted Chair Says He Was Fired Without Explanation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajVJSWcwd2FKWWQxdlF4Wl9RSWl1UUljbC1qcUtrUGxIUGVHZ1E4cmlFbWZyOV8tRVlEZXJqQldPYXRIei1VUDF3V3FCaXJmZ1QxUkFORGFFYTlfR0tabE1NdXhIbklOanZtYWgxUlE0R1JZS0lRYnRsakJkZHctaS1ZOTRMckMzQkZTamdBTTBFQ2VNWUZYVXFET3RQSHJMRnBvRFp0ZHlEQQ?oc=5\" target=\"_blank\">BP Removes Chairman After Concerns About Bullying Behavior</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnRPaTBHQ3Q2X1EtM0FiM1B5MlNnS0NPQmVrZ1Z5c2lIVG10b0Vaai0xcE5vV2Z2N2s0c1NnNnVNLWZZcC11bFdsYXBCU3o3R2ttdzFNcU1Md2Y1dUZBd3VkNGFMYW1mNWxDZXpSSnFLQ0JYQlpZZkFtQlJoMnJWYtIBhgFBVV95cUxQT3A4Zlk3SG1vVF9FZG9UcjhxTktKeHlrS1lFYkdLYjhkVWh2dmNsUGk2QWYyTjhfMWdBREZ5cUFjaUQyelJfakE0bFV3US1zUGgwT2lGNFJDY2pXSjBMVDAzOW9VWGtaNW9vSTIyckF6TXNjNDhaU3lJLUVqejdLLXM1X3FlZw?oc=5\" target=\"_blank\">BP's ousted chairman Albert Manifold disputes accusations over his conduct</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1RLMnF0VzZTUXVHSW8yM1lST2tnS3hRR0VfZHRzcHFHSi03d0Q2NzdoVTRWdVNyb2lXakZBUGpXYTN6T25vOUhwY2cxUW5TSDF3ekFqU0c4eFdBeW9QeHBxWkotNU5DdmxWbVRzbDVETngtOGtjalk1ZEozT203dS1lVm4?oc=5\" target=\"_blank\">Inside BP\u2019s boardroom \u2018bullying\u2019 scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFNjOXJkR3REMU80TFMtVUEwVDlWeHVMajdBNExEeEhwSjEwZ1l2dUt6TVJPV2p5V1pDUWtROGI1YUVTMlpVYUdVY3FFNGtFVmxBOG9kbWpscjBFbmRNOGppaWVMUkNtaHFLcVpDM3pjdXZ5SHNfZ2FZUkVDUF9PS1ZOSmZtM3FJTGh2RkZRQkJfSDVya3pueVBLUHNXa0N3NVRDOTlzMDVyWHM?oc=5\" target=\"_blank\">BP\u2019s board snatches defeat from the jaws of victory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREx0eHN2dFlSYWdCZzZTeGozYTdUVHpkMzh1aHV1SDhiYmlfZTVFNi1SeXZYNXlLdnFRay16SVpKcF91TTI4RzBCVDhrek5yczhFQkpZWWFxRzBBSTRIengwZGpSTm9PU2ZWUVZKVTJHTkVCcW5paDF5WUV3SnB6bE0tOHJjT0hQNUlabUQ3N0dsSmJ0eXdUNmp3blR1T0QtQUNtUzIxZlB6a29BbXp6b0U2a3dWdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Samsung workers set for $400,000 bonus after deal to share AI profits - Financial Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.01282051282051282,
+          "source": "Financial Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9WU0N3dzZLWE1hc21vaHRFRjJoYXIxZktDOGdJMTFZUGZWcW55ZXNybkFab1lSX01DQ0tuWElNc0Y4RVF4bU5ES3VnNy1nSEZjSm5IRlVHcUdTVGhXblVkWFp5anFEcVJXalFpTzd5Qm4?oc=5\" target=\"_blank\">Samsung workers set for $400,000 bonus after deal to share AI profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzZ6UkhKaFl3V1V2MGRHTEM1OEhGY0dWeWFkRTRCYnJkRndralNYckFfdzNNM2NLU2R5QkJXWFRVRzdoMHlscjVrOVBSbXVqTXpySzF6a0EtYnVNUUlYM1VNTDlQSFBxN2dCQ0ZqUEpuSkE4ck5QRzJSOUt4eF9VS2VJYXZUNW5UQ3ZSUDRPemI4RWNTWE9QTm0xS29ieHNWNk15R0UyQmIxRVIyZUlYdUl3QVE?oc=5\" target=\"_blank\">Samsung Chip Workers Accept Wage Deal That Staves Off Strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXplOTdseks1T05aS3ZycDd2Y1FXZmxqdzE3NExxMkFjenByT3NsUlRYcnpzcnl2aTd1VW9FUm5pUUlpcWtqY0huS3M1SFhmYkRMdEt5M0FrbVFaN0tiRUtLYkVFZGlvUUlnQ1hoV19OdUZua0ZmU2dkcXVPeG1KTlV6dHdRUHN0ZkhmRkd3Ujc4N2M2SXlXWnV0NHNBaXRsdms4WlY2YTF1NDBfc2xXSWRrejFSdVVxYjdJem80WDJGaThRblE?oc=5\" target=\"_blank\">Samsung pay deal marks seismic change for South Korea, emboldening unions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkQ3eWpLZzRrdEh4VHdzLVU3dXNBVDB5N3BJa1c0THFmVkN4ZmtjdG5zcnpnNnNXVE12T2ZTU1U1Ukh6aW5ZUkxGV0k0eDl1QWhPY3p0NWFReUpjem1KdU9mc1l1N2JSa21rN2RiczJUTW5mUUphcFBONjNnRGpnUUFCUktFRTlEREl0VUFkQ0M?oc=5\" target=\"_blank\">Samsung Electronics Union Approves Bonus-Pay Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXc1bzZ2WDlnb3NlSGdRV19aTDQ0dm4zQkhVQV9SYnVEVkc2UjVkbDJNeFl3dXVETzZ3Z1NQX2N4OFd5LVd4SE1IV3JMM1k2NDNhdjRTR3dCdDIzdkZFaGNwRm5Oc0tRLU0tQ09Rek1ULURRaGRIeF9yXzV4UlJmeVgxVGpidmtNVUhVaFdfcnZqeUFyYXlYZWFtaV9HeVE?oc=5\" target=\"_blank\">Samsung chip workers to get average $340,000 bonus in AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WU0N3dzZLWE1hc21vaHRFRjJoYXIxZktDOGdJMTFZUGZWcW55ZXNybkFab1lSX01DQ0tuWElNc0Y4RVF4bU5ES3VnNy1nSEZjSm5IRlVHcUdTVGhXblVkWFp5anFEcVJXalFpTzd5Qm4?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist - Investing.com",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [],
+              "direction": "supportive",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [
+                "energy"
+              ],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQd18yeGhXTmlOMHhycHU1NEtRd2dIQXhJc1VXMENHOE9YN0ltOS1kWkJpU25lWEV5QWlGOXhfWG9CckpGa003Y3pnUEVqcngzQnRxRFdKQ2tRbm4tZHVrOWxRY1N0YjdOeE5JT2hEUGNjNDJacFBGN09HNGkxQXRHR1IzZ1VOQXRsNmVqWWZjQzJYaTlCamxzWFlDWTZRZHpkU3lTUGh2TjRhLUFXaFlMa0l0Vk9ta0wyVFZiWjhSeWd6ZkptSzljZGJyaVpFaWc?oc=5\" target=\"_blank\">Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEg3Zm4yNjJHN3BXZ2tfTGh0MFJDVDQ0UmNmSGQybkVOZU1QQ0tWT0U1c3JHRTQ4d05MM1BiYWZRTWUtRG9pMUhLbG5KcVl2WE5tYW9mUkh4VnlnVXZ1bk9XblFHalRYdUkyRVZvSDY2Wk1nakd4QmVIdVJiTDZ2OHpNakRpSFJRNXdrUUFQRG9tUTJZR0JsNXBkWUU2MVFxMFpRYzVxODN1ZEdzb2tBbWx3?oc=5\" target=\"_blank\">Asian Stocks Set to Rise as Iran Deal Hopes Hold: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzNJa3MzTWo3S1pEdE93RGZ6NnZ4U1VzWm4xUnA0bFMyNy16Nk9DbE8wU0xDZTA1ZmRSOXduWlBwZW9oTDdVczhLLTRlanNKZ1FfZ0V5a1NCR0tUZ1U4aVJXTEJnZEVSaUhuLWpHM0t3Ykg2V3lkY1J1UEJKcGQ5aUpNNVlzNk0?oc=5\" target=\"_blank\">Stock Market Today: Dow Futures Rise, Chip Rally Continues in Asia \u2014 Live Updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3huVEtSTFRqSk5lZzlhX1pKOF9oNFotemRObS1Kd3JCNEk3LWJVRmJ0REJvWDd1QVNCMTN4UEtHRVd0VTViLWxCb1k1T1ZoQXkyTDhxN3NTV0RWREN3cmJUSHNvbktsLW1MWFV1TU9jZXhSaWlaWUc1QUZNck5IQVBDXzBlRVZRRmRhVHlYNWRucEhCZnVCV2dJNmQ0RnhDX1R3aVkwVWhWcjQ?oc=5\" target=\"_blank\">Asian shares are mostly higher, tracking Wall Street's fresh records, and oil prices fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQWN2VG1vX01ucEw4NXdhTE43TmNZNDRvaDg0bUhzNEloNm9yRW4taDVlbno0eU90aldCRmE2QzFpd0V4YUZPc0lYcEFPLXlNUHJUbXdDQ21rcTBZNzhXckFNX0czRjdzXzRlUGxYZHFGMEhPSE5VU0wtT2pCZUJSZDNCakhQQUNxRk5KbnFvMmRoekFfR3FNNGZTNkVrOXVRMXNpN1RaWExadE9CYVNydFo5WTlRZmt3V2pVTVdTcGZPU25zdXNnUVpnRklWc2dqNWfSAdcBQVVfeXFMUGFzOVE2dUlSWU9ibGl6dkNqeDhKTzhaODlHX0lSVXhlMnRFcHVzc3JlblNhTTljRlhIUkc3YU51ZUMtV3EzRXJ5VE1pdEJTNHJrZjhJaXJJenZ6VTJZNmU4VEdLTzFZU3lUSWU0R2VXc1ZXd1ZWdW1DWjN1cF9KU1hYNXU0SURTXzVlbUJuaW82RGhIWDZsLTFZQzJaNGlIOWRVYU9ZTEh3TUtFeGRmRDdveTlnVXFDeHhEVmwtZ1NaWG44b054UTVaT1dZZmVRZ0Y2dlMxZDA?oc=5\" target=\"_blank\">World shares are mostly higher, tracking Wall Street\u2019s fresh records, and oil prices fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCBD News 2</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd18yeGhXTmlOMHhycHU1NEtRd2dIQXhJc1VXMENHOE9YN0ltOS1kWkJpU25lWEV5QWlGOXhfWG9CckpGa003Y3pnUEVqcngzQnRxRFdKQ2tRbm4tZHVrOWxRY1N0YjdOeE5JT2hEUGNjNDJacFBGN09HNGkxQXRHR1IzZ1VOQXRsNmVqWWZjQzJYaTlCamxzWFlDWTZRZHpkU3lTUGh2TjRhLUFXaFlMa0l0Vk9ta0wyVFZiWjhSeWd6ZkptSzljZGJyaVpFaWc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-27",
+          "headline": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran - AP News",
+          "kind": "positive",
+          "matched_effects": [
+            {
+              "adverse_exposures": [],
+              "direction": "supportive",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [
+                "energy"
+              ],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5\" target=\"_blank\">Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5TbG1TWkZSM3lmMFJmNzBPWnVWaVM4TS1LR1dUanZqZllqNkhfMmtFZWRDQ0kycjItR0plTU9uNG1lRm1ObG82WHBVMi1kUUQwbWpKRWFxM3Vuakc1T3NXel80RHFsY2JLSnlWckpJU3o?oc=5\" target=\"_blank\">Live updates: Trump to convene Cabinet meeting, as Iran threatens to retaliate after US strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGJEcFZnZDZvT19ReFQ0bU0tTTFseThKc0hKZTJlN0VRSHN1TDR3RlVXSkRQRzBTMlpRSE5zalFSSUxmVmFkTWhkMDRKdXdxTmFkai1iVHdYRzRZblBTcjVlcVpSeHduRURoeHlXemJ1cTFwakRmeW1iZkRtZ2o0MVZJMi1NR3hLM0ZFeFBJZXpldDVQVXhCOUpLSGgyRE1IQ0pPUnl5YmthUXVCTkU0aHU2V3FIV2EwT1Fz?oc=5\" target=\"_blank\">Trump to hold Cabinet meeting amid declining approval on Iran, economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9rU1hnNzhIVFVEYXNncktHckdKX1lGTHFBcEw1Wk02bWdaY3dsSi1fTDVTNmlvc1RTOWpSZk4xc1gzXzJNNWpwbjhUZVZpeHBUa1FtT2JiZGpQUks2REJkblN1el93TlBlNktiVkNuRjkxWTZ20gF6QVVfeXFMTUtEcXUxUF90TWtrNG9YYWs3WXFfR1p3QjZkX0ttV3l2LXpyOFBXQktxNXVRNFNzaTJJLTBNRkFkSFgtS1RUOWstajByLUEwYlUzb2lFY0pnZkczY2JxNzB6Z2tJUWctYjNTSWw2TS1QVHY0RnRkS1F4eUE?oc=5\" target=\"_blank\">Trump cancels Camp David Cabinet trip, citing weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWFaVFdJNWgwWXZlQzZwYTliVEFwN0NQcHlhUlJ3MEhBM3ZvRXZKV2c2aEJtR0k3d2lqOEUweXlNc3I3S1AzMUtsYTQ3bVRjUHlpOXBJclRiYVp0ekcyeGcwX1RhUGtQM2dKbjNWcDRPc29XcXNxQTFPMnh6c0pQd2wwZ3JmeE13eHM1ZmhNWjR1aWFnaVNLSDlkX3IwUnFHbFptSlI2bFBMSzQ?oc=5\" target=\"_blank\">Strait of Hormuz will open \u2018one way or the other\u2019 as Trump gathers cabinet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Hong Kong overtakes Switzerland as hub for global offshore wealth - Financial Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Financial Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTF2WEx4bzdFbHRWZTZHVkF1VkN2TjFFUFV3dnR5LU1hZlo4c3ZoenlFM3ZTNURKaGtwajNFanY4bThMVWZBYVRYdmstMzBwLTNmaTdBdWhxVTFCb05tczlNbEh3N1ZFOE1MWlhsY2ZkYnFxM2F1bU53eEJ2VnFRU1B2YlI?oc=5\" target=\"_blank\">Hong Kong overtakes Switzerland as hub for global offshore wealth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbXdGQXBEbGVIQXBJOEZJQVhiUnFwNDFGakx5dklCYWlfeHA2RjNEaVc1OHg0VmJmWUZobEI4Z0szUFhuc2pSdXNocGVKTHpNTzBYZ3VwbVl3WUxudkVfODBjdFJUc21LYTUxR09FaWZVZkgwN2oxS3NrN0lQcjNXcGpjamJyLU9jNlpTMnlPYm13MlpobzZ0QWZ2V09VNFUwb3ptSENHT0xwbHRQbExZRHRHS0pvSG1sQ3RLWXBmYklqc0luSE1fb0JB?oc=5\" target=\"_blank\">Hong Kong overtakes Switzerland as world's top cross-border wealth hub on China ties, report shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmdGR1k5QVFvbVR5eGFUTUxVa3A2bnhMTmVUV2tmNWpFclJoZjlrNlMxMnR5UVdfal9NY1BfOUtPUV9abGUwa3VlejFMYTJadkxlSFJtUFdZdHJ6dGIyRlVhSmFzMElISFJBc1hlTkxvMUR1V09iS25yTVUxVm81QS1zQU9oRG9DMDhZSG1GcDFZT2t1UWJKdC16Q2JwU0hGNE1JbnFZSHU0OHRXOGc?oc=5\" target=\"_blank\">Hong Kong Overtakes Switzerland as Top Offshore Wealth Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQcThha2tfaDFQaVAtMS1ZeG5ldGx3dUdLUHJMbkFEUVl4NnZhdWxHd0NwcWJGZDZLS1JxUkNnek1YM2VlZklkejN3WklnVVRpQUViVEc3OS00OF9weERNbG94Y0VjY1RLSHZfVmdmaWtOQzhxdU13bzdJSjBVMm95OFdOMUc?oc=5\" target=\"_blank\">BCG: HK Overtakes Switzerland as World's Largest Cross-border Wealth Mgmt Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHJNZi1URDJOUzluTmktcjZORTV4TzVUZTNyR2h1OWdjYWFsVzFoQmk4SGMySjNqTXRXa2ZhYzNJVWZSZlpySTBfZlNFTG1EcjRHUVI1bDhMTmlMWnVneUNlT0dSYjVKb1NJRWVBRDVPNFFwcjVyLVZvUGpyRndDWmloMFFIVFFSUmxQcHFhdzU4LTl4bHFwRnpPaHYzLWFGR2FZMHRIQ1g3OHFZUDlkR1VPNUlFUHNDMWQ4ZU1nY0JZRGFDVHc?oc=5\" target=\"_blank\">Hong Kong Set To Overtake Switzerland As Top Cross-Border Wealth Hub \u2013 BCG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wealth Briefing</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTF2WEx4bzdFbHRWZTZHVkF1VkN2TjFFUFV3dnR5LU1hZlo4c3ZoenlFM3ZTNURKaGtwajNFanY4bThMVWZBYVRYdmstMzBwLTNmaTdBdWhxVTFCb05tczlNbEh3N1ZFOE1MWlhsY2ZkYnFxM2F1bU53eEJ2VnFRU1B2YlI?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Stock futures are little changed after the S&P 500 closes at another record: Live updates - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.044444444444444446,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5\" target=\"_blank\">Stock futures are little changed after the S&P 500 closes at another record: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkdkVDZmdENSYi1wYUdEQmlBOTk3V290Y2VTT2pPRzhNTHM1cjBld2RPaTJxZExiRXMtQk1wc3dUazU1a2MwVmNPUDZ3aDEzVWdxemhzdGI4N2hjeklJTU1XeFhLZlp0YUlBMUV0WGhHTHNIOEhZNm91R0laaXpDVk9sd3BVYzA?oc=5\" target=\"_blank\">Stock Market News, May 26, 2026: Tech Rally Leads S&P 500 Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWRWWDF6RVpndmREd3hkYTZ4Q1YyNmVLN09uSGlUaGdJaTdXM3kxM3lwNXRWdU9vX3NUSS1HR040RzVKQU5YZGFtU1BvSjBnTDBZWExDY0ZLLUcyamhXV0FGWVliZUxfWjFVYlFVckEyRmlsMmVaVEgzTHVOcFZLM0wtU0tHaWU3emFJdmprT0NSdUtq?oc=5\" target=\"_blank\">S&P 500, Nasdaq hit record closing highs on AI optimism, Micron joins $1 trillion club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHljZHhsSElENlA0TllCbWhRci1za0ozTVB4TmNsdHNyMVVFNEJpakJZMFRGMFhtRjlmN00tbWtRcW5BNVlzaUZCU1k3eTAzREVwdG1TWkpta0NlamtRTXV3cUlNWFlkTlVWMjdoQ05iUTBmUjU3QjUxbC0wdjFYZ2tUaHpPRE1H?oc=5\" target=\"_blank\">Micron, UnitedHealth, Rocket Lab, and These Stocks Explain Today\u2019s Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGkyU1ZYUGtYOXdVTGRlTEpScWlTdVdtTEV6YUVmaHAxRzE5bmlvYUxGUkJodVVnTGt5Mkw0NTE0LW9KQ1B5WjZDXy16X2lySU1XLWhZaGNqVk1mVXRveHVPV3pRajZuc1YtVmdXdVFCdzd4YzJsa0pLcTFXX0EzcWNrMWRsRVptVWVjdWtYNUF2N1Z3dlJJYWEzSW5yU0JCWkhOOEJxMmJ3QUVhTVNPRVptOA?oc=5\" target=\"_blank\">Stocks Rise Toward Record as Iran Peace Hopes Hold: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2Vra2c2dGNEcGhJcHV4dTRIOFRORXhpdDZvdUg1RzhPYnNxc1IwbGJlaDZoeW56cXhQSWpLTlowc0JtOEhjR0pKQXZGeDQxRGNldnMtRzNpWWpHVElPbkVHVGRzSkFod3VCMVAtOVBwamRNX0FPaVdOTUd0djF1Tk9ldkNKQnBGS183NWRkTXJJTWZIQnBtWFRsRnFmazlTM05nTHBKUQ?oc=5\" target=\"_blank\">Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDlSWkFSbWJLcEQ4WjJLRjQyN0JZRjVsQl8ta0dfN2tlNFJuLTR2SnFyVHNwV0E4SDZjUXNFLXkwOThweF9GMjQwa0JwWG8tSzJ0WjVHQzhUSGtrcDJBcGRfSnhQakNaVy1sODV2T3NlVXJpTllzRDZ1Y2dhekcySkxzcjdoUUY5ZjIw?oc=5\" target=\"_blank\">Nvidia CEO says Taiwan is 'epicentre' of AI revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZW91RHMtNFhpQTZwRjA4eG1feXBnWUlWVzktM0xJLWNQaWZURVlXVDhQakJsSE5VNWs3U2VjMGxmS1RxQmEyQUwyeDV3QmNseXI0QVJGMlFYQnV4SWN1OXctMG10ZjlxMlJILWR1cTVfQm1tc0E?oc=5\" target=\"_blank\">NVIDIA GTC Taipei at COMPUTEX: Live Updates on What\u2019s Next in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWlaS1lmd2pNZXE2d21iX3k3X2RwV2xqcGM3Si0yOVpDVHdHbnVLc0kxNTljeF8xTzlLbEtJbk1rSjk5S211cHEyaFRYMHZBRVd4aThibldFV3ZWVUVPTnF3YWRhSVdXN2ljTk9NUkh2cE1zSGozVmlKaVJFcEgzOUJB?oc=5\" target=\"_blank\">Nvidia Doubles Down on Taiwan With $150 Billion Investment. Turns Back on China.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0RGczk0T0JlWXM0b2xHUTJQSm45dlF6NkhrUThkdnpuV3k0VlhYQjktbF9JdVhfZk04ekswY2VaZk55Yk5yUVhEMVNoMVg1UjF6V1lTNGZSbEJaR3pReEoyTzFWUjlzeUl0eHN0TDBER2VkaFdGZTZ1dkFvd2hPUDRfVHg1VlRhZVBXZFFFc212LVF5N0Q1eEo5ZXBkdktlNjNpX0NYcEdldE9aT1pRcXl2dGJST21Bck1LQVBBWjRORDlyQmw4YzUwTERJcWdUaTVSNQ?oc=5\" target=\"_blank\">Nvidia spending up to $150bn a year on Taiwan AI suppliers: Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nikkei Asia</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2Vra2c2dGNEcGhJcHV4dTRIOFRORXhpdDZvdUg1RzhPYnNxc1IwbGJlaDZoeW56cXhQSWpLTlowc0JtOEhjR0pKQXZGeDQxRGNldnMtRzNpWWpHVElPbkVHVGRzSkFod3VCMVAtOVBwamRNX0FPaVdOTUd0djF1Tk9ldkNKQnBGS183NWRkTXJJTWZIQnBtWFRsRnFmazlTM05nTHBKUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "High-Level British Spy Warns of Expanding Russia Threat - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmxnSlhieWIyTC1kbnFVaVRSMnowLTVGYkxUVFIzTkNqUnN1LW54ZGFLQ0RJaE1NX0lMamoxc0NPVldFRHlCUEY2ekZGc056TkhSMWQyLW5aR004RHA3WDNNZWk0U2VCaUN6eVFtMF9RS3NrT3k1ODFfcG4yUmJvRVlzNUIxZw?oc=5\" target=\"_blank\">High-Level British Spy Warns of Expanding Russia Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHFQTXZlYjBRajdCOEZtMXc5OG5qTUtrWEY2X29OX3hwRkhyQzdlMWdTcmNMS1FjaWFpc1RSWXdZVDVHUDVkUFZ1YUhCdVhYSlBGVU1zc0h1N0hQa1ZCd2lpUDlkSVNua3doNFBMRVU0TmxpVE1Qb0plYnNtSjBCMXd1c2RXZ291bEN2NHpYRnV4ODJwYTVn?oc=5\" target=\"_blank\">UK spy chief: Time is running out for the West to confront threats from Russia and China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jN2RoWlJwaHlKa194WGFCelcyTDluT3VOWEZIYTVEWkxUU3lHMzBiUU1YdDR6eXlJeWo0eXUtZlZ6Rjh6LVJWOGxJUXJXNWZSalZIbEJ2eE5SQQ?oc=5\" target=\"_blank\">Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPak8ya1FnSm9FcHQzSmRSdGUxSjJSRjFKMXdNWlNTVktSTEIyLU5qa2JnSGszNG0xQnNpOGZXY1VIS043U29PRFJjdWRmdll2clJ4blRaTk5DUnE1SmhFWGt6bkZkMmQzbEVnbjdIX3BoQUM3Z1hfOFpTZzdDSGNXVl9HMkJYQzYyVnBkc0JQeDVHUjNYUkpkRk42R19LVGRReFNiWGlaRmJKTGFWU0k5dmpNalZkeWUtenc?oc=5\" target=\"_blank\">Britain faces 'moment of consequence' as threats from adversaries mount, spy chief says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORVVyQmpKTWg2QnduT2JUY0VlRWxlaUJteWhnSFZKbnprZWZSZE9ZdFRZWEtZOUVrOGdOems2YjlURjJydHZXM21RWWhkVmFsdFA5YlY0OXNuTjJzQmdGeFhaLTFNMXZtZjY5NUZMV3VJdDNkdWVSNFpYZ2lSOElXdEV1WE42d2RYSkM3ejlGXzVQNzNlZTU4Wk1NTmhfckNY?oc=5\" target=\"_blank\">GCHQ boss reveals how Russia is 'relentlessly targeting' the UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmxnSlhieWIyTC1kbnFVaVRSMnowLTVGYkxUVFIzTkNqUnN1LW54ZGFLQ0RJaE1NX0lMamoxc0NPVldFRHlCUEY2ekZGc056TkhSMWQyLW5aR004RHA3WDNNZWk0U2VCaUN6eVFtMF9RS3NrT3k1ODFfcG4yUmJvRVlzNUIxZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI calculated her break-even point to be around age 78.\u201d",
+          "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Chipmakers SK Hynix and Micron join $1tn club on surging AI demand - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.010869565217391304,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc1lxTWxPek5FNFMzT09uTVpsYWpaRVl0Zlhia1MwcGpRNGdSUjNMVWM0VHZUSGliSS1zRHFZajV1RHQ1dGlqU01udFJQNEpsQ01CNVVEQlI1dw?oc=5\" target=\"_blank\">Chipmakers SK Hynix and Micron join $1tn club on surging AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVUweXBvcTl3VmhhVURoTTl1VFk4eEp6Y2cxVVF0NnZuR1ZQbDFUZTFmY2xjaV9XOF9PMXY2ejNDeGhhR1VRVDFFS3htcWJfUzQzbmZMMW9KRm56MTVPWm9OM3VBRGFtQmhLQ2V2Y0t6ME1UZldYN0F1X3k3VnZMbTJ5c3FXMmRuc0hsQW94ajRRbnhFdHhZYkl6QUU1UEpvX0ZXa1NiREFIZkRaWnc?oc=5\" target=\"_blank\">Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2hFMk1QdnljU09oWERvd1VFWjRFR3JfRGkyZ0FBbUdzV1lRTmgyMmR5VGFQQjBzMjlRTWMxWFpiRExBb1hBQTdDelVseTRUbXlBUk0wTjEwbHdSdW51ZU9zaEdJTU5udXpLTjFhVlQydTFpNVNseXhxTzlmd2ltUHpLdXVtZ1RvWmFDNy16MGM1WFRQLW1uYWRwVEpwVFRPY0xLOUxYS1ZVa0I1OXZLdURITF9UQUxYRExiZNIBwgFBVV95cUxPOXRzYW5seG9jS2dpb1N2R21FTnFLbmdDYmlCVVM2Ny1VYjhUcFYtRTVST25ZMldlQUFSdUMzS0praUNVR1hkQ1U5Q1NUWDk2dk9KYjl1VGozZGFnLUR6SHRvME9ZbTc1LTJBallSR1hVandXQy12c3lJaWxQbTk5eVhuZjNYa2hXemlBYWVBbzV1bDM4bFdqLWNpU2E1cGZ0V2hhNXhMa0J2S1Q1OEZCb3ljRkowczNrWlZLOVNjY2oydw?oc=5\" target=\"_blank\">Japan, South Korea stocks hit fresh records as markets weigh Iran tensions and ceasefire talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWHRjcHE4a0IwWnpNTlZDbkRMbm1UYjFlY09ETmlIUEZRODR5Rk9MREMtZGZVdkJiQmVPVkFuQmpPb0lmbzNpV01jcjhPQ2JOVFVoaFg5My1GMmhDMzZQTjVYZ1BaTXJqXy1yNjBHNFEtWnlBaUdtXzFqdVZPdmRtcTU1UGQ4RzVNd0ttTFNYa09UTi11ZTUzR1lzMGhXTDRacUM3WUFRaTBwOEhsdWJNaVN6SlNDelNfYWE2dHdobm1ZaGt4WU43bmh0LWdSOE1oVERpZ2d0SQ?oc=5\" target=\"_blank\">SK Hynix joins Micron in $1 trillion club as AI memory chip rally accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObHBoSENFcFNsS1NHYVpHbGhmaVZKNmNoNi1IeC1SUFE4MTd1X05JbzExVGhUYkNxUzRsQWEyaWNObHQwLVZOd3BpQWZGQkFGQk1Ea0g3SndkeTBTRU5aQ3dseXFuU0NBYnUxUGw3M21SVG5PcVo1S1RpQnFQbnI1N3d6b1AzbVNMSFB1Zm5oV0dHYWo5dHQ5WnFrdTBkUQ?oc=5\" target=\"_blank\">South Korea's KOSPI hits record as SK Hynix joins $1 trillion club after Samsung, Micron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc1lxTWxPek5FNFMzT09uTVpsYWpaRVl0Zlhia1MwcGpRNGdSUjNMVWM0VHZUSGliSS1zRHFZajV1RHQ1dGlqU01udFJQNEpsQ01CNVVEQlI1dw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-27",
+          "headline": "Oil price rises back above $100 a barrel as energy market may be past \u2018point of no return\u2019 - The Guardian",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0hzelp5ajdpZzBRYjBLeW9UeXBJRy1mbXBzSjBaV3hYYWV6NjRMQi04QjBXNTdDQ19KVEpCWENWcGI3VnRtSThFQUR0ZGR0Sy1NRW5DbVZHZGZ3Q1o1SnRIWm4wX01Ta2l0NzV2N2ZDOFAtMW5FY3RySldnejl4NmNfTkJ5Tk1YaXpYYlJNV1dvdVVHeU1F?oc=5\" target=\"_blank\">Oil price rises back above $100 a barrel as energy market may be past \u2018point of no return\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0pjbFZrRGxxVXZqOG5MR2RReUJRNjhMWFhsbTRkZm9waTE3VXcyRWNDSU9QeEZMT3p6R282N1ZEQV8xREltU0w4LXBIMGJETTVLc2p2ZWNjZlBFVUM0M1RQcTE0U0MwYm9QaFVKdXhYUkpYSGpUYVN6Ul9udExJZFYxazJZbm5N0gGOAUFVX3lxTFB2ak5CWGwzLTNJWms2ODZfRWxjS2JnQ1hvc2hhU1BTMHZXbVZuQWNpU3ZmR1g0SEFXUDFrYWNhVHFUMzBNRndLYUxUQ0tiQUd3T2RQNGlaWUNYVDVVWlRMd1Y5dVFLUnVqUUUyMmY5NDg4eWViMmVKanNjT0VyN3Iwb0twNTRRbGE2bUlYTVE?oc=5\" target=\"_blank\">Brent oil jumps more than 3% after Iran vows to retaliate for U.S. strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnODh0aGhjUUFyM2JQRXVEOW9FdHNjcXFOWktBcXdfZVE0NWtaZnBFY2FuWEZ6dm1aTjdiNWpYU0VhbTlxbGcybU5FRy14ZzBJcGVma1p6WElGMkt2dTd2U19feGNIZzA3d0cwSnh3eVY?oc=5\" target=\"_blank\">The new oil order that could emerge from an Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPb3o3cXRfanFnX0xVeElLMjVXemxWNFZ5YWdOTUNVekFJYk9mOEtFQU9TVzJ4NmhOZ09GT1AzV2JLaXdMdm9ycTZ2bGNqbUJGTWxtYk9jU3RmVHRPbXpPUnY5QWY3MjV2QWd1djVmVTVudnZyQmljakxfUmgtTDJyaFRsbzdNdzM5NEFuTWdwb2VuU29yWEVyYWVrTm1tdw?oc=5\" target=\"_blank\">Oil Steadies as US Sees Progress in Iran Deal Despite Tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdktTeHl4ZHpzZm0waURXVWVISGZtQzZhMDQxQzEwRkYxVnpzSV9HQzM5ZmVhSkxMSEg3SzdvV0xsMWNMSVBPVG5TbmhDMllLWVM0S2lISzhIZ2ZWU2dST2UwdEtETWZhcGF0VHM3RGxLcXllbG5GN0JtRkpubTRkRzNqbGxqN3pTRTc3ODdqdTFBdnB1WTBYM2MwOHp0VWdBRU16LQ?oc=5\" target=\"_blank\">Oil pulls back as traders look for progress on US-Iran talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0hzelp5ajdpZzBRYjBLeW9UeXBJRy1mbXBzSjBaV3hYYWV6NjRMQi04QjBXNTdDQ19KVEpCWENWcGI3VnRtSThFQUR0ZGR0Sy1NRW5DbVZHZGZ3Q1o1SnRIWm4wX01Ta2l0NzV2N2ZDOFAtMW5FY3RySldnejl4NmNfTkJ5Tk1YaXpYYlJNV1dvdVVHeU1F?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "energy"
+      ],
+      "company_profile": {
+        "industry": "Oil & Gas Integrated",
+        "provider": "yfinance",
+        "sector": "Energy"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 2,
+      "matched_effects": [
+        {
+          "adverse_exposures": [],
+          "direction": "supportive",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [
+            "energy"
+          ],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [],
+          "direction": "supportive",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [
+            "energy"
+          ],
+          "theme_id": "oil_supply_shock"
+        }
+      ],
+      "supportive_effect_count": 2,
+      "weight_scale": 0.85
+    },
+    "news": {
+      "article_count": 3,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-13",
+          "headline": "Earnings call transcript: Ecopetrol exceeds Q1 2026 earnings forecasts - Investing.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWdMYk1LWEpDSnVuNTRuSEtPdFk3UUZ2Y2toMXhjM2ZGbjRYOTFjbGNpR2IxU0Y4ejNXTEVWSDI5Y0M3aDJvdjVPdEhxYjJMMEhWM216cUg2akhmUDlUSWhINnkxbTZHZ1JUYkxncVowbnJRN0I0V1djbXpUcHE0UUhwWlZPbFZQR0xxSmNkY2dBTjA3N0NoYjJTTzZPeEdSaTZEWEtRNWZuRmFDWF9tZkp1VHRNZUpiOGFBM0w2cXE1b0k?oc=5\" target=\"_blank\">Earnings call transcript: Ecopetrol exceeds Q1 2026 earnings forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWdMYk1LWEpDSnVuNTRuSEtPdFk3UUZ2Y2toMXhjM2ZGbjRYOTFjbGNpR2IxU0Y4ejNXTEVWSDI5Y0M3aDJvdjVPdEhxYjJMMEhWM216cUg2akhmUDlUSWhINnkxbTZHZ1JUYkxncVowbnJRN0I0V1djbXpUcHE0UUhwWlZPbFZQR0xxSmNkY2dBTjA3N0NoYjJTTzZPeEdSaTZEWEtRNWZuRmFDWF9tZkp1VHRNZUpiOGFBM0w2cXE1b0k?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-13",
+          "headline": "Ecopetrol ADR earnings beat by $732.87, revenue topped estimates - Investing.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.09090909090909091,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVlfb2Nkb282czRNbGo3QUxRb0Z3WFVCTU1OVzhsUTVQMGhVVnZVbWJseThJTzJBaDNxRjZySEpFYkh6N2JLcGtzRUVfTjFJOGNVRXVicDU2QVAxR09TRFg5aWtQWnZjUEFfRjlpWktjZnFON3c2YzNjTmdIYnFwXzY5YVNhOHFhZm9YQU9ucWNaQ0x1RVJSTnZkN1p3Wks3bXZENHZiRXdVSnBaTmc?oc=5\" target=\"_blank\">Ecopetrol ADR earnings beat by $732.87, revenue topped estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVlfb2Nkb282czRNbGo3QUxRb0Z3WFVCTU1OVzhsUTVQMGhVVnZVbWJseThJTzJBaDNxRjZySEpFYkh6N2JLcGtzRUVfTjFJOGNVRXVicDU2QVAxR09TRFg5aWtQWnZjUEFfRjlpWktjZnFON3c2YzNjTmdIYnFwXzY5YVNhOHFhZm9YQU9ucWNaQ0x1RVJSTnZkN1p3Wks3bXZENHZiRXdVSnBaTmc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-12",
+          "headline": "Update from the Board of Directors of Ecopetrol S.A. - Barchart.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Barchart.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUJHZmJPRHdiWFBuYm1PbkJvdE1XanhkZUxBVTJCSV9vOTNHVS0zWWRNd0h4VmcyU1NZZzdhcERxcTRXNXB5aDd3YVk3T2VOSWI1M0lhazVuYnEwQVA4bFlUdXlKYzNOZE9hZXVwOVVmQnF0MVVfQnpzdzVRYmYwLVAxcE94VjNHSFNMSGR4SjNaTG02TUJ5WDNVYw?oc=5\" target=\"_blank\">Update from the Board of Directors of Ecopetrol S.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUJHZmJPRHdiWFBuYm1PbkJvdE1XanhkZUxBVTJCSV9vOTNHVS0zWWRNd0h4VmcyU1NZZzdhcERxcTRXNXB5aDd3YVk3T2VOSWI1M0lhazVuYnEwQVA4bFlUdXlKYzNOZE9hZXVwOVVmQnF0MVVfQnpzdzVRYmYwLVAxcE94VjNHSFNMSGR4SjNaTG02TUJ5WDNVYw?oc=5"
+        }
+      ],
+      "coverage_quality": "good",
+      "negative_signal_count": 0,
+      "positive_signal_count": 1
+    },
+    "sentiment": {
+      "days_sampled": 2,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": 0.022727272727272728
+    },
+    "technical": {
+      "atr14": 0.59437780012578,
+      "close": 14.86,
+      "close_vs_ema200_pct": 25.70833627644552,
+      "close_vs_ema20_pct": 8.203933234210428,
+      "close_vs_ema50_pct": 9.311225166805881,
+      "close_vs_hh20_pct": 3.3379694019471393,
+      "ema20": 13.7333270204098,
+      "ema200": 11.8210139758125,
+      "ema50": 13.5942122845335,
+      "entry_ready": false,
+      "hh20_prev": 14.38,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.08659023683287
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 2,
+    "exposures": [
+      "energy"
+    ],
+    "industry": "Oil & Gas Integrated",
+    "sector": "Energy",
+    "supportive_effects": 2,
+    "weight_scale": 0.85
+  },
+  "news_support": {
+    "explanation": "Python classified 3 stock-specific articles into 1 constructive, 0 adverse, and 2 catalyst-tagged signals. Coverage quality is good. It matched 2 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.85 macro weight because company-specific coverage is good.",
+    "stance": "supportive"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (14.38), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.09, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-13: Ecopetrol ADR earnings beat by $732.87, revenue topped estimates - Investing.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-27: Supportive market tailwind for this exposure set (Oil supply shock / energy tailwind): Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist - Investing.com."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 14.38 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 3.34
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.09
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 8.2
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 9.31
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 25.71
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 2,
+        "value": 1
+      },
+      {
+        "label": "Supportive market / sector theme overlay (downweighted because company-specific coverage is limited)",
+        "points": 4,
+        "value": 2
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 67
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-27",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-27_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-05-13",
+      "publisher": "Investing.com",
+      "title": "Earnings call transcript: Ecopetrol exceeds Q1 2026 earnings forecasts - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWdMYk1LWEpDSnVuNTRuSEtPdFk3UUZ2Y2toMXhjM2ZGbjRYOTFjbGNpR2IxU0Y4ejNXTEVWSDI5Y0M3aDJvdjVPdEhxYjJMMEhWM216cUg2akhmUDlUSWhINnkxbTZHZ1JUYkxncVowbnJRN0I0V1djbXpUcHE0UUhwWlZPbFZQR0xxSmNkY2dBTjA3N0NoYjJTTzZPeEdSaTZEWEtRNWZuRmFDWF9tZkp1VHRNZUpiOGFBM0w2cXE1b0k?oc=5"
+    },
+    {
+      "published_at": "2026-05-13",
+      "publisher": "Investing.com",
+      "title": "Ecopetrol ADR earnings beat by $732.87, revenue topped estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVlfb2Nkb282czRNbGo3QUxRb0Z3WFVCTU1OVzhsUTVQMGhVVnZVbWJseThJTzJBaDNxRjZySEpFYkh6N2JLcGtzRUVfTjFJOGNVRXVicDU2QVAxR09TRFg5aWtQWnZjUEFfRjlpWktjZnFON3c2YzNjTmdIYnFwXzY5YVNhOHFhZm9YQU9ucWNaQ0x1RVJSTnZkN1p3Wks3bXZENHZiRXdVSnBaTmc?oc=5"
+    },
+    {
+      "published_at": "2026-05-12",
+      "publisher": "Barchart.com",
+      "title": "Update from the Board of Directors of Ecopetrol S.A. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUJHZmJPRHdiWFBuYm1PbkJvdE1XanhkZUxBVTJCSV9vOTNHVS0zWWRNd0h4VmcyU1NZZzdhcERxcTRXNXB5aDd3YVk3T2VOSWI1M0lhazVuYnEwQVA4bFlUdXlKYzNOZE9hZXVwOVVmQnF0MVVfQnpzdzVRYmYwLVAxcE94VjNHSFNMSGR4SjNaTG02TUJ5WDNVYw?oc=5"
+    },
+    {
+      "published_at": "2026-05-27",
+      "publisher": "Investing.com",
+      "title": "Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd18yeGhXTmlOMHhycHU1NEtRd2dIQXhJc1VXMENHOE9YN0ltOS1kWkJpU25lWEV5QWlGOXhfWG9CckpGa003Y3pnUEVqcngzQnRxRFdKQ2tRbm4tZHVrOWxRY1N0YjdOeE5JT2hEUGNjNDJacFBGN09HNGkxQXRHR1IzZ1VOQXRsNmVqWWZjQzJYaTlCamxzWFlDWTZRZHpkU3lTUGh2TjRhLUFXaFlMa0l0Vk9ta0wyVFZiWjhSeWd6ZkptSzljZGJyaVpFaWc?oc=5"
+    },
+    {
+      "published_at": "2026-05-27",
+      "publisher": "AP News",
+      "title": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5"
+    }
+  ],
+  "summary": "EC scores 67/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 2 supportive versus 0 adverse effects.",
+  "symbol": "EC"
+}

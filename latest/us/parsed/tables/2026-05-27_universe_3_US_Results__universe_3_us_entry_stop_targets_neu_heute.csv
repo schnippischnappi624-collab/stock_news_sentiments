@@ -1,0 +1,2 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
+20260526,US,HLIT,Harmonic Inc,USD,USA,16.9,18574966.0,5.31035599791228,15.39,0.883500468140245,5.23,15.39,14.0647,1.3253,16.7153,18.0405,19.3658,8.21,1.0,,250.0,,,,

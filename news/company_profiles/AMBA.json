@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-05-27T09:15:43.408860+00:00",
+  "industry": "Semiconductor Equipment & Materials",
+  "long_name": "Ambarella, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "AMBA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "AMBA",
+  "sector": "Technology",
+  "short_name": "Ambarella, Inc.",
+  "symbol": "AMBA"
+}
