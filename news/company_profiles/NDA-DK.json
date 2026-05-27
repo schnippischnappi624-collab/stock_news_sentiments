@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Nordea Bank Abp",
+  "provider": "yfinance",
+  "query_symbol": "NDA-DK.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NDA-DK",
+  "sector": "Financial Services",
+  "short_name": "Nordea Bank Abp",
+  "symbol": "NDA-DK.CO"
+}

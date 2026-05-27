@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Real Estate Services",
+  "long_name": "Fastighetsbolaget Emilshus AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "EMIL-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "EMIL-B",
+  "sector": "Real Estate",
+  "short_name": "Fastighetsbolaget Emilshus AB s",
+  "symbol": "EMIL-B.ST"
+}

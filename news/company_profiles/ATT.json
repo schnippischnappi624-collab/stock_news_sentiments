@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Medical Care Facilities",
+  "long_name": "Attendo AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "ATT.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ATT",
+  "sector": "Healthcare",
+  "short_name": "Attendo AB",
+  "symbol": "ATT.ST"
+}

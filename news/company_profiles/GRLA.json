@@ -1,0 +1,14 @@
+{
+  "country": "Greenland",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Gr\u00f8nlandsBANKEN A/S",
+  "provider": "yfinance",
+  "query_symbol": "GRLA.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GRLA",
+  "sector": "Financial Services",
+  "short_name": "Gr\u00f8nlandsbanken A/S",
+  "symbol": "GRLA.CO"
+}

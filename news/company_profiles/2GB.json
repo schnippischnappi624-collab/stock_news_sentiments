@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Specialty Industrial Machinery",
+  "long_name": "2G Energy AG",
+  "provider": "yfinance",
+  "query_symbol": "2GB.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "2GB",
+  "sector": "Industrials",
+  "short_name": "2G Energy AG                  I",
+  "symbol": "2GB.DE"
+}

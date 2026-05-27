@@ -1,0 +1,555 @@
+{
+  "analysis_date": "2026-05-27",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "medium",
+    "label": "constructive_bullish",
+    "score_0_to_100": 79,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-04-28: Attendo acquires A-klinikka Oy in Finland - TradingView."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Attendo AB (publ)",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.85,
+    "quality": "good",
+    "stock_articles": 4
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Stock futures are little changed after the S&P 500 closes at another record: Live updates - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.044444444444444446,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5\" target=\"_blank\">Stock futures are little changed after the S&P 500 closes at another record: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkdkVDZmdENSYi1wYUdEQmlBOTk3V290Y2VTT2pPRzhNTHM1cjBld2RPaTJxZExiRXMtQk1wc3dUazU1a2MwVmNPUDZ3aDEzVWdxemhzdGI4N2hjeklJTU1XeFhLZlp0YUlBMUV0WGhHTHNIOEhZNm91R0laaXpDVk9sd3BVYzA?oc=5\" target=\"_blank\">Stock Market News, May 26, 2026: Tech Rally Leads S&P 500 Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWRWWDF6RVpndmREd3hkYTZ4Q1YyNmVLN09uSGlUaGdJaTdXM3kxM3lwNXRWdU9vX3NUSS1HR040RzVKQU5YZGFtU1BvSjBnTDBZWExDY0ZLLUcyamhXV0FGWVliZUxfWjFVYlFVckEyRmlsMmVaVEgzTHVOcFZLM0wtU0tHaWU3emFJdmprT0NSdUtq?oc=5\" target=\"_blank\">S&P 500, Nasdaq hit record closing highs on AI optimism, Micron joins $1 trillion club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHljZHhsSElENlA0TllCbWhRci1za0ozTVB4TmNsdHNyMVVFNEJpakJZMFRGMFhtRjlmN00tbWtRcW5BNVlzaUZCU1k3eTAzREVwdG1TWkpta0NlamtRTXV3cUlNWFlkTlVWMjdoQ05iUTBmUjU3QjUxbC0wdjFYZ2tUaHpPRE1H?oc=5\" target=\"_blank\">Micron, UnitedHealth, Rocket Lab, and These Stocks Explain Today\u2019s Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGkyU1ZYUGtYOXdVTGRlTEpScWlTdVdtTEV6YUVmaHAxRzE5bmlvYUxGUkJodVVnTGt5Mkw0NTE0LW9KQ1B5WjZDXy16X2lySU1XLWhZaGNqVk1mVXRveHVPV3pRajZuc1YtVmdXdVFCdzd4YzJsa0pLcTFXX0EzcWNrMWRsRVptVWVjdWtYNUF2N1Z3dlJJYWEzSW5yU0JCWkhOOEJxMmJ3QUVhTVNPRVptOA?oc=5\" target=\"_blank\">Stocks Rise Toward Record as Iran Peace Hopes Hold: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI calculated her break-even point to be around age 78.\u201d",
+          "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Chipmakers SK Hynix and Micron join $1tn club on surging AI demand - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.010869565217391304,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc1lxTWxPek5FNFMzT09uTVpsYWpaRVl0Zlhia1MwcGpRNGdSUjNMVWM0VHZUSGliSS1zRHFZajV1RHQ1dGlqU01udFJQNEpsQ01CNVVEQlI1dw?oc=5\" target=\"_blank\">Chipmakers SK Hynix and Micron join $1tn club on surging AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVUweXBvcTl3VmhhVURoTTl1VFk4eEp6Y2cxVVF0NnZuR1ZQbDFUZTFmY2xjaV9XOF9PMXY2ejNDeGhhR1VRVDFFS3htcWJfUzQzbmZMMW9KRm56MTVPWm9OM3VBRGFtQmhLQ2V2Y0t6ME1UZldYN0F1X3k3VnZMbTJ5c3FXMmRuc0hsQW94ajRRbnhFdHhZYkl6QUU1UEpvX0ZXa1NiREFIZkRaWnc?oc=5\" target=\"_blank\">Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2hFMk1QdnljU09oWERvd1VFWjRFR3JfRGkyZ0FBbUdzV1lRTmgyMmR5VGFQQjBzMjlRTWMxWFpiRExBb1hBQTdDelVseTRUbXlBUk0wTjEwbHdSdW51ZU9zaEdJTU5udXpLTjFhVlQydTFpNVNseXhxTzlmd2ltUHpLdXVtZ1RvWmFDNy16MGM1WFRQLW1uYWRwVEpwVFRPY0xLOUxYS1ZVa0I1OXZLdURITF9UQUxYRExiZNIBwgFBVV95cUxPOXRzYW5seG9jS2dpb1N2R21FTnFLbmdDYmlCVVM2Ny1VYjhUcFYtRTVST25ZMldlQUFSdUMzS0praUNVR1hkQ1U5Q1NUWDk2dk9KYjl1VGozZGFnLUR6SHRvME9ZbTc1LTJBallSR1hVandXQy12c3lJaWxQbTk5eVhuZjNYa2hXemlBYWVBbzV1bDM4bFdqLWNpU2E1cGZ0V2hhNXhMa0J2S1Q1OEZCb3ljRkowczNrWlZLOVNjY2oydw?oc=5\" target=\"_blank\">Japan, South Korea stocks hit fresh records as markets weigh Iran tensions and ceasefire talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWHRjcHE4a0IwWnpNTlZDbkRMbm1UYjFlY09ETmlIUEZRODR5Rk9MREMtZGZVdkJiQmVPVkFuQmpPb0lmbzNpV01jcjhPQ2JOVFVoaFg5My1GMmhDMzZQTjVYZ1BaTXJqXy1yNjBHNFEtWnlBaUdtXzFqdVZPdmRtcTU1UGQ4RzVNd0ttTFNYa09UTi11ZTUzR1lzMGhXTDRacUM3WUFRaTBwOEhsdWJNaVN6SlNDelNfYWE2dHdobm1ZaGt4WU43bmh0LWdSOE1oVERpZ2d0SQ?oc=5\" target=\"_blank\">SK Hynix joins Micron in $1 trillion club as AI memory chip rally accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObHBoSENFcFNsS1NHYVpHbGhmaVZKNmNoNi1IeC1SUFE4MTd1X05JbzExVGhUYkNxUzRsQWEyaWNObHQwLVZOd3BpQWZGQkFGQk1Ea0g3SndkeTBTRU5aQ3dseXFuU0NBYnUxUGw3M21SVG5PcVo1S1RpQnFQbnI1N3d6b1AzbVNMSFB1Zm5oV0dHYWo5dHQ5WnFrdTBkUQ?oc=5\" target=\"_blank\">South Korea's KOSPI hits record as SK Hynix joins $1 trillion club after Samsung, Micron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pc1lxTWxPek5FNFMzT09uTVpsYWpaRVl0Zlhia1MwcGpRNGdSUjNMVWM0VHZUSGliSS1zRHFZajV1RHQ1dGlqU01udFJQNEpsQ01CNVVEQlI1dw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-27",
+          "headline": "Oil price rises back above $100 a barrel as energy market may be past \u2018point of no return\u2019 - The Guardian",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0hzelp5ajdpZzBRYjBLeW9UeXBJRy1mbXBzSjBaV3hYYWV6NjRMQi04QjBXNTdDQ19KVEpCWENWcGI3VnRtSThFQUR0ZGR0Sy1NRW5DbVZHZGZ3Q1o1SnRIWm4wX01Ta2l0NzV2N2ZDOFAtMW5FY3RySldnejl4NmNfTkJ5Tk1YaXpYYlJNV1dvdVVHeU1F?oc=5\" target=\"_blank\">Oil price rises back above $100 a barrel as energy market may be past \u2018point of no return\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0pjbFZrRGxxVXZqOG5MR2RReUJRNjhMWFhsbTRkZm9waTE3VXcyRWNDSU9QeEZMT3p6R282N1ZEQV8xREltU0w4LXBIMGJETTVLc2p2ZWNjZlBFVUM0M1RQcTE0U0MwYm9QaFVKdXhYUkpYSGpUYVN6Ul9udExJZFYxazJZbm5N0gGOAUFVX3lxTFB2ak5CWGwzLTNJWms2ODZfRWxjS2JnQ1hvc2hhU1BTMHZXbVZuQWNpU3ZmR1g0SEFXUDFrYWNhVHFUMzBNRndLYUxUQ0tiQUd3T2RQNGlaWUNYVDVVWlRMd1Y5dVFLUnVqUUUyMmY5NDg4eWViMmVKanNjT0VyN3Iwb0twNTRRbGE2bUlYTVE?oc=5\" target=\"_blank\">Brent oil jumps more than 3% after Iran vows to retaliate for U.S. strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlGQ0FWOEE2cGVYSmx5WW1lRmt0VFEtTEl0azFkeHJzOXpZNldkb2hudGY1V0p6bFNDTXpfNnhjbjhGd3plNE9zY2dlMUdDSWRaUTl1VkUzZzFOOWFQbkYxbHNNenY2blZrZkYtQTcxRXlkclFVTU8yVlFkT0hjd0xfT0QySldIcVk5b2R3OHdZajBqcmN5VHgxcjBXeDg4QmY3Tl9nWXk3VGx1OWlKVXV2TUlONW1ETGFsXw?oc=5\" target=\"_blank\">Brent crude jumps 4%, as US strikes in Iran set back hopes for Hormuz re-opening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTktPNVk2TjdzbHJMUjlCY21PWGJPdGZZUmhCZDd0TXpCVmZ3QjhYcXNpdXpKYUEydmFHUzhlMFlmZTNOaDF4MlBlTGtvY3ZFaGxiUEswZEhxY3VoTWZORmdYOFQ1ZGlKQ09ZYm9mRmtZN0pSMWl5M1RUZDJyRk9aZVk4SUhHUWJoai1lNVMyaHNiVFFpd05wbnh2MVg2UEZNOVZqSmZmVVZVUFdiSlRMQ1N2UEttNVFUWW5rajJiakthY1ZPbkM4X3FRd0tCYW1YNHhSRkQ2RkpKdFplbnZqLXo0bF9zb1pYVzNTZTRNRmFBRkJY?oc=5\" target=\"_blank\">Inflation Report This Week Could Throw Markets for a Tumble as Oil Dips on Hopes for a U.S.-Iran Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnODh0aGhjUUFyM2JQRXVEOW9FdHNjcXFOWktBcXdfZVE0NWtaZnBFY2FuWEZ6dm1aTjdiNWpYU0VhbTlxbGcybU5FRy14ZzBJcGVma1p6WElGMkt2dTd2U19feGNIZzA3d0cwSnh3eVY?oc=5\" target=\"_blank\">The new oil order that could emerge from an Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0hzelp5ajdpZzBRYjBLeW9UeXBJRy1mbXBzSjBaV3hYYWV6NjRMQi04QjBXNTdDQ19KVEpCWENWcGI3VnRtSThFQUR0ZGR0Sy1NRW5DbVZHZGZ3Q1o1SnRIWm4wX01Ta2l0NzV2N2ZDOFAtMW5FY3RySldnejl4NmNfTkJ5Tk1YaXpYYlJNV1dvdVVHeU1F?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI\u2019ve found that acting \u2018normal\u2019 means others treat me like one of the group.\u201d",
+          "url": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHZOV3ZwN3RHUkdRaDVQYVJrUzlwN1duR1NGa0hrM0hpaWMxTXpOZFZHa2p3UUZNa2RWR2ZnWjdDYVNoS0Z6TGp0eFJrZ0tJOFlkbXFpMUtzSW5DR09MV2Y0QmxxRS12bld3WFVqM2E3dUIzV3M0cTVCb3NROUMwZy1QR3VleUZWZXIwTU1Vckd0VlNfazl1MVFXRQ?oc=5\" target=\"_blank\">Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT3BBQi16VGM1YkxQWThxTmVlNXFvbHVJUExjMWgzRzEyeUFzMTZ5U3FmUE10alNlMFZJMmdVMmEtLWJwS0dITDNzc3hMWHZhNDY3RDdjZENsRE9VRTAxN3Etck5scmZPS3llOF92U3RVSjNQMjNsSGVLVlJXQ19tLW1CQS1OSjVRNzFF?oc=5\" target=\"_blank\">Canada Strikes Landmark Deal to Export Liquefied Natural Gas to Germany</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFlsb1cwdzJqdkFyV2RHQ1pVa3dBbHdMcnI0Q0hZSmdkekpSaFBxRXJpb2xJNXpycFFIcXByX2Izd0pFcF83cDNtdTZ1emdpbzczTUpyTzkzc2cxRnlVN2szZlpQazFTMFh0SnBpeFVETDhhcDNPR1VhUF9sdmpyX1VBNVJBNG5zcDVvbHFnNTBnQldnT2pReERGNzBGdWJZRFRKdXJ3Qkl2YWEzVGxCV3d0YUg?oc=5\" target=\"_blank\">Canada to sign deal with Germany's SEFE for Ksi Lisims LNG, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxON3JhOGZETGpDVU5vQTQwODdlRnpWUF95NmU0QnU4clRWc010czBYWU1JS1k4Rjc0cUx6eDZBNW9zcEF5bnZ4Mm5jSGkxUnkxeE1fSFd2NGtTX3lMc1NfOF85R0FBVDVURFVQQ04wQlZJNFp3TDZqeU8wYjZCM29vTWtVNjJPUVpwaXI1clJhZHZMYmViMGJzbmNkRkFxRGZPUWFYZ3dsNlJfdENRVWEyMTlqNTRDbWRDRWlQMQ?oc=5\" target=\"_blank\">Germany, Canada to Sign Major LNG Deal as Europe Seeks Energy Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXY3cWdUYmszRkNrQkd6UzNHeHRwZExuZFhnNUZjUm9sVVB6TVpFUTh0bWJmQmZjWjMtNVZSSHFZU0pCa1BGMU0yODhVblo2d1F0aEFKVktJcnZzbE5vSjdnUGY4TnF1b28xUnIxQl9mOXRYeTdVZ1dtNF9pRUZJcGFycVBGSEl4MVhiWEZZRUZkbUZCbnVqWmtTcmdHRTBZd2VKbGtn?oc=5\" target=\"_blank\">Ksi Lisims reaches LNG deal with German utility SEFE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHZOV3ZwN3RHUkdRaDVQYVJrUzlwN1duR1NGa0hrM0hpaWMxTXpOZFZHa2p3UUZNa2RWR2ZnWjdDYVNoS0Z6TGp0eFJrZ0tJOFlkbXFpMUtzSW5DR09MV2Y0QmxxRS12bld3WFVqM2E3dUIzV3M0cTVCb3NROUMwZy1QR3VleUZWZXIwTU1Vckd0VlNfazl1MVFXRQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "\u2018SCUM\u2019: Trump enters prediction market fight with swing at regulator's critics - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0Z4UFNoREVrU1NZb2VPLUtMNHpuVTlUZy1Ga3dnN0VWcFdUVjBUa0NqRFF2a1VHMWkxdExCV19OQnJieFZWUkllMzhZUENiRWIxQThVUXcxeWdyUV94V250YjJvV2llWlRtc2o0RDcwQUtEeURUR1dkbkpuYUI4VGtqY2hoMGNjWDF6MUJVb0ZJZWNWYS10bQ?oc=5\" target=\"_blank\">\u2018SCUM\u2019: Trump enters prediction market fight with swing at regulator's critics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUhqOUpKbDk5S0hySllYRG1MOGxCQzVIWXNudHI4ZzlqS1hDNzQ0RWdCNDU3cWhFejd5SnF5Y3FsNzQ3WklGSHl2ZWVtYkdibXVsWHM2N0xuc0dVcWtmcXV3b3J4LWRoZHhCNzdxT2F3WUFlcy1aaFJxM3hlaDdFV19mYzV5UnpkRDZoWG5jcG9OZzZ4?oc=5\" target=\"_blank\">\u2018Scum\u2019: Trump attacks US states\u2019 efforts to regulate prediction markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWtHZE5ZVW01aDMyNURMWFdITTNvOW9oQ0hfZU1wZnhXMXpzQnhMYWNDTWJjYVBXVm9KTU5ZbzV1eFk4aVJIQUhmbEUzcHhyNWIzSDQwNFM3Sjd5QmpZVTRXVVN4Z0poTVpEV1RmYUhpT205T0ZHQV9mWmIwNldrR09iU1NsSk1iSDRqYWJZWlM4Zm5r?oc=5\" target=\"_blank\">Trump pledges to protect the crypto industry and ensure prediction markets \u2018thrive\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVZvVU1TWXJlRmFEcmVvVzBvZ3REWThISHFZdmhMdjkyMVM3TFpKczZxR1BJa19ZaFQ3ZVFTTFNSODhleHAycDZfRkpCVHV5N1EtenRMcnZSSkdIb0puQ2ItR01WNHJiTU1ySnNuMDlLM2RlZWFCaGhGV05LdThSYV9Fbk4wVnFLRmfSAY8BQVVfeXFMTzQ5NXY0STQ5MFVROVlvTmhEUlRwbUNiczNaY2dvc0l4RDhnbElja1Q3YlM1d0w1aUxldzNwanp6NlBRX2ZTX1RPRnJXekIxSU5fM3h3QzZNYm1zd2drMFg4WFJ4NjdZZHg1VThmYVJvcENRTmpiMDF6TUR1enl1RDF2WmdrWGkydTFfUDlrVms?oc=5\" target=\"_blank\">Trump: \u2018Critically important\u2019 CFTC has exclusive authority over prediction markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUFFUjYzZjM1WkVRVXVxdWFHQnE0azVCY29QRnFZZmxPdWdWaDNSZnpwdER2ZVdJQjBUbU5lU3JHOWU0WUlHUmNGdXZpY0ZyaXlwWVI2REtHSXdJOEY0RzRYa0k4cS03MjN6YWRSNFB6dlpvRTNiUDFPV0IyNzM5QjNVX211VWx1Z3AxYVBQbGVxaEFQa1QtRFNUV3JnV0x0VmNhODV0VElGMnNjRndhYko4Q0ZIQQ?oc=5\" target=\"_blank\">Trump Backs CFTC as Prediction Market Regulator Amid State Fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0Z4UFNoREVrU1NZb2VPLUtMNHpuVTlUZy1Ga3dnN0VWcFdUVjBUa0NqRFF2a1VHMWkxdExCV19OQnJieFZWUkllMzhZUENiRWIxQThVUXcxeWdyUV94V250YjJvV2llWlRtc2o0RDcwQUtEeURUR1dkbkpuYUI4VGtqY2hoMGNjWDF6MUJVb0ZJZWNWYS10bQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cThe sister claims she does not have to explain herself to anyone.\u201d",
+          "url": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Dozens killed in Lebanon as Israel intensifies strikes - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jVjBtRTVwMTh2clFFMGNtcDByVWxEUTJ5RG9lZnNDSUdNeWRDRFFjVHR6b2tVaUVNRWxTTk5oUWk1U0VDMUQ2cHVFdnZkRmxlRm82cjBoblBEUQ?oc=5\" target=\"_blank\">Dozens killed in Lebanon as Israel intensifies strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcG83M3dvUlJjanhXeGVlZ3ZGbG5iM3JfVG5wUDMyZUVGWXlJanhJSGxvQkdsQmxxRlBtSkpQY21vRW90MFNHNHNUSV9DdnNnVE9DNWpyMzl0UGZGMXdoLXpaSEVCanVIR3VZTVdUY3poaHpHLU5mVEgxQzBzVVpDX3gxRkg1dEN2aFRrazJBVEVZVFNSZ2tWRDdmZE1Rc0cxaUY2YzlReU1pWV9CY2xMWDctbHFWeTFwcHBTc2g3SXTSAcYBQVVfeXFMTkhVbktCc082cVgzLXZjRWpxRmFnSDFwWVBSczdTRUlTSEs5NXJ3Nmp3ZWZRTjM4LW9UVVJ5YldTN3cwTnBiQ3Z2YURtT2R4SnB1VUMwWDROLXcxX2Qyd3gxNmR5LUp2ZWFySlkzQlRVSlpkREJzZnJNalpoeHVITVZsa3g0SGkwZGR3MW1GOEY5NFlSMkp0OTVUZ01taV9sWW1YX2tEV2ZIQzJqSjdiZVh4MVNYbUc3WnU4N2FPaVhsb2xmdHhB?oc=5\" target=\"_blank\">Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE00a1lkaFdCdF9IeHhLSHdUQWJjYzVBU0VJczJvTTdyWHhJSnpUakpKOFlKbHNEQXdYby1ldFlRaFpCcE5ZS0xZOVVuZjlkRGtaTTZLOHVwTTNoSnNZN21HY9IBZkFVX3lxTE9vYUJjU1RQZXctRGtiRlZwakdnZlBxRlZqVGVZOTNlZ0tGTWJZNVV0d3RhcjgyQXdHZzMwY015a2NSNktXVFMwYmE3eUY3RHUzVHNDNUV1MkxWTG9JM1otU1MzRHdOQQ?oc=5\" target=\"_blank\">Lebanon reports 31 killed Tuesday in Israeli strikes on Hezbollah targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQkJ1UkFLWFh5dTV3V0tsUWRtQkVNbEtXVXNqdHV2NW56bDB1RFRGZDZpLTJiOFJzVkt6WXh1SG0tc2FJYm1mNXpkMHV5QUJEakJaUS1EUDhaWE9hWjVTbC1iYTBHUXdHUWVQcTVWeFdsVUtLQmYyR2tHRVpPRkl0dUJuTFFpTHJsbld2cDhhcHh0clhWdTl4c1VXak1HZw?oc=5\" target=\"_blank\">Lebanon ceasefire falters as Trump pushes for Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmYzaGNfS3diVERUUElLNzRjVGpQMm9BUjE2c1FsVUp1WVpORklZWXptY3o5ck1jMmhJanZ1VDBHZDdmR09EMTJ6aWliR3B2akRHak1jaU5LbXhqWVdLdTYyZjBLVXhZYjR3VGoyamlsb01zQVFlNGJNREFpRTg0T1NpX0dHbEE1VGxTeE5YbEhOSzNQVTJIVWg0cXlnNGxBMmRrUkRrUFdJTm1Kc2lyaEd2ZkhPdF82b2hlaDhWa2dXVTBi?oc=5\" target=\"_blank\">Israel pounds Lebanon with strikes, expands ground operations past security zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jVjBtRTVwMTh2clFFMGNtcDByVWxEUTJ5RG9lZnNDSUdNeWRDRFFjVHR6b2tVaUVNRWxTTk5oUWk1U0VDMUQ2cHVFdnZkRmxlRm82cjBoblBEUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\" - CBS News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CBS News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV90b0dVbHBrdzl0ZmxyUzl5d1dEZk5VbEtNVjBoRUtHVVkxRzNoWmxERVhhUVhTR19fbkZoWjRzdFhqeHlqY1pkZUR2WmgyQ2JOeHpyX3U2MDNLOUtsVko3VmVWSEtWaXlQTHVSRFV3TFJXVHZTQ2NIei1tUlBaOWFTRXBONUhIZmxGSllR0gGTAUFVX3lxTFBkZDdUNkFPQmptUk5mTDJ3VkNqMElGOUFORkJRWEFhMThnQzU5U09LQXhHZEJkLTZtNGR0TE9KNFVoR0lSekV4SXBfZWNBa1F5MC1EUFJkNjEwekY1RUdNLTNKVEtISGtBX2tVMm5MT2RnZjN1SnF1T2kxb05uMlJwVUdKOEJSUWtva0ZudmV1Q1p0QQ?oc=5\" target=\"_blank\">Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0hNeUlkZDFxWXdGcnR2ZXplczNWOWFNLTRkZzdOckZsV0toUGhQcVF2Nm14MkxRdVNza0tib0Q4bGJwWVM0bEUwVDZMUDNuZ2hUVklIVU5TRVJFWTVKOEx2eXVNRnBOZndtelZRa2RwZVpvYTRzRU1XWmZDMVlTZExsZw?oc=5\" target=\"_blank\">When Iran thumbs its nose at the ceasefire, the Trump administration shrugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0lPWm9sbHAtdXhZeHlPVzhoay1teEZDMTM0RWRZY2FYd0d3blplVGdzSjRsZXdsZWpZY3ZPaE41dllxR2xGOTdqamxhOGVlYmc0bFpkdUVOREx0SnVveWV1TGtMa29FTGxqYWFzLXB0NGtJUU5NSjBpTmZqc1Vobkdfc2ZTdw?oc=5\" target=\"_blank\">Trump news at a glance: Iran signals \u2018bad faith\u2019 US strikes will not hinder peace talks as Trump calls a rare cabinet meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYzdyRkVnYnVJbDBrS0Fpb2VULTI2XzNIQlN2ZVZSMlg0b01VLTJXY1VDeDJ6NTlTQ1BScXdKTGEzaTdUWWR0UFdyalJneDlyUGZEckFpSFMzcjJvVFNfVUhJblIxWFM0MktoeXBLcG94UFk?oc=5\" target=\"_blank\">Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5\" target=\"_blank\">US launches new strikes on Iran, targeting missile sites and boats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV90b0dVbHBrdzl0ZmxyUzl5d1dEZk5VbEtNVjBoRUtHVVkxRzNoWmxERVhhUVhTR19fbkZoWjRzdFhqeHlqY1pkZUR2WmgyQ2JOeHpyX3U2MDNLOUtsVko3VmVWSEtWaXlQTHVSRFV3TFJXVHZTQ2NIei1tUlBaOWFTRXBONUhIZmxGSllR0gGTAUFVX3lxTFBkZDdUNkFPQmptUk5mTDJ3VkNqMElGOUFORkJRWEFhMThnQzU5U09LQXhHZEJkLTZtNGR0TE9KNFVoR0lSekV4SXBfZWNBa1F5MC1EUFJkNjEwekY1RUdNLTNKVEtISGtBX2tVMm5MT2RnZjN1SnF1T2kxb05uMlJwVUdKOEJSUWtva0ZudmV1Q1p0QQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "Join the Abraham Accords? US allies scoff at Trump\u2019s demand. - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUFiYXljTkstVHRvb3J4YTFpNTlTLV9Yd3ZTZGh0TnAwV3F0RTZNZ3JHUWN6TG8wU2FLRC1OVWdPN25lUzJDQ19uSTBqTGdDR0hCZWxpVWYxcV9HTkZzdmduUkFXUU9NRG8yNjNIa08tOFFLdmE4TGpaMXE3cGJwbmVtaXk5a2xDYm1iTVlFN0F1TkNUUmVvQm85MA?oc=5\" target=\"_blank\">Join the Abraham Accords? US allies scoff at Trump\u2019s demand.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LY0hHWTdhVkIxOWszaVllM1U5TmtQZEZtZ0trOV9nTFZQLVRZelRVd0V0TjQ3ajJLV2JTOXFSREE1aHd6WDNWaEF5bjQ0T3RPSjRtNDdTVXczQnNSOUp3WU5kd0x2RUJzUFRyQ0dwbklObmhmdUtOWlVrcmNaU3M?oc=5\" target=\"_blank\">A ruse, a brave gamble or a fantasy? Why Trump\u2019s most puzzling Iran move yet is unlikely to work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMFFNaFNVSDBMVHBsOXdTNVJGbF9fSExrT0thcU5QSFNzSFJ3T3IyTjh6a08tdTc1MGhiTEdTaHlNcHlmT0l5V0JFU3B6cEFrZ2ZpSTNDZVNEbWtEZG5TRW5ZRnltT1RMYWc?oc=5\" target=\"_blank\">Opinion | An Iran deal is hard enough. Trump's Abraham Accords gambit is making it harder.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MS NOW</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUUzSnpHMG1BRFZKZVZyb05kc2tJQ3ZBdWRfV0FkOGJqNjBpOEdoZFN3bVNHc0tlR0YzbEo2a0MzYjlOWHRUNUhpSFJwVkJSZWFTRDZGOXo3Q3J0Vi1SR2hxWUtXa3ZIU3BVb01LcWlnZWYwUjJZUTV4OVVCOXhWV2NDUHg1QU9KdFR5VENwMmM?oc=5\" target=\"_blank\">Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0pYZ0FlUzJ3eW5wT1N0UXNobE4zcEdvYXFNUkRRN3VjTU5VUUh5Y1NmbVpsa2lfSTZoeWZqWk1WYTIyVkc1Y1dCOGlHcWpPQ2dxbElsX0UyNWdYRmxLVTJYX2lLZ0ZwcWVwVTBpNDVzLU54TjFyaE9pZTJMUTFnUTB4WjNiYnA5LWVRaEtMYS1BRFZNSnZoSDl4MWRwQ3cwWWEyRGVYSFByVVFnS3RYTmhndG5FcDFnM3ZDM1A0UnRRWHZhbzdMaU1DTQ?oc=5\" target=\"_blank\">Trump says it should be \u2018mandatory\u2019 for more countries to join the Abraham Accords as part of Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUFiYXljTkstVHRvb3J4YTFpNTlTLV9Yd3ZTZGh0TnAwV3F0RTZNZ3JHUWN6TG8wU2FLRC1OVWdPN25lUzJDQ19uSTBqTGdDR0hCZWxpVWYxcV9HTkZzdmduUkFXUU9NRG8yNjNIa08tOFFLdmE4TGpaMXE3cGJwbmVtaXk5a2xDYm1iTVlFN0F1TkNUUmVvQm85MA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "Uber, Lyft drivers in Massachusetts form first US ride-share union - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEUtQW5pMzNwVW9lX3dfS0ZzakkxTUtlT2pLeWRWX0NiVEJ0TFo2bWtUSUlwNVJiS0xkcVBuZVVvUTdJcjZEdm1paF9NYk1RNXY3dVhMVWtCeEhPNzJnT0tVYXh3OTBWYUM0M3F4ay1hSUxxclJlUGxORTEwQzRsZkxmS0U4MzNnUUZqSTZlTXdoeGtkYVBOUjd6RXlIRlNuYkpwZGpIRVN0ZWxiNndVUVVnWVd6c21nNHVTZVpn?oc=5\" target=\"_blank\">Uber, Lyft drivers in Massachusetts form first US ride-share union</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dpYUp2QXVTRUtrT21lSmRUb25BTWJHRHFQS1Z5WnFtSHpXeDVBR1UzNkpteUdGTGZIS0l4N2ttcnFtZlI5REtxSTZsY2ZxdEJ5Q0ttSEtjMUEwQVhiQ21DMk5JajhsdWxaWmtPeWhyeWVVbmFVdkM0RXhxU203dlRBdHN1ZzBBV2o3UHh0Z09sMkFr?oc=5\" target=\"_blank\">Massachusetts Uber and Lyft Drivers Form First Union for Ride-Share Workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWjhWLW55NXhqMmsyUkljdUt3cFFhOHFvaVlHQjVWV0VzVV9EQ2dueFV5NDBrQ0pKaTJlM3p2bFR1V0ZhTFQ5QmhVbjFEa25vVTA1Qmh0VXhxbHBycV9ZMmxBSVhRdmNKVm9HQm42WWtzTjdLZUN1cll1Rk1veHVESDU3UDZQWUtpVDBlUjJRZEZDUjQ?oc=5\" target=\"_blank\">Massachusetts rideshare drivers become first in U.S. to unionize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNm84YllqaklsZnpuN3ZBTGllZEhSVVBqVWpOVHV5b1Q0MXV6YUhYX0VVZndPVDRSS0JDbHJ3UURLU3hwUWxYNEZNUTEwTFJwcXVYeEJCS3dVLTZMWm9IcF8xX25tSVEydldOMkF6YjdaVDlKeWdTdE8wQkxDZjJ2ZTBnQ0U?oc=5\" target=\"_blank\">Massachusetts formally certifies nation's first union of Uber and Lyft drivers. Now what?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBUR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTNRelp2blVYYk1lc1VQbm9peVlwU0h6Q1Q2Tjh1N3g3X2cyLVNXbmJFcndqTWY4WFlIUXVLMi0wcmN2cDdPNUJ0UEJUcjBpZ1hOblg3R2dkNHZSWF9HZ3JOSGE0d1NCNW5VdE44Q2N1WlJCc2NLeEc0c3NNa09UMzdNem9mYnpBVGxpRA?oc=5\" target=\"_blank\">Massachusetts Uber, Lyft drivers certify first statewide ride-hailing union amid automation fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEUtQW5pMzNwVW9lX3dfS0ZzakkxTUtlT2pLeWRWX0NiVEJ0TFo2bWtUSUlwNVJiS0xkcVBuZVVvUTdJcjZEdm1paF9NYk1RNXY3dVhMVWtCeEhPNzJnT0tVYXh3OTBWYUM0M3F4ay1hSUxxclJlUGxORTEwQzRsZkxmS0U4MzNnUUZqSTZlTXdoeGtkYVBOUjd6RXlIRlNuYkpwZGpIRVN0ZWxiNndVUVVnWVd6c21nNHVTZVpn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "BP\u2019s Ousted Chairman Manifold Disputes Wrongdoing Claims - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOREx0eHN2dFlSYWdCZzZTeGozYTdUVHpkMzh1aHV1SDhiYmlfZTVFNi1SeXZYNXlLdnFRay16SVpKcF91TTI4RzBCVDhrek5yczhFQkpZWWFxRzBBSTRIengwZGpSTm9PU2ZWUVZKVTJHTkVCcW5paDF5WUV3SnB6bE0tOHJjT0hQNUlabUQ3N0dsSmJ0eXdUNmp3blR1T0QtQUNtUzIxZlB6a29BbXp6b0U2a3dWdw?oc=5\" target=\"_blank\">BP\u2019s Ousted Chairman Manifold Disputes Wrongdoing Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajVJSWcwd2FKWWQxdlF4Wl9RSWl1UUljbC1qcUtrUGxIUGVHZ1E4cmlFbWZyOV8tRVlEZXJqQldPYXRIei1VUDF3V3FCaXJmZ1QxUkFORGFFYTlfR0tabE1NdXhIbklOanZtYWgxUlE0R1JZS0lRYnRsakJkZHctaS1ZOTRMckMzQkZTamdBTTBFQ2VNWUZYVXFET3RQSHJMRnBvRFp0ZHlEQQ?oc=5\" target=\"_blank\">BP Removes Chairman After Concerns About Bullying Behavior</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ196Ul9RNWZzSlo4VmRKS2NEWmF0d0VDVzJYRXBIZExWRk5qZ1hvVHh4RVRNSVZuR3hYT2EyN2xMbHF5T2NYd0JUMEJfVjhBSElIQkpOejhIcnZINFVyZl84MWpCazJ6d2xpUjk3ZUNwUVpXUGMyVm50Z2h2dlYyVW1UenlHREFB?oc=5\" target=\"_blank\">BP ousts chairman over \u2018serious concerns\u2019 about his conduct</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFl5R1VSQnhST1NLbkpHblRmdHp6T1daWXc4TV9IaGF6clh3TktKVkpWS0FXZ2ZMS2t1Q1dKS2IxdnRTNkoyazBfQzFTT1gtbElUS0RuYWswMy1Ia01EeERQdHZSbGtzakNtWWJLRzJna3ludXRCb0tIWHhVcGE1N19JMkgtRElqcjBGSEYtNm0?oc=5\" target=\"_blank\">BP ousts Chair Albert Manifold citing governance and conduct issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnlFZWhwZ0wxVk9Gd0NWUHJlYWRBMERMZDd5eC1XdXJwSW1sOWZYSnZBdjBYOGNTZ1dTVUhvXzQxMXlZQVc3SWNsV3BLM0JYM3Bjc3JaRDJlLU94djNMYW1QY2Z6MXp5NFpzb095SndFSklLamd1d1BGdFZEX1NBQmxleUY?oc=5\" target=\"_blank\">BP is deeply dysfunctional, but it could be worse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREx0eHN2dFlSYWdCZzZTeGozYTdUVHpkMzh1aHV1SDhiYmlfZTVFNi1SeXZYNXlLdnFRay16SVpKcF91TTI4RzBCVDhrek5yczhFQkpZWWFxRzBBSTRIengwZGpSTm9PU2ZWUVZKVTJHTkVCcW5paDF5WUV3SnB6bE0tOHJjT0hQNUlabUQ3N0dsSmJ0eXdUNmp3blR1T0QtQUNtUzIxZlB6a29BbXp6b0U2a3dWdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "Trump Administration to Send Americans Exposed to Ebola to Kenya - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1WSS1pbXBWZkhVdFZKVWZ3ZFh0WFN6c0lKUEFzSnRCS25zeVRSQ1dFcC1QZUdjbEREM0RkNGU3bFhjQ1diYl82amQtNkNpcFk0UGlnWlY2d0JXREJOYnBSMl9NQkJObkRBQ1M3MGptVEdPVjFPcUtxbQ?oc=5\" target=\"_blank\">Trump Administration to Send Americans Exposed to Ebola to Kenya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxONU92WkQtQ0JQSmZHSTlYWEVlX0xNQmk5UTJLMW9wM1RQZmtINE9iTk1qUE1LWFlra193NV9ZdmgxWXBhWWxETHBPRTdHeU5QeEV3SDVsXzdJLTZ2Ym14a0VPZ0NuODc1TjBzWkQ5bTRYYTFmMUlJUnFmc1ZDQmNsRlhMSWpITmJHSlZMZEx0N2tSR2liTVQ2WVlTZTVCTTFoUmVlbFdQNGd3eEFGRzdBQm16cV9uVjVJWjVwakdoZE1jUkVLUTlfMGRqdE90QzFQb3h2UXZaM3NvQmc?oc=5\" target=\"_blank\">US to set up quarantine facility in Kenya for Americans exposed to Ebola, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWlLc1d0LUEyNjVpR19vOVhRZW9CZGNWSDN1VExJMVBTTExGU1h3QUJ5Wms3bkd5ZWU3RXd2Ym1vb0lYRVdselBsdzUzSmVEcTFYUTFVWnc2WTFzZUI5V2VuTVIwOTg3YlFGNXJCa1h5b0Fjd2VkMk15d0RveFZqN0Q4MC1YcWI1OUIw?oc=5\" target=\"_blank\">Exclusive | U.S. Races to Set Up Quarantine Facility in Kenya for Americans Exposed to Ebola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDE4UTJPb2c0UVB5TlRxVWdBQjVFcE1lUTNwVThPSWNJMVJiN09BQ0czdGM2NlFrSEZvTHhBQXZCaVZTdV9rOHhuSVVLRHlGZWo1N2FnMkx2Y0Y5NmlhTHlfcExWdnZhU1ZJdVJCVGsxaVE2S2ozTTBSOEpqZXVhdnhhN2tGa2xBUUlDOEhSX0RXaU90TzFqSVRmTmVKTlZPUlJPZ3V1emRGMzFxLXlkeDd3cELSAccBQVVfeXFMTnpoNWQtbHdFcVFfcmwzc2lvMVlzNTdkb3Z4V3ZXdnFvUVdENHlvYmhaUXFJc1BZRF9ab3VudTJRdUZIeWczcTBTNVc5c0N6bUZmMjlBSWZKbk9KRTVyRnVzZGtxdGlDWS1rRU1yV3RvZU53aXM2ZDk5cE1lWDB2RV9hdDNnbUprTkM3MnVkcm02MlB6cWlTdEVvRUU4ak5DM2pDV21zZWxxTk1aZmxtNVVtMGJwRmRsVE9xTHpWN0xKVEpGSVVGVQ?oc=5\" target=\"_blank\">Trump officials to send Ebola-exposed Americans to Kenya rather than bring them home: NYT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rawstory.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXNYcFRybC1EN2JxRFNUcXQySDBpcy1zY1FVdkFaMU5PX3RIR1VnWWtDVkhwRFhkUkxJcDQ3TWFQZ2s2bWtOUjFVSkxicUx4VzlscHpNMlF0R2x4dHpaazBUNExsSk1UdVhuaHp1b3FGbm5DQ0xkeDc4eXp5MjRCRW9PaU5NeEpVb1ZDUkV4UG1DS0RZZ0JDMW1kWlRZWk1qSS1FR3lXUXY2QzdiM0hhY2w3Z2RqdDdIUEhFczFSdmVfZDVp?oc=5\" target=\"_blank\">Trump Deploys U.S. Ebola Quarantine Camp In Kenya - Keeping Infected Americans Out Of The U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kenya Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WSS1pbXBWZkhVdFZKVWZ3ZFh0WFN6c0lKUEFzSnRCS25zeVRSQ1dFcC1QZUdjbEREM0RkNGU3bFhjQ1diYl82amQtNkNpcFk0UGlnWlY2d0JXREJOYnBSMl9NQkJObkRBQ1M3MGptVEdPVjFPcUtxbQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "\u2018The timing couldn\u2019t have been better\u2019 for investors in MSGS as the Knicks make the NBA Finals",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Shares of MSG Sports have climbed 39% this year and are up 88% over the last 12 months. And that was before the Knicks made it to the NBA Finals.",
+          "url": "https://www.marketwatch.com/story/the-timing-couldnt-have-been-better-for-investors-in-msgs-as-the-knicks-make-the-nba-finals-96b0543a?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "How a stock market \u2018melt-up\u2019 could carry the S&P 500 to 8,000 or beyond",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The hottest thing in the U.S. this summer isn\u2019t the weather \u2014 it\u2019s the rip-roaring stock market.",
+          "url": "https://www.marketwatch.com/story/how-a-stock-market-melt-up-could-carry-the-s-p-500-to-8-000-or-beyond-b9b85619?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-26",
+          "headline": "SpaceX just won a $2 billion contract to make satellites for the Space Force",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The U.S. Space Force on Tuesday awarded SpaceX a new, pricy satellite contract, further tying the company to its biggest customer.",
+          "url": "https://www.marketwatch.com/story/spacex-just-won-a-2-billion-contract-to-make-satellites-for-the-space-force-f4733f10?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "Gen Z demands bigger bargains \u2014 driving gains for discount retailers like Walmart and Ross",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.06060606060606061,
+          "source": "marketwatch_topstories",
+          "summary": "As seemingly everything gets more expensive, younger consumers are increasingly driving growth for the nation\u2019s biggest discount retailers.",
+          "url": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-26",
+          "headline": "The bond market has been rocked by a violent selloff. Here\u2019s how to play it.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The bond market is tied up in knots about the Iran war and inflation, as well as what the Federal Reserve under new chair Kevin Warsh might do about it.",
+          "url": "https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-26",
+          "headline": "Why double-digit earnings growth won\u2019t stop the next bear market",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.06666666666666667,
+          "source": "marketwatch_topstories",
+          "summary": "Spiking S&P 500 profits often signal the final innings of a bull market. History says stocks are on thin ice.",
+          "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": "Medical Care Facilities",
+        "provider": "yfinance",
+        "sector": "Healthcare"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 0.85
+    },
+    "news": {
+      "article_count": 4,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-09",
+          "headline": "Attendo AB (publ) Just Recorded A 27% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.058823529411764705,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUJ4Qy1CcndfNldycGplZnpHMTRya1d3QVd3dmthdkFYMF95QXRHN191MEJQVDBsUjNhY1BFSlhjVFhELW02NXRsemszSjVwTlF0NXBUSlZWNGU5VWIwVklTUXpiYlMweFVoSUdwU0xaaGRUSnVaWFh4SWdSdGNXbHFHVTV6dDMxUXJSaGtuRHFOaDUzTFY3dnJIRnBVQ2dZWjlqOWJvNnRXZDhlVU9qTjVndjdTSmpZbVBUR3FrV210NFJfVXZyejNTMNIB0AFBVV95cUxOVmRoTlJ1ZnpJdXpBZjZHTmMwaktsMUgzNEZkSUNnZDN2cGo1aUw1SVh6NDI5MkJLYV81ZVhkTDR4R3dYWUtfVlZra09CSzVQNHdjZEJmS0dxQms0bzNrRHY5Y2YzM0g2dFBHVkc2OWRZcGNrNG5PSEZtOVVISmJyVHBnYzZZdEpMMGVkcEpYMTRVX3NMQWJNQjJIMXB0a2ZvcXJnQ1dQUG9TMUpWOHlqYmp0TjUyOExFQk1MNnJsNllLeHVnc1N1TFhNeV9DRUJs?oc=5\" target=\"_blank\">Attendo AB (publ) Just Recorded A 27% EPS Beat: Here's What Analysts Are Forecasting Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUJ4Qy1CcndfNldycGplZnpHMTRya1d3QVd3dmthdkFYMF95QXRHN191MEJQVDBsUjNhY1BFSlhjVFhELW02NXRsemszSjVwTlF0NXBUSlZWNGU5VWIwVklTUXpiYlMweFVoSUdwU0xaaGRUSnVaWFh4SWdSdGNXbHFHVTV6dDMxUXJSaGtuRHFOaDUzTFY3dnJIRnBVQ2dZWjlqOWJvNnRXZDhlVU9qTjVndjdTSmpZbVBUR3FrV210NFJfVXZyejNTMNIB0AFBVV95cUxOVmRoTlJ1ZnpJdXpBZjZHTmMwaktsMUgzNEZkSUNnZDN2cGo1aUw1SVh6NDI5MkJLYV81ZVhkTDR4R3dYWUtfVlZra09CSzVQNHdjZEJmS0dxQms0bzNrRHY5Y2YzM0g2dFBHVkc2OWRZcGNrNG5PSEZtOVVISmJyVHBnYzZZdEpMMGVkcEpYMTRVX3NMQWJNQjJIMXB0a2ZvcXJnQ1dQUG9TMUpWOHlqYmp0TjUyOExFQk1MNnJsNllLeHVnc1N1TFhNeV9DRUJs?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-06",
+          "headline": "Attendo\u2019s first quarter report 2026: Continues to deliver according to plan - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQW1ZZ2U0b1RtYjVHWmRDZkZtbGxPQ212Zk5vb3RJc2U3UGxOenVxZlNIOUdBTHZrTHpDX3NVZUlyajFlQThBWDBMaFVud0VtUTNnc1FBbGhJWWdKdHNtMkpKa2J1bmtQQVMtWm1VckEzQ21Wbl9Bd3ItaEl0Y0NBTEt0d283OVplcTFweGx4XzBRbE1OUGNzc1BuclNNOFVyVXFHYjV6RzAxTnhkYjJua3JRY3hYX3M4OHU2WVpWZ1ZQOXFnNk8wUGZENlNTakk1cF82dTdEVQ?oc=5\" target=\"_blank\">Attendo\u2019s first quarter report 2026: Continues to deliver according to plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQW1ZZ2U0b1RtYjVHWmRDZkZtbGxPQ212Zk5vb3RJc2U3UGxOenVxZlNIOUdBTHZrTHpDX3NVZUlyajFlQThBWDBMaFVud0VtUTNnc1FBbGhJWWdKdHNtMkpKa2J1bmtQQVMtWm1VckEzQ21Wbl9Bd3ItaEl0Y0NBTEt0d283OVplcTFweGx4XzBRbE1OUGNzc1BuclNNOFVyVXFHYjV6RzAxTnhkYjJua3JRY3hYX3M4OHU2WVpWZ1ZQOXFnNk8wUGZENlNTakk1cF82dTdEVQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-02",
+          "headline": "Why You Might Be Interested In Attendo AB (publ) (STO:ATT) For Its Upcoming Dividend - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXMydWwxWmR5RENYQVJpVHF2cTVCVTRtUFBUU3dGdW5FYk9fRWtINU8zbWRQbEdLTGtGWS1tNzZYRE9nREZJTjRRdGdrWXhPUmtlNGV5bVhqVzg2R1FZZDhuVXBGaVMwRXVsM3hKX3ZjM0FNZjdQaDItd0N6cFRuZ281RVRlbjdNbjdnZy1pNUJjekRkVnJfSVNIVFVpbFFzbnlLVzczSWd4Y1l5VHdsVTkxaURJaXBiRC1VaGx2UXhWamFBalE5cFB4QdIB0AFBVV95cUxPbjVvMmpiaS1FUmpJdVltVGJ3SDRnYXdWdWFsMmRhWmJ0aXU1cFRKT2JrSDdKcjVYNzNfOVExdHpWWXpDRUtGdk5uRnRTYjNzV0pUeXNLZ0xSTDh5SkNmb2s4bW0wVlFBaG9leHhwLUpPdHFPc1pBZWszRnBTeExSTUkxMGx3WU4zOXN2YmJqRXp2dnJZc2Q1OEdDdU05VzBXaDJJUFVjalRmcnhmTU9vTnZEY1BkYVlWQjRTX3hISHUycy0wSzdTSGNUd2tSdWpK?oc=5\" target=\"_blank\">Why You Might Be Interested In Attendo AB (publ) (STO:ATT) For Its Upcoming Dividend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXMydWwxWmR5RENYQVJpVHF2cTVCVTRtUFBUU3dGdW5FYk9fRWtINU8zbWRQbEdLTGtGWS1tNzZYRE9nREZJTjRRdGdrWXhPUmtlNGV5bVhqVzg2R1FZZDhuVXBGaVMwRXVsM3hKX3ZjM0FNZjdQaDItd0N6cFRuZ281RVRlbjdNbjdnZy1pNUJjekRkVnJfSVNIVFVpbFFzbnlLVzczSWd4Y1l5VHdsVTkxaURJaXBiRC1VaGx2UXhWamFBalE5cFB4QdIB0AFBVV95cUxPbjVvMmpiaS1FUmpJdVltVGJ3SDRnYXdWdWFsMmRhWmJ0aXU1cFRKT2JrSDdKcjVYNzNfOVExdHpWWXpDRUtGdk5uRnRTYjNzV0pUeXNLZ0xSTDh5SkNmb2s4bW0wVlFBaG9leHhwLUpPdHFPc1pBZWszRnBTeExSTUkxMGx3WU4zOXN2YmJqRXp2dnJZc2Q1OEdDdU05VzBXaDJJUFVjalRmcnhmTU9vTnZEY1BkYVlWQjRTX3hISHUycy0wSzdTSGNUd2tSdWpK?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-04-28",
+          "headline": "Attendo acquires A-klinikka Oy in Finland - TradingView",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXlPeGZkaUk1NW1HV3U0bFdKTTdrb045cXN2Ym1QREY2dWh5NWd4Zk4xcFU2VGRHczlfc1ZkTURNQWNQS0NVUW5CSmZ2cGNGLVg1MmtLWGpUbHJJa0VZd2xQVV9uRk5UWnJkOG1Ldkd4S19tTzVudWhIZmFSVGhCdDJmLV9HeXJ0ZnNESFpGcl9GSU52WGxveTA3S0tOVF9weHZTek91TkZObTA?oc=5\" target=\"_blank\">Attendo acquires A-klinikka Oy in Finland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXlPeGZkaUk1NW1HV3U0bFdKTTdrb045cXN2Ym1QREY2dWh5NWd4Zk4xcFU2VGRHczlfc1ZkTURNQWNQS0NVUW5CSmZ2cGNGLVg1MmtLWGpUbHJJa0VZd2xQVV9uRk5UWnJkOG1Ldkd4S19tTzVudWhIZmFSVGhCdDJmLV9HeXJ0ZnNESFpGcl9GSU52WGxveTA3S0tOVF9weHZTek91TkZObTA?oc=5"
+        }
+      ],
+      "coverage_quality": "good",
+      "negative_signal_count": 0,
+      "positive_signal_count": 2
+    },
+    "sentiment": {
+      "days_sampled": 4,
+      "delta": 0.0196078431372549,
+      "prior_mean": 0.0,
+      "recent_mean": 0.0196078431372549
+    },
+    "technical": {
+      "atr14": 3.13333783389885,
+      "close": 117.1,
+      "close_vs_ema200_pct": 30.792473859596743,
+      "close_vs_ema20_pct": 6.895150977369918,
+      "close_vs_ema50_pct": 10.955791511842902,
+      "close_vs_hh20_pct": 0.6013745704467256,
+      "ema20": 109.546596762645,
+      "ema200": 89.5311454432039,
+      "ema50": 105.537528419597,
+      "entry_ready": true,
+      "hh20_prev": 116.4,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 3.28830720792955
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": "Medical Care Facilities",
+    "sector": "Healthcare",
+    "supportive_effects": 0,
+    "weight_scale": 0.85
+  },
+  "news_support": {
+    "explanation": "Python classified 4 stock-specific articles into 2 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is good. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.85 macro weight because company-specific coverage is good.",
+    "stance": "supportive"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (116.40), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 3.29, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-09: Attendo AB (publ) Just Recorded A 27% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 116.40 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.6
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 3.29
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 6.9
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 10.96
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 30.79
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      }
+    ],
+    "confidence": "medium",
+    "label": "constructive_bullish",
+    "score_0_to_100": 79
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-27",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-27_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-05-09",
+      "publisher": "simplywall.st",
+      "title": "Attendo AB (publ) Just Recorded A 27% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUJ4Qy1CcndfNldycGplZnpHMTRya1d3QVd3dmthdkFYMF95QXRHN191MEJQVDBsUjNhY1BFSlhjVFhELW02NXRsemszSjVwTlF0NXBUSlZWNGU5VWIwVklTUXpiYlMweFVoSUdwU0xaaGRUSnVaWFh4SWdSdGNXbHFHVTV6dDMxUXJSaGtuRHFOaDUzTFY3dnJIRnBVQ2dZWjlqOWJvNnRXZDhlVU9qTjVndjdTSmpZbVBUR3FrV210NFJfVXZyejNTMNIB0AFBVV95cUxOVmRoTlJ1ZnpJdXpBZjZHTmMwaktsMUgzNEZkSUNnZDN2cGo1aUw1SVh6NDI5MkJLYV81ZVhkTDR4R3dYWUtfVlZra09CSzVQNHdjZEJmS0dxQms0bzNrRHY5Y2YzM0g2dFBHVkc2OWRZcGNrNG5PSEZtOVVISmJyVHBnYzZZdEpMMGVkcEpYMTRVX3NMQWJNQjJIMXB0a2ZvcXJnQ1dQUG9TMUpWOHlqYmp0TjUyOExFQk1MNnJsNllLeHVnc1N1TFhNeV9DRUJs?oc=5"
+    },
+    {
+      "published_at": "2026-05-06",
+      "publisher": "TradingView",
+      "title": "Attendo\u2019s first quarter report 2026: Continues to deliver according to plan - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQW1ZZ2U0b1RtYjVHWmRDZkZtbGxPQ212Zk5vb3RJc2U3UGxOenVxZlNIOUdBTHZrTHpDX3NVZUlyajFlQThBWDBMaFVud0VtUTNnc1FBbGhJWWdKdHNtMkpKa2J1bmtQQVMtWm1VckEzQ21Wbl9Bd3ItaEl0Y0NBTEt0d283OVplcTFweGx4XzBRbE1OUGNzc1BuclNNOFVyVXFHYjV6RzAxTnhkYjJua3JRY3hYX3M4OHU2WVpWZ1ZQOXFnNk8wUGZENlNTakk1cF82dTdEVQ?oc=5"
+    },
+    {
+      "published_at": "2026-05-02",
+      "publisher": "simplywall.st",
+      "title": "Why You Might Be Interested In Attendo AB (publ) (STO:ATT) For Its Upcoming Dividend - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXMydWwxWmR5RENYQVJpVHF2cTVCVTRtUFBUU3dGdW5FYk9fRWtINU8zbWRQbEdLTGtGWS1tNzZYRE9nREZJTjRRdGdrWXhPUmtlNGV5bVhqVzg2R1FZZDhuVXBGaVMwRXVsM3hKX3ZjM0FNZjdQaDItd0N6cFRuZ281RVRlbjdNbjdnZy1pNUJjekRkVnJfSVNIVFVpbFFzbnlLVzczSWd4Y1l5VHdsVTkxaURJaXBiRC1VaGx2UXhWamFBalE5cFB4QdIB0AFBVV95cUxPbjVvMmpiaS1FUmpJdVltVGJ3SDRnYXdWdWFsMmRhWmJ0aXU1cFRKT2JrSDdKcjVYNzNfOVExdHpWWXpDRUtGdk5uRnRTYjNzV0pUeXNLZ0xSTDh5SkNmb2s4bW0wVlFBaG9leHhwLUpPdHFPc1pBZWszRnBTeExSTUkxMGx3WU4zOXN2YmJqRXp2dnJZc2Q1OEdDdU05VzBXaDJJUFVjalRmcnhmTU9vTnZEY1BkYVlWQjRTX3hISHUycy0wSzdTSGNUd2tSdWpK?oc=5"
+    },
+    {
+      "published_at": "2026-04-28",
+      "publisher": "TradingView",
+      "title": "Attendo acquires A-klinikka Oy in Finland - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXlPeGZkaUk1NW1HV3U0bFdKTTdrb045cXN2Ym1QREY2dWh5NWd4Zk4xcFU2VGRHczlfc1ZkTURNQWNQS0NVUW5CSmZ2cGNGLVg1MmtLWGpUbHJJa0VZd2xQVV9uRk5UWnJkOG1Ldkd4S19tTzVudWhIZmFSVGhCdDJmLV9HeXJ0ZnNESFpGcl9GSU52WGxveTA3S0tOVF9weHZTek91TkZObTA?oc=5"
+    }
+  ],
+  "summary": "ATT scores 79/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 2 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "ATT"
+}

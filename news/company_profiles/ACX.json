@@ -1,14 +1,14 @@
 {
-  "country": "Germany",
-  "exchange": "GER",
-  "fetched_at_utc": "2026-05-23T04:00:59.703363+00:00",
-  "industry": "Gambling",
-  "long_name": "bet-at-home.com AG",
+  "country": "Spain",
+  "exchange": "MCE",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Steel",
+  "long_name": "Acerinox, S.A.",
   "provider": "yfinance",
-  "query_symbol": "ACX.DE",
+  "query_symbol": "ACX.MC",
   "quote_type": "EQUITY",
   "requested_symbol": "ACX",
-  "sector": "Consumer Cyclical",
-  "short_name": "bet-at-home.com AG            I",
-  "symbol": "ACX.DE"
+  "sector": "Basic Materials",
+  "short_name": "ACERINOX, S.A.",
+  "symbol": "ACX.MC"
 }

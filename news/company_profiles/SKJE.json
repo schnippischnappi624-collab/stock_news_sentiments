@@ -1,0 +1,14 @@
+{
+  "country": "Denmark",
+  "exchange": "CPH",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Skjern Bank A/S",
+  "provider": "yfinance",
+  "query_symbol": "SKJE.CO",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SKJE",
+  "sector": "Financial Services",
+  "short_name": "Skjern Bank A/S",
+  "symbol": "SKJE.CO"
+}

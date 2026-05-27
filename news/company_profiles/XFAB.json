@@ -1,0 +1,14 @@
+{
+  "country": "Belgium",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Semiconductors",
+  "long_name": "X-FAB Silicon Foundries SE",
+  "provider": "yfinance",
+  "query_symbol": "XFAB.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "XFAB",
+  "sector": "Technology",
+  "short_name": "X-FAB SILICON FOUNDRIES SE",
+  "symbol": "XFAB.PA"
+}

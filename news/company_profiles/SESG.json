@@ -1,0 +1,14 @@
+{
+  "country": "Luxembourg",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-27T04:00:43.708416+00:00",
+  "industry": "Broadcasting",
+  "long_name": "SES S.A.",
+  "provider": "yfinance",
+  "query_symbol": "SESG.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SESG",
+  "sector": "Communication Services",
+  "short_name": "SES",
+  "symbol": "SESG.PA"
+}
