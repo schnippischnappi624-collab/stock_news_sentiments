@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-28T04:00:44.261214+00:00",
+  "industry": "Utilities - Renewable",
+  "long_name": "Entech SA",
+  "provider": "yfinance",
+  "query_symbol": "ALESE.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ALESE",
+  "sector": "Utilities",
+  "short_name": "ENTECH",
+  "symbol": "ALESE.PA"
+}

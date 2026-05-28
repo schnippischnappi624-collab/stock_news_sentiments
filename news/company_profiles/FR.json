@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-28T04:00:44.261214+00:00",
+  "industry": "Auto Parts",
+  "long_name": "Valeo SE",
+  "provider": "yfinance",
+  "query_symbol": "FR.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FR",
+  "sector": "Consumer Cyclical",
+  "short_name": "VALEO",
+  "symbol": "FR.PA"
+}

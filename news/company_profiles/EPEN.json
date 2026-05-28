@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-28T04:00:44.261214+00:00",
+  "industry": "Communication Equipment",
+  "long_name": "Ependion AB",
+  "provider": "yfinance",
+  "query_symbol": "EPEN.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "EPEN",
+  "sector": "Technology",
+  "short_name": "Ependion AB",
+  "symbol": "EPEN.ST"
+}

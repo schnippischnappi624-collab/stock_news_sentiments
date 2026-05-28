@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-28T04:00:44.261214+00:00",
+  "industry": "Industrial Distribution",
+  "long_name": "OEM International AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "OEM-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "OEM-B",
+  "sector": "Industrials",
+  "short_name": "OEM International AB ser. B",
+  "symbol": "OEM-B.ST"
+}

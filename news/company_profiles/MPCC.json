@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-05-28T04:00:44.261214+00:00",
+  "industry": "Marine Shipping",
+  "long_name": "MPC Container Ships ASA",
+  "provider": "yfinance",
+  "query_symbol": "MPCC.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MPCC",
+  "sector": "Industrials",
+  "short_name": "MPC CONTAINER SHIPS",
+  "symbol": "MPCC.OL"
+}

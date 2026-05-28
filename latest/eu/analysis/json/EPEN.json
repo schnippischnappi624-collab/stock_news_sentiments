@@ -1,0 +1,570 @@
+{
+  "analysis_date": "2026-05-28",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "medium",
+    "label": "constructive_watch",
+    "score_0_to_100": 62,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 143.20 and attract follow-through volume."
+    },
+    {
+      "confidence": "low",
+      "point": "2026-05-28: Market theme to monitor (Semiconductor / AI demand tailwind): Marvell\u2019s stock falls despite \u2018exceptional\u2019 AI demand driving a stronger growth outlook."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Ependion AB",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.85,
+    "quality": "good",
+    "stock_articles": 3
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Cancer treatment already costs hundreds of thousands of dollars \u2014 and it\u2019s about to get even worse",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Someone who survived brain cancer in the 1990s explains how the Affordable Care Act could have helped.",
+          "url": "https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "More Americans are raiding their emergency savings just to fill up their gas tanks",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.030303030303030304,
+          "source": "marketwatch_topstories",
+          "summary": "Most people think of emergencies as job loss or a hospital bill. For many today, it\u2019s soaring energy costs.",
+          "url": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Pope Leo XIV decries recent intensification of attacks in Ukraine - Vatican News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Vatican News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGJiWWt4bkRUSGdCLWI3Wm5LMzZLc1llSHc4bWVtd1Q1aDRHdG5zenQ5bTlPZ1A4QUx4dmhYMjc3TXk0Tk1rRlR3VGlKTW01WmFiV3NUYWVtRm54MWNsT2gzV0RVZ0t4UVdUcHh3ZlpHVTA0R0hNVEVfWmNBb2RzX1N6bV9vNmZIMUdHVUd2cTQ0RkdfaGNHNThmbWk5RkpwZ3E1QUxnRm9CRUdrTWg0REVIbVhpWjdY?oc=5\" target=\"_blank\">Pope Leo XIV decries recent intensification of attacks in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2J2N1ZhVFJMTzF3cXBsZzZBZjhqb25ZQm5XSHRmZ3RwLVUtYjVJRFFjSXJyU182M2gtMFV2NzZuR3Nhcm1iUm10T3pGTTZMcUtMZk45a2ZfNWg1VjRlek5jQ004VnpWdzdRUDAtbkRGVVpLZGpYZkhLZDRIZXdxUFpmaXlwVUw5Rnc4cENJbEg2dnNSWjY1S0lLejl3VWhSQkNMT3VjbWhYVTQ2WWc?oc=5\" target=\"_blank\">Pope Leo decries 'sharp intensification' of war in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5yY2tjNkltMHlCeTlNVHlkVUgxVU5GQzhoSmtETHAwY2dzTjU0QlhwSzZsX2ZfODhHcGNjWXdwaXlJSDNGalIwdHRyZExvXzNVRmJoVEloMHRrZmJOS0d0OWRfMjBvaTBxejB0eTd2aw?oc=5\" target=\"_blank\">Pope Leo condemns Russian strikes on Ukraine, calls for end to 'sharp intensification' of war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kyiv Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsMFU1bl9YODN2Qmd5eTlKeU50YVFvX0RhMkdOOEJwVUNoMngySTJVbkRpSmpSc3JLX2ZtNm0wN3NNUkpiZXJZdDFRVkhWaHNYc3UxRA?oc=5\" target=\"_blank\">WCC renews call for end to Russia's escalating attacks on civilians in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independent Catholic News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXE0blh0UzlwS0FiaDh5UzFSbUluck1BVHVuQzRJZkk3MW1lZTlWUVBUTjJqQkxNZTNtaVVPZXRRbGo5UDJHU0VGUWpRSlZlM3Rpd3U1SG5odGxDb3dOMUN0MWp3RkE3Q050WmNNZzIyd0dRajRnUERpbWo2UDhJendoTFk4Q2FubmljQXNPbEh3V0dDSTVoaG5Eb1NpMEdzTmF3aU9B?oc=5\" target=\"_blank\">Pope Leo XIV: \u201cWar does not solve problems, but aggravates them\u201d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rome Reports</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGJiWWt4bkRUSGdCLWI3Wm5LMzZLc1llSHc4bWVtd1Q1aDRHdG5zenQ5bTlPZ1A4QUx4dmhYMjc3TXk0Tk1rRlR3VGlKTW01WmFiV3NUYWVtRm54MWNsT2gzV0RVZ0t4UVdUcHh3ZlpHVTA0R0hNVEVfWmNBb2RzX1N6bV9vNmZIMUdHVUd2cTQ0RkdfaGNHNThmbWk5RkpwZ3E1QUxnRm9CRUdrTWg0REVIbVhpWjdY?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "\u2018It\u2019s getting hotter and it\u2019s not stopping\u2019: dealing with the heat in five of Europe\u2019s capitals - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.009433962264150943,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFVjcWZWVDNDUExRR1FNX2xBMWloNWd6dmxQOGNVT19Oc3VncE1iRWZ3cUR4VXZKZUZpVHI4bkViRmx6eld0c2xZSG5XMXVJTzZlV2wtMkhyV3lWOHNuSkkxb2FuNTZxT1VYZUx4Y0FkMVhVOXRBQXBzSGtMVXRnVHJaSDBsMDlDZF9ONHdPd0RTMU1ueko2aVRiMU1wcW1wUkx2R1pRcHhObzNoMlFtVmFERk1wZmJCelR6Mk0yQm1CdzBZSDNsbVJFaXlCQ2NPazdKSDFCZXU?oc=5\" target=\"_blank\">\u2018It\u2019s getting hotter and it\u2019s not stopping\u2019: dealing with the heat in five of Europe\u2019s capitals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVVudEhoTEduQkxpaTlIR3ZOQTllMW41WkotSGpUSGRnNUl0a0RUS0d3bGp0QVgxaHhkeGNjSzRhWjduWG96WU9kQ2pVVTA4SnlYZ2g3V0NrS3JRcGEtWk40b1BlVG4zSTJsaEg4SnlHOGI1dFFMTDhkVU84ZTBBNnVYcHJQZkdMR21GelFEcUJ2eV8weWItT3V2VEQ2cEZTS181NUU4cU5QenpUbnUtSWJDZTlJRGJL?oc=5\" target=\"_blank\">Western Europe is roasting in unprecedented spring heat \u2013 and it\u2019s not alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yale Climate Connections</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUk3ak5Bam5EU0hVTkkzUEZDbkptelVZNUNzUEZLVmd5NmRGOUJqajU1Yld5cWE3OHdRMTBjNE1NaDVhOHdQY181VlZyeHNEbzRDQmZqcVFfRk9nSFBhZ01vOGN6eDhsX3h6ZTdpTEJBR25GQzlSRjBJZWl4UllWZENwOUM4T0NoR255SWVQTHBRQUtmWldQT3hINkpoYldr?oc=5\" target=\"_blank\">Buckled jet stream is driving Europe\u2019s record heat. It\u2019s causing turbulent weather in California, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTJ3Qm1nRERPY3M5UjFySV9EVlNHUmpkNkNxQ3JQN2NLQjVPM1JScFg4cVBSMlRSQkRvcjcxQ05jM2R4X29ZSER0ZjRubXZBVXZiNENCdTRnUFdTdWw0a2tyRDQ0WWNNaV81MmFhWTV3Nm5BTzB0aVhKN3NSeHZRR1Nyb1Atdk8wVWV3dw?oc=5\" target=\"_blank\">A Spring Heat Wave Is Breaking Records in the U.K., Spain and France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE81NjF4NHQzZXhWTXB5NndSdlpiQjNNclJvdWJwUWJKeG1ZUzFieWVRNjlDQmw5X2ZtUDZTUS1hUWhJaUlBRUNpZjBLQ0RYU2p1bklUTFlZRUNGZ2NvblJtWFk3NnBCd0VTcUVHU281dzR0dHFy?oc=5\" target=\"_blank\">An exceptionally early heat wave shatters records and brings deaths in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFVjcWZWVDNDUExRR1FNX2xBMWloNWd6dmxQOGNVT19Oc3VncE1iRWZ3cUR4VXZKZUZpVHI4bkViRmx6eld0c2xZSG5XMXVJTzZlV2wtMkhyV3lWOHNuSkkxb2FuNTZxT1VYZUx4Y0FkMVhVOXRBQXBzSGtMVXRnVHJaSDBsMDlDZF9ONHdPd0RTMU1ueko2aVRiMU1wcW1wUkx2R1pRcHhObzNoMlFtVmFERk1wZmJCelR6Mk0yQm1CdzBZSDNsbVJFaXlCQ2NPazdKSDFCZXU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Exclusive | The Trump Administration Is in Talks to Fund U.S. Drone Companies - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdNOXk4Zzhxb3BmZ05GcGpHcEUtMzNiLUFnaEc1bEQxQUp4c3Q0cHdRcjlhSlp0RXFCT05QQ200YjRLd1hSbzctRzBLdTBiRmJlejIzWmtKSFYtZm1DckZ4R0R2T0dSWms2MWlrRFA5M2F6TXF6TUM0aTdfaTAyWTdFYnVpOFdzelhNdUdqSQ?oc=5\" target=\"_blank\">Exclusive | The Trump Administration Is in Talks to Fund U.S. Drone Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptLTdxZkVSRzV1ZVlpdWxXMm1DZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmdNOXk4Zzhxb3BmZ05GcGpHcEUtMzNiLUFnaEc1bEQxQUp4c3Q0cHdRcjlhSlp0RXFCT05QQ200YjRLd1hSbzctRzBLdTBiRmJlejIzWmtKSFYtZm1DckZ4R0R2T0dSWms2MWlrRFA5M2F6TXF6TUM0aTdfaTAyWTdFYnVpOFdzelhNdUdqSQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Trump Says He Feels No Political Pressure to Make an Iran Deal - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNRll1ZlI0Z1ViRmNVRklMWTVycWhjSGpCc1p6SW5qaFpySHNQTW5NREwwS0pTQmpYNkU2OG5JZWhtNVRTdW1vVzNXVjlPbUNhYnk1U2ZXd1FLaEtHNTRQQ0RnOEZvQ3pncVNkb2syNHNVWHBZcEdRS0psYy12NUpncklReDhaZw?oc=5\" target=\"_blank\">Trump Says He Feels No Political Pressure to Make an Iran Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0p2T2FDSVBzY0NCcVdObVBuZnlHVEFpUFJkYkFDUlRRRkF4OFdNeGpaaXRSYVZDdUFpWlotbHprTDNqTDFWT3plTEFLZi1yY2E0Z2taUXEwZENHYWxaX1pYRVpFNkxsUFJ1YllrVm53RzVfMHRYU3M3UnVienZTVnY1cXVDNE5ETUh0OEMzQ0JXdw?oc=5\" target=\"_blank\">No Way to Make a Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Bbkw4bUFRTjNBMi1CcEFlSjlGeXpyOG85MjUtaC1tS3RsWFVaY2Ryb2dtSFpyNUZ5QzZUeVJNRTdnY1RKMXItME9KMmFXNGlCeXRPRDFoTVU5RU4wT1l4bkpPb3FFU0QwdjNXem1Ra2Fsd2hYd04xTXlmUkxZUQ?oc=5\" target=\"_blank\">Fact check: Trump makes false claims about Iran war, the economy and the reflecting pool at Cabinet meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVBXYVEzOGJ2QldueDNNUnFTLWxiTHFmaTZaRi1jRnM1T2RrWVg2S3M0OUZSNmxOaEZVclJHVWJEbWdxb0hlWWlTT1dZdk5ZbDR6SGV5ZWd3QmlrWGRjS2JMZ3pzaVZmWC1XaDhlUVBKcS1NWVVJNEh1MEVTYW9ZcHF5QXpXajJ2RE5VTWUxTzRsS3ZXTkh1TFNSQjdrYmdaa09QMnJCOXJFUGFHTFdnRg?oc=5\" target=\"_blank\">Trump says he can outwait Iran, dismisses midterm election pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFNTQXNINjRqc1FHeG93UEZZbXlpcDNYSnlpekRXc2FvbEVFVWRwTE5randSbVRqOXpSYVMyT2VqQ2ltc3lTR25GYWFYODN6QVJObi03T19RMUI4MjJkcG5iam5Oc2NKWUZ4SWw2enVyWUdSLWVjcEMwdkZQN05IMkxBS1hIdzZ3UWY5aWN3Nk1idTFRS3ZYU1U1OUQtcXBrQi0ydmJsYkhvb1lTOFl5M1ljVy1PQdIBuwFBVV95cUxPNVVsUlFXbE5tSENqWHFIOS1HbDZ4aDhWd0JIbk4yWGx4LU1Ga1FlMkdUOHM5S1Y1Ull4alI5SkNhWUdwWGxqcUJ1RDIxY1d2RlNMS1puRjFQaU5pR3YzeW5aYWF4LW5JdXA1cnRBTkZ0dGg3ajVfYWR2VlJJeGdWUkRqeGU4cjVmLVlRU2w2Qmh4VTg4dnlHQmVfd3dPNThFeU5SMi1DN29iVXFBSW5wNnp6d0pya3BmaWVz?oc=5\" target=\"_blank\">US, Iran issue conflicting reports on deal as Trump says no sanction relief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRll1ZlI0Z1ViRmNVRklMWTVycWhjSGpCc1p6SW5qaFpySHNQTW5NREwwS0pTQmpYNkU2OG5JZWhtNVRTdW1vVzNXVjlPbUNhYnk1U2ZXd1FLaEtHNTRQQ0RnOEZvQ3pncVNkb2syNHNVWHBZcEdRS0psYy12NUpncklReDhaZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Google engineer charged with insider trading after making $1.2M on Polymarket - TechCrunch",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "TechCrunch",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1h5NFg4TjBvaDNZdjh3cEp0SGNWTGVFLXU1M2tidnZFT1J0bllWRzc3NnlxbktrUmN2M01DTHdIbnRYeGtiR2dRdV9WWFRydlZGN1dOZTV0VHZzZmdENlZCOGNrUW5Ha21pYzI0bk5EdEdsMHVJdVZCQ1VFOWthZERlVDVQbGl5ZFJHYzAyUVFxOWlMRnVfNDA1dXY4alBEZ3k2bHllQVRRaTZsNGIzcQ?oc=5\" target=\"_blank\">Google engineer charged with insider trading after making $1.2M on Polymarket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQejFxVHJKY3JmaFJoaGpLRUFfaU51eXItYkxyMkxzQnZJREUxNFNRODhMbGJydklCaS1jUW9FQk9WWm5nWEYtMk05aGVMZTZIeUFVcHhpWV95Q0E0Ql9ocVFrbHJGNkpla2NWSnVPWFQ2YTc3UUcxemlRaWxmakcxWkFCNHQ?oc=5\" target=\"_blank\">Google engineer charged with insider trading on Polymarket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHhOa25ZVlZMZW5XT1ZrRDNzUXlxU3NrUW5RNl9kSWVUQl91TlJVaURJVFVBbmxlRlJpM3l4azBTLXcxdHViZWc2Z1VtMjJXd2ZjTFB0cGxRdkpqN0dPZDU3bHBTdjNiai1CTzJ3dGh3a0cxQjZ4MkVuU0xUUGRBZHpmS1Y1Y1drQlBjLUhoNjBoemZRWW9OY1BzaVZfUW94dTloSG1GOA?oc=5\" target=\"_blank\">Google engineer made $1.2M by placing bets on Polymarket using confidential info, prosecutors allege</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUQxdmVtS1R2NzZoZlZzQWg4dGNnZnZtTlFoZXFaYkxBVy0xTnFFeTdlYmdQNy05OEQ0dXltWFc3TTBTd3U3aU9Hd3R5WUxNUzZraUJjLWd6NDZIWG5uVUhjZUFxMk5LY0ZZbzV3d0gzRGJHZUZDNWpfWHRFeHFxZTFRN3lFZ9IBiwFBVV95cUxQbHd4MENxSXNEZ21aUjRKSC1FUkRldzlhaXN5eEtnSUJPdHhnTGxSVGlpWGxRN2hmWl9oZ2kwRWVsTlFKNERKa2J6a3NmWjdnRHNrOEg4VkkzclNyNjlzbEphMU5hNW04U05LX1c3ZU9tanYxandVX1RienloYS0tSVBDMHJhS3dyYzNv?oc=5\" target=\"_blank\">Google employee charged with $1M Polymarket insider trading bet on search term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2tRZm1GcDlvejhid2V2WXVMRlVoM1VvU184U1ROd0xwRDREZ3BHcV9yY2FBUy1TcXFJT3pRejR6QU10V0pTaDlieVUyU01VQjR1RDVXZFdsdUNFMGM5TzNvYzREdG50OU5lSkVjemxfWlJ5d1VGYlM2ZWpvZEhnQldrUGg?oc=5\" target=\"_blank\">Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1h5NFg4TjBvaDNZdjh3cEp0SGNWTGVFLXU1M2tidnZFT1J0bllWRzc3NnlxbktrUmN2M01DTHdIbnRYeGtiR2dRdV9WWFRydlZGN1dOZTV0VHZzZmdENlZCOGNrUW5Ha21pYzI0bk5EdEdsMHVJdVZCQ1VFOWthZERlVDVQbGl5ZFJHYzAyUVFxOWlMRnVfNDA1dXY4alBEZ3k2bHllQVRRaTZsNGIzcQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-28",
+          "headline": "Oil jumps after fresh U.S. strikes in Iran revive Strait of Hormuz disruption fears - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHdFSU9lYXpqMVhuZDh0NndsLVpMWXNFUHVhelZNWjhveFNYYmpaTHRaZVN3MUR0UGptVlNyRElCRTd2YWtVNVNpMmtnNjhYMWU4anZvbVVObXJ0YlRRRlRtQUd3NEdfdDBZdi1rM19sM0gwZjVtcVRLT0Ywb3BjVmtXYzhEbzV0LU1CYWFWSTZjRWlRX2hQajdrbUNkM1pESHlvbzlZWdIBrAFBVV95cUxOSkl4NnlNWGhvSXRrbDRhMk9QcjVYSDB1VmtFclhBT3lMN2V6dXE2TEdQa1BmTHdadWg1UVNVTHM2UDE0VUhXYjR1T0t4NnZ0d0lkbG9xcTYwaHRONTRreFp6NFAzLUZaYXl3UmFzSV9hZTFDVnJYREFrdjM1RVVJN1AtbndXcEpud3lpaWRnX2xZQlFwYTUxeFNydW1qZW5CY3A0QmM4RXA0UFlQ?oc=5\" target=\"_blank\">Oil jumps after fresh U.S. strikes in Iran revive Strait of Hormuz disruption fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGJEcFZnZDZvT19ReFQ0bU0tTTFseThKc0hKZTJlN0VRSHN1TDR3RlVXSkRQRzBTMlpRSE5zalFSSUxmVmFkTWhkMDRKdXdxTmFkai1iVHdYRzRZblBTcjVlcVpSeHduRURoeHlXemJ1cTFwakRmeW1iZkRtZ2o0MVZJMi1NR3hLM0ZFeFBJZXpldDVQVXhCOUpLSGgyRE1IQ0pPUnl5YmthUXVCTkU0aHU2V3FIV2EwT1Fz?oc=5\" target=\"_blank\">U.S. strikes drone launch site, as Trump holds to maximum demands on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3hiQWRIakZ3M1RmUTVveEhOSUlxVXhIbEE0X051Z2swNW9kTmNlVEFzVDc4cFdDRGZadEpwckNXRkc2MXNEazN1Y3hrYm5KSnpvWW1peWJrNGlYQ2NaOVZ6NkRjdldlT09VNDAwOFdPbzBWeW1ZSEN0VnNsMDdyVXJLQ3M1ekZWNmVpeFpUYXNlV2dFR1Y2VlZXNHRfLUFlc0E?oc=5\" target=\"_blank\">Oil prices bounce higher after new US strikes on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVQwT2xoaXRXdTNOSFV0LXEySVJIZ1FFMmtKTFMzbVNMTHhJR1lvZWdpVVlvQ0NycEhNX0w3OHFpMW4xcTJaeTlJMnhaSHU1ZmJITTlKRDZhTWVPVDQxZjZ5NGdKLU9GUTg1RndvemtpaFhkdXBzSFA2WFBhOGh3QXlXN2RuX3B5akxxNllhN3B2UFMyQ2lnNW0teTBJNTd5UWlDemNaelNUZzYtZmZtd3Z6d3k?oc=5\" target=\"_blank\">US Strikes Iranian Military Near Hormuz With No Accord in Sight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBDWnFDdm1FZ1FDUUlaUkJCRWxGaW5FREpOam02NGszLWR6VnNuRFV2RXlrN0ZyN3dFd1VQS1pZMTFhOWtXNW80cWRjRnpNQmZ3T2tTak45Szc0YjR6TjdTejRnMXExbVNqTURWTjhmOU0xU1k?oc=5\" target=\"_blank\">Iran War Live Updates: U.S. Again Conducts Strikes in Iran as Trump Expresses Indifference to Midterms Pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHdFSU9lYXpqMVhuZDh0NndsLVpMWXNFUHVhelZNWjhveFNYYmpaTHRaZVN3MUR0UGptVlNyRElCRTd2YWtVNVNpMmtnNjhYMWU4anZvbVVObXJ0YlRRRlRtQUd3NEdfdDBZdi1rM19sM0gwZjVtcVRLT0Ywb3BjVmtXYzhEbzV0LU1CYWFWSTZjRWlRX2hQajdrbUNkM1pESHlvbzlZWdIBrAFBVV95cUxOSkl4NnlNWGhvSXRrbDRhMk9QcjVYSDB1VmtFclhBT3lMN2V6dXE2TEdQa1BmTHdadWg1UVNVTHM2UDE0VUhXYjR1T0t4NnZ0d0lkbG9xcTYwaHRONTRreFp6NFAzLUZaYXl3UmFzSV9hZTFDVnJYREFrdjM1RVVJN1AtbndXcEpud3lpaWRnX2xZQlFwYTUxeFNydW1qZW5CY3A0QmM4RXA0UFlQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough",
+            "scheduled_event"
+          ],
+          "date": "2026-05-28",
+          "headline": "Snowflake\u2019s stock surges nearly 40% as AI acceleration drives record product-revenue growth",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.15789473684210525,
+          "source": "marketwatch_topstories",
+          "summary": "Snowflake\u2019s stock soars toward a record gain after an earnings beat, a raised outlook and a $6 billion commitment to expand its collaboration with Amazon\u2019s AWS.",
+          "url": "https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Marvell\u2019s stock falls despite \u2018exceptional\u2019 AI demand driving a stronger growth outlook",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [],
+              "direction": "supportive",
+              "label": "Semiconductor / AI demand tailwind",
+              "supportive_exposures": [
+                "software"
+              ],
+              "theme_id": "semiconductor_upcycle"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.03125,
+          "source": "marketwatch_topstories",
+          "summary": "The custom-chip maker says revenue growth is expected \u201cto continue accelerating each quarter\u201d for the rest of the fiscal year.",
+          "url": "https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Salesforce shares dip on soft revenue outlook as AI disruption concerns linger",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.03225806451612903,
+          "source": "marketwatch_topstories",
+          "summary": "While the company\u2019s Agentforce offering is picking up steam, Salesforce didn\u2019t deliver the top-line growth investors wanted to see",
+          "url": "https://www.marketwatch.com/story/salesforce-shares-sink-on-soft-revenue-outlook-as-ai-disruption-concerns-linger-45dcf0e5?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI calculated her break-even point to be around age 78.\u201d",
+          "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Uganda closes its border with Congo over Ebola outbreak - CBS News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CBS News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUdmdEhrckx1YlhvVE9mSkh0ZGt6RmF5OHFmTThRM1JQcFpzYVhmZUc1QVU3WHgyZXNSRkVRMVpiTmR1QlNNLUVHdXlwbXp3NXNKbkVzVmUxMXdjVThCRnhSWWFKbE5rWkpWTkkwRTJ5a2N2LTQwbXFFQ1BmdEpYaGdR?oc=5\" target=\"_blank\">Uganda closes its border with Congo over Ebola outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1hLLXN2RUdNOTg4aElackEzZnRtYTVya01zek8zTFFjbjJXYllGS2RudzlLbWZub0JSMHNDNkpFVnJZQTdSbXdnakhvcFJlVk1ETFlTaFJpWENJRHBaZ0h5NTZDSzlRY0JrRHFxa3A2TkV4U1NJLV92T29ZbGpXaGhpRGxnQTA1eVlWazUwa1p6TkJ3TUE?oc=5\" target=\"_blank\">Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWUzYTNGVFJSOGRKaU44RkJTa2U5eTZ0Wk1lOFdRS3NNUDE2bUQzYi1aamFyTHBjRjZ6V1RhRGJPdzNySEV3V1JJRTRNVE5zVzlkOG9XQ2VtRjhOZnJONTVyTXk0S2pmM0dKOFp2dkx6SzEydHJIZlpUa2dWTFQwYTVETGZYSC1ZN1czTkFqXzFIMzNU0gGUAUFVX3lxTE9SNDZaMm5XVFBoVGtCT01iMFozcDdzZjlHbHgxU2dLTnRqUjZCY043NFBET3J2ek5WZTdyWGswYVFoMnRCVHhSQWdVYml3al82clpWN3BhUEhmbGQ2b2JGZUdPVUgtUjlpUU1lRUxLTkpYRnI2VmdWVnJWd0NuQ09jUDNza2xhV3FsdGdManF5MzRMRjI?oc=5\" target=\"_blank\">Ebola: Uganda closes border with DR Congo as virus spreads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWkwUWZRSGExRWZmWXU5dlV6OTJ5SXlSNnNOWkVFWEEtcVhoR3M5YjItMFBrNk5pU3RWdEFBVkdNME85dkJJWmEzcXlwY3BaMnk0d0lPWlVpMVB4TlFiNHFaVXdlVWRuWElwWVNCeEZHNkhqcjVZbGotRTFBVVNIeFRB0gGHAUFVX3lxTE4tdV9RUFFzR1VaNXRnZmZxSENvWWl0QUkwM19OUzdUMGZOa2dsSm1lWTFUVWNoRW5QMHFwdEQxTV8wMmJWX1Bab3FYTnluYzZUT0NIMlhMZXpFR3Q5SXZFdDlxSXhQay1adlV1WERhR2ktV2pNXzFfSlFPczhHZzkwNlZ5djAwQQ?oc=5\" target=\"_blank\">Ebola\u2019s threat in Uganda extends far beyond public health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHE1LU9fNlg2aXVxeW5GbHRFdVRMZjhPSmJDY1cwM3RRYUh3b1ZuNXBEWjJDYnlrejZIeHFHaVlNTlo5c3hRT3Q3dkJPWXkyVjc0SklVek0tTTJLemYySF9EbnR2cFg0ZlB0RjByVDlubUY3OHNxdF9lUlpMR28xbVdHX0VCa3dXNEhhUm83M1J3ZWI5ZzRoelZzMzBGWG1jN2xmVlZmYw?oc=5\" target=\"_blank\">DR Congo\u2019s neighbors impose Covid-style measures in push to limit Ebola\u2019s spread</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUdmdEhrckx1YlhvVE9mSkh0ZGt6RmF5OHFmTThRM1JQcFpzYVhmZUc1QVU3WHgyZXNSRkVRMVpiTmR1QlNNLUVHdXlwbXp3NXNKbkVzVmUxMXdjVThCRnhSWWFKbE5rWkpWTkkwRTJ5a2N2LTQwbXFFQ1BmdEpYaGdR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI\u2019ve found that acting \u2018normal\u2019 means others treat me like one of the group.\u201d",
+          "url": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-05-27",
+          "headline": "Momentus\u2019s stock nearly triples in 2 days as the space company raises more cash from investors",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Momentus investors continue to cheer as the space firm secures more cash through a private placement of stock.",
+          "url": "https://www.marketwatch.com/story/momentuss-stock-nearly-triples-in-2-days-as-the-space-company-raises-more-cash-from-investors-b2c9a088?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Micron investors are partying like it\u2019s 1987. Analysts say the stock still looks pretty cheap.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Shares of Micron were headed for their best monthly performance since 1987, but analysts still see them as a value play.",
+          "url": "https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Zscaler\u2019s stock sees record drop after investors are blindsided by a disappointing outlook",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.02631578947368421,
+          "source": "marketwatch_topstories",
+          "summary": "Shares of Zscaler were headed for a record one-day decline of more than 31% after the cybersecurity company shocked investors with a downbeat revenue outlook.",
+          "url": "https://www.marketwatch.com/story/zscalers-stock-seeing-record-drop-after-investors-are-blindsided-by-a-disappointing-outlook-b010fa72?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Rocket Lab and AST Short Squeeze: Space Stocks Mirror EV Bubble as SpaceX IPO Looms - Barron's",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Barron's",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW90MTlVYkdfcEVhX3B1TEZjZ1gtdjIyLV9fX00ydmVVcTZ2alRxU1k1RnIwRkswTDR5MVp1VERDR09ORXJqODItVU5tNWZLZ1dHZ0dVbnNQZjdyci1vVldXTGZNUnBXVURvcnIyMlVqNERDb1dtUTEtT3JibVdJMlM3NGcwS0p3dW4xRWsxWQ?oc=5\" target=\"_blank\">Rocket Lab and AST Short Squeeze: Space Stocks Mirror EV Bubble as SpaceX IPO Looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXBwMTlraTZTdnk1bjY5TzFyeDRpc0QyWFlRRXBJZVpHaHQzc2RZeDcwTlk1YmlvNms1cnJ3SF9lald6RFRNbzdKMEdIS0wyX0dxaXB6WUxLVE1zR1RMS05keFJkME4tZ2tiVjFwelJOczdnM2tTNHFfdkVMNTk3elg2TkFJVDg?oc=5\" target=\"_blank\">How SpaceX\u2019s Dream of a Record-Breaking IPO Stacks Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm5KTlYwcjdwMGx3SGVoSlkzZzZvSWQ4VVRJOEhzMEUyUlZjWUNnTUljSThmM2lOQ1g4Z3hhRDN3VnNUVC11cnIyelFMS3MyQ2dBaFhvcm1iaUQtZGphMzhRbVFwRVI5LWtVLXZTY2J6cnlxbkEySXpaUEIyYXZ2cnF6STd4NjIyNE1JMEdRSllyQzVEZXB1LTlvZ0JPQnF4VGgwT3dnWDBPY18zVEZiN9IBtgFBVV95cUxPUE1nbjU1UXVkbzVVSjliWllhZl9ORk02Y0JpOEZmOF9HTkVKbDY0NHRHZUZSM0hOb2NlSFp6WFZ1dl9tdE5JdW05Xy1SQjN1a0VaaThDUk1hMGpJMXBLRExWdVJFWGdMNWRpRnRiQnVpVnFySUI1WTZmUk5VOS1YR01mQzBkWUthT29BQnZtWTJpLUNNTko1TElNN2x1VTV1eUV2dUJEc3ZadmpJYzVsLWxpc0o2Zw?oc=5\" target=\"_blank\">Jim Cramer previews SpaceX's IPO: 3 catalysts to watch and 1 big reservation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE00LUJmSEFMc25LWFg2WVpxLUdvUDBhdUlqd1R5RF9oakZUUU1NblA2TXNfMi12MFVGSjV3M1Bnb29rWWlBMHhsWkRVTzI4SS15bWxfdXdZZjFDQWVXWlRn?oc=5\" target=\"_blank\">SpaceX won't break the IPO market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBVc2NsR0VwOWFoWEZWX0xmd09icFNPc3dBMDlkTXV4a3E4eEc2MFYtUVJkSWdzWWNwY2V2VGs5WXBMZ01YaVJJNlZoZy1xNVRnU1JJeHg4SEM4MUFkbkVfa1hpT2k5dzdlMnlQVm5mSWRsdHFLVzN3ODFB?oc=5\" target=\"_blank\">The SpaceX IPO and Data Centers in Space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stratechery by Ben Thompson</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW90MTlVYkdfcEVhX3B1TEZjZ1gtdjIyLV9fX00ydmVVcTZ2alRxU1k1RnIwRkswTDR5MVp1VERDR09ORXJqODItVU5tNWZLZ1dHZ0dVbnNQZjdyci1vVldXTGZNUnBXVURvcnIyMlVqNERDb1dtUTEtT3JibVdJMlM3NGcwS0p3dW4xRWsxWQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-27",
+          "headline": "Pentagon awards Microsoft $9.7 billion deal in bid to cut costs, end license sprawl - Reuters",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": -0.024096385542168676,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2s4WWlSRU1PWE0wenZpSEV2QlhxcFJlejktV0JIRVlPV2Q1aV9mSHlmQWtKZy1sRUR2SkVldEtiT2xOcUlXN1pleU9ZUDNZT0pMUGdsdkFVaG1BdFl6Tnl0cEhwZ3kwVnhSbTZaVHJfVlRnQ0djcU1DalREUlpFLXdkZlBJbmVDdXhSbHB0WTRWMDVkZHo5UEN0M0NLV3R1MHZwSS16bkZVZExkUnZjNXo4a2FzSVlrQUFN?oc=5\" target=\"_blank\">Pentagon awards Microsoft $9.7 billion deal in bid to cut costs, end license sprawl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbmlNaFRRM3VLMDF6Nlhqcld5Rk1lR2FSSmNQS2JxZUloTGFkbzdGUU1UTVRJbjY2UmJldGR5cElBVGh0Y1pMTXgyQ2NwTkpOT0FpNzJkQTZsdnNfd1p2M3RsX1hlb0ZQaDdNa09BczNvWENNdFVub3RlNHBBNC01NzFwVkxITFQ2a3VSTGpScWlFZlEtczJyOHoxaXBKZ9IBowFBVV95cUxORWxHUDVsRjA2LURReTRsRzR1QVFxMGd4cjRKclBtOVlhUmg0S1psVmRkMnVqZGVfME9lNjhsMlhHampGZktPTWRFUmxreTRJZmVldmJxSWVtUzdVQ05hTWZTR0tiLXlKamkzaDFNUTUtbFhZUjNtaDVlcWJ5R3hyVnFjc0VOanNEXzVRd0l0MDM0elk0OTFkdU5nUllBN1ppYWIw?oc=5\" target=\"_blank\">Dell wins a $9.7 billion Pentagon software deal after cozying up to Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPN05KbUZyZFViMFZWXzlpZVJNQy1EVEN1UEV0dU03Qm41UnQ1dWZvRFBwT1p5N2dUdlZyZVB6V0kyeDQxUGsxcnZfNEZITl94bmo0NnJraUg2b3VrOU9jSjI4azZHb0RVQ1duendvMHdtWEFMRDJvRGhHX091VU56N1BlbGpEV1hLWnJHVkZQaw?oc=5\" target=\"_blank\">Contracts for May 27, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Department of War (.gov)</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWZhX1hBYmVxcUNVeGU5R2V3NW9PSHBoU1FjV0d3TlQ3YkRaUGU3aC14TXJBTGp2RnZfeWI4QWM2bHhEZmNlNEktb05JSmdfOFgtVzdaUm9zSFFuT24tX3YwUkFTNGN5cG82NU43eUhfLVA4RjZWVDFjQXp0bGJHQmtGMUw0dGxKZWN1YVVsUlg1aHlONDdORE5ScThGeEh5Rm5MN3UtdUJnVkhWaFJ1eERSUQ?oc=5\" target=\"_blank\">Dell Wins $9.7 Billion Defense Deal To Streamline Software Buys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVgtZFplR1ZWZmZSRXM2bllPbzJ5Vk5rTEt1SzdHY1pMSTVlXzNVel9oLVBlbS1pMUtfQ1ZGU09tNVJFNmUyc29rcDYxQ2dBZkhNa0FUM1lNcnpKV2JqTXZQeEQ3S1Z1WXl4OWZzM1FsU0NNcGJTNlVLQVRYMGVtTFVyTHhNRWxjWXhBWkdlQnJKX09qWlNKUE9WeGo1dmJSWlpnT28yVEdPODZKaERZOQ?oc=5\" target=\"_blank\">Pentagon awards Dell $9.7 billion contract to consolidate software licenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2s4WWlSRU1PWE0wenZpSEV2QlhxcFJlejktV0JIRVlPV2Q1aV9mSHlmQWtKZy1sRUR2SkVldEtiT2xOcUlXN1pleU9ZUDNZT0pMUGdsdkFVaG1BdFl6Tnl0cEhwZ3kwVnhSbTZaVHJfVlRnQ0djcU1DalREUlpFLXdkZlBJbmVDdXhSbHB0WTRWMDVkZHo5UEN0M0NLV3R1MHZwSS16bkZVZExkUnZjNXo4a2FzSVlrQUFN?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Stock Market Today: Dow, S&P 500 and Nasdaq close at record highs on hopes for Iran war ending; oil prices drop; Micron extends epic run - MarketWatch",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "MarketWatch",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDd3cDZFTUptSy04c1lMelhCRVhkSUpzMl9kQk9qZExhcDVCTGN3blh5UXE4cGhSbnZDMjZtMXRoeUEyUm9KeFBvc2otN1NDMlJ5S3RhN1Vjdk02Z1gySlFxak4tM2lsNVc2V3RIUWhyX3pqazlPSmpaM3oyRWJrVnVxZmNFY0EyTTZkcmR3NUxCZkM0TzMwR3VZR18yV0R1VkxUS1NyVGZTZlpD?oc=5\" target=\"_blank\">Stock Market Today: Dow, S&P 500 and Nasdaq close at record highs on hopes for Iran war ending; oil prices drop; Micron extends epic run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEg3Zm4yNjJHN3BXZ2tfTGh0MFJDVDQ0UmNmSGQybkVOZU1QQ0tWT0U1c3JHRTQ4d05MM1BiYWZRTWUtRG9pMUhLbG5KcVl2WE5tYW9mUkh4VnlnVXZ1bk9XblFHalRYdUkyRVZvSDY2Wk1nakd4QmVIdVJiTDZ2OHpNakRpSFJRNXdrUUFQRG9tUTJZR0JsNXBkWUU2MVFxMFpRYzVxODN1ZEdzb2tBbWx3?oc=5\" target=\"_blank\">Stocks Extend Highs on AI Optimism as Oil Slides: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPazZGNWNTZGx6a1RVMDMtX0ZUSTktT0MwN25TUlpXUm16QTZWM3BCbWlGcWltS29YUnAzQ1NOS3lFLUxZcldBZzQwako0dTNhb3JJWTU3S2d1MlZobnE1Z3NNaF93M3U0TXNBam5xMUgzRG5kZzJEUmozYU8yMTI5NlBJYVRkcWNQZUlfQkVWU2VSUEY0YVFXcDdlRkJhVEUwelFZdXc1dmVvMUU3eDJ6Q1Zn?oc=5\" target=\"_blank\">Wall Street indexes post closing record highs, AI rally pauses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNFdUTGhDSlV2Mk9uT1lnMTJfcWlqUm5ueXlmTG5WNUZyRkkzUHg3eEpNbFhQM0R3VmZZdjZNNkJfanViQzhYeDR0bkQ0dGNhVFQzU0NIZUI2c0x1MkhwTVQ5VUZaem5QblRPVEVjbmtpVEhtYzVKcF9pSE5qODVERU1zLWZPNmRsX3hqQnhPQUdkWU1XMFBpUUVDbG50aFdNQ25uUVlLZldwelZyUEpZMFJVakNIZVc4ZUlOZGVoRHlpcTh0bkt1VjM0ZGl4MEJrLXc5bG5sQmNod3NzbWtEbUhKOXR0UkdGdEx1RDJTNA?oc=5\" target=\"_blank\">Stock market today: Dow rises, S&P 500 and Nasdaq waver as tech momentum fades, oil falls amid US-Iran talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHd4QkVnRnBiRGlfTC0wcjBZanZ3SFNBWmpaTzlRT29IY1lHaWh2bEpoSjNYWFNvSEU2OUFkTC1JdzRVLVpuRkR3UUk4RVZoMlQxakhxWXdCX2pjWjI3VFpGcGRTZHJRRDZpbm9oaFhwRTdoVjVlRm1vcDl1Z1dBbWVsUnBBb2tZNmRQME9GTXZrUQ?oc=5\" target=\"_blank\">US stocks inch to more records after oil prices drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDd3cDZFTUptSy04c1lMelhCRVhkSUpzMl9kQk9qZExhcDVCTGN3blh5UXE4cGhSbnZDMjZtMXRoeUEyUm9KeFBvc2otN1NDMlJ5S3RhN1Vjdk02Z1gySlFxak4tM2lsNVc2V3RIUWhyX3pqazlPSmpaM3oyRWJrVnVxZmNFY0EyTTZkcmR3NUxCZkM0TzMwR3VZR18yV0R1VkxUS1NyVGZTZlpD?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "software"
+      ],
+      "company_profile": {
+        "industry": "Communication Equipment",
+        "provider": "yfinance",
+        "sector": "Technology"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 1,
+      "matched_effects": [
+        {
+          "adverse_exposures": [],
+          "direction": "supportive",
+          "label": "Semiconductor / AI demand tailwind",
+          "supportive_exposures": [
+            "software"
+          ],
+          "theme_id": "semiconductor_upcycle"
+        }
+      ],
+      "supportive_effect_count": 1,
+      "weight_scale": 0.85
+    },
+    "news": {
+      "article_count": 3,
+      "catalyst_signal_count": 0,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-27",
+          "headline": "Nordea crosses approximately 0.6 percent of Ependion share capital - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2NwUnFyQVRvOWdRdnVxLTVpZkZfZmtkT3JROWtEaUctQjFFcTg3Q0lSX1FQMk1wVTFmRU1vb1lVMWFIVmN4bFd4UDJFTkFVMTJUNlAxNklhLXplYkVjM0NjRExsMWxBNVlPUlNnb3BvbXdqTXZXakNDVmFqeGREV0d4Z2RYdVNyZER2WWY3anhySkMybFpZS3J4TGJLUkFuYmNWdUFEdEQwcWpESzVvRWdUTGc2Z0w4cVd3?oc=5\" target=\"_blank\">Nordea crosses approximately 0.6 percent of Ependion share capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2NwUnFyQVRvOWdRdnVxLTVpZkZfZmtkT3JROWtEaUctQjFFcTg3Q0lSX1FQMk1wVTFmRU1vb1lVMWFIVmN4bFd4UDJFTkFVMTJUNlAxNklhLXplYkVjM0NjRExsMWxBNVlPUlNnb3BvbXdqTXZXakNDVmFqeGREV0d4Z2RYdVNyZER2WWY3anhySkMybFpZS3J4TGJLUkFuYmNWdUFEdEQwcWpESzVvRWdUTGc2Z0w4cVd3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-25",
+          "headline": "Ependion transfers shares to incentive program participants - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2xyWlRDdVZSei1zQ0hZUm11YWVtWTB1TUlEVWJXWjhqbDdvUXFhYlhDQWgwcDh1OWRIeFhtRjJFTGRUaF92MWxnVnBZQk5uWkRrVTVvdC12cFU5ejhvZnJKVGFyMWJzb05XbzhkUXhIcTB6SmZjN0hlRW1EQVFFdlJHbDhIdlA2MW8tMHREMG5wNHFKVHdMcWluZ2VhTjlOb0F4NGJoNkM3Umgzak5odG93?oc=5\" target=\"_blank\">Ependion transfers shares to incentive program participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2xyWlRDdVZSei1zQ0hZUm11YWVtWTB1TUlEVWJXWjhqbDdvUXFhYlhDQWgwcDh1OWRIeFhtRjJFTGRUaF92MWxnVnBZQk5uWkRrVTVvdC12cFU5ejhvZnJKVGFyMWJzb05XbzhkUXhIcTB6SmZjN0hlRW1EQVFFdlJHbDhIdlA2MW8tMHREMG5wNHFKVHdMcWluZ2VhTjlOb0F4NGJoNkM3Umgzak5odG93?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-25",
+          "headline": "The Board of Directors of Ependion AB has decided to transfer own shares - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSWgxcnBjUzFUN3RiWEZXb2FBc2lZbXRsUHBBdFh2MnZlSWlLOTBUcWdBY0M2MUxvVkNvczAtNjljUEZqcVZsRTdWVVQwLWVRTmxUc2E2T1lmbGQtYXpxdVZkcm9STVg5ZW14UXlzTFpMdXZSV3ZONlpnYWxORFVPc2gzSUJBbkQ0QjdMOFRaUWg3bWFUMTN3LVY5QnVBMWwxeXBwVl9pNHpnQ1ZvZm1sUEwyR3lZVUJPUmpKRjhRbmlyb0dCZkpIWkJYajVWMDU5aHgzZA?oc=5\" target=\"_blank\">The Board of Directors of Ependion AB has decided to transfer own shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSWgxcnBjUzFUN3RiWEZXb2FBc2lZbXRsUHBBdFh2MnZlSWlLOTBUcWdBY0M2MUxvVkNvczAtNjljUEZqcVZsRTdWVVQwLWVRTmxUc2E2T1lmbGQtYXpxdVZkcm9STVg5ZW14UXlzTFpMdXZSV3ZONlpnYWxORFVPc2gzSUJBbkQ0QjdMOFRaUWg3bWFUMTN3LVY5QnVBMWwxeXBwVl9pNHpnQ1ZvZm1sUEwyR3lZVUJPUmpKRjhRbmlyb0dCZkpIWkJYajVWMDU5aHgzZA?oc=5"
+        }
+      ],
+      "coverage_quality": "good",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 2,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": 0.0
+    },
+    "technical": {
+      "atr14": 4.60329202061971,
+      "close": 143.0,
+      "close_vs_ema200_pct": 25.934781208555492,
+      "close_vs_ema20_pct": 6.674273228704367,
+      "close_vs_ema50_pct": 17.67768003072666,
+      "close_vs_hh20_pct": -0.13966480446926582,
+      "ema20": 134.052940481174,
+      "ema200": 113.550838479787,
+      "ema50": 121.518371166615,
+      "entry_ready": true,
+      "hh20_prev": 143.2,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 5.62799702799622
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 1,
+    "exposures": [
+      "software"
+    ],
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "supportive_effects": 1,
+    "weight_scale": 0.85
+  },
+  "news_support": {
+    "explanation": "Python classified 3 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is good. It matched 1 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.85 macro weight because company-specific coverage is good.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 5.63, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-28: Supportive market tailwind for this exposure set (Semiconductor / AI demand tailwind): Marvell\u2019s stock falls despite \u2018exceptional\u2019 AI demand driving a stronger growth outlook."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "Price is still below the prior 20-day high (143.20), so the breakout remains unconfirmed."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 143.20 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is still below the 20-day high trigger",
+        "points": -8,
+        "value": -0.14
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 5.63
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 6.67
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 17.68
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 25.93
+      },
+      {
+        "label": "Supportive market / sector theme overlay (downweighted because company-specific coverage is limited)",
+        "points": 2,
+        "value": 1
+      }
+    ],
+    "confidence": "medium",
+    "label": "constructive_watch",
+    "score_0_to_100": 62
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-28",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-28_universe_5_EU_Results.txt"
+    },
+    {
+      "published_at": "2026-05-27",
+      "publisher": "marketscreener.com",
+      "title": "Nordea crosses approximately 0.6 percent of Ependion share capital - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2NwUnFyQVRvOWdRdnVxLTVpZkZfZmtkT3JROWtEaUctQjFFcTg3Q0lSX1FQMk1wVTFmRU1vb1lVMWFIVmN4bFd4UDJFTkFVMTJUNlAxNklhLXplYkVjM0NjRExsMWxBNVlPUlNnb3BvbXdqTXZXakNDVmFqeGREV0d4Z2RYdVNyZER2WWY3anhySkMybFpZS3J4TGJLUkFuYmNWdUFEdEQwcWpESzVvRWdUTGc2Z0w4cVd3?oc=5"
+    },
+    {
+      "published_at": "2026-05-25",
+      "publisher": "marketscreener.com",
+      "title": "Ependion transfers shares to incentive program participants - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2xyWlRDdVZSei1zQ0hZUm11YWVtWTB1TUlEVWJXWjhqbDdvUXFhYlhDQWgwcDh1OWRIeFhtRjJFTGRUaF92MWxnVnBZQk5uWkRrVTVvdC12cFU5ejhvZnJKVGFyMWJzb05XbzhkUXhIcTB6SmZjN0hlRW1EQVFFdlJHbDhIdlA2MW8tMHREMG5wNHFKVHdMcWluZ2VhTjlOb0F4NGJoNkM3Umgzak5odG93?oc=5"
+    },
+    {
+      "published_at": "2026-05-25",
+      "publisher": "TradingView",
+      "title": "The Board of Directors of Ependion AB has decided to transfer own shares - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSWgxcnBjUzFUN3RiWEZXb2FBc2lZbXRsUHBBdFh2MnZlSWlLOTBUcWdBY0M2MUxvVkNvczAtNjljUEZqcVZsRTdWVVQwLWVRTmxUc2E2T1lmbGQtYXpxdVZkcm9STVg5ZW14UXlzTFpMdXZSV3ZONlpnYWxORFVPc2gzSUJBbkQ0QjdMOFRaUWg3bWFUMTN3LVY5QnVBMWwxeXBwVl9pNHpnQ1ZvZm1sUEwyR3lZVUJPUmpKRjhRbmlyb0dCZkpIWkJYajVWMDU5aHgzZA?oc=5"
+    },
+    {
+      "published_at": "2026-05-28",
+      "publisher": "marketwatch_topstories",
+      "title": "Marvell\u2019s stock falls despite \u2018exceptional\u2019 AI demand driving a stronger growth outlook",
+      "url": "https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories"
+    }
+  ],
+  "summary": "EPEN scores 62/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 1 supportive versus 0 adverse effects.",
+  "symbol": "EPEN"
+}
