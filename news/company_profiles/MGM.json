@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-28T09:15:47.958054+00:00",
+  "industry": "Resorts & Casinos",
+  "long_name": "MGM Resorts International",
+  "provider": "yfinance",
+  "query_symbol": "MGM",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MGM",
+  "sector": "Consumer Cyclical",
+  "short_name": "MGM Resorts International",
+  "symbol": "MGM"
+}

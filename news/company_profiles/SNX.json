@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-28T09:15:47.958054+00:00",
+  "industry": "Electronics & Computer Distribution",
+  "long_name": "TD SYNNEX Corporation",
+  "provider": "yfinance",
+  "query_symbol": "SNX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SNX",
+  "sector": "Technology",
+  "short_name": "TD SYNNEX Corporation",
+  "symbol": "SNX"
+}

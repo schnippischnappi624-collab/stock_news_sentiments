@@ -1,2 +1,0 @@
-asof_date,exchange_code,mic,symbol,company_name,isin,type,currency,country,state,state_since,last_run_id,reason,updated_ts_utc,close,volume,vol_anom,hh20_prev,close_vs_hh20_prev,ema20,ema50,ema200,atr14
-20260526,US,,HLIT,Harmonic Inc,,Common Stock,USD,USA,ENTRY_READY,20260526,187,setup+breakout,2026-05-27T08:31:36Z,16.9,18574966.0,5.31035599791228,15.39,0.0981156595191681,12.791194582274,11.5301683666544,10.4748264585027,0.883500468140245

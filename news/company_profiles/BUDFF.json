@@ -1,0 +1,14 @@
+{
+  "country": "Belgium",
+  "exchange": "PNK",
+  "fetched_at_utc": "2026-05-28T09:15:47.958054+00:00",
+  "industry": "Beverages - Brewers",
+  "long_name": "Anheuser-Busch InBev SA/NV",
+  "provider": "yfinance",
+  "query_symbol": "BUDFF",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BUDFF",
+  "sector": "Consumer Defensive",
+  "short_name": "Anheuser Busch Inbev SA NV",
+  "symbol": "BUDFF"
+}

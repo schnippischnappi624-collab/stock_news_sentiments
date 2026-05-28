@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "PNK",
+  "fetched_at_utc": "2026-05-28T09:15:47.958054+00:00",
+  "industry": "Copper",
+  "long_name": "First Quantum Minerals Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "FQVLF",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FQVLF",
+  "sector": "Basic Materials",
+  "short_name": "First Quantum Minerals Ltd.",
+  "symbol": "FQVLF"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-28T09:15:47.958054+00:00",
+  "industry": "Auto Parts",
+  "long_name": "BorgWarner Inc.",
+  "provider": "yfinance",
+  "query_symbol": "BWA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BWA",
+  "sector": "Consumer Cyclical",
+  "short_name": "BorgWarner Inc.",
+  "symbol": "BWA"
+}
