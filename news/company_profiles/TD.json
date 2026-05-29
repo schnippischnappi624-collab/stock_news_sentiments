@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-29T09:15:37.349347+00:00",
+  "industry": "Banks - Diversified",
+  "long_name": "The Toronto-Dominion Bank",
+  "provider": "yfinance",
+  "query_symbol": "TD",
+  "quote_type": "EQUITY",
+  "requested_symbol": "TD",
+  "sector": "Financial Services",
+  "short_name": "Toronto Dominion Bank (The)",
+  "symbol": "TD"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-05-29T09:15:37.349347+00:00",
+  "industry": "Resorts & Casinos",
+  "long_name": "Caesars Entertainment, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "CZR",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CZR",
+  "sector": "Consumer Cyclical",
+  "short_name": "Caesars Entertainment, Inc.",
+  "symbol": "CZR"
+}

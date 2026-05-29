@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-29T09:15:37.349347+00:00",
+  "industry": "Waste Management",
+  "long_name": "Enviri Corporation",
+  "provider": "yfinance",
+  "query_symbol": "NVRI",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NVRI",
+  "sector": "Industrials",
+  "short_name": "Enviri Corporation",
+  "symbol": "NVRI"
+}

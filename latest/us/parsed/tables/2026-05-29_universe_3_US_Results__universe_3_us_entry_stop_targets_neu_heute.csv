@@ -1,0 +1,5 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
+20260528,US,CZR,Caesars Entertainment Corporation,USD,USA,29.08,91691516.0,11.5276718104348,28.99,0.876970742554907,3.02,28.99,27.6745,1.3155,30.3055,31.6209,32.9364,9.1,1.0,,250.0,,,,
+20260528,US,NVRI,Enviri Corporation,USD,USA,21.22,8126292.0,4.54896767306581,20.27,0.607510901927457,2.86,20.27,19.3587,0.9113,21.1813,22.0925,23.0038,8.05,1.0,,250.0,,,,
+20260528,US,CRSR,Corsair Gaming Inc,USD,USA,11.95,25641254.0,8.115188517861,9.9,0.706010252332673,5.91,9.9,8.841,1.059,10.959,12.018,13.077,6.8,0.75,,250.0,,,,
+20260528,US,LTRX,Lantronix Inc,USD,USA,8.45,4797247.0,3.79985347911071,7.4,0.464786545540913,5.5,7.4,6.7028,0.6972,8.0972,8.7944,9.4915,5.5,0.5,,250.0,,,,

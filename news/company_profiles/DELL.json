@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-29T09:15:37.349347+00:00",
+  "industry": "Computer Hardware",
+  "long_name": "Dell Technologies Inc.",
+  "provider": "yfinance",
+  "query_symbol": "DELL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "DELL",
+  "sector": "Technology",
+  "short_name": "Dell Technologies Inc.",
+  "symbol": "DELL"
+}

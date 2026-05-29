@@ -491,6 +491,10 @@
     "last_fetch_utc": "2026-05-01T04:00:06.888283+00:00",
     "provider": "google_news_rss"
   },
+  "CRSR": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
+    "provider": "google_news_rss"
+  },
   "CRTO": {
     "last_fetch_utc": "2026-05-01T04:00:06.888283+00:00",
     "provider": "google_news_rss"
@@ -527,6 +531,10 @@
     "last_fetch_utc": "2026-05-26T09:15:05.878343+00:00",
     "provider": "google_news_rss"
   },
+  "CZR": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
+    "provider": "google_news_rss"
+  },
   "DAC": {
     "last_fetch_utc": "2026-04-15T09:15:06.169443+00:00",
     "provider": "google_news_rss"
@@ -537,6 +545,10 @@
   },
   "DBRG": {
     "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
+    "provider": "google_news_rss"
+  },
+  "DELL": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
   "DFDS": {
@@ -565,6 +577,10 @@
   },
   "DOV": {
     "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
+    "provider": "google_news_rss"
+  },
+  "DRS": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
   "E3B": {
@@ -912,7 +928,7 @@
     "provider": "google_news_rss"
   },
   "LTRX": {
-    "last_fetch_utc": "2026-05-26T09:15:05.878343+00:00",
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
   "M12": {
@@ -1065,6 +1081,10 @@
   },
   "NTRS": {
     "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
+    "provider": "google_news_rss"
+  },
+  "NVRI": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
   "NVTS": {
@@ -1359,6 +1379,10 @@
     "last_fetch_utc": "2026-04-17T09:15:05.756747+00:00",
     "provider": "google_news_rss"
   },
+  "TD": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
+    "provider": "google_news_rss"
+  },
   "TECK": {
     "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
     "provider": "google_news_rss"
@@ -1373,6 +1397,10 @@
   },
   "TKA": {
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
+    "provider": "google_news_rss"
+  },
+  "TRNO": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
   "TRVC": {
@@ -1513,6 +1541,10 @@
   },
   "ZAP": {
     "last_fetch_utc": "2026-05-27T04:00:05.761780+00:00",
+    "provider": "google_news_rss"
+  },
+  "ZGN": {
+    "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
   "ZLNA": {

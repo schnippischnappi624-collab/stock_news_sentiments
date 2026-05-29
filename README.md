@@ -3,8 +3,8 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-05-28, 2026-05-29`
-- Symbols analyzed: `17`
+- Feed dates: `2026-05-29`
+- Symbols analyzed: `14`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -42,38 +42,36 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-05-28_us_db35814e`
-- Prior regional run: `2026-05-27_us_7e1d1502`
-- Feed dates: `2026-05-28`
-- Symbols analyzed: `12`
+- Run ID: `2026-05-29_us_c88fd9c5`
+- Prior regional run: `2026-05-28_us_db35814e`
+- Feed dates: `2026-05-29`
+- Symbols analyzed: `9`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
-- Rows shown: `12` of `12`
+- Rows shown: `9` of `9`
 
 ### Entry Ready Near Trigger
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [BUDFF](<latest/us/analysis/markdown/BUDFF.md>) | Anheuser-Busch InBev SA/NV | $\color{#1a7f37}{\textsf{+0.29\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [FQVLF](<latest/us/analysis/markdown/FQVLF.md>) | First Quantum Minerals Ltd | $\color{#1a7f37}{\textsf{+0.63\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{71}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(14)}}$ |
+| 1 | [NVRI](<latest/us/analysis/markdown/NVRI.md>) | Enviri Corporation | $\color{#bc4c00}{\textsf{+4.69\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [CZR](<latest/us/analysis/markdown/CZR.md>) | Caesars Entertainment Corporation | $\color{#1a7f37}{\textsf{+0.31\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{77}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
 
 ### Entry Ready But Already Spiked
 
-No names from this section landed inside the current top-`15` cutoff.
+| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [LTRX](<latest/us/analysis/markdown/LTRX.md>) | Lantronix Inc | $\color{#cf222e}{\textsf{+14.19\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [CRSR](<latest/us/analysis/markdown/CRSR.md>) | Corsair Gaming Inc | $\color{#cf222e}{\textsf{+20.71\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
 
 ### Candidates
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [POWI](<latest/us/analysis/markdown/POWI.md>) | Power Integrations Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [YPF](<latest/us/analysis/markdown/YPF.md>) | YPF Sociedad Anonima | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 3 | [BNS](<latest/us/analysis/markdown/BNS.md>) | Bank of Nova Scotia | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{67}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 4 | [ADTN](<latest/us/analysis/markdown/ADTN.md>) | ADTRAN Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{61}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 5 | [SNX](<latest/us/analysis/markdown/SNX.md>) | Synnex Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 6 | [IHG](<latest/us/analysis/markdown/IHG.md>) | InterContinental Hotels Group PLC ADR | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#2da44e}{\textsf{good(4)}}$ |
-| 7 | [MGM](<latest/us/analysis/markdown/MGM.md>) | MGM Resorts International | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 8 | [NTAP](<latest/us/analysis/markdown/NTAP.md>) | NetApp Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{57}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 9 | [PENN](<latest/us/analysis/markdown/PENN.md>) | Penn National Gaming Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{55}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
-| 10 | [BWA](<latest/us/analysis/markdown/BWA.md>) | BorgWarner Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{47}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 1 | [DELL](<latest/us/analysis/markdown/DELL.md>) | Dell Technologies Inc | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [DRS](<latest/us/analysis/markdown/DRS.md>) | Leonardo DRS, Inc. Common Stock | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{55}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(10)}}$ |
+| 3 | [ZGN](<latest/us/analysis/markdown/ZGN.md>) | Ermenegildo Zegna NV | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{54}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 4 | [TD](<latest/us/analysis/markdown/TD.md>) | Toronto Dominion Bank | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{52}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
+| 5 | [TRNO](<latest/us/analysis/markdown/TRNO.md>) | Terreno Realty Corporation | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{45}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
 
 
 

@@ -1,3 +1,0 @@
-asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
-20260527,US,FQVLF,First Quantum Minerals Ltd,USD,USA,28.73,689700.0,5.01915020118081,28.55,1.10647046714522,3.85,28.55,26.8903,1.6597,30.2097,31.8694,33.5291,6.12,0.75,,250.0,,,,
-20260527,US,BUDFF,Anheuser-Busch InBev SA/NV,USD,USA,83.81,225300.0,3.68217877770623,83.57,1.31224697859733,1.57,83.57,81.6016,1.9684,85.5384,87.5067,89.4751,4.18,0.5,,250.0,,,,
