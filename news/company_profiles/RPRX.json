@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-05-30T09:15:55.352404+00:00",
+  "industry": "Biotechnology",
+  "long_name": "Royalty Pharma plc",
+  "provider": "yfinance",
+  "query_symbol": "RPRX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "RPRX",
+  "sector": "Healthcare",
+  "short_name": "Royalty Pharma plc",
+  "symbol": "RPRX"
+}

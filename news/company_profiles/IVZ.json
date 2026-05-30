@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-30T09:15:55.352404+00:00",
+  "industry": "Asset Management",
+  "long_name": "Invesco Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "IVZ",
+  "quote_type": "EQUITY",
+  "requested_symbol": "IVZ",
+  "sector": "Financial Services",
+  "short_name": "Invesco Ltd",
+  "symbol": "IVZ"
+}

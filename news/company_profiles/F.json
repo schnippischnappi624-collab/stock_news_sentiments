@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-30T09:15:55.352404+00:00",
+  "industry": "Auto Manufacturers",
+  "long_name": "Ford Motor Company",
+  "provider": "yfinance",
+  "query_symbol": "F",
+  "quote_type": "EQUITY",
+  "requested_symbol": "F",
+  "sector": "Consumer Cyclical",
+  "short_name": "Ford Motor Company",
+  "symbol": "F"
+}

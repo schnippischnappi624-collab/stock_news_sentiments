@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-05-30T09:15:55.352404+00:00",
+  "industry": "Aerospace & Defense",
+  "long_name": "Mercury Systems, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "MRCY",
+  "quote_type": "EQUITY",
+  "requested_symbol": "MRCY",
+  "sector": "Industrials",
+  "short_name": "Mercury Systems Inc",
+  "symbol": "MRCY"
+}

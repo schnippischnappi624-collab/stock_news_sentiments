@@ -1,0 +1,475 @@
+{
+  "analysis_date": "2026-05-30",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "low",
+    "label": "constructive_bullish",
+    "score_0_to_100": 78,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "The next 1 to 4 weeks matter most around whether price can keep holding above 99.98 and attract follow-through volume."
+    }
+  ],
+  "company_name": "HPE-P-C",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 0.35,
+    "quality": "none",
+    "stock_articles": 0
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "\u2018Fairness is important to us\u2019: We sold our family business to our son at a discount. How can we make this up to our other child?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cWe did not seek or consider other offers. We engaged several professionals throughout the process.\u201d",
+          "url": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Pete Hegseth lauds better US ties with China - Financial Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Financial Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1NxTG9CbnRiTTZrQU5jNFd4emM2XzdSSkoySXRhbE16ajJ3aFBVWWVfSm1vci1XUnozaHAtemwyOWU5TE43eVpXcjJYSy1FamNiQmd1MVBjNGlOSlNSU29MSDFwV0NPWTlqMXRTT3N3VnNtMTRIRHp3NkM0a3dqVl85ZHc?oc=5\" target=\"_blank\">Pete Hegseth lauds better US ties with China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1NwemxGLXZTaFFUOU9WdzN1emlRNFVFRTlaRHFUakh1YlRtT0Jxc0VKR2NVSXVoQVd6MVFLeXF4eHhXWWNNYkt3VW03VS1HV1ZZTzJmeWRiZjV2QnFGZkdrTTBuVU5xM3d0bktfQ2xuSVFwQmN4c0dqZkFSOXE4VW90MGN3NFYwV045SFgyOGZhdGJTRWYtTEViQm9SUVNGZXfSAacBQVVfeXFMTWIzX0wxQlZOc2F5MTNvTFhwMlY1c3VIcHhnMDFod3puYjFmLTRsVjM4aC1INUNhVjk4YUY4NTZrMV9tX0Rfdm5wOFBwb1FNUm16WllGaXZKb2ZHdkVSOWZqQ1dmZkxvc05TN3NuU0pGeGdVYUdhMHp3eWVISWtCaVJXN2M0ZUxyVzBhLU9VOUNlOThLN2hENnV2clJvZlltZ3NHTDYxZHc?oc=5\" target=\"_blank\">Hegseth praises Asian allies for 'burden-sharing,' calls out China's role in the region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEhBX2lMYlRGNFRaUmJZTWYxbngyWHBqZFA4Q21ZNlplVHRud1NvdERIZFJkTmZSWmtUeU1wQ21hOVBEbjlUOUVFRXNhcXlHRmgyOVBxUGZBMlhveVMtNUpTaWNFc3ExWG9OeHhsRW8xUWtZaHFQMng0OWpJX2xqZVdIQzZzVzJBaHNGTWVqMnR3bkpaR25zY2c5ajFfM1pNQTR5M3hxb1ZFNUNBM3VqczJiNmhuV3RieGF5RkNn?oc=5\" target=\"_blank\">Pentagon chief sounds 'alarm' over China's buildup, urges allies to boost defence spend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYLTZFdzJfOVpOSmxKVGIwU0JDRE10em96bXVSdklUY2JrOWU2UTBTRmJEc3JFZnlHN1poQkpVU2hacnNIcmJIMldrSnBLTmhQQjVHZnBkU2JUdw?oc=5\" target=\"_blank\">US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3VmWHY3N2x5RXlRb0VCM0ZHYTcxcVg2SlA4X1FQWllPeG9Yak5qRERoVmhWeFBwNVhrZVN0TTU2TTg5d0J3OGlRVzZKMWxrLW5CSzV1anFOY2ZZaDhsWU5WMWN0TW1RcEFzQ0JHemRqRmtlbW5RdlJHa0pFcmNWMEtTNG9HVmF2cFpnVEl4M0ZwVGZKaG4wOEc1U2l4WkRmYkN3UUJkX2MzdWs5R3JnaUNPdFY1M2g0dkhDUlYzVVdWMFpQMjZZTThxR3BTX0x2dGc?oc=5\" target=\"_blank\">Hegseth Outlines U.S. Vision For Indo-Pacific at Annual Asia Defense Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Department of War (.gov)</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1NxTG9CbnRiTTZrQU5jNFd4emM2XzdSSkoySXRhbE16ajJ3aFBVWWVfSm1vci1XUnozaHAtemwyOWU5TE43eVpXcjJYSy1FamNiQmd1MVBjNGlOSlNSU29MSDFwV0NPWTlqMXRTT3N3VnNtMTRIRHp3NkM0a3dqVl85ZHc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "As Ebola scourges Congo, experts warn of link to eating wild animals - AP News",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.05128205128205128,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmloN0FtNS1QRG9POUUzT2NyY0dDWFFVaDJkQ01xMl9GNkc5RGRscmhVcFVBZ2hjV3pWRDNwRGlwdmdxak1EMktOYTlrLUhuLVNiX3F1MlRGaVJJTFFuREJSMTNBd1pBbjk3S1N1d1Z3MUk3MGN3WVhOd2Z2R1drai1rVWt5T0tC?oc=5\" target=\"_blank\">As Ebola scourges Congo, experts warn of link to eating wild animals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pVcU9DWkVSRkxIRkI3VGRsc3ppZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmloN0FtNS1QRG9POUUzT2NyY0dDWFFVaDJkQ01xMl9GNkc5RGRscmhVcFVBZ2hjV3pWRDNwRGlwdmdxak1EMktOYTlrLUhuLVNiX3F1MlRGaVJJTFFuREJSMTNBd1pBbjk3S1N1d1Z3MUk3MGN3WVhOd2Z2R1drai1rVWt5T0tC?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzBtWmh1VlJhQ1h1X25TTzBqSjV0Um9ZOVNBVl8zNTZPTVMyR2dXWHRRY25DN05vd0twTzV6Y2tSclVyc3dOZ2hfRmpSNEJTalNPbWs1WDUtT3N4cXBWZ0RSOHNLSEVaTXBEVHlzZUFadEdEeG13T2RtNUxaUnF1X0JNcms5N0Zta3VFeDhMUFpOZ2FPS2kycWlpWGkwZzB3UElLZm9nQTVTcEt2N3hJa3lVbUhzTUk0TmtXNQ?oc=5\" target=\"_blank\">Massive Blue Origin rocket explosion gives edge to Elon Musk in space race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE91VFhuQkFmeFNzQnFnc2VKMm5qVjRSMy15M3BiN0hzY28tU1pyTVRaY1psRmc5X1BURjJRWDNMWnM0MDFOY2pGMzNveEZWbU9JcENiTEM5S3FJdElFNHpXQlNrdnctYzcwbm0tdkl0blZycloxbkhLV08weHl2RjA?oc=5\" target=\"_blank\">Blue Origin rocket explosion: What we know about blast in Cape Canaveral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WESH</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbXJfaklXTm9nVHJ1UHVMbEFBUTkzTC04SzA4WlR2LXp0MWtFLVRjVVFJQjhaQ1IzTXZUSmhwWDFrTjNQb2xPZnA3OTl6eGxTaENVeGpZUWpNWDIySW9QcUEzSmxMUVhfbzJGdW9WZms4RmNfNlRLRGFjaUtmVjg?oc=5\" target=\"_blank\">Watch: Blue Origin\u2019s New Glenn Rocket Explodes on Launchpad During Florida Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSllDMk54RjNTeVlwWGhRcXA4U3hwNXJ2NFV0VTJSbWlqV0hSZ0FQcDhRdk0tcXZmNG1FTFFRcU93UldhOU1VNkQyRmdZUnlILTBQcDdYOXNJZG90UzdtWmNWdGNLcFFIZTJZaWhnSmNWUDYzZUs4cFk3eHZxV3BORkxNX2M5Q0JCT2tya0Q0cHg2dDJEQnc4TmpnU2FEaGJQeXdmSGQtS2Y2V29uV2NvZ1M3Z25KRXhBVm9sazlGLTFRNk56RURoTEYzTTFBb01hZXIwSVJ5cTg?oc=5\" target=\"_blank\">Damage to Blue Origin Launch Complex 36 as seen from the air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQblZjaUxrLXJHeHNFVkp0dGFldTJUTHAyazZSenBCNVZoNEQ3YW5XNGlFUUVQTkFvOWtFNk56SDNOc0xZM2JUTkVKZk9CSGpvVWRjTXRfcGhFMGVWb3d4SWpUTW1nZ3hGRC0tNGFlcFlreXg1ZGxXMHVQdVVST2N3YlNrZlRzRnNMZHBEYTBfTQ?oc=5\" target=\"_blank\">What\u2019s Next for Blue Origin After Rocket Explosion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzBtWmh1VlJhQ1h1X25TTzBqSjV0Um9ZOVNBVl8zNTZPTVMyR2dXWHRRY25DN05vd0twTzV6Y2tSclVyc3dOZ2hfRmpSNEJTalNPbWs1WDUtT3N4cXBWZ0RSOHNLSEVaTXBEVHlzZUFadEdEeG13T2RtNUxaUnF1X0JNcms5N0Zta3VFeDhMUFpOZ2FPS2kycWlpWGkwZzB3UElLZm9nQTVTcEt2N3hJa3lVbUhzTUk0TmtXNQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Amtrak fire suspends Penn Station service for NJ Transit commuters - ABC News - Breaking News, Latest News and Videos",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEtISEZUR2dGQW0wRE1rZ0duQVRFdlZTOVdrZU9JZzlvSzNiczNBc08yRlppMlhtZjVaaFZYektrOHEwbDE1Ym82Q3RjUzl3d2wxa0xkSmd2WWpMdkF2OS00NlczemlVNEdVb1BGUzdnSjNqOWZBeEtXOTc5QmZIVjhhZUh0QnZoWXBMMUJFeS00WXV4a1BwcWpB0gGfAUFVX3lxTE1XOXZMRE14WVJkdzhQRFMyWkljNFUwNEdtU3gyNjk3LVNUVkNLZ0hRaGo2Q3EweGU1dG4wVjVtbXFELTkxbnZjUW95ZHU4SG1KMUY4T3VDdVF0bV9vdklvdlp4RHN2UHJlRDlrYzI3ZWhPbVJqSDFwN0pyWFlSalJSLWdEcW1INlJuUThyMEFXMG1MQUJRYXdPaVo1VnYyVQ?oc=5\" target=\"_blank\">Amtrak fire suspends Penn Station service for NJ Transit commuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTNWblNaMFU5V3Rudk5EamIwUHJfSTlObVE5WmtYQWhxTXdGVFB3Z2NJSmFCUjdYXzQzQTU2RU5ObEl4UG82eGNPbm40YUdkSWJKUm9UM0pmUUtkVGpDNndRdjFSTnA3LWt4ZGQ1M0tQNWpFVE9aVzF1UTdJaEJCbFBMYlYzOFByQjhoV2pUU3dmUkdNdnBQSktBUUpnN1FHMW5j0gGoAUFVX3lxTFBSV3Vad1hlMXJqUjJZdENXcEl5bmpadlZBN05yYi15bzgyQnFFYWtheGk5RlVjME10V3VHcWxCdGN2TWl3YmhmamNoUS0yZDFqTGc2dnI3Yld4UWlPSW9CTVhaaFgzdVBwb3JxeU50RjRWVUh3MG9fOUxkWGtoWDVXYUlGV0tKWEVFLXhqbTJTRWFCNDhuVWxrb0RVb3RBek5xaXdQWTB0eA?oc=5\" target=\"_blank\">Amtrak train fire near Penn Station causes commuter chaos during rush hour for LIRR, NJ Transit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Eyewitness News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1ExdHZ4ZlFlRk9OQlY2b1JwX2FzaVljM05YdDM2ek10eDZpZ29QVjl5Vm9YUzNkRl93VkViMDV2OGZILW5TQy15RGRJdkxNMDA2blRmaE1tMDNUVkdubktqOXhETGhGMHlGajFwalEta1NJQTlJdldCMEU4VWxPUktrU1U5eTBXRm03cTF2Wjh3Zw?oc=5\" target=\"_blank\">Train Fire at Penn Station Injures 5 and Disrupts Rail Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGpFT21TR2s1SWl0ekZaVzBDRkEyaXhpYUtuNTFzRXpKem5PZEt2ZHREcGtQM2ZBZGNDdzJpb2o3aVJXVVpBMWFkMzFKQ3pKbXhydGlyQzFCa2JpQ0JFeVJNRl94Vzl6YlNyZU9RektUVTg0OTV4Zkh3TnJnaEdGeE1GUWxTVF90Sk9ud056SEdpekFp?oc=5\" target=\"_blank\">Amtrak service resumes through New York Penn Station (updated)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">trains.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTW9PLU1keWNOM3RiTE9rTEc3WGZ0VWFjRE1sTUhnZy1vRWlXTnNxLTBqdGs0QWV3YlU5OGJHbjhaOUpmX29OZFVJYTBsNnlndHBIT3dMLUhaWWk3SEM3TjVtaDBqMVFiU3hPYmkwZUhaOWRHc1lmc3NDZWV1R1NUX055NTMwaFl1My1rdXZn?oc=5\" target=\"_blank\">MTA's Lieber: 'Unacceptable situation' after Amtrak train fire causes LIRR disruptions into Penn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsday</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEtISEZUR2dGQW0wRE1rZ0duQVRFdlZTOVdrZU9JZzlvSzNiczNBc08yRlppMlhtZjVaaFZYektrOHEwbDE1Ym82Q3RjUzl3d2wxa0xkSmd2WWpMdkF2OS00NlczemlVNEdVb1BGUzdnSjNqOWZBeEtXOTc5QmZIVjhhZUh0QnZoWXBMMUJFeS00WXV4a1BwcWpB0gGfAUFVX3lxTE1XOXZMRE14WVJkdzhQRFMyWkljNFUwNEdtU3gyNjk3LVNUVkNLZ0hRaGo2Q3EweGU1dG4wVjVtbXFELTkxbnZjUW95ZHU4SG1KMUY4T3VDdVF0bV9vdklvdlp4RHN2UHJlRDlrYzI3ZWhPbVJqSDFwN0pyWFlSalJSLWdEcW1INlJuUThyMEFXMG1MQUJRYXdPaVo1VnYyVQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Southwest rewinds its extra-seat policy for plus-size passengers - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFNpUkszekEyNktHTDM4WE1xb0l5dzJqX3dsNXplSlU3M2VBd1c4S29TOHU0b2ZBN1MtM1JCU3NCRUd1REZmUXpkRlR2OEdBUXFIOGttb2hCWHJPb0tvQ3RSS0dKdGFlU2hvZDVQZUMwN0dsTW91WlNBVzlrWjVjTTNCQVl1QUtMZVM4N0pIa1plbVdtTTJ1dDc3c3FWZjdJQ1Fobw?oc=5\" target=\"_blank\">Southwest rewinds its extra-seat policy for plus-size passengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaF93UjQ1N0hSVk4yOERwOGtQajkyVEZOZlNTQ1dVUllXX3ppSXVLZWxfVEdXVTBKRDV1eG5BRE9ESC1hU2M1UHNhbUtqV2JqVWRPZjdCaG4xSGhpLWRaU19HLWFIa2h2YnJ2N3paQVI2eUhvdFUyLWRkRFFWUWpxeExnUTNtZWs5Ykw0cEpodzVMYWVyalNLQXdfZGpWcjg0ZEE00gGoAUFVX3lxTE9pVTA5UVJkV0wwelNuUWNWRTZnXzE5eDNuNU12MmVLNEMzXzlFUGJ5UTY2RU54aXFfN0Q4ZzdJZVZWWVEwMWxaSFZqUkZlOVpDN2xiRDdVTVZaRURnSW9nT0tKc0Z6WjlvWG02MkxCMWhvUTFyLVpxaENyVldMT3NiVFh2ZGlHbmQzYnNTZmxjeEFmeDltYkRQVExZWE5oSlE2WTdIc3h2ZQ?oc=5\" target=\"_blank\">Southwest updates extra-seat policy for plus-size passengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObW5wTkhyay1rZzdVNC1nQnU0V2lQOWprZi1tZUxmLXNDWVRNVVhmcnlvdzhyeE9IcUVmVFBJclJzdm9udW14S3pJU0xhUFY2T0VYdi1BQm51NG5WczZyLTRBTmduTlpackUxeS1yX3E0Uk9PNmxwSHhMYmNadEdOOFh5VXdmT1lzdzRrQ2FoQm1PWWJ2YXdKNXhVSzNfV21waWlaaEFVdW1ES1VRTGdua3B6TERNTWIwZ1R5bWRzZlJ2THdGejRLTkZR?oc=5\" target=\"_blank\">After 4 Months of Backlash, Southwest Airlines Changes Its Controversial Seating Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUJuc0RzdFlyWHIweHlaZW1VcHFOTnowNkNjWkk0RWdMZEZWS0ZnZlM2a3h1N0g1QjhrRWZKTzNlNTZyRGRHLXBESTREWVZTZmNlM1h6WVF1TUtIZVZqV1Fhd0k0bFUtUE9sYnBhdmxCWWFGUDRVZTNsUnlsMmZISm04Qy1jdw?oc=5\" target=\"_blank\">Southwest rolls back its overweight passenger policy. Here's what's changing.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWxHOHJOREVYcXFWXzlpQWVwaFZ6TUZVZHdTVjRDYlh5OHNucFNTRm9JelBFYk42UGpCODNmdW83TTRwajBlVFdnclZ1T1pqR2FoTnZLbXJIaGFKWXRXV0NPcnFhT2hkQnE3cEJ4V2ZHUXI4YXQyQkZBSnZBeHo3eFhmR25PckhnRDdUM09ibDE5dw?oc=5\" target=\"_blank\">Major Airline Changes Rule for Overweight Passengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFNpUkszekEyNktHTDM4WE1xb0l5dzJqX3dsNXplSlU3M2VBd1c4S29TOHU0b2ZBN1MtM1JCU3NCRUd1REZmUXpkRlR2OEdBUXFIOGttb2hCWHJPb0tvQ3RSS0dKdGFlU2hvZDVQZUMwN0dsTW91WlNBVzlrWjVjTTNCQVl1QUtMZVM4N0pIa1plbVdtTTJ1dDc3c3FWZjdJQ1Fobw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Americans Injured in Iranian Missile Strike on Kuwaiti Air Base - Bloomberg.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZTdFNEU2ZBNV83YkFtbG9DX3VzdW8xdkUxbFNobTdSdmE1S2N4SzVxemE1VUx6aGZZQVZ1endOWm5GU0xXbURjMVNXYlJxSDM2VXNZdlFoMEI1UUs1WGxRQlFuQkVxQlRYZUxQbnA2azF0Z2kwVWp2RHJzMzY5aUl3Y3N3M2ctYmJPaGVOZ3NDVHZPUHBwd1pLVGRFYkNManV4SDBJN3FETmdKc2JUNi05V00?oc=5\" target=\"_blank\">Americans Injured in Iranian Missile Strike on Kuwaiti Air Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZHUmc2Qk4zNGljejlrMi1VNWhiTVRJSXY2NjFCajdqNUx4STVoMmhJdGc1cmt2TndQQTQ0dWdtSlhJaUFFZHFGNTVobC00NUdCLWhSM1JHS0FNMjcydXIxNndJTG9MdzBKR2tXa0RTLWVWQlNPLXRQejhoaWU5RXdFTVVfQnVxdkROdFdjM193OEk10gGaAUFVX3lxTE00YXdFXzd0cmlXaTFpOTVzYTBnTzJ0X0VZcTVOUU01NXNkOEFka1BKS3dPMGx1TEoyVFo4aTVzaFQyS0ZKNTZrSHV1dllQcjlIRUxDazVPYTJhLUVwaWFRTHZiS203R0xqU055V0FUN2xDeS1sNE9Ib1VuSndybzdqY05na2V0M2Z0Qno5RjE4dldPNkNEWUpqTHc?oc=5\" target=\"_blank\">Iran reportedly launches missiles as Trump mulls deal to pause war for two months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0QydWpUNHhKYVZiZ05tVDV3RzE1bXZPMmxBUnZ4bDBCR3BsN3FIYVFyanF2SXlmbFFUY29JX0F2TU1VSk1HdnNtQ3ZLdDl1Q3RLOFc0QVF1Vk1oMzJsbWZPT2Q0Z1k3b0FZQlZ5ZXZNb19yNjd1R1JyTWpvX3NQQ2RVRQ?oc=5\" target=\"_blank\">US says Iran launched \u2018egregious ceasefire violation,\u2019 testing fragile truce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORVJaMUQ5RUpUZUk0YzVxYUxmQmwtZDVYY2xUSENrNlFmNF85cEtoNnVWb19WOVZsQTFPTGxBOFJuM1d3MU5vOTBaRE1qaElwYmhkQzAydDhOZ3BwcUJBenZSbDRUSnpmdDh6RVpLNkpsVGE3Ylc1djdLZzJjblRaaHhCdkpQTFB1ZFJqY0FoN1FGdFlqNVItU1UzYnA1bU9ud0ktdlE2U3RlQnpwcmxtOVM5MVlBTDNxN1JkeGNkTTk0SUtVSWZObmE0Wmw?oc=5\" target=\"_blank\">Statement from CENTCOM on Recent Iranian Aggression > U.S. Central Command > Press Release View</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">centcom.mil</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEI3WmRxaTBzd3ViNC1aRkUzMnhFb2M2b29CcFkxb191bzFmbC15RkdwMFN4WTZzV1d6UktLV0xaYmFTNnI4dWdQN2pzc3NxYVBYOXJoNWw4bHNYXzdWS2pxMUZPaHF6S1pSU1RYS0RVMFBwOGFBNHFhSlpYR3NCR21TNEZyV3VLUHpZZGRvX2l2MW82X19PazZXSC0wOWVRQllQVHF1NUptSjhlU3c?oc=5\" target=\"_blank\">US: Iran\u2019s air base attack an \u2018egregious\u2019 ceasefire violation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZTdFNEU2ZBNV83YkFtbG9DX3VzdW8xdkUxbFNobTdSdmE1S2N4SzVxemE1VUx6aGZZQVZ1endOWm5GU0xXbURjMVNXYlJxSDM2VXNZdlFoMEI1UUs1WGxRQlFuQkVxQlRYZUxQbnA2azF0Z2kwVWp2RHJzMzY5aUl3Y3N3M2ctYmJPaGVOZ3NDVHZPUHBwd1pLVGRFYkNManV4SDBJN3FETmdKc2JUNi05V00?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "World Health Organization (WHO)",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1QaS14SkRJakdrbndwXzFZQ1V1Y3Fhb19CR1o2aUV5ZF8ya24waUNKbUY5WlBTU281d2V1VHBXcU9McEppTDRoNG1iRS1nbEhhTnF5RG1KN0tVTkNVeXlMZTNhM05sN1o2ZTg1NUpvR3drXzZobjRTNTJB?oc=5\" target=\"_blank\">Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Health Organization (WHO)</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1hLLXN2RUdNOTg4aElackEzZnRtYTVya01zek8zTFFjbjJXYllGS2RudzlLbWZub0JSMHNDNkpFVnJZQTdSbXdnakhvcFJlVk1ETFlTaFJpWENJRHBaZ0h5NTZDSzlRY0JrRHFxa3A2TkV4U1NJLV92T29ZbGpXaGhpRGxnQTA1eVlWazUwa1p6TkJ3TUE?oc=5\" target=\"_blank\">Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3FmTVEzWXNaMnhFOExSLUxMbHRLN0pyOE9GOVE4dGNIMWwzTHV6WHBvX3JvRXNERGhIdW9MSHk5X2RHekdPWUhIdC0tSU9uT3duNldKXzBCdmJNWHNucnAtNDBsZmpnWUsxV082MlZzc1dVVk15aFdvUWljSGxQT2N6dHY5ZmEzOEJEY0N1S0JVb0FfaHc?oc=5\" target=\"_blank\">Uganda shuts DR Congo border as Ebola outbreak continues to grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CIDRAP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWUzYTNGVFJSOGRKaU44RkJTa2U5eTZ0Wk1lOFdRS3NNUDE2bUQzYi1aamFyTHBjRjZ6V1RhRGJPdzNySEV3V1JJRTRNVE5zVzlkOG9XQ2VtRjhOZnJONTVyTXk0S2pmM0dKOFp2dkx6SzEydHJIZlpUa2dWTFQwYTVETGZYSC1ZN1czTkFqXzFIMzNU0gGUAUFVX3lxTE9SNDZaMm5XVFBoVGtCT01iMFozcDdzZjlHbHgxU2dLTnRqUjZCY043NFBET3J2ek5WZTdyWGswYVFoMnRCVHhSQWdVYml3al82clpWN3BhUEhmbGQ2b2JGZUdPVUgtUjlpUU1lRUxLTkpYRnI2VmdWVnJWd0NuQ09jUDNza2xhV3FsdGdManF5MzRMRjI?oc=5\" target=\"_blank\">Ebola: Uganda closes border with DR Congo as virus spreads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGZoam8zMWsyRmJZdkVrcVpnQ1hmNFFjNVU2dFpkYzgybmZGRmFvblBUNnYwRkNnd3dkMzkyR3VENEs1T2d4QWpGaWYxZGxuRDdhMmVkM25LNDd0OVA5N3dyQWpRNkFwWU50T0o4S1pjWW50WExmbDFmaDh0TUxvd196UHFES0xYMGJXNGxyRy1iOFFnLWcxa3Zya28waWxPRVViOWZoS1ZfRnFBQjE0aUpMZw?oc=5\" target=\"_blank\">Ugandan health officials report new Ebola virus infections, bringing cases to 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QaS14SkRJakdrbndwXzFZQ1V1Y3Fhb19CR1o2aUV5ZF8ya24waUNKbUY5WlBTU281d2V1VHBXcU9McEppTDRoNG1iRS1nbEhhTnF5RG1KN0tVTkNVeXlMZTNhM05sN1o2ZTg1NUpvR3drXzZobjRTNTJB?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Southwest rewinds its extra-seat policy for plus-size passengers - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFNpUkszekEyNktHTDM4WE1xb0l5dzJqX3dsNXplSlU3M2VBd1c4S29TOHU0b2ZBN1MtM1JCU3NCRUd1REZmUXpkRlR2OEdBUXFIOGttb2hCWHJPb0tvQ3RSS0dKdGFlU2hvZDVQZUMwN0dsTW91WlNBVzlrWjVjTTNCQVl1QUtMZVM4N0pIa1plbVdtTTJ1dDc3c3FWZjdJQ1Fobw?oc=5\" target=\"_blank\">Southwest rewinds its extra-seat policy for plus-size passengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaF93UjQ1N0hSVk4yOERwOGtQajkyVEZOZlNTQ1dVUllXX3ppSXVLZWxfVEdXVTBKRDV1eG5BRE9ESC1hU2M1UHNhbUtqV2JqVWRPZjdCaG4xSGhpLWRaU19HLWFIa2h2YnJ2N3paQVI2eUhvdFUyLWRkRFFWUWpxeExnUTNtZWs5Ykw0cEpodzVMYWVyalNLQXdfZGpWcjg0ZEE00gGoAUFVX3lxTE9pVTA5UVJkV0wwelNuUWNWRTZnXzE5eDNuNU12MmVLNEMzXzlFUGJ5UTY2RU54aXFfN0Q4ZzdJZVZWWVEwMWxaSFZqUkZlOVpDN2xiRDdVTVZaRURnSW9nT0tKc0Z6WjlvWG02MkxCMWhvUTFyLVpxaENyVldMT3NiVFh2ZGlHbmQzYnNTZmxjeEFmeDltYkRQVExZWE5oSlE2WTdIc3h2ZQ?oc=5\" target=\"_blank\">Southwest updates extra-seat policy for plus-size passengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUNaRFhFYVJIY21FcGYtVEtQUkMzZHJ5RGpNYkM5ak5wX05aemdzc2pZYXRuUGlRNjFsN3FuTkJCNXJCSndGcEZaOGw5TzBHc180aUpZT2F4WlVITG5Qc1RoSUNZclhlQ1FlLWhSUnhiSU1WLVNvb3NYeDBfTUQ2czhKRkd1UXJpSkJyX3RKM2FxX2pQdVR3b1lieVNzOVdsVzlNTkczTU1oeHI3NlloZA?oc=5\" target=\"_blank\">Southwest Airlines tweaks plus-size passenger policy after backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObW5wTkhyay1rZzdVNC1nQnU0V2lQOWprZi1tZUxmLXNDWVRNVVhmcnlvdzhyeE9IcUVmVFBJclJzdm9udW14S3pJU0xhUFY2T0VYdi1BQm51NG5WczZyLTRBTmduTlpackUxeS1yX3E0Uk9PNmxwSHhMYmNadEdOOFh5VXdmT1lzdzRrQ2FoQm1PWWJ2YXdKNXhVSzNfV21waWlaaEFVdW1ES1VRTGdua3B6TERNTWIwZ1R5bWRzZlJ2THdGejRLTkZR?oc=5\" target=\"_blank\">After 4 Months of Backlash, Southwest Airlines Changes Its Controversial Seating Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1VvLWpFUU5yRmQ2TXk4WVItMkprZFVMQXdMUGNCMjlpNEtnMjd4bkthV0JkcnJFRkRtMnJxVVJlbnhNM29ta0hoRW9VWG9RUGVrSFluRXoxVlhsckR4R25XSFFUSHRmVEZhVlh4UGxEZzFDTjFkUUpvQndaQlJ3MlRuc2lwQUhvZFVWSXBFYnd5QldNVF9oVTRrZWxiZGh5YnprdGJ6RjFtWDQwLVdaM2t3bFU5ODA3WW1hM2N2dmtFaVBiTVBLa0JZTQ?oc=5\" target=\"_blank\">Southwest updates policy plus-sized travelers months after tightening it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAA</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFNpUkszekEyNktHTDM4WE1xb0l5dzJqX3dsNXplSlU3M2VBd1c4S29TOHU0b2ZBN1MtM1JCU3NCRUd1REZmUXpkRlR2OEdBUXFIOGttb2hCWHJPb0tvQ3RSS0dKdGFlU2hvZDVQZUMwN0dsTW91WlNBVzlrWjVjTTNCQVl1QUtMZVM4N0pIa1plbVdtTTJ1dDc3c3FWZjdJQ1Fobw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Ships Are Sailing \u2018Dark\u2019 to Sneak Out of Strait of Hormuz - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.0125,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOLV9uY0htdjk3RFJxUlNTYmRsRWtrRWR5Um9ZcmdPVDZaTUYwbzJqaFN6dy0tWTk3allVdk5TaGpyYzEyRjBrZGhpZ2JKZGpvWGRXWkczdjZmNE9kS3FZRGR1VHVQQUExRHNwSW1lUmwxTXJxQ1F3ZFNidWF0UnN2UV9neEpNd2hnNHo0cE9JQl9PRF8zWnRjdTZlbm5kc1hDbkZqVw?oc=5\" target=\"_blank\">Ships Are Sailing \u2018Dark\u2019 to Sneak Out of Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEdWQnlJeE5zTUFPUHR2X2dqZENXQURmN2ppZnhaZnVEY05mUFpLeHFkVENyWHJyY3lIMUE4aE9zVlpYX1Yzc3dpR3FaaUFVcUhFVlpZNkxKbEZySERHUXJ4SFhPYjhXdWJJUF9kSml0Y3NWMEdDN2JWTWxtR1F5Sm5NTHd4SmFhR3NaTzlIVU5YU1JmM1l2bUFxYXIwdkRHSndGZkhNM19fcWFDMmRsaHp4bTM?oc=5\" target=\"_blank\">Quarter of Big Oil Tankers Trapped by Iran War Have Escaped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWxXdlJKT0l4US1ZM2pFVHFrd2pZRVBCR0MzMURRMVBGY2E2NlpBSENsQWJodGdpRXFrYlN2eDB5ZlNVZ3dOWi1NUkctd3o4Y1cwazlYRFpvMmNIcnI0dDl5aHQxQUpPNFp3cExWaXdkYkRQcjkxQWF0V2U2c09ZMXRZMHJYSmV5V2NQYmxod0p3UUhwV2MxUjN5M1lfa0hKYzRHWGkzeThsczA?oc=5\" target=\"_blank\">Three oil, LNG tankers exit Hormuz with transponders off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRsY3dDaEl2aVpBU3VaaUlCVkxPV2tJOGtyalhBa25TbFBGX0RKMkZSRnAyaFpVQnVJd05XOFcxZ1U0SlIwQUhUa1QtSnppUmJ3a2hMblFUQVFTcV9EZjc1aFNaTThUbjI2OFdFUDVzamJiQUpQSXBROFgxZzJFZXRZNzJjWEcxZDdBN3dsM2tqeXJlYk5iWWJEMEZjVTJsTTdaeUFyQ05hSkXSAbABQVVfeXFMTjV5MkZIcmZ2OEszNmtHX28wSzZGeUdZMzFGa2lFa3VkSzQ1cFVQUDNxaXNqSGZ5YVlDYUYzUC1ZeXpiT3NsY3VZbWdERTc1YS12NVVDWUl1UTNxQXlqTW4zQkdnWV8tLUdYZ0VEOGY5SWNRN3RNR19XcEVFOEFhYTFGSmEyWVA1WF9Dd2lNUEZmUlptb2YtVGpmajRLNGVkaEl2MmVESDk2YVJvUWhEaUI?oc=5\" target=\"_blank\">Greater proportion of non-Iranian ships crossing Strait of Hormuz, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWNxOXY0a2JjUEZLa3dfU1JWRTh2YU1vOUpXcEtfdVMzY1dWSWpESlFJUEttcXdQaGxjMk81eW1IZjFHcE9ZcXhrbkRXUFAwdFNrMEo5cHpYcHN3WHNLWGg2VmJESy1oQmFUZ2tkTTYxN0JWZmJ3dGM4N3BhV0RjVmw4WFl3TlM5RUtLSE5Ybk1TYmxDR1R3bkV2X0Z1S3UtaHQ3VnNfVVlCU0Yy?oc=5\" target=\"_blank\">Strait of Hormuz traffic falls as reopening efforts make little headway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lloyd's List</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLV9uY0htdjk3RFJxUlNTYmRsRWtrRWR5Um9ZcmdPVDZaTUYwbzJqaFN6dy0tWTk3allVdk5TaGpyYzEyRjBrZGhpZ2JKZGpvWGRXWkczdjZmNE9kS3FZRGR1VHVQQUExRHNwSW1lUmwxTXJxQ1F3ZFNidWF0UnN2UV9neEpNd2hnNHo0cE9JQl9PRF8zWnRjdTZlbm5kc1hDbkZqVw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzBtWmh1VlJhQ1h1X25TTzBqSjV0Um9ZOVNBVl8zNTZPTVMyR2dXWHRRY25DN05vd0twTzV6Y2tSclVyc3dOZ2hfRmpSNEJTalNPbWs1WDUtT3N4cXBWZ0RSOHNLSEVaTXBEVHlzZUFadEdEeG13T2RtNUxaUnF1X0JNcms5N0Zta3VFeDhMUFpOZ2FPS2kycWlpWGkwZzB3UElLZm9nQTVTcEt2N3hJa3lVbUhzTUk0TmtXNQ?oc=5\" target=\"_blank\">Massive Blue Origin rocket explosion gives edge to Elon Musk in space race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE91VFhuQkFmeFNzQnFnc2VKMm5qVjRSMy15M3BiN0hzY28tU1pyTVRaY1psRmc5X1BURjJRWDNMWnM0MDFOY2pGMzNveEZWbU9JcENiTEM5S3FJdElFNHpXQlNrdnctYzcwbm0tdkl0blZycloxbkhLV08weHl2RjA?oc=5\" target=\"_blank\">Blue Origin rocket explosion: What we know about blast in Cape Canaveral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WESH</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQd0UzS2JTaUZnSmdQSnQ2UUt6MEdVNF9EVzJRWTNldVJQenZzMWEtU2dDVEJpb0xsWld4NGpsaUVrdVoxaFVmNVN5YkowaG04TFJXT01rNkJxTnhjLW9mczNRRXpycF9BMmtaYkdpaVd6V3JieTFLdFV5V29vV0N3MW1fWWFoa0M2RkZCeUhVYzN5T05pd3JFX0ZlZGZNaldvT0xaeUYtb0hCV3BkWFZIaHpleXBGQ0NpVDVCRTgtaEhWWnBoZ0RKcFo1bXI1djRXRmk1S1M2aFVGRUZkdl94dzhtTUZBbmtmZUlFQWNlZk5ZVWltRE83c21ubWlGSXlrT09EUjhGdVliRXlSbEFn?oc=5\" target=\"_blank\">Blue Origin investigates rocket explosion as public is warned about possible wreckage washing ashore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">10TV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSllDMk54RjNTeVlwWGhRcXA4U3hwNXJ2NFV0VTJSbWlqV0hSZ0FQcDhRdk0tcXZmNG1FTFFRcU93UldhOU1VNkQyRmdZUnlILTBQcDdYOXNJZG90UzdtWmNWdGNLcFFIZTJZaWhnSmNWUDYzZUs4cFk3eHZxV3BORkxNX2M5Q0JCT2tya0Q0cHg2dDJEQnc4TmpnU2FEaGJQeXdmSGQtS2Y2V29uV2NvZ1M3Z25KRXhBVm9sazlGLTFRNk56RURoTEYzTTFBb01hZXIwSVJ5cTg?oc=5\" target=\"_blank\">Damage to Blue Origin Launch Complex 36 as seen from the air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHM5QnNncDdHbHV6RXNvOHRFcWVsVGxPTnhlU2hWMnJYSWVjUjgxNmpLZldBWXBvY0tvYmhOVFc0MkFUNnZZRDF1S3hZUWR1cC0zNGEyZ1QzYWphM1l4WnZFTTVPaFNPNW84WUV1aTRjYUR3VUwxd0lJeHJ0OVl1NlBaVTJPLW5BWHNDX1JR?oc=5\" target=\"_blank\">Blue Origin New Glenn rocket explodes on launch pad in Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzBtWmh1VlJhQ1h1X25TTzBqSjV0Um9ZOVNBVl8zNTZPTVMyR2dXWHRRY25DN05vd0twTzV6Y2tSclVyc3dOZ2hfRmpSNEJTalNPbWs1WDUtT3N4cXBWZ0RSOHNLSEVaTXBEVHlzZUFadEdEeG13T2RtNUxaUnF1X0JNcms5N0Zta3VFeDhMUFpOZ2FPS2kycWlpWGkwZzB3UElLZm9nQTVTcEt2N3hJa3lVbUhzTUk0TmtXNQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Myanmar's junta chief turned president heads to India, with an eye on China - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWl0WXVxc1BfR1VKZkZQWkNhRnZtUmNyc2VOcnFvRFNLeTd3cWNJeVpLV2ota3Z4MndSNTFHOEVyS1hvR0hENmVQS0RyT3h6TjhIZUstY1NVLXlVUTF6MWZhaWg5TjBLb2sySmxzVkRtX0cwcmp5WWVSTWZRcTNzekswTjV6X2JmN0NmOS1mcGxMUVd3ZXQxS2ltT2xJTHZVTU82ZzFjUG9XZmNOQlVJODJYRmEyQQ?oc=5\" target=\"_blank\">Myanmar's junta chief turned president heads to India, with an eye on China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1rVE1vckNkcGxPV01mNzBKWkVBbnBhd1ZlWjNfRUhZazFtNFI3QTRjd3BfZUIwVHRESFlOTFY1V3RwSGE3dElNU2ZPYVdna29vSUEzY3VhWEUzS2FPOUxheThDYkd2M0JDM2E1dEVLZzhxa3kxVl9GWXNR?oc=5\" target=\"_blank\">Myanmar's Min Aung Hlaing takes first foreign tour as leader, with visit to India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOelFQUmxxWEgxSEtrSm16ZHhFTEdRRlRqUmRoaklEMnM4OHloanN2RS1TclQycnZyOHItcVBBWkZVa3RydXczTjJMUzdPNjNyZ3lOQlJoZVFvLXNrSDZpeldiOGs0VFFUbl92MW11U3VsMFRqSkhudm96OHpKZGlneDZVLVBoYjVWelFtQUlwTVo3czdYd0tKYjd5TQ?oc=5\" target=\"_blank\">India news: Myanmar president arrives in Delhi to boost ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTJLcFpmSngtbllsdXBuOF8xcURUOG5tUGE3Nm5pOWx0NEp1TmFickFnbzdpU24yaWlkdVl2eXIwZ0s3TFRiclgxWVNXMzlrVkRCZUgwVW5XdUprQmtpbXB6WGJmc1d2U2ZXcjNTc1JhSl9wX3NjeU9XcV9WdUdSRFpaVmxoMC1ZQ054QjNuQnc0M0xUS2YyWDFhdUpGX3JlZDF1YWs1UEZ4RXhPWnM2dmRfalpvSmMwRl9GVW9jVG1EejNPVjcxZUJOTFRiYlk5NFdsTEtCek1Zams5OUlzcTRYcGZxMDVuT0VTbjF5Umw0dWs?oc=5\" target=\"_blank\">President of Myanmar\u2019s military-backed government visits India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kare11.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT21PZWJxMUVDV0E1d3VUSC1IZVZZSXowalNmQ05CRENzdDdVbjdsUTFwM2ZmR2pVbFluQzFZcDd4eXIyanpKd19lOHZpMHY3ZUtfcmswUDBwNXhReWNDU3hQeXJUZEl6QW84Y01ZNnZCNG42R2dvUThXSHh2bGhZTHc0UlFmOS1aM1c4dFZiWC1mWkVIQ0Y3SGZ5elpCaEI3S292UC02dkdtZy1LbmxpZnBPTDhfS0c4VXpKSFotaTZiQjBQazNlX2FnVF8zbHJUZmxOY1JPbw?oc=5\" target=\"_blank\">Visit of President of the Republic of the Union of Myanmar to India (May 30 - June 03, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ministry of External Affairs</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWl0WXVxc1BfR1VKZkZQWkNhRnZtUmNyc2VOcnFvRFNLeTd3cWNJeVpLV2ota3Z4MndSNTFHOEVyS1hvR0hENmVQS0RyT3h6TjhIZUstY1NVLXlVUTF6MWZhaWg5TjBLb2sySmxzVkRtX0cwcmp5WWVSTWZRcTNzekswTjV6X2JmN0NmOS1mcGxMUVd3ZXQxS2ltT2xJTHZVTU82ZzFjUG9XZmNOQlVJODJYRmEyQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Why Dell Stock Skyrocketed to a New All-Time High Today - Yahoo Finance",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUR1RjNXWS0wZy13V2MtYVBMUTQ0WlFYcWJzX0I3cUVzbFhfOHRzbGstNnZUbEhuNVpyZEI2ZFBBNjluRDF3N2ZUcTNKMnFEbzZIajMxZlJiLWdaQ0N5ZzlzYjVWcXBKeG5mQldPaUJUNVhYRVZEbHVqa0dLNXdSLWhaMUd6ZFZpVTRjeVRoOGF6Y1VTS0VYOTV3WHU?oc=5\" target=\"_blank\">Why Dell Stock Skyrocketed to a New All-Time High Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGc0LUdPb2k1NHRDVllOLXczclcwbFowLWJURFRsdWVKRWhZVnVjZl92LWxBdDlCdV9NSHp3Z1BTbTUtTFhyYVFvSlc2d1VtRmZjVzlnU0N4ZXhEY0N4NjAtVEVabWNrUDV1ZGk2ZGxfREZfTF80REpUOFZNR0hYc0c2c21pSHJvTHZYQkF5WTd6Y2VVNndpbzJrVUl5aHJLbnBhLUZpS0p5b2w0UXZ4X1V0cHB0V0lyUUxlTDVCUFhINU5qWXFFSTVqR1d4R1dpNVZIR3Vxcw?oc=5\" target=\"_blank\">Billionaire Michael Dell's Fortune Swells By $34 Billion On Dell\u2019s Best Day Ever\u2014Now Richer Than Zuckerberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3JlbTRVZ0JUdnFjMmF6SlA4SEM5MzZMTmVkSF8zRDhZRXY5SHV4elF0UUVpQ3VROFlmQ29mUXNmS3ctTHRudzAyazRKMU9DemViRkstRzNGSS1mSTlFd3RmT3VOYURoWjg1ckJTV0phY292Nl93X3lkTzZQb2ZWNVlMVXhDcnN6Z3JJR2k3RGxxdnFYSFAtSk5UaWpnc09pSXZIM3VSc19pR3dlbEJBVHVaNl9FWk1BZGNXaHNmS0hWQQ?oc=5\" target=\"_blank\">Dell stock soars as AI boom boosts demand in blowout quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0U4RlBtd0IwTDdVRmI4bjRaYlNjMU5ZblZXeFVJWDRuR2dXb2ZyT3pwVnZDR2tjV1hnazU5NlRqcHVlSl80WDAxekJvdXdIV0dYQkZaN0tQSjBJMkFySm9aT1YyTW9PVUN4cUtqZFdfR3lhR0txWWxqVW5LMEFiNS1zRjMyU055T3BXWTQtei1MN2NOaDBZbGlhTkNwWkxQdlg1MmhpNkhBeFlrNzRKRtIBtgFBVV95cUxNaXdsS2xERlMxOHp6VUx1NXl2YmQ2SDNwSlc3bTdlNWRVUk5mTkRxcDN1eDZoaW8yWmJvc2NNX1ZzUFdYd0lORWVBY0pWcXMtTW1fNVV3RzRsb0U1QS1idGdQckRVQ3RzY0FTbzBoeUNfRXF5M3dXRlduM3hCaVVoOGR6M0J1VE5wdGtjMUxCd3ZuNHNTdTFEZjVIRTNyTUFfUmtMS1ZXVEFnVGV0bVd2VDB2RElvQQ?oc=5\" target=\"_blank\">Jim Cramer says Dell\u2019s blowout quarter sets up a crucial week for AI stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnktb1hjNFlydHk0cXVQLWpIMFpPWUhudHVZZGp2XzNvUGtFaDlBRlV5MlRJdzNVNmR0Nmt4czBjbTYxSWkxOGo3N0NCbnhNRHlPWVJvamtTUjAwcXdvVUpmZllYcjBkS1JGcDZNNzZNSzBDTGdvaWUyRnV3LTFxVGlQWDJBcWZ5dkl1emRKSTgzdTNZMEk0WXRtakNHSVdBbU1UZGxSdEpBZlp6cm9MRkpBcw?oc=5\" target=\"_blank\">Dell Soars Most in Two Years on Outlook Fueled by AI Servers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUR1RjNXWS0wZy13V2MtYVBMUTQ0WlFYcWJzX0I3cUVzbFhfOHRzbGstNnZUbEhuNVpyZEI2ZFBBNjluRDF3N2ZUcTNKMnFEbzZIajMxZlJiLWdaQ0N5ZzlzYjVWcXBKeG5mQldPaUJUNVhYRVZEbHVqa0dLNXdSLWhaMUd6ZFZpVTRjeVRoOGF6Y1VTS0VYOTV3WHU?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "Exclusive | How Replimune\u2019s Drug Got Third Chance After White House Intervention - WSJ",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnBsU3BWVHJSTEJBRllNR195TVMzSlBqTWxfU0pXT2tGQjdWc0MwMnFQTHRtNFBYT0JZc2RJVEx6T1ZXNWRrakMyNWtoS3ZVV0Z3TEdvdHE1dmFoS0J2OXdxWG5SWW9fdDBVN3FhVE1TVTVNUXJHbE1mbXFjWFhMNHZ6Tjk3Sl9BZDN2bXQ4NW5IamdsYzhiNzh3a1NvZHBhd0NZa2ZJWVdxb0RCTHRR?oc=5\" target=\"_blank\">Exclusive | How Replimune\u2019s Drug Got Third Chance After White House Intervention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU40MnEzLXBNQkNHeHBzSlJmeWZwamllR2NyenNrY2tyWUxpVkhsLWhZOU9qbmZxUXg1QVcxcF91bWM1Z2lhUmJkZzVaM2Y5OEpsenloWmJ2VUVtN0xEUlBrLXV1R1hvU1lmWmxqMmhzUlNsNnEzVk9xM3l0NEdWQVpyNnFBSlFSOEQyTWNVck13V0ZGaUZHRmVFanJlQWtqdl9GLTRzRV91Zw?oc=5\" target=\"_blank\">Replimune Gets Third Try at FDA Approval After Makary Departure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnNBMFoxOEU0VHJybm5fbUszSkpkYVphU3l5WFZZTF9GQ2dDYVFUb2xiRm1waV9RaVRMbEpkN05kS2lnV0EtNnFwR0VPbTY1cV9POVdXYVU5RW9KYVRZOEZxVVlwYVA2aFlmckREbGxmY0tUaldBMUZUMDJZS3A5M3VURnRCMWfSAYwBQVVfeXFMT3NNdGhRbGl0aW15WXhZSmJSSjBrNUZzOFFrcERtSTNBYlJPNjNQaC1yb293emdDOEZ6XzVQLUNBLTJWb3oyeGxtbXFGdUI5aEhtWDd4eEZnRC1aRFVnbGhmVTZPcnhDNUpPcWdXQnF2VjhWVWtzSklXckZIcXVyX01hY3V4SmlsMmpPeW4?oc=5\" target=\"_blank\">Replimune to resubmit twice-rejected drug for approval after FDA shakeup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNREQzNWc1WFhfWDVXLUVpZDNVZE1DZ2JvTmRIS0lERmg5VllkNDdoZVZIMHItRFMwVUNLRkpQdHQ1RGFfRDE4QUVSS1B5Nm5yc0swREJwWXE4bG00dUVCMUgyRTJvUEZHbjhYTHpMdWNvYU9SaVNReTJmVUUtcEROaUYwVVF5TVZKTkloaGFPa05uRFZFb0htSQ?oc=5\" target=\"_blank\">REPL Stock Shot Up 80% Today \u2013 What\u2019s The Deal With FDA?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpUdmxlUUVyLUtDNjVxSWxHQjJ4ZGRuaVBnN1o0S2djX2N2ZWZGODM2eFNVaVgyaWwtQ0xDb0dOcU5aMzc3U2NFajdJNmhvVkFaWmQ1UlhoY253bjZQa18yZnN0VTVuNXpTX19EaDVoVDg2Y0t2emYzdDN3V0RkTEptUF9GTW1UaFd3RHJFaUpKbVBhTEd6bWt3SFdGYk1jVXJCTnJHbFpOZw?oc=5\" target=\"_blank\">Replimune takes third swing at cancer drug approval following \u2018productive\u2019 FDA talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioPharma Dive</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnBsU3BWVHJSTEJBRllNR195TVMzSlBqTWxfU0pXT2tGQjdWc0MwMnFQTHRtNFBYT0JZc2RJVEx6T1ZXNWRrakMyNWtoS3ZVV0Z3TEdvdHE1dmFoS0J2OXdxWG5SWW9fdDBVN3FhVE1TVTVNUXJHbE1mbXFjWFhMNHZ6Tjk3Sl9BZDN2bXQ4NW5IamdsYzhiNzh3a1NvZHBhd0NZa2ZJWVdxb0RCTHRR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Maintenance Train Fire at Penn Station Injures 5 and Disrupts Rail Service - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmtYR2ZjeXRWcVFnaGtnSWo4QWVMQTN6NWMyTENsNmNvdW83d2NrZE1kM3JqZE1TeWxGUEdjb3psUXRYTzJ4eU5aMlJWUHludkllelpldXhpczE4SXdITk9xVVFCZEdhd0FnR0QtOUwtcmxlTmFnUmhxdTVENkFmTnRUQQ?oc=5\" target=\"_blank\">Maintenance Train Fire at Penn Station Injures 5 and Disrupts Rail Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTNWblNaMFU5V3Rudk5EamIwUHJfSTlObVE5WmtYQWhxTXdGVFB3Z2NJSmFCUjdYXzQzQTU2RU5ObEl4UG82eGNPbm40YUdkSWJKUm9UM0pmUUtkVGpDNndRdjFSTnA3LWt4ZGQ1M0tQNWpFVE9aVzF1UTdJaEJCbFBMYlYzOFByQjhoV2pUU3dmUkdNdnBQSktBUUpnN1FHMW5j0gGoAUFVX3lxTFBSV3Vad1hlMXJqUjJZdENXcEl5bmpadlZBN05yYi15bzgyQnFFYWtheGk5RlVjME10V3VHcWxCdGN2TWl3YmhmamNoUS0yZDFqTGc2dnI3Yld4UWlPSW9CTVhaaFgzdVBwb3JxeU50RjRWVUh3MG9fOUxkWGtoWDVXYUlGV0tKWEVFLXhqbTJTRWFCNDhuVWxrb0RVb3RBek5xaXdQWTB0eA?oc=5\" target=\"_blank\">Amtrak train fire near Penn Station causes commuter chaos during rush hour for LIRR, NJ Transit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGpFT21TR2s1SWl0ekZaVzBDRkEyaXhpYUtuNTFzRXpKem5PZEt2ZHREcGtQM2ZBZGNDdzJpb2o3aVJXVVpBMWFkMzFKQ3pKbXhydGlyQzFCa2JpQ0JFeVJNRl94Vzl6YlNyZU9RektUVTg0OTV4Zkh3TnJnaEdGeE1GUWxTVF90Sk9ud056SEdpekFp?oc=5\" target=\"_blank\">Amtrak service resumes through New York Penn Station (updated)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">trains.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2J4SVlGZkVvWWlTZkNkX3FNbFpZRWllVjBWZXlReGROUXBXSFM0ZFA1TlAxeGo3aWgxQjk1NWxJMjBDdTRiZlJXQjd5bzFQWXFsbkpWTENlLVBJX3diWlBjY3FWUXcwaTl3SGVKT2RNd1ZLUW9vSk16VThDaXJDa0J1U056VzNqMlpHWTJRYXdQTUx2czY2YVlYX3LSAaIBQVVfeXFMTmFyeTkycllmVEhaQnhSemNNRTN5bkpBbHpYTWF6UVhlUHhmcWMtcUd4aHpNSklUMXdKeXZ5aDl0V2ROQmloQnUwX2s3eFMwTnBQWkpxU3UxaEk3U3BhTjNtdjhQaDF0ei0xQTZUR1ppOFZpaXN0bExTT0hlNW56bWRiMFVVQWI1UVAyLWl2Z0pEdzI0Z2N4ZXU0M2pkUGJaQjBn?oc=5\" target=\"_blank\">Amtrak services between DC and NYC suspended due to train fire at Penn Station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 DC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdVFFSmhZX0FFSWIxT1dOa1RRWEFfZFNhVFZ0bElpRWlNUW90T3Q0RHJiUHB2US00ZHEzYXYwVkI3NEZlSERfUi03LUdzSzlLZW5SZWJoTWxHRmRHckoxWGNXNFlDMV9abXg5U2RCcEVoTm53Z3VZUmw4aUlFMmFOVTJR0gGHAUFVX3lxTE55elBtNm5VY3NhdzRqcDVxMFN4dm04MEZqNzhSeXQtU2ZlYUZCYngxdjM5a3ZTaXJWdUJDUnpLWm1uTGdhb19HZjFjN3lvXzFZcnBYZk9pdS1oNUJ3Yk0za21BY01LWUoxZFN2eEFkbTBvak1BTHdLMFJUMkZXZ25VaXhya0pVZw?oc=5\" target=\"_blank\">Train car fire at Penn Station causes delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIX11</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmtYR2ZjeXRWcVFnaGtnSWo4QWVMQTN6NWMyTENsNmNvdW83d2NrZE1kM3JqZE1TeWxGUEdjb3psUXRYTzJ4eU5aMlJWUHludkllelpldXhpczE4SXdITk9xVVFCZEdhd0FnR0QtOUwtcmxlTmFnUmhxdTVENkFmTnRUQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "\u2018It was too easy\u2019: families ask how Kenneth Law enabled so many suicides - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVRmQlZVQmxtUmZJeXNObEV3T2FkOFN1dTZJZ3ZjMWpBT3FfaGNlUWRLbjBvclRreExndDZVSXRkWDUxaS1jQ2FyM3VYZGRKWGNTaUNsTEVuVXFjOUdVWmJiODFoXzhab3lFaGVHX3F3M2ZDT2FtV3dzM1k2ZWh4ejVZczFaaVo0MnJKdG5ISWhua25D?oc=5\" target=\"_blank\">\u2018It was too easy\u2019: families ask how Kenneth Law enabled so many suicides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGFhSjRYUGNVVmNyc1o0ZkVyUUF5dzJFNG1sMXR3UUJUaXNYRGIyaXFxMVVEX216Y2dxME02bzlrVXlYeHdNTTdzUmdzT0dXMUh5VWlEbnd0dXFTWnlLeUNoS0ZnLVdsLUl5S3pZYnF2R2dLb2VCUm1sQk5GeGowZVJJMmpTMDRpYl9sb1ZRUTZtVk90ZGQ2OVVkUDhjS0ZBT3ljNDhqalM4bnNFSGMzTV9B?oc=5\" target=\"_blank\">Canadian man admits sending \u2018suicide packets\u2019 to hundreds of people around world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zVWxMRTl0UmRRVkVOQ0FjZkZQSFFHTS04V1F5NEZNSUFuVVRta1p0dUU3ZE0tdjhLLXAtQTVseWx3LUlNZDV1WWxXWEkyb3FxMnZWb2RDV3VQQQ?oc=5\" target=\"_blank\">'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3diQy1GZy13cG1uMmttaFR5VHdKVU1oc2pvSFdZNktJRHRPZFZNdWJUMlEtVkszaWgwNzNWVE9jT1BfM2JaNXJSb2Y3S0ZSNURmb1plc0JRNmhTV29aSDZPVDJFUVNZcTFDUE1sejZfQi1ibERrcUF1Q0dsaEczVUJhWGc?oc=5\" target=\"_blank\">Canadian Man Pleads Guilty to Aiding 14 Suicides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkpRY2ltNDAtNGFObEdmZEZTRGladkJ5elhXX2lSZXlzdXljckxWMWVrS3JFOGc1R0IwSDgxRnhzMVRvV0pQYzYzQVQ5b3RVWmtaQmdGLXZLVy1IVGdMNEY4Vk9IeV9sSllYTERyRFAxeVE4NUctbmVCZmtOVzBST2RsVWZTa1JzYUpxSWFpQjE5cWh5OEhPbm9mUjlRYjQwdGZ4d3JFMFRWY3NZRENTN1pnZVl5TmttRXNrVDl3elItbjYzeHo0?oc=5\" target=\"_blank\">Canadian who sold lethal chemical online pleads guilty to aiding suicides, avoids murder trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVRmQlZVQmxtUmZJeXNObEV3T2FkOFN1dTZJZ3ZjMWpBT3FfaGNlUWRLbjBvclRreExndDZVSXRkWDUxaS1jQ2FyM3VYZGRKWGNTaUNsTEVuVXFjOUdVWmJiODFoXzhab3lFaGVHX3F3M2ZDT2FtV3dzM1k2ZWh4ejVZczFaaVo0MnJKdG5ISWhua25D?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral - Spaceflight Now",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Spaceflight Now",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVd5R3lnalZEVThuOXRJbzZXN2ZSemJQWTVOUU5NekxZUmxvSTdfUWhpZGNPeEZLZ1dNcHRiMVJGUENwakw0bWlhSmRqYllSWkRKTDh5UEtRaW9GZjRSbFJ6LVlOVHZJVXpsZEliQUc0V3I2SzFNMFctcldONXc5c2NoS1l0VUVYcXg3YjRRcUprQW1rWk1fbG9aVFRsN2JhNGd2X2hiZjlDcTNkbzc1V3BMZ1hnaVQ2TGNhaDQ3b3daUVBPYW15SjRTRQ?oc=5\" target=\"_blank\">ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spaceflight Now</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUllEN1VFQWhqdjZabkxHeHhybUdkUFFleVdGTTFhUVA5bElEZUlqVDdTSjA0U2VYdGlDTHhNbHVNM2ZUM2RWaHlSQzU5TjVMU0Q5aTllSENFOE9ZUktmMExSTXF3TWN2OGZ6OXBobk9OMHBNcWI0T2NPV3oxZHVZeEt4RjVsTDl3MUR2c19UazVHREdRemo5ZXVLSjg0ZHZpQURPbG9vSkVyazhydkJDaWo5cjJPcVRMd2ZOZW9pQ0FxNnNOTXZuVE1XSGYwQllqdkhwTmE4dEVnY3I5bmxsVURzZXFzMVh3dG1sYlhB?oc=5\" target=\"_blank\">ULA Atlas V rocket launch from Cape Canaveral brings Friday doubleheader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQamRER0k2STVnR2lidkRHRHdySUJ4YUlZalI1Y0NpNm00RkVlWUFJV0VhdGNjSHdQVTVTdVpqRld1WW83UUJla1pyak1WMUhaU2U5NDVaOEFvaE1ZYnhhSmp3US1kbjNFb0FjUVZWbFUtd0dYNjkydlYyWHlweE4tdmE2elpCMjF4emZZYzE1dFVaQWstS0RpVno1ekJNSE9FZ3E0cE1NUWVpSzBIbFViNlo1ZDd3eHJLSHc?oc=5\" target=\"_blank\">Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWlCNU9mWlpjcXFJaC1UUlFkdTY2alA4Y01uVHJDdkpnQnhJV05HZENORW1yTHVSLVJydHJJUWNTT09MTElxNzFVRTJpSGVSVDExcDNUVnA5VXBDcXFiQm9EUER5ZDF6MWkzQ1d2NzJKb0puakJHcXV0bU53bmJLNG1zaGF1U0xUclUwR2ZUbFdkRTh5QWc?oc=5\" target=\"_blank\">ULA Atlas V rocket to support Amazon mission from Florida's Space Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WESH</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdHdYUzBqQVluWEtMYUNFVnRlMmNCVlF5YTRXd05wTmFyYzRzdnlRVGl3OF8zQlB0cEtPQVFHd21DSlJWQ3czaW56eTV1SWZuLUQ4Tzhkd0c3R2Mxc25fdkFacGJjV0p1X25QVFppbWItTE0?oc=5\" target=\"_blank\">ULA successfully launches batch of Amazon\u2019s Leo satellites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 13</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVd5R3lnalZEVThuOXRJbzZXN2ZSemJQWTVOUU5NekxZUmxvSTdfUWhpZGNPeEZLZ1dNcHRiMVJGUENwakw0bWlhSmRqYllSWkRKTDh5UEtRaW9GZjRSbFJ6LVlOVHZJVXpsZEliQUc0V3I2SzFNMFctcldONXc5c2NoS1l0VUVYcXg3YjRRcUprQW1rWk1fbG9aVFRsN2JhNGd2X2hiZjlDcTNkbzc1V3BMZ1hnaVQ2TGNhaDQ3b3daUVBPYW15SjRTRQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "Olive Young Pasadena: K-beauty giant opens 1st US store right here in SoCal - ABC7 Los Angeles",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "ABC7 Los Angeles",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3A5c0Znd3pZazNwN2o1SkFCS3hfcjNwWnZXbXUxZjhMV0JXVVg4bExiUzZMcFJ4RERULUh6SktNcWh6SUVkaEtldi13ZHNiNE55dE50Z3NOQnhJZ05zdTVXSkJhN1I3LTBjOFl1a0ZpVXJqUm90SkVQWmVqTlJGTzlobWpDMkhwS19hd01MRlpZcWhpMmI0cVlfWdIBoAFBVV95cUxPODJmX1d5di1ldEJ1RFQxYkVSWGo1STd4UnBZa2NvZGxHTkFOVkZUVndPV1FqcnpkYU83N3VsVUVERV9sdVdrUnlIb0I2XzlmZnZFMVluMlZPVXdSTGdlVFlRY0lLVk5LNTFXekpCTGNnbWxhY3RyQTI3S2NFQnNyX19Cc0pPUmxlM1A1ZEQzdjUzTUtjTEZ3SzlYcHR5a19v?oc=5\" target=\"_blank\">Olive Young Pasadena: K-beauty giant opens 1st US store right here in SoCal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3ZMaXU3eXVhN0s5dV9yNmNrU3l3THlQeVJWLXFBUWdCNDR3MjNpOVN4QUxUVmRpRE15enlXTTZQS3o1blhZTVlZT3RESTFtX2RDNldEd0VTNHpXdVhXV2J1SGwyX1NvUDZnVERzRldrR19JUTM3UU4ybWFKbEQtbnRWQlN3U1hkME5mT3ZSeEc4Zw?oc=5\" target=\"_blank\">The Korean Beauty Giant Coming for America\u2019s Dollars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkdMb1lSbGNET3NYOHptRE52UVhzUnMtU25fYkZRQkFaZEtBcWE4UG56RXRmWFBDQWY3a2V1V3doVjBDUGwta2RBWmRyZ0ZKSUx2SFlmN0ZNMlZqRWxzcVJZLW9fUEc1bjh0MnRZXzVZNTVYQUhjSnBnZkhTX2g1a2Z6WXBjZnFGaGlKTDNLZ3NpRVhHRXBsNHdmWm9zQVl6X2fSAacBQVVfeXFMUHFvV0ppTEVxWWl0Nld0SkRGTkZOZ0otN2R6bWNRWWptVlBsSlpIZ3NleWQ0Q2pBVjRPT0xnTXk0Y2NrRVJ2TTloVnE0Y1VYenhUajdEazRrS0dOMTVPQ21PeEx2MF8xUWw4OEtJU1JvRWx1SldVd1dmLURaR05OQUFuTEVYeGRkaXZUUWo1ellLaU52bzhrRDFpbkdFb25RVnUwVDNNWFE?oc=5\" target=\"_blank\">South Korea\u2019s largest beauty retailer opens first U.S. store in Pasadena; fans camp overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDhMaXVfcGpfN3dKRUVjOGxUQ1YyMENtWnhCZ1ZTMFFPUWxlMWZyRlpENFdiOTY3cVVZRHRDb3RGMlppR2NGRnJHWGtQYndYVmMxZ3lUeUdOazVreENWQkYyNWtmYWJSby1PQ0RWMTQ3NWdpeUQ2TjA3bnVzaVI5emxUaFRhcnBkVXdWTVdVVWJZVHZIQ0dfTGEzLVY1WDF5U3pFWHFLbw?oc=5\" target=\"_blank\">First Look: Olive Young Details Its U.S. Plans Ahead of Pasadena Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0VhQVJqRmJlRlkyOURwd0lRbWdHSkswSGR4di1oX1NFRmxrY1RkdWozN3k0alRORVdRV3p6RzNJUGRZdnVJT29VSmRZNWFIY0wxYUtVMTNQVHhWaHJLYjRIejJlNVZiY0VYMFliU09vU1pmaUJSNXZzcS04MllPR3Y1a3pPa3FT?oc=5\" target=\"_blank\">Inside Olive Young\u2019s Long-Awaited LA Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business of Fashion</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3A5c0Znd3pZazNwN2o1SkFCS3hfcjNwWnZXbXUxZjhMV0JXVVg4bExiUzZMcFJ4RERULUh6SktNcWh6SUVkaEtldi13ZHNiNE55dE50Z3NOQnhJZ05zdTVXSkJhN1I3LTBjOFl1a0ZpVXJqUm90SkVQWmVqTlJGTzlobWpDMkhwS19hd01MRlpZcWhpMmI0cVlfWdIBoAFBVV95cUxPODJmX1d5di1ldEJ1RFQxYkVSWGo1STd4UnBZa2NvZGxHTkFOVkZUVndPV1FqcnpkYU83N3VsVUVERV9sdVdrUnlIb0I2XzlmZnZFMVluMlZPVXdSTGdlVFlRY0lLVk5LNTFXekpCTGNnbWxhY3RyQTI3S2NFQnNyX19Cc0pPUmxlM1A1ZEQzdjUzTUtjTEZ3SzlYcHR5a19v?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Canadian Man Pleads Guilty to Aiding 14 Suicides - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3diQy1GZy13cG1uMmttaFR5VHdKVU1oc2pvSFdZNktJRHRPZFZNdWJUMlEtVkszaWgwNzNWVE9jT1BfM2JaNXJSb2Y3S0ZSNURmb1plc0JRNmhTV29aSDZPVDJFUVNZcTFDUE1sejZfQi1ibERrcUF1Q0dsaEczVUJhWGc?oc=5\" target=\"_blank\">Canadian Man Pleads Guilty to Aiding 14 Suicides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zVWxMRTl0UmRRVkVOQ0FjZkZQSFFHTS04V1F5NEZNSUFuVVRta1p0dUU3ZE0tdjhLLXAtQTVseWx3LUlNZDV1WWxXWEkyb3FxMnZWb2RDV3VQQQ?oc=5\" target=\"_blank\">'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGFhSjRYUGNVVmNyc1o0ZkVyUUF5dzJFNG1sMXR3UUJUaXNYRGIyaXFxMVVEX216Y2dxME02bzlrVXlYeHdNTTdzUmdzT0dXMUh5VWlEbnd0dXFTWnlLeUNoS0ZnLVdsLUl5S3pZYnF2R2dLb2VCUm1sQk5GeGowZVJJMmpTMDRpYl9sb1ZRUTZtVk90ZGQ2OVVkUDhjS0ZBT3ljNDhqalM4bnNFSGMzTV9B?oc=5\" target=\"_blank\">Canadian man admits sending \u2018suicide packets\u2019 to hundreds of people around world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkpRY2ltNDAtNGFObEdmZEZTRGladkJ5elhXX2lSZXlzdXljckxWMWVrS3JFOGc1R0IwSDgxRnhzMVRvV0pQYzYzQVQ5b3RVWmtaQmdGLXZLVy1IVGdMNEY4Vk9IeV9sSllYTERyRFAxeVE4NUctbmVCZmtOVzBST2RsVWZTa1JzYUpxSWFpQjE5cWh5OEhPbm9mUjlRYjQwdGZ4d3JFMFRWY3NZRENTN1pnZVl5TmttRXNrVDl3elItbjYzeHo0?oc=5\" target=\"_blank\">Canadian who sold lethal chemical online pleads guilty to aiding suicides, avoids murder trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMFpib3JjNDZ5eGl0ejRvREQzNTZKZTExRXIzeUhTbm44RmJva2NPWHNqbVRwRjNoLXphMUsyY0ZtVkJ6T1V5WnhaOEVlSWtIQ1JVc08xZmh3TEp0Mk5teVV2alctS0xFS0dfOXJtN3hKM2JsQXBTekFjUW9qMmJOOVFoejJlVUoyMzNz?oc=5\" target=\"_blank\">Families speak after Canadian man pleads guilty to selling substances to people who killed themselves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3diQy1GZy13cG1uMmttaFR5VHdKVU1oc2pvSFdZNktJRHRPZFZNdWJUMlEtVkszaWgwNzNWVE9jT1BfM2JaNXJSb2Y3S0ZSNURmb1plc0JRNmhTV29aSDZPVDJFUVNZcTFDUE1sejZfQi1ibERrcUF1Q0dsaEczVUJhWGc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "Stock Market News, May 29, 2026: Oil Suffers Biggest Monthly Drop Since 2020 - WSJ",
+          "kind": "mixed",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone",
+            "weakness"
+          ],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": -0.041666666666666664,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlhaR3ltWERTNXpneWNxRkx0WEpsT1JEWTFCNDcxeHlSaEtKdVNRdDREMk5OQmxHOXUzRUx4NFRaeUwyUnNEZUdnRWFBaEVpOERYY2FFSmFSVUlmcW5fMVNQdTRYdnBzTVZuY2pORnpQbnBfNDNUMERQbUIyQ3BaM3JPcTZkRG8?oc=5\" target=\"_blank\">Stock Market News, May 29, 2026: Oil Suffers Biggest Monthly Drop Since 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzNzdHBrTkRjY3EwN3A2amJaRGtqV0NJSERHSkZ4cHY0dlBNTEZOZmc5aExwbUtLdXFfZnNhY29NNGZ1T2NvQVc1SERobV9Od3M0ZVVHeFRkZGhQVkpEdTUxRTRlMF9HcHBxay15cXBibmZfV2FseDgycExoanFUWnZKMENTQkl2NTZF?oc=5\" target=\"_blank\">Oil records its biggest one-month drop in six years, bringing consumers some relief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHB5YkltTDFSMnhnMmJiMDllejdmMkU4bXFxVDhhWHd5RnpyT3dydGZZQkpMUTdTeUZqWDlnUXdHbGE4YjIxU0FjQ3c0TG40X2t5YVlRaFJqbm9kLW5GTVB0eUFZZmFKQ0swXzFNU2xRVlJEaTZsekI3SG1JYTlJYUVRSGMyTTdxYkdobTBZZER0bGpnUi1YVTBqX2ZYNmlVQWc?oc=5\" target=\"_blank\">Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHdLcW5JaEQ5MmNSWUc3Qi02dXVheHZVT3ZXQ0ROa2RMcklFMS1SOFNhbUt4dGFFTlJMOUxiYk45ZXVWbENzTVduc1NzUC1yY3hMdjJuMDdURmRZTkZFU0xfYWZtcmY1eXJLVDNBbHM1NWZENDJnZHZONVBhQmxWTWR30gGHAUFVX3lxTE55TjdjVjVxcFhvZy1ITy1yR1NsM2RjVkVYRnlKd29QLWJQNmJZQWlwV01fNVRZTWRZLUJxZXNVLVBuc2p6TGItUlBSVDJsUXUtU2JFSGJBRmtEbjl2RFJOdXJEMkRQNHVTX1BfRzl0QXdocDAzdGoyQzU5OFRrbmVkTlJzRmFuNA?oc=5\" target=\"_blank\">Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81alNPQmtOd1RoUzRXemJhbDFkeGNmVmpiLUdDOGxiVGVTVGwxUl9aWXhOR1FsT2NTSVY1d0xrWXpxUHNjR0dwS210OER3dVBPa3ZqdGEweFNUXzVJT1ZFeld0MUg4WnZuYTBXVDEtbDBkVTVIbVZV?oc=5\" target=\"_blank\">Oil Prices Fall as U.S. and Iran Edge Closer to Agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlhaR3ltWERTNXpneWNxRkx0WEpsT1JEWTFCNDcxeHlSaEtKdVNRdDREMk5OQmxHOXUzRUx4NFRaeUwyUnNEZUdnRWFBaEVpOERYY2FFSmFSVUlmcW5fMVNQdTRYdnBzTVZuY2pORnpQbnBfNDNUMERQbUIyQ3BaM3JPcTZkRG8?oc=5"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": null,
+        "provider": "yfinance",
+        "sector": null
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 0.35
+    },
+    "news": {
+      "article_count": 0,
+      "catalyst_signal_count": 0,
+      "classified_articles": [],
+      "coverage_quality": "none",
+      "negative_signal_count": 0,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 0,
+      "delta": null,
+      "prior_mean": null,
+      "recent_mean": null
+    },
+    "technical": {
+      "atr14": 4.07215190514601,
+      "close": 110.67,
+      "close_vs_ema200_pct": 62.41179948870064,
+      "close_vs_ema20_pct": 23.618010620138076,
+      "close_vs_ema50_pct": 38.83876391498596,
+      "close_vs_hh20_pct": 10.692138427685533,
+      "ema20": 89.5257895227536,
+      "ema200": 68.1416007632497,
+      "ema50": 79.7111677454617,
+      "entry_ready": true,
+      "hh20_prev": 99.98,
+      "selection_bucket": "entry_ready",
+      "vol_anom": 9.90867225142074
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": null,
+    "sector": null,
+    "supportive_effects": 0,
+    "weight_scale": 0.35
+  },
+  "news_support": {
+    "explanation": "Python classified 0 stock-specific articles into 0 constructive, 0 adverse, and 0 catalyst-tagged signals. Coverage quality is none. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 0.35 macro weight because company-specific coverage is none.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (99.98), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 9.91, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "high",
+      "point": "The feed already classifies the name as ENTRY_READY rather than a lower-conviction candidate."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "A close back below 99.98 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Feed marks the setup as ENTRY_READY",
+        "points": 10
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 10.69
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 9.91
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 23.62
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 38.84
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 62.41
+      }
+    ],
+    "confidence": "low",
+    "label": "constructive_bullish",
+    "score_0_to_100": 78
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-30",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - ENTRY_READY (neu, heute)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-30_universe_3_US_Results.txt"
+    }
+  ],
+  "summary": "HPE-P-C scores 78/100 as a constructive_bullish setup. The score is driven mainly by the technical breakout picture and ENTRY_READY status, with 0 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects. No company-specific articles were captured, so macro effects were downweighted and the stance leans mostly on feed and price/volume evidence.",
+  "symbol": "HPE-P-C"
+}

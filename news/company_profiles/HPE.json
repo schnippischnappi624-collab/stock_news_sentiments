@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-05-30T09:15:55.352404+00:00",
+  "industry": "Communication Equipment",
+  "long_name": "Hewlett Packard Enterprise Company",
+  "provider": "yfinance",
+  "query_symbol": "HPE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HPE",
+  "sector": "Technology",
+  "short_name": "Hewlett Packard Enterprise Comp",
+  "symbol": "HPE"
+}
