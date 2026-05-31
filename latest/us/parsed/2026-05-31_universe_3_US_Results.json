@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-05-30",
-    "filename": "2026-05-30_universe_3_US_Results.txt",
+    "feed_date": "2026-05-31",
+    "filename": "2026-05-31_universe_3_US_Results.txt",
     "kind": "Results",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-05-30_universe_3_US_Results.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-05-31_universe_3_US_Results.txt"
   },
-  "run_date": "2026-05-30",
+  "run_date": "2026-05-31",
   "table_count": 2,
   "tables": [
     {
@@ -52,14 +52,14 @@
           "exchange_code": "US",
           "hh20_prev": 327.73,
           "isin": null,
-          "last_run_id": 193,
+          "last_run_id": 195,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260529,
           "symbol": "DELL",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-05-30T08:31:35Z",
+          "updated_ts_utc": "2026-05-31T08:31:33Z",
           "vol_anom": 4.33882325296104,
           "volume": 41832954.0
         },
@@ -77,16 +77,16 @@
           "exchange_code": "US",
           "hh20_prev": 143.65,
           "isin": null,
-          "last_run_id": 193,
+          "last_run_id": 195,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260529,
           "symbol": "NTAP",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-05-30T08:31:35Z",
+          "updated_ts_utc": "2026-05-31T08:31:33Z",
           "vol_anom": 4.29013933753717,
-          "volume": 15902415.0
+          "volume": 15908200.0
         },
         {
           "asof_date": 20260529,
@@ -102,16 +102,16 @@
           "exchange_code": "US",
           "hh20_prev": 38.58,
           "isin": null,
-          "last_run_id": 193,
+          "last_run_id": 195,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260529,
           "symbol": "HPE",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-05-30T08:31:35Z",
+          "updated_ts_utc": "2026-05-31T08:31:33Z",
           "vol_anom": 4.35613683218764,
-          "volume": 85219777.0
+          "volume": 85797800.0
         },
         {
           "asof_date": 20260529,
@@ -127,16 +127,16 @@
           "exchange_code": "US",
           "hh20_prev": 99.34,
           "isin": null,
-          "last_run_id": 193,
+          "last_run_id": 195,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260529,
           "symbol": "HPE-PC",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-05-30T08:31:35Z",
+          "updated_ts_utc": "2026-05-31T08:31:33Z",
           "vol_anom": 8.79248901007796,
-          "volume": 2216539.0
+          "volume": 2977937.0
         },
         {
           "asof_date": 20260529,
@@ -152,16 +152,16 @@
           "exchange_code": "US",
           "hh20_prev": 99.98,
           "isin": null,
-          "last_run_id": 193,
+          "last_run_id": 195,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260529,
           "symbol": "HPE-P-C",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-05-30T08:31:35Z",
+          "updated_ts_utc": "2026-05-31T08:31:33Z",
           "vol_anom": 9.90867225142074,
-          "volume": 2977937.0
+          "volume": 2977938.0
         },
         {
           "asof_date": 20260529,
@@ -177,16 +177,16 @@
           "exchange_code": "US",
           "hh20_prev": 54.74,
           "isin": null,
-          "last_run_id": 193,
+          "last_run_id": 195,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260529,
           "symbol": "RPRX",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-05-30T08:31:35Z",
+          "updated_ts_utc": "2026-05-31T08:31:33Z",
           "vol_anom": 4.42349903744417,
-          "volume": 17986857.0
+          "volume": 17987900.0
         }
       ],
       "table_key": "universe_3_us_entry_ready_neu_heute",
@@ -249,7 +249,7 @@
           "tp_2r": 112.1965,
           "tp_3r": 118.3047,
           "vol_anom": 9.90867225142074,
-          "volume": 2977937.0
+          "volume": 2977938.0
         },
         {
           "actual_invest_eur": null,
@@ -277,7 +277,7 @@
           "tp_2r": 111.1349,
           "tp_3r": 117.0324,
           "vol_anom": 8.79248901007796,
-          "volume": 2216539.0
+          "volume": 2977937.0
         },
         {
           "actual_invest_eur": null,
@@ -305,7 +305,7 @@
           "tp_2r": 43.9383,
           "tp_3r": 46.6174,
           "vol_anom": 4.35613683218764,
-          "volume": 85219777.0
+          "volume": 85797800.0
         },
         {
           "actual_invest_eur": null,
@@ -333,7 +333,7 @@
           "tp_2r": 58.0999,
           "tp_3r": 59.7799,
           "vol_anom": 4.42349903744417,
-          "volume": 17986857.0
+          "volume": 17987900.0
         },
         {
           "actual_invest_eur": null,
@@ -389,7 +389,7 @@
           "tp_2r": 168.2574,
           "tp_3r": 180.5612,
           "vol_anom": 4.29013933753717,
-          "volume": 15902415.0
+          "volume": 15908200.0
         }
       ],
       "table_key": "universe_3_us_entry_stop_targets_neu_heute",
