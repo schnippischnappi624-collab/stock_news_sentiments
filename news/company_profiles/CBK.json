@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Commerzbank AG",
+  "provider": "yfinance",
+  "query_symbol": "CBK.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "CBK",
+  "sector": "Financial Services",
+  "short_name": "Commerzbank AG                I",
+  "symbol": "CBK.DE"
+}

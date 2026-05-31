@@ -1,0 +1,14 @@
+{
+  "country": "Finland",
+  "exchange": "HEL",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Drug Manufacturers - General",
+  "long_name": "Orion Oyj",
+  "provider": "yfinance",
+  "query_symbol": "ORNBV.HE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ORNBV",
+  "sector": "Healthcare",
+  "short_name": "Orion Corporation B",
+  "symbol": "ORNBV.HE"
+}

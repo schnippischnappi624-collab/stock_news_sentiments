@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Real Estate Services",
+  "long_name": "NP3 Fastigheter AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "NP3.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NP3",
+  "sector": "Real Estate",
+  "short_name": "NP3 Fastigheter AB",
+  "symbol": "NP3.ST"
+}

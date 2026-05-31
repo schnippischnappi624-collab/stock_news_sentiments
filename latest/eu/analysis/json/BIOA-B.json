@@ -1,0 +1,687 @@
+{
+  "analysis_date": "2026-05-31",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 63,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-28: Bulletin from the Annual General Meeting in BioArctic AB (publ) - TradingView."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-28: BioArctic's (STO:BIOA B) Soft Earnings Don't Show The Whole Picture - simplywall.st."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-20: BioArctic AB (publ) 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:BRCTF) 2026-05-20 - Seeking Alpha."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "BioArctic AB (publ)",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 12
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-31",
+          "headline": "After the AI binge, companies balk at soaring bills - Yahoo Finance",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUNSLXNUU0pqdFF4SVJIQm9YUU05bVVpemFSd1dXZGtkMzFYLWh2Q28wSEpHbWdRZ2dwMnUwNkotWEp4dGFKSy1haFVQclBDcnZQTXYxb1hZNVZVYm9NMFBMc0RwdFVPYktFQ05OME9lRlJlZGZ5eUdwc1U3QThta1dOMDBlTkJkMnlDUTlGdEJWYkZ5VGlyR3Z4YlVZS21sTGc?oc=5\" target=\"_blank\">After the AI binge, companies balk at soaring bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEQwMk5kS3ctLVNHWWRPcnhvUl9CZUdsRmN0LWprcnFYSmlBUzJtcHdZNGx5dzJzOE5xSUNHSHRjQUhSLXRUNmM2NFpMWHh0c2x1c1RMZnAtbmxXdmgwLTlBVjFjMVQtTlBlR1FFQmtta1ZRS0FMalRQQjhWLVZfWE9rM2pwNFU3VFHSAY8BQVVfeXFMTm9NS2JQZG1CcC0wRXBBNTRDV1ZsamJ3QTRsZHNUczZ6d2RTejk1bTJEVm9rbXNObGlsNXZPeXptaXlDdGdUb21OTmtwRG9ZejdwSzdQeEptbnRVSVJDWldsRE9Jd1lUdmZSYWVXaTNrVkhDWUxfeXE1Z2ctT05yRjkySkJHNHpzREU4bldVZ2s?oc=5\" target=\"_blank\">Tokens or humans? The new corporate trade-off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3MybFBJWTF3LW5KVEFlU04tSVFaTVlDNzhUWkJjcmNtYTktMkF4SnprZWpUTmNZbFBIem4yUm9ja25OU3RHZldIRDhXY0FVY1NDcEs3WjVpMnQyOUdQY0dLbThJUFN3elpncVRvZ2U1RjhZTlhhbmt0alUzZlJjRGxaUm14LXlvUmE5MkhZVmx5TTdodFNVeENqV3ZRdw?oc=5\" target=\"_blank\">Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlpIMzZJXzBla1ZfaGhjaWY5WHpLWGZqV3NJdUlfdFFlYmpXaWRNSW5EaHJOdndmc1JZYllNcEtuZVl3MUEtd0FLMjVEOG1kSVFVUEhRLVU5a1VYbTFfQlRMYzQwemRWMlcxVTJUS01yM0lYaXZteWV6UUlqV2xEWHdjUmFHM3A1THBGN1VWNjYzVjFzYWZ2OUJIcDd2T2s?oc=5\" target=\"_blank\">Corporate America Is Starting to Ration AI as Cost Skyrockets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAxbTB6eVpQMDZZNWZqTEc0SC1LUkFaWEpybm5jc2NtMG5WLWV1TllsZGlEX2JYRVlfR3BMamllRjExZEZLZUpSM25xbWdlYTY5WHFmblZYNnFpdUFnQWY0TzZEUnlKZmVhZVZuZ1duYjh6R2c?oc=5\" target=\"_blank\">AI sticker shock hits corporate America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUNSLXNUU0pqdFF4SVJIQm9YUU05bVVpemFSd1dXZGtkMzFYLWh2Q28wSEpHbWdRZ2dwMnUwNkotWEp4dGFKSy1haFVQclBDcnZQTXYxb1hZNVZVYm9NMFBMc0RwdFVPYktFQ05OME9lRlJlZGZ5eUdwc1U3QThta1dOMDBlTkJkMnlDUTlGdEJWYkZ5VGlyR3Z4YlVZS21sTGc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "\u2018To call it a ceasefire is a joke': Israeli soldiers share rare accounts from Gaza with AP - Politico",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Politico",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjJvN3BGTGVkWFNRTmpWcUxHangzdjMxRDRCVmotTUc5ekJJaTFHMTNiOUtKeU84Wmc3TmVfX0lMMGQ1Qm1ORTdnWGtnUkNjbnQ3Rm9mNDJoRng1Y1IyU0VGak5oVVdrZUkwazRsdElWUURsekl6ZDJ1YTBHSFZmWXVJZ09QYlVDQ0lNbzl6YzRJZ3JWY0NoZDdYV0ZVcDhCLTZVSE1tam12c1pJakl5aXpWUlIybzZvNTRjNzZtVFVLeWhDV0Z1bkl6ZVhCaTJ5Wkc4?oc=5\" target=\"_blank\">\u2018To call it a ceasefire is a joke': Israeli soldiers share rare accounts from Gaza with AP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pWcko2ZEVSSFVKTWFNQ25fQ0RpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjJvN3BGTGVkWFNRTmpWcUxHangzdjMxRDRCVmotTUc5ekJJaTFHMTNiOUtKeU84Wmc3TmVfX0lMMGQ1Qm1ORTdnWGtnUkNjbnQ3Rm9mNDJoRng1Y1IyU0VGak5oVVdrZUkwazRsdElWUURsekl6ZDJ1YTBHSFZmWXVJZ09QYlVDQ0lNbzl6YzRJZ3JWY0NoZDdYV0ZVcDhCLTZVSE1tam12c1pJakl5aXpWUlIybzZvNTRjNzZtVFVLeWhDV0Z1bkl6ZVhCaTJ5Wkc4?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "7-Eleven quietly takes over a 1,300-store convenience chain - thestreet.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "thestreet.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSkwydDUzeXYxTDFkdTZ0MXNrQkppMkM5M3NQS3plWW0zZFdHbkRUd191azByZ0FCLXU5NXVsTjkyQ3NGZkp1Vmhhdk9QalU3WnY5YjVZLVdVQ0tQRnJHbWNYTlM5ZmFQemZFa1NCaWdONWtkbGVnRk9qZVl0MVdoWGRJLVVLZWU5WGx1aGpNUkNnN1JvcUtXWE44TDl4UQ?oc=5\" target=\"_blank\">7-Eleven quietly takes over a 1,300-store convenience chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2liejRPZ0VSR2xwNThkYVd2WDFpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkwydDUzeXYxTDFkdTZ0MXNrQkppMkM5M3NQS3plWW0zZFdHbkRUd191azByZ0FCLXU5NXVsTjkyQ3NGZkp1Vmhhdk9QalU3WnY5YjVZLVdVQ0tQRnJHbWNYTlM5ZmFQemZFa1NCaWdONWtkbGVnRk9qZVl0MVdoWGRJLVVLZWU5WGx1aGpNUkNnN1JvcUtXWE44TDl4UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Four more men freed from flooded Laos cave in hazardous rescue mission - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUhOQ3hpWk9XdHpsX0pSWmVhanVvRlBGRV9OcjhDSEJlYmV0STd2SWRwRXJMcFdsSExCOXFvVEUwdnRvYlhiYlQ0enNaUmlER3Fpb0hWSnVUQXB4ZF8xN0c1S18tc3NsMWpRQk1FemVIRHhDeFJrYVZFcWdRSU5Yd202VHJHRFhYbHkxVDdpMDJITjAzZnhYYWdsb09KWVlVYVFRd1pFelZweGZ2dGdwZWFkLXVGeEU?oc=5\" target=\"_blank\">Four more men freed from flooded Laos cave in hazardous rescue mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuc0FqUlJscmllMVlUbmZ0V0hhUzhLekNSRXo0RUZaNW5Ub09DNVBYUkhhU1VwWlpvU0JSTlA2U21VVHE4NDFUVFRiOFhQcWJpaU1qNDFsMVNSUTNUWE93N3gtb25KZTdL?oc=5\" target=\"_blank\">\u2018The best outcome\u2019: Laos cave survivors surprise rescuers by freeing themselves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYk1LV2pYRjRZaDZ5T2xKdUVlbU9MbFRvVUVBcEFPMmNPbHUtSkFRVUpTTWwzTmNYampmc21lSUtDRUR1UzlsM3ZVVUY5bklaMEpNaDRZeXBWRVM4ckdTZi1GWWhhY2VCcFdZakdFZ3NsYUVsREFHZ0VfZ1Y1S2RtLXJobHRVUWp4bVBubWtrRlk2bGhZNlIyYQ?oc=5\" target=\"_blank\">Rescuers free 4 men who had been trapped in a flooded Laos cave, search for 2 still missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1fWXBXYlRxZ2hlM28yZXFZQ2xmZHJ5N1V1UzMwRnpyT3FnUndUa3M0dkwwdkJWMlVsTUtIVW1IbDJXOFFiaWVwc3AtR2R2UnJUbDg3eDVzajN0WEhCVF9fOE9LamJ0MktrSHo5OExvYzVPX3NrSDlza2p5RWY?oc=5\" target=\"_blank\">5 Are Freed in Laos Cave Rescue After More Than a Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGNCcllVRC14LWdFRUhEaVRpaDR0bk16ekJKMVJIY2c3b0IyWHI1R21KcHlvYVJQcXJEY00ydEFmN0ZMei1MLUt1RTRRVTFHWWpZNGdjeVhPME0wQm5jOXBTbGdMQVhERm9ROGRsd0VTNXA5bTNhWFRmQ01abnZTVUtxQWNOLVNXWk5JaG5fN21VU0hK?oc=5\" target=\"_blank\">Miracle as Miner Is Freed After a Week Trapped in Cave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUhOQ3hpWk9XdHpsX0pSWmVhanVvRlBGRV9OcjhDSEJlYmV0STd2SWRwRXJMcFdsSExCOXFvVEUwdnRvYlhiYlQ0enNaUmlER3Fpb0hWSnVUQXB4ZF8xN0c1S18tc3NsMWpRQk1FemVIRHhDeFJrYVZFcWdRSU5Yd202VHJHRFhYbHkxVDdpMDJITjAzZnhYYWdsb09KWVlVYVFRd1pFelZweGZ2dGdwZWFkLXVGeEU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUx5R0RqYkFwUEIzNWV5QTU0cW8wSG9SZlZSN1lsRXY3eVJxV0dxV294cHlCbTBQQ21QN21ORWxrMnVQNmZibVQ4SlJQcWFZdTRNVV9ZcnRRdm92VzlweDAwSHMwam1Xb2YyYk5zTUItMnBPUTZ2NmZTbXhsWXRhTnlHWjcwTW1FTHlaUVJOV0hXOEtOd2dnSWE2NDY4aGJ0?oc=5\" target=\"_blank\">United Airlines flight bound for Minneapolis is diverted because of an unruly passenger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObnhKNk1mS1ZGcDZjejFiaVlFNzlpb2dfSmw1Y2ZUa25IdmdaUUdDbW5YeFlJQUJLSnZRNXc0cHpYRlQycVZSWXhyNUdQSVZnTUk5cXUxOWk3QWdxSmZzczVXbi1Ib1pvaDVTWXFSZDJEeTBFeFhkRkNaWFRCZF9MZV9n?oc=5\" target=\"_blank\">United flight diverted to Wisconsin after passenger\u2019s \u2018multiple attempts\u2019 to breach cockpit, crew member says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUtBYkRTTl83TlE1c2VPMDVPUEQzSDNBcUJmZHp5cWxVSU90M3g0bVpjOHNWUGNaMnI0Z2RvU2NJdmFuQTdlRGRtX0tHY2hiY3hRVnNYNmo4VWlxekQ2aDRBX1BLMlV3cTd0dktoOFRLTzdhZUtwVkp0MExvY2Z2cGxvclVLLU1qWEFQTnhJa1RkdzU5ZF93NC1aMGxJbU9XSWstd2VFeWRuM0M0TW1aVg?oc=5\" target=\"_blank\">Passenger arrested after hijack scare forces emergency landing in Madison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdEFuNlQxUnFidmMwVHRPUzBrX3lqanpMZDY4dXNpaUNoT3pJMmthRFY3Ymo0b19vRjJfaFFYUWxMckFkazJmaG5xV1J3MVJmWkFkRHBNQmFiOUNPZE5sZEZfLUVxVjBBSE8walBZUmpQZGoyd2hEendzOFZBenJ6T3hwdmVqVTQ1MW91VzMyWTNUNjdnVkg0X25TYnVvYmxLQkRuQ2lqZGpYcE0wWFp6bDc2QnBMUjdNRERWSFNUU3cteWxacGVDRVVUdXVhUHhQYlhBS1N3UEo5UTgtbE5lUWpkbmduRy1DcW9TMzVPbmdwcE10YmFGVjd0ME93Zk0?oc=5\" target=\"_blank\">FBI: No criminal charges yet after man forces emergency airplane landing in Madison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKOW</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVd5c05aaGpWal9OdXFKZ2xGaU9sTnFNQVRRMWFGbmRPYlRoTEp3X0xWcS0zckYzdFZOeWVKS2dVQk83ZDZzZllKYUhNMGxVWmpBRnFTbENkS0tVcEJyT2tVUlBvTWVXTTdNaWN3aGxHaTRNMTRtbmNqbHN3ODA3TkU3eUN6UjFRcWwxaUtzZEpkSjJzVFEtZFg1UTdfUUxNTXpTLU84Zw?oc=5\" target=\"_blank\">United Airlines plane diverted and \u2018unruly passenger\u2019 detained after in-flight incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUx5R0RqYkFwUEIzNWV5QTU0cW8wSG9SZlZSN1lsRXY3eVJxV0dxV294cHlCbTBQQ21QN21ORWxrMnVQNmZibVQ4SlJQcWFZdTRNVV9ZcnRRdm92VzlweDAwSHMwam1Xb2YyYk5zTUItMnBPUTZ2NmZTbXhsWXRhTnlHWjcwTW1FTHlaUVJOV0hXOEtOd2dnSWE2NDY4aGJ0?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough",
+            "product_followthrough"
+          ],
+          "date": "2026-05-30",
+          "headline": "Blue Origin gets national security launch task order hours before New Glenn explosion - SpaceNews",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial",
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "SpaceNews",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1pycjd5RHNzTTl2SXlZbXRRYTNIOFhsWEhZZEhPV3F4UUpLaTlDOTZ2NWhqUWJaZWFnclBKS2IyNGxCWDBhZDhhc3BuX0dVZjNZV3JnS0MxRkZjODFocldBODhRSHFrcTFNOUU1Q09fZlU1UjNFLUNKaWVaSTh2VFFYUHluMk1saVdyRTRUdm5MX2xISldEZDFCNHJiTnExVmxMa2Y2aEVhT2h6?oc=5\" target=\"_blank\">Blue Origin gets national security launch task order hours before New Glenn explosion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpaceNews</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOOE90alV2Wk43QkJPU3BBV2dGN2N6OTRCUnExU3p3NjM5bEUzWjRPRlRTRVZON3pfLXZLdGlnX3ZVakJJMVJTeGU2SUFMbDZoT1hBcGZpM1Z4TWF4Y1czZ1owY1M0azF3TzQwQi0wQnhfZDZqT05BLU9yUWhBQzUzQnJ0dU1ZSFJoUzctb1Bmd291UWRhVzdBMm8ydVB0dkFSR2lQX1R1ekZMaUFtZzRRR0NEWjdfZzg?oc=5\" target=\"_blank\">Blue Origin regains access to Florida launchpad where rocket exploded, CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WESH</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWwtWW1mSkdhWG1fd3lGcTRXc3EwU1Z0RmtQbnR1NnBpdW92cVFTZHNQcklsLVFzbW96dHNtYTNRWE5lS2ppaFBOaW1LX3d2R1ZDRElJQm5HUnJXdlZ2dW1vU2U4TFZmYlQwZFVURDZWY0YtSHlzZ08zeWVVdG5Xa1p6TC1qS05jVXhYU0w2U1lYT3dKcDYzUXZVQVJ0Uk12aE1TNUstQXY0WVFIWlpVaDM5bUc5cXNHVlF3OVh3?oc=5\" target=\"_blank\">Cocoa Beach businesses react to Blue Origin explosion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 13</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSllDMk54RjNTeVlwWGhRcXA4U3hwNXJ2NFV0VTJSbWlqV0hSZ0FQcDhRdk0tcXZmNG1FTFFRcU93UldhOU1VNkQyRmdZUnlILTBQcDdYOXNJZG90UzdtWmNWdGNLcFFIZTJZaWhnSmNWUDYzZUs4cFk3eHZxV3BORkxNX2M5Q0JCT2tya0Q0cHg2dDJEQnc4TmpnU2FEaGJQeXdmSGQtS2Y2V29uV2NvZ1M3Z25KRXhBVm9sazlGLTFRNk56RURoTEYzTTFBb01hZXIwSVJ5cTg?oc=5\" target=\"_blank\">Damage to Blue Origin Launch Complex 36 as seen from the air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzBtWmh1VlJhQ1h1X25TTzBqSjV0Um9ZOVNBVl8zNTZPTVMyR2dXWHRRY25DN05vd0twTzV6Y2tSclVyc3dOZ2hfRmpSNEJTalNPbWs1WDUtT3N4cXBWZ0RSOHNLSEVaTXBEVHlzZUFadEdEeG13T2RtNUxaUnF1X0JNcms5N0Zta3VFeDhMUFpOZ2FPS2kycWlpWGkwZzB3UElLZm9nQTVTcEt2N3hJa3lVbUhzTUk0TmtXNQ?oc=5\" target=\"_blank\">Massive Blue Origin rocket explosion gives edge to Elon Musk in space race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1pycjd5RHNzTTl2SXlZbXRRYTNIOFhsWEhZZEhPV3F4UUpLaTlDOTZ2NWhqUWJaZWFnclBKS2IyNGxCWDBhZDhhc3BuX0dVZjNZV3JnS0MxRkZjODFocldBODhRSHFrcTFNOUU1Q09fZlU1UjNFLUNKaWVaSTh2VFFYUHluMk1saVdyRTRUdm5MX2xISldEZDFCNHJiTnExVmxMa2Y2aEVhT2h6?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI would love to develop working relationships with almost everyone I play golf with.\u201d",
+          "url": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI\u2019m trying to figure out whether it\u2019s worth my while achieving FIRE.\u201d",
+          "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "As Big Tech\u2019s power demand surges, data centers bring utilities a huge new profit center",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.029411764705882353,
+          "source": "marketwatch_topstories",
+          "summary": "The market hasn\u2019t fully priced the next logical step for the AI buildout: Big Tech acquiring regulated utilities outright.",
+          "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "China\u2019s next export shock walks on two legs \u2014 and costs less than a used car",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Beijing is funding humanoid robots to slash Chinese factory costs and build a competitive advantage.",
+          "url": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-30",
+          "headline": "Why double-digit earnings growth won\u2019t stop the next bear market",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.06666666666666667,
+          "source": "marketwatch_topstories",
+          "summary": "Spiking S&P 500 profits often signal the final innings of a bull market. History says stocks are on thin ice.",
+          "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "YouTuber Banned From Cedar Point After Eating Chicken Nuggets On Coaster - Kotaku",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Kotaku",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJXbGN1a2VrMzhvN0NtRWpDNGk1OWV3by1zWmMxU1d0bEtZZHhsQUVCT3ZOcTMyaWhPMkhaOGNzV1JYWmFUYjdZWEhhTVpSM18wdzZTQWJzVnJ2UGY0R0pCbU5nWXppaS1rUGs5S0RiQlhRWTFlUmlYc2s5YXhGYUFETkZ2RjR1aU1wbjZVMVVlZWExU2tmTGNYbWstMFhWeFZNYw?oc=5\" target=\"_blank\">YouTuber Banned From Cedar Point After Eating Chicken Nuggets On Coaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kotaku</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSk1qMGRmTWJXSHJvWW9PSy1nYmRacC1fR1RvSENpSjVlbjBhYjRfODI5NjZaYjdRbFY2aTJTWmFrcmJDd3I4aHBTSUF5N2VRT2huaHd4bTM1U2loMVhpRFI1M0V3NW9jNkRCQlFXZHNabjlBREFxeU56ZHc5MDNPTXB5RGIxbERwZjlJUzh4dWQ5QTBzdXI2LVZlUnZ2N05QVnlfdFR0NWV5a2dreDBYVjFkTXFlQUlrT3h1ZlpxNzJ2ekNHb0syUWcwTmFyVllIeUIxbFFYdEFlOGs?oc=5\" target=\"_blank\">He ate chicken nuggets on a roller coaster. Now he's banned for life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHo5aVpQbnY0MVpld3BqNVl3aGhrMzNla3VRaEtyT1VXd0RVU25rc0VUa2pDNHlkVTFqVk9zZWQ1LWNtTGt3dUN0ck1LZ2pvMzNPTktGOGpueFRVSG12S2N1S19zV2IwZTE0QWVvWHROWVRJZ04yOEJ3ZEZoNFZUdkpTLUdzOG9zZ1h5RWRvY002UnphLTd6WE9telNoVDBmS1JPcg?oc=5\" target=\"_blank\">Watch Viral Video That Got Influencer Banned from Six Flags for Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWhpeFRVN0d2N2hPRExfM243N1R3VlhzaEZJbkFzV3lPa2haTjBkV25FNHUwdjFzZ1VmdVc1Z1FFUDRRMm9nSlBoUnQ5TUs2UUY1OUlPaWVONWJyOFNvSzJpYW11RS11X0ZiNHFlX1hKNk44Ynd6VEYxX3RXZGxXUEFqdkdBYVpDSUhsRzJ3Wm5CT1Brc3kwNmo3Uk9XOVFYUWxVWWVTOWRMQnZ1WHFXVHN5djJIREgtak9VQzBtN0NRdw?oc=5\" target=\"_blank\">A comedy prophecy finally comes true, and it turns out you're not allowed to eat McNuggets on roller coasters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORFRTeHBqNTV6dUwwUXUzQkZOLUtKVTRoYVRoYjB6cXJVRWo0Q2h1blpFM09wdTdLTWVZQi1jcHNjMVJVR21yVzhSLUZZalB1N1lhSXBIREhfdGpVSll3YkZudlRlRDVLRUNEcW9Ya1J2emI4a2xnN1g0N1ZlNjBYb2ZYOF9JRmlnOGhGc1dzWV9aQ0I4LTgyZ01mVzFZNmVzVFRMMU4zOHZQWXNQRDl6STljWEZHdmsySUZaa0NseXI0NDdXaTNBTzE5c3U3bnVNOUNKVw?oc=5\" target=\"_blank\">Chicken nugget stunt on Cedar Point coaster gets man banned: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Detroit News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJXbGN1a2VrMzhvN0NtRWpDNGk1OWV3by1zWmMxU1d0bEtZZHhsQUVCT3ZOcTMyaWhPMkhaOGNzV1JYWmFUYjdZWEhhTVpSM18wdzZTQWJzVnJ2UGY0R0pCbU5nWXppaS1rUGs5S0RiQlhRWTFlUmlYc2s5YXhGYUFETkZ2RjR1aU1wbjZVMVVlZWExU2tmTGNYbWstMFhWeFZNYw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "SoftBank pledges \u20ac75bn to build Europe\u2019s biggest AI facility in France - Financial Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Financial Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzc0MC11amhmRjFKWlpOUGcwNkNxR19OOGpJSVk5ZGFwRWN1QTRrNGlNRWVIMVdjOXBycGpKWEpqdGRZeUQ0TXlqTFJGa2Z5eU5ISHByN1lwc2tFeFhGd0VhdFlyT0pvOFBtUkx1YjZyM0R4UHY3aTk5U19EWEV3UWszbWg?oc=5\" target=\"_blank\">SoftBank pledges \u20ac75bn to build Europe\u2019s biggest AI facility in France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTFzR0hIOUZmSUNYU2dsX0hZLUs3dGQxZDhzQU5aYmVwTnlQTzJwcTB6N3MwaEZhWjBIRGFYeThFZmVHSS1HOGFWVFJGWktYblZaZWJtX2JuODk0V3RJZy1VOWFBeTE1Zjd5OHlIUnpNN0k4T3VLWWhBUHQzN2U5Y2ticWNUSzh5V09ydEEwNlN0SklQTWQ4Mnc4TFVXZDktYW5ONHBRaWxRb09XLWtoVEo3NA?oc=5\" target=\"_blank\">SoftBank Plans Up to \u20ac75 Billion Investment in French AI Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlUyNTNzbkxkdWpod2JKQ0ZHb1FGcHc1bm50a29HUzBPdWRhckZkUlRyelZUd3haQUk0MkJaX21qRDRoSXBPYTR5WlZveFJDcHNUZ1NPc2d0bVlxSmEzTWRwZmw4WkdJR19wd3JJbVRKV0Zxb0ROTW9abFMxbkFMdWNQRWJIOW0xUGRWdWpnOGNlb0dLV09tQ2JndDVoU0pkTWV4R3ZWdlNWZE5vWFJN?oc=5\" target=\"_blank\">SoftBank says it will invest up to \u20ac75 billion to build French data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0t2UmFvTVZSMklrRVo1ZEZHNm1FZUlaR3RSMTFmZXo5NDlMY1dwTjZuRHFNVS1pOEM3QXNhak91akZyd0VZTlNHY2FpUEUybHJQbHVrbjd2aG1ET3BqVk1wS05VTEhuMnVjMHNTdFpfQzYzQ2JYMWplc1lLUUVsUEM1b3oxS1RvOWdQa0tkTUhaQk0?oc=5\" target=\"_blank\">SoftBank to Plow $52 Billion Into French Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGpvaWFPVFk5eDM4Y1RPY29QVXVhYXN4UHQyVlJ5NzJzUWMxRk90S2EwNVRjeE82MlJWeWhCMjNHN1NPSVQ2UjY5UlBBWHdQSmdKRURxZFF1YkRYVEFFbW03V3pFZ1dKSGxQdEsxVUdkNkxZalIybVhYRjlkSmlfTkZDd1RfaWFLdXFVMTF2VXZBOHlxcTVwQkRQbVNqbXRLYzN1Z1NEZVhhaUZWeXdraUZMVG1wVFVIeDZMRzB3?oc=5\" target=\"_blank\">SoftBank to build up AI data centres in France with major investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzc0MC11amhmRjFKWlpOUGcwNkNxR19OOGpJSVk5ZGFwRWN1QTRrNGlNRWVIMVdjOXBycGpKWEpqdGRZeUQ0TXlqTFJGa2Z5eU5ISHByN1lwc2tFeFhGd0VhdFlyT0pvOFBtUkx1YjZyM0R4UHY3aTk5U19EWEV3UWszbWg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Big Tech\u2019s structural mistakes are costing stock investors and fueling a massive talent crisis.",
+          "url": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "This bear market signal Wall Street ignores is putting your money at risk right now",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Veteran trader Steve Burns prepares for a 50% decline and exposes the 3 \u201cdeadly stock-market sins\u201d destroying portfolios.",
+          "url": "https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "A Company Will Clean Your Nasty Apartment For Free if You Let Them Record It - Gizmodo",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.021739130434782608,
+          "source": "Gizmodo",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUJnb0Myb1djT19QM01zVVRyc1RIdmEtTTFrRkxXUXM3eEZZajNkNVBvaGoya202dXd4X2c4enJjTEY3VjZxOVdJc0FqaGtXbmFvbTJXYjRFVlY1Y05vWmNRTnRKcExFa1RWYkJJU1JaX2gxZGxJREN0dlJvbkt0eVdwSVp5QTNFM2RIbkJqREpFWWVfUThCUHgzaGlhVHlsemk0clRUeTVrYTA?oc=5\" target=\"_blank\">A Company Will Clean Your Nasty Apartment For Free if You Let Them Record It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9mN2UwYjZERzdtVldXc1d5WVM2VzhDZ0hBT09hZkhRbDZxRURMb2VVYTE3OGRPcF9YZ3h0SFpDeGxpMWZScWxYQkNwLU9USWw5T3AtNEhWVmRONERQNEtHeXZKb3UzSGhBdlFQUHln?oc=5\" target=\"_blank\">I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQM05Mcmg5TjlScVZCNVNCLUtWN3NZTWNsRkpBam1HWnE2TmhPd0VpTWltTHYxanp0QlNBYkhNMjE0N2dXXy1YQXJMMXN6dlRvTmFEOHV5VzM5MXJ2eU9Iby1naEJhSFdQNS00WjQ1TzZGMTlMemdSX2JKVUtwcmJJR2U4ZlBhMWdGTVdvUFdyUEV0MGxDVlNuVFdHVC14SUtkYmtz?oc=5\" target=\"_blank\">This startup wants to clean your dirty dishes and clutter for free to help train AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjhNTzNjMUxiODVUeEV0NFdsNmcyTFRlMGF3ak5waVlLdjRmZ1hoYkRyNjk4VThKUW52MFJZeUY1RDhRTmhnbTh5bUtNaWNPdTdneDhrVFVrTmplS2UxSS1md2lsTnNGT2hzUU9YS2steDIxU3dOdkcybnZrS0tkQ08yc0JkYmwzNDhRWDRVRklOLWZnYTJTcHQ2MkRxUGlmVEYtcWVBVQ?oc=5\" target=\"_blank\">Tech companies desperately want to film you doing chores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXpiek81ZmhBOS1UYkZaSzBwV2Z0M3hBaS1oT2ViMWZkMl9NTV9yOXk4WFdvM0ZWckpINVUwc1JSTGhyeklXZl9ScWdUWml3SDI0NVZfZWZFTGJGVFNqOXVTZTl4U2cxaDFRbEdCZHd4WnhUM2ZOOGh5NTRuVURsS1J0VWV4WmY1SnFqOWpwMlI?oc=5\" target=\"_blank\">Startups Pay Workers to Film Household Chores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUJnb0Myb1djT19QM01zVVRyc1RIdmEtTTFrRkxXUXM3eEZZajNkNVBvaGoya202dXd4X2c4enJjTEY3VjZxOVdJc0FqaGtXbmFvbTJXYjRFVlY1Y05vWmNRTnRKcExFa1RWYkJJU1JaX2gxZGxJREN0dlJvbkt0eVdwSVp5QTNFM2RIbkJqREpFWWVfUThCUHgzaGlhVHlsemk0clRUeTVrYTA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Your portfolio can\u2019t afford the real bill for the Iran war",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "The Pentagon claims the conflict has cost $29 billion \u2014 but the true cost is much higher and it\u2019s fueling inflation.",
+          "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-30",
+          "headline": "Snowflake CEO says monster quarter shows why software firms need new pricing models to thrive in AI age - Fortune",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.01,
+          "source": "Fortune",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2WDdOQWFkYUZEbHpkTkpzekpCN0cxQUJZemo5R3JDeHNKcW53dzg2bWs1Q1lCVlJVd0lvRzFjYXZESnB3ak4tOXp0ZEp5M3ZQaEdEN2dQaU1oZGVDOWNyTGExRHZGaGI0U3JFcnZqSkRNZ2dRRlZBTA?oc=5\" target=\"_blank\">Snowflake CEO says monster quarter shows why software firms need new pricing models to thrive in AI age</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUDZVajJlNjVmNGZMY0ljLUhJUG9UdHNkVTVRa1dzTnRWaEhQWlFaVHBOMUJacXV6WkQ2MUNnckNHSjNoOXhzQkVuVEMtdG93eU1Xc3FaUTlrSVFDYjlOYUZqelpNLVBkZlVyTlZTQWxXQVVKMUtZNC1OaWFtUHfSAYQBQVVfeXFMT0xIYWt6QTE0RU5Wbk95WHY5eUI3RFk2VzBiOEM1cHRIZGVYc0hkZjlva09qZGhETUUtZVBaNUl5dEExdlViV3JLcXlVX2xXUFY4enpOZE4tR0tzbFBZRmRnTWtnanRkd05VMFRLeEdKZ0lLanR4NzJpZ0VNOV85TU5jS3VY?oc=5\" target=\"_blank\">Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5\" target=\"_blank\">AI Has Caused a Software Winter for Markets. Snowflake\u2019s Success Won\u2019t End It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzBYSTNoVm5VQVVwdVB0NjdKUDhFVkV1T0FpM3MxSC1oYjc1Z0VQWEwxN3IzbDlwclk5RVVlSmhZMTA4T0xUTG1GajExMHE1NUprREJMNi1ud2xPQ1F4TDFQeHRZb0xVRWdFZ2lDRXg0V2w1aG9TdjBodXNGQzB2bEgwUGtDMDd4djdhY0RWWVA2MnJWczFSTFVvXzR6SjA?oc=5\" target=\"_blank\">Jim Cramer on Snowflake: \u201cThe Stock Is Flying as It Should Be\u201d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFVpZUw2Y1Y4QjJ5a0tYbUw4S3V0QW9CcWtRUEU0SjZWX3pHWG5qekx5S0lUblBsTzhDNVVjeUJDcU83Y3NQekE2WUt5ZzIxOXdiWl9OQXJKVXhJbW1OTTlzYlQ3UExRazdqbDREcS16QkpiSVJHRUtqVmtlTU5VNEo2cHJZamZPTExCNF8zSW9Lc3VYcDdN?oc=5\" target=\"_blank\">Snowflake Soars. 2 Software Stocks That Could Be Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2WDdOQWFkYUZEbHpkTkpzekpCN0cxQUJZemo5R3JDeHNKcW53dzg2bWs1Q1lCVlJVd0lvRzFjYXZESnB3ak4tOXp0ZEp5M3ZQaEdEN2dQaU1oZGVDOWNyTGExRHZGaGI0U3JFcnZqSkRNZ2dRRlZBTA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "The Russian Drone That Hit Romania Also Hit European Confidence - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNk83SlhISVlaU2J5RkNYdy14TWFIZG1ac2lNd3BtZTdQa08xdzBMTVVXUV9VdUxWaTlVcW1walh3LWpLWExjaTBHWW9kWG96eHd3aWlEeVZUeE5UWk0yQ1NBNEx4NHZKbVFMLXdtXzhVc3ZFdlZjZHNMVU90RWgzZUsxOERqUQ?oc=5\" target=\"_blank\">The Russian Drone That Hit Romania Also Hit European Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzF6anpWTVZuYm52VFphS290bU54SVhQMFk5MGotaU1saVVXMnNZWDhtd3UyR05YV0tXU2ktdXZlZ2drcllMcVhhWGtyejJ0S2FRQl9qRmwyaVJyTjB0MlJGMnBaMG9nekhfRWpiejhRQlVwa0FZWFlrOFFFSlRLeEVXYlU5dElGOTJwUWVYZ3I3MlBja1FtZnUtSktWeU54NFZNc0lB?oc=5\" target=\"_blank\">Russian Offensive Campaign Assessment, May 29, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZk8xMFU5WG5OZWhoTXcxWEF3S0VDRTMwN1RTd1FJeDZIRTBNR0s3aU5GU29KUy00MFdiTzA2VFZVRmpMQWc0UEt3UVJMYllqSHRtaXNlV1lyeVJwR2Z6dUtfWW5kN0lHaHNhX2pkNy1sZzdXY1o3VFlsQ0c2LVpybjE1Ni1yTHU3aXJWUkQ5RFVWRUJ2U3NLQTUzbjhINko0ZWNSQ21SaWs3Y3ZUdkhGeUcxWGdqM3JyWHpocUpyVWVVazE5X3c?oc=5\" target=\"_blank\">Analysis: Russian drone crash in Romania shatters illusion of contained Ukraine war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNekc4UnhsSWlZWVUxNU0tTUE1STVkODBhTFdjcHRUM2ZBZGNjZjdUb1daNHZuVzU3OXVwX2N5WFE5UWNHOVV5OTUzeGQ5YWVaWURKV0xUVmJqV2oxN3loSWNkUVd1Y2dtck1OMlNvMG9FQzFVb2RlRlhKTFdxajMtM0wtWlVTSndmUm8zWFptV2hud9IBlwFBVV95cUxOLWkzaVlsamFXLVAzUUljNDh6bHNIdmRwMG5jYlh1SzR5MTVIbzNSWkluTnh6THRjejByUm02WDVxNktUVFJsRzF3S0ZrVjJtRFJYRHkzYXZfTmlISVkzVHRhZURmS1c5Z0g2Q0RYVE9RTF9uRWhjdEdZaW5PU0wwT2NaVDAyVERLWTdFUmhXVG9FcWhKdktj?oc=5\" target=\"_blank\">Putin adviser warns EU after drone hits Romania: \u2018The peaceful sleep is over\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxON0NnaDJRbWY5WlNiLUJfcFBYb1N0S2pKRmFtN1F0bGV3TFBDMDNLUGxXblRYeXlWbjh4SVh6WVhrbHRnTmE0MXI5R1VJVllONzAxVGNBRkw2S0I2dXBETmk4MmFfT1Bjbl9LcDVMNEVpUXRWV1A4UGFvVnBEZEVwN2dobkNHSHVWVmF0enhvM0tZemo0UW91VExickF3a2VIX2xKcVNKQlFCQ21UaTRlOU5KZlA?oc=5\" target=\"_blank\">Europe Is Facing Up to a Painful Vulnerability to Drone Warfare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNk83SlhISVlaU2J5RkNYdy14TWFIZG1ac2lNd3BtZTdQa08xdzBMTVVXUV9VdUxWaTlVcW1walh3LWpLWExjaTBHWW9kWG96eHd3aWlEeVZUeE5UWk0yQ1NBNEx4NHZKbVFMLXdtXzhVc3ZFdlZjZHNMVU90RWgzZUsxOERqUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Can\u2019t do a European vacation? Visit these 10 European-inspired U.S. cities. - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmh0ZGlBY24tdUhyRnRQVnplVTlFazZGV2NuXzJxRDFHZnh5cFhya1habUdxbEZFZjlkWnljV053bjh4WkJBN291T3BCVG1ZVnRVaUxjc0dpRXFLaHd3SVRzcXFXeHlCSjZacUx1SnpicjF6LVpCZTR5ZG9rZnFGWXZTSllSTWhteXpBdklYNWI1cHg2SW01R0FQSTIwdDU1TWt0eFZjRkdOTkp3Ynhjd09OdVg4S2NGN3c?oc=5\" target=\"_blank\">Can\u2019t do a European vacation? Visit these 10 European-inspired U.S. cities.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmh0ZGlBY24tdUhyRnRQVnplVTlFazZGV2NuXzJxRDFHZnh5cFhya1habUdxbEZFZjlkWnljV053bjh4WkJBN291T3BCVG1ZVnRVaUxjc0dpRXFLaHd3SVRzcXFXeHlCSjZacUx1SnpicjF6LVpCZTR5ZG9rZnFGWXZTSllSTWhteXpBdklYNWI1cHg2SW01R0FQSTIwdDU1TWt0eFZjRkdOTkp3Ynhjd09OdVg4S2NGN3c?oc=5"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": "Biotechnology",
+        "provider": "yfinance",
+        "sector": "Healthcare"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 12,
+      "catalyst_signal_count": 4,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "BioArctic issued 5,000 new shares from stock options, raising total shares to 88.7 million as of May 29, 2026. - Pluang",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Pluang",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmpXUi1UWnlXWmV2blR2NzJ1c1RKa0xCZzhjS1ZJVTQza0kxXzR6bUlyTlFYb2JJOUpCYkJCRml1TU1FLUM0cV9XLUVGRmJwcm9EYkpNSTBGZEtIY0hZZmxCV2swUC1nZzJIX2E2UTB6bGlXcHpLeTZmbUpnTXpzNHkwWFQ3anJmWlJIS0dXVFVJdw?oc=5\" target=\"_blank\">BioArctic issued 5,000 new shares from stock options, raising total shares to 88.7 million as of May 29, 2026.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmpXUi1UWnlXWmV2blR2NzJ1c1RKa0xCZzhjS1ZJVTQza0kxXzR6bUlyTlFYb2JJOUpCYkJCRml1TU1FLUM0cV9XLUVGRmJwcm9EYkpNSTBGZEtIY0hZZmxCV2swUC1nZzJIX2E2UTB6bGlXcHpLeTZmbUpnTXpzNHkwWFQ3anJmWlJIS0dXVFVJdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Number of shares and votes in BioArctic AB (publ) as of May 29, 2026 - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUdMOElyU25OSVNoZXN0NDdXUzV4RkFUVlZDSF9DMFJiZnNnRDREODdfREJGc19qX056X3Q5enVDUXVpVFlUcXRpWmVNYl9qTTljWWF6NWxXYXEyRnpSb0JxV0E4MEgwOUp1UGY5b2tucUMydmFxeThsX1NqS0ZjbUdqaFVyRk1rLU5YZjFFWnRDU1JHYkJaZ2lxaE5IMUEtcXdabFFLY1Mzd1BRaVg4TXduMGJuN2ZJdmhiVVdJTzJBaWNK?oc=5\" target=\"_blank\">Number of shares and votes in BioArctic AB (publ) as of May 29, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUdMOElyU25OSVNoZXN0NDdXUzV4RkFUVlZDSF9DMFJiZnNnRDREODdfREJGc19qX056X3Q5enVDUXVpVFlUcXRpWmVNYl9qTTljWWF6NWxXYXEyRnpSb0JxV0E4MEgwOUp1UGY5b2tucUMydmFxeThsX1NqS0ZjbUdqaFVyRk1rLU5YZjFFWnRDU1JHYkJaZ2lxaE5IMUEtcXdabFFLY1Mzd1BRaVg4TXduMGJuN2ZJdmhiVVdJTzJBaWNK?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Number of shares and votes in BioArctic AB (publ) as of May 29, 2026 - Yahoo Finance Singapore",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance Singapore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0J2M0llWHNHbUVxMmJqaUNEb3oyNjZwc0VpUHpHbmtuMVdXSGdLZTFpUElDRXRvb0dpY05qdjlrcWFxNHlpVE9OMXhRYkNaRF8wX0RkYTF2a0R6bjg0TVlhaThSdER5Vk4tanU1STJTbm9KcW5JNVprajVUQ08yOTdMRHFFTUxW?oc=5\" target=\"_blank\">Number of shares and votes in BioArctic AB (publ) as of May 29, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0J2M0llWHNHbUVxMmJqaUNEb3oyNjZwc0VpUHpHbmtuMVdXSGdLZTFpUElDRXRvb0dpY05qdjlrcWFxNHlpVE9OMXhRYkNaRF8wX0RkYTF2a0R6bjg0TVlhaThSdER5Vk4tanU1STJTbm9KcW5JNVprajVUQ08yOTdMRHFFTUxW?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "Inside BioArctic's 218,324,449 votes: how its shares are split - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdxeGkwMlNxY2FMdDY5Zjd3MFNvSHlQRnJTaEVMZF9aNkZhZ3hIRjlCOTZFWmdnY1BLWEhrRzZDb2VSd0NOOUFtYlJfYmg1VndNWjJ2MzBER0ozaTRURU0wZVkxUGpnWGh0UGE0djdpUnE4UzZhQUk0MThvV0l6V3A5bzZSaHFBUmF3ZE41c2IyUExEY09vWl9MbkxWclM0REFXNlRYZU9DbDNDczM0ZEE3aw?oc=5\" target=\"_blank\">Inside BioArctic's 218,324,449 votes: how its shares are split</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdxeGkwMlNxY2FMdDY5Zjd3MFNvSHlQRnJTaEVMZF9aNkZhZ3hIRjlCOTZFWmdnY1BLWEhrRzZDb2VSd0NOOUFtYlJfYmg1VndNWjJ2MzBER0ozaTRURU0wZVkxUGpnWGh0UGE0djdpUnE4UzZhQUk0MThvV0l6V3A5bzZSaHFBUmF3ZE41c2IyUExEY09vWl9MbkxWclM0REFXNlRYZU9DbDNDczM0ZEE3aw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "BioArctic AB Approves Dividend - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2NzUE1OUVFGei1pUzNzRU1rYy1FXzFnbEp5eTR6MW9neUNhSl94X0d2bThNZVJ5SUNCX0xQbGNrUWRMc0NIcmV2YkF2U3IxbXFZaGU0eGRvd3k2TGtIOVB4MzZ1SUFRVlBBMTZCVGZESHhWdVNqSHVTWUVYYWFYUUNreFdRNlZMQTJZ?oc=5\" target=\"_blank\">BioArctic AB Approves Dividend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2NzUE1OUVFGei1pUzNzRU1rYy1FXzFnbEp5eTR6MW9neUNhSl94X0d2bThNZVJ5SUNCX0xQbGNrUWRMc0NIcmV2YkF2U3IxbXFZaGU0eGRvd3k2TGtIOVB4MzZ1SUFRVlBBMTZCVGZESHhWdVNqSHVTWUVYYWFYUUNreFdRNlZMQTJZ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-28",
+          "headline": "Bulletin from the Annual General Meeting in BioArctic AB (publ) - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHNWdnA4THlLNzZJYjJlMXVlOGh4cmg1UG9IbTlCaGNKWGRESlZ0dHItV1gyYzMtNlJzRm1Val9QVFZEeFJ4LXJsVTZYS1A2MnBET25mYXFLajhBZmNWVWdVb2hLXzlEY3kzYUIxcmszckRkUmhTY2JfM09WNzVhaUxtS3c5QU9SZ0lMMzdDSUpSTHIwU2JhSDhwbGNhYWVlSHRIMk9BN3cxMTJrT0MxLTRwXy02MWF4Vi14cUhoQQ?oc=5\" target=\"_blank\">Bulletin from the Annual General Meeting in BioArctic AB (publ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHNWdnA4THlLNzZJYjJlMXVlOGh4cmg1UG9IbTlCaGNKWGRESlZ0dHItV1gyYzMtNlJzRm1Val9QVFZEeFJ4LXJsVTZYS1A2MnBET25mYXFLajhBZmNWVWdVb2hLXzlEY3kzYUIxcmszckRkUmhTY2JfM09WNzVhaUxtS3c5QU9SZ0lMMzdDSUpSTHIwU2JhSDhwbGNhYWVlSHRIMk9BN3cxMTJrT0MxLTRwXy02MWF4Vi14cUhoQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "BioArctic staff can earn free shares if returns hit 30% - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGJEempweGlHcnZLdW0wcDRkUnBlWmxFZHBxMWxPS2s3Q0kzRVdRMmZNLXRZWEkzb1JyWkRtcExfa0N3dEppWFlqYXhjUEN6clBCUDZEMldxa0NIaThNWDVVR3V4QjZDLThmcFJBR3R3WS1JbFJIa3ZQVkN0ajBRUXVNSHQtcHlESENXWHNQY0R0YWEwNHFhdUplRksxZWtFcWJ4d3pUM2dvM0NlUUE?oc=5\" target=\"_blank\">BioArctic staff can earn free shares if returns hit 30%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGJEempweGlHcnZLdW0wcDRkUnBlWmxFZHBxMWxPS2s3Q0kzRVdRMmZNLXRZWEkzb1JyWkRtcExfa0N3dEppWFlqYXhjUEN6clBCUDZEMldxa0NIaThNWDVVR3V4QjZDLThmcFJBR3R3WS1JbFJIa3ZQVkN0ajBRUXVNSHQtcHlESENXWHNQY0R0YWEwNHFhdUplRksxZWtFcWJ4d3pUM2dvM0NlUUE?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-28",
+          "headline": "BioArctic's (STO:BIOA B) Soft Earnings Don't Show The Whole Picture - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRlJ6WHAtOFpOWTkwbFNCcVhRZ1VlYmNYYUwyeFk5dGV0akNqT1Z2amNCajh2elpRMUdVaXJCd3dBalBRLVpfNERCZ0NneGh1T2MzM2dxMzNXUVdBWVo5bW53MTFkM3NFaXNDWnRkZkRBbzA3eU9RNGI3eEVPcVZEUkNJUF9Lc1dKZGNFamRaN09LdU9tZnZlWGp3RGZqYXd5ak8wTjhEdUtPUGtqUk1MMktuOFRNaTlXdVFYalVtOUUyNkNlRHVQMWFEYl85NVYtUlV5QjRGNzB4MFhpTGNZVHF5NNIB6AFBVV95cUxPMXRPOHVMY2l5djZDTlNuTnpWWVJISkJnc0tQNlNnbUNsTWN4TkEyRGlTdUNzT2RkUThaR3d2T1JfSEtoZHVfUWdNaHN0dXdnY1Vld054SDVmRXpXbzd2cXFMdkFDZHU1M3VGZkRuc1RpZDRFdmdHRFcwYWtMOW9tRmVycmJZWGpxZFhJcnFEMUxEdkNjUTRXajI3QnZhN3BveThnSVhXckk2bjMySFQ0NVRXNU1TNUZsTGtFNjZFR2ZFb1M1dzhoUW5BZHJKVmpxZmtwRmtnaUp6MFF4U1FOU0xNMkoteVBZ?oc=5\" target=\"_blank\">BioArctic's (STO:BIOA B) Soft Earnings Don't Show The Whole Picture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRlJ6WHAtOFpOWTkwbFNCcVhRZ1VlYmNYYUwyeFk5dGV0akNqT1Z2amNCajh2elpRMUdVaXJCd3dBalBRLVpfNERCZ0NneGh1T2MzM2dxMzNXUVdBWVo5bW53MTFkM3NFaXNDWnRkZkRBbzA3eU9RNGI3eEVPcVZEUkNJUF9Lc1dKZGNFamRaN09LdU9tZnZlWGp3RGZqYXd5ak8wTjhEdUtPUGtqUk1MMktuOFRNaTlXdVFYalVtOUUyNkNlRHVQMWFEYl85NVYtUlV5QjRGNzB4MFhpTGNZVHF5NNIB6AFBVV95cUxPMXRPOHVMY2l5djZDTlNuTnpWWVJISkJnc0tQNlNnbUNsTWN4TkEyRGlTdUNzT2RkUThaR3d2T1JfSEtoZHVfUWdNaHN0dXdnY1Vld054SDVmRXpXbzd2cXFMdkFDZHU1M3VGZkRuc1RpZDRFdmdHRFcwYWtMOW9tRmVycmJZWGpxZFhJcnFEMUxEdkNjUTRXajI3QnZhN3BveThnSVhXckk2bjMySFQ0NVRXNU1TNUZsTGtFNjZFR2ZFb1M1dzhoUW5BZHJKVmpxZmtwRmtnaUp6MFF4U1FOU0xNMkoteVBZ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-25",
+          "headline": "BioArctic's partner Eisai presents sales simulation of potential future sales of Leqembi\u00ae at its Investor Relations Day - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLXVQY0k3eFdoTlZzOUtoTUkySE81b01GTjhxenBfaEZkanFHUWNfNHpDUVg3NV9KSHVMMGUwNjVaZlhTbEpGdDhXM2owaTV3dFUzOVVQT2NwbWg1MGlKeEVBMEhockQtc1V1cER1UTFra0pDb25CS3pEaXBnUzFBRURLV3hES3JhNklLNXJIQWk3RlVVdjNvcjE0NVMzVk9jRmtxVWN5bjUyS1JVdFNXc1hfbGpVQUpHNjJRUDRlX20tRnRkZlZWc0RhWENmaUNQc3phcVFWM3hsVUdvLWhsdTdFWTdmRmhOeHhVSThXLWVnclgtdmlEd0lOeThVRzNCdUtISVVzdDdEN1E?oc=5\" target=\"_blank\">BioArctic's partner Eisai presents sales simulation of potential future sales of Leqembi\u00ae at its Investor Relations Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLXVQY0k3eFdoTlZzOUtoTUkySE81b01GTjhxenBfaEZkanFHUWNfNHpDUVg3NV9KSHVMMGUwNjVaZlhTbEpGdDhXM2owaTV3dFUzOVVQT2NwbWg1MGlKeEVBMEhockQtc1V1cER1UTFra0pDb25CS3pEaXBnUzFBRURLV3hES3JhNklLNXJIQWk3RlVVdjNvcjE0NVMzVk9jRmtxVWN5bjUyS1JVdFNXc1hfbGpVQUpHNjJRUDRlX20tRnRkZlZWc0RhWENmaUNQc3phcVFWM3hsVUdvLWhsdTdFWTdmRmhOeHhVSThXLWVnclgtdmlEd0lOeThVRzNCdUtISVVzdDdEN1E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-24",
+          "headline": "BioArctic AB (publ) Just Reported A Surprise Profit, And Analysts Lifted Their Estimates - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.06666666666666667,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaTN3M3pxRmdJYTFmejJaWGpZblYzVFNNdTBjQVdlUmlrN1QtX2pTQ0k3VHUxZTNaWE9acG1Id2w4WlNFc09BWVhZZkZRa0tkcUl4ZlRMR0tGekQyY3I3YTlqWHBKZ0xHNkRtdmtLbHdXZlpXbGNJTHdQeTJzNGZ5Vy14RlN3VjdRbS1haERLVTVYcGxuMlZNUFlRVFlfVTFwWW1YWjZIVUZQY3Y5N0Jzdnc4MHJOdWs2eDJwX2lBVGRtNF9QaE9KQjNsZFpIbkFaVDBoVng3aGoxY3E5TFRMNVFPSdIB6AFBVV95cUxPZURDdHFTanhRLTI4UnI4Mnh5Sk9SWHlEUXctLVAweUlGQm03WDlwTkRoRVliMTY0aFZGQjBRX0RNZ1dOTTl2dV9GeFc5anJDbmM3eXpTN3VHWm8tZXRvRjRtTUJSTzhyYXFheWJkdms0N2ZsNW1OSHlONVQ0eUVjNFBXTUtMSm5ueW05S3JWSzlmalRtVVk2ZU16SmZNanVxbkUzRF9QTUI2ZkhXMTRwZ1VfeW9uVkozdDBHdnJkYm5EUGpYT1JGUnR3LUMzSzVLa19LRUFKYkQ3RFc4bFl5aVFZVVh2UVhx?oc=5\" target=\"_blank\">BioArctic AB (publ) Just Reported A Surprise Profit, And Analysts Lifted Their Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaTN3M3pxRmdJYTFmejJaWGpZblYzVFNNdTBjQVdlUmlrN1QtX2pTQ0k3VHUxZTNaWE9acG1Id2w4WlNFc09BWVhZZkZRa0tkcUl4ZlRMR0tGekQyY3I3YTlqWHBKZ0xHNkRtdmtLbHdXZlpXbGNJTHdQeTJzNGZ5Vy14RlN3VjdRbS1haERLVTVYcGxuMlZNUFlRVFlfVTFwWW1YWjZIVUZQY3Y5N0Jzdnc4MHJOdWs2eDJwX2lBVGRtNF9QaE9KQjNsZFpIbkFaVDBoVng3aGoxY3E5TFRMNVFPSdIB6AFBVV95cUxPZURDdHFTanhRLTI4UnI4Mnh5Sk9SWHlEUXctLVAweUlGQm03WDlwTkRoRVliMTY0aFZGQjBRX0RNZ1dOTTl2dV9GeFc5anJDbmM3eXpTN3VHWm8tZXRvRjRtTUJSTzhyYXFheWJkdms0N2ZsNW1OSHlONVQ0eUVjNFBXTUtMSm5ueW05S3JWSzlmalRtVVk2ZU16SmZNanVxbkUzRF9QTUI2ZkhXMTRwZ1VfeW9uVkozdDBHdnJkYm5EUGpYT1JGUnR3LUMzSzVLa19LRUFKYkQ3RFc4bFl5aVFZVVh2UVhx?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-20",
+          "headline": "BioArctic AB (publ) 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:BRCTF) 2026-05-20 - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjBldEp5UVJJZzI1SU9rOFZOV2ZZVUktLWJCWWl3bTVRb1FkWjYwQzBjdjQxOERhSmJIa1A1SDJMTzNzaUJZWUNCRGF5YU9qdFQzcUhRZERhc3VPOW5FWlVxOHlLVkpyY21OS2t4NV9xWmtfc3hTWGc4aW9ickVEN1JFVkVvUnVYbENQVTJnMlk2N2M5RHBOS2Z5ZmdoRS1ILXB3?oc=5\" target=\"_blank\">BioArctic AB (publ) 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:BRCTF) 2026-05-20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjBldEp5UVJJZzI1SU9rOFZOV2ZZVUktLWJCWWl3bTVRb1FkWjYwQzBjdjQxOERhSmJIa1A1SDJMTzNzaUJZWUNCRGF5YU9qdFQzcUhRZERhc3VPOW5FWlVxOHlLVkpyY21OS2t4NV9xWmtfc3hTWGc4aW9ickVEN1JFVkVvUnVYbENQVTJnMlk2N2M5RHBOS2Z5ZmdoRS1ILXB3?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-12",
+          "headline": "BioArctic to detail January\u2013March 2026 results in May 20 webcast - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlAwYWdJNjRFWW9yZ0lleHJpOW44eXhKLVlPMGU1akFybjZBRm5sN0YzbmVSTXoxUVB5TDhHVlZBQU04R0NIZGxfWndQSlB1bmo4RF80ZDY5bHZmdi1fZXAtalkwcGtQZG1pSHBlcTMxV29xekRfTzVyN0NacmtYZEtldFdsek1QRW9Xdi00YndRRFUzcmtJekJDaWFUS0NCMG5qbER5VGJWNGVUS2czMm5DNG5TM2tpelRr?oc=5\" target=\"_blank\">BioArctic to detail January\u2013March 2026 results in May 20 webcast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlAwYWdJNjRFWW9yZ0lleHJpOW44eXhKLVlPMGU1akFybjZBRm5sN0YzbmVSTXoxUVB5TDhHVlZBQU04R0NIZGxfWndQSlB1bmo4RF80ZDY5bHZmdi1fZXAtalkwcGtQZG1pSHBlcTMxV29xekRfTzVyN0NacmtYZEtldFdsek1QRW9Xdi00YndRRFUzcmtJekJDaWFUS0NCMG5qbER5VGJWNGVUS2czMm5DNG5TM2tpelRr?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 1
+    },
+    "sentiment": {
+      "days_sampled": 6,
+      "delta": -0.022222222222222223,
+      "prior_mean": 0.022222222222222223,
+      "recent_mean": 0.0
+    },
+    "technical": {
+      "atr14": 13.0345691415652,
+      "close": 352.4,
+      "close_vs_ema200_pct": 18.226133644694787,
+      "close_vs_ema20_pct": 6.866543816663577,
+      "close_vs_ema50_pct": 8.561948787458759,
+      "close_vs_hh20_pct": 2.3823358512492705,
+      "ema20": 329.757085252579,
+      "ema200": 298.07284492536,
+      "ema50": 324.607290064334,
+      "entry_ready": false,
+      "hh20_prev": 344.2,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.30692818940007
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": "Biotechnology",
+    "sector": "Healthcare",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 12 stock-specific articles into 1 constructive, 0 adverse, and 4 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (344.20), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.31, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-24: BioArctic AB (publ) Just Reported A Surprise Profit, And Analysts Lifted Their Estimates - simplywall.st."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 344.20 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 2.38
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.31
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 6.87
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 8.56
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 18.23
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 2,
+        "value": 1
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 63
+  },
+  "sources": [
+    {
+      "published_at": "2026-05-31",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-05-31_universe_5_EU_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-05-30",
+      "publisher": "Pluang",
+      "title": "BioArctic issued 5,000 new shares from stock options, raising total shares to 88.7 million as of May 29, 2026. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmpXUi1UWnlXWmV2blR2NzJ1c1RKa0xCZzhjS1ZJVTQza0kxXzR6bUlyTlFYb2JJOUpCYkJCRml1TU1FLUM0cV9XLUVGRmJwcm9EYkpNSTBGZEtIY0hZZmxCV2swUC1nZzJIX2E2UTB6bGlXcHpLeTZmbUpnTXpzNHkwWFQ3anJmWlJIS0dXVFVJdw?oc=5"
+    },
+    {
+      "published_at": "2026-05-30",
+      "publisher": "TradingView",
+      "title": "Number of shares and votes in BioArctic AB (publ) as of May 29, 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUdMOElyU25OSVNoZXN0NDdXUzV4RkFUVlZDSF9DMFJiZnNnRDREODdfREJGc19qX056X3Q5enVDUXVpVFlUcXRpWmVNYl9qTTljWWF6NWxXYXEyRnpSb0JxV0E4MEgwOUp1UGY5b2tucUMydmFxeThsX1NqS0ZjbUdqaFVyRk1rLU5YZjFFWnRDU1JHYkJaZ2lxaE5IMUEtcXdabFFLY1Mzd1BRaVg4TXduMGJuN2ZJdmhiVVdJTzJBaWNK?oc=5"
+    },
+    {
+      "published_at": "2026-05-30",
+      "publisher": "Yahoo Finance Singapore",
+      "title": "Number of shares and votes in BioArctic AB (publ) as of May 29, 2026 - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0J2M0llWHNHbUVxMmJqaUNEb3oyNjZwc0VpUHpHbmtuMVdXSGdLZTFpUElDRXRvb0dpY05qdjlrcWFxNHlpVE9OMXhRYkNaRF8wX0RkYTF2a0R6bjg0TVlhaThSdER5Vk4tanU1STJTbm9KcW5JNVprajVUQ08yOTdMRHFFTUxW?oc=5"
+    },
+    {
+      "published_at": "2026-05-30",
+      "publisher": "Stock Titan",
+      "title": "Inside BioArctic's 218,324,449 votes: how its shares are split - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdxeGkwMlNxY2FMdDY5Zjd3MFNvSHlQRnJTaEVMZF9aNkZhZ3hIRjlCOTZFWmdnY1BLWEhrRzZDb2VSd0NOOUFtYlJfYmg1VndNWjJ2MzBER0ozaTRURU0wZVkxUGpnWGh0UGE0djdpUnE4UzZhQUk0MThvV0l6V3A5bzZSaHFBUmF3ZE41c2IyUExEY09vWl9MbkxWclM0REFXNlRYZU9DbDNDczM0ZEE3aw?oc=5"
+    },
+    {
+      "published_at": "2026-05-28",
+      "publisher": "marketscreener.com",
+      "title": "BioArctic AB Approves Dividend - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2NzUE1OUVFGei1pUzNzRU1rYy1FXzFnbEp5eTR6MW9neUNhSl94X0d2bThNZVJ5SUNCX0xQbGNrUWRMc0NIcmV2YkF2U3IxbXFZaGU0eGRvd3k2TGtIOVB4MzZ1SUFRVlBBMTZCVGZESHhWdVNqSHVTWUVYYWFYUUNreFdRNlZMQTJZ?oc=5"
+    },
+    {
+      "published_at": "2026-05-28",
+      "publisher": "TradingView",
+      "title": "Bulletin from the Annual General Meeting in BioArctic AB (publ) - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHNWdnA4THlLNzZJYjJlMXVlOGh4cmg1UG9IbTlCaGNKWGRESlZ0dHItV1gyYzMtNlJzRm1Val9QVFZEeFJ4LXJsVTZYS1A2MnBET25mYXFLajhBZmNWVWdVb2hLXzlEY3kzYUIxcmszckRkUmhTY2JfM09WNzVhaUxtS3c5QU9SZ0lMMzdDSUpSTHIwU2JhSDhwbGNhYWVlSHRIMk9BN3cxMTJrT0MxLTRwXy02MWF4Vi14cUhoQQ?oc=5"
+    },
+    {
+      "published_at": "2026-05-28",
+      "publisher": "Stock Titan",
+      "title": "BioArctic staff can earn free shares if returns hit 30% - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGJEempweGlHcnZLdW0wcDRkUnBlWmxFZHBxMWxPS2s3Q0kzRVdRMmZNLXRZWEkzb1JyWkRtcExfa0N3dEppWFlqYXhjUEN6clBCUDZEMldxa0NIaThNWDVVR3V4QjZDLThmcFJBR3R3WS1JbFJIa3ZQVkN0ajBRUXVNSHQtcHlESENXWHNQY0R0YWEwNHFhdUplRksxZWtFcWJ4d3pUM2dvM0NlUUE?oc=5"
+    }
+  ],
+  "summary": "BIOA-B scores 63/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 1 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "BIOA-B"
+}

@@ -3,8 +3,8 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-05-30`
-- Symbols analyzed: `21`
+- Feed dates: `2026-05-30, 2026-05-31`
+- Symbols analyzed: `48`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -13,27 +13,36 @@ Quick links:
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-05-30_eu_bbb1f09f`
-- Prior regional run: `2026-05-29_eu_75fc7014`
-- Feed dates: `2026-05-30`
-- Symbols analyzed: `5`
+- Run ID: `2026-05-31_eu_c873070a`
+- Prior regional run: `2026-05-30_eu_bbb1f09f`
+- Feed dates: `2026-05-31`
+- Symbols analyzed: `32`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
-- Rows shown: `5` of `5`
+- Rows shown: `15` of `32`
 
 ### Entry Ready Near Trigger
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [0DQ7](<latest/eu/analysis/markdown/0DQ7.md>) | Beiersdorf AG O.N. | $\color{#1a7f37}{\textsf{+0.64\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{79}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#2da44e}{\textsf{good(3)}}$ |
-| 2 | [SYIFJERADKKA](<latest/eu/analysis/markdown/SYIFJERADKKA.md>) | Sydinvest Fjernøsten Akkumulerende KL | $\color{#1a7f37}{\textsf{+0.68\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 3 | [EPEN](<latest/eu/analysis/markdown/EPEN.md>) | Ependion AB | $\color{#1a7f37}{\textsf{+0.36\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(5)}}$ |
+| 1 | [RBI](<latest/eu/analysis/markdown/RBI.md>) | Raiffeisen Bank International AG | $\color{#9a6700}{\textsf{+2.28\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 2 | [SSAB-A](<latest/eu/analysis/markdown/SSAB-A.md>) | SSAB AB (publ) | $\color{#1a7f37}{\textsf{+0.71\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(5)}}$ |
+| 3 | [KREATE](<latest/eu/analysis/markdown/KREATE.md>) | Kreate Group Oyj | $\color{#bc4c00}{\textsf{+3.04\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(13)}}$ |
+| 4 | [EXENS](<latest/eu/analysis/markdown/EXENS.md>) | EXOSENS PROM | $\color{#9a6700}{\textsf{+3.00\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 5 | [HIAG](<latest/eu/analysis/markdown/HIAG.md>) | HIAG Immobilien Holding AG | $\color{#9a6700}{\textsf{+1.95\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
+| 6 | [INDU-A](<latest/eu/analysis/markdown/INDU-A.md>) | Industrivarden AB ser. A | $\color{#9a6700}{\textsf{+1.96\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 7 | [GRLA](<latest/eu/analysis/markdown/GRLA.md>) | Groenlandsbanken AS | $\color{#9a6700}{\textsf{+2.33\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 8 | [EMSN](<latest/eu/analysis/markdown/EMSN.md>) | EMS-CHEMIE HOLDING AG | $\color{#9a6700}{\textsf{+1.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
+| 9 | [LOUP](<latest/eu/analysis/markdown/LOUP.md>) | Societe LDC SA | $\color{#9a6700}{\textsf{+1.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 10 | [SIX3](<latest/eu/analysis/markdown/SIX3.md>) | Sixt SE | $\color{#1a7f37}{\textsf{+0.66\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{72}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(13)}}$ |
+| 11 | [NP3](<latest/eu/analysis/markdown/NP3.md>) | NP3 Fastigheter AB | $\color{#9a6700}{\textsf{+2.07\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{71}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(14)}}$ |
+| 12 | [DANSKE](<latest/eu/analysis/markdown/DANSKE.md>) | Danske Bank A/S | $\color{#1a7f37}{\textsf{+0.83\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{69}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 13 | [HOLN](<latest/eu/analysis/markdown/HOLN.md>) | Holcim AG | $\color{#9a6700}{\textsf{+1.13\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(7)}}$ |
+| 14 | [BRAV](<latest/eu/analysis/markdown/BRAV.md>) | Bravida Holding AB | $\color{#1a7f37}{\textsf{+0.06\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{62}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 15 | [GRNG](<latest/eu/analysis/markdown/GRNG.md>) | Gränges AB (publ) | $\color{#1a7f37}{\textsf{+0.40\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
 
 ### Entry Ready But Already Spiked
 
-| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ALESE](<latest/eu/analysis/markdown/ALESE.md>) | Entech SE SAS | $\color{#cf222e}{\textsf{+5.01\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{78}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 2 | [SFQ](<latest/eu/analysis/markdown/SFQ.md>) | SAF Holland SA | $\color{#cf222e}{\textsf{+5.26\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
+No names from this section landed inside the current top-`15` cutoff.
 
 ### Candidates
 

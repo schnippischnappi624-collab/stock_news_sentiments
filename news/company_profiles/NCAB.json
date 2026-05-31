@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Electronic Components",
+  "long_name": "NCAB Group AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "NCAB.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "NCAB",
+  "sector": "Technology",
+  "short_name": "NCAB Group AB",
+  "symbol": "NCAB.ST"
+}

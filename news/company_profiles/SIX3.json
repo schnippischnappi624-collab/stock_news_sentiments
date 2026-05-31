@@ -1,0 +1,14 @@
+{
+  "country": "Germany",
+  "exchange": "GER",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Rental & Leasing Services",
+  "long_name": "Sixt SE",
+  "provider": "yfinance",
+  "query_symbol": "SIX3.DE",
+  "quote_type": "EQUITY",
+  "requested_symbol": "SIX3",
+  "sector": "Industrials",
+  "short_name": "Sixt SE                       I",
+  "symbol": "SIX3.DE"
+}

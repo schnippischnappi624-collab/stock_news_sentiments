@@ -1,0 +1,14 @@
+{
+  "country": "France",
+  "exchange": "PAR",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Software - Infrastructure",
+  "long_name": "OVH Groupe S.A.",
+  "provider": "yfinance",
+  "query_symbol": "OVH.PA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "OVH",
+  "sector": "Technology",
+  "short_name": "OVH",
+  "symbol": "OVH.PA"
+}

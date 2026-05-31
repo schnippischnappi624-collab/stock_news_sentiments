@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Farm & Heavy Construction Machinery",
+  "long_name": "Epiroc AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "EPI-A.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "EPI-A",
+  "sector": "Industrials",
+  "short_name": "Epiroc AB ser. A",
+  "symbol": "EPI-A.ST"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-05-31T04:01:22.719473+00:00",
+  "industry": "Biotechnology",
+  "long_name": "BioArctic AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "BIOA-B.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BIOA-B",
+  "sector": "Healthcare",
+  "short_name": "BioArctic AB ser. B",
+  "symbol": "BIOA-B.ST"
+}
