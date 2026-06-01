@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-05-31",
-    "filename": "2026-05-31_universe_3_US_Results_CANDIDATES.txt",
+    "feed_date": "2026-06-01",
+    "filename": "2026-06-01_universe_3_US_Results_CANDIDATES.txt",
     "kind": "Results_CANDIDATES",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-05-31_universe_3_US_Results_CANDIDATES.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-06-01_universe_3_US_Results_CANDIDATES.txt"
   },
-  "run_date": "2026-05-31",
+  "run_date": "2026-06-01",
   "table_count": 1,
   "tables": [
     {
@@ -80,7 +80,7 @@
           "symbol": "RPRX",
           "turnover_20d": 226731629.832,
           "turnover_day": 1003005304.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 11288204009.05,
           "vol_anom": 4.42349903744417,
           "volume": 17987900.0
@@ -116,7 +116,7 @@
           "symbol": "SNX",
           "turnover_20d": 175586600.552,
           "turnover_day": 455463818.56,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 6016262014.92549,
           "vol_anom": 2.59395544493792,
           "volume": 1743202.0
@@ -152,7 +152,7 @@
           "symbol": "ALKS",
           "turnover_20d": 92239155.3095,
           "turnover_day": 180125986.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 2730301613.08718,
           "vol_anom": 1.95246212853655,
           "volume": 4269400.0
@@ -188,7 +188,7 @@
           "symbol": "F",
           "turnover_20d": 1389908983.04,
           "turnover_day": 2688175440.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 34691452395.1593,
           "vol_anom": 1.87853142974101,
           "volume": 154138500.0
@@ -224,7 +224,7 @@
           "symbol": "SN",
           "turnover_20d": 330816060.3435,
           "turnover_day": 966136707.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 7842300317.49487,
           "vol_anom": 2.88784216040789,
           "volume": 7926300.0
@@ -260,7 +260,7 @@
           "symbol": "MRCY",
           "turnover_20d": 68857509.68,
           "turnover_day": 169962720.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 1635669988.01134,
           "vol_anom": 2.46722039599617,
           "volume": 1521600.0
@@ -296,7 +296,7 @@
           "symbol": "ATI",
           "turnover_20d": 289796220.77,
           "turnover_day": 541034208.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 7514036132.79665,
           "vol_anom": 1.86657233611515,
           "volume": 3088800.0
@@ -332,7 +332,7 @@
           "symbol": "RVMD",
           "turnover_20d": 385452717.282,
           "turnover_day": 1048879792.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 10091942861.457,
           "vol_anom": 2.47521147654017,
           "volume": 6660400.0
@@ -368,7 +368,7 @@
           "symbol": "AVGO",
           "turnover_20d": 8498677700.9305,
           "turnover_day": 18638752953.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 240686391979.387,
           "vol_anom": 2.18721738140097,
           "volume": 41718900.0
@@ -404,7 +404,7 @@
           "symbol": "IVZ",
           "turnover_20d": 112401435.226,
           "turnover_day": 226911580.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 3998355353.65586,
           "vol_anom": 2.01789027447876,
           "volume": 7973000.0
@@ -440,7 +440,7 @@
           "symbol": "GE",
           "turnover_20d": 1547571521.148,
           "turnover_day": 3025666704.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 52946460825.81,
           "vol_anom": 1.95319742994348,
           "volume": 9345400.0
@@ -476,7 +476,7 @@
           "symbol": "ODFL",
           "turnover_20d": 407571798.51,
           "turnover_day": 833662905.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 11988065747.0396,
           "vol_anom": 1.78044323148182,
           "volume": 3702700.0
@@ -512,7 +512,7 @@
           "symbol": "ETSY",
           "turnover_20d": 205679066.016,
           "turnover_day": 361057761.84,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 5131953592.74341,
           "vol_anom": 1.75544244163338,
           "volume": 5315927.0
@@ -548,7 +548,7 @@
           "symbol": "NUVL",
           "turnover_20d": 59168294.8675,
           "turnover_day": 129112144.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 1788603395.85819,
           "vol_anom": 2.09944808073609,
           "volume": 1169600.0
@@ -584,7 +584,7 @@
           "symbol": "RCI",
           "turnover_20d": 30557690.64,
           "turnover_day": 98364180.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 1439689232.91569,
           "vol_anom": 2.03533268540217,
           "volume": 2551600.0
@@ -620,7 +620,7 @@
           "symbol": "ENLT",
           "turnover_20d": 23511138.933,
           "turnover_day": 55708012.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 530880855.409287,
           "vol_anom": 2.36632374801339,
           "volume": 518600.0
@@ -656,7 +656,7 @@
           "symbol": "DNTH",
           "turnover_20d": 48253839.127,
           "turnover_day": 116141587.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 978460179.708279,
           "vol_anom": 2.23131837980026,
           "volume": 1248700.0
@@ -692,7 +692,7 @@
           "symbol": "LBTYK",
           "turnover_20d": 14666381.504,
           "turnover_day": 29353850.88,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 484893382.445198,
           "vol_anom": 2.00143783741029,
           "volume": 2413968.0
@@ -728,7 +728,7 @@
           "symbol": "TDAY",
           "turnover_20d": 12121571.0275,
           "turnover_day": 21917984.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 313504796.972652,
           "vol_anom": 1.80772461591716,
           "volume": 2806400.0
@@ -764,7 +764,7 @@
           "symbol": "GCO",
           "turnover_20d": 6290882.3655,
           "turnover_day": 15106269.0,
-          "updated_ts_utc": "2026-05-31T08:31:33Z",
+          "updated_ts_utc": "2026-06-01T08:31:34Z",
           "vol_adj_liq": 124922541.760562,
           "vol_anom": 2.08347933540771,
           "volume": 393700.0
