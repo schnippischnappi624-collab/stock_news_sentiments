@@ -1,0 +1,2 @@
+asof_date,exchange_code,mic,symbol,company_name,isin,type,currency,country,state,state_since,last_run_id,reason,updated_ts_utc,close,volume,vol_anom,hh20_prev,close_vs_hh20_prev,ema20,ema50,ema200,atr14
+20260601,US,,MGM,MGM Resorts International,,Common Stock,USD,USA,ENTRY_READY,20260601,199,setup+breakout,2026-06-02T08:31:37Z,50.69,27683193.0,4.46104597592867,44.28,0.144760614272809,40.1652113712687,38.5935477989518,36.4561920321551,2.00971036167273

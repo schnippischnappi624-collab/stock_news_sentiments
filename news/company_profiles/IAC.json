@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-06-02T09:15:46.280618+00:00",
+  "industry": "Internet Content & Information",
+  "long_name": "IAC Inc.",
+  "provider": "yfinance",
+  "query_symbol": "IAC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "IAC",
+  "sector": "Communication Services",
+  "short_name": "IAC Inc.",
+  "symbol": "IAC"
+}

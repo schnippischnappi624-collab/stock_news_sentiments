@@ -1,0 +1,749 @@
+{
+  "analysis_date": "2026-06-02",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "avoid",
+    "score_0_to_100": 28,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-01: IAC Announces Strategic Moves Amid MGM Acquisition News - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-26: Assessing IAC (IAC) Valuation After Weak Q1 Results And Ongoing Business Transformation - Yahoo Finance."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "IAC Inc.",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Musician Charlie Puth sells unique Studio City mansion for $2.1 million amid world tour",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Singer-songwriter Charlie Puth has sold an ultramodern \u201csculptural\u201d residence in Studio City for $2.1 million\u2014less than a year after putting the architectural marvel on the market.",
+          "url": "https://www.marketwatch.com/story/musician-charlie-puth-sells-unique-studio-city-mansion-for-2-1-million-amid-world-tour-5e8393be?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Jennifer Lopez offers a poolside peek of her new $18 million L.A. mansion",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Lopez shared a series of photos and videos from her weekend on Instagram, revealing a glimpse at her picturesque property and the renovations she has done since buying it last year.",
+          "url": "https://www.marketwatch.com/story/jennifer-lopez-offers-a-poolside-peek-of-her-new-18-million-l-a-mansion-0fc6be4f?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Japan\u2019s newly crowned top company gets a downgrade on AI \u2018mania\u2019 concerns",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone",
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.05263157894736842,
+          "source": "marketwatch_topstories",
+          "summary": "Deutsche Bank analyst downgraded SoftBank to hold.",
+          "url": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-02",
+          "headline": "HPE Sees Strong Growth Over Next 18 Months on Server Demand - Bloomberg.com",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.07792207792207792,
+          "source": "Bloomberg.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2tZYUEzNk02TW9MZWJCeXBxbzIwelRZdEVXSWJFckRwTUVtcmFVS2pGalhHc2ZnYk9vZXdZTlFKQVZ1R2FxcDZZYm4yTmsxVUhiZERmUDZ1SnR1dV9xSkJIWG5ScDRlc3Y1Q0JOUVpzZ2lJVDc5TGJqUWhMbC14aEF1dzFoUHpwaWNPT1JHZ1E0OUNPMkk3bDlobkV2TDZTRnBDby1rVFFFNjVtMEkw?oc=5\" target=\"_blank\">HPE Sees Strong Growth Over Next 18 Months on Server Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cc2gxWlZ3d1QtRG9HYUdGQzBRNXVwNGdsbHJHeFB3cEt0WVZ5Vi1zM0duaHl1czRpbzVOMUpCbW5zRlByZktjenJhWU41eUFhT1RvMmE4ZWdaUDljTE1Ga0psZXVJVDZtbVHSAW9BVV95cUxNaElnSWJPdnl4Qm5kNEctX1dUSDZrekg4bjQ2RGFNYWdjeGZvWXRsUUVHa1R3clRmcFAyMmZLdFhsaFBOclpMdzJpdUtUSVp1c0ttZ0FySVNPa1dRNFN2MnYzRE4wdGZRbk93TjY1alU?oc=5\" target=\"_blank\">HPE skyrockets 30% on biggest earnings beat since 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3E5aVAtTVVUdkdOVDFfU1NKWWNWWGE3VXdHUHFCN2ZpN1ZDZ200WktUZXpsRnJzcHhqQ2xJM2JxTlpKNnpESXU2TGZfR3BiWlgybXFvREdZa0k1RGVwZ2M5RU04MkZid3RHdTVKS1ctbkpvaGNiQkxIN1ZWNXpaazJfREc2Y3B0emdnVGg4MmxrNktFOEU0RXczWGkwblRIMHk2ZGRxWWs5b012MnpIMDM3RU9oSlpa?oc=5\" target=\"_blank\">HPE stock soars on record backlog, booming AI server business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUctN01nQVRfOF9aNHJodFBBRTEtQ1hsQTRNOUlGaHdhWTRwS21tc2thY1Zfelg1YndlWmtJRVh3ZVVnd0pKbTVvVWFBSUFBUGtwaVRETjNOU0xkZTZHSXdvc1dLaVRIbDN5YjB4Zk9MTDg1ZWpmRXRkXy1zMENjdHZkZFNpNnB4endhRlU1V19vMGJDWjZESkNJZ19LNEdLTk9naXBjdjlQNzZJdmFsa1VQTXNPMUx2MXVkVVFTbnFyQVZZ?oc=5\" target=\"_blank\">HPE Pulls Forward Long-Term Targets as Surging AI Compute Demand Boosts Revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1luUS11WEFMNGZWWTJORWpwcTFSeG45UmVlUjNMb3d4c0F4Q09aUEgtb0lCSzRoN0Q4VS11X2wxU3hZaU4ySGxuV0c1S2FhVnZOaE0zSUdYZTJDa0l3dkVyVkcwYS1ENFFxWTY4c2VSQm01YWpGLWFzcG9reTBWOEhraUg?oc=5\" target=\"_blank\">HPE shares soar 37% on booming demand for AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2tZYUEzNk02TW9MZWJCeXBxbzIwelRZdEVXSWJFckRwTUVtcmFVS2pGalhHc2ZnYk9vZXdZTlFKQVZ1R2FxcDZZYm4yTmsxVUhiZERmUDZ1SnR1dV9xSkJIWG5ScDRlc3Y1Q0JOUVpzZ2lJVDc5TGJqUWhMbC14aEF1dzFoUHpwaWNPT1JHZ1E0OUNPMkk3bDlobkV2TDZTRnBDby1rVFFFNjVtMEkw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-06-02",
+          "headline": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Berkshire Hathaway is buying Alphabet\u2019s stock at a discount as part of a newly announced equity offering.",
+          "url": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Lacking money and support, Trump\u2019s Board of Peace stalls in Gaza - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnlXbnIwdVBfNDZSb0sxN2g5N3FVX0o3WG9hbXFjN3BnVzF6V0pEQjdKaENBX2cyZ0hHME56dXg3dGhSdXZBRHZqUldDdWowdkVXQlhZaWRUdkZLQlZzRFEwdDd5X0w4c2c0aFdQaHlwMW9IbHJseV9FQkg0RlNfNmFnRXBlZzJiUGJVVFJlOWRaNkQ0by1VMFJ4ZlVrcEluc2lhT0xfMi1iX3JlNEV3?oc=5\" target=\"_blank\">Lacking money and support, Trump\u2019s Board of Peace stalls in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1JMdkFfamRYS3VHeTRYY09XcVd1Q2ROckRfcnFkODY2cEJYcnBNSmNaSXd3eWJDckhoOHdLWE95RTltT0FEMDdnSzJrcEY2Y3ZUMmlGTGNBUU83TVZFLVRMdmxSanhVdnZ2Q3JQSkFzSGx1ZmNaaGlETmpEWk5sUzRUR00?oc=5\" target=\"_blank\">Donald Trump\u2019s Board of Peace fund is empty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZlN6NVFuR1h2VUVod2JUUUZtYk1fNmxDUDdZMWhVSzRMRGFRWDE4QVBUM25ZWFc0cFZKTjFMVjlTOVNENnNaRHdGUkFZWU5QWGJZc2w0c1ZjR0xqNTM4WnlwSE9iaGlJeHhtMXJDU21kdFZ2MEdXZG9VejhUcnpwMkdtLUlWVFlPQXNtQk9PQUF3V0szX3o5QmtMR2o3X3AydDA2WUZ1c2RDWlNCaEotdkhCXzZxLWxheDBycmZ5ZHZlLS1JeWZhWlV6WGJNeG8?oc=5\" target=\"_blank\">Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRW9VdlEtVUxqME5WeURCUXB0ZTB3dk9WVFY4aWxkcjVjTU9wLXNrMVdEYzZhS0wzX2hHV3pOVTlLX2lOOUdGdzNFckRaZEIwdEVzYUloYmFZWDAwbkxFSzJZY3h6aFg2YkI0c1ZySmdrR3FlVC01U01WY0U0R21VaEx6UFRPV0RnUVRmckdFeGhaU3R5UlpKWEFXTkxmQQ?oc=5\" target=\"_blank\">Trump\u2019s board of peace is flailing \u2013 just like the president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqRUhuWWJXUmlZTUphUnlzMzNIUGdBSkZENU5wa2JwdURtdGlpcXVoNG5kSTBXR2pDV203TWtPT3hDRHZrbE9rVDd0cC1oeHJiVWVEY1RmQlQ?oc=5\" target=\"_blank\">Where's the money for Trump's Board of Peace? : Trump's Terms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnlXbnIwdVBfNDZSb0sxN2g5N3FVX0o3WG9hbXFjN3BnVzF6V0pEQjdKaENBX2cyZ0hHME56dXg3dGhSdXZBRHZqUldDdWowdkVXQlhZaWRUdkZLQlZzRFEwdDd5X0w4c2c0aFdQaHlwMW9IbHJseV9FQkg0RlNfNmFnRXBlZzJiUGJVVFJlOWRaNkQ0by1VMFJ4ZlVrcEluc2lhT0xfMi1iX3JlNEV3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Minister due to speak after Mandelson messages reveal criticism of Starmer government - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yN1lRWEw1blEySVJPd20xOGI3T1V6bXpnUDZjcGhiNmI1UGdPZUg2RktaTXh5b0JCSDhGVF9HWnFobHpZaGhYME9zSUNaMk1QalNucQ?oc=5\" target=\"_blank\">Minister due to speak after Mandelson messages reveal criticism of Starmer government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVEZfalJDNWU1WG1xNEZaRUZ4VmhFYThqcndxZ2Y3TjF0UkN2YWc4bnZoNlN5anMwM3d6Ymh5alFRcmYtdGdqMVhfRGxBQmdERDdTYUxjaDYwUQ?oc=5\" target=\"_blank\">'Beleaguered and bereft' - Mandelson messages reveal criticism of No 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmpLSzdMSlpVczJsaWpZSnB2WG55V0FlbUsyMmNpNlVudWxpVl85ZnpfY2pET2V5eU9fMjdCNi1oZWtwZkh1X015LUZqUWNYWkFfeTBqS2NjS2FtdF80ME5yOHI3cl9zcTFfdDBFOF80MDViWVVjY05xMWxUTEM3b0M0aHFqS1dyVnduRzFEN01wc25ILVBPNDZWdDhUblg5RVE?oc=5\" target=\"_blank\">Mandelson files reveal a man for whom betrayal is a way of life | John Crace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGY2Nml0LXV4YUxVSUhKMTNRbFJGb2s2aW5hREJfcjAtNmdNUFUtWU00UE90V0plS2pwdjZFc0ZnZkFSd191QlJiUjNJVnNmczhvNzNoNWxod2RybWJnN0w0N2V2c1lvNzJNMHJwU0ZFd2dndXAzVTFJM1Y1bk9ncEVkWWJnQ1pWeVF2U1RONjE?oc=5\" target=\"_blank\">UK Releases More Files About Mandelson, Ex-Diplomat With Ties to Epstein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTVMd0RwVGJwbjl5RzdscVlLeTNXb25nTG9YUGpQZEJlZU92Zk5ycDRHcTVxcUFwXzEtaXBzaWt2bFBkME9HdkJ0LTc5YVY2UC02SmUtaHBuYnQtNnQ0cTFWVjZzR3ZqQ2Z0VmVKX01oRFpvbzdrVXpGSHgwd2VodGt6dFQ?oc=5\" target=\"_blank\">Eight things we learnt from the latest Mandelson files</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yN1lRWEw1blEySVJPd20xOGI3T1V6bXpnUDZjcGhiNmI1UGdPZUg2RktaTXh5b0JCSDhGVF9HWnFobHpZaGhYME9zSUNaMk1QalNucQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "When is Amazon Prime Day 2026? Shop deals June 23-26 - About Amazon",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "About Amazon",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBqLTR4U2JYd2c3eW14bHlOSXphblNxajlmZEdmdF9GR3ZfN3FtZ2pIcU9JSFRJSy15VWpBMkJGd19ITUotaXR3LVNGWnlfb3VnenJUeVpRaksxQVM4WFNaeGJVSWoxR0toeVlzQmxGemRXb3FI?oc=5\" target=\"_blank\">When is Amazon Prime Day 2026? Shop deals June 23-26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1qNGhxa0FqQWk0ZFJFZHZrR09kZXdMSUlGR1RJdEVtT2l2eEtuRTZfOThFR09fY1BUZlhRSWhSdHdyeUZ5MlRvRGFDUTF1aTlmbWhvakd0NXFNNU9fQ0JvcmtKYmJ5RDM2M1ZrTGUzdEJxeWFTTmV6Zkxyc3rSAYIBQVVfeXFMUEpvd0RSTFllNGVzZUNRVk1KcEJXUVNQdFpvTWtuTjhuTF9Fc1J0eE5keEhYOExYcE16TGhQME9WUXpucDRxSHRKdTdIMWRrM3gtRGxSTGJyRzdoUXhfQ3NYVGR0cEFWbV9lQWN1ampzWk1Ka3FfRlNtYlhDVkVfZXczdw?oc=5\" target=\"_blank\">Amazon's four-day Prime Day event starts June 23, as shoppers battle inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Pblh6XzB3d21oZGVfODkwUnd4VVp6em1yY3Y0QXpXUXhmZWt4Qm0yWVViaWRMOHd1dEMzOGdoY2lxRDhxN2N1Uk9YRmlLLXU4RmtLRlVjZk12MDFfd09QYkZQemVMaHJud1VtXzhVVUtwRVBPMnVvQVNBZw?oc=5\" target=\"_blank\">The 10 best early Prime Day 2026 deals you can shop right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNM3FQcTZwN0R0ZzA3NzZxcDZVSGIzb3diQ2o4dTUwajJrOE02TzNtVTQtNnJEQTBHcUJMakxXbWZ2VTlNQlNUc2swVWZDVzdBSFJnMjNORW9Gd2ZlMV82NzUzNGxBRXVRcVpuOUdpNzRjVzdHYndSSE5JdlQwN1htR1ZTVVctcGVwbDNsZTZnSEhSWmdRR0VHOW51NXdZa1p1QXlNSXptRHF4ZlB1ZXVLdW5RdVU1ZlBBbVlIOXI4bHZLeXRXLS1SLUlJcGo?oc=5\" target=\"_blank\">Amazon sets the stage for its first Prime Day in June since 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGdIVi1UMmR6ZGZNRXYwLTlYd1FrLTh6eFBSc3RpNWw2RU5WWHhLTEV5Wm1ZdmRyU2pVM0ZtTXp3YXNIbjlpRFhvWmhuajd4YUpRVE54cVctTXRYa0RBMWdkdmNCYWNzM0RRYWplRUZBbUhOa095bEx4NWNFRjV2bWhOQXVxNmxX?oc=5\" target=\"_blank\">When is Prime Day? Amazon announces dates of 2026 sale.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqLTR4U2JYd2c3eW14bHlOSXphblNxajlmZEdmdF9GR3ZfN3FtZ2pIcU9JSFRJSy15VWpBMkJGd19ITUotaXR3LVNGWnlfb3VnenJUeVpRaksxQVM4WFNaeGJVSWoxR0toeVlzQmxGemRXb3FI?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Ukraine war live: Russia launches one of the biggest drone and missile attacks on Kyiv in months - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGRBTno1akhxdE5Kb2ZMTC1MSFZSZkpGX05NM0dCcGh1c1B2RkV4akJYNEp1RlV3Y0ZoRmpDT0o3amlfcF9TTTRvR3hnRmNSQmFqWkpPb05TbFVnSzJhVUdjS3BQeEtxTXpHYUFBcERCRWNnQ2xXVjFuNk5jdDNrVU5SdE1YZlRxZDVLTjdnbWhKQUg1RHNERmQ0RHpaaVdLcThMeEw2djU2Zw?oc=5\" target=\"_blank\">Ukraine war live: Russia launches one of the biggest drone and missile attacks on Kyiv in months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSGZ4UU82X2plb3ZsbkI5c0VHMUdlWnRlUzlCTm5tNV9zZzkxbU5YTDduUnc2RHJ2UUQ2cWZFNzlNdVVJUXpkRmpQTUVVVGxnZWNHTExrWl9oZw?oc=5\" target=\"_blank\">Massive Russian attack on cities across Ukraine kills at least 13 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFhOMGdjbXZyem9NakdnelJxNXhGVG10d0FIR1FfQlBuZlY1ajZNem9ObGU1NmhTamNFdWROYTdTc3RZd1Flb2U1ODJtbE9oUG00YU9DVTdvMUd4X09uU3F5SDY5eXpmb3pydVQtZEc4M0IzeFNZQUJrVHFCMnFTRkl2aFB5U01U?oc=5\" target=\"_blank\">Kyiv hit by deadly Russian strikes, people feared trapped in apartment building rubble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTlzWmFtZjlhMTZYc0tjeWd3dkNvTS02RTFEVHl2dWVlSTdiYnRjSkxDZ0tTQVRvZWt2VWhMU2dSYnpBbGtZNVlBY3cxNTFTbklfY3FDT0F6RHZibnN5TVRwR0oyWUZ4TmpTemMwS1c0R1dRZnN6TjBHblRseHkzVg?oc=5\" target=\"_blank\">Massive Russian air attack on Kyiv kills at least 12 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlZPaXZOTkRTMXNWTC05UC1reEFNN3hDcFlZTHNhUHp3Tl9PMlFrV1BQc2R1Ri1TZVBiLU9icUtNZks5dE1WMFl4MC1ienY1SElqTFdPMHpNREdmTWNhWWtuTm5GaFg4b0d5N3RRNDB4ektFNk1YQVpHOGhaZl9sSUhhdHNmZXVlcTNicExXdGthbU54czE3ejJBY05hcDd2MXhnM1VuRDBvV2V2S0p2Z3JsX2kxaEVRcXc?oc=5\" target=\"_blank\">Nine dead and dozens wounded as Russia launches major attack across Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGRBTno1akhxdE5Kb2ZMTC1MSFZSZkpGX05NM0dCcGh1c1B2RkV4akJYNEp1RlV3Y0ZoRmpDT0o3amlfcF9TTTRvR3hnRmNSQmFqWkpPb05TbFVnSzJhVUdjS3BQeEtxTXpHYUFBcERCRWNnQ2xXVjFuNk5jdDNrVU5SdE1YZlRxZDVLTjdnbWhKQUg1RHNERmQ0RHpaaVdLcThMeEw2djU2Zw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "June 1, 2026 - Letters from an American | Heather Cox Richardson",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Letters from an American | Heather Cox Richardson",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rMTE4eVdENUdTYVJ6MEZaUVZvLWFPdUpKSGxPTTQzbkUtZ2FJa0JvSzZ3T210ZlpfajhVYVhnNms2WWkzandNcmp2Q2lFS2ZCVnRZamNQMFFON0JmZ3BVQktORURVZw?oc=5\" target=\"_blank\">June 1, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Letters from an American | Heather Cox Richardson</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPc29LT3hNX3ZPemoyOGhPckxpZTZONTRfa21jZE1xNE9aZVkyX251a3FIR0xBalhiOTkwdy1RbjBYM1ZNRVUwa0xDSmd0NmY1WlFkcmVqUWZmMGg3SUhNRTdlS0RQSGxmQkVvQTJqZ01hcFBmeGZHbUVISmwwaW9hOEg0Vmltell3MkJRclI1MUVjTDc3YUdSbXZmVDZlZw?oc=5\" target=\"_blank\">Five Things to Know, June 1, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Legion</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5uc25hT3dfdFRrc01NU2lUaE5aMVlucExHSkRrTmc1T2pVTG9NaE82QjBrbnpnV2kyVHA1TVRuaFU1bWFhMUNGWHFPVWRXc1Y0NFEyenJyNkJiQm5QX1NvOHQzbGw5NHluVm5ZY1ItUEdXejBLWUE?oc=5\" target=\"_blank\">Peace Deals, Primaries, and SCOTUS: What to Watch in June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wake Up To Politics</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5lN2p4OFZTYi1QenREd3hxSFU3TGJfZGZSVV9SbFlfY0RUMEpjV1I5Z0dxbEl2RVo2a0F1Yml1WDRLcE1Bb2daMi1jcEI5YVZWU3BKRVFYMTRwSFVmenpZSzdDcV95Q0hDWUFLeTJaVG5tRUxoYnc?oc=5\" target=\"_blank\">Morning Briefing: June 1, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA3OXpDSjRscGZQeFpiUVBZOEw3TGRBUVBrWWRTLW9SdWlTYXgtd0lwWXd6MzNpcl9OMnN4QUJWdUJITUF3dTdFdm9OVjUyVFVNQmgyTFZ3RnlvS3NyQ18yUjc1LWZvSERndVgtcXo0Zw?oc=5\" target=\"_blank\">Early Edition: June 1, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Just Security</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rMTE4eVdENUdTYVJ6MEZaUVZvLWFPdUpKSGxPTTQzbkUtZ2FJa0JvSzZ3T210ZlpfajhVYVhnNms2WWkzandNcmp2Q2lFS2ZCVnRZamNQMFFON0JmZ3BVQktORURVZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Iran Embraces a Forever War - Foreign Affairs",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Foreign Affairs",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1UdDJvdkFKRk9ueTNMS2F5aUVYN0lxSy1QM2F4eUJ1NWYwYjVjaTMyMVFGamdsMGxqOXF6VDNjUm0wUHBfLV9JaHVnR28tSHlmQktyMUloaHJOcDdIZ2JFQkc3N01VbjZnakEwa0Zn?oc=5\" target=\"_blank\">Iran Embraces a Forever War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QRVFvVWpHR1RqYlNsZnlVNklWVmxRV3NkQzR3dVNMQ2FtSllyNDZnTzU2RVJVVFdnQU1wQjFqVF8zMkwxSjFwYVRESjlNRE1YNmlibVdqRXRlUQ?oc=5\" target=\"_blank\">Bowen: Trump needs this war to end but Iran is not backing down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Tmtfakc2d3AxeVVBQlc4MVlSdHY5d3FzQlZPTzRkMmlsQXloYXJIYks3RjNITjhDVVg3TXdRUjZoVEdFblNDdkJSaWFqWjB1ZTBuWVRlZklqdW9haWVSamdHbw?oc=5\" target=\"_blank\">No shots fired since the ceasefire - opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0dGeV9HeVFMTU16ZXhjeTFybkV2Sm5uSktQVU4zY0VQOEdRUk85YzNUSVR3R2N5dUI0c3pma1JNdk5RWmhVc0NULUFKdklhVlZmTlIwTXJTUWp5UF92YjZlWUhzMU1iZHlOaEthenVxZUpvcWk5djlpXzZFOXdXZVBocTJNeGR3enNuYVdtdXp5X29KODBISTgyYw?oc=5\" target=\"_blank\">Iran will never back down from confrontation with the U.S. and Israel \u2014 CNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3FWN3A3eXdmLVNQalhmeVExLU9zcTE1TUMydDluN0FzOWE3azZtazZsSEx0S2g0MVc1N2t5bTZVQzhKbzgxaWhndUI4NmJtY0w0QTREQmFYZ0JyN0J4VmpvaTFLd3pHcW5uc2tOQVlMQUstYUhFeGI1ZzFtUGYyUVVR?oc=5\" target=\"_blank\">BBC Reporter Condemns Donald Trump's 'Increasingly Confusing' Iran War Comments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UdDJvdkFKRk9ueTNMS2F5aUVYN0lxSy1QM2F4eUJ1NWYwYjVjaTMyMVFGamdsMGxqOXF6VDNjUm0wUHBfLV9JaHVnR28tSHlmQktyMUloaHJOcDdIZ2JFQkc3N01VbjZnakEwa0Zn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Andrew Left Found Guilty in Case That Spooked Short Sellers - Yahoo Finance",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlRtZDY0MFhvdUc3SDhJLTBZLUZCcnI3c1ExeG5COWxRSDdVREcwbVJyNEJtQUNxa25CZVNzN0dXb3d2UHRhN1BmdndnbFQxaFpGRlBkQXlWeXFmMF9WU3hRaXcxR0puZlB4UExVY2UwTEpCSTRmM0t6SWFaWnA0bGZ2UktNelBvYTd5dHM4dkplejlvZGVTR3VpUG9feHdqOHV5VGc0ZjA?oc=5\" target=\"_blank\">Andrew Left Found Guilty in Case That Spooked Short Sellers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lnX0pTZ0VSSDUxSDdYc09hb2Z5Z0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlRtZDY0MFhvdUc3SDhJLTBZLUZCcnI3c1ExeG5COWxRSDdVREcwbVJyNEJtQUNxa25CZVNzN0dXb3d2UHRhN1BmdndnbFQxaFpGRlBkQXlWeXFmMF9WU3hRaXcxR0puZlB4UExVY2UwTEpCSTRmM0t6SWFaWnA0bGZ2UktNelBvYTd5dHM4dkplejlvZGVTR3VpUG9feHdqOHV5VGc0ZjA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "\u2018A shock to all Lebanese\u2019: Israel sends a message as it takes ancient fort - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcllpVVNlWTd2Z05ZbFo1SVJmS1hzU1lLc0ZpQWhtbHVLZGE5a0xxUENsSDlCMk1Ja0Q0WmRlN2hUYlhTbjRyUWtjNkg2NDRVM2dwNVZQOUtPYUx5UW9vUFBvZTAtOS1xMG56OWtxaXFpcFVqYS1na0JtUFpZNTUxbTFWWm1wcG9iQ0xtYXVLNDZzb2Fj?oc=5\" target=\"_blank\">\u2018A shock to all Lebanese\u2019: Israel sends a message as it takes ancient fort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVo1X1doOVJXTjdTcTJkbnFNLVV2SGVuR1ZLc3pVdUpMVUpLaVU3OE9wT3JNc3dLYUxkX3ZRbmJpTmZoZmpqc2ZiN1hiemhBS0huR3JJUWwzYVp4dWxTamhGeTF3QS10NFB6bE95djFXMm5aVzdvSjZBRVBzWW1WNXFraU96TWpHM2FUeTJnZTlhWUxoRU5xN0VBaw?oc=5\" target=\"_blank\">Netanyahu Orders Israeli Military to Attack Beirut Suburbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2laVWtfVDhQYzJIa3RPMVdpSWpVRy1pV1B1R3RUVFU4WUYwWmYtRk84SGkzVXNjdFFYY2dIeko5UzVneGtjUVVtMlJQY3c4WVZMbUJxREIxS2FudTZnUEF5UG1paVdta0JXWTdFbHJ5UGozZTBtTk1qYlNRMkNjWWhfT0tPNlF0RU96YW1kU1loNnl4Q1U2WEF2WUlQOW9fbktDRGx6eGZTaWhoV1NBd2NiWHRyZHc?oc=5\" target=\"_blank\">Lebanon crusader castle seized by Israel a symbol of bloody history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVm1FZUJVREJqeUotclZ2UjhMRXNNa2UtQVZUZnQwZ3Y0UlRmSVIxeDRwa2F6Zzg5SjhXU3hRamJXZEtYcnZRQWhFdUNzcjkzQ05jdUNJNi13dw?oc=5\" target=\"_blank\">Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQXVtbDVLcDJRTGZjOUpuc0k4ME1TUVpGOGNrZHlPM3NHbEd6cU1LUzkwMHNCSmMtazVRVnFJa2doRFZkMmluT0NHUTU3OVFfbkdhazdKYkF0cEEyZ3U1SHo4Y0hGS3E0Zzdtc20xbk0xeURwWkJzU3RuUTdrdDNNMGhMWGljRHdlSUxZWXhoLVZmamg4X1NmT3lUZnBzdVFnb0FGY05UWTNIN0JlUWpKYzZrN1JzNWJOV1pIZUp3aWc3ekppREg4RXBwUkdlU3pUVzVkcnV2cmdacGJWc2dr?oc=5\" target=\"_blank\">In Iran war\u2019s shadow, Israel\u2019s renewed Lebanon campaign risks repeating failed lessons \u2013 and occupations \u2013 of the past</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcllpVVNlWTd2Z05ZbFo1SVJmS1hzU1lLc0ZpQWhtbHVLZGE5a0xxUENsSDlCMk1Ja0Q0WmRlN2hUYlhTbjRyUWtjNkg2NDRVM2dwNVZQOUtPYUx5UW9vUFBvZTAtOS1xMG56OWtxaXFpcFVqYS1na0JtUFpZNTUxbTFWWm1wcG9iQ0xtYXVLNDZzb2Fj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Asia stocks mixed amid Iran uncertainty; Nikkei, KOSPI slide from records - Investing.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.012658227848101266,
+          "source": "Investing.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkVUOG9zZGlOUVNJQmtVTVlLd0Nfb1ZicWlOYXFTOXpwNU9LbkZnRW8xSF9zRTZlVUFnXy1sUUZRQXVQdHZwREUwYjJLWnA2R0c1VjRpMDJIbUsxVEdzNU5jVFRIejg0ZE1waURMRGRGdGhRYnJ0bEZXbnp4OU1sU2hZZHJQS1k4QWpOVV9OV3M1YlZDUXVfdGdfZkhIY1VFZVEzODk0YzdnYzQ0aWJvcUoxU2ZhZVpzeWd3c1VRaDVjUkZ6dC1V?oc=5\" target=\"_blank\">Asia stocks mixed amid Iran uncertainty; Nikkei, KOSPI slide from records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdoZ1Q1dzhvd1BRTU5aOF8yeWhTbUZla1A1MzZucXd1ai1Ud0xSemdBOTUwNXVPc3NRU3p6NmE1YlhUYkVZWW1ZRFg5MHh2Q1ZtaTdZUERPNU5Xb2doMk95ODlvczhLX2RPOE5qTGxyaVZZdjNBcXVmQUEzcWhHc1N2UQ?oc=5\" target=\"_blank\">Asia stocks recover as AI optimism offsets Middle East anxiety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVBudWh6TlRWNUZQRTZ0Mi1ZbDFBdUtUaG1VU2FXaVBycUo0dERfbEtITi11U3NmQlEtbUVDMkcyRmhodG5BM1BZQjQ4ZTZ3Y0d2cWdkTmt4a1dKNzdUMEpHQjU3VV9ZN1pVZjZzR1ZTR0VoLWRVUGZoNTRWRWtYbktvUG9LbnNhVW04TjJfc0RpTk91MTNDSWJvbE5MWEtNZ05MQng0U1hHQUFLd2ZEa2Jn?oc=5\" target=\"_blank\">Oil Holds Gains, US Futures Slip on War Confusion: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGpFQ2twcEo2WktkeUhjNEhRTTBIMDBYSjRHVW1UbWlSeV9HcWhOVjhEd083Q1o2MXktNEJZLWRTbUVzY1g3OVg3QWx5UkVxbnVkdVl4VzhQc090Q0M2TTVTRHdpRDdCM3ZIOXlkN0VfUkFyMVBwQzZxUFlaQlVsY2NPbzNidGh3RFRBRGpEcnZyTjBTX1d5MmdqZnPSAaIBQVVfeXFMTU9QNDh4U1k2aGFsTEdnYVVWa2JYS1JWTGhWNGpHQ0JKY2ZRTzJydVJpZWdjT3dJRE9QYWhDdy1GbVBGbklEZDFHLU9KOHh4bGRLQVB4WGw0X3pYdXJYSHIwNXB6RExCUHJxMzBtNlVvcTVoU3ZUMkQtOWhOYTFDNTdrWUU1QmM0YnkybFg3NzFaUnllWVZjU21ZY19MOUZUU3lR?oc=5\" target=\"_blank\">Asia-Pacific stocks mostly lower as Iran war uncertainty keeps investors on edge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFdUajV1SEw5WDNLeHpsVVREQVpJT21sc3F3WTlnN0hJTDZ2MUxiRmw1RlpQaFJoVzhBZm5heDJfZHFzSFVNc05naHNiWjJpUjVucjVOOHR3TnhLWkliajlZdDZJbTlKWEk4blVnZ3JDdnpURFliTTdrOVRmUVRLSlhNYWpBOVZTY1BkTENGU2hlQW05Z0dLT09HMGl3bzBaeDNJLU5R?oc=5\" target=\"_blank\">Asian shares mostly slip as latest fighting undermines the US-Iran ceasefire.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkVUOG9zZGlOUVNJQmtVTVlLd0Nfb1ZicWlOYXFTOXpwNU9LbkZnRW8xSF9zRTZlVUFnXy1sUUZRQXVQdHZwREUwYjJLWnA2R0c1VjRpMDJIbUsxVEdzNU5jVFRIejg0ZE1waURMRGRGdGhRYnJ0bEZXbnp4OU1sU2hZZHJQS1k4QWpOVV9OV3M1YlZDUXVfdGdfZkhIY1VFZVEzODk0YzdnYzQ0aWJvcUoxU2ZhZVpzeWd3c1VRaDVjUkZ6dC1V?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Blackstone closes its largest Asia private equity fund at over $13 billion - CNBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGRHaHpTUG8wOFFySkg5UjIxVmtSNTAxdUR2M0ZKSTFJNjZqMk5PdUlNR3BlMFRDa3BoRWhNS1g4QU5lVUw2X2pXeEltYlJPbnJnT0FhTmVuZFdGd2RWVXJmY3FQZUVENkpSOC1STjlzQW5jM2Z2eERkcnBCbXF1dDIzQURzMTTSAYwBQVVfeXFMTUc1OWVrUWprclNqUzhvWF9hMTVYNFFRRjlvRWhGVnREQ0hQUTNHRUxXMmVweE1ncG00bzZjcmM2NmVKV0h6dUQzeXQ0bFVhenhqdWRzLXNnb1lDMVJlQW44Q05FZDhLVndib19lR0lWbnVEdm8xOUVjRHdDM2Y3YmZybUhFc2RaUng1Z2Q?oc=5\" target=\"_blank\">Blackstone closes its largest Asia private equity fund at over $13 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXhoOTkzbGVyN0pFbk9xRDMwZTgwWjFmbElRLUZ0RVMzSElGdHFhOVp1S2l1enR3R3VBUjM2TENncE83U3hhUUh1dTFNcHVWckV3QTJNamg5THJwZ2V0VzFqaWFGcGxvbjh3YlV2RUw3djdaRmFQMkVQR0ItRTdDSTcyVWhyeDZzanNiczR6MmRYZ1J4ak9DYWVyWGQ0NTB1bmUxRHV1RjRTTGZwcmkycUEzdDNtS0Rz?oc=5\" target=\"_blank\">Blackstone Raises $13.1 Billion in Its Largest Asia Private-Equity Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHJmaVpIbnFiaEp6eXR2UFdXTWhHZ0I4ZXdQZV8yazdEQ2lhOU9xZkNBTEw3d3Fpa2dFSVVkTGRFRkVhc05lQzJLNzJRVjJMNlFwUExUQlZOS2ZMa19SUDZvOGtGN28zdm53TTJuaHNMeWVJMDNfcXFZZGcxN3lxc0lvUlN0bFloVk9Uby1GbnlUYnFrd2tRSWRYVVUtYTRPajA4UWRTOENnRW9hZ2c?oc=5\" target=\"_blank\">Blackstone Raises $13.1 Billion for Latest Asia Buyout Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmVLc0lzS05pb0UtTFFFdUFlSHpjTndJQllEd1Vod2Fha09udFRNa3MzZ2cxUDFCbjYtUlZBQmhHcFlBbjRHTTR5bmhHRjZXNTZCMjBoVkx6Ml8ybWw1d1BpUHNOSEVSeTFwRFFMVUh6QVp3dDg1NFotUUhrWVIyQ1ZSbDJDbTRNU0ZFejRQVUR5WXpTdWVJRHpTd3prLWpxbVpRRFAyWkVhSDdESzFmZjFITUJ1SjlxNmcycG53?oc=5\" target=\"_blank\">Blackstone raises $13.1 billion for its largest Asia private equity fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNGVDSUdXdk9kSWQwOVBHOVdlbk8xRGxaVmF2VVZSMGgyQ001MEoxVzhNSVMtSEdzck9NeXB0Q040ZW9MeWRQOXptVUdDdms?oc=5\" target=\"_blank\">This article was reported on \"Radar M,\" a paid media outlet specializing in the capital market of M..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub9e4\uc77c\uacbd\uc81c</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGRHaHpTUG8wOFFySkg5UjIxVmtSNTAxdUR2M0ZKSTFJNjZqMk5PdUlNR3BlMFRDa3BoRWhNS1g4QU5lVUw2X2pXeEltYlJPbnJnT0FhTmVuZFdGd2RWVXJmY3FQZUVENkpSOC1STjlzQW5jM2Z2eERkcnBCbXF1dDIzQURzMTTSAYwBQVVfeXFMTUc1OWVrUWprclNqUzhvWF9hMTVYNFFRRjlvRWhGVnREQ0hQUTNHRUxXMmVweE1ncG00bzZjcmM2NmVKV0h6dUQzeXQ0bFVhenhqdWRzLXNnb1lDMVJlQW44Q05FZDhLVndib19lR0lWbnVEdm8xOUVjRHdDM2Y3YmZybUhFc2RaUng1Z2Q?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Hardening views on migrants push Europe toward Trump-like tactics - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlM1M3h5Zjc5Q0J1b2tURnVoQlBOS0o0SkRmaEhLMEV5RmhkMU1rd3ZyTExkWUdlMkhOaU01cnV6MVYxZlJrTVpHZGtZcTlQOU5wczROWllNek1qRVJBMEJTd2o5SUp3Ym1UOFdZOEd3RjJwQ3cyajJCcGUtWmRhdzBMX2FxZVBPT2o0dkNDZlRsZVlqY29qNmxRUkZjSGdIQWh4OUZCckgyaVBjMXUyZmkzTQ?oc=5\" target=\"_blank\">Hardening views on migrants push Europe toward Trump-like tactics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTlNekRNZ21Tc3JIeEFKRm5vNHFnZkJBUmVCQmVQUGs0RTRBMWNtcl9UUFdmT05nZnlJUVk0cXpteTJOYVhHYVl2YkxpTm5XdVlNVVBiUy1pS2poUGtYZjB3aUZDWEtKelY3RkFHUDUyZU9sQlRMUlRmWTVHZDBadWc3dHY5Nm8wMVYyWVdkY1RKSzBZZ00wdmJUVUFET3pGdzVsR2NRMA?oc=5\" target=\"_blank\">EU paves way to allow migrant deportations to centres outside bloc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNKSEgzZXdHZmNmNGI1NE1ZMV9vZ0l2NVVEUkFyTDZwSkp1ZXc1TlEzTGo4S2NkTlpaZXJvVlNKaVZzR251TTlDTHBGV2pyVnEyLXBGOGx2LU1nLUxGakRnVHZfZnFlVjR0X0Rzd1RDaHhtU3VIWHlqQjV0VmxjcTdDM0JVWjlDZ0JQc0lMOUVuOG9QZDVHXzNkV0hfcXRxSjItRkJ4eW44VnRJVnc3ZEhQdEsxSFltaU9VT0RZbw?oc=5\" target=\"_blank\">EU approves strictest-ever migration law, including return hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0FhSWJGRXBxTTZsQXBTS1p2V0hPNW4tSDNuX1dWOTN5SjN1TlM2T3JWNWRRXzAtSG9rZkxMdXZtQlBqMmk3ZkRoX3lhODdOUTlBM1psSzQ3VDJKNHhWakRDVXk0NFlFeUFEYVdXT3RIUVBLUDY1SVpGX0NPM205NjFLQzR4T1MtblZmSXp2emd6LW5hYkxLMEZEWl93NTlPckE?oc=5\" target=\"_blank\">Dutch government gives green light to establish migrant \u2018return hubs\u2019 outside EU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmxkWC1mRURsT0QwbzUtOS0xYlJkQ3FlVUhrSGhPWnRnYU8xUk5RbGJhTGEwRUZRYmpZUVIzV3NhUEppVGVOTFN4Qm1CZTBfcUtsSDNVT0VUVHoxdnZKTWtNOS1ZQUd1eERFT1k1TnM3a1FVVXBVWlhwVXNUR0pxQWJIQWFFLVROMUVIWHFwTUsxZURWcUpQeG9fWGQ3OHJVckxKc0xFMWJWcUg5c1VQZXloanNKVW1t?oc=5\" target=\"_blank\">EU negotiators agree new migrant return law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlM1M3h5Zjc5Q0J1b2tURnVoQlBOS0o0SkRmaEhLMEV5RmhkMU1rd3ZyTExkWUdlMkhOaU01cnV6MVYxZlJrTVpHZGtZcTlQOU5wczROWllNek1qRVJBMEJTd2o5SUp3Ym1UOFdZOEd3RjJwQ3cyajJCcGUtWmRhdzBMX2FxZVBPT2o0dkNDZlRsZVlqY29qNmxRUkZjSGdIQWh4OUZCckgyaVBjMXUyZmkzTQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "UN experts warn against \u2018surging Israeli settler terror\u2019 \u2013 as it happened - The Guardian",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.05128205128205128,
+          "source": "The Guardian",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTFRYUp5ZHhXTHJtSGNTOEdmdHJtX2ZHX0ZjXzRDVENENGh1cGtiWVhwc081b3JlZV9jWmdTX0RINEFBWGlnckxqVjhyWHdWZUdGTlhoRVdxVDJWSURWVW9WOVJCZW84TUJRcVFkRGRHV0RfSWVLZHEzYko4ekZ2NGM4dTlXUFlMaGNQOGpLZ0E4b3lkNFlycFFmM1lMVGNrNUhIMzlvaXlRVXhXVGhpbVpfZ2RFRUlfRFlkcXdSbTZlSGROdDU4ckdSblp0UQ?oc=5\" target=\"_blank\">UN experts warn against \u2018surging Israeli settler terror\u2019 \u2013 as it happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5MzgyaUVSR1JXVlZNZUtheVhpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTFRYUp5ZHhXTHJtSGNTOEdmdHJtX2ZHX0ZjXzRDVENENGh1cGtiWVhwc081b3JlZV9jWmdTX0RINEFBWGlnckxqVjhyWHdWZUdGTlhoRVdxVDJWSURWVW9WOVJCZW84TUJRcVFkRGRHV0RfSWVLZHEzYko4ekZ2NGM4dTlXUFlMaGNQOGpLZ0E4b3lkNFlycFFmM1lMVGNrNUhIMzlvaXlRVXhXVGhpbVpfZ2RFRUlfRFlkcXdSbTZlSGROdDU4ckdSblp0UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Lacking money and support, Trump\u2019s Board of Peace stalls in Gaza - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnlXbnIwdVBfNDZSb0sxN2g5N3FVX0o3WG9hbXFjN3BnVzF6V0pEQjdKaENBX2cyZ0hHME56dXg3dGhSdXZBRHZqUldDdWowdkVXQlhZaWRUdkZLQlZzRFEwdDd5X0w4c2c0aFdQaHlwMW9IbHJseV9FQkg0RlNfNmFnRXBlZzJiUGJVVFJlOWRaNkQ0by1VMFJ4ZlVrcEluc2lhT0xfMi1iX3JlNEV3?oc=5\" target=\"_blank\">Lacking money and support, Trump\u2019s Board of Peace stalls in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZlN6NVFuR1h2VUVod2JUUUZtYk1fNmxDUDdZMWhVSzRMRGFRWDE4QVBUM25ZWFc0cFZKTjFMVjlTOVNENnNaRHdGUkFZWU5QWGJZc2w0c1ZjR0xqNTM4WnlwSE9iaGlJeHhtMXJDU21kdFZ2MEdXZG9VejhUcnpwMkdtLUlWVFlPQXNtQk9PQUF3V0szX3o5QmtMR2o3X3AydDA2WUZ1c2RDWlNCaEotdkhCXzZxLWxheDBycmZ5ZHZlLS1JeWZhWlV6WGJNeG8?oc=5\" target=\"_blank\">Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRW9VdlEtVUxqME5WeURCUXB0ZTB3dk9WVFY4aWxkcjVjTU9wLXNrMVdEYzZhS0wzX2hHV3pOVTlLX2lOOUdGdzNFckRaZEIwdEVzYUloYmFZWDAwbkxFSzJZY3h6aFg2YkI0c1ZySmdrR3FlVC01U01WY0U0R21VaEx6UFRPV0RnUVRmckdFeGhaU3R5UlpKWEFXTkxmQQ?oc=5\" target=\"_blank\">Trump\u2019s board of peace is flailing \u2013 just like the president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqRUhuWWJXUmlZTUphUnlzMzNIUGdBSkZENU5wa2JwdURtdGlpcXVoNG5kSTBXR2pDV203TWtPT3hDRHZrbE9rVDd0cC1oeHJiVWVEY1RmQlQ?oc=5\" target=\"_blank\">Where's the money for Trump's Board of Peace? : Trump's Terms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1JMdkFfamRYS3VHeTRYY09XcVd1Q2ROckRfcnFkODY2cEJYcnBNSmNaSXd3eWJDckhoOHdLWE95RTltT0FEMDdnSzJrcEY2Y3ZUMmlGTGNBUU83TVZFLVRMdmxSanhVdnZ2Q3JQSkFzSGx1ZmNaaGlETmpEWk5sUzRUR00?oc=5\" target=\"_blank\">Donald Trump\u2019s Board of Peace fund is empty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnlXbnIwdVBfNDZSb0sxN2g5N3FVX0o3WG9hbXFjN3BnVzF6V0pEQjdKaENBX2cyZ0hHME56dXg3dGhSdXZBRHZqUldDdWowdkVXQlhZaWRUdkZLQlZzRFEwdDd5X0w4c2c0aFdQaHlwMW9IbHJseV9FQkg0RlNfNmFnRXBlZzJiUGJVVFJlOWRaNkQ0by1VMFJ4ZlVrcEluc2lhT0xfMi1iX3JlNEV3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Stock futures slip after all three major indexes close at new records: Live updates - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.047619047619047616,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5\" target=\"_blank\">Stock futures slip after all three major indexes close at new records: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxPeTlRWURQT1B4cm1PbjZaNnByNXdyUTBlekJNUndmeUplNXQxSUZ2Zmd2TTlLNS1FUGRDTGNQMkE1RHhZOTc2QWtoejBLUi1LSHVtRlExdGZIbkgxcmpZaDk0MVN0QmJzNTlXYmF6Z0p4b1VUc1ZFcnoxdEZQQmN3MXZiYUF5LWttaFVDdW54RlhWemUzZ1E1Tm00SWRpNC1IR29zQUJHTzZzRnk1bzNmRzhiTlBxZlZ1OTlpTHNHRl82bmRCU3lTUUVaLWJRLThNM1I5VzFZNWdiZkZnaXVRSld1dFJ0RHprczBZOTdtNGxaemk0WE5iU1VJVE9ER01LX1ZBejlkcEJNbEhXeXp4S0tKTURFdVQwWXp1UTU0Wk03bUpxWlF0Yg?oc=5\" target=\"_blank\">All three major U.S. stock indexes end at record highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVhRQjNxa2xEU2tTckFGTXlpdUlpTDhoVFZPYlhlNnJnc0RvQ1BQa2tqWDlWanpKLWVhSHhzZnFwMUtVYU5uVXlqdDAwSHhYaFd4TkxnNEJkWkNaSTRmQ0dHamd4OEpPOHg0QUlEYVNQbllKYjVJS01CN3FBSThHYkpyeTQzbGowMklCeHF4aXh2X0NlMDZCS191aWFieDZJ?oc=5\" target=\"_blank\">Stock Market Jump-Starts June Trade At Record Highs; Nvidia Climbs On Windows-Laptop Entry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxQSktnOHJnNy01ZHAxTVlqbWtTVXZBZ2NxUGYxQ1pMaWE0UjFqT1ZVbzVYeGlHbnJMNXRha3RtRUptQm9jYktMZHI3VmpYWEVvQk95S3BidHRYRWlYVWJ2Q1hZMHhmWWItajhfQnVqdFVLLTdDMDVDX3N4Ri1DVkh2R0VBdkszN3dsU1ZaeDl3TzFOdGFValV4a1JIYkx6d29vZnlZS0Z5T3RWZkpZaVNHZVhwWkZORHd1R1dXRjJ2T0dGR1JXVklnLWlXdFZYZlQxZjBmUjYzR1Q0ZEdJallwOXJqUDNucGVfbUdUV2lEZEhOX3Z2VnJVTTVRUkdCdHBLc2tNemEwTGtIaUdkY0lQR2c0Um9DWnQwRUtBdzB0dGtaTFBCV1pFSVN6NzNnblJGbXJ3NUhsblJCQlRnVlp4NU05RVJ0M1ZWaVE?oc=5\" target=\"_blank\">S&P 500 And Nasdaq Rise To Record Highs, Powered By NVDA Gains Amid New PC Chip, While Trump\u2019s Positive Commentary On US-Iran Supports Dow \u2014 NVDA, ARM, MGM, ZM, AMC In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDRqa1pYOVlGNFl6V0U1T2ZCRVFlMFR3WldWeFVvYzI2X0Z0SE44WGl3OElvUXA0N2xHUFFkR0ExSmY2T1N3em1kTG5CMXB5UzI0SDZ4SndsSjRfaFFDS0dRTDl6TDdPbFZRUFRJY09rZkdJdWMwQmJPQXo3VG5tbmNDMFdIMjJFYlJkVG5TRzlrVlFnTmE4cjd3?oc=5\" target=\"_blank\">U.S. Indexes Closed Up Monday; MongoDB Climbed Highest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "8 crested ibises released in Japanese town decades after extinction in Japan - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2JyZ0Ffc3lTcmRXN21LeF9ZRTN3TDVBeVlocGFMZ1F3eWMtRjVBaDNrUWwtRzFLVjZIOU1VQmhtcEhhZUx2S09xd3RRSUNhb1p5dEQ5Q2k3VG9Sa2Y3cm9SV201NWpmRExTTm5FR3liRGhvRjdudGlNbkNaWmNOMVYwNjFFaUExWktlc0swNA?oc=5\" target=\"_blank\">8 crested ibises released in Japanese town decades after extinction in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LRzY3OUhrWjJVa3V2WDluZEFVQW1CNERyMDZKRWtqMXI3NXNrVU9SaVozUG1vMi01cmsxY3ExM0Z4NGd6eTlxdl9haDRZVU9TTUtoc0UyNzRGLXBMZFhZRTdLaUZRRUxfaU1wMnNpQ0JNMEM5elY4TQ?oc=5\" target=\"_blank\">Crested Ibises Get the Royal Treatment in Japan as They Fly Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tRDJvOWpKSU1XV3dKbGhydmllcDhDanI1aF9yRk0xMk5BbDdYXzVheXRkd2dfMG1WZ09QREcwZHdBUUEzNXU2cGJaZW5JVjY2ckVMVFNLX0ZLV3hUZFNsWEtn?oc=5\" target=\"_blank\">Crested ibises released into wild on Japan's Honshu for first time | NHK WORLD-JAPAN News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nhk.or.jp</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWQtV2VOTXBFaVlnT2Q5Z29SX3hXNmlaSXJsZjdsd3FmRVR0Q2ZWLTVjeWowbVRZOUo1akg5QllZWjNfX0Y2OWdFZnBKVWpIMW5DVUQxbTV0X0xZQnZ5QnZZNFBfR3RZWER4RElUd09MSmoyanRNSFVTUHNqbmR4SHFvNWpaOWZ0N2xqM3FZYXNsMlpWNDlUbVVFMHBwNjhPU09XSGZnU2taZU51bEtrUw?oc=5\" target=\"_blank\">Japan's main island gets 1st crested ibises in wild; 1st time in 56 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Japan Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVM2c2pad1piQjRGVUpkbnVla2dvRkxSMk80TU50RGlyYWhmRGsyUF9XSW03aTdzdXBLdENMc2xjdmIwMzlPanVjYkZsdlQxTnkyclpSNzN6OXRRX2pHbzZsRXJKUXFFWVJOckJCaUdiRTc1SENmRlZzcER1RUxERA?oc=5\" target=\"_blank\">8 Japanese Crested Ibises Released into Wild on Noto Peninsula in 1st Honshu Release as Part of Govt Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2JyZ0Ffc3lTcmRXN21LeF9ZRTN3TDVBeVlocGFMZ1F3eWMtRjVBaDNrUWwtRzFLVjZIOU1VQmhtcEhhZUx2S09xd3RRSUNhb1p5dEQ5Q2k3VG9Sa2Y3cm9SV201NWpmRExTTm5FR3liRGhvRjdudGlNbkNaWmNOMVYwNjFFaUExWktlc0swNA?oc=5"
+        }
+      ],
+      "company_exposures": [],
+      "company_profile": {
+        "industry": "Internet Content & Information",
+        "provider": "yfinance",
+        "sector": "Communication Services"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 2,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "IAC Proposes to Buy Rest of MGM Resorts for $48.30/Share in Cash >IAC MGM - Moomoo",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0625,
+          "source": "Moomoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEZQSGpRVTQ1VEVJTi1pV0pZbDYyTktfYTVINHp3RVNfMzVVQTRSczFZTlhFR3oyeklwM0luTW1yU3hCczFCSWxMdzIwT3FDZnlOdWV2cFktNVVmNG1vd1VabWNkSjJsVTFoaXYyNUtiS2dfMV9zNmNYUWFQTzg0SlpLOWtwNzlvSVV4eV9oTmdHMU1GanJGTHpyLXloTHJEa0h2VWd6TXNDRXBubkpUUm9CMEo4VzJYX3BwWHNsdXA?oc=5\" target=\"_blank\">IAC Proposes to Buy Rest of MGM Resorts for $48.30/Share in Cash >IAC MGM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEZQSGpRVTQ1VEVJTi1pV0pZbDYyTktfYTVINHp3RVNfMzVVQTRSczFZTlhFR3oyeklwM0luTW1yU3hCczFCSWxMdzIwT3FDZnlOdWV2cFktNVVmNG1vd1VabWNkSjJsVTFoaXYyNUtiS2dfMV9zNmNYUWFQTzg0SlpLOWtwNzlvSVV4eV9oTmdHMU1GanJGTHpyLXloTHJEa0h2VWd6TXNDRXBubkpUUm9CMEo4VzJYX3BwWHNsdXA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "MGM Resorts Could See Value Upside From IAC Bid Despite Valuation Dislocation, Truist Says - Moomoo",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Moomoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQnd1ZHgtN1o2VmpZa2NpRW55QTl0VHN4Z2M3NWRHNkRmazFhQjYyN3lzMWNTbEFPTzRLd2pwcmdLMGJyYzJYeDc5eWJCOTNLajg1T0RpQ0tMSEdmcGpKLUtFbjNtUmFIU09TNmNZdFR6R1o2QkZZWXJtU3VUQ19CV3RTRDlsT0tsaTF5VzRvZkZreEYwVVdHZnVRM0ZaQQ?oc=5\" target=\"_blank\">MGM Resorts Could See Value Upside From IAC Bid Despite Valuation Dislocation, Truist Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnd1ZHgtN1o2VmpZa2NpRW55QTl0VHN4Z2M3NWRHNkRmazFhQjYyN3lzMWNTbEFPTzRLd2pwcmdLMGJyYzJYeDc5eWJCOTNLajg1T0RpQ0tMSEdmcGpKLUtFbjNtUmFIU09TNmNZdFR6R1o2QkZZWXJtU3VUQ19CV3RTRDlsT0tsaTF5VzRvZkZreEYwVVdHZnVRM0ZaQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Is IAC\u2019s (IAC) Cost-Driven Reorg the Key to Closing Its Valuation Gap? - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNEci1zU29kNlJGb29Zcmg1dy0wT0VLX3BwSWVnck1yQVpURTBsODBCYndsbGFoSi1SNXQ2UktIUm94TXR6bF9UV09PSmNkNjJobTJLcC0zMkJ2emJWUmJXUDlhdWhqMmk5Y1o2UDlGeXdtVWlCX3Z6MlV5ZWViRHZOWXRHc1d4NTBVV0c4U3o0N01YWjhYRmo3T2pjTVhHZUszUzVSMmZDVmtJNEtwXzhmMU1PWC04ZGfSAb8BQVVfeXFMT0xIS3VqWEY5UDJwUEhOdWpHSzVFeUdvRVcwME5wZklLaVVkZldEQnNnLUtPTG42bHByM0YxRkFvZUNaRXplRl9MbnNER2RaYTVwZlpjMEhUX2tRVFJGWlpfSURiNTBueURDVU00OTZoWEhKck1WeG5pNk4zWUxoWTh1elRVVVdaN0Rrckt0YkZPaDdDZkRRR0h4S0oyWTRCZk8wMmVrSzFDWmNyeFdnZktyd3B1dUVnbmNzMEFaaHc?oc=5\" target=\"_blank\">Is IAC\u2019s (IAC) Cost-Driven Reorg the Key to Closing Its Valuation Gap?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNEci1zU29kNlJGb29Zcmg1dy0wT0VLX3BwSWVnck1yQVpURTBsODBCYndsbGFoSi1SNXQ2UktIUm94TXR6bF9UV09PSmNkNjJobTJLcC0zMkJ2emJWUmJXUDlhdWhqMmk5Y1o2UDlGeXdtVWlCX3Z6MlV5ZWViRHZOWXRHc1d4NTBVV0c4U3o0N01YWjhYRmo3T2pjTVhHZUszUzVSMmZDVmtJNEtwXzhmMU1PWC04ZGfSAb8BQVVfeXFMT0xIS3VqWEY5UDJwUEhOdWpHSzVFeUdvRVcwME5wZklLaVVkZldEQnNnLUtPTG42bHByM0YxRkFvZUNaRXplRl9MbnNER2RaYTVwZlpjMEhUX2tRVFJGWlpfSURiNTBueURDVU00OTZoWEhKck1WeG5pNk4zWUxoWTh1elRVVVdaN0Rrckt0YkZPaDdDZkRRR0h4S0oyWTRCZk8wMmVrSzFDWmNyeFdnZktyd3B1dUVnbmNzMEFaaHc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "IAC (NASDAQ: IAC) plans 2026 virtual meeting and shift to People Incorporated - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFVVLVdWTGdENnM1M1FvT1JsaXJsRHM0d01qR3M1RjJ5RnB3SVB1Q2xNaGFWNDVnUXZIMzFKaHlIXzR1MUpkZmNSZk1LRWhFSVRCYUU4c1NxUDduaTZrck94anowWGVyby1OYkg4cVAwbnlLa0otQTZZYWxTVldENG9mVWxjUk9pVHhtRW9ZVTZCQ21MVGVCYWhYRExwM2dPMkQ5aVN3?oc=5\" target=\"_blank\">IAC (NASDAQ: IAC) plans 2026 virtual meeting and shift to People Incorporated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFVVLVdWTGdENnM1M1FvT1JsaXJsRHM0d01qR3M1RjJ5RnB3SVB1Q2xNaGFWNDVnUXZIMzFKaHlIXzR1MUpkZmNSZk1LRWhFSVRCYUU4c1NxUDduaTZrck94anowWGVyby1OYkg4cVAwbnlLa0otQTZZYWxTVldENG9mVWxjUk9pVHhtRW9ZVTZCQ21MVGVCYWhYRExwM2dPMkQ5aVN3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "IAC Inc. (ticker: IAC) SVP sells 6,878 shares near $40.54 - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDdVSHJOUXJWUkQ1RmpGd3YtbXNuRWhlOVltY2ZUb09NdlI3TUNZOEM1RFlmZlFTTERBT0hsMTNVYmRYLUUwb1dYSmtNMWZNamQ5OGxlbkV4SmNrZW1nNjhRWldnajdubDQ3MTgtNGFaU0NmZTg4VkpsUjg3MklsQmRGUVpKekFfMGdCUkhvQTdrSTcwdkt3MmFELW4tai1Xd1E?oc=5\" target=\"_blank\">IAC Inc. (ticker: IAC) SVP sells 6,878 shares near $40.54</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDdVSHJOUXJWUkQ1RmpGd3YtbXNuRWhlOVltY2ZUb09NdlI3TUNZOEM1RFlmZlFTTERBT0hsMTNVYmRYLUUwb1dYSmtNMWZNamQ5OGxlbkV4SmNrZW1nNjhRWldnajdubDQ3MTgtNGFaU0NmZTg4VkpsUjg3MklsQmRGUVpKekFfMGdCUkhvQTdrSTcwdkt3MmFELW4tai1Xd1E?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-06-01",
+          "headline": "IAC Announces Strategic Moves Amid MGM Acquisition News - GuruFocus",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZSWlZpMGpRMmhMX2FvcWpvNGRwTGtqQktOZEpjVHl4YzNTOWU5WnFoLWJMdnItRUUzcUZwLVVBRF94VktlWDh3NGxLMUU1UlZ4S19CY3ZELWt3d2dVeE82NzF5dGI5QlkzSF92alJoNVF2LWVGNXAwN1R1eDdIVVh0Um5GRjZtcmxwX3hyTVhkVkluRm5GSWJwcVlYMGdlcm5PZzdaMUVNQQ?oc=5\" target=\"_blank\">IAC Announces Strategic Moves Amid MGM Acquisition News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZSWlZpMGpRMmhMX2FvcWpvNGRwTGtqQktOZEpjVHl4YzNTOWU5WnFoLWJMdnItRUUzcUZwLVVBRF94VktlWDh3NGxLMUU1UlZ4S19CY3ZELWt3d2dVeE82NzF5dGI5QlkzSF92alJoNVF2LWVGNXAwN1R1eDdIVVh0Um5GRjZtcmxwX3hyTVhkVkluRm5GSWJwcVlYMGdlcm5PZzdaMUVNQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Industrial Acceptance Corporation (d/b/a IAC) Data Breach - GlobeNewswire",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GlobeNewswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQZzA1RXpnQXk1LXNvODV0N01pSEdKaHBfcWxTdG05V0ZjRk9QUnVoM1hIOXNhQjVGREc5WXJxUnJhM19FVmlnZi1qTUU1MFpoQ2RabTB2NjBkeTNWRDJLZFhva1llS1pNOVFFNm02Y0MyY3ZoWFpkblZXSjROLUFIdVpWX2ZaYkJGOVJXZ2liRzA0UGVicmhOMEQtOE5faDZneWJURkhXMy1ocHFvOGpYUDljenhDc3NwYk55Y3Q0dGs2TVZ1THNfM0trRHJUdnVLeHJmTEJxNllNWkE4aUV2OTBDMEpyV3NZZWNfWjA1QlJZd1l6blJjalNtUjlmbkxWWDdOQi1CdEdHQV9KMml2UHhtalFwUHhTYUhnYi05RWV1UUtD?oc=5\" target=\"_blank\">Industrial Acceptance Corporation (d/b/a IAC) Data Breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZzA1RXpnQXk1LXNvODV0N01pSEdKaHBfcWxTdG05V0ZjRk9QUnVoM1hIOXNhQjVGREc5WXJxUnJhM19FVmlnZi1qTUU1MFpoQ2RabTB2NjBkeTNWRDJLZFhva1llS1pNOVFFNm02Y0MyY3ZoWFpkblZXSjROLUFIdVpWX2ZaYkJGOVJXZ2liRzA0UGVicmhOMEQtOE5faDZneWJURkhXMy1ocHFvOGpYUDljenhDc3NwYk55Y3Q0dGs2TVZ1THNfM0trRHJUdnVLeHJmTEJxNllNWkE4aUV2OTBDMEpyV3NZZWNfWjA1QlJZd1l6blJjalNtUjlmbkxWWDdOQi1CdEdHQV9KMml2UHhtalFwUHhTYUhnYi05RWV1UUtD?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Why Is MGM Resorts Stock Soaring Monday? - IAC (NASDAQ:IAC), MGM Resorts International (NYSE:MGM) - Benzinga",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Benzinga",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGZTeEpmMkg0Y2hGTVJuX1hBVTU5YnZQclJLRERfYklRMlZPekZDVzBQYlNfT1ctM1UyTUtYVVJTZlk2MFp6YnF2ano3VHozdjVyVkN5T2pJemNua0YwdjhRejZ2cDNyd0tTWDZUVENfcVVWM2NtU1lsSGtQSHhtMVJVQWtnOHRWR1M1dTRNVTlHMGVuM25RRzZuYlFYRlQwNmFBbUZBeEI2d3d3?oc=5\" target=\"_blank\">Why Is MGM Resorts Stock Soaring Monday? - IAC (NASDAQ:IAC), MGM Resorts International (NYSE:MGM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGZTeEpmMkg0Y2hGTVJuX1hBVTU5YnZQclJLRERfYklRMlZPekZDVzBQYlNfT1ctM1UyTUtYVVJTZlk2MFp6YnF2ano3VHozdjVyVkN5T2pJemNua0YwdjhRejZ2cDNyd0tTWDZUVENfcVVWM2NtU1lsSGtQSHhtMVJVQWtnOHRWR1M1dTRNVTlHMGVuM25RRzZuYlFYRlQwNmFBbUZBeEI2d3d3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "IAC/InteractiveCorp Proposes Taking MGM Resorts Private in Cash - TipRanks",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TipRanks",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVl5WWstcGxEaEdmTVljaTBiOWxjYUpDeHNlb2FKekpISXhyS1k1Z0VicUU4V3I5dHg4X2tGbUNuYkMtUHlLREhrWHNnTFdvWFRrSk5jeG5GWG9mOEhka0FHdXZhX05IcU9WajMzcU5Ja0VkekNJQ2NYWmV0QzV5dE9sVjQ3TXlJQjl6WWhqSWNqcmJrYmMyQWlwM0JVRW1oZkV2Q0Zha2ktckFsWnpncUlEdlZlQQ?oc=5\" target=\"_blank\">IAC/InteractiveCorp Proposes Taking MGM Resorts Private in Cash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVl5WWstcGxEaEdmTVljaTBiOWxjYUpDeHNlb2FKekpISXhyS1k1Z0VicUU4V3I5dHg4X2tGbUNuYkMtUHlLREhrWHNnTFdvWFRrSk5jeG5GWG9mOEhka0FHdXZhX05IcU9WajMzcU5Ja0VkekNJQ2NYWmV0QzV5dE9sVjQ3TXlJQjl6WWhqSWNqcmJrYmMyQWlwM0JVRW1oZkV2Q0Zha2ktckFsWnpncUlEdlZlQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "People Incorporated (NASDAQ: IAC) makes $48.30-per-share cash bid for MGM - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHkwMU5YUlZUU0hmS2R3cEJweEV2Mnd4Tk9QM2JNbUk3MndiSnFJR255aDR6V2VxNVNHb2Q4X0wyc01iaVZ6Ui1NVGZmRDBwTGlFbW1jZ1pDN0NxZVoteHZ3Zy14OHluak13OTlOQUd0NEJhNEkyNjVfUTNJb3Y1Ty1aWGJNMXdpZE5zM2w3R2pacGFqRzZJLUljTQ?oc=5\" target=\"_blank\">People Incorporated (NASDAQ: IAC) makes $48.30-per-share cash bid for MGM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHkwMU5YUlZUU0hmS2R3cEJweEV2Mnd4Tk9QM2JNbUk3MndiSnFJR255aDR6V2VxNVNHb2Q4X0wyc01iaVZ6Ui1NVGZmRDBwTGlFbW1jZ1pDN0NxZVoteHZ3Zy14OHluak13OTlOQUd0NEJhNEkyNjVfUTNJb3Y1Ty1aWGJNMXdpZE5zM2w3R2pacGFqRzZJLUljTQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap - MarketBeat",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.07142857142857142,
+          "source": "MarketBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcFNCajY1cFd2X0tUTzQyTWVOR0NETkNkZ1BKejhUbm9xSml2WWJGam5FMEpaTU5idDduRERaYzVIaHlCcE41TkhZU0FPZ3ItVFZqVTY2cEprUUcxc3JjOGJXb21tQm9uWUpGbElwRWFweFNHSlNscGF4Qnp2d0NEVlhGaGpTTW5jVHM1Y2R4TTZqZ2xwMWttQl9LZWlicjZxUWpsbVkzWVFjc295NnlSZkVta2lmX0ZGeThBOUd2Tkx4SmNwbkJOTWVLa2hYNGdSREcxcndvcnNuMDN2MXNFUlNLVHM5eXNHVk9QcGYwS0hCMWltck9lSUJ0THA?oc=5\" target=\"_blank\">IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcFNCajY1cFd2X0tUTzQyTWVOR0NETkNkZ1BKejhUbm9xSml2WWJGam5FMEpaTU5idDduRERaYzVIaHlCcE41TkhZU0FPZ3ItVFZqVTY2cEprUUcxc3JjOGJXb21tQm9uWUpGbElwRWFweFNHSlNscGF4Qnp2d0NEVlhGaGpTTW5jVHM1Y2R4TTZqZ2xwMWttQl9LZWlicjZxUWpsbVkzWVFjc295NnlSZkVta2lmX0ZGeThBOUd2Tkx4SmNwbkJOTWVLa2hYNGdSREcxcndvcnNuMDN2MXNFUlNLVHM5eXNHVk9QcGYwS0hCMWltck9lSUJ0THA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-30",
+          "headline": "IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap - Yahoo Finance",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.06666666666666667,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVJ3bDFibkRuX0duc0hRend1SUs1X3dXY2JmdXZWMC04cnRnOHVnVnA2MVh1aWtjSUd2alp0VEx4eFFQR051YksyNXRUOGtGLWJUdGdRWkhhQVRKMXpRMkF6X21QTXJwcXA3YjJlM1Zzc3JXT2JrazdQM3dNc2dLRzRYMzVGNVVCWUVEeGQ2UUhCQmhoMkU1c3VGVmQ?oc=5\" target=\"_blank\">IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVJ3bDFibkRuX0duc0hRend1SUs1X3dXY2JmdXZWMC04cnRnOHVnVnA2MVh1aWtjSUd2alp0VEx4eFFQR051YksyNXRUOGtGLWJUdGdRWkhhQVRKMXpRMkF6X21QTXJwcXA3YjJlM1Zzc3JXT2JrazdQM3dNc2dLRzRYMzVGNVVCWUVEeGQ2UUhCQmhoMkU1c3VGVmQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-29",
+          "headline": "Industrial Acceptance Corporation (IAC) Data Breach Investigation - Claim Depot",
+          "kind": "negative",
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Claim Depot",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBybFB0VlBXQmZWcDlEYUhEamZXaTdLT1NLUDBaLVFVU2tEX3Eza05LUllIVm5JczZfV3cxeWtNX2kxclY1VDBLa0FSM3pxTWFNNS1YTlg2QnJNTFVoNzNUazk1QmVkb3FzU2ZQZU1rcw?oc=5\" target=\"_blank\">Industrial Acceptance Corporation (IAC) Data Breach Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Claim Depot</font>",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBybFB0VlBXQmZWcDlEYUhEamZXaTdLT1NLUDBaLVFVU2tEX3Eza05LUllIVm5JczZfV3cxeWtNX2kxclY1VDBLa0FSM3pxTWFNNS1YTlg2QnJNTFVoNzNUazk1QmVkb3FzU2ZQZU1rcw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-26",
+          "headline": "Assessing IAC (IAC) Valuation After Weak Q1 Results And Ongoing Business Transformation - Yahoo Finance",
+          "kind": "negative",
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": -0.06666666666666667,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQY041QkpZbERHYnQ4c0xMWnZUcVlFWW5hd2lWTWI4RXp5WGdFb3VwU25oWkJ0WERHZDd0YjV4NTNwaVoxRDBBX2x0Vk03eTJhZmE5eWRwMXJYQ0piQlFhV1p5NGY0NS1BcmxNV05KYTY3NGtRdERpR1dZQnM3WXZVRkdaMWFZU0JNaVlxLVpndVNua2pRZDV5dnB0N0FlZw?oc=5\" target=\"_blank\">Assessing IAC (IAC) Valuation After Weak Q1 Results And Ongoing Business Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY041QkpZbERHYnQ4c0xMWnZUcVlFWW5hd2lWTWI4RXp5WGdFb3VwU25oWkJ0WERHZDd0YjV4NTNwaVoxRDBBX2x0Vk03eTJhZmE5eWRwMXJYQ0piQlFhV1p5NGY0NS1BcmxNV05KYTY3NGtRdERpR1dZQnM3WXZVRkdaMWFZU0JNaVlxLVpndVNua2pRZDV5dnB0N0FlZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-15",
+          "headline": "Tiger Infrastructure Partners Announces Fund III Sale of IAC, a Global Leader in Critical Aviation Services, Following Successful Implementation of Value Creation Playbook - PR Newswire",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "PR Newswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZFFYOF9sZWFTT0Vna1NPVl9URE5JV3BjUTNnTWpNakstd2xUYzJhXzdqemVtRHBqTTJNWGRZaUFWd3lLYkptbm5kRVN0U0JEOC1uQjlRbm12ZmZscVBUNFVYZTVjSGt4RWlTeGtVSzgtdHU0OTZtekJIdWZYeGRkVkZFNkZpM2tIS3p2em5peDhCWWVjY2ZGcXZmcURVRXNhWTJyRlVYSWhNQUNaSDV3U3JvdDVGVlFjRDY0TmtnQ3dMVDJjbTFTRVhFc0VPQ3FGcm1qa2NTTWJ6RlJvNU5raEc2dk5QRHFDdUZLYlNiSXVRc3VDMkpuLVd2ckl1Qk82aUNuTmFMT0Iya1ZxQm5ZWGlvQmNId09PRzFCaU9UY3ItRlcyVkRKMUk5bDRCZ1hPZ010aWRZUXBob1Q3VTRwN0Fmb251TEMz?oc=5\" target=\"_blank\">Tiger Infrastructure Partners Announces Fund III Sale of IAC, a Global Leader in Critical Aviation Services, Following Successful Implementation of Value Creation Playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZFFYOF9sZWFTT0Vna1NPVl9URE5JV3BjUTNnTWpNakstd2xUYzJhXzdqemVtRHBqTTJNWGRZaUFWd3lLYkptbm5kRVN0U0JEOC1uQjlRbm12ZmZscVBUNFVYZTVjSGt4RWlTeGtVSzgtdHU0OTZtekJIdWZYeGRkVkZFNkZpM2tIS3p2em5peDhCWWVjY2ZGcXZmcURVRXNhWTJyRlVYSWhNQUNaSDV3U3JvdDVGVlFjRDY0TmtnQ3dMVDJjbTFTRVhFc0VPQ3FGcm1qa2NTTWJ6RlJvNU5raEc2dk5QRHFDdUZLYlNiSXVRc3VDMkpuLVd2ckl1Qk82aUNuTmFMT0Iya1ZxQm5ZWGlvQmNId09PRzFCaU9UY3ItRlcyVkRKMUk5bDRCZ1hPZ010aWRZUXBob1Q3VTRwN0Fmb251TEMz?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 4,
+      "positive_signal_count": 2
+    },
+    "sentiment": {
+      "days_sampled": 7,
+      "delta": 0.00615079365079365,
+      "prior_mean": -0.022222222222222223,
+      "recent_mean": -0.016071428571428573
+    },
+    "technical": {
+      "atr14": 1.429831587235,
+      "close": 45.38,
+      "close_vs_ema200_pct": 14.922368312536646,
+      "close_vs_ema20_pct": 5.992737065862766,
+      "close_vs_ema50_pct": 8.547176904775016,
+      "close_vs_hh20_pct": -0.2856515051636903,
+      "ema20": 42.814254312351,
+      "ema200": 39.4875259415008,
+      "ema50": 41.8067068108187,
+      "entry_ready": false,
+      "hh20_prev": 45.51,
+      "selection_bucket": "candidate",
+      "vol_anom": 1.71057874932132
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [],
+    "industry": "Internet Content & Information",
+    "sector": "Communication Services",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 2 constructive, 4 adverse, and 2 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "conflicting"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-30: IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap - MarketBeat."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-30: IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap - Yahoo Finance."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-05-29: Industrial Acceptance Corporation (IAC) Data Breach Investigation - Claim Depot."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-02: IAC Proposes to Buy Rest of MGM Resorts for $48.30/Share in Cash >IAC MGM - Moomoo."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-01: IAC Announces Strategic Moves Amid MGM Acquisition News - GuruFocus."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "high",
+      "point": "Price is still below the prior 20-day high (45.51), so the breakout remains unconfirmed."
+    },
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 45.51 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Recent adverse headline could still cap follow-through: 2026-05-30: IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap - MarketBeat."
+    },
+    {
+      "confidence": "medium",
+      "point": "Recent adverse headline could still cap follow-through: 2026-05-30: IAC Conference: Cost Cuts, People Inc. Rebrand Aim to Close Valuation Gap - Yahoo Finance."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is still below the 20-day high trigger",
+        "points": -8,
+        "value": -0.29
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 5.99
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 8.55
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 14.92
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 4,
+        "value": 2
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -8,
+        "value": 4
+      },
+      {
+        "label": "Legal or investigation headline detected",
+        "points": -5
+      }
+    ],
+    "confidence": "high",
+    "label": "avoid",
+    "score_0_to_100": 28
+  },
+  "sources": [
+    {
+      "published_at": "2026-06-02",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-06-02_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-06-02",
+      "publisher": "Moomoo",
+      "title": "IAC Proposes to Buy Rest of MGM Resorts for $48.30/Share in Cash >IAC MGM - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEZQSGpRVTQ1VEVJTi1pV0pZbDYyTktfYTVINHp3RVNfMzVVQTRSczFZTlhFR3oyeklwM0luTW1yU3hCczFCSWxMdzIwT3FDZnlOdWV2cFktNVVmNG1vd1VabWNkSjJsVTFoaXYyNUtiS2dfMV9zNmNYUWFQTzg0SlpLOWtwNzlvSVV4eV9oTmdHMU1GanJGTHpyLXloTHJEa0h2VWd6TXNDRXBubkpUUm9CMEo4VzJYX3BwWHNsdXA?oc=5"
+    },
+    {
+      "published_at": "2026-06-02",
+      "publisher": "Moomoo",
+      "title": "MGM Resorts Could See Value Upside From IAC Bid Despite Valuation Dislocation, Truist Says - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnd1ZHgtN1o2VmpZa2NpRW55QTl0VHN4Z2M3NWRHNkRmazFhQjYyN3lzMWNTbEFPTzRLd2pwcmdLMGJyYzJYeDc5eWJCOTNLajg1T0RpQ0tMSEdmcGpKLUtFbjNtUmFIU09TNmNZdFR6R1o2QkZZWXJtU3VUQ19CV3RTRDlsT0tsaTF5VzRvZkZreEYwVVdHZnVRM0ZaQQ?oc=5"
+    },
+    {
+      "published_at": "2026-06-02",
+      "publisher": "simplywall.st",
+      "title": "Is IAC\u2019s (IAC) Cost-Driven Reorg the Key to Closing Its Valuation Gap? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNEci1zU29kNlJGb29Zcmg1dy0wT0VLX3BwSWVnck1yQVpURTBsODBCYndsbGFoSi1SNXQ2UktIUm94TXR6bF9UV09PSmNkNjJobTJLcC0zMkJ2emJWUmJXUDlhdWhqMmk5Y1o2UDlGeXdtVWlCX3Z6MlV5ZWViRHZOWXRHc1d4NTBVV0c4U3o0N01YWjhYRmo3T2pjTVhHZUszUzVSMmZDVmtJNEtwXzhmMU1PWC04ZGfSAb8BQVVfeXFMT0xIS3VqWEY5UDJwUEhOdWpHSzVFeUdvRVcwME5wZklLaVVkZldEQnNnLUtPTG42bHByM0YxRkFvZUNaRXplRl9MbnNER2RaYTVwZlpjMEhUX2tRVFJGWlpfSURiNTBueURDVU00OTZoWEhKck1WeG5pNk4zWUxoWTh1elRVVVdaN0Rrckt0YkZPaDdDZkRRR0h4S0oyWTRCZk8wMmVrSzFDWmNyeFdnZktyd3B1dUVnbmNzMEFaaHc?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "Stock Titan",
+      "title": "IAC (NASDAQ: IAC) plans 2026 virtual meeting and shift to People Incorporated - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFVVLVdWTGdENnM1M1FvT1JsaXJsRHM0d01qR3M1RjJ5RnB3SVB1Q2xNaGFWNDVnUXZIMzFKaHlIXzR1MUpkZmNSZk1LRWhFSVRCYUU4c1NxUDduaTZrck94anowWGVyby1OYkg4cVAwbnlLa0otQTZZYWxTVldENG9mVWxjUk9pVHhtRW9ZVTZCQ21MVGVCYWhYRExwM2dPMkQ5aVN3?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "Stock Titan",
+      "title": "IAC Inc. (ticker: IAC) SVP sells 6,878 shares near $40.54 - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDdVSHJOUXJWUkQ1RmpGd3YtbXNuRWhlOVltY2ZUb09NdlI3TUNZOEM1RFlmZlFTTERBT0hsMTNVYmRYLUUwb1dYSmtNMWZNamQ5OGxlbkV4SmNrZW1nNjhRWldnajdubDQ3MTgtNGFaU0NmZTg4VkpsUjg3MklsQmRGUVpKekFfMGdCUkhvQTdrSTcwdkt3MmFELW4tai1Xd1E?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "GuruFocus",
+      "title": "IAC Announces Strategic Moves Amid MGM Acquisition News - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZSWlZpMGpRMmhMX2FvcWpvNGRwTGtqQktOZEpjVHl4YzNTOWU5WnFoLWJMdnItRUUzcUZwLVVBRF94VktlWDh3NGxLMUU1UlZ4S19CY3ZELWt3d2dVeE82NzF5dGI5QlkzSF92alJoNVF2LWVGNXAwN1R1eDdIVVh0Um5GRjZtcmxwX3hyTVhkVkluRm5GSWJwcVlYMGdlcm5PZzdaMUVNQQ?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "GlobeNewswire",
+      "title": "Industrial Acceptance Corporation (d/b/a IAC) Data Breach - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZzA1RXpnQXk1LXNvODV0N01pSEdKaHBfcWxTdG05V0ZjRk9QUnVoM1hIOXNhQjVGREc5WXJxUnJhM19FVmlnZi1qTUU1MFpoQ2RabTB2NjBkeTNWRDJLZFhva1llS1pNOVFFNm02Y0MyY3ZoWFpkblZXSjROLUFIdVpWX2ZaYkJGOVJXZ2liRzA0UGVicmhOMEQtOE5faDZneWJURkhXMy1ocHFvOGpYUDljenhDc3NwYk55Y3Q0dGs2TVZ1THNfM0trRHJUdnVLeHJmTEJxNllNWkE4aUV2OTBDMEpyV3NZZWNfWjA1QlJZd1l6blJjalNtUjlmbkxWWDdOQi1CdEdHQV9KMml2UHhtalFwUHhTYUhnYi05RWV1UUtD?oc=5"
+    }
+  ],
+  "summary": "IAC scores 28/100 as a avoid setup. The score is driven mainly by the technical breakout picture, with 2 constructive versus 4 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "IAC"
+}

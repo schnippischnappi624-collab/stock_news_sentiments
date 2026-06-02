@@ -1,0 +1,14 @@
+{
+  "country": "Mexico",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-02T09:15:46.280618+00:00",
+  "industry": "Discount Stores",
+  "long_name": "BBB Foods Inc.",
+  "provider": "yfinance",
+  "query_symbol": "TBBB",
+  "quote_type": "EQUITY",
+  "requested_symbol": "TBBB",
+  "sector": "Consumer Defensive",
+  "short_name": "BBB Foods Inc.",
+  "symbol": "TBBB"
+}
