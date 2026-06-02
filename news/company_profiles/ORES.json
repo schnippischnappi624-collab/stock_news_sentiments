@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-06-02T04:00:19.718184+00:00",
+  "industry": "Asset Management",
+  "long_name": "Investment AB \u00d6resund (publ)",
+  "provider": "yfinance",
+  "query_symbol": "ORES.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ORES",
+  "sector": "Financial Services",
+  "short_name": "INVESTMENT AB ORESUND",
+  "symbol": "ORES.ST"
+}

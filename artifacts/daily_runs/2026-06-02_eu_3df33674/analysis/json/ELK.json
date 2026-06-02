@@ -1,0 +1,743 @@
+{
+  "analysis_date": "2026-06-02",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "mixed_watch",
+    "score_0_to_100": 47,
+    "thesis": "The setup is still mixed and needs cleaner confirmation from price action, stock-specific flow, or a more favorable market overlay before it becomes a stronger breakout candidate."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-01: Elkem announces results of subsequent offering, allocation of shares - marketscreener.com."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-01: Elkem Announces Results Of Subsequent Offering, Allocation Of Shares - TradingView."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-01: Elkem ASA - Final results of the subsequent offering and allocation of offer shares - marketscreener.com."
+    }
+  ],
+  "codex_summary_error": "codex_summary_invocation_failed:FileNotFoundError:[Errno 2] No such file or directory: 'codex'",
+  "company_name": "Elkem ASA",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "\u2018A shock to all Lebanese\u2019: Israel sends a message as it takes ancient fort - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcllpVVNlWTd2Z05ZbFo1SVJmS1hzU1lLc0ZpQWhtbHVLZGE5a0xxUENsSDlCMk1Ja0Q0WmRlN2hUYlhTbjRyUWtjNkg2NDRVM2dwNVZQOUtPYUx5UW9vUFBvZTAtOS1xMG56OWtxaXFpcFVqYS1na0JtUFpZNTUxbTFWWm1wcG9iQ0xtYXVLNDZzb2Fj?oc=5\" target=\"_blank\">\u2018A shock to all Lebanese\u2019: Israel sends a message as it takes ancient fort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVo1X1doOVJXTjdTcTJkbnFNLVV2SGVuR1ZLc3pVdUpMVUpLaVU3OE9wT3JNc3dLYUxkX3ZRbmJpTmZoZmpqc2ZiN1hiemhBS0huR3JJUWwzYVp4dWxTamhGeTF3QS10NFB6bE95djFXMm5aVzdvSjZBRVBzWW1WNXFraU96TWpHM2FUeTJnZTlhWUxoRU5xN0VBaw?oc=5\" target=\"_blank\">Netanyahu Orders Israeli Military to Attack Beirut Suburbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2laVWtfVDhQYzJIa3RPMVdpSWpVRy1pV1B1R3RUVFU4WUYwWmYtRk84SGkzVXNjdFFYY2dIeko5UzVneGtjUVVtMlJQY3c4WVZMbUJxREIxS2FudTZnUEF5UG1paVdta0JXWTdFbHJ5UGozZTBtTk1qYlNRMkNjWWhfT0tPNlF0RU96YW1kU1loNnl4Q1U2WEF2WUlQOW9fbktDRGx6eGZTaWhoV1NBd2NiWHRyZHc?oc=5\" target=\"_blank\">Lebanon crusader castle seized by Israel a symbol of bloody history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkpNZG9Ma0pMX3ZmSXpLeThaNU9rMGdNUC1kem5HRnA0R0lKcGFlbW5kYkRENGlhRk4taW12SkJNMHIwQ1M5WnVaR2YzelVCUVFkVFJMLTRuZ19pY2YtYnJVVlRzVDhyZzdQMHA5cW9TY3dreUVDOGJONkhMU2pJVXJldE5tOEs5NmpKMTRTVUtqb1h1djhLM19ZaWtwbVVVS003dVFR0gGrAUFVX3lxTE5YT1F2TWhZT2UxbWVlNlNFNDRNdE5CbnU3ZVl4SGNzN1JJU2lPQ0lZWnV6RFdMMlJaV2diTzlFc2poR0ZVMEdUQUxKTEl6NTNSbnE3Q2VvTG5LWnctSm12OU5XZHFkUjNOcU5Wa1E3XzNZU0UtVWNyWWtUSFV3TEZGbGhaaEJRQzJOZWN1WXJoUHFoVnFrYWg3Z1JjR1NkeHF6YVZPNy1ET0dYaw?oc=5\" target=\"_blank\">What is Lebanon\u2019s Beaufort Castle, and why has Israel captured it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUZTeU9KS3NvbWQyeEMxZzExYXByNTZFTGhYdU13Qzd5cExUVTlUdFVEb0lEdUZ1Vm1UWmRNMG9uY3dlT1JMeGNMX1BGVjUxQngza21sX1B2Yms2RkhOQnlwYXdDenQ4MF92N1R6NmpHRFBmd2ZiYkt6WGl0aGRYNXpzcFdSQWQ5dXo1NVU3clVwVHh0RE5BbEJYWktILWJ1aTFQWV9B?oc=5\" target=\"_blank\">What to know as Israeli forces\u2019 historic Lebanon incursion complicates an Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcllpVVNlWTd2Z05ZbFo1SVJmS1hzU1lLc0ZpQWhtbHVLZGE5a0xxUENsSDlCMk1Ja0Q0WmRlN2hUYlhTbjRyUWtjNkg2NDRVM2dwNVZQOUtPYUx5UW9vUFBvZTAtOS1xMG56OWtxaXFpcFVqYS1na0JtUFpZNTUxbTFWWm1wcG9iQ0xtYXVLNDZzb2Fj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Blackstone closes its largest Asia private equity fund at over $13 billion - CNBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGRHaHpTUG8wOFFySkg5UjIxVmtSNTAxdUR2M0ZKSTFJNjZqMk5PdUlNR3BlMFRDa3BoRWhNS1g4QU5lVUw2X2pXeEltYlJPbnJnT0FhTmVuZFdGd2RWVXJmY3FQZUVENkpSOC1STjlzQW5jM2Z2eERkcnBCbXF1dDIzQURzMTTSAYwBQVVfeXFMTUc1OWVrUWprclNqUzhvWF9hMTVYNFFRRjlvRWhGVnREQ0hQUTNHRUxXMmVweE1ncG00bzZjcmM2NmVKV0h6dUQzeXQ0bFVhenhqdWRzLXNnb1lDMVJlQW44Q05FZDhLVndib19lR0lWbnVEdm8xOUVjRHdDM2Y3YmZybUhFc2RaUng1Z2Q?oc=5\" target=\"_blank\">Blackstone closes its largest Asia private equity fund at over $13 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXhoOTkzbGVyN0pFbk9xRDMwZTgwWjFmbElRLUZ0RVMzSElGdHFhOVp1S2l1enR3R3VBUjM2TENncE83U3hhUUh1dTFNcHVWckV3QTJNamg5THJwZ2V0VzFqaWFGcGxvbjh3YlV2RUw3djdaRmFQMkVQR0ItRTdDSTcyVWhyeDZzanNiczR6MmRYZ1J4ak9DYWVyWGQ0NTB1bmUxRHV1RjRTTGZwcmkycUEzdDNtS0Rz?oc=5\" target=\"_blank\">Blackstone Raises $13.1 Billion in Its Largest Asia Private-Equity Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmVLc0lzS05pb0UtTFFFdUFlSHpjTndJQllEd1Vod2Fha09udFRNa3MzZ2cxUDFCbjYtUlZBQmhHcFlBbjRHTTR5bmhHRjZXNTZCMjBoVkx6Ml8ybWw1d1BpUHNOSEVSeTFwRFFMVUh6QVp3dDg1NFotUUhrWVIyQ1ZSbDJDbTRNU0ZFejRQVUR5WXpTdWVJRHpTd3prLWpxbVpRRFAyWkVhSDdESzFmZjFITUJ1SjlxNmcycG53?oc=5\" target=\"_blank\">Blackstone raises $13.1 billion for its largest Asia private equity fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORXN5TFNrbGdoRUxuZnc1LWlhTG9saUw2OGR2RHBGTzdZeFJmaURKUU5CTDI2WkxHVzJOMUxyR3FJbDlzOExtOHc2SmthcW5OSTBaYmoyeVFoRlZMM2o1WHhhTmlFb192azVQaTRzZGhfeFB5RkhldDh0UmZTWWJ6cFk0N0tGYWlmUnVBVGhvTWdVSnM3QzZqTVJWUVNEU0p0Y01kU3N3cGU3UDFjRENSVnlSeXE3cmtEbXM1djYzN3FwU3pRMWc?oc=5\" target=\"_blank\">Blackstone raises $13.1 billion for its largest Asia private equity fund By Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHJmaVpIbnFiaEp6eXR2UFdXTWhHZ0I4ZXdQZV8yazdEQ2lhOU9xZkNBTEw3d3Fpa2dFSVVkTGRFRkVhc05lQzJLNzJRVjJMNlFwUExUQlZOS2ZMa19SUDZvOGtGN28zdm53TTJuaHNMeWVJMDNfcXFZZGcxN3lxc0lvUlN0bFloVk9Uby1GbnlUYnFrd2tRSWRYVVUtYTRPajA4UWRTOENnRW9hZ2c?oc=5\" target=\"_blank\">Blackstone Raises $13.1 Billion for Latest Asia Buyout Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGRHaHpTUG8wOFFySkg5UjIxVmtSNTAxdUR2M0ZKSTFJNjZqMk5PdUlNR3BlMFRDa3BoRWhNS1g4QU5lVUw2X2pXeEltYlJPbnJnT0FhTmVuZFdGd2RWVXJmY3FQZUVENkpSOC1STjlzQW5jM2Z2eERkcnBCbXF1dDIzQURzMTTSAYwBQVVfeXFMTUc1OWVrUWprclNqUzhvWF9hMTVYNFFRRjlvRWhGVnREQ0hQUTNHRUxXMmVweE1ncG00bzZjcmM2NmVKV0h6dUQzeXQ0bFVhenhqdWRzLXNnb1lDMVJlQW44Q05FZDhLVndib19lR0lWbnVEdm8xOUVjRHdDM2Y3YmZybUhFc2RaUng1Z2Q?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Hardening views on migrants push Europe toward Trump-like tactics - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlM1M3h5Zjc5Q0J1b2tURnVoQlBOS0o0SkRmaEhLMEV5RmhkMU1rd3ZyTExkWUdlMkhOaU01cnV6MVYxZlJrTVpHZGtZcTlQOU5wczROWllNek1qRVJBMEJTd2o5SUp3Ym1UOFdZOEd3RjJwQ3cyajJCcGUtWmRhdzBMX2FxZVBPT2o0dkNDZlRsZVlqY29qNmxRUkZjSGdIQWh4OUZCckgyaVBjMXUyZmkzTQ?oc=5\" target=\"_blank\">Hardening views on migrants push Europe toward Trump-like tactics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTlNekRNZ21Tc3JIeEFKRm5vNHFnZkJBUmVCQmVQUGs0RTRBMWNtcl9UUFdmT05nZnlJUVk0cXpteTJOYVhHYVl2YkxpTm5XdVlNVVBiUy1pS2poUGtYZjB3aUZDWEtKelY3RkFHUDUyZU9sQlRMUlRmWTVHZDBadWc3dHY5Nm8wMVYyWVdkY1RKSzBZZ00wdmJUVUFET3pGdzVsR2NRMA?oc=5\" target=\"_blank\">EU paves way to allow migrant deportations to centres outside bloc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNKSEgzZXdHZmNmNGI1NE1ZMV9vZ0l2NVVEUkFyTDZwSkp1ZXc1TlEzTGo4S2NkTlpaZXJvVlNKaVZzR251TTlDTHBGV2pyVnEyLXBGOGx2LU1nLUxGakRnVHZfZnFlVjR0X0Rzd1RDaHhtU3VIWHlqQjV0VmxjcTdDM0JVWjlDZ0JQc0lMOUVuOG9QZDVHXzNkV0hfcXRxSjItRkJ4eW44VnRJVnc3ZEhQdEsxSFltaU9VT0RZbw?oc=5\" target=\"_blank\">EU approves strictest-ever migration law, including return hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0FhSWJGRXBxTTZsQXBTS1p2V0hPNW4tSDNuX1dWOTN5SjN1TlM2T3JWNWRRXzAtSG9rZkxMdXZtQlBqMmk3ZkRoX3lhODdOUTlBM1psSzQ3VDJKNHhWakRDVXk0NFlFeUFEYVdXT3RIUVBLUDY1SVpGX0NPM205NjFLQzR4T1MtblZmSXp2emd6LW5hYkxLMEZEWl93NTlPckE?oc=5\" target=\"_blank\">Dutch government gives green light to establish migrant \u2018return hubs\u2019 outside EU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmxkWC1mRURsT0QwbzUtOS0xYlJkQ3FlVUhrSGhPWnRnYU8xUk5RbGJhTGEwRUZRYmpZUVIzV3NhUEppVGVOTFN4Qm1CZTBfcUtsSDNVT0VUVHoxdnZKTWtNOS1ZQUd1eERFT1k1TnM3a1FVVXBVWlhwVXNUR0pxQWJIQWFFLVROMUVIWHFwTUsxZURWcUpQeG9fWGQ3OHJVckxKc0xFMWJWcUg5c1VQZXloanNKVW1t?oc=5\" target=\"_blank\">EU negotiators agree new migrant return law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlM1M3h5Zjc5Q0J1b2tURnVoQlBOS0o0SkRmaEhLMEV5RmhkMU1rd3ZyTExkWUdlMkhOaU01cnV6MVYxZlJrTVpHZGtZcTlQOU5wczROWllNek1qRVJBMEJTd2o5SUp3Ym1UOFdZOEd3RjJwQ3cyajJCcGUtWmRhdzBMX2FxZVBPT2o0dkNDZlRsZVlqY29qNmxRUkZjSGdIQWh4OUZCckgyaVBjMXUyZmkzTQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "UN experts warn against \u2018surging Israeli settler terror\u2019 \u2013 as it happened - The Guardian",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "negative_tone"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.05128205128205128,
+          "source": "The Guardian",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTFRYUp5ZHhXTHJtSGNTOEdmdHJtX2ZHX0ZjXzRDVENENGh1cGtiWVhwc081b3JlZV9jWmdTX0RINEFBWGlnckxqVjhyWHdWZUdGTlhoRVdxVDJWSURWVW9WOVJCZW84TUJRcVFkRGRHV0RfSWVLZHEzYko4ekZ2NGM4dTlXUFlMaGNQOGpLZ0E4b3lkNFlycFFmM1lMVGNrNUhIMzlvaXlRVXhXVGhpbVpfZ2RFRUlfRFlkcXdSbTZlSGROdDU4ckdSblp0UQ?oc=5\" target=\"_blank\">UN experts warn against \u2018surging Israeli settler terror\u2019 \u2013 as it happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5MzgyaUVSR1JXVlZNZUtheVhpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTFRYUp5ZHhXTHJtSGNTOEdmdHJtX2ZHX0ZjXzRDVENENGh1cGtiWVhwc081b3JlZV9jWmdTX0RINEFBWGlnckxqVjhyWHdWZUdGTlhoRVdxVDJWSURWVW9WOVJCZW84TUJRcVFkRGRHV0RfSWVLZHEzYko4ekZ2NGM4dTlXUFlMaGNQOGpLZ0E4b3lkNFlycFFmM1lMVGNrNUhIMzlvaXlRVXhXVGhpbVpfZ2RFRUlfRFlkcXdSbTZlSGROdDU4ckdSblp0UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Lacking money and support, Trump\u2019s Board of Peace stalls in Gaza - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnlXbnIwdVBfNDZSb0sxN2g5N3FVX0o3WG9hbXFjN3BnVzF6V0pEQjdKaENBX2cyZ0hHME56dXg3dGhSdXZBRHZqUldDdWowdkVXQlhZaWRUdkZLQlZzRFEwdDd5X0w4c2c0aFdQaHlwMW9IbHJseV9FQkg0RlNfNmFnRXBlZzJiUGJVVFJlOWRaNkQ0by1VMFJ4ZlVrcEluc2lhT0xfMi1iX3JlNEV3?oc=5\" target=\"_blank\">Lacking money and support, Trump\u2019s Board of Peace stalls in Gaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZlN6NVFuR1h2VUVod2JUUUZtYk1fNmxDUDdZMWhVSzRMRGFRWDE4QVBUM25ZWFc0cFZKTjFMVjlTOVNENnNaRHdGUkFZWU5QWGJZc2w0c1ZjR0xqNTM4WnlwSE9iaGlJeHhtMXJDU21kdFZ2MEdXZG9VejhUcnpwMkdtLUlWVFlPQXNtQk9PQUF3V0szX3o5QmtMR2o3X3AydDA2WUZ1c2RDWlNCaEotdkhCXzZxLWxheDBycmZ5ZHZlLS1JeWZhWlV6WGJNeG8?oc=5\" target=\"_blank\">Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRW9VdlEtVUxqME5WeURCUXB0ZTB3dk9WVFY4aWxkcjVjTU9wLXNrMVdEYzZhS0wzX2hHV3pOVTlLX2lOOUdGdzNFckRaZEIwdEVzYUloYmFZWDAwbkxFSzJZY3h6aFg2YkI0c1ZySmdrR3FlVC01U01WY0U0R21VaEx6UFRPV0RnUVRmckdFeGhaU3R5UlpKWEFXTkxmQQ?oc=5\" target=\"_blank\">Trump\u2019s board of peace is flailing \u2013 just like the president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqRUhuWWJXUmlZTUphUnlzMzNIUGdBSkZENU5wa2JwdURtdGlpcXVoNG5kSTBXR2pDV203TWtPT3hDRHZrbE9rVDd0cC1oeHJiVWVEY1RmQlQ?oc=5\" target=\"_blank\">Where's the money for Trump's Board of Peace? : Trump's Terms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1JMdkFfamRYS3VHeTRYY09XcVd1Q2ROckRfcnFkODY2cEJYcnBNSmNaSXd3eWJDckhoOHdLWE95RTltT0FEMDdnSzJrcEY2Y3ZUMmlGTGNBUU83TVZFLVRMdmxSanhVdnZ2Q3JQSkFzSGx1ZmNaaGlETmpEWk5sUzRUR00?oc=5\" target=\"_blank\">Donald Trump\u2019s Board of Peace fund is empty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnlXbnIwdVBfNDZSb0sxN2g5N3FVX0o3WG9hbXFjN3BnVzF6V0pEQjdKaENBX2cyZ0hHME56dXg3dGhSdXZBRHZqUldDdWowdkVXQlhZaWRUdkZLQlZzRFEwdDd5X0w4c2c0aFdQaHlwMW9IbHJseV9FQkg0RlNfNmFnRXBlZzJiUGJVVFJlOWRaNkQ0by1VMFJ4ZlVrcEluc2lhT0xfMi1iX3JlNEV3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Stock futures slip after all three major indexes close at new records: Live updates - CNBC",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.047619047619047616,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5\" target=\"_blank\">Stock futures slip after all three major indexes close at new records: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxPeTlRWURQT1B4cm1PbjZaNnByNXdyUTBlekJNUndmeUplNXQxSUZ2Zmd2TTlLNS1FUGRDTGNQMkE1RHhZOTc2QWtoejBLUi1LSHVtRlExdGZIbkgxcmpZaDk0MVN0QmJzNTlXYmF6Z0p4b1VUc1ZFcnoxdEZQQmN3MXZiYUF5LWttaFVDdW54RlhWemUzZ1E1Tm00SWRpNC1IR29zQUJHTzZzRnk1bzNmRzhiTlBxZlZ1OTlpTHNHRl82bmRCU3lTUUVaLWJRLThNM1I5VzFZNWdiZkZnaXVRSld1dFJ0RHprczBZOTdtNGxaemk0WE5iU1VJVE9ER01LX1ZBejlkcEJNbEhXeXp4S0tKTURFdVQwWXp1UTU0Wk03bUpxWlF0Yg?oc=5\" target=\"_blank\">All three major U.S. stock indexes end at record highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVhRQjNxa2xEU2tTckFGTXlpdUlpTDhoVFZPYlhlNnJnc0RvQ1BQa2tqWDlWanpKLWVhSHhzZnFwMUtVYU5uVXlqdDAwSHhYaFd4TkxnNEJkWkNaSTRmQ0dHamd4OEpPOHg0QUlEYVNQbllKYjVJS01CN3FBSThHYkpyeTQzbGowMklCeHF4aXh2X0NlMDZCS191aWFieDZJ?oc=5\" target=\"_blank\">Stock Market Jump-Starts June Trade At Record Highs; Nvidia Climbs On Windows-Laptop Entry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxQSktnOHJnNy01ZHAxTVlqbWtTVXZBZ2NxUGYxQ1pMaWE0UjFqT1ZVbzVYeGlHbnJMNXRha3RtRUptQm9jYktMZHI3VmpYWEVvQk95S3BidHRYRWlYVWJ2Q1hZMHhmWWItajhfQnVqdFVLLTdDMDVDX3N4Ri1DVkh2R0VBdkszN3dsU1ZaeDl3TzFOdGFValV4a1JIYkx6d29vZnlZS0Z5T3RWZkpZaVNHZVhwWkZORHd1R1dXRjJ2T0dGR1JXVklnLWlXdFZYZlQxZjBmUjYzR1Q0ZEdJallwOXJqUDNucGVfbUdUV2lEZEhOX3Z2VnJVTTVRUkdCdHBLc2tNemEwTGtIaUdkY0lQR2c0Um9DWnQwRUtBdzB0dGtaTFBCV1pFSVN6NzNnblJGbXJ3NUhsblJCQlRnVlp4NU05RVJ0M1ZWaVE?oc=5\" target=\"_blank\">S&P 500 And Nasdaq Rise To Record Highs, Powered By NVDA Gains Amid New PC Chip, While Trump\u2019s Positive Commentary On US-Iran Supports Dow \u2014 NVDA, ARM, MGM, ZM, AMC In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDRqa1pYOVlGNFl6V0U1T2ZCRVFlMFR3WldWeFVvYzI2X0Z0SE44WGl3OElvUXA0N2xHUFFkR0ExSmY2T1N3em1kTG5CMXB5UzI0SDZ4SndsSjRfaFFDS0dRTDl6TDdPbFZRUFRJY09rZkdJdWMwQmJPQXo3VG5tbmNDMFdIMjJFYlJkVG5TRzlrVlFnTmE4cjd3?oc=5\" target=\"_blank\">U.S. Indexes Closed Up Monday; MongoDB Climbed Highest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "8 crested ibises released in Japanese town decades after extinction in Japan - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2JyZ0Ffc3lTcmRXN21LeF9ZRTN3TDVBeVlocGFMZ1F3eWMtRjVBaDNrUWwtRzFLVjZIOU1VQmhtcEhhZUx2S09xd3RRSUNhb1p5dEQ5Q2k3VG9Sa2Y3cm9SV201NWpmRExTTm5FR3liRGhvRjdudGlNbkNaWmNOMVYwNjFFaUExWktlc0swNA?oc=5\" target=\"_blank\">8 crested ibises released in Japanese town decades after extinction in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LRzY3OUhrWjJVa3V2WDluZEFVQW1CNERyMDZKRWtqMXI3NXNrVU9SaVozUG1vMi01cmsxY3ExM0Z4NGd6eTlxdl9haDRZVU9TTUtoc0UyNzRGLXBMZFhZRTdLaUZRRUxfaU1wMnNpQ0JNMEM5elY4TQ?oc=5\" target=\"_blank\">Crested Ibises Get the Royal Treatment in Japan as They Fly Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tRDJvOWpKSU1XV3dKbGhydmllcDhDanI1aF9yRk0xMk5BbDdYXzVheXRkd2dfMG1WZ09QREcwZHdBUUEzNXU2cGJaZW5JVjY2ckVMVFNLX0ZLV3hUZFNsWEtn?oc=5\" target=\"_blank\">Crested ibises released into wild on Japan's Honshu for first time | NHK WORLD-JAPAN News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nhk.or.jp</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWQtV2VOTXBFaVlnT2Q5Z29SX3hXNmlaSXJsZjdsd3FmRVR0Q2ZWLTVjeWowbVRZOUo1akg5QllZWjNfX0Y2OWdFZnBKVWpIMW5DVUQxbTV0X0xZQnZ5QnZZNFBfR3RZWER4RElUd09MSmoyanRNSFVTUHNqbmR4SHFvNWpaOWZ0N2xqM3FZYXNsMlpWNDlUbVVFMHBwNjhPU09XSGZnU2taZU51bEtrUw?oc=5\" target=\"_blank\">Japan's main island gets 1st crested ibises in wild; 1st time in 56 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Japan Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVM2c2pad1piQjRGVUpkbnVla2dvRkxSMk80TU50RGlyYWhmRGsyUF9XSW03aTdzdXBLdENMc2xjdmIwMzlPanVjYkZsdlQxTnkyclpSNzN6OXRRX2pHbzZsRXJKUXFFWVJOckJCaUdiRTc1SENmRlZzcER1RUxERA?oc=5\" target=\"_blank\">8 Japanese Crested Ibises Released into Wild on Noto Peninsula in 1st Honshu Release as Part of Govt Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2JyZ0Ffc3lTcmRXN21LeF9ZRTN3TDVBeVlocGFMZ1F3eWMtRjVBaDNrUWwtRzFLVjZIOU1VQmhtcEhhZUx2S09xd3RRSUNhb1p5dEQ5Q2k3VG9Sa2Y3cm9SV201NWpmRExTTm5FR3liRGhvRjdudGlNbkNaWmNOMVYwNjFFaUExWktlc0swNA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Four dead and several injured in massive Russian strikes on Ukraine - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSGZ4UU82X2plb3ZsbkI5c0VHMUdlWnRlUzlCTm5tNV9zZzkxbU5YTDduUnc2RHJ2UUQ2cWZFNzlNdVVJUXpkRmpQTUVVVGxnZWNHTExrWl9oZw?oc=5\" target=\"_blank\">Four dead and several injured in massive Russian strikes on Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEFLb24zTGJvRmdYbDQ3dUlIVVpjUm5zN0NWTkNNQVBUdUh5TmdQellRSF9hbGtyeG9xMU9OeFV6c1JCMW1Ya2E4aUtfMHFFYzdPdzM5OHZIbllXa21fcWhBTHZnbnZGSkFYR2NyQ01INGlILUlJbnA0ajhZU2xiS0s4RU9hbXRW?oc=5\" target=\"_blank\">Kyiv hit by large wave of Russian strikes, people feared trapped in apartment building rubble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzJpWFQ4UGVVSjFXNWtsSjBGRG1DdTVNRFg3bnVGTC1qSlRIazIwR19QdFVHRk5ySW1JaTd4bDF5X282cTdFaWhwdXh2Z2hER0hyN2Y2TE9vR1dwVk0zaC1sdUQweXlVelFBa3BrSkFzcXNoM0h1NUR3VFZWaXRPTkFUSk14c1BFVlNSUnEwcG1hVFF5Vndyd3FyTVRfN1NBQXU1T20xT0ljMmpJUnBtNVBJaGgwdnB3WjlXMTdSTQ?oc=5\" target=\"_blank\">Five dead, dozens wounded as Russia launches major attack across Ukraine, authorities say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEJxNXR3aGdycFVkYmJsXzk4RDJUd3NhOUtNb2MxdUhTaDZpanI5NkVPUHJBMkt4dnNVQTJhdHVvN3diVm9tQkRlS19hRG95YktaeUl3RjdfLVV1ZGpnQzE5XzNlaW1PX0UyX0UwV3ZDVENYeHBMb0o1T1JKX21oazNBN01qTEQ1cnJiNjNWYlNwTDRQX0xsclZVekdGV1ViUzNUcjV3?oc=5\" target=\"_blank\">Russian Offensive Campaign Assessment, May 30, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQb3VEd29fTXlZVDBBR2d1bXp4MTFOZVpmcWk0WEJDWHE1UFJMR0pHZE1lYlk4Z0NuYndxSVVUa1UxTWczYWJmYlFyWkY4ZHBhSUtxRkd2UlI1UXFCZ0xRMWpRbDBSU2QxeEdpaTVNMW53bjRpNDVoSmxDcUk3YTVQeTl3ZmlqT3VCS25YRjF2MVlzek1ieXlBQ2t2VzRUZw?oc=5\" target=\"_blank\">This run-down town is the launchpad for the superweapon Putin used to attack Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSGZ4UU82X2plb3ZsbkI5c0VHMUdlWnRlUzlCTm5tNV9zZzkxbU5YTDduUnc2RHJ2UUQ2cWZFNzlNdVVJUXpkRmpQTUVVVGxnZWNHTExrWl9oZw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-02",
+          "headline": "Celebration, shock and scepticism follow Colombia\u2019s presidential election - Al Jazeera",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Al Jazeera",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1d6NnpVUTk4WVRMS2xLQkxhZjhIRmZvUlVxSTdKQzVUMVc1eVExbVlta0t4c1dzck9tTWtuVHVtVkJnaUtsSjU1OGY4R3RNM180SEdUWHJtVWl0bk44WUZ0Tms1SnpIelBGMVRyU0VNUUEwbk5QWEM5UUhHYTJacVZyMDZ0YTA5a19QTUdUMnhUallpVkU4NHBLQmFteWFzUUhER3dKT1dDYnAzZlNneNIBtgFBVV95cUxOSFNZZEE0QTgxdjYxbGtEbTA3aVNieThaZm1VajExUWZQVFBQQ3c5SmlXSGU4dW55V25xWlh4UFo1WWQxc21XSElBYW9HWDN2VmU4OGRTaFlmNnUtRjJGbnZWeWVfdE1CSU1WZFJHWVNfbjd6RXJieXRKbG1wb29kSy05WlR0bDRRTmNGTURSZnRaeDl3dVhMa29ENVJhWVZLUlgxSEhPWHkxV2tNU0lDbnRfbm95UQ?oc=5\" target=\"_blank\">Celebration, shock and scepticism follow Colombia\u2019s presidential election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0RJWHIwR0xJaWJacHJOazZITGRMeDQ2OFA0UG9DTElReU16ODc2TWJXb3RIREFjaXBINng2a2R1enpYNEhyOEJScllubXZIeHVTOVctTl9kaXRpcDZQSld6YW1pLWxfQ2NHUy1VZXNWdUs5TWw3RDNmLXp5TFUtSDF6XzhmNjBYS1Fn?oc=5\" target=\"_blank\">Colombian presidency goes to runoff election that could redefine relations with the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWJLUkJrck1ueThpd3BlVXdrbnZhQzF3NUdYci1VN1pUM0w0Z2xCbGhfM2VFVUlBbnMxWks3SnlxNlNFSmNKcW9TMHhkVE1pVHgxV3QyNzdDeXpXb2xvWmV0VUo2TWxoMkJZTk5hdjE2WTFRR2NJRG16WUxnbl9oc1NJS0d2Wkpr?oc=5\" target=\"_blank\">How a Far-Right Outsider Became the Front-Runner in Colombia\u2019s Presidential Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2tKcXA1Zk9GaW1VX3JOS1B3NlZWSzI5Z2JwWmp3REo2YVdQZE5uSDBlYzZLLWEyTUtCMGpQM05fd2R5OXNScXFILUl6LWx1MDE0LXR6Vk9RMmpfaG9BZk9jMDIzUU9YXy1hV2tqTk1MaWYyRG1FVFZxdVFmT0RUd0YxZnJLZ3g1enNGdURZYk9QYUVTVGFGdUV5d1phNUtL?oc=5\" target=\"_blank\">Pro-Trump candidate pulls ahead in Colombia presidential vote as ruling party sows doubt in results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0dhVzFlcDVINHZZOThBbkRGNW0yMFZjVHJvcW1YSElpb2tzSmdYRVdYcnkwanhIQ2l2TVlWTnBvNTY1ankzNExJem1RN2oyNFIzQ1BoeEU3blBpUzFxWEp1MUlmSDVGX2NDR05sVVlaTW9Pa1BlZTU4WlU4a2tBUjY2RVZOTEktamZ0emk3NXU3VERpaFctaDc4cjNuOXlvTGhIXzJtN3VjTjg5Y3ZWcXNZVno?oc=5\" target=\"_blank\">Colombia\u2019s populist, Bukele-loving right looks likely to win power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1d6NnpVUTk4WVRMS2xLQkxhZjhIRmZvUlVxSTdKQzVUMVc1eVExbVlta0t4c1dzck9tTWtuVHVtVkJnaUtsSjU1OGY4R3RNM180SEdUWHJtVWl0bk44WUZ0Tms1SnpIelBGMVRyU0VNUUEwbk5QWEM5UUhHYTJacVZyMDZ0YTA5a19QTUdUMnhUallpVkU4NHBLQmFteWFzUUhER3dKT1dDYnAzZlNneNIBtgFBVV95cUxOSFNZZEE0QTgxdjYxbGtEbTA3aVNieThaZm1VajExUWZQVFBQQ3c5SmlXSGU4dW55V25xWlh4UFo1WWQxc21XSElBYW9HWDN2VmU4OGRTaFlmNnUtRjJGbnZWeWVfdE1CSU1WZFJHWVNfbjd6RXJieXRKbG1wb29kSy05WlR0bDRRTmNGTURSZnRaeDl3dVhMa29ENVJhWVZLUlgxSEhPWHkxV2tNU0lDbnRfbm95UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-06-02",
+          "headline": "Peak Performance: Toyota Introduces the2026 GRMN Corolla - Toyota USA Newsroom",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Toyota USA Newsroom",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkVWZGFhTU45NGZFUUxkYUxNSVg2UF9WX0lUZ1Q1S20wbGwtb3Y2T0hXeC10X0VtZGRLZGp1U0ZIaDVWU0tSM216cmp6U1pYSkFKcWlwWDB5d3FrUzBPNjRVbTlkZFNwd0tUWnJraGRtSkstTHVqUU5WcjN2dXAzTDZMYWJWdTdPalZpZ2Z3?oc=5\" target=\"_blank\">Peak Performance: Toyota Introduces the2026 GRMN Corolla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toyota USA Newsroom</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1hCaWw0U3dCQzVNSnIwYzUwZ1BhanpSSnBqM1NwTjROdndtcXpoRFMzQTA4c3BKU0pESkxrZDZKNEJOOE54OV9UT0dSeGZMOEY0QnNLb1RPNkUzdlF3MnhOOFFRRGs5Nzc3Q3pHbFNzYzM2U1dHMkJiVU85eEFtOHpxTERCcDlVdjY3aDR1enlyWkVmOHBieHZyQWR2Qmw3OHlPdkVR?oc=5\" target=\"_blank\">View Exterior Photos of the 2026 Toyota GRMN Corolla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car and Driver</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFlVMGN5bGM4cnFFMDVVUnFCTWpyUXBkSnpVZlFUSlZ2Z2l0MmplYWhXTkVaZFJ0Z0NwQ1ZIUnZNT2JQOUVoN2docWt4bUZ1TEROVHlUR0pmUzVfSFVWXzZsbTk4ZW5hZHluMUxrcmpOcGR5RUI0alBBWl9KM2lKNXZDWWpCc1hnZkxtaE50VEItWlhDSHEwSEJWdTlsZUE?oc=5\" target=\"_blank\">Motor sports add grit, muscle to Toyota's car pipeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nikkei Asia</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05SFVHOXY2eFNLQXFHV1NYUl85V3BzcmhnUUk4WW95dGVFUmY4d25lOTFxejM5RVVUUVJzUlBCYnYxU2FLWGE4d2NQSTBma2EwWjNFVFY3VHhYb3d4dFlKaXhKWVRfT0U?oc=5\" target=\"_blank\">\u2014The Ultimate GR Corolla, Honed in Motorsports and at N\u00fcrburgring\u2014</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GAZOO Racing</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQei1Zb0pKNmg3SDNUZ09pczJveVF4cUpFajhRT1FxekZLS0xKRDF6LVBUVGx5d3JYVUlvSnM5ZGNCRTJNbVF1TUNGdE5pMFFBU21UU2YzNnZ0QVFNQ0lXck9jUUlzamJyNzdGZElMcTBfNzRqWm1iLWhNcmN6VzM2RkNlMHJyVWx4d2JuT0FnN0VTWVk?oc=5\" target=\"_blank\">Toyota's hottest Corolla is heading our way. Sort of</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Driven Car Guide</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkVWZGFhTU45NGZFUUxkYUxNSVg2UF9WX0lUZ1Q1S20wbGwtb3Y2T0hXeC10X0VtZGRLZGp1U0ZIaDVWU0tSM216cmp6U1pYSkFKcWlwWDB5d3FrUzBPNjRVbTlkZFNwd0tUWnJraGRtSkstTHVqUU5WcjN2dXAzTDZMYWJWdTdPalZpZ2Z3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Job seekers are using \u2018AI role-play\u2019 to negotiate salary. Here\u2019s how to do it.",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "These AI prompts can help make you a master salary negotiator at your next job interview.",
+          "url": "https://www.marketwatch.com/story/job-seekers-are-using-ai-role-play-to-negotiate-salary-heres-how-to-do-it-149123b7?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-02",
+          "headline": "HPE\u2019s stock soars toward record gain as earnings show a networking bonanza",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.06451612903225806,
+          "source": "marketwatch_topstories",
+          "summary": "The artificial-intelligence buildout is driving intense demand for networking and servers, and Hewlett Packard Enterprise is reaping the rewards.",
+          "url": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-06-02",
+          "headline": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Berkshire Hathaway is buying Alphabet\u2019s stock at a discount as part of a newly announced equity offering.",
+          "url": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Short Seller Andrew Left Found Guilty of Securities Fraud - Bloomberg.com",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Bloomberg.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWtUTDQ3aGVkWlpTdEtmX25JUUtaQzRhQnF5VXBKTjI2aVlsZXY3UDZWRldxOGxLY0l2eWNWSUxMYm9hRk81Y1RJTHVYWG10VkFVYWFKOXFyWF9SVmFvTk9tMUYybUFNb1dyY1AtZlRpX3pfVEM5X1BaejJzNmtLZU95SFVtUjV6YWVIX3kwZWZyLXpLSDJWM3ZjYk9BQzA1RlVtaTQ3VG9FYXFh?oc=5\" target=\"_blank\">Short Seller Andrew Left Found Guilty of Securities Fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lnX0pTZ0VSRkZ4UTRhczVQR3RpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWtUTDQ3aGVkWlpTdEtmX25JUUtaQzRhQnF5VXBKTjI2aVlsZXY3UDZWRldxOGxLY0l2eWNWSUxMYm9hRk81Y1RJTHVYWG10VkFVYWFKOXFyWF9SVmFvTk9tMUYybUFNb1dyY1AtZlRpX3pfVEM5X1BaejJzNmtLZU95SFVtUjV6YWVIX3kwZWZyLXpLSDJWM3ZjYk9BQzA1RlVtaTQ3VG9FYXFh?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Bay Area Target's grocery section closed following rat infestation - SFGATE",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "SFGATE",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVZTOXNPbmE0d3lXNVhGQ09IVVVMUjNoR2I0QmpKUE42dTVOMXFvRjNVZ2g0cHVvMWlNSEtHOWtKd3ZuX09jME1ib0JhQk1OOUpWYUpzSjNfWWJhMVJ0dXlOaHVrMWUyLS1RWUplblZPM1VJaVpEWl9seWVTZ19QdEV6XzN4R3lZ?oc=5\" target=\"_blank\">Bay Area Target's grocery section closed following rat infestation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZW41N0JVQUNlNkhpazFRUjd2RGNwSnJ6ZDNHeGJCdDRreE1oNHZ5b3dsNjdNdlM4a1o2ZHlfWVdYaFR1LVV0QWg1b2VNR2dUU1BtRUp2ZXZDUXMzNC1zZW83Q3drZ2lISkVvVWdWenN3Y0JxZ2huZVI0WXBWMGPSAYcBQVVfeXFMUFhEWW45OEt0RnlVY3ljRTdZcURIVXJIcGFwaURkeThCMzNob1BnSjJTNVJRMUM1dmR3LXQwdm5qUmo5OGNiSFNkNVVlOGZuN0hBTGhjZmJXTnhhamVZbzZBR0ktY1p2YTZkamNOOFFjeW13dkM1U3cxTFhPME1rQUEtaXZjeGJJ?oc=5\" target=\"_blank\">No food available at San Jose Target store due to rat problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Bay Area</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5kLU5vR0lwb0JvZWdQTVU0eDFkRVhySmNvTWxOTzBTT0MwWklqUmxzMUZOUU1uemh4MzNYS1FKUkw1OHRCTEF2czRRazI5VWtqT3VCMnlneHNWVlZpTFlWeDFrNHJURk1nMVZiMkpNeFo3VW5yYTltakFn0gF_QVVfeXFMT3BmbS1jdTFqTjNKUkZncE9DQmstaVhNeDhDY1FaWmRQenFKTkdxNWhiS2FjUGNvNHVKdUJQR2Z1NjhFVExHNi1xVDFiT0hhQlFEaHRvYzBVNTBib2pXUTdJcXdHT2hqeGtYM1hrbE92RGFTanVWYjdmTV9YVG92VQ?oc=5\" target=\"_blank\">Two San Jose Targets dinged for rodent droppings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXJCT2k2RVZodHZUN0gwb1d2SVEzX05MaUJ2VlhoUWRiNDliWjFJZjRaSkFtR2FJOTVUYVBTMEktVlpKX3VicWdUcDAzX1NCZEZzbXd0TWpqYjIxT1RlVDVCRWpzemRNQmRDaUR2aTk1Q290OHlHZlpkdERFRFRzYWlKWFg4Z1JuVDFxRzYyV3ZVTUFURlh6eTdLMDV2UVlnS095YndpNUlsSHhhMXE0X3M1S2tLc0U1VWZJSDdFcjRzamNWZlZ1TW9rOHhHVENic2hZaC1BTHBVSkI5Nnc4R1o0X09wUQ?oc=5\" target=\"_blank\">Rat problem prompts food-area closure at San Jose Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVZTOXNPbmE0d3lXNVhGQ09IVVVMUjNoR2I0QmpKUE42dTVOMXFvRjNVZ2g0cHVvMWlNSEtHOWtKd3ZuX09jME1ib0JhQk1OOUpWYUpzSjNfWWJhMVJ0dXlOaHVrMWUyLS1RWUplblZPM1VJaVpEWl9seWVTZ19QdEV6XzN4R3lZ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "As Micron\u2019s stock blows past $1,000, Wall Street sees more gains in store",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.030303030303030304,
+          "source": "marketwatch_topstories",
+          "summary": "Micron stands to benefit from a favorable pricing environment, low competition \u2014 and now a new Nvidia chip, analysts say.",
+          "url": "https://www.marketwatch.com/story/as-microns-stock-blows-past-1-000-wall-street-sees-more-gains-in-store-755a51f9?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "\u201cI\u2019m not looking for a \u2018don\u2019t do it\u2019 opinion.\u201d",
+          "url": "https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Alphabet plans to raise $80B to pay for AI buildout - TechCrunch",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.07407407407407407,
+          "source": "TechCrunch",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXY3SDM3WmZJVjNhaDBLWmt6cm5WR0ZlV3NsdmxZVGllVm9tQ3FqR1dHRmxsaUg3VmxWTWJKcXREd2NiYktWZk16NkxteUdHSmpQZXptTUduRWFoX0RJNVVBbTIzSWc0SFhJa0tEYmlQdTRUbW1Zd3N1WXRuRHpvejlCclhMZXBJcmNkRGZXNzJWc2RnZVdv?oc=5\" target=\"_blank\">Alphabet plans to raise $80B to pay for AI buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFddIBqgFBVV95cUxQN1lhbnJlekNsalFLMEJhM0lqMEpsOE5jZFBqTjFWdFkzU1NDaWdwb3B4WVgtY2RfdWNuX1lOT1VOajBnTVEzSFl1Qm56NGJtMjZrN0g3WkZ3WmVrYVJ2THcwZXJQMlhyZWRNV01rLXpMWEt4MUdIUzRfOWd6dHFZSDR4UkJDYU9BWUIxU2V0RHV1aS02VGgySElWTkxYUEpCTzUtTllITlUwdw?oc=5\" target=\"_blank\">Alphabet plans to raise $80 billion from stock sales to fund AI buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSXRjeHZtbHJoVVBSc0IwZ1Z5NEtoUWpBd28xZDJfZUtYLW5EbmhXSTBPWEEyZmpoV25vMkJnR2pKdEJ1N195cGJfX2Zib21ZWUtTa29rTGNKQVZ1a0ZSY2QwOV81bWM0OUxfd3RqWThuRGpGTk9NeV81UUJ3MVBiTk1TUWt6cGE3d3dwSVBGVzVRaHZpOFlDWVRIa1FUUQ?oc=5\" target=\"_blank\">Alphabet to raise $80 billion in equity capital for AI spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjQ5YXVUdllqYk1xMDRFVmM5bkpHa2FtdmJuYnZQTjZ4b2U5VnZfbmhaV3lzUzgyLTNsSVl1cFZJMmV4OWt6Ync5NGVDcFRtQ0FoaUM2RF90UEYzU0tSYTE3cXZDclhxa0xZUi1GWkxGdG9RdXFFTlExa2pDMHNxckdMTVdpRFZ4RmZBOU1WODdLZjg0TUM5RmJLeVo1a3ZkeW02Z1c4dzRxNVV0bS1wb2owTQ?oc=5\" target=\"_blank\">Alphabet to Raise $80 Billion in Equity for AI Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5\" target=\"_blank\">Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXY3SDM3WmZJVjNhaDBLWmt6cm5WR0ZlV3NsdmxZVGllVm9tQ3FqR1dHRmxsaUg3VmxWTWJKcXREd2NiYktWZk16NkxteUdHSmpQZXptTUduRWFoX0RJNVVBbTIzSWc0SFhJa0tEYmlQdTRUbW1Zd3N1WXRuRHpvejlCclhMZXBJcmNkRGZXNzJWc2RnZVdv?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "HBO\u2019s \u2018House of the Dragon,\u2019 Hulu\u2019s \u2018The Bear\u2019 and Apple\u2019s \u2018Cape Fear\u2019 will try to compete with the World Cup",
+          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Trump faces a new inflation warning from the bond market, adding to his midterm challenges - PBS",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "weakness"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.023255813953488372,
+          "source": "PBS",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGh6eUhCTkZkdUVETkpsQnlvQTRjSFJhVUFqcnVEXzZwTHktOHhwdWR6RFN5ZnhRRlVjdEFINFZ0dHpLRkFVOVdHYVJiQlpCTE5mMS00VFdobWQyVXZpRERUOURwOHoxX21tLTBRd1NFWl9lQWl6cFlRMEFzclZIVHdTU29Ea1FVUml4QnRJX1RIT1k5b1lKWlZpaFlwZVFIVXhEcjBhdGVFWXBCZmttZUZZWjM4bDFtMmxpcXhGMkYtYV8wdFHSAcsBQVVfeXFMT1ZUN0psdmVoMk1kbUZLREZXUW1fckVWRFBXTzFBQnZGUnF1aENIWGR1STA4Z3hHU0o4TmVuQ2VUZ1VhSFp3ZjFTZWZPejhhOGpfTjhibXd1NnhFVTlsdnNPcVV4a0VkWU5kMzk2THV5SVdYaE5UZ1Vyczh6dDhzSWFVcm10M1l3Y2pRMnQ3TnJDemVrZ0F1STQtYkJjSWlnZldVTENXa0tYdU1LelRuU0IwUzFzU1hnSlZyakpRVWI0RWlpUU9NSWtKVmM?oc=5\" target=\"_blank\">Trump faces a new inflation warning from the bond market, adding to his midterm challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1JNS0JVaFJVTlRNZzlHdDJsMkUycTVLX2luWVpGYlNrZXR2ZEdNUzlRRnBZTHN4YzlESmdrTWJONEhJcWY2R0EySnpiaWhSelZaMlpPT1k4dXQtdS1wejdPYThGU1Z1ZUl5b3BVLVNwRG1JbFZhT1lwR2JxWlBpWUQtalZoTGgyN3VBSdIBkgFBVV95cUxNOTQ3WWV5UG5TajlEd2VtUHJhUTJwZlpEMXVSWU8zZURsc2RkZ05HWXBnMU9LdVJQUGxNbWVXbjRtdnU4ZU8zeFZ1R3ZmRW9rUTF6V2RWbkFXMjBKTjFUM21SM0d0LTJRc1dNUDBEZ2QwYnZWTWEtOVpUZmN1SUJveklTQ2J2eF9mOHQ0QWczTVhkQQ?oc=5\" target=\"_blank\">Republicans stare down inflation abyss with midterms fast approaching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWjByTU5veEw5TU1yY2RucGpUdUJIWEVfSVpjSXdHbXZqa09KMXQ5OHpOS0JCblFNMjFod2daX3doWG9IcWoxUWhDTHhNQ2hWNWMwc2FHTFhJWWpNT0JvSTJRZHhJVURwZXpHSW9ZNDZFNm5SV3kxVW1vT2RZOWRMX0dwSE9ubXRWZkQ3QkgydWNndkdUWjlF?oc=5\" target=\"_blank\">Inflation won Trump the presidency, but could cost him the midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzlKUFRXeVV4QmVsTk41b1RzUHZWa010cy1jd0lqVExKbHFhTTJuV1UtWTU0X0ppTUZPR3R6VWtBcDRkYmFzU0xOaldyWVNjTXhvemE4bS1waDdZamdvbUIyRGdlNE5HbGJaZXVtWDZMbGktc0tEeFpqblJyN0wzVFljMHF6WVNra0l1b09URUpEa0dDdWNsNlhHSQ?oc=5\" target=\"_blank\">\u2018High risk gamble\u2019: How Trump\u2019s economic messaging is hurting Republicans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWFhbVd3MktCS3FDVlJTZkRxNUFibnk0YmFFWm9EWUljb1BvZXYxbUR6VF83RldXeDAwSGstaS1LbExRVG5BWlhEYUlzSVlzNTFxUldfVXZ6UElWRjJCZ3VuU0JXWm1hSEt2OEItNFRKLUxDSk1uYmJWWjlSSHI5UTMyUkZHTVdWX1NN?oc=5\" target=\"_blank\">Trump\u2019s Loyalty to Fossil Fuel Companies Is Driving Up Inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for Policy Studies</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGh6eUhCTkZkdUVETkpsQnlvQTRjSFJhVUFqcnVEXzZwTHktOHhwdWR6RFN5ZnhRRlVjdEFINFZ0dHpLRkFVOVdHYVJiQlpCTE5mMS00VFdobWQyVXZpRERUOURwOHoxX21tLTBRd1NFWl9lQWl6cFlRMEFzclZIVHdTU29Ea1FVUml4QnRJX1RIT1k5b1lKWlZpaFlwZVFIVXhEcjBhdGVFWXBCZmttZUZZWjM4bDFtMmxpcXhGMkYtYV8wdFHSAcsBQVVfeXFMT1ZUN0psdmVoMk1kbUZLREZXUW1fckVWRFBXTzFBQnZGUnF1aENIWGR1STA4Z3hHU0o4TmVuQ2VUZ1VhSFp3ZjFTZWZPejhhOGpfTjhibXd1NnhFVTlsdnNPcVV4a0VkWU5kMzk2THV5SVdYaE5UZ1Vyczh6dDhzSWFVcm10M1l3Y2pRMnQ3TnJDemVrZ0F1STQtYkJjSWlnZldVTENXa0tYdU1LelRuU0IwUzFzU1hnSlZyakpRVWI0RWlpUU9NSWtKVmM?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "metals"
+      ],
+      "company_profile": {
+        "industry": "Specialty Chemicals",
+        "provider": "yfinance",
+        "sector": "Basic Materials"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 8,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Elkem ASA: Notification of trade - primary insiders - Finansavisen",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Finansavisen",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXNnR0hZLXdQU3g1b3k3YnNlbFdqRnVtWjdUQ0R4NUdyNTJkWVhwOHFOREVHUHdna1o1OVM3QS1DS2VLQkhKaGJuQ1ZVNTNrZDhjSlNlUGgyX1hjSDdibmNkcXkxV2ZkVC11X05GOVMwWVdnUGl3NUVvaVUxV053M1FhdlVKdHpWNGdVdC1BWTlIZGVaZFBtSV94Y1JDNC1ZVEd5S0pVOUN0UEJMcDJnVVZIdzRna3FVRjdvWE5iaVVvanF0Zzl2LXJvZEZQeklkRS1rUw?oc=5\" target=\"_blank\">Elkem ASA: Notification of trade - primary insiders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXNnR0hZLXdQU3g1b3k3YnNlbFdqRnVtWjdUQ0R4NUdyNTJkWVhwOHFOREVHUHdna1o1OVM3QS1DS2VLQkhKaGJuQ1ZVNTNrZDhjSlNlUGgyX1hjSDdibmNkcXkxV2ZkVC11X05GOVMwWVdnUGl3NUVvaVUxV053M1FhdlVKdHpWNGdVdC1BWTlIZGVaZFBtSV94Y1JDNC1ZVEd5S0pVOUN0UEJMcDJnVVZIdzRna3FVRjdvWE5iaVVvanF0Zzl2LXJvZEZQeklkRS1rUw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-01",
+          "headline": "Elkem Raises NOK300 Million from Subsequent Offering - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXljaWpuUDVxMnoxY2tuc1F4TldCWHNSUTh3eVRRQzUzWF80Q3lZbUhqeDRwRlJnU0Q2VWY1ZlppRGwyRTQtQzNBVkdzSXNkSkkyOG9hUUpQRUFab0FCUWZSTmU5VmV3MGM4N1JzZ3QxNnc5T0FMZEdqWkg0bW1XWGdyTGoyZ1pJcTFFU1RfRnczREFtWC01VHYtVnlfV0JjZGZKTVk2SFo?oc=5\" target=\"_blank\">Elkem Raises NOK300 Million from Subsequent Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXljaWpuUDVxMnoxY2tuc1F4TldCWHNSUTh3eVRRQzUzWF80Q3lZbUhqeDRwRlJnU0Q2VWY1ZlppRGwyRTQtQzNBVkdzSXNkSkkyOG9hUUpQRUFab0FCUWZSTmU5VmV3MGM4N1JzZ3QxNnc5T0FMZEdqWkg0bW1XWGdyTGoyZ1pJcTFFU1RfRnczREFtWC01VHYtVnlfV0JjZGZKTVk2SFo?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-01",
+          "headline": "Elkem announces results of subsequent offering, allocation of shares - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2RnV0N6alM4YWVPUUFLV3hIM3d4OUFJWkd6NU1fR25XVnl5RmZQSmZ0QXF5eHBJbU5pVGw3RmVyMEFfUWVZOW5jNVpTM0YyaGRfeTJueFV6dURMRHEzSmJkc0FPRV80dDltZzktTUd4YlRQTjlvX3JHaG5KU201RVFTR0ktYXJYaUVQRnE4b3RVd3F6b2FoZzdPWE9VU2NOcHRCbDhQelhQX1ZEcXVyX0RSZXhvck1LUVVZZQ?oc=5\" target=\"_blank\">Elkem announces results of subsequent offering, allocation of shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2RnV0N6alM4YWVPUUFLV3hIM3d4OUFJWkd6NU1fR25XVnl5RmZQSmZ0QXF5eHBJbU5pVGw3RmVyMEFfUWVZOW5jNVpTM0YyaGRfeTJueFV6dURMRHEzSmJkc0FPRV80dDltZzktTUd4YlRQTjlvX3JHaG5KU201RVFTR0ktYXJYaUVQRnE4b3RVd3F6b2FoZzdPWE9VU2NOcHRCbDhQelhQX1ZEcXVyX0RSZXhvck1LUVVZZQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-01",
+          "headline": "Elkem Announces Results Of Subsequent Offering, Allocation Of Shares - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV01ISHA0MDRFRFpxYWV5Y0hnWkpDZUEyZWpJVlRCODhUbmFYVnJfV1hDN2Zab1RXSmU4VUN5MmNmaWxKa1Z2c1NscWg0SmtnTkY0a19ucXlPdXIzS3JKdEJCZTNrNGg2MHFZemROQVZSM0Fnb0U4SEVhU2ZtTFZEbVZ0MXc2VXJfS1p1NTJRT0JLZmkyV2xiYXN4OThmYnZoU3R5SmlTSnN1U3B5SVR5a3NSUU40T1F3MXNkbm5uRjZxSHVlRDI1MzJmMU16a1FXNzE4?oc=5\" target=\"_blank\">Elkem Announces Results Of Subsequent Offering, Allocation Of Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV01ISHA0MDRFRFpxYWV5Y0hnWkpDZUEyZWpJVlRCODhUbmFYVnJfV1hDN2Zab1RXSmU4VUN5MmNmaWxKa1Z2c1NscWg0SmtnTkY0a19ucXlPdXIzS3JKdEJCZTNrNGg2MHFZemROQVZSM0Fnb0U4SEVhU2ZtTFZEbVZ0MXc2VXJfS1p1NTJRT0JLZmkyV2xiYXN4OThmYnZoU3R5SmlTSnN1U3B5SVR5a3NSUU40T1F3MXNkbm5uRjZxSHVlRDI1MzJmMU16a1FXNzE4?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-01",
+          "headline": "Elkem ASA - Final results of the subsequent offering and allocation of offer shares - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkd3TWlEV2Z4amh1RjV4cklMRXBXaXZmamNncUFDWmxXZmdIakNnT29ueWpsb3ZKQ0JGdEU1VWJOWGZ1ZTdQVWJmWE41eGNrQ3daYzJfak9GWDFqaVRNRVpVSnhMWG80MGlxVDBqbHFVQzNMT19uRVRRZ2xEaXF1V2dxREV5WWhyOWhEbnR5MjlMWUkxVFIxVC12cDVNYzJ2SjFZelhReGFkdmViM1pJRm5vaUVaNHZSLUMyWmNvdjBjM3l3MlNSb002Y19mRXc?oc=5\" target=\"_blank\">Elkem ASA - Final results of the subsequent offering and allocation of offer shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkd3TWlEV2Z4amh1RjV4cklMRXBXaXZmamNncUFDWmxXZmdIakNnT29ueWpsb3ZKQ0JGdEU1VWJOWGZ1ZTdQVWJmWE41eGNrQ3daYzJfak9GWDFqaVRNRVpVSnhMWG80MGlxVDBqbHFVQzNMT19uRVRRZ2xEaXF1V2dxREV5WWhyOWhEbnR5MjlMWUkxVFIxVC12cDVNYzJ2SjFZelhReGFkdmViM1pJRm5vaUVaNHZSLUMyWmNvdjBjM3l3MlNSb002Y19mRXc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-01",
+          "headline": "Elkem ASA - Final results of the subsequent offering and allocation of offer shares - Finansavisen",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Finansavisen",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOR01tNENILTNoUUEzUjREM2ZnYmVrYVo5UFJRSTBNN0VUbXFnc2ExTHdGZFUtSTRVemhNRUFxenpRREh1aTVlbHdBai1OSHVORVhfRGdFZjNKRUswS2hiNFNnV3VESGJES2x3RXBNckV5QnFHVDhMRVdKb3phaEpEb1d6MkZGM3ROSDUybzV1Tkl0bmRVNjduVnVaNnZvSG5Vd0U1X19IeDhYWWJpMDRMMzRHN2VmMWNtS09heWpTczZSLVdPYW5yQzR4QkRtajRqZkRPUE1rMW10WEVZQlE0cGY2VW9MU1FvSmh5c0ltSmlDOS1XMWdzeHVGZm5Ybkp0?oc=5\" target=\"_blank\">Elkem ASA - Final results of the subsequent offering and allocation of offer shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR01tNENILTNoUUEzUjREM2ZnYmVrYVo5UFJRSTBNN0VUbXFnc2ExTHdGZFUtSTRVemhNRUFxenpRREh1aTVlbHdBai1OSHVORVhfRGdFZjNKRUswS2hiNFNnV3VESGJES2x3RXBNckV5QnFHVDhMRVdKb3phaEpEb1d6MkZGM3ROSDUybzV1Tkl0bmRVNjduVnVaNnZvSG5Vd0U1X19IeDhYWWJpMDRMMzRHN2VmMWNtS09heWpTczZSLVdPYW5yQzR4QkRtajRqZkRPUE1rMW10WEVZQlE0cGY2VW9MU1FvSmh5c0ltSmlDOS1XMWdzeHVGZm5Ybkp0?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-05-29",
+          "headline": "Elkem ASA - Preliminary results of the subsequent offering - Finansavisen",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Finansavisen",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxONElvWi1GeVBrMk9Cb0hjaVQxeW8xUXhTRy1sRUVqNm03U2pHUEpzQ3RYY1gtU25iWXB4aXR5dGE0Yk5KZ3hEVnotVFpIcHRtU1hOTXVKTjU5WE51NDNYV3Bkbm5mdW5GWWVtYmdSbU40VE5XVjI2MG1EZnM2Vl9vZlNlUEhDZS03ZENqM0RkczJiOUxWRXlySmNFRnRoMVV5U2tCWFduc1ZqLTlrRW9JeEJRYWhpdGVHZ2dXRGttVDVsa1FILWFiZGNLbUJXakh1WWNxQXh4Qy1ONDdSaHZn?oc=5\" target=\"_blank\">Elkem ASA - Preliminary results of the subsequent offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONElvWi1GeVBrMk9Cb0hjaVQxeW8xUXhTRy1sRUVqNm03U2pHUEpzQ3RYY1gtU25iWXB4aXR5dGE0Yk5KZ3hEVnotVFpIcHRtU1hOTXVKTjU5WE51NDNYV3Bkbm5mdW5GWWVtYmdSbU40VE5XVjI2MG1EZnM2Vl9vZlNlUEhDZS03ZENqM0RkczJiOUxWRXlySmNFRnRoMVV5U2tCWFduc1ZqLTlrRW9JeEJRYWhpdGVHZ2dXRGttVDVsa1FILWFiZGNLbUJXakh1WWNxQXh4Qy1ONDdSaHZn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-17",
+          "headline": "Assessing Elkem (OB:ELK) Valuation After Recent Share Price Pullback And Undervaluation Debate - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUlVocndZT0ZubkZQSy1Dd01nQ3l5dEs4Y3hyUDBDUnMtRGkyWXFseE5yT3c5dko2d1VLYzhmREhZcGo0eUhBOXpMV3I3RnNKY0pVVzdxLXZGTFp1Sk1BTGlJV3dlVk44SXhGZHdaUjJ4UkU5TmZiNUFVOTJYelpDcjJLWXg1a2c4ajU0TlNKR25ZbElHam4xaTE2U1o5UQ?oc=5\" target=\"_blank\">Assessing Elkem (OB:ELK) Valuation After Recent Share Price Pullback And Undervaluation Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUlVocndZT0ZubkZQSy1Dd01nQ3l5dEs4Y3hyUDBDUnMtRGkyWXFseE5yT3c5dko2d1VLYzhmREhZcGo0eUhBOXpMV3I3RnNKY0pVVzdxLXZGTFp1Sk1BTGlJV3dlVk44SXhGZHdaUjJ4UkU5TmZiNUFVOTJYelpDcjJLWXg1a2c4ajU0TlNKR25ZbElHam4xaTE2U1o5UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-17",
+          "headline": "Assessing Elkem (OB:ELK) Valuation After Recent Share Price Pullback And Undervaluation Debate - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUlVocndZT0ZubkZQSy1Dd01nQ3l5dEs4Y3hyUDBDUnMtRGkyWXFseE5yT3c5dko2d1VLYzhmREhZcGo0eUhBOXpMV3I3RnNKY0pVVzdxLXZGTFp1Sk1BTGlJV3dlVk44SXhGZHdaUjJ4UkU5TmZiNUFVOTJYelpDcjJLWXg1a2c4ajU0TlNKR25ZbElHam4xaTE2U1o5UQ?oc=5\" target=\"_blank\">Assessing Elkem (OB:ELK) Valuation After Recent Share Price Pullback And Undervaluation Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUlVocndZT0ZubkZQSy1Dd01nQ3l5dEs4Y3hyUDBDUnMtRGkyWXFseE5yT3c5dko2d1VLYzhmREhZcGo0eUhBOXpMV3I3RnNKY0pVVzdxLXZGTFp1Sk1BTGlJV3dlVk44SXhGZHdaUjJ4UkU5TmZiNUFVOTJYelpDcjJLWXg1a2c4ajU0TlNKR25ZbElHam4xaTE2U1o5UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-15",
+          "headline": "Revenue per share of Elkem ASA \u2013 SWB:1DP - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE1ZS1d2anpiMDJ1ZkZRbVZIR1FlNWgyWVVpdk0tNHIwZFA5a29iVjVjR2JHVWNtSjlnSU9id1hwYk5WcW9iYlctLVRuaXpBU3dmVEVKM2ttbnh1YnAwWTcwLVJ1ZmdOM3BHbWFhZTZmR2VhaTdyMWRVODMyMHhKU1JuT3IxSFk2R19KcnFDLThQRDFhOXJYZTlmWQ?oc=5\" target=\"_blank\">Revenue per share of Elkem ASA \u2013 SWB:1DP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE1ZS1d2anpiMDJ1ZkZRbVZIR1FlNWgyWVVpdk0tNHIwZFA5a29iVjVjR2JHVWNtSjlnSU9id1hwYk5WcW9iYlctLVRuaXpBU3dmVEVKM2ttbnh1YnAwWTcwLVJ1ZmdOM3BHbWFhZTZmR2VhaTdyMWRVODMyMHhKU1JuT3IxSFk2R19KcnFDLThQRDFhOXJYZTlmWQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "capital_markets"
+          ],
+          "date": "2026-05-06",
+          "headline": "Elkem ASA: Private Placement successfully placed and contemplated Subsequent Offering - marketscreener.com",
+          "kind": "negative",
+          "negative_tags": [
+            "dilution"
+          ],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlRLb2k5R1g5S1VtZklHNVlTbXRUXzhWNXY4b0hIRFR5M0dtbkZERUFWZHV0cV9qa0pZVnV4V3FhM212OW9fOVRjSkZ4LVltcnctRnJ5aTZpZ1RHMkVrVHFvVWtzRVlCYW1XMHBTZ05pMjZuUGU5SUhUQnlSNGNoUElnTThCTkFZRTFxYTJMNVZQQzBCMGZES2pQN0haakF0bVlLOWJxVHVVcWdoZi1RaHdnb1FYOW9MS21FUGlGanE1bjA5TUV5aWxXem5nWmhnWmpV?oc=5\" target=\"_blank\">Elkem ASA: Private Placement successfully placed and contemplated Subsequent Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlRLb2k5R1g5S1VtZklHNVlTbXRUXzhWNXY4b0hIRFR5M0dtbkZERUFWZHV0cV9qa0pZVnV4V3FhM212OW9fOVRjSkZ4LVltcnctRnJ5aTZpZ1RHMkVrVHFvVWtzRVlCYW1XMHBTZ05pMjZuUGU5SUhUQnlSNGNoUElnTThCTkFZRTFxYTJMNVZQQzBCMGZES2pQN0haakF0bVlLOWJxVHVVcWdoZi1RaHdnb1FYOW9MS21FUGlGanE1bjA5TUV5aWxXem5nWmhnWmpV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-06",
+          "headline": "Work set to start at Elkem-Carbide site | Daily Gate City - Keokuk, Iowa - Daily Gate City",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Daily Gate City",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWRNRTFUMUo2N29YM3JCVFVrdkhPbnExc2VYN2RLWHdRT2ROdnJLRWNWRGE2VWFXdkgtUGxiUVBsN250ODdvQTJsUmhEUWtRS2xMaWQ5MkhCMlV1Y1VRNm5EaFZnNjZiSF96STg3VTlHT1RiMEpQVkh1QmFPYWtid3ZhbXkzV3dhU2Y1ZjVOTjZlTlJBTWM4bmJ6V1U3aGFZdzN0WmhfVnZCWThQeWVUVXJQZnI3dnBmeWhtaWJTdmdEQ2puWWtxcTZmT0Nlc296ZVZaRmFhM1Q0eFZD?oc=5\" target=\"_blank\">Work set to start at Elkem-Carbide site | Daily Gate City - Keokuk, Iowa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Gate City</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWRNRTFUMUo2N29YM3JCVFVrdkhPbnExc2VYN2RLWHdRT2ROdnJLRWNWRGE2VWFXdkgtUGxiUVBsN250ODdvQTJsUmhEUWtRS2xMaWQ5MkhCMlV1Y1VRNm5EaFZnNjZiSF96STg3VTlHT1RiMEpQVkh1QmFPYWtid3ZhbXkzV3dhU2Y1ZjVOTjZlTlJBTWM4bmJ6V1U3aGFZdzN0WmhfVnZCWThQeWVUVXJQZnI3dnBmeWhtaWJTdmdEQ2puWWtxcTZmT0Nlc296ZVZaRmFhM1Q0eFZD?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-30",
+          "headline": "Earnings call transcript: Elkem ASA faces challenges in Q1 2026 - Investing.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONlowS0dlWEt1aFkzMkdNLTV4c3pVcl9nbWpKR2pwUm5NeFJfTEpjQXhpUFFsUUg4U1NrRkVCOGlYXzFlOUVQUm5vZ3FsM3RBYUZxWUlneDdGV2hzWHp0RjNETmJsQVkyNDdpQ2l6SGtCV1N2SVI3UXNXN3lzanJFekJETF80T0N6TF9Qb0hPV0hoNnhjeElrLTBNbFJkOVVITS1UVHRtblFBX3RVQ1luM0RIcHFuV1lnR1E?oc=5\" target=\"_blank\">Earnings call transcript: Elkem ASA faces challenges in Q1 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlowS0dlWEt1aFkzMkdNLTV4c3pVcl9nbWpKR2pwUm5NeFJfTEpjQXhpUFFsUUg4U1NrRkVCOGlYXzFlOUVQUm5vZ3FsM3RBYUZxWUlneDdGV2hzWHp0RjNETmJsQVkyNDdpQ2l6SGtCV1N2SVI3UXNXN3lzanJFekJETF80T0N6TF9Qb0hPV0hoNnhjeElrLTBNbFJkOVVITS1UVHRtblFBX3RVQ1luM0RIcHFuV1lnR1E?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-04-30",
+          "headline": "Elkem ASA 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:ELKEF) 2026-04-30 - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONnpKY0xkUVdMZmx5Ym5lM01WWFY3NmE2M3lTTm9JQjVJdjNUTkV5YXFfcUNCMDZqZVdjM1FqR0FYdlpXMDdJOWFXM09XSVFvenFvT0x6U2k0VUprTzBpT0JpRDhyUmRacC1aNHlMSlZEdlluY00yVmpiR3dNYzU2QnpXXzVaM1RsbGxmWkVCQ1NkWkxvQU5kYQ?oc=5\" target=\"_blank\">Elkem ASA 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:ELKEF) 2026-04-30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnpKY0xkUVdMZmx5Ym5lM01WWFY3NmE2M3lTTm9JQjVJdjNUTkV5YXFfcUNCMDZqZVdjM1FqR0FYdlpXMDdJOWFXM09XSVFvenFvT0x6U2k0VUprTzBpT0JpRDhyUmRacC1aNHlMSlZEdlluY00yVmpiR3dNYzU2QnpXXzVaM1RsbGxmWkVCQ1NkWkxvQU5kYQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-04-29",
+          "headline": "Elkem and Enova join forces to expand biocarbon availbility - chemengonline.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "chemengonline.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQSW5JdmhEcE11elBYd1hjZ0MxcWFrMms1LTZtUXd4ZndjajVYSndqbEwtcUxlMnFaM2lUNkhTSzFOVVdza080cnFyTFB0UlJMUFl0YWsxOEduamhYd3ZPX1pmbVE0ZldtUFZtbTk3MXNWOVlLclBqZjk2N1M0dWszZ19EVTROcXZUNHVBN1dfUHJlaUFy?oc=5\" target=\"_blank\">Elkem and Enova join forces to expand biocarbon availbility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chemengonline.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSW5JdmhEcE11elBYd1hjZ0MxcWFrMms1LTZtUXd4ZndjajVYSndqbEwtcUxlMnFaM2lUNkhTSzFOVVdza080cnFyTFB0UlJMUFl0YWsxOEduamhYd3ZPX1pmbVE0ZldtUFZtbTk3MXNWOVlLclBqZjk2N1M0dWszZ19EVTROcXZUNHVBN1dfUHJlaUFy?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 1,
+      "positive_signal_count": 0
+    },
+    "sentiment": {
+      "days_sampled": 9,
+      "delta": 0.0,
+      "prior_mean": 0.0,
+      "recent_mean": 0.0
+    },
+    "technical": {
+      "atr14": 1.1826989825368,
+      "close": 33.58,
+      "close_vs_ema200_pct": 21.699652179770364,
+      "close_vs_ema20_pct": 10.529819045509086,
+      "close_vs_ema50_pct": 14.142715298824893,
+      "close_vs_hh20_pct": 2.3780487804878083,
+      "ema20": 30.3809418037443,
+      "ema200": 27.5925192870698,
+      "ema50": 29.419310651659,
+      "entry_ready": false,
+      "hh20_prev": 32.8,
+      "selection_bucket": "candidate",
+      "vol_anom": 1.42969511069923
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "metals"
+    ],
+    "industry": "Specialty Chemicals",
+    "sector": "Basic Materials",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 0 constructive, 1 adverse, and 8 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-05-06: Elkem ASA: Private Placement successfully placed and contemplated Subsequent Offering - marketscreener.com."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (32.80), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 32.80 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "high",
+      "point": "Dilution or share-supply risk remains relevant: 2026-05-06: Elkem ASA: Private Placement successfully placed and contemplated Subsequent Offering - marketscreener.com."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is decisively above the 20-day high trigger",
+        "points": 10,
+        "value": 2.38
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 10.53
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 14.14
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 21.7
+      },
+      {
+        "label": "Adverse local news signals",
+        "points": -2,
+        "value": 1
+      },
+      {
+        "label": "Dilution or share-supply overhang detected",
+        "points": -6
+      }
+    ],
+    "confidence": "high",
+    "label": "mixed_watch",
+    "score_0_to_100": 47
+  },
+  "sources": [
+    {
+      "published_at": "2026-06-02",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 5 EU - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-06-02_universe_5_EU_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "Finansavisen",
+      "title": "Elkem ASA: Notification of trade - primary insiders - Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXNnR0hZLXdQU3g1b3k3YnNlbFdqRnVtWjdUQ0R4NUdyNTJkWVhwOHFOREVHUHdna1o1OVM3QS1DS2VLQkhKaGJuQ1ZVNTNrZDhjSlNlUGgyX1hjSDdibmNkcXkxV2ZkVC11X05GOVMwWVdnUGl3NUVvaVUxV053M1FhdlVKdHpWNGdVdC1BWTlIZGVaZFBtSV94Y1JDNC1ZVEd5S0pVOUN0UEJMcDJnVVZIdzRna3FVRjdvWE5iaVVvanF0Zzl2LXJvZEZQeklkRS1rUw?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "marketscreener.com",
+      "title": "Elkem Raises NOK300 Million from Subsequent Offering - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXljaWpuUDVxMnoxY2tuc1F4TldCWHNSUTh3eVRRQzUzWF80Q3lZbUhqeDRwRlJnU0Q2VWY1ZlppRGwyRTQtQzNBVkdzSXNkSkkyOG9hUUpQRUFab0FCUWZSTmU5VmV3MGM4N1JzZ3QxNnc5T0FMZEdqWkg0bW1XWGdyTGoyZ1pJcTFFU1RfRnczREFtWC01VHYtVnlfV0JjZGZKTVk2SFo?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "marketscreener.com",
+      "title": "Elkem announces results of subsequent offering, allocation of shares - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2RnV0N6alM4YWVPUUFLV3hIM3d4OUFJWkd6NU1fR25XVnl5RmZQSmZ0QXF5eHBJbU5pVGw3RmVyMEFfUWVZOW5jNVpTM0YyaGRfeTJueFV6dURMRHEzSmJkc0FPRV80dDltZzktTUd4YlRQTjlvX3JHaG5KU201RVFTR0ktYXJYaUVQRnE4b3RVd3F6b2FoZzdPWE9VU2NOcHRCbDhQelhQX1ZEcXVyX0RSZXhvck1LUVVZZQ?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "TradingView",
+      "title": "Elkem Announces Results Of Subsequent Offering, Allocation Of Shares - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV01ISHA0MDRFRFpxYWV5Y0hnWkpDZUEyZWpJVlRCODhUbmFYVnJfV1hDN2Zab1RXSmU4VUN5MmNmaWxKa1Z2c1NscWg0SmtnTkY0a19ucXlPdXIzS3JKdEJCZTNrNGg2MHFZemROQVZSM0Fnb0U4SEVhU2ZtTFZEbVZ0MXc2VXJfS1p1NTJRT0JLZmkyV2xiYXN4OThmYnZoU3R5SmlTSnN1U3B5SVR5a3NSUU40T1F3MXNkbm5uRjZxSHVlRDI1MzJmMU16a1FXNzE4?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "marketscreener.com",
+      "title": "Elkem ASA - Final results of the subsequent offering and allocation of offer shares - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkd3TWlEV2Z4amh1RjV4cklMRXBXaXZmamNncUFDWmxXZmdIakNnT29ueWpsb3ZKQ0JGdEU1VWJOWGZ1ZTdQVWJmWE41eGNrQ3daYzJfak9GWDFqaVRNRVpVSnhMWG80MGlxVDBqbHFVQzNMT19uRVRRZ2xEaXF1V2dxREV5WWhyOWhEbnR5MjlMWUkxVFIxVC12cDVNYzJ2SjFZelhReGFkdmViM1pJRm5vaUVaNHZSLUMyWmNvdjBjM3l3MlNSb002Y19mRXc?oc=5"
+    },
+    {
+      "published_at": "2026-06-01",
+      "publisher": "Finansavisen",
+      "title": "Elkem ASA - Final results of the subsequent offering and allocation of offer shares - Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR01tNENILTNoUUEzUjREM2ZnYmVrYVo5UFJRSTBNN0VUbXFnc2ExTHdGZFUtSTRVemhNRUFxenpRREh1aTVlbHdBai1OSHVORVhfRGdFZjNKRUswS2hiNFNnV3VESGJES2x3RXBNckV5QnFHVDhMRVdKb3phaEpEb1d6MkZGM3ROSDUybzV1Tkl0bmRVNjduVnVaNnZvSG5Vd0U1X19IeDhYWWJpMDRMMzRHN2VmMWNtS09heWpTczZSLVdPYW5yQzR4QkRtajRqZkRPUE1rMW10WEVZQlE0cGY2VW9MU1FvSmh5c0ltSmlDOS1XMWdzeHVGZm5Ybkp0?oc=5"
+    },
+    {
+      "published_at": "2026-05-29",
+      "publisher": "Finansavisen",
+      "title": "Elkem ASA - Preliminary results of the subsequent offering - Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONElvWi1GeVBrMk9Cb0hjaVQxeW8xUXhTRy1sRUVqNm03U2pHUEpzQ3RYY1gtU25iWXB4aXR5dGE0Yk5KZ3hEVnotVFpIcHRtU1hOTXVKTjU5WE51NDNYV3Bkbm5mdW5GWWVtYmdSbU40VE5XVjI2MG1EZnM2Vl9vZlNlUEhDZS03ZENqM0RkczJiOUxWRXlySmNFRnRoMVV5U2tCWFduc1ZqLTlrRW9JeEJRYWhpdGVHZ2dXRGttVDVsa1FILWFiZGNLbUJXakh1WWNxQXh4Qy1ONDdSaHZn?oc=5"
+    }
+  ],
+  "summary": "ELK scores 47/100 as a mixed_watch setup. The score is driven mainly by the technical breakout picture, with 0 constructive versus 1 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "ELK"
+}

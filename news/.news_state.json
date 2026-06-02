@@ -291,6 +291,10 @@
     "last_fetch_utc": "2026-04-23T09:15:06.001499+00:00",
     "provider": "google_news_rss"
   },
+  "ATEA": {
+    "last_fetch_utc": "2026-06-02T04:00:05.659612+00:00",
+    "provider": "google_news_rss"
+  },
   "ATI": {
     "last_fetch_utc": "2026-06-01T09:15:05.563107+00:00",
     "provider": "google_news_rss"
@@ -373,6 +377,10 @@
   },
   "BIJ": {
     "last_fetch_utc": "2026-04-13T12:34:54.457402+00:00",
+    "provider": "google_news_rss"
+  },
+  "BILI-A": {
+    "last_fetch_utc": "2026-06-02T04:00:05.659612+00:00",
     "provider": "google_news_rss"
   },
   "BIOA-B": {
@@ -652,7 +660,7 @@
     "provider": "google_news_rss"
   },
   "ELK": {
-    "last_fetch_utc": "2026-05-28T04:00:05.333571+00:00",
+    "last_fetch_utc": "2026-06-02T04:00:05.659612+00:00",
     "provider": "google_news_rss"
   },
   "EMIL-B": {
@@ -825,6 +833,10 @@
   },
   "HG": {
     "last_fetch_utc": "2026-04-21T09:15:06.162616+00:00",
+    "provider": "google_news_rss"
+  },
+  "HIAB": {
+    "last_fetch_utc": "2026-06-02T04:00:05.659612+00:00",
     "provider": "google_news_rss"
   },
   "HIAG": {
@@ -1205,6 +1217,10 @@
   },
   "OPTX": {
     "last_fetch_utc": "2026-04-14T09:15:05.921249+00:00",
+    "provider": "google_news_rss"
+  },
+  "ORES": {
+    "last_fetch_utc": "2026-06-02T04:00:05.659612+00:00",
     "provider": "google_news_rss"
   },
   "ORNBV": {

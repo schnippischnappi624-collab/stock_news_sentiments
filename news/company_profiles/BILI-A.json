@@ -1,0 +1,14 @@
+{
+  "country": "Sweden",
+  "exchange": "STO",
+  "fetched_at_utc": "2026-06-02T04:00:19.718184+00:00",
+  "industry": "Auto & Truck Dealerships",
+  "long_name": "Bilia AB (publ)",
+  "provider": "yfinance",
+  "query_symbol": "BILI-A.ST",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BILI-A",
+  "sector": "Consumer Cyclical",
+  "short_name": "Bilia AB ser. A",
+  "symbol": "BILI-A.ST"
+}

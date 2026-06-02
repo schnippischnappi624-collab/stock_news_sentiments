@@ -3,8 +3,8 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-06-01`
-- Symbols analyzed: `48`
+- Feed dates: `2026-06-01, 2026-06-02`
+- Symbols analyzed: `21`
 
 Quick links:
 - [Regional best candidates](latest/best_candidates.md)
@@ -13,32 +13,16 @@ Quick links:
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-06-01_eu_0d5de6a9`
-- Prior regional run: `2026-05-31_eu_c873070a`
-- Feed dates: `2026-06-01`
-- Symbols analyzed: `32`
+- Run ID: `2026-06-02_eu_3df33674`
+- Prior regional run: `2026-06-01_eu_0d5de6a9`
+- Feed dates: `2026-06-02`
+- Symbols analyzed: `5`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
-- Rows shown: `15` of `32`
+- Rows shown: `5` of `5`
 
 ### Entry Ready Near Trigger
 
-| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RBI](<latest/eu/analysis/markdown/RBI.md>) | Raiffeisen Bank International AG | $\color{#9a6700}{\textsf{+2.28\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 2 | [SSAB-A](<latest/eu/analysis/markdown/SSAB-A.md>) | SSAB AB (publ) | $\color{#1a7f37}{\textsf{+0.71\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(5)}}$ |
-| 3 | [KREATE](<latest/eu/analysis/markdown/KREATE.md>) | Kreate Group Oyj | $\color{#bc4c00}{\textsf{+3.04\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{76}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(14)}}$ |
-| 4 | [HIAG](<latest/eu/analysis/markdown/HIAG.md>) | HIAG Immobilien Holding AG | $\color{#9a6700}{\textsf{+1.95\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
-| 5 | [INDU-A](<latest/eu/analysis/markdown/INDU-A.md>) | Industrivarden AB ser. A | $\color{#9a6700}{\textsf{+1.96\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 6 | [GRLA](<latest/eu/analysis/markdown/GRLA.md>) | Groenlandsbanken AS | $\color{#9a6700}{\textsf{+2.33\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{75}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 7 | [SIX3](<latest/eu/analysis/markdown/SIX3.md>) | Sixt SE | $\color{#1a7f37}{\textsf{+0.66\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(14)}}$ |
-| 8 | [EXENS](<latest/eu/analysis/markdown/EXENS.md>) | EXOSENS PROM | $\color{#9a6700}{\textsf{+3.00\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{74}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 9 | [EMSN](<latest/eu/analysis/markdown/EMSN.md>) | EMS-CHEMIE HOLDING AG | $\color{#9a6700}{\textsf{+1.57\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{73}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(11)}}$ |
-| 10 | [NP3](<latest/eu/analysis/markdown/NP3.md>) | NP3 Fastigheter AB | $\color{#9a6700}{\textsf{+2.07\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{71}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 11 | [LOUP](<latest/eu/analysis/markdown/LOUP.md>) | Societe LDC SA | $\color{#9a6700}{\textsf{+1.50\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{71}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 12 | [HOLN](<latest/eu/analysis/markdown/HOLN.md>) | Holcim AG | $\color{#9a6700}{\textsf{+1.13\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{66}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(8)}}$ |
-| 13 | [BRAV](<latest/eu/analysis/markdown/BRAV.md>) | Bravida Holding AB | $\color{#1a7f37}{\textsf{+0.06\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{62}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 14 | [DANSKE](<latest/eu/analysis/markdown/DANSKE.md>) | Danske Bank A/S | $\color{#1a7f37}{\textsf{+0.83\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{62}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#cf222e}{\textsf{conflicting}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 15 | [GRNG](<latest/eu/analysis/markdown/GRNG.md>) | Gränges AB (publ) | $\color{#1a7f37}{\textsf{+0.40\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#9a6700}{\textsf{60}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#2da44e}{\textsf{constructive watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
+No names from this section landed inside the current top-`15` cutoff.
 
 ### Entry Ready But Already Spiked
 
@@ -46,7 +30,13 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ### Candidates
 
-No names from this section landed inside the current top-`15` cutoff.
+| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [HIAB](<latest/eu/analysis/markdown/HIAB.md>) | Hiab B | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{59}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+| 2 | [ATEA](<latest/eu/analysis/markdown/ATEA.md>) | Atea ASA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{58}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 3 | [ELK](<latest/eu/analysis/markdown/ELK.md>) | Elkem ASA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{47}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 4 | [BILI-A](<latest/eu/analysis/markdown/BILI-A.md>) | Bilia AB (publ) | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{41}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
+| 5 | [ORES](<latest/eu/analysis/markdown/ORES.md>) | Investment AB Oresund | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{37}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
 
 
 ## US Best Candidates by Actionability and Score

@@ -1,0 +1,14 @@
+{
+  "country": "Norway",
+  "exchange": "OSL",
+  "fetched_at_utc": "2026-06-02T04:00:19.718184+00:00",
+  "industry": "Information Technology Services",
+  "long_name": "Atea ASA",
+  "provider": "yfinance",
+  "query_symbol": "ATEA.OL",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ATEA",
+  "sector": "Technology",
+  "short_name": "ATEA",
+  "symbol": "ATEA.OL"
+}
