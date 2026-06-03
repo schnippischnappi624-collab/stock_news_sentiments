@@ -1,0 +1,2 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
+20260602,US,BHPLF,BHP Group Limited,USD,USA,47.02,2002700.0,12.3210473536233,45.52,1.05920188131401,2.25,45.52,43.9312,1.5888,47.1088,48.6976,50.2864,8.3,1.0,,250.0,,,,

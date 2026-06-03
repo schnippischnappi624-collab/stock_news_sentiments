@@ -1,2 +1,0 @@
-asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
-20260601,US,MGM,MGM Resorts International,USD,USA,50.69,27683193.0,4.46104597592867,44.28,2.00971036167273,3.96,44.28,41.2654,3.0146,47.2946,50.3091,53.3237,8.76,1.0,,250.0,,,,

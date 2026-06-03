@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-03T09:15:45.266776+00:00",
+  "industry": "Oil & Gas Equipment & Services",
+  "long_name": "Flotek Industries, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "FTK",
+  "quote_type": "EQUITY",
+  "requested_symbol": "FTK",
+  "sector": "Energy",
+  "short_name": "Flotek Industries, Inc.",
+  "symbol": "FTK"
+}

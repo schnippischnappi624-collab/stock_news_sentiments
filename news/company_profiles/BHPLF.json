@@ -1,0 +1,14 @@
+{
+  "country": "Australia",
+  "exchange": "PNK",
+  "fetched_at_utc": "2026-06-03T09:15:45.266776+00:00",
+  "industry": "Other Industrial Metals & Mining",
+  "long_name": "BHP Group Limited",
+  "provider": "yfinance",
+  "query_symbol": "BHPLF",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BHPLF",
+  "sector": "Basic Materials",
+  "short_name": "BHP Group Limited",
+  "symbol": "BHPLF"
+}

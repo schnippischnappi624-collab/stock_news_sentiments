@@ -1,0 +1,14 @@
+{
+  "country": "Luxembourg",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-03T09:15:45.266776+00:00",
+  "industry": "Steel",
+  "long_name": "Ternium S.A.",
+  "provider": "yfinance",
+  "query_symbol": "TX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "TX",
+  "sector": "Basic Materials",
+  "short_name": "Ternium S.A. Ternium S.A.",
+  "symbol": "TX"
+}

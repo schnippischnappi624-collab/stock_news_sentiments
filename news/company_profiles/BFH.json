@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-03T09:15:45.266776+00:00",
+  "industry": "Credit Services",
+  "long_name": "Bread Financial Holdings, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "BFH",
+  "quote_type": "EQUITY",
+  "requested_symbol": "BFH",
+  "sector": "Financial Services",
+  "short_name": "Bread Financial Holdings, Inc.",
+  "symbol": "BFH"
+}
