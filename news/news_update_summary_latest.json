@@ -1,9 +1,7 @@
 {
   "ok": true,
-  "symbols_total": 11,
-  "symbols_ok": 11,
+  "symbols_total": 0,
+  "symbols_ok": 0,
   "symbols_failed": 0,
-  "providers": {
-    "google_news_rss": 11
-  }
+  "providers": {}
 }

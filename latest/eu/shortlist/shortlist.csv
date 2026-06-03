@@ -1,6 +1,1 @@
-display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
-1,HIAB,Hiab B,candidate,False,1,setup,CANDIDATE,4.51,2.20704693356375,2.20704693356375,56.9,195144.0,54.4,1.9578011881384,,,,,,,
-2,ELK,Elkem ASA,candidate,False,2,setup,CANDIDATE,4.43,1.42969511069923,1.42969511069923,33.58,1845879.0,32.8,1.1826989825368,,,,,,,
-3,ATEA,Atea ASA,candidate,False,3,setup,CANDIDATE,4.13,1.72875107079218,1.72875107079218,168.8,193937.0,166.2,3.36588365864496,,,,,,,
-4,BILI-A,Bilia AB (publ),candidate,False,4,setup,CANDIDATE,3.96,2.26370681967994,2.26370681967994,140.6,238502.0,143.0,3.47929067438632,,,,,,,
-5,ORES,Investment AB Oresund,candidate,False,5,setup,CANDIDATE,2.59,1.492820369657,1.492820369657,156.6,47859.0,158.4,2.92673257301392,,,,,,,
+

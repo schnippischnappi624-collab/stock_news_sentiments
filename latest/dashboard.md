@@ -1,14 +1,14 @@
 # Latest Regional Breakout Monitoring Dashboard
 
 - Regions available: `EU, US`
-- Symbols analyzed: `16`
+- Symbols analyzed: `11`
 
 ## EU Monitoring Dashboard
 
-- Run ID: `2026-06-02_eu_3df33674`
-- Prior regional run: `2026-06-01_eu_0d5de6a9`
-- Feed dates: `2026-06-02`
-- Symbols analyzed: `5`
+- Run ID: `2026-06-03_eu_dde22605`
+- Prior regional run: `2026-06-02_eu_3df33674`
+- Feed dates: `2026-06-03`
+- Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 
 ### Entry Ready Near Trigger
@@ -21,13 +21,7 @@ No names are currently classified as `entry ready but already spiked`.
 
 ### Candidates
 
-| Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [HIAB](<eu/analysis/markdown/HIAB.md>) | Hiab B | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{59}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
-| 2 | [ATEA](<eu/analysis/markdown/ATEA.md>) | Atea ASA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{58}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 3 | [ELK](<eu/analysis/markdown/ELK.md>) | Elkem ASA | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#bc4c00}{\textsf{47}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#9a6700}{\textsf{mixed watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
-| 4 | [BILI-A](<eu/analysis/markdown/BILI-A.md>) | Bilia AB (publ) | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{41}}$ | $\color{#9a6700}{\textsf{medium}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#9a6700}{\textsf{thin(1)}}$ |
-| 5 | [ORES](<eu/analysis/markdown/ORES.md>) | Investment AB Oresund | n/a | $\color{#bc4c00}{\textsf{candidate}}$ | $\color{#cf222e}{\textsf{37}}$ | $\color{#cf222e}{\textsf{low}}$ | $\color{#bc4c00}{\textsf{fragile watch}}$ | $\color{#9a6700}{\textsf{mixed}}$ | $\color{#cf222e}{\textsf{none(0)}}$ |
+No names are currently classified as `candidates`.
 
 
 ## US Monitoring Dashboard
