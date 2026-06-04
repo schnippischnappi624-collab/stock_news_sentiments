@@ -1,2 +1,0 @@
-asof_date,exchange_code,mic,symbol,company_name,isin,type,currency,country,state,state_since,last_run_id,reason,updated_ts_utc,close,volume,vol_anom,hh20_prev,close_vs_hh20_prev,ema20,ema50,ema200,atr14
-20260602,US,,BHPLF,BHP Group Limited,,Common Stock,USD,USA,ENTRY_READY,20260602,201,setup+breakout,2026-06-03T08:31:36Z,47.02,2002700.0,12.3210473536233,45.52,0.0329525483304043,42.6758703774144,40.3313689027326,34.0555868284425,1.05920188131401
