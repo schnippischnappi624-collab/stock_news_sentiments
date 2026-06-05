@@ -1,0 +1,2 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
+20260604,US,TOELY,Tokyo Electron Ltd PK,USD,USA,200.495,441081.0,6.28907762162532,190.9,6.98416281425561,3.48,190.9,180.4238,10.4762,201.3762,211.8525,222.3287,8.3,1.0,,250.0,,,,

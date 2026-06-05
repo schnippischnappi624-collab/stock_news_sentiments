@@ -1,0 +1,2 @@
+asof_date,exchange_code,mic,symbol,company_name,isin,type,currency,country,state,state_since,last_run_id,reason,updated_ts_utc,close,volume,vol_anom,hh20_prev,close_vs_hh20_prev,ema20,ema50,ema200,atr14
+20260604,US,,TOELY,Tokyo Electron Ltd PK,,Common Stock,USD,USA,ENTRY_READY,20260604,205,setup+breakout,2026-06-05T06:31:37Z,200.495,441081.0,6.28907762162532,190.9,0.0502619172341541,167.031842302333,153.899148878776,124.85554418646,6.98416281425561

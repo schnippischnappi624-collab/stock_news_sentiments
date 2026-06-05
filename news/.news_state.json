@@ -119,6 +119,10 @@
     "last_fetch_utc": "2026-04-16T04:00:06.896775+00:00",
     "provider": "google_news_rss"
   },
+  "AIN": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
+    "provider": "google_news_rss"
+  },
   "AIZ": {
     "last_fetch_utc": "2026-04-24T09:15:05.026972+00:00",
     "provider": "google_news_rss"
@@ -315,6 +319,10 @@
     "last_fetch_utc": "2026-05-27T04:00:05.761780+00:00",
     "provider": "google_news_rss"
   },
+  "AUPH": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
+    "provider": "google_news_rss"
+  },
   "AVGO": {
     "last_fetch_utc": "2026-06-03T09:15:08.882273+00:00",
     "provider": "google_news_rss"
@@ -489,6 +497,10 @@
   },
   "CBSM": {
     "last_fetch_utc": "2026-05-01T04:00:06.888283+00:00",
+    "provider": "google_news_rss"
+  },
+  "CDNA": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
     "provider": "google_news_rss"
   },
   "CEDER": {
@@ -711,6 +723,10 @@
     "last_fetch_utc": "2026-04-27T09:15:07.385482+00:00",
     "provider": "google_news_rss"
   },
+  "ESTA": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
+    "provider": "google_news_rss"
+  },
   "EW": {
     "last_fetch_utc": "2026-06-02T09:15:05.372951+00:00",
     "provider": "google_news_rss"
@@ -855,6 +871,10 @@
     "last_fetch_utc": "2026-05-14T04:00:05.852101+00:00",
     "provider": "google_news_rss"
   },
+  "HBNC": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
+    "provider": "google_news_rss"
+  },
   "HCC": {
     "last_fetch_utc": "2026-06-03T09:15:08.882273+00:00",
     "provider": "google_news_rss"
@@ -983,6 +1003,10 @@
     "last_fetch_utc": "2026-06-01T09:15:05.563107+00:00",
     "provider": "google_news_rss"
   },
+  "IX": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
+    "provider": "google_news_rss"
+  },
   "JBHT": {
     "last_fetch_utc": "2026-04-17T09:15:05.756747+00:00",
     "provider": "google_news_rss"
@@ -1073,6 +1097,10 @@
   },
   "LTRX": {
     "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
+    "provider": "google_news_rss"
+  },
+  "M": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
     "provider": "google_news_rss"
   },
   "M12": {
@@ -1609,6 +1637,10 @@
   },
   "TKA": {
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
+    "provider": "google_news_rss"
+  },
+  "TOELY": {
+    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
     "provider": "google_news_rss"
   },
   "TREL-B": {

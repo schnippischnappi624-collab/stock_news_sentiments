@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-06-05T09:15:30.052611+00:00",
+  "industry": "Banks - Regional",
+  "long_name": "Horizon Bancorp, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "HBNC",
+  "quote_type": "EQUITY",
+  "requested_symbol": "HBNC",
+  "sector": "Financial Services",
+  "short_name": "Horizon Bancorp, Inc.",
+  "symbol": "HBNC"
+}
