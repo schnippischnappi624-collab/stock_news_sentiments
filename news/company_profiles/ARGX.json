@@ -1,0 +1,14 @@
+{
+  "country": "Netherlands",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-06-06T09:15:21.746532+00:00",
+  "industry": "Biotechnology",
+  "long_name": "argenx SE",
+  "provider": "yfinance",
+  "query_symbol": "ARGX",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ARGX",
+  "sector": "Healthcare",
+  "short_name": "argenx SE",
+  "symbol": "ARGX"
+}

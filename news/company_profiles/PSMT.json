@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-06-06T09:15:21.746532+00:00",
+  "industry": "Discount Stores",
+  "long_name": "PriceSmart, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "PSMT",
+  "quote_type": "EQUITY",
+  "requested_symbol": "PSMT",
+  "sector": "Consumer Defensive",
+  "short_name": "PriceSmart, Inc.",
+  "symbol": "PSMT"
+}

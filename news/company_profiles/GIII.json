@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-06-06T09:15:21.746532+00:00",
+  "industry": "Apparel Manufacturing",
+  "long_name": "G-III Apparel Group, Ltd.",
+  "provider": "yfinance",
+  "query_symbol": "GIII",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GIII",
+  "sector": "Consumer Cyclical",
+  "short_name": "G-III Apparel Group, LTD.",
+  "symbol": "GIII"
+}

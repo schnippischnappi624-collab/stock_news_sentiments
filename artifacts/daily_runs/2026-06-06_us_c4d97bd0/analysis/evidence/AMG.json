@@ -1,0 +1,717 @@
+{
+  "analysis_date": "2026-06-06",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 60,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-04: Insider Buying: Annette Franqui Acquires Shares in Affiliated Ma - GuruFocus."
+    }
+  ],
+  "company_name": "Affiliated Managers Group Inc",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 0,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Mock political party for India\u2019s young \u2018cockroaches\u2019 holds first protest in New Delhi - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDlPWVMxcTNfU3VaS0ppaVpRYnFuSVhsYVowaDNVUWhwRGlXZEswOGVSM2NNUlJEalBPSUs0cm93RFFRcVpWQ0xEZko0c1dTM1lxdl9aQ0N2ZVhDcDBaTktYU2kzSGUwRERhRzFIa2E2bmp4N1NXLWw0eXRFU1FGeC1NdWlQOUJYVUNHcGxGekVXZw?oc=5\" target=\"_blank\">Mock political party for India\u2019s young \u2018cockroaches\u2019 holds first protest in New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2tNMEVKYzNDdUJoMkQyRjZ1OGgwNWN5MWNlTDQ2ck9OZ0FpZmhaQ29BWlNCUmJsbkxsUjJIejlBZ0JuNUMxWlFPemNpZzVPUmlVVDBYd2EzN1ZULTA0TGJURlE3ZmFsSzJSendJT1Yyb2NlbGZaeDNQalBOYllJTjVPRUowZVpVaGo4Wko2UUItbWJfaEtuRQ?oc=5\" target=\"_blank\">India\u2019s youth are fuming. A Boston University graduate wants to fix that</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQODlwTUxkR0o0YzgwOXFnS0Rnc3hMQUwta3hSRDloTlVhSU0yQWlxYVBlV01fcXd1dFBlU0RxMXRKeG9jUVNndE1BQUttb3UwVllUa2I1enZBRnRCalhHTlF3UDlDdEhjUXF0OTRtVlktRkdjX2ZlZkVwQVUxVWR1WWlmVXFEd1dmSExWV1FsYVR6OHZYTVl5UnExSDFfVG9Va3lkTklNVQ?oc=5\" target=\"_blank\">Why India\u2019s Gen-Z \u2018Cockroach\u2019 Movement Is a Worry for Modi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjlLQjN3dUdOYTFvNGFRbnRNNjdBN1p6Nm9wQ09aaV94QXBUaFV6dUpNUk9qZkw4d0t0QnFjWWZGdzBkVll4TXJwcldJMjl3SDRoNTkwSnVKMGRCZFJsc053aUFPNTNBV3M3ektONDNTX1Z0Q1BpNXdqSVVlRFN1TEQ5NnJzalRrRjFjQ1l0UnZQdnpYVEhGSg?oc=5\" target=\"_blank\">India news: 'Cockroach' party holds protest at Jantar Mantar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPejRxaE5zQi1mY3FtQ3h1S1kweDBxd3JoX3NubTJQdURHRHRJSGhLem9GM1U0V1UzYkJZdVdCSUJaWUFnZlVvT243UXVkTGZjZW9jbUpfazRmTk1GYVhjajBGRzI1S1gyNWVta1RTeld5bDdkNTY1NDNHOHhBOUhuUWZuVGxLZ0ZlVXJNbERZY19SUEZ2b05JaHpHWFdYYWdYcDJISDNWTzhFUDdmSElKeFRwaloyMjlfejM4a3ctaWlQTWFQTHNFUi0ydWJFb3pNTTJtTnRLbzlYc2J4VjZEZXFRMklBdkZzc3pJ?oc=5\" target=\"_blank\">Cockroach Janta Party protest LIVE: 'Youth of the country will no longer fear' Abhijeet Dipke leads students, youth at Jantar Mantar protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDlPWVMxcTNfU3VaS0ppaVpRYnFuSVhsYVowaDNVUWhwRGlXZEswOGVSM2NNUlJEalBPSUs0cm93RFFRcVpWQ0xEZko0c1dTM1lxdl9aQ0N2ZVhDcDBaTktYU2kzSGUwRERhRzFIa2E2bmp4N1NXLWw0eXRFU1FGeC1NdWlQOUJYVUNHcGxGekVXZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMElJNTFWUFhqeEdWLUtxSEdMOS05ZjFhbVlFTlNYd2dGTFhma0xGREdJSnBuR1pFenB3UU05OHRValFIb1BLMW4zeElXeE1jRVZtS3ZRWlpZYkRXZElmS0dGMHltYnlKNURHVWVzWF9UYXJzeFByM3VTQlVSMnc4THV1VQ?oc=5\" target=\"_blank\">Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3p2Mk13TlJHN1BKSVRWTWJjZHBRMUtqZlVIa1psMzNxY1BublNGZ2Y1eUY4NUhReHo0bFNrZllNZTduUHVjbEVoWXk4ajZzVDJLNGFiTXVaVHR3NDcwOGhwRVAyRG5zb1RSZXpCRklIS0p0NTU3T29TdHVUbDBKa293SFpPV2Zf?oc=5\" target=\"_blank\">June 5, 2026 \u2014 Ceasefire in Lebanon frays, Iran warns of wider war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXRGdWhrdkFIbnc1VXhoemMydUpyWURDQUNxbGxiX2JFVTVVY1RkZVlnampsNjJxVU9MMC03cmdTN0c4OF9QTTJ2bm0zVmZiWnR4UnFmYXE3NllqYXhKbGxOWnk5MENxNUZMTjAwNDRBaWNKNjhPdkNwRDJHWFk2RHRXdklkSURSTkV6aEVwMEE5aTByTGRkOUt6N1F4bzA?oc=5\" target=\"_blank\">Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtwcXBMMWVTQkJtRnV0TVZ6LVJKVkgza0FDc1BlWjVMQlR2d3RPWnNfdnYyZXZvUm1xWVhNemFNUFRteGNnYXpxcHc1RWFuaWstZlZzX3EtV01NbUdyaDl4elFtODJuTkdmN3dUall2aEF5a3k5Y29zSlBqVnRZekhJU0phZjJrUkpsT2EwMEVQWDFsUExMakdZcjlOTEJRYWkyTTF6VmvSAa4BQVVfeXFMUFlDeDhkUmxrbGU2bXBqWG05UHNZWXQyV0ZNQ19pY2REWkN1RTFudXEtSlJyZThfV0daLWc5S19Lbk9iQkxXRUZHa2ozZ1BkYkliSWcwTlItQnRrekRqOXRnOXZJMW5scnRGQ2dmTG9MMjhicWpZYTRZd2ZkUGRReldPcGZYSXR4azVtZzBrbVF2RUdyOTJvSkNaOTd2SllicTdpVmtQdDNRUUpYQmlB?oc=5\" target=\"_blank\">US intercepts Iranian attacks as Israel continues to bomb Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTldXNWtrc2haTGV4MEpxcHRCbzRXVGM2OWFPU3Z5ZEZTU0VrVXQ2bk5UMDRiWjNpcnBZbjhsXzRCN0lHaVBacE5lT0lWUWJfdGxHeU1Xc19jMHhVZm4wMXVvU3o3SXBsZWw3cU96YXR2aEUwXzg3ZDh6VmpuTzBLVDFZdHlCdW5ab2tKSnhnekE5ZmQwZ3UtVkNYM2o?oc=5\" target=\"_blank\">U.S., Iran Exchange Fire as Hormuz Tensions Persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMElJNTFWUFhqeEdWLUtxSEdMOS05ZjFhbVlFTlNYd2dGTFhma0xGREdJSnBuR1pFenB3UU05OHRValFIb1BLMW4zeElXeE1jRVZtS3ZRWlpZYkRXZElmS0dGMHltYnlKNURHVWVzWF9UYXJzeFByM3VTQlVSMnc4THV1VQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Multi-Region Barrage: Ukrainian Drones Target Russian Naval Infrastructure and Energy Hubs - Kyiv Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Kyiv Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EVUFKeUs5YzNvZ24yOUh2QkxFQjBkR1JySW9KZ3pOMEdITFE0aWhVeVhGcm1aY1BTWHRvUFJ5ZmdSZlFIYjZKYlJwVQ?oc=5\" target=\"_blank\">Multi-Region Barrage: Ukrainian Drones Target Russian Naval Infrastructure and Energy Hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTB4REhzcWJydThfdkxBZFZYU2dKbXhfTC1vakRoeUVDRU9VXzVYWGhTczlfY3A2UDgydXYwemV2aXM3b1NnWGhUb1U3ZDI0OGM5X1JQNC1acThkNVFwWDNFV0t2cVNfdk9LZ3BwekQtSVp3WTh0OVp3QlBGUWlmbDc5ZURBN3JQT1U0Mm96dEQ5WXdZTzJLWER3VHAzNnFhTjVvQWdNZDlwQ3FxeUlz?oc=5\" target=\"_blank\">Ukraine targets St. Petersburg again after Putin rejects Zelenskyy\u2019s offer for direct talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaV9aMXpFMV84dm9waXJOWjhUT2xxUF9DamFTX3hGRGhqWmtPd0h1SnNfdGRWLWh5emQ3YTVnREFET3NvTXJNOEdLTW1xSU1FLV9sTXRMUnNMQndGNlNhVUdnN3ctS3ZkSTNLRDFkd1RsckhWOTltU0tWdmtqODloMlJDWjItRVE4WVZoa0xMV2QyemNFZU1MMVB3?oc=5\" target=\"_blank\">Ukraine Strikes St. Petersburg on First Day of a Marquee Putin Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkxNSzhHZEl6ZGpQYmdPZXZFRlpHWVhteVlIQ2ZLOFBDWF84SkZyaXRQR1U5NmRldjFqYWJLNFBERElnekw3LVlHOXplOXRWcU1NS0hhTG1UZTl1V0swTzhjR3VGZ0E2Tm1WRnkyd0p3Wlp6RHRsN1UyTkFFOTBzVTJ2WW9QRHNRQlB5VnIxbGhzS1g5SFRVQm42RmdPVG9xV2tsZnA5VTNWZGtDZGd2VEQ4bw?oc=5\" target=\"_blank\">As \u2018Putin\u2019s Davos\u2019 opens, St. Petersburg residents fear more Ukrainian strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOelBpNk5VdnFKcHM1cF9Kb1F4M09TckJuR2Fpb0FMLWdUX1ZMLXdKX2Z4elpSMnl5dEljYWFKWlczVnpsSXVNNmNQRGg5U2Y0X3BuSWt3VUNUWGlYSV9vN2VDZGRlLVBoal8yc3VXcURGRFE2RU5mU3pkSWpadkgxSVBBMkhhb3ROd1NFazg2enZsSHlaV3NSZUZwTldQcUpHQ0xSUDAtM2xuWm0tYUpMai1lRWZ5M00?oc=5\" target=\"_blank\">Ukraine hits oil refinery as Russia opens St. Petersburg economic forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EVUFKeUs5YzNvZ24yOUh2QkxFQjBkR1JySW9KZ3pOMEdITFE0aWhVeVhGcm1aY1BTWHRvUFJ5ZmdSZlFIYjZKYlJwVQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Pope to find a secularized, polarized Spain where the Catholic Church has a complex legacy - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3pwQVV0bjlDakVyZExDNzhIM2dkRTFwZWlsMVEtMG1yeGVQNFJCWE53d19NSnZ0N0RCMW4yQzdjNzlOX0ZUMXNUWW5hcmRYX3IxMWMxdm96OVhFWmhSU2lSQ0lZWFNjRWxXTm4tTWhZRzczSkNQa1FvOFpxZGVnUm9mZXBlTllBdlNJVllha2FHUzBJTkhfcGRLajQ?oc=5\" target=\"_blank\">Pope to find a secularized, polarized Spain where the Catholic Church has a complex legacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTRCc05wUWdYdGFEdW1nRnhkdU1KUEhUa1h5YUVid2pETFNaNktKbXRfdXV4QThZUFJ0cGFaaXNiZ3kyS2Y0dzIwYUxTUE9SdGtQUWllR2EzNVZHaFpzRTlJNjBjN3ZZbno5YnduVDNuV3BqMmRZVmRfbFlNOTRJaHZEWEhQb0Zi?oc=5\" target=\"_blank\">What Pope Leo\u2019s Spain visit tells us about his priorities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBJMEM3OFNoRTdDQUwtYk9FUlVKcGtGY2N5YmJWYzhMTmtZTHhhQzlYeGpxa255VTFWU1hqeWlNYlJWdllhdTVia0lzVVU2TjBqNU4wRVJVc2gwQW95cFhpRmRMYU1lQmFqX2VaRDBpUEcwemc5QjVR?oc=5\" target=\"_blank\">Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnRzSU5RVUNFTmx5RzNqOWpoWDRUZlBaaU43ZHdyRkVxTGxPU05mRkFVTDNRY1YwbzFJSDJiT0kyZFZpMklxc1Byb0txaVZYXzF6Vjh5ZjJOdEdQZHFTX3VUblBlV0J3eEYtNVlIODJrRlhEXzRWYm4xQXlvOEtKZmJ1ZkZRMWV6ZDNheW94dTNZMEpkNzNyZDF5b19IMERJYVNfX1paZkNObEt0dWJpODVqY3I1UTA?oc=5\" target=\"_blank\">Madrid: Awaiting Pope Leo\u2019s arrival and a revitalization of the faith</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObE8zcHc5QXJGdHBBN21CM0RrdzJRNkhQcDgwdXVLZHUtRXZJY20zdDVMYWE1enFpQ3h1X1U3clJ0eHNvQ25KY1l0SU11T0dPbjRONVRab1NuTnl5ajB0cDZGYWh1MUtaYjcxNG5xZnNsdV9aQ05NTHZZM3lXYk5tX2dRQkJYNWROZHI4bjFNRGE5eUdoRThHSmNWRVp4STNOQjJkOFBkWjQ?oc=5\" target=\"_blank\">Divine intervention: why Pope Leo visit could be a godsend for Pedro S\u00e1nchez</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3pwQVV0bjlDakVyZExDNzhIM2dkRTFwZWlsMVEtMG1yeGVQNFJCWE53d19NSnZ0N0RCMW4yQzdjNzlOX0ZUMXNUWW5hcmRYX3IxMWMxdm96OVhFWmhSU2lSQ0lZWFNjRWxXTm4tTWhZRzczSkNQa1FvOFpxZGVnUm9mZXBlTllBdlNJVllha2FHUzBJTkhfcGRLajQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Von der Leyen warned about China. Europe didn't listen. Will it now? - Euronews",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.011764705882352941,
+          "source": "Euronews",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOSS14VFlfQmxmbHN6V1VBU043YnpMeGdvLVVQcFphekdhLUc3WFNFTFBUMG1iQUd4MmZhWEREYndzYXBMWkxvNDVfVWlFNmVjekdOR3hvWnRWNWlPNUpaaEY1bXByV0pJMjZyOWFJVDdVTDdyZFpmZHB1UXl6YUc1bGRNRmVmc0lfOHJYQTdRRWJxNDJhelB2d2pVM1FSQjVsYVdrb0RCZUUxUThGc0VR?oc=5\" target=\"_blank\">Von der Leyen warned about China. Europe didn't listen. Will it now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0pqTENYdkJxaGZzRm93YmxVTE41OWRvbS1kSEVNNU9sYVhsOElRS3haZ2M2OWRPVmRtRm95SFpTc2k1OWU2TllGdENFdWJ6ejB6VE0wRFAybGU0ZWpHWUlwTThIU3VMTWF5RWg1dXVkTHB3UHBCZEcxOWk3My16RXNOSjBFeUpnRE85d0VndnhHemd3a0hLaWtuQ2h1T0tKRUNWU1pLNHhMQTZrbVItOVB3Zw?oc=5\" target=\"_blank\">EU and Chinese Trade Chiefs Meet To Defuse Heightened Tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSEtXOEp1UWFPTWdvYTJmU1R0Wk1GU3RVNk9WYmhUMVNRY2ZpMXFKb3JPYUVtT0U2TWExN0tadnA5cnktZXllb0l0NWp5eGVqaENfNFlWM2t1MVdKV19xaDN3UENlZHJKYU5yZV9mb2pIaEZLalJ0TmlKYzloQ1NveFhRMVRqbmtOZ0hSX09uTFlxekU1OGVDbHdyVG56dHNHNXd1TjBFbFZrV20xUGZqeU1R?oc=5\" target=\"_blank\">EU weighs rules to cut reliance on China through broader supply chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1pZXZrLWswN3dpWUp4X01ZdW1OOEdoNEhxblo2c2dsU1NiMERHVEZnODVySlBRcnJrUjNVdm41aGNlNmFHbzI0RXBRbXY4bHdUYkxmenNPaExLaVFzcVpfOFMwN2RDSXlRb28tbzh1dXpSTzB3TU5j?oc=5\" target=\"_blank\">Foreign Ministry Spokesperson Mao Ning\u2019s Regular Press Conference on June 4, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fmprc.gov.cn</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0Y4ZjdTQmY3ekE1RXZRaXNFWHlnZ1JySlV1TU9JeUpxZVhvYTZGWk1VTy12cEJuTmNoSTdPRW1aaEpaWkdCbjBHN3ZSTWwwZDRUVXJPN1pXVnlIWG9lY3JycUtpblNqa0lwdVNDMjVkak5hOHhPdTVyMTB5TkpLOHVOTXV6Y2NFUlpJdDFLN3ZWdEtaemFXY1J2NWhBREhMc3NOd2ZVR3lQUDRFWWVWekFiZkhuREtaUF9jRml6TXdUUmZHVm9GMXdn?oc=5\" target=\"_blank\">EU needs a \u2018dedicated instrument\u2019 to unwind China dependencies, trade chief says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSS14VFlfQmxmbHN6V1VBU043YnpMeGdvLVVQcFphekdhLUc3WFNFTFBUMG1iQUd4MmZhWEREYndzYXBMWkxvNDVfVWlFNmVjekdOR3hvWnRWNWlPNUpaaEY1bXByV0pJMjZyOWFJVDdVTDdyZFpmZHB1UXl6YUc1bGRNRmVmc0lfOHJYQTdRRWJxNDJhelB2d2pVM1FSQjVsYVdrb0RCZUUxUThGc0VR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.011111111111111112,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE84NmdTc0JoTmx2dGJNdXROemJJeWo2aTRnY2tZRExTeVppVTJDeXdVem56ZDdFMjRNMTVlWUN6RWFValllZm51TWtVXzU3N3pUV3ZJLWdSNVhXMHZIX0RxLXRmLVZpSDNSUUE?oc=5\" target=\"_blank\">Chips sector bloodbath drags Nasdaq down 4.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5\" target=\"_blank\">Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5\" target=\"_blank\">Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkZEak5MREVCMHNlMW44amp0aVRGQUg5bTd6WUVQeWV1Z2dycllhMTU2dDNERmhvbTl5dGk0ajVYTVFGcXdxcmFiNlp3QVl1Mi1XS3ZmR0FzYmJHRU1pUU1jcWV1c0ZuLTBicEF2dkpEMkxrRy1RM1hEY3cxWUJHQ3Y4YV9LdE1YY1dTWkluVmJvZXMtdlVTUUgzUlkzOFdBdmR0RXRjWmNPczNwN3hHSUx4Q0Z5bmNTcXVOcmlJdFRraFhOelMweDFJWTd1SlRxLWxFaWYzam5yRG1jMW11NV80anJzQQ?oc=5\" target=\"_blank\">Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbUM3VFM4YnpOandGV3NIcGRlSGZXN2hvX2dUOWpSSGYxRUN6Y1lPVldnOUdpVjZ4QkVzTVFSVng1aFlxelVMQi05d0FZWDQ4cWFvVUdGM092WkFCTWdFZkxSdDJFTVgxd29ERmRyb2haWTVUeEtIQW5sS1N4NWotLUFuMFRVOXdkVnFtcWpQcW81VW9WSF9LNktNSDk4TjZsMkFoWmtMR2pNRnZjRmdLMUd3?oc=5\" target=\"_blank\">Nasdaq Drops 4% As Major Indexes Tumble During Tech Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84NmdTc0JoTmx2dGJNdXROemJJeWo2aTRnY2tZRExTeVppVTJDeXdVem56ZDdFMjRNMTVlWUN6RWFValllZm51TWtVXzU3N3pUV3ZJLWdSNVhXMHZIX0RxLXRmLVZpSDNSUUE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Trump says he\u2019s considering government stake in top AI companies - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.010638297872340425,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5\" target=\"_blank\">Trump says he\u2019s considering government stake in top AI companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFpTSWNyR1UtX3BHTGoydlJFTFA0VHBpMW5DMEN1N1NGZ2JmaFJSbld0ek9RUHZXQVBMU0hkU2xDT3Q2cnBPUTFHWnY4Sm56WjNoTWEzSFVxUE9fdTJ0bWVSc1N6eE5mTEVzeV9TRUItNFdnV1JKLXVPRXo1b09Odi1saVl2T2xCMnZYTXJSSQ?oc=5\" target=\"_blank\">Opinion | Bernie Sanders: A.I. Is a Public Resource. You Should Own Half of It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5\" target=\"_blank\">Trump administration, OpenAI discussing possible government stake in the AI startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW1RNG9DVXF6dWxnc3lZakEzMENWQWQ5a3FaM1duWUJGdDdoWDRwVk9UT2M1aFVZdzNnZVNuUHdCanFiQmdOcHp0X1kzR0FTbUp6NXJOeVNYN3VrMkgybk1fQl9vTXZsODA0V2txMTlyN0VxS1M0UzZTbEh4ZUdyWjItY0JtVHNrcGd2UlJzZUFzMzQ?oc=5\" target=\"_blank\">Trump to meet with artificial intelligence companies on government profit share plan as soon as next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV1ZWWDF4dFZRckFhZTNFOHlHckZDY1FHaDRtSWFadW5uYWd0TkE4dC1lVkV1c3RBZ3N4eWZfcjIwTjl6WkFCY09PcHh1dkVNeGRnNkhqU0xwZw?oc=5\" target=\"_blank\">Trump to meet AI leaders to discuss US investment in their companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Trump says he\u2019s considering government stake in top AI companies - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.010638297872340425,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5\" target=\"_blank\">Trump says he\u2019s considering government stake in top AI companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5\" target=\"_blank\">Trump administration, OpenAI discussing possible government stake in the AI startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV1ZWWDF4dFZRckFhZTNFOHlHckZDY1FHaDRtSWFadW5uYWd0TkE4dC1lVkV1c3RBZ3N4eWZfcjIwTjl6WkFCY09PcHh1dkVNeGRnNkhqU0xwZw?oc=5\" target=\"_blank\">Trump to meet AI leaders to discuss US investment in their companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFpTSWNyR1UtX3BHTGoydlJFTFA0VHBpMW5DMEN1N1NGZ2JmaFJSbld0ek9RUHZXQVBMU0hkU2xDT3Q2cnBPUTFHWnY4Sm56WjNoTWEzSFVxUE9fdTJ0bWVSc1N6eE5mTEVzeV9TRUItNFdnV1JKLXVPRXo1b09Odi1saVl2T2xCMnZYTXJSSQ?oc=5\" target=\"_blank\">Opinion | Bernie Sanders: A.I. Is a Public Resource. You Should Own Half of It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW1RNG9DVXF6dWxnc3lZakEzMENWQWQ5a3FaM1duWUJGdDdoWDRwVk9UT2M1aFVZdzNnZVNuUHdCanFiQmdOcHp0X1kzR0FTbUp6NXJOeVNYN3VrMkgybk1fQl9vTXZsODA0V2txMTlyN0VxS1M0UzZTbEh4ZUdyWjItY0JtVHNrcGd2UlJzZUFzMzQ?oc=5\" target=\"_blank\">Trump to meet with artificial intelligence companies on government profit share plan as soon as next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMElJNTFWUFhqeEdWLUtxSEdMOS05ZjFhbVlFTlNYd2dGTFhma0xGREdJSnBuR1pFenB3UU05OHRValFIb1BLMW4zeElXeE1jRVZtS3ZRWlpZYkRXZElmS0dGMHltYnlKNURHVWVzWF9UYXJzeFByM3VTQlVSMnc4THV1VQ?oc=5\" target=\"_blank\">Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5\" target=\"_blank\">US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3p2Mk13TlJHN1BKSVRWTWJjZHBRMUtqZlVIa1psMzNxY1BublNGZ2Y1eUY4NUhReHo0bFNrZllNZTduUHVjbEVoWXk4ajZzVDJLNGFiTXVaVHR3NDcwOGhwRVAyRG5zb1RSZXpCRklIS0p0NTU3T29TdHVUbDBKa293SFpPV2Zf?oc=5\" target=\"_blank\">Live updates: Iran strikes Gulf neighbors after US attack on Iranian military sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDNOM0N5RlRpQVgzS3JNR3FFVmluU2w1dk0tRDRnRzg1UHhSbDVkNVd2aHlkSXBZc0l0MHdjcENyX3NUN3E4RTViUGxfVmNGZFFGeEN6ZGVTMWlXOFlKanZhN1ZfdE54Ykxhd3J1SkFqZ2RuVUJCN2RXZUxqZC00LTFQNUlLdkUzbzhhYzFqLWhPdmg1SjBYQUVDS2hxaVprLThyYkVWUHEydnpUbnZGU08yMUhOOXPSAbwBQVVfeXFMTWVNMkFzNGlmOXQzSTA2TDR1VmpJLWZTMlFrR193XzBQWnl5V3JWSlpLb1dDV21CdzEtSU1lSTJScDI4WC1GcDNOQ2YwdGJKR2pObzRtZHNPRnhRYTRmTkwtMmlIU25HTXpiU3hKbFRGUTlVa0FjVXp6aW9DVVBzTUY0c0JtWTVzY1YyYmVqcEZJcGdOR2ZiWUhhN0o3X19BMk5IaG5KTmsxVWFwWE9ldEY3cW9nYWlYcDg5UHQ?oc=5\" target=\"_blank\">Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmVQTjduVEoyLVF3Ym84c25PRXR5dmFoMjlXUy10N3NMYjlEbWxoS0JtSW9Oc280eXRqWVNDOEZZLW1OWXRFdEVwUFl2NXNjSWVTdjNjOXpBcXZ1QUVjZEpiREZEM25YUlVlR1M0UTBUWVF0cVZGaUE4dzQ1cVZvTWFaREh0czBnX2Y5YXY1Mi1Ic3BOSGpRTXROMFhoSWtYU0dDYw?oc=5\" target=\"_blank\">Israel, Lebanon agree to renew ceasefire as Iran launches deadly attack on Kuwait airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMElJNTFWUFhqeEdWLUtxSEdMOS05ZjFhbVlFTlNYd2dGTFhma0xGREdJSnBuR1pFenB3UU05OHRValFIb1BLMW4zeElXeE1jRVZtS3ZRWlpZYkRXZElmS0dGMHltYnlKNURHVWVzWF9UYXJzeFByM3VTQlVSMnc4THV1VQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "China can build humanoids at scale. The hard part is finding enough buyers - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnh1UXF4c2t5RGRoZ0ZEX0JsUlVFTFl1ajVHUXBvcEl1c1N4TXBOanhRQXhkX21hdWlxalRSOGh6cW8xVEV0LXdvbWY0aF9jTUpBMGZuV0drbmp2Z0E4SGF3dGZOcm9kZkx0TmluaDc3T0ZKMVRnSzYtTzhEQVY2cmY2ZnptWUtwX3JvQXNkYkwxbmNqblE?oc=5\" target=\"_blank\">China can build humanoids at scale. The hard part is finding enough buyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l3bF9xbEVSRWZlN2FacEZ6aVJTZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnh1UXF4c2t5RGRoZ0ZEX0JsUlVFTFl1ajVHUXBvcEl1c1N4TXBOanhRQXhkX21hdWlxalRSOGh6cW8xVEV0LXdvbWY0aF9jTUpBMGZuV0drbmp2Z0E4SGF3dGZOcm9kZkx0TmluaDc3T0ZKMVRnSzYtTzhEQVY2cmY2ZnptWUtwX3JvQXNkYkwxbmNqblE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Israel strikes southern Lebanon after ordering evacuations of nine villages - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVFZSFVDcjZsTHNFZVVweEhTRXJRV09kMldreVJjVVdNQ1JhbFp0eVpPamxlUFc1R1AtT2dBWV9sMWNkQkg5TTE4NXpfdHpxMEprLXAyMlVkV0c5ekJSLUJXeUdBYVdld2tpMU5wQ1NfTHluVURPQUZrRGh6bXlESkdvc3dGcHhGQzlPeXA2VTJkakpPd0N5RlU0SlBpWFkzUnFPNGxR?oc=5\" target=\"_blank\">Israel strikes southern Lebanon after ordering evacuations of nine villages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE90T0FiREhCV0FSUmdlMDNJdzdxTGxwOXNlMkhCOTYyenhEc1d5UFBzcF9abnVRckkwTUdnZVUtWjVSN3dTWUZ5bUF5OXQxSWZYbU5TRHlGMktFNlZvX1BNa0hta1VXOFBSXzlYdmxsYnZ0Zk9aRTlUWjZn?oc=5\" target=\"_blank\">June 4, 2026 \u2014 Uncertainty surrounds US-Iran talks, Hezbollah rejects Lebanon-Israel ceasefire plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNci1FMmVzUHVBVFpfSlNBQ2ozZUhXdk9wWllHM3FfM1IxVVc2cDNwdi1PaVJ6aldDY3JzYlhocTk0V3N6VUU1cHFPVzFaUVhsLWxNNnQweTlwaGMzdV9XZjRPbUpWakk0NV9XU1VOa1ZVWXp0VzJ2R25odmJOd1ZYZHpOYVhWUVEyb2dpOGRlTnpSU1NWSGpfZjZodjNxTWwySl9sdVFTczBib0d5NHBvR3UzU3dhQdIBuwFBVV95cUxPRzF6SWJmbE5YVktwdmw5UnZtNnNUalRzX05ac0Q3QjE2V2NIRGdCT1B3UFlBMlhLN29WWEdNblUwMTQySXBBemxyakQwcEx5LW5MdlpLbldpeDZIVmxrcTJCU1lZYkJQVjlNcXNUcVNleVhKYnVGNHVKMzBLNVEwODhJYl9nZDZ4V1J4bDdhMW1hWWlneXM3dk1wcjJ1eEo5cjVLME9KWmJGQU94Tm9qS1NCYllmelpCTFRr?oc=5\" target=\"_blank\">Iran war updates: Israel continues attacks after new Lebanon ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQV9WQkxvbGU3dTI1OVRTR1lCT3o4ZDR3RWtXeUNEaVFwaFQtUlRaTVF1V2Izb1N3TXl2UkE4aUZkdUpXWWs4dmpkZ3VFRUY1NzRhdURnelBYekRhaXhvd0FaTGZwZ01LSzFlVDRuOWdPTVNhbENDaFV3djBUZUpnUGd1S3Q5b1N0d2FYX3ZDcXRPSmpwRDE3cmJLLWFRUUM1U1FiQjY3bVF2Zw?oc=5\" target=\"_blank\">News from the Orient - 5th June 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcnBrTVhQWUtLYVZuR2lpNWJrWDhjZmVRSldkUmlnTm5MbkdkenkzUjJzOGpBSmpKbF96c2ZONndzVGpZYW5XQXFsak5pOU02T2hzY09zcXJSR1cyOW5PaUNmSk5iSXVodHV3SFYxaXhLdlo3RXlaWjNCYTl5LVpFeTVjendFLWJaM3RaV1MzOXJfNVJ0VWNyUlJLbWFxLUN2RUtYeDlFTElkb1NNbUtCdHZkWTdNU0VhbUFPal9feU93R0xhek14VnVXczdDYkl1YzBJS1ZidmljSHJNNlI0YkdEUDB1dw?oc=5\" target=\"_blank\">Israel\u2019s offensive in southern Lebanon: 2,900 dead, 36,000 homes destroyed and 1.4 million displaced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PA\u00cdS English</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVFZSFVDcjZsTHNFZVVweEhTRXJRV09kMldreVJjVVdNQ1JhbFp0eVpPamxlUFc1R1AtT2dBWV9sMWNkQkg5TTE4NXpfdHpxMEprLXAyMlVkV0c5ekJSLUJXeUdBYVdld2tpMU5wQ1NfTHluVURPQUZrRGh6bXlESkdvc3dGcHhGQzlPeXA2VTJkakpPd0N5RlU0SlBpWFkzUnFPNGxR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Putin says Russian troops are advancing on every front. In reality, the main battle is around Kramatorsk, and Ukraine could hold the city through 2026. - Meduza",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Meduza",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPYm9HQjBQdUxkbTNrdGJHdENZLTdYWlZXMldSVHJOd1FWel9veVZsRlptazZTcUhKLS1FcC1ZcFdmM3hrc3NoWkdSVHUwdndrbWsxQlNyVnMzMWtlRXNwNk9IVXZ6MmlTQmlmNlJJVnhZU0JmcXBKTjYtUTB6XzJFcE1PakhuSEc3Z3JSQWpRRVBhSmNWNldMQWVSVlV0elI5aFZpSFZsbmozN0xDOS1VVzdGcEtfT1RzaTJwb25oOGdUb3NUQWxvWG04Xy16eFl1cGVJUks2ZmExQS1XMUNhVmswZ2JkOVkyN19jcXJ6YUtfUWtKYnA5cnEtdWdEUkc1OTRyLWlQX3AxNGNtUU12bnprQUZUd9IBmwJBVV95cUxNaHRRUzBiMTllQTZTU3BHS1pTTVBoNzJYQlRrUjFUV1Q1ckx0VlNuU21lT05JdlM5UnhSRTFNN3NocEtrZkdudUpDeWFuMVRSMEtuQjlwOGhkbHFwNkNydTNGVTd4NzR3MXNIMFZ4aUdfS25seHZvbW1VeDhBcFUyaVNtSjllN0ZuZ1Q5R3hlcS1ONFk3UnV5WE5rcWUzeHZOSWxlUDd5UVRjeEFyZjlqY0RaMjRfZUF6YzdUQWdHdFJ3Z0YzS2JMYUNjbjlTYXZxaGgtM0Vlc1h4b0pKazROdHZJY1JUT3BCcTYzUXdqOG5EOXZJQkZwYzBBYWlNYW52VkNpdWpkU0VoSDJBWWF2cGxtTFNoUjhPUlhZ?oc=5\" target=\"_blank\">Putin says Russian troops are advancing on every front. In reality, the main battle is around Kramatorsk, and Ukraine could hold the city through 2026.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meduza</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHl5RE9ZNXVXSmptMzFUSVYyNUZYajRtWEp2TmVuX0t1YWVEbzlZNkFlREVXd1N2Y2NxXzR3N2hsc0llczF0aDNSeWF5WjBFUHRPUG5yQ0ZCREdTZThRTGxJckVybzJHTURSUWxmRm9WaVdxMlJkcTNPcDE4TmlNVGl6dWR5aEdYdjExaHB6VWJDUnQ0RDMteHlvb3g3QmhBVkRPWktaWEtpWmZBMWhMbURRS3h1dTZNd0tPYW13VHh1c19NZVVNY1gzY0JYeF9GMjMxWHRaSl8?oc=5\" target=\"_blank\">Putin Says Russia Captured 2.44 Million Square Kilometers of Ukraine, Four Times Its Actual Size</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNITED24 Media</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3IyRmRSbnBISFJnSkdIR2VOdXlzaGRCbDRLcnQwM1lrSTlZdGZRS04zVXROOFZkT0ZtSGpPNWI2QlRaQ1Q2dGhSVnBjX1p6SjNReldUVS1qb1QtX0dnaWhnNG05UTlSdVYzNWRrZTVUeVVYRVZKaHg1M0gwUm85ZGwwSXZ2LUXSAYMBQVVfeXFMT0NCUlpET1M4cy1wM1JlbDNrQ0dnWlRnaFoxSmtoVENSeFRhZWh1LU95c2FJS2NYNlhFR3M5Rmgta0xzVE50QXgwekFZVy02X1JBV19tTUVSSURrZ2NjVHZNcDdFWG1xc0NwR1o4S2ZHeWl4NThZTGk5SHRDeFA0RFp6SUk?oc=5\" target=\"_blank\">Putin boasts about capturing phantom territory far larger than Ukraine itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Voice of Ukraine</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOamZNbDU3UGdNbWx2WTl6bnpzOUppQU5wcTNyZUZTV3R1TVR3ckhZdDRaeEtubjlOWGpNNFF2Y0xsV3lGZmNDNUdyYVpadWdYekZxR2x4R2hoaHMzMWtkWWlnbVBYX1h4VDhDOFVOOW1qd0M2R1IwLVRzWmlrb3drWlRlYUxMUHJ0SFhqWU51ZEI3RVl1TXhobjlfbUpaV1dzYUJuLXFOak5FYWxIek5vYQ?oc=5\" target=\"_blank\">Putin credited the Russian military with seizing territories larger than the area of Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdC1meEd2RjBsUjdNSG5SUDFCZ25sajdBZnM1Ykp0d0ZzMFdOZTl5dW1zWjE3bTVEUTdFaW1pR3hnbE0yN3NaZE9iSzF0RmJFSl9LVjBNUHpPMG1POVBHVjVtdk5SUEx1RlFtVFhPLVhaUWFPWlBSLUJVU2JFVkJ0NVd5SFFjZDAySnppZGJR?oc=5\" target=\"_blank\">Russia unlawfully seizes civilian property in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">countervortex.org</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYm9HQjBQdUxkbTNrdGJHdENZLTdYWlZXMldSVHJOd1FWel9veVZsRlptazZTcUhKLS1FcC1ZcFdmM3hrc3NoWkdSVHUwdndrbWsxQlNyVnMzMWtlRXNwNk9IVXZ6MmlTQmlmNlJJVnhZU0JmcXBKTjYtUTB6XzJFcE1PakhuSEc3Z3JSQWpRRVBhSmNWNldMQWVSVlV0elI5aFZpSFZsbmozN0xDOS1VVzdGcEtfT1RzaTJwb25oOGdUb3NUQWxvWG04Xy16eFl1cGVJUks2ZmExQS1XMUNhVmswZ2JkOVkyN19jcXJ6YUtfUWtKYnA5cnEtdWdEUkc1OTRyLWlQX3AxNGNtUU12bnprQUZUd9IBmwJBVV95cUxNaHRRUzBiMTllQTZTU3BHS1pTTVBoNzJYQlRrUjFUV1Q1ckx0VlNuU21lT05JdlM5UnhSRTFNN3NocEtrZkdudUpDeWFuMVRSMEtuQjlwOGhkbHFwNkNydTNGVTd4NzR3MXNIMFZ4aUdfS25seHZvbW1VeDhBcFUyaVNtSjllN0ZuZ1Q5R3hlcS1ONFk3UnV5WE5rcWUzeHZOSWxlUDd5UVRjeEFyZjlqY0RaMjRfZUF6YzdUQWdHdFJ3Z0YzS2JMYUNjbjlTYXZxaGgtM0Vlc1h4b0pKazROdHZJY1JUT3BCcTYzUXdqOG5EOXZJQkZwYzBBYWlNYW52VkNpdWpkU0VoSDJBWWF2cGxtTFNoUjhPUlhZ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWjBkRzhPZVpGSEtDaWZQcHl2VmVHX1FnMkwwYllKOURzbWtwbDZlSlBtbjJCMENtSWEtNXdNdHU2TWdjbmZxWmt2a0o0SVA4Nlh3RGlVNVhWcGgwTWoyM2wyZ3VUVnRPZDI0YThBbG53cnVBMDc1dQ?oc=5\" target=\"_blank\">SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5\" target=\"_blank\">Google to pay SpaceX $920 million a month for compute capacity at xAI data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1A4SUs5cFhlaVp1WFVKZjBPbUtaSUJuUjlwZFFUOTc5eENqNG5RM21qcTB2eHhDTFhyaWVWWHhXUVJUazRnZ0RRcUlwY0hFYlprYlRtYlVVNzd5UmpDaWVSYjkxYkl3cHJoMlphSjlTLXdsbEFzeUY1d1p4UGZXU3A3TE9HNXo0UGZLMUcyYWJDTVJUVVpjRC1zMjc0NE9WdEgxWUln?oc=5\" target=\"_blank\">Google to Pay SpaceX Nearly $1 Billion a Month in Cloud-Computing Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5\" target=\"_blank\">SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVllSRWktcUxGWE5EMlZyeHdaZUdIb0E5dDRuTkp2QTZwMVlaNV9YWDVCbER1ZGtCdWEyN2FGYjNBNjl1cGxvOWxCdEpFR2Zyd1JydFVvZTVKYU42NW1aXzlfNVp6anRtRnFLcDlLMmoxbjRZQ1BPY1lKekd4c0RuMlRpWHpoeFd6aVNRRlY0dk11a0NwT0E?oc=5\" target=\"_blank\">Dow Jones Top Company Headlines at 5 PM ET: Google to Pay SpaceX Nearly $1 Billion a Month in Cloud-Computing Deal | Paramount ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWjBkRzhPZVpGSEtDaWZQcHl2VmVHX1FnMkwwYllKOURzbWtwbDZlSlBtbjJCMENtSWEtNXdNdHU2TWdjbmZxWmt2a0o0SVA4Nlh3RGlVNVhWcGgwTWoyM2wyZ3VUVnRPZDI0YThBbG53cnVBMDc1dQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "Russian Offensive Campaign Assessment, June 5, 2026 - Institute for the Study of War",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Institute for the Study of War",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3ZxS1pMYXNJay0wbHdWWm85NHhZajlWTG1oZUVuUlRUNzJIbTVfRDZRbFZ3RjlMOHRweW5IRHZBeGJfak8tNTdiMEtUN3g3MjVyN0x1RXR4bXc4N1Y4MHp5TFBDVWlEaEtGRk0zc09XcVRYQVpwRzg2U2d4MVdzZnktbjVLM3g5UEFUVU1kanpRZFZFRTZGenNLeDFGdUJRWjhZODdR?oc=5\" target=\"_blank\">Russian Offensive Campaign Assessment, June 5, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUZ0Nml4VW00OEJVSzV3akVaMW9HaFU0Vi10c3J3MFluNk1xYnJmbjFnSEUzT1dBQUo4X0tlV3luNHVYUHFxbklpSkRpdUh0dWV0amxJSnFtbzh6SVBscllXYkNEcFdnSGpGek1kTFotcDBLWjVreW56Q0RxRk5UMXdyX2FPOFpsc2cwdm1jWG5kX2l3S2JibG1LMU1HQzhWUmR1bmNRQU5Cb2RUWlY4SUl30gG3AUFVX3lxTE44X3pOZElVX2JsSnJrMjNkMHZnSEhxZ1VRT3JKbk9XNXlHQ2RpSWZWMGpmbjNYQTdzLWtSdzhDclBxaG84ckNpUmpiUnFma0FRWUg0QkEzVmZRS2xJRjFkOUt6V1U4eWk3NWVXeGQ3aElTTHA3ZXFJZ2twZzVmaXowaVBhT3Z2SGVwOC1rYjhMUGtSTW9lRXlHSC1uRWNzU2hnd3V2NVNBY2pLVHhLaHN2aU5JTHJRUQ?oc=5\" target=\"_blank\">Ballistics Putin\u2019s \u2018last argument\u2019 as Ukraine brings his army to standstill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGtuaGYyOFZwczlrNS1uRkFZRXhWMGlkX0FqcmN6bUxpRUM0RmJHTURVaVV3aTRpQ1dKWXJBN1Vjc1NUWmhPekJfUXU2TmcyQnJjRm90YWxMa3BtRWlZVmYyWmw4UzFrS2xtcUhNNjhiLXZ2XzB1RmFBdG1sSG9Ob3o0Z3c5U3BBUmFkY3EtdGVneGpHRlN1Yi10WlVBbHlVVUp5QnMtQ2tjdTNDUl80?oc=5\" target=\"_blank\">How Ukraine Has Turned the Tide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXNFRHJfUVFnSHg5Yi1mVXY1eHdzRndvRzBfcHpNRkh6a3NTZzBfSHAyX29vVjV1aFRja3FNSXBtRU0xSzkwYzlESzl6N3RnbjBzdlo2TktUbUxsSUI5OE95VTZ4RTh1MVp2UV8wcjEzMGlyRWt6UHhVZzF2MkpyWktFTUlSZEYtUnpiM3lsTUlSd3BTUElrbldxMzBwVlRpN1VSMy1rVTZpSWsy?oc=5\" target=\"_blank\">The Russia-Ukraine War Report Card, June 3, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Russia Matters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPa3pHbmNzV25vNTRtVGpIbVYwanIyN0VBRUFQR2lpLW1XZDJZQjB5aUlIeS1uNTBFc0g2Mm1WZ2VPbjB5U2VWQlpQTV9qM2NVVkdZNW10ZHM2c2VrSmZiNDZHeHhaOUNwdkpldS05dS1vUnJ0amdvdF8zcVBzS3ZEb2FVcmhOYlVYZ0gxcGJCemc4SDd0S01MUFZGeDZaMzQtNFpvd3hESmlLTG9oWklvNVJOTkxmaDlYN0l6dHVIeXJZS2Zuc21B?oc=5\" target=\"_blank\">Ukraine war briefing: Russia losing on the ground so pivots to air war, say analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3ZxS1pMYXNJay0wbHdWWm85NHhZajlWTG1oZUVuUlRUNzJIbTVfRDZRbFZ3RjlMOHRweW5IRHZBeGJfak8tNTdiMEtUN3g3MjVyN0x1RXR4bXc4N1Y4MHp5TFBDVWlEaEtGRk0zc09XcVRYQVpwRzg2U2d4MVdzZnktbjVLM3g5UEFUVU1kanpRZFZFRTZGenNLeDFGdUJRWjhZODdR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-06",
+          "headline": "IDF troops fire at vehicle in Hebron, killing 7-month-old baby and wounding his parents - The Times of Israel",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Times of Israel",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1FscVlDT09BTUU5Q3o3a0pnTUZDVkZyMDdBb3BkX2EwcnFJeUZHZHFJc1o3ajlFQThZNW4wVTEtOUY5S0hkZEVSQXJlcGc2OVU1QmFBWi1lV21vWW9TWUhmNGphUndkaDNoTkVTeVJlSGJRS2pqMm5JemxqMFhCalR3ZUNxWGM3NWdabFd3TXpQdzQ4eUJVZTdDMUtfdFFIMTlMQmN0S1pfS1NnenAxUUYwT0dsTkoz0gG-AUFVX3lxTE5abmpSYmFjVmRMLXNpZ0ZXRklDdm5KQWVsNXptOV9mR0tNc05vZy16S0piWmVEb0dObjFOano5WjVVQi1ZSjl3d3E0cGJFWDJTRHdDU3ZReGtfQXlIcnhKN09KSmZNcHRBNDc5Q3JReXZwUTBuRU0yYm84OHZQWk93UjJsY3IzeFBKOGJjMEdpdGVBcTFjc1hwVmh3YkxGTW42aS1iMVFMZWRzSG9XcWoyVDM3Yi1WTVV6b25TaXc?oc=5\" target=\"_blank\">IDF troops fire at vehicle in Hebron, killing 7-month-old baby and wounding his parents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE54QmRjcjM4dXNoUUJDUkJUVDdYeWJyanFqcDhsdEF4amJZY1RsVnY2aTl2SXBRLVZWRnB0OTdDUTZlcEJack81b3JlRlZmc3YtZklkeVFSSS1tdw?oc=5\" target=\"_blank\">Palestinian baby killed by Israeli gunfire in West Bank, health ministry says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzV0M1p1WG9lbHNfWERpdGYyd2tQQVZ3dmVNM3NOQTBCZjU4alVSZm5Ld1lCX3NCS3NLeElEdE5XV2ZrU1RSdXlnYUZJaXlYQWlib01QWUhJYUtKZkNmMGFfM3p6OWRvQ2h3WllmMkZJZklWMWdNREE1Ukt1a3R3OU45T2w5WVhCX2daMTJfZXhyczMyMGVxcTNHY1dQNmlVZ3Z6ZU5HbTBXZUNhSXFMbVJpS3J5RHB1ZHdnTktOT3RPN0o1WTFIMGFSeHBvdzJFV1BxY0w3MUxOTHZ0LUxV?oc=5\" target=\"_blank\">Father of slain Palestinian baby says he brought car to full stop, shooting soldier saw family inside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWxYVWpjUC1mQkpudGNfVWdWSjRCQVVfSGs2Q0s0UFpfUWRkWkM2bnl2enltdEl0bjJ6TXR3eVh4MEZaNFVCdTY1TU9JdmtVRnFVUExLdEtfWHNPU2ZxNEIxQ3daV09xel8xU3BfSzVqelBXZk43M1Nnb1lvcFQyMFluVVdSQXRTUVUtQjhOdXBvZjRSVWowWDhneW51ekpoa0JtRWhsQnZNQ3Vmb2FhTlU4MVI0MXYwOS1xc2NPZF95RmpOZ0tlZUlUSQ?oc=5\" target=\"_blank\">Israeli forces shoot dead Palestinian baby, wound his parents in West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUJsTmZZZkdjR0NfN0tDdFY0T3ZnMnZwdnVYVzZfd0kwSjhRU2wyUnllSkkwN1JTYTZCajhmYTFuaTlrRGk3OFY1OW03U3B2MVItVzFpeThxOGJnTUFvMFFXS2Nndm5ZazdhcXFYbEM2dDNvWXAzMjhTaGU2LVhUakszYW5mbEtOM29JMEE2aFFMRDh2S05IX1BOT2FrSDcyTmZDRkVRRE9vVm53cmd1V0VHM1VMUFhqZUliS2JFWWQ?oc=5\" target=\"_blank\">Israeli forces kill a Palestinian infant in the occupied West Bank, say health officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1FscVlDT09BTUU5Q3o3a0pnTUZDVkZyMDdBb3BkX2EwcnFJeUZHZHFJc1o3ajlFQThZNW4wVTEtOUY5S0hkZEVSQXJlcGc2OVU1QmFBWi1lV21vWW9TWUhmNGphUndkaDNoTkVTeVJlSGJRS2pqMm5JemxqMFhCalR3ZUNxWGM3NWdabFd3TXpQdzQ4eUJVZTdDMUtfdFFIMTlMQmN0S1pfS1NnenAxUUYwT0dsTkoz0gG-AUFVX3lxTE5abmpSYmFjVmRMLXNpZ0ZXRklDdm5KQWVsNXptOV9mR0tNc05vZy16S0piWmVEb0dObjFOano5WjVVQi1ZSjl3d3E0cGJFWDJTRHdDU3ZReGtfQXlIcnhKN09KSmZNcHRBNDc5Q3JReXZwUTBuRU0yYm84OHZQWk93UjJsY3IzeFBKOGJjMEdpdGVBcTFjc1hwVmh3YkxGTW42aS1iMVFMZWRzSG9XcWoyVDM3Yi1WTVV6b25TaXc?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-06-05",
+          "headline": "Daily Update: WWE shareholder lawsuit trial removed from schedule, must-see match from Mexico - F4W/WON",
+          "kind": "mixed",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal",
+            "negative_tone"
+          ],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "rss",
+          "sentiment": -0.0449438202247191,
+          "source": "F4W/WON",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2x2b1hUbWJNTzF6bnpfX3VFak13dUZFbGVuempHclFkcWR1V1VJbno5ZTI0bXA4S1ljUndlX005c0E0azBCeUpkQnQ2aFRKdFMxRENGd0tJX3V2RlNSV1g5VDFpWUIxNnVuTnNHeHlhczVsLWdwSnc5RklZQi1jS3l3eUNpcV9sVVVQT18zUVVkTnRwZUF5VEZvTmE2eldNZm5MWnRDMzJKaWcyRVByaWFpWFZ3dXpia181YjA4ejVOLVZ0MGpGYUlpT182UGhxNmVV?oc=5\" target=\"_blank\">Daily Update: WWE shareholder lawsuit trial removed from schedule, must-see match from Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">F4W/WON</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUnc5WU1nU2NqR29HYTVRTjFxcUlkeEQxSklvX1pDeUQxcTBwR2U3V3MycE1RT01ZR0R3MEZUa0pJS25nVGFYT3llWTdLSzQycldNOGRxckpZTV9lSmVrNFZzRHNtaXl3aGtiNVEwcGZQVmdJSnJoNHpwdXY4UTc5RkF1THBzLWUtOTZfN1cxSzNJdDFVd3IwbDZweW1LQkd6ek8w?oc=5\" target=\"_blank\">WWE Merger Trial Taken Off Calendar, Sparing McMahon for Now (2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeXpOZDR6R0EtVHdhQzZmZlAtUkx2bFJmYW9oaXZ4X3JqM1pLSnMtTTE2RkYtTFc3NV9VRUl5UWNqdHpPNzhYSmloMWhjdF9vb2V6aGdWOHh6SXRfM2VKZnFlY3BwV0lSQXhJd2NMMEpsRy1UZF91MmhPQ09HOFRMZHZZMWhUMVpiX3Z0Z2cwSHUyNHdTRlQ5Y2w3WEtTazRPaWVwN3Y4NGtmMVdpUW1YMHRHZE9rdmw2TFhKNHM4dkNzTUsyVmVUcGtKcnNtc2huSjJQazI1ejJYRG5aalo1Rg?oc=5\" target=\"_blank\">Plaintiffs in WWE shareholder lawsuit file pre-trial briefing, argue why WWE was undervalued in TKO merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POST Wrestling</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVYVl9KRTZCZVZuSU5rZkdrUUNDa1NyYk5panYtdnRCVVluWGg5RU5IdzNmT3dERlBkR0FpcEdfekRRT0JwTnIyUmszYkVNTENRdzR0Ym1YWld3MmNhMEotbFVTMTVhZl9ldlB4RExXVnlrN2tMN2RHNFRyemp2Y1RwdWZiOEdHV1VVb21EWC1WVFJ5M1pBS01RVFo?oc=5\" target=\"_blank\">WWE Merger Trial Taken Off Delaware Chancery Court\u2019s Calendar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fightful</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDNLZkFlTkxpUGtvTm9hQ0xBNnJ2YVNzNEhsWHFjck9wZWhHVVdjcWVQUC1ac2hqY2dGUUZHaWpfR3hMajZjWGpJeWVFbVdqU3dycUlPWVNUYlY1MW91X25lYUZmUVk3RTBvejIxdnpacEU3MTBqaTMweVIwOGRDQ0FUbnBhcjZJcjB1SnZOd2Q3NVR5dFkteXZBb3ZXb00?oc=5\" target=\"_blank\">WWE Shareholders Seek Up To $957 Million In Lawsuit Over TKO Merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WrestlingNewsSource</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2x2b1hUbWJNTzF6bnpfX3VFak13dUZFbGVuempHclFkcWR1V1VJbno5ZTI0bXA4S1ljUndlX005c0E0azBCeUpkQnQ2aFRKdFMxRENGd0tJX3V2RlNSV1g5VDFpWUIxNnVuTnNHeHlhczVsLWdwSnc5RklZQi1jS3l3eUNpcV9sVVVQT18zUVVkTnRwZUF5VEZvTmE2eldNZm5MWnRDMzJKaWcyRVByaWFpWFZ3dXpia181YjA4ejVOLVZ0MGpGYUlpT182UGhxNmVV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-05",
+          "headline": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto - CoinDesk",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.010526315789473684,
+          "source": "CoinDesk",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUs1Q1o2M3ZfX0hDS0EyNjFaQ0pLNjNmenpEY29Gemd4R2t5azZfeHdVQ3NHX1pydlRxZXhFX0x4YjhyamxvRVdZWEpoY1BKQjRYLTg4NVFLa3dHXzVnQzl5U084Zm43aHRzQTgtQTRSOVJEVjQtRk56d05HMlgzMmdmMDdoTjh2S2hPNGd5R3ByUFpET2JoRmFnNzlqMFNnNTJaSjlNNzVhSWdDcVBSRnB1UDYxRTFzaXhnMlV0RQ?oc=5\" target=\"_blank\">Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORldxTGF2U3JoY1Q1WEtPUkhYOGM4dzV0ZU1qb2U0OFhWb2MzMnVfVFZ0dXdYejhybkRMc1dWVzdYMTBrdVA2dmpRVlMxZDJ0b2lmbXROUkpqUmV5NDJ2cVVOZnM5VjJTaXpfam04Q24yNmozYjZqWnhFSXB0NUdVVUpqNTZOLW0wVFlpZ2ZqaWh0WDJpMFVnc1pzOHNSS3lu0gGmAUFVX3lxTE9iMmh4MEtLTUljS2V2WnpFZ0tMQk56bWZaSkxtaFBVR1VHN3NjbFl1TEhQVmhUWUI5QjQyUGh6U0hvVUJUb2tNX0RMTTU0ZmRMTUJHU01oVU8xdEFYOFdVTnZEa0t4dTdrNDZfRGtmb3FVaGwyeklXR0MwZ0FEVndhWFdKN1pHOE5PTDB5WmNvczNBdnViTkxlejZzNW9HZDlZdDRzS3c?oc=5\" target=\"_blank\">Bitcoin cracks $60,000, sinking to lowest level since October 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQRS1vTjdBbG45ZlBuOE9kbjk2WVU4YmZLaVNpYWtOR0ZEaldfWnNoUlAzcnFXOWlGZFpIZGxlYU9ycElwSUpzMlFMRk9iZUprUG5Jcnc3ZHlBa2VBMVJKWFFSZlZQMWoxdy1nSS1fT2xkTFA2cktWSW53OEsxOVVMYjd5c2dvazBqY2tVcE94b2xjT1FfaTZHLW5wZTJ4emh4TjN6Um5vVHM1Nnk1RXZ0VQ?oc=5\" target=\"_blank\">Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1JJeks4a29UbHQyLWNXck5ESTZPbG5UOS1qVHRzeWZtSlc5eUFLRGVUYjNydkhMaGxZUWlpY25jYXZSTWZ1VGhPakdtLTZobVFZX3ZSVEF0ckVSOVR3NDRVWGdNNG45RHh0X3VudjJHeWVUazZKQzFaNWlQMVp0S2szcHZ4R290YlNtM0ZmdGFXR2VYNWZRaDRMLWpnVEJJVEpzcXN2WFNPa2RzVU1BRVJybzQ4cjJhTmRXT3NaakRVUWJ3akxYdW1B?oc=5\" target=\"_blank\">Bitcoin price crash reveals a surprisingly positive future outcome</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXhwUjU1cWdIVGVNN0c5VTdTNDFUU2lLbEhUa0FhM1kycTVfcld5cklwNGZlbkUtUUtwLUJxb3E1UG0wNWVHeUVYYWJwaE9DUjlyb1gwbzFFSmVobnktb2d3Qm1LcVpsVFlQVElSNnhQX3pidVluaHVOMEtQNlNCYlZkbFdBdDVSTnJiZ005ZEw2eDlYM0NueVFnVTZtZ0N6OExCZnRVaHhjT29ySDlhaWV6WnVYNV9DQ2JwNXJvLW8xSG9seWpDUURGZU1YX3g0Q0E?oc=5\" target=\"_blank\">Bitcoin\u2019s sagging price has crypto bears taking a victory lap. Why it\u2019s too soon to count it out.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUs1Q1o2M3ZfX0hDS0EyNjFaQ0pLNjNmenpEY29Gemd4R2t5azZfeHdVQ3NHX1pydlRxZXhFX0x4YjhyamxvRVdZWEpoY1BKQjRYLTg4NVFLa3dHXzVnQzl5U084Zm43aHRzQTgtQTRSOVJEVjQtRk56d05HMlgzMmdmMDdoTjh2S2hPNGd5R3ByUFpET2JoRmFnNzlqMFNnNTJaSjlNNzVhSWdDcVBSRnB1UDYxRTFzaXhnMlV0RQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-05",
+          "headline": "UN Security Council to Hold Emergency Session on Ukraine After Massive Russian Attack - Kyiv Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Kyiv Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hamNab04ydWpkODhiOEp2ZzcwaDZVa3U0Tnc2eGcwX0NWM0pCV19lc3E2WTU2ZzlQZ21UWVlXYzJjdEszMndaR25xbw?oc=5\" target=\"_blank\">UN Security Council to Hold Emergency Session on Ukraine After Massive Russian Attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDMxdl9wUUpCYi1iT3ZCNGFYQnA5TFJPWDNQek9WcW9KY0p4UmRka2c0azJydXd1TlFURVpsajJ4RUc5VHNLTFR2cHZDVlFEYVRiX3ZzUENMVE9JTHg0SFZPVEVmemZwVTROaTF5V2RiMDh6TTkwQzg4c1F3cU1yOEdqOE1MOVAzMGNNNFU4WWF3SnlCczJWMG14bEI3MXJBd2lpVWxiSHZ0eGFnV0lhUldEMnh4QXZjMkpoXzlJRQ?oc=5\" target=\"_blank\">UN Security Council to hold emergency meeting in response to Russia's ballistic missile terror</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kyiv Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxNb1VYdElId2liejZWQUV0NXF0ajZhUVJKYllKVDVrRHdMb0FsdjA0X0FyUXRyLTFHSXA2bHRhbmVMQnZTc3puRXJQOFdLZWk1NEx4TDR5cGxleXE5MmJ2R3U2YjhfY1IzQ1lLc21DTldsRE12SUF3NHhIdHNRTFdsYXFJOTBkWUIwdktuY3RUV0JVTkJKTjN2LWFDTldCUzFsUDNrbVA0WVRuckNad0FwVVI4MTFWRFkxVEgyTHVnbmpKTHROMEQ4TzNadXVSWXFqU01HWmhNbURsR0xUdks4aWlEVHBVMnlDd1FfZ0Vmd0lPWmE5UTMyNkFyZTZubUcyR05sWHpEX1Y3djNhTUNNdVllV2JqMUNVdmNld3FRNWc3R1FWZHBHSw?oc=5\" target=\"_blank\">Sanita Pav\u013cuta-Deslandes, Permanent Representative of Latvia to the United Nations \u2014 Statement at the UN Security Council on the Maintenance of Peace and Security of Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The America Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUNkbWNaQXNPQVNrUlFyWVdzQ3E4RHhxQlp5MmtWMmltX3M1enJRcEJNMWlsSU43QnpPZGwwOUc2SHVHYVBoV19mR1ZCdW94SlVTVTlTMU9MTnFEUzVuNnJLRElXTkc1S21WeGhwRTFWTnl0d2hFQmhST25oNnhBelBsRWt2SExuNXRmTGdhZE0wN2R3SThjMkVVVDIwUTlhTnRPVlczalo?oc=5\" target=\"_blank\">UN Security Council to hold emergency session after Russian attack on Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOVNreUhHQUVqQzlxeGk3ak1qZEtqazFYdUxKOVBwamx5b1g0XzlxT0lnTHdnaUlRRjJMc2hxUF9KeXRfbWFvZVJqaGxyaTVNQ3oyUEFWVzdfZ25yLS00dGZxcnFLbHRDcGZpQ01xV1ktYjdrcnFuMlhZLVgtUXU4WFRSQXVzMW1DeWVVUXU1Q2Itang3UFJaMUhUdEx5WnNTTTN4WEFhVUFqNHNhVEY0V0hYNlJtaHJzM0VELTFKUS1aM3pGOUowWV9wbVZ4bUMtY190VXdwTm1UMUJmaF9iY19qcHhscUd0U0N1MVJZYXZkZ0tELUE?oc=5\" target=\"_blank\">We stand shoulder to shoulder with Ukraine, with Romania, and with all our NATO allies: UK statement at the UN Security Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GOV.UK</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hamNab04ydWpkODhiOEp2ZzcwaDZVa3U0Tnc2eGcwX0NWM0pCV19lc3E2WTU2ZzlQZ21UWVlXYzJjdEszMndaR25xbw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-05",
+          "headline": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "HBO\u2019s \u2018House of the Dragon,\u2019 Hulu\u2019s \u2018The Bear\u2019 and Apple\u2019s \u2018Cape Fear\u2019 will try to compete with the World Cup",
+          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-05",
+          "headline": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.010309278350515464,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE84NmdTc0JoTmx2dGJNdXROemJJeWo2aTRnY2tZRExTeVppVTJDeXdVem56ZDdFMjRNMTVlWUN6RWFValllZm51TWtVXzU3N3pUV3ZJLWdSNVhXMHZIX0RxLXRmLVZpSDNSUUE?oc=5\" target=\"_blank\">Chips sector bloodbath drags Nasdaq down 4.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5\" target=\"_blank\">Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5\" target=\"_blank\">Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkZEak5MREVCMHNlMW44amp0aVRGQUg5bTd6WUVQeWV1Z2dycllhMTU2dDNERmhvbTl5dGk0ajVYTVFGcXdxcmFiNlp3QVl1Mi1XS3ZmR0FzYmJHRU1pUU1jcWV1c0ZuLTBicEF2dkpEMkxrRy1RM1hEY3cxWUJHQ3Y4YV9LdE1YY1dTWkluVmJvZXMtdlVTUUgzUlkzOFdBdmR0RXRjWmNPczNwN3hHSUx4Q0Z5bmNTcXVOcmlJdFRraFhOelMweDFJWTd1SlRxLWxFaWYzam5yRG1jMW11NV80anJzQQ?oc=5\" target=\"_blank\">Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME80WlhiWUZLQ2xub3h1T3A2SE93M3cxVXM2bEp3YVBsSnZQSldYZXlkYjFWT3VkUVl4UXRCVF9hd2Y0VWdvVGZleG02SG9nS202WHJwUUY0ZEpOLVQ1dXZMaUE3M3R5MTBmY055WWdoVDZNRWYxQkUtcklEM2k5ZGxHLS1fQUxWY3dVUnJ4SGo1bGFGOW9iakRUbkl5OFcxVXRpaVdjVU8?oc=5\" target=\"_blank\">Why stocks just capped off their worst week since Liberation Day after a stellar jobs report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84NmdTc0JoTmx2dGJNdXROemJJeWo2aTRnY2tZRExTeVppVTJDeXdVem56ZDdFMjRNMTVlWUN6RWFValllZm51TWtVXzU3N3pUV3ZJLWdSNVhXMHZIX0RxLXRmLVZpSDNSUUE?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "banks",
+        "insurance"
+      ],
+      "company_profile": {
+        "industry": "Asset Management",
+        "provider": "yfinance",
+        "sector": "Financial Services"
+      },
+      "effective_adverse_effect_count": 0,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-05",
+          "headline": "Is Affiliated Managers Group Inc (AMG) Overvalued After 7.5% Ral - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGhMY2xVUS1jUEt5OHlfeTRtNm0yREd1cHhEd3UxQXdzeUl3czNUNnFwU0lIMU1xcEZFWnM3YTNMRXhINmV2UWhZQ2lERnJKZkZ2cEl5U0hLajlaUGx4YnVoYVZVZDF0UTdvR2FIV0Zxalk5amZSUFUxd3FISmY1YVM4R3UyYXNjMkFWWUNxNGZGMGNIV1dWZE5hV1pNZGxCOGJOdFY2Z0F1eWdLNXBsMFNvSGQteERxZ2hMWDE2dFlveFpaNVZtbG9MdFE5WUJrQ0k4Sg?oc=5\" target=\"_blank\">Is Affiliated Managers Group Inc (AMG) Overvalued After 7.5% Ral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGhMY2xVUS1jUEt5OHlfeTRtNm0yREd1cHhEd3UxQXdzeUl3czNUNnFwU0lIMU1xcEZFWnM3YTNMRXhINmV2UWhZQ2lERnJKZkZ2cEl5U0hLajlaUGx4YnVoYVZVZDF0UTdvR2FIV0Zxalk5amZSUFUxd3FISmY1YVM4R3UyYXNjMkFWWUNxNGZGMGNIV1dWZE5hV1pNZGxCOGJOdFY2Z0F1eWdLNXBsMFNvSGQteERxZ2hMWDE2dFlveFpaNVZtbG9MdFE5WUJrQ0k4Sg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-05",
+          "headline": "Return on invested capital % of Affiliated Managers Group, Inc. \u2013 SWB:AFS - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW4wT0szWE5jakI0VjZjNEpWWnRzbWtsdWtHVEJFWGtQQk1OR1hxc09FREZXbW5WTjFhcGV1OHVQUXRBTjYza0FVQUwxVkJtYk1QNmdpa0pGa3lsM3R3SDFwVmVIVE91U0ZLQm94bWF6RUtkUmhKY1BFUDF1YmpYYk1WcDZTbzRQeGVZcHlpNU5CNkRkclVIekdlRHJzT0htZEdOVm93SQ?oc=5\" target=\"_blank\">Return on invested capital % of Affiliated Managers Group, Inc. \u2013 SWB:AFS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW4wT0szWE5jakI0VjZjNEpWWnRzbWtsdWtHVEJFWGtQQk1OR1hxc09FREZXbW5WTjFhcGV1OHVQUXRBTjYza0FVQUwxVkJtYk1QNmdpa0pGa3lsM3R3SDFwVmVIVE91U0ZLQm94bWF6RUtkUmhKY1BFUDF1YmpYYk1WcDZTbzRQeGVZcHlpNU5CNkRkclVIekdlRHJzT0htZEdOVm93SQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-04",
+          "headline": "Return on assets % of Affiliated Managers Group, Inc. \u2013 SWB:AFS - TradingView",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnh4SU9SaVh4TnJmdHkydXlUc0FiaURPbERJUl82V1BIUUN4VjR0VmRYU0NhZWJ5N0d3Smxla3RaQmFuc2FxU19udGFpc1lKN2Z5YTAwdnpFNjlzT2stY0Y0bFo2YU1DcGp5ckZqWW9lbUJaVGpyY293aEZiVi12SlVvMUtuNnhuYW92Y2lvLVV0ZnM0eENRbTF3?oc=5\" target=\"_blank\">Return on assets % of Affiliated Managers Group, Inc. \u2013 SWB:AFS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnh4SU9SaVh4TnJmdHkydXlUc0FiaURPbERJUl82V1BIUUN4VjR0VmRYU0NhZWJ5N0d3Smxla3RaQmFuc2FxU19udGFpc1lKN2Z5YTAwdnpFNjlzT2stY0Y0bFo2YU1DcGp5ckZqWW9lbUJaVGpyY293aEZiVi12SlVvMUtuNnhuYW92Y2lvLVV0ZnM0eENRbTF3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-04",
+          "headline": "Affiliated Managers Group Jumps 7.2% Amid Sector-Wide Rally - AlphaStreet",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "AlphaStreet",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVNieVVfZHZSQ2Frb2JVcXlzQmhiMjdaa0VOUGpHakdhS3FHemtBTlVOR3dRWXBkZWFSUzZSUS1ZYk1YeFVHOGVUbUxuZHlrS3FseXpONlhPeks1alJVNEFhNDNsVXEwdGg2NTBrb1ZRNWlaRlRqeUs4WFlyZmZVZ2NkbmZBZ19RZlJoYnlZenpBZ9IBkgFBVV95cUxPbVNieVVfZHZSQ2Frb2JVcXlzQmhiMjdaa0VOUGpHakdhS3FHemtBTlVOR3dRWXBkZWFSUzZSUS1ZYk1YeFVHOGVUbUxuZHlrS3FseXpONlhPeks1alJVNEFhNDNsVXEwdGg2NTBrb1ZRNWlaRlRqeUs4WFlyZmZVZ2NkbmZBZ19RZlJoYnlZenpBZw?oc=5\" target=\"_blank\">Affiliated Managers Group Jumps 7.2% Amid Sector-Wide Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlphaStreet</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVNieVVfZHZSQ2Frb2JVcXlzQmhiMjdaa0VOUGpHakdhS3FHemtBTlVOR3dRWXBkZWFSUzZSUS1ZYk1YeFVHOGVUbUxuZHlrS3FseXpONlhPeks1alJVNEFhNDNsVXEwdGg2NTBrb1ZRNWlaRlRqeUs4WFlyZmZVZ2NkbmZBZ19RZlJoYnlZenpBZ9IBkgFBVV95cUxPbVNieVVfZHZSQ2Frb2JVcXlzQmhiMjdaa0VOUGpHakdhS3FHemtBTlVOR3dRWXBkZWFSUzZSUS1ZYk1YeFVHOGVUbUxuZHlrS3FseXpONlhPeks1alJVNEFhNDNsVXEwdGg2NTBrb1ZRNWlaRlRqeUs4WFlyZmZVZ2NkbmZBZ19RZlJoYnlZenpBZw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-06-04",
+          "headline": "Insider Buying: Annette Franqui Acquires Shares in Affiliated Ma - GuruFocus",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFM5dmE5dnFSdWxGUS1MbXVLX1hfZkJUQkRWVlhsUEdRTEgtdzFiTHA0SWJqa1pMUExqNUpKM0h2a1Z4N2NYZTNIQ1ZnbGFwX0xDRTFxNXRZdC1XeFJtdy1VM1M0OFIyUnd6d0ljWmtnNlJoaldHVnBxekVmeDl5V0tzMTI5Q04zS1hwNmt0QWFSdThrbG5zOFk5eWE5aEVaTWdVTkhBVm9zb29LWFlvcllObnFNbmo5YTI0TmVaTGJQSTZwVDZTb0dlZGdJYUE?oc=5\" target=\"_blank\">Insider Buying: Annette Franqui Acquires Shares in Affiliated Ma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFM5dmE5dnFSdWxGUS1MbXVLX1hfZkJUQkRWVlhsUEdRTEgtdzFiTHA0SWJqa1pMUExqNUpKM0h2a1Z4N2NYZTNIQ1ZnbGFwX0xDRTFxNXRZdC1XeFJtdy1VM1M0OFIyUnd6d0ljWmtnNlJoaldHVnBxekVmeDl5V0tzMTI5Q04zS1hwNmt0QWFSdThrbG5zOFk5eWE5aEVaTWdVTkhBVm9zb29LWFlvcllObnFNbmo5YTI0TmVaTGJQSTZwVDZTb0dlZGdJYUE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-03",
+          "headline": "Director Annette Franqui adds AMG (NYSE: AMG) stake with 750-share buy - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.03571428571428571,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk5rN2hWLXZRMjFnY2hTbGpUMXM1RFVRUVJkLWpXbWI2SEJEcHN4bTUyNnJjQ1pENHNLOElpWnJvaXlQTnctamhMS0xTRU9obDlQZkNWbU1sQlcyWDRQQmxJRzI5RnNYbWdjbDlUMll0LS1Eang1WFRhb1ItdFpqcDRNNDJuQ2dKSFdRSkZnZjd6WFBiUFl1NTk0M0UtbDk1RXNMaktDTms0Vno5LWVvQ2RvSGtFVXdablQ1SFpoOA?oc=5\" target=\"_blank\">Director Annette Franqui adds AMG (NYSE: AMG) stake with 750-share buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk5rN2hWLXZRMjFnY2hTbGpUMXM1RFVRUVJkLWpXbWI2SEJEcHN4bTUyNnJjQ1pENHNLOElpWnJvaXlQTnctamhMS0xTRU9obDlQZkNWbU1sQlcyWDRQQmxJRzI5RnNYbWdjbDlUMll0LS1Eang1WFRhb1ItdFpqcDRNNDJuQ2dKSFdRSkZnZjd6WFBiUFl1NTk0M0UtbDk1RXNMaktDTms0Vno5LWVvQ2RvSGtFVXdablQ1SFpoOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-03",
+          "headline": "Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now? - TradingView",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.15384615384615385,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTRFenFoTmFOYXBvWjVRTFBFRnF2bFg5S0tOQjgyNXd6T1NybWFGMlQzdl83dVpldkx5ZXNYT2ZaOTJzLTlJWU5UcF9oRVFEUnFKRk5Gd0tkTU9HbE9yWi1qUUJpLTRqblJRZ2xNLVpUNVpZM0ZvNUJCUFBHV3RmZXZoc2VHNEQxenVRX252R3NBNUtpdmhBa0dwTDRmdzBUcDgzQ3ZqY2NlUkhyRHV0UkFaTFd1Zm1UWXc?oc=5\" target=\"_blank\">Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTRFenFoTmFOYXBvWjVRTFBFRnF2bFg5S0tOQjgyNXd6T1NybWFGMlQzdl83dVpldkx5ZXNYT2ZaOTJzLTlJWU5UcF9oRVFEUnFKRk5Gd0tkTU9HbE9yWi1qUUJpLTRqblJRZ2xNLVpUNVpZM0ZvNUJCUFBHV3RmZXZoc2VHNEQxenVRX252R3NBNUtpdmhBa0dwTDRmdzBUcDgzQ3ZqY2NlUkhyRHV0UkFaTFd1Zm1UWXc?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-03",
+          "headline": "Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now? - Yahoo Finance",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.14285714285714285,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHdlOElIQWdLcEhaYmtSbTZlVlpBV0ZGMkFoN0h0ZUZSUUhRU2k4UHpXSElFdW9rd2RtUW50LWtfc2ZjMHRxWGxTLUd0eEc5Wnc1b0w4RzZxZllRVWVvZ1B3NWJlSm9YUEw3STFFNXR5Qkw4N0FEREdtdEFERGdROHBDd3lJRnFPanhTYWh1TWJxcnhLLVhSa3J3?oc=5\" target=\"_blank\">Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHdlOElIQWdLcEhaYmtSbTZlVlpBV0ZGMkFoN0h0ZUZSUUhRU2k4UHpXSElFdW9rd2RtUW50LWtfc2ZjMHRxWGxTLUd0eEc5Wnc1b0w4RzZxZllRVWVvZ1B3NWJlSm9YUEw3STFFNXR5Qkw4N0FEREdtdEFERGdROHBDd3lJRnFPanhTYWh1TWJxcnhLLVhSa3J3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-03",
+          "headline": "A Look At Affiliated Managers Group (AMG) Valuation After Recent Share Price Momentum - Sahm",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Sahm",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjlWTko5Z3FtQVRPbVU1OFFZbjd5bDVQX1IzMzZSUWxXRVpacks0RWlIYmg0RjJiOXBzbmFZOHN2bmZ3X3E1cGRjVmcwX3ZqYnYwdERVUXVQcTdIdE1sQUZzTVlkRjRIdGY4cHJsTTNYSDZ0cDhoaERzODlycFNuYk91ZjJjQUs5ZjdFMVRKU0Y2VGZseE85SmhJNEtETTBRaWowd3hGamtsakZoSWhscld1ZHg3QXFHUEZHelJvNV9wR0JfUVh2UFBzTGZLMlNx?oc=5\" target=\"_blank\">A Look At Affiliated Managers Group (AMG) Valuation After Recent Share Price Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjlWTko5Z3FtQVRPbVU1OFFZbjd5bDVQX1IzMzZSUWxXRVpacks0RWlIYmg0RjJiOXBzbmFZOHN2bmZ3X3E1cGRjVmcwX3ZqYnYwdERVUXVQcTdIdE1sQUZzTVlkRjRIdGY4cHJsTTNYSDZ0cDhoaERzODlycFNuYk91ZjJjQUs5ZjdFMVRKU0Y2VGZseE85SmhJNEtETTBRaWowd3hGamtsakZoSWhscld1ZHg3QXFHUEZHelJvNV9wR0JfUVh2UFBzTGZLMlNx?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-03",
+          "headline": "What\u2019s Fueling Fresh Interest in Affiliated Managers Group? - Kalkine Media",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Kalkine Media",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1J0T2dBX3ZfM0tYR2FLSkRGak9wcDhtMzhJMDR6amk3SG5YQ01DcllBdDJSU3NnYmZoc0c4YkZ1S0F2QUgwTm96SUF6VDNKd1lPaG50R1pJcElzMldpV2FIRnJId2Y1V19RZ3hKYkhqa2ZEbDlBN3RvNEFnZWRRUl9OVVRPTFM4VWNrMFFYdzMtampYX0k3Z1JzYXBVQ0RJQ25UOQ?oc=5\" target=\"_blank\">What\u2019s Fueling Fresh Interest in Affiliated Managers Group?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1J0T2dBX3ZfM0tYR2FLSkRGak9wcDhtMzhJMDR6amk3SG5YQ01DcllBdDJSU3NnYmZoc0c4YkZ1S0F2QUgwTm96SUF6VDNKd1lPaG50R1pJcElzMldpV2FIRnJId2Y1V19RZ3hKYkhqa2ZEbDlBN3RvNEFnZWRRUl9OVVRPTFM4VWNrMFFYdzMtampYX0k3Z1JzYXBVQ0RJQ25UOQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-03",
+          "headline": "A Look At Affiliated Managers Group (AMG) Valuation After Recent Share Price Momentum - simplywall.st",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2NWWV9TVllyU21OWS1xNy1DVno1RDJITTNrdjRfNEkyT1lMNk1YOGYyYU1uc2tLX2xGdkZpT2RsRjFCOTREMktQamtSMlJVRW9hMW12YkxsUHRPOUVuTXU1bE9NaFJncVVIQ0JxbE9hYUYtdllzZUprNUd4bW9iaUp6MDNQMDlhSThrR1FadG0tRWpxeGIzTk0xc0JqdjluS2FCbU5NVFlvTEVkTTcxdUJzR1JlV3ktMmdJd0dlNmdDSWN3djR2M3F3ek4xV0tUelhLc0I1bTZsbVFJeDVMZU1TMzJETXRtOVdlbTBR0gHzAUFVX3lxTE9oWDhQRVJwVU11QWp3bW9EbzhmTlJ0akswYWhRekQ0bEd3NWdVZjZIOXluNzExNDk4NkJuR1hMNFFBc1JvLWwxZlI4Uy1yTkdaTEs0enhFdnk3bXNkS1JEaFcyTTZHZXJia1YxWGtPekRhZ3dGR3JRbnZtLVE0UXZ1V0ZhRjFVX0JIMEJrZGVGQ3dIYy1TbHFfZkFnb1l0S0ZnbWdNc2hWSHlTZ0k0Ql9GNGVsR05UanlkY2llU2diUmdUZEZSZWxManF0N3VmXy1kRzhCRUV0clh6VWw5eVV6dHlNeGdmV1AzOGVlLXM2NjllOA?oc=5\" target=\"_blank\">A Look At Affiliated Managers Group (AMG) Valuation After Recent Share Price Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM2NWWV9TVllyU21OWS1xNy1DVno1RDJITTNrdjRfNEkyT1lMNk1YOGYyYU1uc2tLX2xGdkZpT2RsRjFCOTREMktQamtSMlJVRW9hMW12YkxsUHRPOUVuTXU1bE9NaFJncVVIQ0JxbE9hYUYtdllzZUprNUd4bW9iaUp6MDNQMDlhSThrR1FadG0tRWpxeGIzTk0xc0JqdjluS2FCbU5NVFlvTEVkTTcxdUJzR1JlV3ktMmdJd0dlNmdDSWN3djR2M3F3ek4xV0tUelhLc0I1bTZsbVFJeDVMZU1TMzJETXRtOVdlbTBR0gHzAUFVX3lxTE9oWDhQRVJwVU11QWp3bW9EbzhmTlJ0akswYWhRekQ0bEd3NWdVZjZIOXluNzExNDk4NkJuR1hMNFFBc1JvLWwxZlI4Uy1yTkdaTEs0enhFdnk3bXNkS1JEaFcyTTZHZXJia1YxWGtPekRhZ3dGR3JRbnZtLVE0UXZ1V0ZhRjFVX0JIMEJrZGVGQ3dIYy1TbHFfZkFnb1l0S0ZnbWdNc2hWSHlTZ0k0Ql9GNGVsR05UanlkY2llU2diUmdUZEZSZWxManF0N3VmXy1kRzhCRUV0clh6VWw5eVV6dHlNeGdmV1AzOGVlLXM2NjllOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Affiliated Managers Group, Inc. (MGR) Live Share Price, Invest From India - INDmoney",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "INDmoney",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjlJS0VpUzBCRDBselBEakxKazQ5ZGhOR0N2WnE4ZVlNR0pWOGlHS3JESVBjcTZiUndLTVA5by1SUUxtdlF3eUpWRFdGTURtaTlhdGx0cW4ydFhiM213VUJEcWZpa01WMUkzeTBzbmxvQmoyLXpIRzRtblJQMkVEWmJXdXBSNlBCR2g4bE9sbWh4clRqWEM0Q0lkS3lPeC0tSDZYQW9jX05KdDR6UWlibVNkWWhtbEpubmJOYQ?oc=5\" target=\"_blank\">Affiliated Managers Group, Inc. (MGR) Live Share Price, Invest From India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INDmoney</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjlJS0VpUzBCRDBselBEakxKazQ5ZGhOR0N2WnE4ZVlNR0pWOGlHS3JESVBjcTZiUndLTVA5by1SUUxtdlF3eUpWRFdGTURtaTlhdGx0cW4ydFhiM213VUJEcWZpa01WMUkzeTBzbmxvQmoyLXpIRzRtblJQMkVEWmJXdXBSNlBCR2g4bE9sbWh4clRqWEM0Q0lkS3lPeC0tSDZYQW9jX05KdDR6UWlibVNkWWhtbEpubmJOYQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Why Affiliated Managers Group (AMG) is a top growth stock for the long term - MSN",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0625,
+          "source": "MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNdW5UQXVfTEllamtLZVhmSjhKOVp1ODFmNGJpX0xJMnA2RWdVQVVEX3lnaG4xUTZvSU9ISmlwR3hXZXlUa3dvaFE2dHhmVFp6bVNGSjNNSV9uSmRrSlhma1hXQl9vRHo2YmpWWlN2cl9ORjA4MTBhTWRzRE9IU2J6WTdralNOVFVZOGtURjdKVkNVaGtxU1VzWVdKcl9DVXg3dGwwOEhHNnIxd0VfS1R3Umd3aEFqRnI5NG1KYTgzclhmVU9yeEE?oc=5\" target=\"_blank\">Why Affiliated Managers Group (AMG) is a top growth stock for the long term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdW5UQXVfTEllamtLZVhmSjhKOVp1ODFmNGJpX0xJMnA2RWdVQVVEX3lnaG4xUTZvSU9ISmlwR3hXZXlUa3dvaFE2dHhmVFp6bVNGSjNNSV9uSmRrSlhma1hXQl9vRHo2YmpWWlN2cl9ORjA4MTBhTWRzRE9IU2J6WTdralNOVFVZOGtURjdKVkNVaGtxU1VzWVdKcl9DVXg3dGwwOEhHNnIxd0VfS1R3Umd3aEFqRnI5NG1KYTgzclhmVU9yeEE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-02",
+          "headline": "Why Affiliated Managers Group (AMG) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.0625,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUJDQXV3RDdZVEZtYmh5ZU5qeTlRVmlXZ1VJLWNIcjV6SXQzZElKVXV6aEVqRzhFMGc2YUZ6d0REbU1MdnVFN2c0ZHRRRkVtd3RsRmNfRmlzNU94dWRhSlFMUlZIeVFUdUNraFpfTjZjMzMtLTVWV0lOUzZ2TzhXR2dQeThBQVg0ZXF3SVY5S3B2WERqQWEyd1BBVEJOUTA?oc=5\" target=\"_blank\">Why Affiliated Managers Group (AMG) is a Top Growth Stock for the Long-Term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUJDQXV3RDdZVEZtYmh5ZU5qeTlRVmlXZ1VJLWNIcjV6SXQzZElKVXV6aEVqRzhFMGc2YUZ6d0REbU1MdnVFN2c0ZHRRRkVtd3RsRmNfRmlzNU94dWRhSlFMUlZIeVFUdUNraFpfTjZjMzMtLTVWV0lOUzZ2TzhXR2dQeThBQVg0ZXF3SVY5S3B2WERqQWEyd1BBVEJOUTA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-28",
+          "headline": "Affiliated Managers Group (AMG) holders back directors, say-on-pay and PwC - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEVzaFJ0R2xKRUYwazE3R21HZFNOYUdUQThvLXVwQm1wUUdTMlphU1QtUS1CeWpNSFhPU1dBNnBEOVZjLV9WaHU5dGJuVmx4Ung4dG9xUnhqNXJkOFVraDB4aEZoNFNjMnN2RElHdWZoYU8wUkRNYjdiYzRVLXpwVDVSY0hHVmdVbU11MTVEa1JBUjQ5LWI2RWNLYUZTQThfdkpCbTVrNDNLbXNGdWVFSzc0NTBrbUxx?oc=5\" target=\"_blank\">Affiliated Managers Group (AMG) holders back directors, say-on-pay and PwC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEVzaFJ0R2xKRUYwazE3R21HZFNOYUdUQThvLXVwQm1wUUdTMlphU1QtUS1CeWpNSFhPU1dBNnBEOVZjLV9WaHU5dGJuVmx4Ung4dG9xUnhqNXJkOFVraDB4aEZoNFNjMnN2RElHdWZoYU8wUkRNYjdiYzRVLXpwVDVSY0hHVmdVbU11MTVEa1JBUjQ5LWI2RWNLYUZTQThfdkpCbTVrNDNLbXNGdWVFSzc0NTBrbUxx?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 5
+    },
+    "sentiment": {
+      "days_sampled": 7,
+      "delta": 0.00457875457875458,
+      "prior_mean": 0.013888888888888888,
+      "recent_mean": 0.018467643467643468
+    },
+    "technical": {
+      "atr14": 10.4958077464313,
+      "close": 336.81,
+      "close_vs_ema200_pct": 23.13108176195903,
+      "close_vs_ema20_pct": 9.137453778173038,
+      "close_vs_ema50_pct": 12.092020680960456,
+      "close_vs_hh20_pct": 0.01484736904620839,
+      "ema20": 308.610828217215,
+      "ema200": 273.537757632254,
+      "ema50": 300.476338952474,
+      "entry_ready": false,
+      "hh20_prev": 336.76,
+      "selection_bucket": "candidate",
+      "vol_anom": 1.89043473823015
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 0,
+    "effective_adverse_effects": 0,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "banks",
+      "insurance"
+    ],
+    "industry": "Asset Management",
+    "sector": "Financial Services",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 5 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 0 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "supportive"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "low",
+      "point": "No clearly negative stock-specific or market-overlay headline was captured in the local cache, so recent weakness may have been driven more by market tape than by a fresh identifiable shock."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (336.76), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-04: Insider Buying: Annette Franqui Acquires Shares in Affiliated Ma - GuruFocus."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-03: Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now? - TradingView."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-03: Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now? - Yahoo Finance."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 336.76 would weaken or invalidate the current breakout picture."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.01
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 9.14
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 12.09
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 23.13
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 5
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 60
+  },
+  "sources": [
+    {
+      "published_at": "2026-06-06",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-06-06_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-06-05",
+      "publisher": "GuruFocus",
+      "title": "Is Affiliated Managers Group Inc (AMG) Overvalued After 7.5% Ral - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGhMY2xVUS1jUEt5OHlfeTRtNm0yREd1cHhEd3UxQXdzeUl3czNUNnFwU0lIMU1xcEZFWnM3YTNMRXhINmV2UWhZQ2lERnJKZkZ2cEl5U0hLajlaUGx4YnVoYVZVZDF0UTdvR2FIV0Zxalk5amZSUFUxd3FISmY1YVM4R3UyYXNjMkFWWUNxNGZGMGNIV1dWZE5hV1pNZGxCOGJOdFY2Z0F1eWdLNXBsMFNvSGQteERxZ2hMWDE2dFlveFpaNVZtbG9MdFE5WUJrQ0k4Sg?oc=5"
+    },
+    {
+      "published_at": "2026-06-05",
+      "publisher": "TradingView",
+      "title": "Return on invested capital % of Affiliated Managers Group, Inc. \u2013 SWB:AFS - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW4wT0szWE5jakI0VjZjNEpWWnRzbWtsdWtHVEJFWGtQQk1OR1hxc09FREZXbW5WTjFhcGV1OHVQUXRBTjYza0FVQUwxVkJtYk1QNmdpa0pGa3lsM3R3SDFwVmVIVE91U0ZLQm94bWF6RUtkUmhKY1BFUDF1YmpYYk1WcDZTbzRQeGVZcHlpNU5CNkRkclVIekdlRHJzT0htZEdOVm93SQ?oc=5"
+    },
+    {
+      "published_at": "2026-06-04",
+      "publisher": "TradingView",
+      "title": "Return on assets % of Affiliated Managers Group, Inc. \u2013 SWB:AFS - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnh4SU9SaVh4TnJmdHkydXlUc0FiaURPbERJUl82V1BIUUN4VjR0VmRYU0NhZWJ5N0d3Smxla3RaQmFuc2FxU19udGFpc1lKN2Z5YTAwdnpFNjlzT2stY0Y0bFo2YU1DcGp5ckZqWW9lbUJaVGpyY293aEZiVi12SlVvMUtuNnhuYW92Y2lvLVV0ZnM0eENRbTF3?oc=5"
+    },
+    {
+      "published_at": "2026-06-04",
+      "publisher": "AlphaStreet",
+      "title": "Affiliated Managers Group Jumps 7.2% Amid Sector-Wide Rally - AlphaStreet",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVNieVVfZHZSQ2Frb2JVcXlzQmhiMjdaa0VOUGpHakdhS3FHemtBTlVOR3dRWXBkZWFSUzZSUS1ZYk1YeFVHOGVUbUxuZHlrS3FseXpONlhPeks1alJVNEFhNDNsVXEwdGg2NTBrb1ZRNWlaRlRqeUs4WFlyZmZVZ2NkbmZBZ19RZlJoYnlZenpBZ9IBkgFBVV95cUxPbVNieVVfZHZSQ2Frb2JVcXlzQmhiMjdaa0VOUGpHakdhS3FHemtBTlVOR3dRWXBkZWFSUzZSUS1ZYk1YeFVHOGVUbUxuZHlrS3FseXpONlhPeks1alJVNEFhNDNsVXEwdGg2NTBrb1ZRNWlaRlRqeUs4WFlyZmZVZ2NkbmZBZ19RZlJoYnlZenpBZw?oc=5"
+    },
+    {
+      "published_at": "2026-06-04",
+      "publisher": "GuruFocus",
+      "title": "Insider Buying: Annette Franqui Acquires Shares in Affiliated Ma - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFM5dmE5dnFSdWxGUS1MbXVLX1hfZkJUQkRWVlhsUEdRTEgtdzFiTHA0SWJqa1pMUExqNUpKM0h2a1Z4N2NYZTNIQ1ZnbGFwX0xDRTFxNXRZdC1XeFJtdy1VM1M0OFIyUnd6d0ljWmtnNlJoaldHVnBxekVmeDl5V0tzMTI5Q04zS1hwNmt0QWFSdThrbG5zOFk5eWE5aEVaTWdVTkhBVm9zb29LWFlvcllObnFNbmo5YTI0TmVaTGJQSTZwVDZTb0dlZGdJYUE?oc=5"
+    },
+    {
+      "published_at": "2026-06-03",
+      "publisher": "Stock Titan",
+      "title": "Director Annette Franqui adds AMG (NYSE: AMG) stake with 750-share buy - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk5rN2hWLXZRMjFnY2hTbGpUMXM1RFVRUVJkLWpXbWI2SEJEcHN4bTUyNnJjQ1pENHNLOElpWnJvaXlQTnctamhMS0xTRU9obDlQZkNWbU1sQlcyWDRQQmxJRzI5RnNYbWdjbDlUMll0LS1Eang1WFRhb1ItdFpqcDRNNDJuQ2dKSFdRSkZnZjd6WFBiUFl1NTk0M0UtbDk1RXNMaktDTms0Vno5LWVvQ2RvSGtFVXdablQ1SFpoOA?oc=5"
+    },
+    {
+      "published_at": "2026-06-03",
+      "publisher": "TradingView",
+      "title": "Affiliated Managers Gains 7.7% YTD: Should You Buy the Stock Now? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTRFenFoTmFOYXBvWjVRTFBFRnF2bFg5S0tOQjgyNXd6T1NybWFGMlQzdl83dVpldkx5ZXNYT2ZaOTJzLTlJWU5UcF9oRVFEUnFKRk5Gd0tkTU9HbE9yWi1qUUJpLTRqblJRZ2xNLVpUNVpZM0ZvNUJCUFBHV3RmZXZoc2VHNEQxenVRX252R3NBNUtpdmhBa0dwTDRmdzBUcDgzQ3ZqY2NlUkhyRHV0UkFaTFd1Zm1UWXc?oc=5"
+    }
+  ],
+  "summary": "AMG scores 60/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 5 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 0 adverse effects.",
+  "symbol": "AMG"
+}
