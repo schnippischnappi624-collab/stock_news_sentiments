@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-06-06",
-    "filename": "2026-06-06_universe_3_US_Results_CANDIDATES.txt",
+    "feed_date": "2026-06-07",
+    "filename": "2026-06-07_universe_3_US_Results_CANDIDATES.txt",
     "kind": "Results_CANDIDATES",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-06-06_universe_3_US_Results_CANDIDATES.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-06-07_universe_3_US_Results_CANDIDATES.txt"
   },
-  "run_date": "2026-06-06",
+  "run_date": "2026-06-07",
   "table_count": 1,
   "tables": [
     {
@@ -79,11 +79,11 @@
           "state_since": 20260605,
           "symbol": "ARGX",
           "turnover_20d": 263308406.48,
-          "turnover_day": 708123435.12,
-          "updated_ts_utc": "2026-06-06T06:31:36Z",
+          "turnover_day": 709223324.0,
+          "updated_ts_utc": "2026-06-07T06:31:39Z",
           "vol_adj_liq": 9052776077.29054,
           "vol_anom": 2.68933090510267,
-          "volume": 794466.0
+          "volume": 795700.0
         },
         {
           "actual_invest_eur": null,
@@ -115,11 +115,11 @@
           "state_since": 20260605,
           "symbol": "GIII",
           "turnover_20d": 17372305.2325,
-          "turnover_day": 57889576.22,
-          "updated_ts_utc": "2026-06-06T06:31:36Z",
+          "turnover_day": 58412688.0,
+          "updated_ts_utc": "2026-06-07T06:31:39Z",
           "vol_adj_liq": 487910320.582436,
           "vol_anom": 3.33229099104824,
-          "volume": 1717282.0
+          "volume": 1732800.0
         },
         {
           "actual_invest_eur": null,
@@ -151,11 +151,11 @@
           "state_since": 20260604,
           "symbol": "AMG",
           "turnover_20d": 97673283.312,
-          "turnover_day": 184644967.77,
-          "updated_ts_utc": "2026-06-06T06:31:36Z",
+          "turnover_day": 205824591.0,
+          "updated_ts_utc": "2026-06-07T06:31:39Z",
           "vol_adj_liq": 3134331282.26841,
           "vol_anom": 1.89043473823015,
-          "volume": 548217.0
+          "volume": 611100.0
         },
         {
           "actual_invest_eur": null,
@@ -187,11 +187,11 @@
           "state_since": 20260605,
           "symbol": "PSMT",
           "turnover_20d": 38020839.0525,
-          "turnover_day": 70841627.82,
-          "updated_ts_utc": "2026-06-06T06:31:36Z",
+          "turnover_day": 75155040.0,
+          "updated_ts_utc": "2026-06-07T06:31:39Z",
           "vol_adj_liq": 1382625728.03731,
           "vol_anom": 1.86323157472091,
-          "volume": 407206.0
+          "volume": 432000.0
         },
         {
           "actual_invest_eur": null,
@@ -223,11 +223,11 @@
           "state_since": 20260604,
           "symbol": "HBNC",
           "turnover_20d": 5938246.875,
-          "turnover_day": 10572543.75,
-          "updated_ts_utc": "2026-06-06T06:31:36Z",
+          "turnover_day": 11040000.0,
+          "updated_ts_utc": "2026-06-07T06:31:39Z",
           "vol_adj_liq": 251152940.798717,
           "vol_anom": 1.7804149899039,
-          "volume": 563869.0
+          "volume": 588800.0
         }
       ],
       "table_key": "universe_3_us_candidates_top_20",
