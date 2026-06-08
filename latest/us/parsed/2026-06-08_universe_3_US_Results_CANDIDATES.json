@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-06-07",
-    "filename": "2026-06-07_universe_3_US_Results_CANDIDATES.txt",
+    "feed_date": "2026-06-08",
+    "filename": "2026-06-08_universe_3_US_Results_CANDIDATES.txt",
     "kind": "Results_CANDIDATES",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-06-07_universe_3_US_Results_CANDIDATES.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-06-08_universe_3_US_Results_CANDIDATES.txt"
   },
-  "run_date": "2026-06-07",
+  "run_date": "2026-06-08",
   "table_count": 1,
   "tables": [
     {
@@ -80,7 +80,7 @@
           "symbol": "ARGX",
           "turnover_20d": 263308406.48,
           "turnover_day": 709223324.0,
-          "updated_ts_utc": "2026-06-07T06:31:39Z",
+          "updated_ts_utc": "2026-06-08T06:31:39Z",
           "vol_adj_liq": 9052776077.29054,
           "vol_anom": 2.68933090510267,
           "volume": 795700.0
@@ -116,7 +116,7 @@
           "symbol": "GIII",
           "turnover_20d": 17372305.2325,
           "turnover_day": 58412688.0,
-          "updated_ts_utc": "2026-06-07T06:31:39Z",
+          "updated_ts_utc": "2026-06-08T06:31:39Z",
           "vol_adj_liq": 487910320.582436,
           "vol_anom": 3.33229099104824,
           "volume": 1732800.0
@@ -152,7 +152,7 @@
           "symbol": "AMG",
           "turnover_20d": 97673283.312,
           "turnover_day": 205824591.0,
-          "updated_ts_utc": "2026-06-07T06:31:39Z",
+          "updated_ts_utc": "2026-06-08T06:31:39Z",
           "vol_adj_liq": 3134331282.26841,
           "vol_anom": 1.89043473823015,
           "volume": 611100.0
@@ -188,7 +188,7 @@
           "symbol": "PSMT",
           "turnover_20d": 38020839.0525,
           "turnover_day": 75155040.0,
-          "updated_ts_utc": "2026-06-07T06:31:39Z",
+          "updated_ts_utc": "2026-06-08T06:31:39Z",
           "vol_adj_liq": 1382625728.03731,
           "vol_anom": 1.86323157472091,
           "volume": 432000.0
@@ -224,7 +224,7 @@
           "symbol": "HBNC",
           "turnover_20d": 5938246.875,
           "turnover_day": 11040000.0,
-          "updated_ts_utc": "2026-06-07T06:31:39Z",
+          "updated_ts_utc": "2026-06-08T06:31:39Z",
           "vol_adj_liq": 251152940.798717,
           "vol_anom": 1.7804149899039,
           "volume": 588800.0

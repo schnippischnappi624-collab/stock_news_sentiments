@@ -1,0 +1,6 @@
+display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
+1,ARGX,argenx NV ADR,candidate,False,1,setup,CANDIDATE,6.99,2.68933090510267,2.68933090510267,891.32,795700.0,850.0375,25.924870654041,,,,,,,
+2,GIII,G-III Apparel Group Ltd,candidate,False,2,setup,CANDIDATE,5.13,3.33229099104824,3.33229099104824,33.71,1732800.0,33.16,1.20026239389341,,,,,,,
+3,AMG,Affiliated Managers Group Inc,candidate,False,3,setup,CANDIDATE,4.99,1.89043473823015,1.89043473823015,336.81,611100.0,336.76,10.4958077464313,,,,,,,
+4,PSMT,PriceSmart Inc,candidate,False,4,setup,CANDIDATE,4.16,1.86323157472091,1.86323157472091,173.97,432000.0,174.9301,4.78400281134138,,,,,,,
+5,HBNC,Horizon Bancorp,candidate,False,5,setup,CANDIDATE,2.88,1.7804149899039,1.7804149899039,18.75,588800.0,18.84,0.443324010271032,,,,,,,
