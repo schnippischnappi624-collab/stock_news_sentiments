@@ -1,0 +1,841 @@
+{
+  "analysis_date": "2026-06-09",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 60,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-05: A Look At Expeditors International (EXPD) Valuation After Its Q1 2026 Earnings Beat And Share Buybacks - simplywall.st."
+    }
+  ],
+  "company_name": "Expeditors International of Washington, Inc.",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 12
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 7,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Jennifer Aniston\u2019s boyfriend Jim Curtis takes $1.5 million New York City home off the market",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Actress Jennifer Aniston\u2019s boyfriend Jim Curtis has delisted his longtime New York City home after four months\u2014and a few weeks after the couple marked their one-year anniversary.",
+          "url": "https://www.marketwatch.com/story/jennifer-anistons-boyfriend-jim-curtis-takes-1-5-million-new-york-city-home-off-the-market-74dcd9bf?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Nikol Pashinyan Wins Re-election in Armenia - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjhlZHJqRGVzd3V4NFFYTUgtX01rUG5JaFdyTFh1dllYaTY5My11Wi04Szdhd2N6N1RFQS1DNE1xLXVndVBQQjVFS1hXdHJUY1pHdVQ4Y1FiZldqS19lR2dyekl2djVWVS1ycHhiellQeG9ha0liSlJPZTFwQVJhZ19KNA?oc=5\" target=\"_blank\">Nikol Pashinyan Wins Re-election in Armenia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1d0k4d2NaNjEwMDhuSVBQalo0a3IxNzRpQ2tiQnVNZzJEQzZoVXZKa1NSMmxhRnNiRGhfaXA0X2lyWDlNajhfdGplTFVUdmF6X190dDlETXNjUQ?oc=5\" target=\"_blank\">Armenia's pro-West government wins election despite Russian pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUphTzhsOS03SjJrdlBHUlJDbk1YLTZwNm91b2lSTW45QjUwLTItOHl3UDQ5TWR3bTBDZU9nS2ozMU9LUk14bTV6UmxmRnhxYXVsWTd3azNpTWp1aVhWelg1Qk1LdjJfX19YVTNfR1l3Y1ZqSldfSkRBNklIdUV0VHRvbDROOHVQNkVLTUF3?oc=5\" target=\"_blank\">Poised to accelerate a pivot away from Russia, Armenian prime minister claims election win</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmF2SjFaTjZvM2dqVng3U2d1VTNqR3liNmsxbkYxTFd2amp5TnpwM0EzcHBOeDhKZjlualhQRUhTWUVBR0JxMjlrUGRlc2stVTVJZk5ZMjBNdHZvMFprOFRYbnJqbFhIM01FaEtqZl9wUDdDeGtHcnlPUWMxbUFPel9fMm4zdjM0V2I3dURsMmprcUN6cGpMcA?oc=5\" target=\"_blank\">Armenia\u2019s election is a setback for Vladimir Putin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPMFhGY0dHUEtVOS1CMUhOQWR2X2NCVWNScGp2M1c4cnQwZjhLUERUcVl3R050cTRjMFVZZF9KcWtiRk1NdFp5bzVqMlZMQ3RyRlJ0dTZHd1pVenZkbnRyS3Itb0EtZ25UMHNUc1FBcUd0UWFBQXk0TFhsS2RDLTJvcDRGcndGbzJWeXE1ZTAtZEt1S2k1MHh0Z0NnWHBYS1VibG5ZdmJya2Y2cnBIalFuY0M0SVFnSm4xR3p2ZkJMWURuT1ZKODUxVEVnMG9hYmNIT2RiWXN2SERvNnptb1Bpc21NdFRpWC1HcHMyUE5fblUwblRhbzNOMndrd3YzUGNBYkxZeg?oc=5\" target=\"_blank\">Armenia: Statement by the High Representative on behalf of the EU on the outcome of parliamentary elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">consilium.europa.eu</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjhlZHJqRGVzd3V4NFFYTUgtX01rUG5JaFdyTFh1dllYaTY5My11Wi04Szdhd2N6N1RFQS1DNE1xLXVndVBQQjVFS1hXdHJUY1pHdVQ4Y1FiZldqS19lR2dyekl2djVWVS1ycHhiellQeG9ha0liSlJPZTFwQVJhZ19KNA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "\u2018Entourage\u2019 star Jeremy Piven sells modern private retreat in L.A. for a reduced $6.9 million",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Piven faced more than a few hurdles on his path to finding a buyer, with the 6,200-square-foot home bouncing on and off the market over the year, each time with a reduced asking price.",
+          "url": "https://www.marketwatch.com/story/entourage-star-jeremy-piven-sells-modern-private-retreat-in-l-a-for-a-reduced-6-9-million-b433293d?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough"
+          ],
+          "date": "2026-06-09",
+          "headline": "Why a U.K. pharma giant is paying a 40% premium to pivot back to oncology",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "capital_allocation"
+          ],
+          "provider": "rss",
+          "sentiment": 0.02,
+          "source": "marketwatch_topstories",
+          "summary": "U.K. pharmaceutical giant GSK on Tuesday struck a $10.6 billion deal to buy U.S.-listed biotech company Nuvalent, its biggest acquisition in eight years as it seeks to bolster the cancer portfolio it had previously trimmed.",
+          "url": "https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "China\u2019s Strength in Semiconductors, Rare Earths Drives Export Surge - WSJ",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "rss",
+          "sentiment": 0.05263157894736842,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkdBeWVYQ0R6Sy1ybTFNZmR6bjhmbWZZVlBGNVR3bGpZV3RyVHcxaXhkQ3ZHWmF3enhFOFAtaW5UcE40Q2NJZXJRM0pteVBENy0yQU1mR0t3TXgySGg5U1lyT1ZVazNUdnNMVU1SOHV1LXFBbzFaTndfN2FKSzRDQS1CV1pzcU1qcGtGWVYxNUpPMVJNd3V5X0Z3?oc=5\" target=\"_blank\">China\u2019s Strength in Semiconductors, Rare Earths Drives Export Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWN2V1hrLWdGdndPTl94QjdBT3JCam0zbGVyRjVhQkxqZ2xoR2lhX1JjbUtJT1d5WU50bDZKREpiWVZRWE1DUEUxUjV1YlBCU1B4Nk5xelh1YWJoWkxjclpnR2J2RUlOMVh5NXNoUWlrMDFDQ29aYkE0QnVTdEdjUnlkWGZySDNzNndGRzlpRUdMNUFPelVOdUhheXpWX0ZpdXBpbmprbzIxb25LcDMzdV9BV2w?oc=5\" target=\"_blank\">China\u2019s Exports Surge Tops Forecasts as AI Propels Booming Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5KX2VUbS1UaWJkMmM0M2xMLUt2OGNmZTFKRVl2R2ttLVI4cm5kaGJlR0ZKTjZxWWJqX0VlMDRaTlZYYWRUd05rQzM0Sm9GMnZJb1VvSVRIbk9ySGFRS0c5M0NzUnFWSXZZU1RKU01kYllfMkVobmQ3X1pnOUtxQdIBgwFBVV95cUxNY2pmR0Zma20ycmxjb0ZGZkRDeWNBbVl2S2N2TWItOUdKMGc3M1BFa1c3OV9feXplYUo5LTVJWEdsaGJzYUwwX0VaRHYwMDhURnlSYmtHbnRaeUdtVk4ySlpxM25vM0R0Uy1wWWdTdG5LT2FUcmdrU0J1NmhsQ2RQdDBGbw?oc=5\" target=\"_blank\">China's May shipments to U.S. clock 5-year high growth at 35% as overall exports jump on tech boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2o3a2p0QWozaW1DOTdQX2ZhTmp6UTdSaktSZEVnckVDUmhXVnA2R1RwMHRqV2tZc2ZBc3lNUFRQM2dxeUU2bEZuOGxlSnRmYXlNUnM5ckJoYVZzQ0poOXZYT1dCRVlfSmlnRnZXYVdvLVlkY2VUX3RZS0FMM0s0eWhaeHNtMmUzdGtBUzZvUWxCWGJPbDBnSEVHVThYVGdSTE9PZjREX2RhRGVfTzRtbjNUNGJpVGxkcFAw?oc=5\" target=\"_blank\">China rides AI wave as exports surge past forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHpHMGh2cmRmdFlheS1pS09hRmtrTlJ4Q0lIYnE5SWtGVHVUU1VadDNTWThiTkRIWWs2YUNRdkZjZWJkRUQ3eE9hX2JYX2VOUEM0dHcxN19rekZOQVM0eUotUFhwT3c1VHN5SUF0TS0xc2lPTHRNYzVzM0tGTjlQZHN3U3U?oc=5\" target=\"_blank\">Chinese exports climb as AI boom fuels trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkdBeWVYQ0R6Sy1ybTFNZmR6bjhmbWZZVlBGNVR3bGpZV3RyVHcxaXhkQ3ZHWmF3enhFOFAtaW5UcE40Q2NJZXJRM0pteVBENy0yQU1mR0t3TXgySGg5U1lyT1ZVazNUdnNMVU1SOHV1LXFBbzFaTndfN2FKSzRDQS1CV1pzcU1qcGtGWVYxNUpPMVJNd3V5X0Z3?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "U.S. stock futures rise as chip rebound lifts S&P 500; South Korea's Kospi jumps 8%: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5\" target=\"_blank\">U.S. stock futures rise as chip rebound lifts S&P 500; South Korea's Kospi jumps 8%: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUh2bUxIVTg3TElkRkZhbG95MmE3c05CVGhwaFo1Q2FwWEc1S05SNHRaWkpSanlNT3lNUjZSRkNDMlFJYWxNenp2bkRFZjVyUjdDdERWZUhQVXRtMkUwdWVEV2JLLTNHU0MwVmFqdUxCSkdmUEdEMjdBUV9JdnoxVkloaEk4aGNVVWotN3Y0NjI?oc=5\" target=\"_blank\">U.S. Futures Rise as Tech Recovery Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1ZSc1FxQ1VHekF0c0JIWHhrOVlPS1FFZmUtU3UybFJJOW8wcnhuRDhNQzR6MkNyclp0QnlHai1fa3BzaGNkZmlfN0ZGV25hRmF5OVF6UE1tTTI0VWwtQ0tCRkFyN215R0ZSMm9wek9DakJwYzlORnd1cjVGNTJsa19aclc1UWhkVFZzdWMxMnJNMnV5bVF1ZGNKZUdtUHZBU2Q2U0JiUGtxeUd5Y1NlWDdOZ1NUQVY5d0xKZzZFZlFyeGlBMzc1SExTUQ?oc=5\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq futures rise as AI trade takes center stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSmdxMkI0aHRhN0JTMnc0aDJKXzlLWHVNcUdlMmVKS0ZlLVpXY3pCSzF0NFN1T0ZWUVcyeUxvbDFUU2FvY3lPbnFoM2xpRWEzS3V5dUxlTGtXQkpwVGhRTzY4c2IwZE5YMENRMTlzTURFNVRNdVVGanFtbmhWalhabkkwRQ?oc=5\" target=\"_blank\">Chip Stocks Are Bouncing Back. Believe in Them.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObXNMajhXamM0WHNTNUkwWFVxcTJ1SVFZekdQdjBoc1NxQll0Q3ZpQ0lpQ25NaWVBT0Ryb0NoM2R0OUhCcmNncnJWV0xZZFptc3BVYlVDekFpR3ZvMlRaVmhLQ2lqay1QSlpSRkJKSU1IVUh3dVdJaGpXNkVmQUJmS1NJaG1jSXo4N3ZkM3dob3BJSUhV?oc=5\" target=\"_blank\">Asian Stocks Set to Rebound on Iran, AI Optimism: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5\" target=\"_blank\">OpenAI plans stock market debut, setting up new race with Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xNjhtZmVkWXBqUUUyYmt0N1ZpbWs0LS1RM1U3YkJHVEFwX0xsbUs4S01fc185OVpKeXN5LTAwWnVfclVCTllqMWswS19xVWFmN2hyS3RiWV9SU3YtZFZ4ajZXTWdadGc?oc=5\" target=\"_blank\">OpenAI files for IPO, the latest in a stream of possible AI mega-sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0dsWEpwQU5xbmRNTFFrM3NpNERaVVo1S2JhWjE5bTVsSDFTN1lRM1o1eDN6OEdXam9wYjM3Yk5wTkV0c0VKRkhjOG9rZFZYYzMzR2h1S2JlcElPYVBmYUZaaS1fdWt1UXVOWE1PNklpUURKUW50cTZyMUpBNWdMODV6SmZYdlVpMi1mQ0Q1bWtORUItcHFZTFJCQnItamNuemlWWm5KVWJfajR5bWVzLQ?oc=5\" target=\"_blank\">SpaceX, Anthropic, OpenAI Can Rewrite History for Megacap IPOs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkZvTl80MlVBSGxQNFRlTkE0LWpORm9ETThTVWdHdFFzZk9aOVVTSk52NHVtUkxMeERyWW1SRzlIOG8zRnNkUjFYUEFFNHltaHVvelNXeEYwV1dFZ3o1M0JQVFItZUJkdEVIR0k1NTRQWlBZV2ExcklCSjM4X0QwclRjQktIMUppeWZNWmE3NV9SUQ?oc=5\" target=\"_blank\">Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVpjSXh3ZkwzSE9wVmdZTjFNNGJyR3VLclFfdzRBcWpSNmVPaHRfaUtZQ0w1YUxrWFhLRVVMOVRLczNKc3FCQ2xMQzBpN1JxZmN6RzUySWNkZjVQWGxrWjh1dmVrd3huR0w0SUVWRW9OX1Awd3ZCNFdwZzlZM2VkZkVxcnFqdF81ZUxoN25FdGNaTWNz?oc=5\" target=\"_blank\">Sam Altman's eye-scanning startup is laying off employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Kim Jong-un\u2019s Triumph - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFNwblc4aTc1ODQ3c3hCQURzb2ZQRnFyV2g3eXAzazB1M0x5dlB0MTFSdDgzN3RveEd5VHNmeWFwOVlmSWRDSmVkRmEwMEpGNzlkQ0MySGlyeThrX0RzZkowam5Hc3ZyT2N4N3djQmJDOU9DTWlyUDhIa0RMOUxKOA?oc=5\" target=\"_blank\">Kim Jong-un\u2019s Triumph</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBEVnJvWG9sa2syTGVsZW4zaXE4THdkOTJxYUdPZ2c2cEhTM3FBcm9aZUFKX2RCMW5SNW1YbXBfNDliTlAxLTNUVkxRbFVQcnJFdGZUTDByemE2R2diMmprRzU4Y3o1U3Exd2JQQnhBMjE3eUlRMlE?oc=5\" target=\"_blank\">The World\u2019s Most Surprising Economic Success Story Is\u2026North Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFJ4NmJoNW9QbW9qQ240elN0cktydU9wR2JpWWRjd2JkZVhoT0QyZlRHQzB6dmRSWkJac0FDNVJ3TVpnSi1yYXI1dkwxV3l3b2NXYTYtSUYwSWZDQk0yNjY3TG50S1MxZ2RNbkVFaHFIZ0JSeGRNRGxUb3ZOU2NsRUlMcDREQjA4Z0otLVBuck5QYkhWb2c?oc=5\" target=\"_blank\">A \u2018Miraculous Transformation\u2019: How Kim Jong-un Fortified North Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPVUZEaWttblBUbzMwN050Rk1rcUdsODFNVVpSMXVpMGpZTGpOckN3RC0teXhUUEZOTHA3OWtNOVpZaTZvTG1HQ1lLTQ?oc=5\" target=\"_blank\">North Korea Cashing In on Russia\u2019s War \u2013 and Its Economy Shows It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1BsRFFBUlNLSW5SalFUSVJRT3d3RUFaQjZsSHVIak5jN3psZXZEMEtMZGt4Y1hjalRpTzE2ekpPV09HTGdEd29aYndvVGM2aFBWakZRNlliVVlKY01kREZJREgxeWdkcWhFUVBPaWVwNzlIaTdkQ3NRMnFWa2NWcjNuSFFJNVdJZTRZSjF4UjN6S0k4a2Z6bV9OQ2I?oc=5\" target=\"_blank\">Kim Jong Un is enjoying his new nuclear power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Statesman</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFNwblc4aTc1ODQ3c3hCQURzb2ZQRnFyV2g3eXAzazB1M0x5dlB0MTFSdDgzN3RveEd5VHNmeWFwOVlmSWRDSmVkRmEwMEpGNzlkQ0MySGlyeThrX0RzZkowam5Hc3ZyT2N4N3djQmJDOU9DTWlyUDhIa0RMOUxKOA?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "portfolio_followthrough",
+            "product_followthrough"
+          ],
+          "date": "2026-06-09",
+          "headline": "Paramount blasts Netflix, pushes back on Teamsters\u2019 warnings about Warner Bros. deal - Politico",
+          "kind": "mixed",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [
+            "capital_allocation",
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": -0.011764705882352941,
+          "source": "Politico",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPQW8wWkVDcFRISHZIVFFReGVSNklOQ1VoRWgwR1k5MmxIbUxuSU5EYTV1V0NiQW0za25sd0xzUjlVbkt1YV82N1VBWUtVNUJfZG5BRUlOdTZtMURhd3pMRzRDMVkweERzLU1mZy1Lbkt4MjZtemduWm9SV3VqYjBmSDR6NllEaTF5aVhMdWx2Y0hmRmhCZHRZRlpVQkppbURo?oc=5\" target=\"_blank\">Paramount blasts Netflix, pushes back on Teamsters\u2019 warnings about Warner Bros. deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcC1pRHRKWUl1RVFGaVZUMGx3Uy1yeEd4ZUllTXpxTEc1amVEZ29USy1uZlYyX3lvMnVNMFFLQ2pfQ3JlQzItLXRjbmdOMUsta0tESm5SSjdMUGhrM0VKNk9wQllpUWk4TFVodndQZmJtaGY4dC12NGlabWdqVDlnZF9iQWpKdi1qRTRZellyMkNhUjRaci1wOFhqUmRVX19OdUV4cW80WWl4RkphR3llNjVZbm8?oc=5\" target=\"_blank\">Exclusive: US states preparing lawsuit to block Paramount's acquisition of Warner Bros, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUQ3WFdQZ1kwSEZOajN1SlhlSG42MUF2VnhIRUhnVWQ2bHVrUzA0akotc3lOdDFUVU1qYktLbURjYXB3OWthRXdqdUQ5V2phcVVyd29IRUgxUmdBRFcwNkhtZjBITVhrQ01IREpDX1RpNE5WelZ1b0xBT3VrcTFfaWhmdWc5cGcybndfbktQV0RsOHpFUHBsM1VFYjBIN0N6cGtERUFiSUxDTUpmcEdoX0xZazlDQQ?oc=5\" target=\"_blank\">Paramount Offers Concessions to Head Off State Antitrust Lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXdUTE1uNDVCZTVvR1FCck1aV1ZjaWJOZVY0MktWcGJ5Y0RhdlMzZEZ6X3N0TTVOZldGeUpxRW1nRTVsRHdma0dTNDNCajI1a0ljX1QwblpORWtBcGVqemNXRWpWZk9BSUt4TDFiNUVwaFh5TDhxRVVWcy1TX1NLOWUzVnZ6X0c1bHMtaDZocmg1d01pOHV6MWI3R2xBem1TNWxlY0Zpbkd1bnJ6X0tRZUNmS3l6cTFiUlpKdG13STdxdXF3ZHYtbWpKbTVaRVpmYzZJXzZnTkJaUHZrWVVFZTdWVkFOeVdh?oc=5\" target=\"_blank\">Paramount's Delrahim slams 'fear-mongering' and partisan politics clouding Warner Bros. deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnFwY09ienFxcUlmdDd0dVA2M2dXWllZLXFydHhHVDFBYWZ0R0NKcURzck8yM2pjY1NjQjlkM1ZDUnVVOUFUdWVOQldDQjJtLWFQZks3MEZCWmdLVkJfd09KR0poY3ZYam9rRXlIOXByaEh1cFBBQmpTQTVXV1E1eFRXcThkUnc5dnR0RldJb2VIOG5qYXdhN19vaHI3bW9QcEhjRERxVmFKYXpib1B1azZOZXdGOWFnYnR4QVF4UQ?oc=5\" target=\"_blank\">Paramount Considering Selling Nickelodeon Or Cartoon Network To Get WBD Approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV News Check</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQW8wWkVDcFRISHZIVFFReGVSNklOQ1VoRWgwR1k5MmxIbUxuSU5EYTV1V0NiQW0za25sd0xzUjlVbkt1YV82N1VBWUtVNUJfZG5BRUlOdTZtMURhd3pMRzRDMVkweERzLU1mZy1Lbkt4MjZtemduWm9SV3VqYjBmSDR6NllEaTF5aVhMdWx2Y0hmRmhCZHRZRlpVQkppbURo?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Some of the deadly earthquakes in the Philippines - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0pZN2tKUzVNRXh6TWxSNmNDbnhDdGZwQ1VISlRBbGhaZ21idC1YZUZ4eUxDb2RoMlhkRHh0VEZrb0xkQ0tIcEZQTVdTX0hJaFRlZm1YSkpaYXRuT0lTWTYxOXZYekFReFNxc1ByQ2FGSXZVVFZTUUxxeVdVQnlGMTVfeWVsRlIwQTEtdmdoN0ZEMWVtNzNj?oc=5\" target=\"_blank\">Some of the deadly earthquakes in the Philippines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWZLZmVpcnlxUkVsekQ3TEJxTlY3U1pyeFMxajhpUTZEaVJ2X2JTOG5nSzhSSW9mT1JTNlJHRGRXTU9iMi12ZVVMSm9ncWp1enRma2xUZ3c0UXNNdG51eWdxVnhLeTR5UnZMVF9pTGRLeEtuYy1pR0RHUWYtVkZ0Ni1VLVBDRzNXNFAtZTZkNjdKYjA?oc=5\" target=\"_blank\">At Least 32 Dead After Earthquake and Landslide in the Philippines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHRQZGYwdS1rZzBHX1I0TWpVN3pFbEs0cEJoakhQbkY5Mm1lNFBhNVJ1S1Y1dFd0V1N5bjA2Q0IxRWlpeHIyd1o5cU9fWlI4N2dnRFBVSjF2YUpuanFaWk4yT2s0NWhnWDR3TEVzNlp5WVZ5bnZCZ2V0SHpPZl84aHhvMjNOdjBxQWhITlY2TEVvTWdZcndpcDZLZEczaDNXdWfSAacBQVVfeXFMTkMtb1gtellwaV8waFFsM2JFa3prS2RiaTVweWd4eG9JcjlPVFg4azhPenBtZnpVM3g4alpWbmllREZpRGVxdkUwd1NGQkRnY3dGS3NNcjZaaFB1NXJ1TGI4RW5sWUtsRVllMlR0Z2w1eEhfeUxHU1dNaVpJSDNuMWlyZkxtZTJMUUR2VlQzNGRWSlNzQk56bHVHNmd1a1F4SWR3dnJBUzA?oc=5\" target=\"_blank\">Race to find survivors as Philippines quake toll rises to 37</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVh5VVRZSGpzVXdrUm9YQzByekhmZVRZZzcwZ3dhLU56RjBPTldPSW5ETEd5QTF6RFR5N2NpZThnX21GV1ZGbV95TVBxSmtRbmVkSV9EUWN5TE1ZRWtSZUgyb0ZSSWhPQ3RYaW5ScHVnWkVxWjAxeVY2LWpqU09Qd1RjcEFHLVVzSzROZTFJSTl3QkhnTnc?oc=5\" target=\"_blank\">A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and sparks tsunami</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFkxc1gtblN5MEJHT2g3bEtlX2I1UlV5U0hZTkN2MkItUktSTnV0ZF8wVEpnclQ1R1F1eW84Z0JDZ08zU2xSTXhHMlJPdUVNWmxUZEgxU2pWUDF3NU9FcHdMMktxUi1OQXQ3Zm9ISk5UN2ZJcElZUndjSWJzOGlEcTBBWFp0WEQzX1FWd2xHcjhnZ215bm1vYQ?oc=5\" target=\"_blank\">Major Earthquake in Southern Philippines Leaves at Least 35 Dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0pZN2tKUzVNRXh6TWxSNmNDbnhDdGZwQ1VISlRBbGhaZ21idC1YZUZ4eUxDb2RoMlhkRHh0VEZrb0xkQ0tIcEZQTVdTX0hJaFRlZm1YSkpaYXRuT0lTWTYxOXZYekFReFNxc1ByQ2FGSXZVVFZTUUxxeVdVQnlGMTVfeWVsRlIwQTEtdmdoN0ZEMWVtNzNj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military - AP News",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "AP News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXo0VVg0a2pPM2Z2VS15eXZET2tCTVp1Z1F4RHpRTFFiMUx3dWdlNFFJcjg5czJLT0tKMlg5LUFERkc2MUFHd25ISHdCTTZULTIwLWRXTjlFUldoZHNCbVFkcEQxNnhyaHJtbFdTbVlxSWlLXzZHOXVqSE9BenFmTTBrdTZnRGZyZW5TWHZMclpWb0YtRVNteWFiZ0NFM1VPd0FiR0NfNlNyaGtBYlE?oc=5\" target=\"_blank\">Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPelJqSF9oSWNaaE56YnpwNkVadW83aHZ4OWNCWk40c21jTXF2T0l4dF94UmpiN0wyaHRoWUp2UXZ4NW9VVW1ERXJhRURTYkRQZnRycFZmMkoxMHdtblR2ZVNZcFVHTTV1NHFyQ1h1OUhkY2E2anBETkQySXlxeGd1cndQNlNzYzBXWkxJOUQ1WUlYamxfUFlCNFUyYThuM1I2MW9FTDJ6SHV2QngwYU9MOUFBRm4?oc=5\" target=\"_blank\">US says BYD, Baidu, Alibaba and other tech giants are aiding China's military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWjVFVEw4czVwd0pOUTV0dS1lbTlFMTd4X2w0OXQ3RTEzS2JhV25MNEVKRkFVNEo2Vm1OWV9NS2lXUFp6SGY5R2RpMUFNQlZOUV9rbjRuRjhZZw?oc=5\" target=\"_blank\">US adds BYD to list of firms with alleged Chinese military ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnpCUGtnOUdHTFV2TnRCbmNPYmtTM0pmMU9BTVZDbk1XdjVHeFN1UjdtYlpGNm1laklzZ0Y0eHU4dm55b3pzankyUTc1ckdmZzI3ZkVUM1NrdXZaUkZqUkstaC1NenNERWlJSF9nV1BmZmZrUVVZeTFaeWFXTlR1TS1NcjRwNUZha2lCUEh6LVRfVG44TTFKakMxLTg0LVFsV1JHR1Vxc0ZCMFVVbDZYaDg1RHQ0dw?oc=5\" target=\"_blank\">Pentagon Names Biotech Firm WuXi AppTec to Chinese Military List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWU5Tm5adFlYUTZxcjhETGdPTDhkelJNUDk3dEpPNUNrZTJ3WlkzM3VKWEtRSHpxeDdvOUM5WXBNRmdMZ3l0LWRRRVo0VWM5WEROY3VhWndFWkc1NzFvb1pReDN3dUVLTE8waFQybXAzTUJhSXdYa1c4MVFNeUc2X0FRVjE3aHQ3aTJmOVRQaDdfcFNGdXNwc2V4NWhZYml1eE9CYWI3ZjlTQdIBrwFBVV95cUxPRmN6REFGd0xtNlpSSnh5eTFkNjhyUFRHRTJINDd0VWNEd0pUbVNEUHZ6TFdxWkg4bllZWEdCT0Q3aUFRREFvZzJVaUdlbzFPOW1Yc1UtZVBGazVwa3FmcVltTDBlLWpKOWd3eGpiYTN3dFV3eGNiVkNkRk94bkdZdGJOcXFvbFJQVkVsd1V6dVVqbnBuVE0yTXg5c3B2dEZUdFRWYV9FazhxcFFHUnlj?oc=5\" target=\"_blank\">US lists China\u2019s BYD, Alibaba, Baidu as \u2018Chinese military companies\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXo0VVg0a2pPM2Z2VS15eXZET2tCTVp1Z1F4RHpRTFFiMUx3dWdlNFFJcjg5czJLT0tKMlg5LUFERkc2MUFHd25ISHdCTTZULTIwLWRXTjlFUldoZHNCbVFkcEQxNnhyaHJtbFdTbVlxSWlLXzZHOXVqSE9BenFmTTBrdTZnRGZyZW5TWHZMclpWb0YtRVNteWFiZ0NFM1VPd0FiR0NfNlNyaGtBYlE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Asia stocks rise gingerly on AI recovery, Israel-Iran deescalation - Investing.com",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdJUmo0NWU2VUdhWTF2dDRUWG9EVFRwVkgwYnkta1ZMcGRsRkd1akFOM0t4NHpzV19OTnNfUnk3TWQzR2FsdVQ5N3pTZm5WNm9hdVlXSXl6blZGNGNiYnMxZzJBMHlrYU82WDlyWHJwOFQ4OHBreWhTOHFlS0JUUEdEMVFQeEk2Nk4yV1BtcllEUnVfdU5DNDdFeFg4MkFsZ0VUb1N0S3ZNZXhyTUJtbTl3RThGRWR2TFlidE9n?oc=5\" target=\"_blank\">Asia stocks rise gingerly on AI recovery, Israel-Iran deescalation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pDOFlPbUVSR2c1VzZqT3AwdzhpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdJUmo0NWU2VUdhWTF2dDRUWG9EVFRwVkgwYnkta1ZMcGRsRkd1akFOM0t4NHpzV19OTnNfUnk3TWQzR2FsdVQ5N3pTZm5WNm9hdVlXSXl6blZGNGNiYnMxZzJBMHlrYU82WDlyWHJwOFQ4OHBreWhTOHFlS0JUUEdEMVFQeEk2Nk4yV1BtcllEUnVfdU5DNDdFeFg4MkFsZ0VUb1N0S3ZNZXhyTUJtbTl3RThGRWR2TFlidE9n?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "NATO shoots down drone over Latvia as concern about Ukraine war\u2019s spread grows - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnktN2h5Ympob2I4OEthdHE0NktXNk8yT2pIb2JxeERQNWt6OTFtLUx1QzJqZFhXeVUzOXdTbi1PaE9ZZ01ZbDdvdXR6VWY2dzBUa0JhLWxWb1ZTamRURTBta1FvR0pqa0RnV2JuMDNZcHBvNUFBM0QycTRaVzFRR3VuZUlKRUVqbVJ4TTdNZEFJeXUxWXk4b0pXOUdoZVR6SC05MjRWQzUzaVNMZnhXNy03czlKODBpcEtsUkxBWEs?oc=5\" target=\"_blank\">NATO shoots down drone over Latvia as concern about Ukraine war\u2019s spread grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2JkdndEdTEycTl6eXN2VFlFNUEwSVVWREI4emtQTkVjNHpxOTNxOWtReDQ1dU85cngxdnpnQkdnWGl5Sm92bU94NlNwMnpWUE1NU0R3V3Z6YWtZLXlZWExGVURDSjBUZnF2RUR6ajBIcU9fUWUzMHBLNngyR1NrcGdGWXpYYmk0TjVZeUpITUJhTDBNQWtmWEZ4NVVIMTAyUnRDa0MyU0pEc1BQb25Vcmd30gG3AUFVX3lxTFBuZk9IRlJWMXM3TFFvUmswVjFGLUhXN1FWZ0k1TFJOZFh6azhzQWdyZG84WnlkeWhqaUhidkdRLW1fUXA3bDB3dmVXVGt1cnl5NGVUOWdsejZHdXJzZ0dRak9nX2c2QmxaSjFNNExKeUx3azZvQk9Ec2Z1UTd6RnExdzBIUHk3bnZGSlhLRWZaMGgybkFRZ25laHRzelN3VjZOYTM5N1pwUEs1R0VLUFJiMjNHcmRwQQ?oc=5\" target=\"_blank\">NATO jets shoot down drone over Latvia, extending Ukraine spillover fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOUGdZTU9qenl3QVZfa1hkbkR4dWFjd1Z2TGNfb0M1c3ZNeXlkRDdmZzVGZW1YRTByV1VvSmdlcGREZl9MVVZtcUtPRFV2ZXhrQnhSZUpON2ktWVM0YzZRYWZfclhaVDJIaG93RFBYZ0liQjhuQzYxQVcxaWZ2WUh0ZmZn?oc=5\" target=\"_blank\">Concern of Ukraine war spreading as Latvia says drone shot as \"result of Russian electronic warfare\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1qNVRadWRlVUt3N0RKYlp0cVg4ZnBSVENfOEhObUw2MllsWnczamVOS0JFemVHUmtJZ0VDZ3p0dE5GMmlNZktYNlVWeFlNa3pqOUYxLWluMmF5VTg3U1h2TDhiemZ2aG14eWlaNGxWUTdMVjJQQS1YR19FXzPSAXxBVV95cUxNWmJjdEt5Rm9lTGxDZWhOZVIyUEpFZnhWemM1bWlJRmYwSFN4S2pmMGlna2xlTzlIZ2M2VEdabWcweVZDTlVwb3E1RDdzbGJlTVNieGdGRlZNR2lDTTRoZEJtbEQtTHhzY1BLME9KLXJWYWMxRFdpNmN4MnNX?oc=5\" target=\"_blank\">Latvia: NATO jet shoots down stray drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGdjUnpVSVlpNGFXdjZ4MEhxcGNwZ3FtbWlTV1ZSQzl0ajlBVkdzRmZvVk1LeHFzOWZ4WDgwdElPV1pxUEpqeXlaLV80MVhJTW93SHhGb21CM0dDQmVKUVBMNjFZMEh6T1hsUFFTa1FVamVVWGNDeVVrcDZqLTljaU1GcmlidUJCVzV0Qms3WlZVUjdJYW11V0Exby1PR3NfYmlrcFhrOUd1U3FoYjF5V1RUbzh1bmwyWXc?oc=5\" target=\"_blank\">Russian drone shot down in eastern Latvia, confirms top politician</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnktN2h5Ympob2I4OEthdHE0NktXNk8yT2pIb2JxeERQNWt6OTFtLUx1QzJqZFhXeVUzOXdTbi1PaE9ZZ01ZbDdvdXR6VWY2dzBUa0JhLWxWb1ZTamRURTBta1FvR0pqa0RnV2JuMDNZcHBvNUFBM0QycTRaVzFRR3VuZUlKRUVqbVJ4TTdNZEFJeXUxWXk4b0pXOUdoZVR6SC05MjRWQzUzaVNMZnhXNy03czlKODBpcEtsUkxBWEs?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "US lists China\u2019s BYD, Alibaba, Baidu as \u2018Chinese military companies\u2019 - Al Jazeera",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Al Jazeera",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWU5Tm5adFlYUTZxcjhETGdPTDhkelJNUDk3dEpPNUNrZTJ3WlkzM3VKWEtRSHpxeDdvOUM5WXBNRmdMZ3l0LWRRRVo0VWM5WEROY3VhWndFWkc1NzFvb1pReDN3dUVLTE8waFQybXAzTUJhSXdYa1c4MVFNeUc2X0FRVjE3aHQ3aTJmOVRQaDdfcFNGdXNwc2V4NWhZYml1eE9CYWI3ZjlTQdIBrwFBVV95cUxPRmN6REFGd0xtNlpSSnh5eTFkNjhyUFRHRTJINDd0VWNEd0pUbVNEUHZ6TFdxWkg4bllZWEdCT0Q3aUFRREFvZzJVaUdlbzFPOW1Yc1UtZVBGazVwa3FmcVltTDBlLWpKOWd3eGpiYTN3dFV3eGNiVkNkRk94bkdZdGJOcXFvbFJQVkVsd1V6dVVqbnBuVE0yTXg5c3B2dEZUdFRWYV9FazhxcFFHUnlj?oc=5\" target=\"_blank\">US lists China\u2019s BYD, Alibaba, Baidu as \u2018Chinese military companies\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPelJqSF9oSWNaaE56YnpwNkVadW83aHZ4OWNCWk40c21jTXF2T0l4dF94UmpiN0wyaHRoWUp2UXZ4NW9VVW1ERXJhRURTYkRQZnRycFZmMkoxMHdtblR2ZVNZcFVHTTV1NHFyQ1h1OUhkY2E2anBETkQySXlxeGd1cndQNlNzYzBXWkxJOUQ1WUlYamxfUFlCNFUyYThuM1I2MW9FTDJ6SHV2QngwYU9MOUFBRm4?oc=5\" target=\"_blank\">US says BYD, Baidu, Alibaba and other tech giants are aiding China's military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnJ6Nkl1NlVGdzlpVEtoREpObVYyN1lmN1Z0U2dUUnN2eTNieG45bkdNTVpYdkIxdFRkZ3R4SWN4cVN2Z0V0OWNVR1dUbVQwMDk2WFpVZHRnUGU3NS1wMm52NnhTMWJEa3VQcGFHQ1owYVJtc3U2UERsbXJHSmc3dDdCSDROZmoxZWJJdXlUTXNxanBibnF6dGYyVmlnaFJON2xkd0ZhS3hvQzFQTGc?oc=5\" target=\"_blank\">BYD and Alibaba among big names aiding China\u2019s military, Pentagon says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWjVFVEw4czVwd0pOUTV0dS1lbTlFMTd4X2w0OXQ3RTEzS2JhV25MNEVKRkFVNEo2Vm1OWV9NS2lXUFp6SGY5R2RpMUFNQlZOUV9rbjRuRjhZZw?oc=5\" target=\"_blank\">US adds BYD to list of firms with alleged Chinese military ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjlFNVVZTjFJcGtMdmgzcjhrY1pkM0V2Sy1nV29hVDRrbkdKM0t1cmZHNmV5WnRTOU5GaGtKY01JUThldjZRSFpCaTZvaFZvTUk0Q3ZOak1wQ3hLdXJORkZFbnFHX2NCZEZ1Sks5WGxzYWlKZ3EyeVFfTlZ6aW80Y1NtSW5GRTF5TU1MR2VGdUhHNWhHNFBkcnVRcWwxeEpjRG1iVmljb2xuNkI0QVYtcVdR?oc=5\" target=\"_blank\">Alibaba, Baidu Accused by Pentagon of Aiding Chinese Military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWU5Tm5adFlYUTZxcjhETGdPTDhkelJNUDk3dEpPNUNrZTJ3WlkzM3VKWEtRSHpxeDdvOUM5WXBNRmdMZ3l0LWRRRVo0VWM5WEROY3VhWndFWkc1NzFvb1pReDN3dUVLTE8waFQybXAzTUJhSXdYa1c4MVFNeUc2X0FRVjE3aHQ3aTJmOVRQaDdfcFNGdXNwc2V4NWhZYml1eE9CYWI3ZjlTQdIBrwFBVV95cUxPRmN6REFGd0xtNlpSSnh5eTFkNjhyUFRHRTJINDd0VWNEd0pUbVNEUHZ6TFdxWkg4bllZWEdCT0Q3aUFRREFvZzJVaUdlbzFPOW1Yc1UtZVBGazVwa3FmcVltTDBlLWpKOWd3eGpiYTN3dFV3eGNiVkNkRk94bkdZdGJOcXFvbFJQVkVsd1V6dVVqbnBuVE0yTXg5c3B2dEZUdFRWYV9FazhxcFFHUnlj?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Stock futures fall as investors assess fragile Iran-Israel ceasefire: Live updates - CNBC",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5\" target=\"_blank\">Stock futures fall as investors assess fragile Iran-Israel ceasefire: Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0wenJNVU5mbGJFYlctbzk3dkh3dXZoYWgxQ1RhWmZua1lOaHJsVlNIX2NGZmhSLUhhUk5PeTBVdVpKLXZoWWR6N0pmbUExNHdxTjBJRkhseDRCdUFzTUVNdUNPZHhMTVdRWjVjUEt1cE0wZ2JXcnRtNkpn?oc=5\" target=\"_blank\">Is the Economy Overheating?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Dispatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORGM0TFBVcmtKRlg3bVlicUVxX2NXbFVha3g1RFlqbE56SlZPd0VKUk5QTzF3Yk4tSUtES0h3TnNIaUFud1VFZFlpdjBvSjVKbzVYV3l5M1pVcDB2U1ZNaXBpbFFneXZjejZTTUVYeGY1ajAyV1phMlNRNjl6VFU5NjNfNmkxZDBlbmZZc2xzMWFXQjlLTGExQWM5WUJ2TDAzc2FxbnZpcGVHQ1pOMkJxM01HSmpORlBpaXc?oc=5\" target=\"_blank\">Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE11N2k0N3VYdG02a0ZiRllhdWpvdEZxcHc1clVKZ0FnSUxNX0RNMk9wRDkyYXM5RjBuNmtwS2U0cnJUZ1RaZlpSbF9PSU04OVFDSl9WMFNoOXRtRXpqXzhJeTRZcjdGZmh4ZVBHNXlzY9IBdEFVX3lxTFBNNDByckEwVzhZVWthMmlYZ2dNcmxyZkhlSi1UcjZ6YmdZX2hIMld1dDdZMXRTR1pSRjAzS1hVVE44TGJ5cGxaQnhOVnBMaWpGNkRIZFJwclZHbldrcDcwZW5MeC12Q1p1b0FhcXc4d2ZETjBL?oc=5\" target=\"_blank\">Traders Cautiously Buying The Dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mortgage News Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMW8zc04ybzljU0M0UWxlT2g3QnpyQ0w2d2RuanN6cjNIZmFVbkxYRHNUUmlsbjhZcE10eGZDdnE0NGZKUmpVWWhDVzc2NXdCb2RvSGdydWFyTVV4bnF5UGJUVEl2NjFscGlOZXV4bWVVWnVZVmgzRXZwendwdVM2VEpvVTM0QWllQjJXQl91TGdWek1vWEwzTjEtVFU5ZUxXSEpDN3MzejE2dWNYOEpJbmRmNFI2ZzZ4OGZ1MENrWkstMWc0WjgzS0F6aXJRc2Y2?oc=5\" target=\"_blank\">US stock futures fall with Israel-Iran deescalation, chip rebound in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Your tech portfolio could be on the wrong side of the AI boom",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "marketwatch_topstories",
+          "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
+          "url": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "After escalating strikes, Israel and Iran signal end to attacks - The Washington Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDNZeVlhTlB0ZW9nUHJBRmJyTGlFT3pjX1p5Sld4WWdyTlNMT0Q2WHdWQVh4aWoxSVlWZ040MkxKRTNmaUgzV25acXJHVHNodXA0ZU14MmgtMVVxT2c4VG55RjJtck5ic1U1dzNISG1NZWdUT0JzREpsU2R2dmx5M01QekNXcU1tdzVHQ2w1Ylc1UWhKa0VhTldhUWo2Y0ZTTVZWVnZZODNBVy1wNGdUTg?oc=5\" target=\"_blank\">After escalating strikes, Israel and Iran signal end to attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPb090N2xPdlRHeWphNmYzNDVRUWI2ZjRkSE11WlZyRHIwSUQySXg4OVBJa3NqTmRUQWJwWEpmRkxFSVRQM0plaUlIUG5sZnQ3ZnNjZEZjTTRkSDA4dXdyYjRKNXptSFdiejRjSDQ2UlpSYTRkTlI3VjJ3Nk5DZmlhMnJRUGQ5X3lVYkwtV2oxeENVaTdXTFB1bEFQLVMxa3otUXhFSEk0UUhUblgwZDFZUjZPVEM3QQ?oc=5\" target=\"_blank\">Iran\u2019s Attack on Israel Reveals New and Aggressive Regional Ambitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPakJuTVRnV2xzNWVTMHdsYXowTlRaTGZyV3JIbkpVd3Z6NGR4RVJNcU9SZ2VaZ1NkOHU3amR4WXBLNFEtUmtYenhheFh6N2l0WlFaaEVoTTVXWFRxWVFjYXJYV3pXb0VXV2dMeXBmWkx6LXpUR0h1THg0X09GSF9UblVfb3NVdmJCYm43V2RhVjV6aVNLMVVoeVJ2N25UUmdZZVI1OWVISDg2NUVBZFA5aHBEVXHSAboBQVVfeXFMUFpjWkMycDhRM1JJYzYzTVZkN19JSE5mVnFTdUh6VW9YeVBVbTlPSmRHT1NGNndlU1g2d3ZZbC15NkcwckJRdW0zX3pHVVJRSlE4Y0lQLVFGYkJvazBLRlhpRzBpeDB3Yjh3UXVIbC1XYzV2bkwzUUV4UUN3akN1d1lFeXdtcmR0R2FPNzJEc3Y4NHZqRWx1RDFXSl80OHQtWnoyckRFZzdQdGE5Q3J5WkdZT2JuOUNnbEV3?oc=5\" target=\"_blank\">Iran war day 102: Trump warns Israel against new strikes as ceasefire holds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBlYnh4WTNXY0F6aDlyZnJqRkpDWGlJQXdnQmRWNDJVdUhPc3ZBWHV0SkhaSmFxOTBTTnh3cVZ2Y0ZZVXpQbURvSW9STHMyNHZnZThQVFlXWXZ3OFFwNUZxTjk1eTJ6YkVwQXUyRGpvNkdzZ2lJWkFjN2RiNWI2QQ?oc=5\" target=\"_blank\">Trump tells Netanyahu not to strike Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdF8tWXRDV2JHRndqdjZWdEY1Qk1lY1BjcUU2Sy1TSTlPeEF2am9mdTBQREdxWEhyQkwyZFhZc3l5QzdtMjNza19KWWVoTGE4TXh5WmMwV1JOT2dsQTZXaFF1RkNiVTRSSGs3RHBsN2lpdThIOU9oNVE2WUhwdzV0V19fNFlZQzVNX1Z6Tkx2S25vYk9mRlZB?oc=5\" target=\"_blank\">The 15-Hour Fight With Iran Showed the Bind Israel Is In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDNZeVlhTlB0ZW9nUHJBRmJyTGlFT3pjX1p5Sld4WWdyTlNMT0Q2WHdWQVh4aWoxSVlWZ040MkxKRTNmaUgzV25acXJHVHNodXA0ZU14MmgtMVVxT2c4VG55RjJtck5ic1U1dzNISG1NZWdUT0JzREpsU2R2dmx5M01QekNXcU1tdzVHQ2w1Ylc1UWhKa0VhTldhUWo2Y0ZTTVZWVnZZODNBVy1wNGdUTg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "ICC chief prosecutor suspended after probe finds he committed serious sexual misconduct - The Times of Israel",
+          "kind": "negative",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.020618556701030927,
+          "source": "The Times of Israel",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUg3YmQ2TEdPb1VBMHE4dEJtNzU0dUFDOUdycGJrb3BNQThXbEJDY3RvRS02M0pHcXQ0T29ZODB4NVl0UDlraEk5RjFlVlVONy0zbjFZdExVdFI3ZnJJc1ZfLU5JU00wV2ZOWlZTT19BOVhSQ2MtQWY5NXRtSDZ1Qmc2VDBwdVg1U3JsUmpxU1B3N2ZJdHVDd2R0Z0ppTDZOdkVyX21SZWs3UHFGLXBzbnZ0T19lMm9CT1HSAb8BQVVfeXFMT1JTZXFJN1ZxUTA4YU94VjJlMWRYTktHdEdEb3VNNWNBY2RzRno1S0tUOTh5WmM5cDkwbGdsbjYxd3pMR0dwWXUxelBTVzRSemtoUFNGN1lKeVBOczY2UlpPVksyX01HMzFJX2RkQTJmTF9UWWxJSXRCTkpvNHJiQWFYWDB4aHo1Z0l0aVZ1eFVYRmg1RTN3UGowdUh1Wkw2c1BWMkp4WDZaUDZqMHJwcnJzX2ltNlRwN3ZnamdrcDg?oc=5\" target=\"_blank\">ICC chief prosecutor suspended after probe finds he committed serious sexual misconduct</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMjFjVERRZ3VhWmZaSEhFSXJOZVF6SGRDYWFIbnVyVER0b0FDcFQ0Z2RlZjNIbDhEUV9ZN3Y4UHFwV09kdFpvYUxBWElNM2pYcnhNWTNuMWtVVFdqVENTZmRXM2N5eVZzdXNKeTczSTgxMDFSWTdtWUVmWFNEbXRwSXloa3VuN2MxYVltZXFHcUpoaEszOG52eW5OODhrX0RKN1BlcWQxYzl0dnUxakhpY0J4LWV0NVVJTWlCc3JNREVORkhG?oc=5\" target=\"_blank\">International Criminal Court chief prosecutor Karim Khan suspended over sexual misconduct allegations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE12MU1iYlVlelAyTHRod0dIR3gzRmxicVkwQnk2UHJxODdWTlpHRUVXaGxnS1JibTBDenViemhWNkJ2am56N1A1UXV0VHRxWWNsVGZ0Y2hqbnRYcUhfUHFhSnJwR1pKUkZmUVp3NGdiYVg?oc=5\" target=\"_blank\">ICC prosecutor Karim Khan suspended amid sexual misconduct probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2pvSVNaWHlXRE4xU0ptcHVxRUNOeGJHSWo2bWJtR2dwLXZ2cTgwOUlfTjRtQk9QUEtHR2xwMURtSHdTZFZFY0R0QkM3U3BRSHhlbHJXa1JBcnFaWWNYbUZSRk93dlYxQks2QXctS1RwbHpSNnJrVTRXVkxEOGwyaVJnZF9JdjZXLV9ubWZWY0VWcHlueFUzS1U0S2NoYjhhWm1OWWRXLUd0R2RNbGRFVTRMWjdWaktfd29qNHZvM2M?oc=5\" target=\"_blank\">Decision of the Bureau concerning the outcome of disciplinary proceedings involving the Prosecutor of the International Criminal Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| International Criminal Court</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUtMTGhBamZXRVlWTTFCeENTdlFXNGg3VEx0ZEJzTGFpQzhWTk93V3MtVmRmMm1BVllwZHpnS2dkNXdnUGdGclE0MmlqWEN2TlhLdHdjN3N3SXB5TkVMbzFYb1lLMWloUVRSMzYwdE1STkZUMDA3akZ3aE1qTllobDVoQkFIbTVwd3R3RUJXNmpqTlRPdUE?oc=5\" target=\"_blank\">Israel calls for ICC arrest warrant against Netanyahu to be lifted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUg3YmQ2TEdPb1VBMHE4dEJtNzU0dUFDOUdycGJrb3BNQThXbEJDY3RvRS02M0pHcXQ0T29ZODB4NVl0UDlraEk5RjFlVlVONy0zbjFZdExVdFI3ZnJJc1ZfLU5JU00wV2ZOWlZTT19BOVhSQ2MtQWY5NXRtSDZ1Qmc2VDBwdVg1U3JsUmpxU1B3N2ZJdHVDd2R0Z0ppTDZOdkVyX21SZWs3UHFGLXBzbnZ0T19lMm9CT1HSAb8BQVVfeXFMT1JTZXFJN1ZxUTA4YU94VjJlMWRYTktHdEdEb3VNNWNBY2RzRno1S0tUOTh5WmM5cDkwbGdsbjYxd3pMR0dwWXUxelBTVzRSemtoUFNGN1lKeVBOczY2UlpPVksyX01HMzFJX2RkQTJmTF9UWWxJSXRCTkpvNHJiQWFYWDB4aHo1Z0l0aVZ1eFVYRmg1RTN3UGowdUh1Wkw2c1BWMkp4WDZaUDZqMHJwcnJzX2ltNlRwN3ZnamdrcDg?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Pope uses Spain speech to warn of global \u2018spiritual and cultural crisis\u2019 - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.021739130434782608,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1cwN3pBS1hYLW4xMVc1anBac05lZF9hR3dSYWh2THYtREFBV3VENjFOZkdBdm84ZTJKZlh0blpGbW9aVjBaRzVxbGdVVG5KSEwyZ2FDbEMyS1M3aEhPeFJ6SEtBdF84ZTFwR1QyMFdWQkwzZWpnZjhrb2ZvU29GNWNHZ3JsMWFOb3VkRHJaV1VKNHZZVXVjaGphUXNGSHpzR3lFSXZxNA?oc=5\" target=\"_blank\">Pope uses Spain speech to warn of global \u2018spiritual and cultural crisis\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSURUWU1lUlo2VlNaR0kwX2ViWlpzMUdadWJUV25hYXd2NEF2U09aRVNEY1JSVU14VTZjMjQtNURrNDdCQ01pQ0R2aDF3aGxtNm5vNENVSlJXNG9PaWpaVnlNUGdIbDlEb1VEdExTY3pHZER5ZFJtYng0b0xjSlFHLW85MFItdVpMSWxYTThKcERiWFBreVV5VFpJTnpldlJ1eWZJLW1JQ2Fodw?oc=5\" target=\"_blank\">Pope Leo warns Spain's parliament the world is in 'profound' crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQakV1aWo3b2hvY0pTTkJkUnpLRkl5YTlPbGFWakpkeGZqcFRBYmt5Y29SRTh4NnBsRjZXRXIzeUpnLU9SeWxqRDF4eXJydl9udjNoVVRWYlFEbDEzT3ZhZm5BaXRXZnFwQm8wQVZIQ0Z2Rl9YMnNRN0hiTmhLYTM1dF9XSnNMQVpMQ2NMNWwwNW9MSHRuM21ybEtldmg?oc=5\" target=\"_blank\">Pope's historic speech to Spain's parliament demands respect for migrants and gets 7-minute ovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXg4bDlGT2w4Z2RHQ24wOEF6dkc2aHIyYjV2TGdGajBQdmRBQjdOUFdNdUFDb0NscWhBRjA5MHlyTG5uckxNUHZSR1dMNFpmNGYzX2tJZGxJNDIySUlJOHpmVTBFMUNjaU5USnVmdTczc2xnSDBpSklSbkNncFJTVWtoNnhCY21mYjVTQUtKakZMZ2E4TXc?oc=5\" target=\"_blank\">1 million people flood Madrid streets to see the pope's flower-carpeted procession</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaVg5Y2c1NGloUFRWNHhPWXZMSTBuTlBDUXJMU2pBNGM3Z3pKM0NTR05ZZy1KS2s1bW1vVGxTNzJlZTlUVlVCMEZyR1JoMTRoSkFLaTRSU0x6XzBfSTUyWk5tMDVGeV92NDB2QnRKVmVNYktoeTJsUGFlOTNLbnF4Y2ZwdzBVZ21lbnQxYmFiTm9OV0gzT1RqLWVLRzlRR2xKWWU4djVzZy1qT2JydFdOT083ajF1OE9I?oc=5\" target=\"_blank\">At largest event of pontificate, Pope Leo prods Catholics beyond a 'comfortable, private faith'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Catholic Reporter</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1cwN3pBS1hYLW4xMVc1anBac05lZF9hR3dSYWh2THYtREFBV3VENjFOZkdBdm84ZTJKZlh0blpGbW9aVjBaRzVxbGdVVG5KSEwyZ2FDbEMyS1M3aEhPeFJ6SEtBdF84ZTFwR1QyMFdWQkwzZWpnZjhrb2ZvU29GNWNHZ3JsMWFOb3VkRHJaV1VKNHZZVXVjaGphUXNGSHpzR3lFSXZxNA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology - Reuters",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Reuters",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTU5kZTNKTkVQc2hvTGVhMVJsSXEzc05aTHVPNUY4R2VfaTNzU3B1bzRrUUUxYUZxX0wtaTMzb3BXZEpRcHcyOHVGVjRZY3dmazJ6bmpaSGxTU1dPMnpPM3VCcnhjWVY4dXVqam1XMWJsdW9GbFVwOE1rUWhuMXgxSGczTERwLS12alZTaU82eXV5N0JmZERmdEJhX3ZiOE1jRzNYTnJaQy1xMFB5UHF4bldEc2lfcFNzVDQ3ODd4N0Y4N0xEYUpVamlIYk1wbEJm?oc=5\" target=\"_blank\">Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdi1VWW1GUktXQjdhVE5LSE9uYUxLc0c3dDdpOWhqSl9UY0RQNm5KdmllWDVNdG5Vdk4zNnd4Mm15TWtrQVA1Z0hvRFZnX3ZBdUtlSzVoUkVoRWh1Y2FoVmR0MnJlM2hNQm4yamQwRVJHWk5KTWhRdHNXZ25IMmtfLU5IMTdjT1ZKb2wyaGM2VHE5NmZKSWpGbFkzeXQ1WnVOWHk3YVlWcV9UYjVqazl0aEhlZmN2UQ?oc=5\" target=\"_blank\">Elon Musk Shows Detailed Design of AI Data Center Satellite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHhTTHpsc1ZsQWJZX3BsdC1ySU50M1B5Vl9zVllMcE81S2lsT19OTmJmM2JNYXBLclpCTXRPeU5kUFk3QTduWlVGR3R3UzVLckFVUnZUR1hYaXZnNlg5Ny1KVGljSGRpQXhGS2ZLY0x2a0dTTDRhQ3dfY1B4OXQ1ZGJnRENYNkx3YkRMd09ncnVqUmJQS252TDV0RHhCY0RLWHhmZzVfbE8tUTUtSDEwZQ?oc=5\" target=\"_blank\">SpaceX IPO ties investors more closely to Elon Musk\u2019s expanding AI empire (SPCX:Pending)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzdEYVRfN1hnSWhUUFFRSWozYTBLM3ZycHktdWkzS1IwQTVXYk0tcmF4X3lsSGpoNnNJWVFpU1ZRV2NIendvMkhtZkJUVE5NMU9qaXdibldKRE9GQzluSmlRQkRIVTNwTzBRN25aWldWNFdOM3JlZTg0TFBkMVZ6djlCNA?oc=5\" target=\"_blank\">Here\u2019s the first SpaceX AI data center.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3dFY3ZCR3dXZ3V4TzFVbXRSMlhvcU9xaXE2SFluQ1JWbE50WUpIQm9yR1dORDZfUEhSQzVUU1RHZlZEUzhPbHpQcWw1VVl5SHVHU0VjX19jbi05VTZpNFNxdjlhMzc2VExFVTNnekR1N2RoU09zTHh6b3MzdWtkM2hvSG1HMkRlU01wdzh0eHNkY1ZHOE8yaUpNQQ?oc=5\" target=\"_blank\">SpaceX Has a Plan for AI That Sounds Like Pure Science Fiction. How It Impacts Your Wealth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTU5kZTNKTkVQc2hvTGVhMVJsSXEzc05aTHVPNUY4R2VfaTNzU3B1bzRrUUUxYUZxX0wtaTMzb3BXZEpRcHcyOHVGVjRZY3dmazJ6bmpaSGxTU1dPMnpPM3VCcnhjWVY4dXVqam1XMWJsdW9GbFVwOE1rUWhuMXgxSGczTERwLS12alZTaU82eXV5N0JmZERmdEJhX3ZiOE1jRzNYTnJaQy1xMFB5UHF4bldEc2lfcFNzVDQ3ODd4N0Y4N0xEYUpVamlIYk1wbEJm?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "industrials",
+        "shipping"
+      ],
+      "company_profile": {
+        "industry": "Integrated Freight & Logistics",
+        "provider": "yfinance",
+        "sector": "Industrials"
+      },
+      "effective_adverse_effect_count": 7,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        }
+      ],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 12,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-09",
+          "headline": "EXPD Technical Analysis & Stock Price Forecast - Intellectia AI",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Intellectia AI",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQ3ZYZnhDb3hWdnZha2tlUkxoU2lUMkl2TU9sX2dIVEdsWUY5SFc2LVlhZjJkQWZkZllNWHZLR2pyNFFLX0U1Nzg4VWJTVTB6T1RqREJJZnlXZw?oc=5\" target=\"_blank\">EXPD Technical Analysis & Stock Price Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQ3ZYZnhDb3hWdnZha2tlUkxoU2lUMkl2TU9sX2dIVEdsWUY5SFc2LVlhZjJkQWZkZllNWHZLR2pyNFFLX0U1Nzg4VWJTVTB6T1RqREJJZnlXZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-07",
+          "headline": "SW Investment Management LLC's Expeditors International of Washington Inc(EXPD) Holding History - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVBrT2JGYk1hUUVYY2JOcFF1RXFxaFhwN21mSlRMVGlud2ZwbEJwS3pWWnJXcHpmbG5rVl95ZFc4b1BOTmMyNEZuVWx2dEhKdkJ3c1BITTBsVTJ2SkpfMDQxMmV0b2Rib3FVMEE5azFQcWVrVFIzN1VZSGhhVjFDeVJPWGVlT2c?oc=5\" target=\"_blank\">SW Investment Management LLC's Expeditors International of Washington Inc(EXPD) Holding History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVBrT2JGYk1hUUVYY2JOcFF1RXFxaFhwN21mSlRMVGlud2ZwbEJwS3pWWnJXcHpmbG5rVl95ZFc4b1BOTmMyNEZuVWx2dEhKdkJ3c1BITTBsVTJ2SkpfMDQxMmV0b2Rib3FVMEE5azFQcWVrVFIzN1VZSGhhVjFDeVJPWGVlT2c?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-07",
+          "headline": "Does Strong Q1 EPS Beat And Buybacks Change The Bull Case For Expeditors (EXPD)? - Yahoo Finance",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.11764705882352941,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTY4ektjR2Y3MUlsVFBFaDg3QlBUcjJjRDc2TWR6Y3U3ZHJrSXJET3lLYm1uTDhWbFJEQXh2WFFSZmdtYnRCWGc1QllUOEtLeFFWTG8zd2Z5TzlnbWUzRHk5UEd3WExLOTlubkRhVjlLejNhX3dvX0lSblVWZlAzNG1Hb3pKXzlidGVZOWJVZ01Kdw?oc=5\" target=\"_blank\">Does Strong Q1 EPS Beat And Buybacks Change The Bull Case For Expeditors (EXPD)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTY4ektjR2Y3MUlsVFBFaDg3QlBUcjJjRDc2TWR6Y3U3ZHJrSXJET3lLYm1uTDhWbFJEQXh2WFFSZmdtYnRCWGc1QllUOEtLeFFWTG8zd2Z5TzlnbWUzRHk5UEd3WExLOTlubkRhVjlLejNhX3dvX0lSblVWZlAzNG1Hb3pKXzlidGVZOWJVZ01Kdw?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-05",
+          "headline": "A Look At Expeditors International (EXPD) Valuation After Its Q1 2026 Earnings Beat And Share Buybacks - simplywall.st",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.05555555555555555,
+          "source": "simplywall.st",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVR1QjRib2dNTlQyZnpDWEE4QlE1cUx6X0NnT3BHM1JMdThET3lWeVdwYWdpazR3T1l2dG9HY1MwbXZqWV9Rc3pEamVfLVk3QmhteWU3QUpiam0xMFRZWHRkR1RqT3RMMmx6Um5LZzl3d0RSY3ZhdFBwaWlNZ1Bva2Y2VkVsYXRqWXp2LXl6Mm85XzdMa3JHa3lqWHR0Z2RFZmhoZWk5Qkg4dm42YmFKRzJjM2RubG9PMTA1VUlpcjBwNVVjWU9JV05FbURHang5VHZBQ3pndzBLa01iUWZwRVNPM1kwT0xyQ1FQRi1WQnBoQdIB9wFBVV95cUxNUnl4VGFvNW9JYTFZTWowN1h3akRXRlNrcE1STUN3cVBybThiMW9Ba0VaR3dQVTVzQVZPMWw4NG5lb1l0WWRVUG1vU05CODd2WDdrc3YtV0VsWk1BcXBqR0tvbktscVIxeWZjdUhlZnplSFRUVi1EU3JsOUlfVjNvTnd3N200MExoQXRpb1lOaDhxWFd1U3FwcmJNMFVEdzE5SmRSMDNYdXl0Smw3bzI0Ymh2cUVfbDRqUkNvMTRIT3J5OWE4cGYtd01wVXQzbWpDaTJGZlIya1BHT3hPNVY1dGpLb2x5dnJucmVqbHhfR3ZzdF9kaW5v?oc=5\" target=\"_blank\">A Look At Expeditors International (EXPD) Valuation After Its Q1 2026 Earnings Beat And Share Buybacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVR1QjRib2dNTlQyZnpDWEE4QlE1cUx6X0NnT3BHM1JMdThET3lWeVdwYWdpazR3T1l2dG9HY1MwbXZqWV9Rc3pEamVfLVk3QmhteWU3QUpiam0xMFRZWHRkR1RqT3RMMmx6Um5LZzl3d0RSY3ZhdFBwaWlNZ1Bva2Y2VkVsYXRqWXp2LXl6Mm85XzdMa3JHa3lqWHR0Z2RFZmhoZWk5Qkg4dm42YmFKRzJjM2RubG9PMTA1VUlpcjBwNVVjWU9JV05FbURHang5VHZBQ3pndzBLa01iUWZwRVNPM1kwT0xyQ1FQRi1WQnBoQdIB9wFBVV95cUxNUnl4VGFvNW9JYTFZTWowN1h3akRXRlNrcE1STUN3cVBybThiMW9Ba0VaR3dQVTVzQVZPMWw4NG5lb1l0WWRVUG1vU05CODd2WDdrc3YtV0VsWk1BcXBqR0tvbktscVIxeWZjdUhlZnplSFRUVi1EU3JsOUlfVjNvTnd3N200MExoQXRpb1lOaDhxWFd1U3FwcmJNMFVEdzE5SmRSMDNYdXl0Smw3bzI0Ymh2cUVfbDRqUkNvMTRIT3J5OWE4cGYtd01wVXQzbWpDaTJGZlIya1BHT3hPNVY1dGpLb2x5dnJucmVqbHhfR3ZzdF9kaW5v?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-31",
+          "headline": "EXPD Stock Price Prediction 2025-2026 | Expeditors International of Washington, Inc. Forecast - 24/7 Wall St.",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "24/7 Wall St.",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1SkI0Qll3SVhxdHkyMTJfdDI0VDhRNDVqeUZFelYzX3REY1lBcEJ4dHJ6T2JDYkdpMEg4cGJ4RHZFb2ZpamRsVGFROUlzczZPQzZjZDRPVmNwY3hMRkM3NUh3alo?oc=5\" target=\"_blank\">EXPD Stock Price Prediction 2025-2026 | Expeditors International of Washington, Inc. Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1SkI0Qll3SVhxdHkyMTJfdDI0VDhRNDVqeUZFelYzX3REY1lBcEJ4dHJ6T2JDYkdpMEg4cGJ4RHZFb2ZpamRsVGFROUlzczZPQzZjZDRPVmNwY3hMRkM3NUh3alo?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-31",
+          "headline": "Expeditors International of Washington Inc.: - marketscreener.com",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "marketscreener.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1sUkM5clBSVFE0Y19nQlZIYVNKUHl2cTd0XzAzQW9iZGpWNVBnaUVlWEd4MjZfcU01Mk1NNjNSb2Z2MndGTjFOMXF6WkM3VU10RTFwSktvblQ4WTZScThfa3VyQ3lsM21QcjE3aVZmbHF1aXM?oc=5\" target=\"_blank\">Expeditors International of Washington Inc.:</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sUkM5clBSVFE0Y19nQlZIYVNKUHl2cTd0XzAzQW9iZGpWNVBnaUVlWEd4MjZfcU01Mk1NNjNSb2Z2MndGTjFOMXF6WkM3VU10RTFwSktvblQ4WTZScThfa3VyQ3lsM21QcjE3aVZmbHF1aXM?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-23",
+          "headline": "Is It Too Late To Consider Expeditors International of Washington (EXPD) After A 43% One-Year Rally? - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1hFV0RxUDY3MWVXalBPOFBsY2tDcEVUbmVUUlNkd194NFVtTlJYd3hGYjNfTXJvcnpzcHdXcUkyeF9Ea1dUZVFNT3FCTkhEUWxUREpSMDR6N1d1ajE3RG9xSzFjNnc3MXdJNVVPT2QxX3NEcVRER2tibGxUU2RlLXFVeXh3M0VObHRjYXg1Z1AtMDUtZUd3SVNSal81NkltVlREQVFObmdBN253cUNJUHNNZw?oc=5\" target=\"_blank\">Is It Too Late To Consider Expeditors International of Washington (EXPD) After A 43% One-Year Rally?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1hFV0RxUDY3MWVXalBPOFBsY2tDcEVUbmVUUlNkd194NFVtTlJYd3hGYjNfTXJvcnpzcHdXcUkyeF9Ea1dUZVFNT3FCTkhEUWxUREpSMDR6N1d1ajE3RG9xSzFjNnc3MXdJNVVPT2QxX3NEcVRER2tibGxUU2RlLXFVeXh3M0VObHRjYXg1Z1AtMDUtZUd3SVNSal81NkltVlREQVFObmdBN253cUNJUHNNZw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-20",
+          "headline": "Expeditors (EXPD) discusses customs growth, AI use and trade-driven demand shifts - Stock Titan",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHYtcnc2RndaR0N5ZmkxZW5EeGt5V2VWZDJjNGp4VGwtZ1M4eFJIZkRhZE9ta1VNVGEzTk9HMUk2RW1mZ21nXzdvd2otVEluZFZubndPTkFVaThBWVRjX3NRTWRFSThPbEpEZ0N6WHZTS3k4d2RYTVFqZnVKSElOT2hpbFh2RmVCSkNUREItcFlqLVFzcktuOEQzb2RQZXJXLUs5c3JCdkFFSllscWJWWTJnYU45NUE1Z0x6UjNwMHotMzVSN2pYUmF6QQ?oc=5\" target=\"_blank\">Expeditors (EXPD) discusses customs growth, AI use and trade-driven demand shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHYtcnc2RndaR0N5ZmkxZW5EeGt5V2VWZDJjNGp4VGwtZ1M4eFJIZkRhZE9ta1VNVGEzTk9HMUk2RW1mZ21nXzdvd2otVEluZFZubndPTkFVaThBWVRjX3NRTWRFSThPbEpEZ0N6WHZTS3k4d2RYTVFqZnVKSElOT2hpbFh2RmVCSkNUREItcFlqLVFzcktuOEQzb2RQZXJXLUs5c3JCdkFFSllscWJWWTJnYU45NUE1Z0x6UjNwMHotMzVSN2pYUmF6QQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-15",
+          "headline": "Why Did Southpoint Capital Exit Expeditors International - Kavout",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Kavout",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmRfalNJd01UbzJEOXdYSnd3d1gwazVJcjZWZEV6S2lfVFNpV28xbFVRTThBVTJTTUNzeXFZWTc2cG1YV1Izd251Ujc1b0c4dDBJWmhHZUFhczFTZFBsQVl3YmNKeWIxajhoRTlCSTRGT0NCdWl0RlFqeGxxQTRqV20tSDRBSnMwcTNlc0I3dmNWQW5aWkE?oc=5\" target=\"_blank\">Why Did Southpoint Capital Exit Expeditors International</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kavout</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmRfalNJd01UbzJEOXdYSnd3d1gwazVJcjZWZEV6S2lfVFNpV28xbFVRTThBVTJTTUNzeXFZWTc2cG1YV1Izd251Ujc1b0c4dDBJWmhHZUFhczFTZFBsQVl3YmNKeWIxajhoRTlCSTRGT0NCdWl0RlFqeGxxQTRqV20tSDRBSnMwcTNlc0I3dmNWQW5aWkE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-15",
+          "headline": "A Look At Expeditors International Of Washington (EXPD) Valuation After Recent Share Price Strength - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFNyRFljSTFNMGM0UV9mRG5qRHowRFhCak9IeTY3NnNUbjU4TlFhYjAwQ3ZLdUpNdGlNRWRTSGZaZy1sbkJKTGl0dkhlRHNvRE81SFhvVlk5YUVTeWQ2cTVaWExMSVphU3dKanZ5bHU1X0hoM29SVlBUUkpoelNRa1hqNEpENndKb3dualZZSktaRDV3SzBodkVOa0h6QjNSM295RlJBcWtpRVpMbzVN?oc=5\" target=\"_blank\">A Look At Expeditors International Of Washington (EXPD) Valuation After Recent Share Price Strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFNyRFljSTFNMGM0UV9mRG5qRHowRFhCak9IeTY3NnNUbjU4TlFhYjAwQ3ZLdUpNdGlNRWRTSGZaZy1sbkJKTGl0dkhlRHNvRE81SFhvVlk5YUVTeWQ2cTVaWExMSVphU3dKanZ5bHU1X0hoM29SVlBUUkpoelNRa1hqNEpENndKb3dualZZSktaRDV3SzBodkVOa0h6QjNSM295RlJBcWtpRVpMbzVN?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-14",
+          "headline": "Expeditors International of Washington: Visible Weakness In Ocean Segment Keeps Me Worried - Seeking Alpha",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Seeking Alpha",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWtWMmlGbnJHNV8tamh6U19wOGxNcF9WNExRMEdvUjQ2MnI4Um8ySmlLZExhRHZVTXFpaFBiQWFYRnVTSDh2QVg5QUdWRnpYd1Bva2N3V1NfNFR6MmZleUVNVUdsd2lzMFJJU2JSRVFHcEttRDRGcDk1dDJnNTlMa1RzSTFlR0hpWjJEc2gtSjhab1JnYlZKZXpqdUJaQzk5VlJ5Q3pfY3Z6cjl1bERvNWU3TGlLS2tzN0t0S0RRZ3diMWVWSEgwWW13?oc=5\" target=\"_blank\">Expeditors International of Washington: Visible Weakness In Ocean Segment Keeps Me Worried</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWtWMmlGbnJHNV8tamh6U19wOGxNcF9WNExRMEdvUjQ2MnI4Um8ySmlLZExhRHZVTXFpaFBiQWFYRnVTSDh2QVg5QUdWRnpYd1Bva2N3V1NfNFR6MmZleUVNVUdsd2lzMFJJU2JSRVFHcEttRDRGcDk1dDJnNTlMa1RzSTFlR0hpWjJEc2gtSjhab1JnYlZKZXpqdUJaQzk5VlJ5Q3pfY3Z6cjl1bERvNWU3TGlLS2tzN0t0S0RRZ3diMWVWSEgwWW13?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-05-12",
+          "headline": "Bullish on Expeditors International of Washington Inc. - The Globe and Mail",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.041666666666666664,
+          "source": "The Globe and Mail",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlo1RjY4V2pHTkxfbjJnR0xVTEJWXy1FZGxuaExmV1RiNmVnZS0yN2dRbzdVaDlFSWZDQ2dNaUVtVno1WDVWSzNuLTNHQm5HdVNKWTNoc2FxNUZVSjBVczFNdUpHV05XUm1OVjJzR1l4eEhUSEtRSUNVcEZhNDFmTkdsMUFTdG9OcUdhRDNiaHhzV2RqbUV3WWE0eUQ0dGQ0S1FnS1VSOHpmblZBRFdrWGhvMHd5dmp4OFBNOFNn?oc=5\" target=\"_blank\">Bullish on Expeditors International of Washington Inc.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlo1RjY4V2pHTkxfbjJnR0xVTEJWXy1FZGxuaExmV1RiNmVnZS0yN2dRbzdVaDlFSWZDQ2dNaUVtVno1WDVWSzNuLTNHQm5HdVNKWTNoc2FxNUZVSjBVczFNdUpHV05XUm1OVjJzR1l4eEhUSEtRSUNVcEZhNDFmTkdsMUFTdG9OcUdhRDNiaHhzV2RqbUV3WWE0eUQ0dGQ0S1FnS1VSOHpmblZBRFdrWGhvMHd5dmp4OFBNOFNn?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 4
+    },
+    "sentiment": {
+      "days_sampled": 9,
+      "delta": 0.014316837846249611,
+      "prior_mean": 0.023809523809523808,
+      "recent_mean": 0.03812636165577342
+    },
+    "technical": {
+      "atr14": 3.61520855531106,
+      "close": 163.44,
+      "close_vs_ema200_pct": 14.08892181165886,
+      "close_vs_ema20_pct": 3.5809156677026346,
+      "close_vs_ema50_pct": 6.330089884108506,
+      "close_vs_hh20_pct": 0.20846106683016763,
+      "ema20": 157.789684466906,
+      "ema200": 143.256678566751,
+      "ema50": 153.710017717597,
+      "entry_ready": false,
+      "hh20_prev": 163.1,
+      "selection_bucket": "candidate",
+      "vol_anom": 2.00194458067043
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 7,
+    "effective_adverse_effects": 7,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "industrials",
+      "shipping"
+    ],
+    "industry": "Integrated Freight & Logistics",
+    "sector": "Industrials",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 12 stock-specific articles into 4 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 7 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "conflicting"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-09: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): U.S. stock futures rise as chip rebound lifts S&P 500; South Korea's Kospi jumps 8%: Live updates - CNBC."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-09: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Kim Jong-un\u2019s Triumph - The New York Times."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (163.10), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 2.00, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-07: Does Strong Q1 EPS Beat And Buybacks Change The Bull Case For Expeditors (EXPD)? - Yahoo Finance."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-05: A Look At Expeditors International (EXPD) Valuation After Its Q1 2026 Earnings Beat And Share Buybacks - simplywall.st."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 163.10 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-06-09: U.S. stock futures rise as chip rebound lifts S&P 500; South Korea's Kospi jumps 8%: Live updates - CNBC."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-06-09: Kim Jong-un\u2019s Triumph - The New York Times."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.21
+      },
+      {
+        "label": "Volume confirmation is supportive",
+        "points": 6,
+        "value": 2.0
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 3.58
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 6.33
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 14.09
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 4
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 7
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 60
+  },
+  "sources": [
+    {
+      "published_at": "2026-06-09",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-06-09_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-06-09",
+      "publisher": "Intellectia AI",
+      "title": "EXPD Technical Analysis & Stock Price Forecast - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HQ3ZYZnhDb3hWdnZha2tlUkxoU2lUMkl2TU9sX2dIVEdsWUY5SFc2LVlhZjJkQWZkZllNWHZLR2pyNFFLX0U1Nzg4VWJTVTB6T1RqREJJZnlXZw?oc=5"
+    },
+    {
+      "published_at": "2026-06-07",
+      "publisher": "GuruFocus",
+      "title": "SW Investment Management LLC's Expeditors International of Washington Inc(EXPD) Holding History - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVBrT2JGYk1hUUVYY2JOcFF1RXFxaFhwN21mSlRMVGlud2ZwbEJwS3pWWnJXcHpmbG5rVl95ZFc4b1BOTmMyNEZuVWx2dEhKdkJ3c1BITTBsVTJ2SkpfMDQxMmV0b2Rib3FVMEE5azFQcWVrVFIzN1VZSGhhVjFDeVJPWGVlT2c?oc=5"
+    },
+    {
+      "published_at": "2026-06-07",
+      "publisher": "Yahoo Finance",
+      "title": "Does Strong Q1 EPS Beat And Buybacks Change The Bull Case For Expeditors (EXPD)? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTY4ektjR2Y3MUlsVFBFaDg3QlBUcjJjRDc2TWR6Y3U3ZHJrSXJET3lLYm1uTDhWbFJEQXh2WFFSZmdtYnRCWGc1QllUOEtLeFFWTG8zd2Z5TzlnbWUzRHk5UEd3WExLOTlubkRhVjlLejNhX3dvX0lSblVWZlAzNG1Hb3pKXzlidGVZOWJVZ01Kdw?oc=5"
+    },
+    {
+      "published_at": "2026-06-05",
+      "publisher": "simplywall.st",
+      "title": "A Look At Expeditors International (EXPD) Valuation After Its Q1 2026 Earnings Beat And Share Buybacks - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVR1QjRib2dNTlQyZnpDWEE4QlE1cUx6X0NnT3BHM1JMdThET3lWeVdwYWdpazR3T1l2dG9HY1MwbXZqWV9Rc3pEamVfLVk3QmhteWU3QUpiam0xMFRZWHRkR1RqT3RMMmx6Um5LZzl3d0RSY3ZhdFBwaWlNZ1Bva2Y2VkVsYXRqWXp2LXl6Mm85XzdMa3JHa3lqWHR0Z2RFZmhoZWk5Qkg4dm42YmFKRzJjM2RubG9PMTA1VUlpcjBwNVVjWU9JV05FbURHang5VHZBQ3pndzBLa01iUWZwRVNPM1kwT0xyQ1FQRi1WQnBoQdIB9wFBVV95cUxNUnl4VGFvNW9JYTFZTWowN1h3akRXRlNrcE1STUN3cVBybThiMW9Ba0VaR3dQVTVzQVZPMWw4NG5lb1l0WWRVUG1vU05CODd2WDdrc3YtV0VsWk1BcXBqR0tvbktscVIxeWZjdUhlZnplSFRUVi1EU3JsOUlfVjNvTnd3N200MExoQXRpb1lOaDhxWFd1U3FwcmJNMFVEdzE5SmRSMDNYdXl0Smw3bzI0Ymh2cUVfbDRqUkNvMTRIT3J5OWE4cGYtd01wVXQzbWpDaTJGZlIya1BHT3hPNVY1dGpLb2x5dnJucmVqbHhfR3ZzdF9kaW5v?oc=5"
+    },
+    {
+      "published_at": "2026-05-31",
+      "publisher": "24/7 Wall St.",
+      "title": "EXPD Stock Price Prediction 2025-2026 | Expeditors International of Washington, Inc. Forecast - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1SkI0Qll3SVhxdHkyMTJfdDI0VDhRNDVqeUZFelYzX3REY1lBcEJ4dHJ6T2JDYkdpMEg4cGJ4RHZFb2ZpamRsVGFROUlzczZPQzZjZDRPVmNwY3hMRkM3NUh3alo?oc=5"
+    },
+    {
+      "published_at": "2026-05-31",
+      "publisher": "marketscreener.com",
+      "title": "Expeditors International of Washington Inc.: - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sUkM5clBSVFE0Y19nQlZIYVNKUHl2cTd0XzAzQW9iZGpWNVBnaUVlWEd4MjZfcU01Mk1NNjNSb2Z2MndGTjFOMXF6WkM3VU10RTFwSktvblQ4WTZScThfa3VyQ3lsM21QcjE3aVZmbHF1aXM?oc=5"
+    },
+    {
+      "published_at": "2026-05-23",
+      "publisher": "Yahoo Finance",
+      "title": "Is It Too Late To Consider Expeditors International of Washington (EXPD) After A 43% One-Year Rally? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1hFV0RxUDY3MWVXalBPOFBsY2tDcEVUbmVUUlNkd194NFVtTlJYd3hGYjNfTXJvcnpzcHdXcUkyeF9Ea1dUZVFNT3FCTkhEUWxUREpSMDR6N1d1ajE3RG9xSzFjNnc3MXdJNVVPT2QxX3NEcVRER2tibGxUU2RlLXFVeXh3M0VObHRjYXg1Z1AtMDUtZUd3SVNSal81NkltVlREQVFObmdBN253cUNJUHNNZw?oc=5"
+    }
+  ],
+  "summary": "EXPD scores 60/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 4 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 7 adverse effects.",
+  "symbol": "EXPD"
+}

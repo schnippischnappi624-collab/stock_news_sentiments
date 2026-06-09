@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-09T09:15:41.395655+00:00",
+  "industry": "Integrated Freight & Logistics",
+  "long_name": "Expeditors International of Washington, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "EXPD",
+  "quote_type": "EQUITY",
+  "requested_symbol": "EXPD",
+  "sector": "Industrials",
+  "short_name": "Expeditors International of Was",
+  "symbol": "EXPD"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-09T09:15:41.395655+00:00",
+  "industry": "Financial Conglomerates",
+  "long_name": "Voya Financial, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "VOYA",
+  "quote_type": "EQUITY",
+  "requested_symbol": "VOYA",
+  "sector": "Financial Services",
+  "short_name": "Voya Financial, Inc.",
+  "symbol": "VOYA"
+}

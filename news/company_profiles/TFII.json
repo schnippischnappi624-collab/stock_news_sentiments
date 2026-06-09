@@ -1,0 +1,14 @@
+{
+  "country": "Canada",
+  "exchange": "NYQ",
+  "fetched_at_utc": "2026-06-09T09:15:41.395655+00:00",
+  "industry": "Trucking",
+  "long_name": "TFI International Inc.",
+  "provider": "yfinance",
+  "query_symbol": "TFII",
+  "quote_type": "EQUITY",
+  "requested_symbol": "TFII",
+  "sector": "Industrials",
+  "short_name": "TFI International Inc.",
+  "symbol": "TFII"
+}
