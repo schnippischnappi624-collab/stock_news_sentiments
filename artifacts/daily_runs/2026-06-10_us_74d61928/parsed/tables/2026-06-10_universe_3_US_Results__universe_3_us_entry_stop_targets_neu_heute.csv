@@ -1,0 +1,2 @@
+asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
+20260608,US,IVT,Inventrust Properties Corp,USD,USA,34.28,2707832.0,4.84948949598625,33.79,0.681782845266531,1.99,33.79,32.7673,1.0227,34.8127,35.8353,36.858,7.25,0.75,,250.0,,,,
