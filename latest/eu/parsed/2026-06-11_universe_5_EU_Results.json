@@ -1,0 +1,14 @@
+{
+  "feed": {
+    "feed_date": "2026-06-11",
+    "filename": "2026-06-11_universe_5_EU_Results.txt",
+    "kind": "Results",
+    "region": "EU",
+    "universe": "5",
+    "url": "https://stock.sdc-fried.de/data/2026-06-11_universe_5_EU_Results.txt"
+  },
+  "run_date": "2026-06-11",
+  "table_count": 0,
+  "tables": [],
+  "timezone": null
+}
