@@ -3,7 +3,7 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-06-10, 2026-06-11, 2026-06-13, 2026-06-14`
+- Feed dates: `2026-06-10, 2026-06-11, 2026-06-14`
 - Symbols analyzed: `0`
 
 Quick links:
@@ -35,9 +35,9 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-06-13_us_fb44f154`
-- Prior regional run: `2026-06-12_us_14527331`
-- Feed dates: `2026-06-10, 2026-06-13`
+- Run ID: `2026-06-14_us_91aa7297`
+- Prior regional run: `2026-06-13_us_fb44f154`
+- Feed dates: `2026-06-10, 2026-06-14`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `0` of `0`
