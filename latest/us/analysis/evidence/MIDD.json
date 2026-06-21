@@ -1,0 +1,973 @@
+{
+  "analysis_date": "2026-06-21",
+  "analysis_error": null,
+  "analysis_mode": "python",
+  "breakout_stance": {
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 63,
+    "thesis": "The setup is actionable only while the breakout level continues to hold and recent constructive signals, including the broader market overlay when relevant, keep getting follow-through."
+  },
+  "catalysts": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-17: Middleby Corp (MIDD) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey."
+    }
+  ],
+  "company_name": "Middleby Corp",
+  "coverage": {
+    "market_articles": 20,
+    "market_overlay_weight": 1.0,
+    "quality": "strong",
+    "stock_articles": 15
+  },
+  "evidence": {
+    "market": {
+      "adverse_effect_count": 7,
+      "article_count": 20,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Shop the Top 25+ Amazon Device Prime Day Deals Now With Savings on Ring, Kindle and More - CNET",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNET",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkdUUkFWUU5tdy1mQS1PZWhnQ0N3NjgtUUNJOWM1VTRjNE1ZOXdRaWZ1Mk1oZjdjVXhMVkdCamNNbFFQQmRpSFppQWQyd24yQVozaW96NHV6WGRfN2RjeXpVN1lVNXFqRDlibUtkaWVNbkhvMXQ5UkZxUFByNUp2MzUzVDBoQQ?oc=5\" target=\"_blank\">Shop the Top 25+ Amazon Device Prime Day Deals Now With Savings on Ring, Kindle and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0dvTzRqWnV0dHVaWkxwN0tDLUdHMW9DMDRWMkRLRnBPN0pTZWNkNnA5ZHJEenJnSFpuanV2WEprUmYxOU5VSF9jd09PSk9oak52VlM1MUhCRHpfeGdyZlZibUhNdlF0Q05SU1QtRVBjOTd4X1FNem9vWENyLUFod3d2cDVHaGM?oc=5\" target=\"_blank\">Amazon Prime Day is just days away. I found the 46 best deals worth shopping early</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxQZ0JmVGMzLWxGeEV5a2IwWDFOZjFTeHRsMTlHVHloSGlhNzdLdkdLMUJvaS1vbDlHY1FqV3Bhc2pXRU42QUlaSU40ampTeGFZZVJKVHRLSW1Ta01zVTEyZk5tZ2ctZjRFUWJPY1BUTXVRMG5IX0pVYXA5VGRFbUJtMm5jakxtTGViclJrRWZhNXlKUlZTWHhSNzBURzFkd0hvTnVpT01iSlZkWU45MUx3OHpJR0xWU3NXOU5NSDV3Ry03UjZ4MTY5Ql9qemFibUlCR2xveFpMSDV3ZkYwRzVFcElXS01CQjNPYU1Jc2FTUkFCVjNqOWtlTWFtaU1lR2otd2tTVWRxM1h3bTR6Wkt6Vk5qMG83ckozaW9rMlRsVk5kdHZJbDV5RURuSTFXU1daSllXYy1SZWhDUQ?oc=5\" target=\"_blank\">Amazon Prime Day 2026: The best early deals worth shopping from Apple, Keurig, Hanes, Shark and more, plus everything we know about the epic summer sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5KN3dwZWxORjNNazQ5R3VOZ1NlZlJrbXdyOVdrdjI3dkVTdFVpNUgwak8yOUE3em83a1Q2R0IwTTBJaUlWc3RjREViRW9tT0piOU5XSHdLSjN1dW1aU1QxWUVuazNLZHptNHRhS1JBV3ZPd2VRUEtN?oc=5\" target=\"_blank\">Prime Day 2026: The biggest deals to add to your wish list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2NyanRSMHE0UzJRMkcyU09nOWNjQ3RTcTdiTGZlTlo0R3pVXzFCR19pOXAwQWhGS05KWGV6SmNkS3dDMnEyQlgtUkt2RWdrRVdab1I4ZnNHN1Z3Q25ST3ZGMkk2blhnRnBRMFhjQTJCbXNKVXhrbGEwSXRqN2lXa00xdllYNzZWYnc?oc=5\" target=\"_blank\">Amazon Prime Day Kicked Off Early! These 55 Impressive Deals on Travel Essentials Start at $6\u2014Up to 85% Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel + Leisure</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkdUUkFWUU5tdy1mQS1PZWhnQ0N3NjgtUUNJOWM1VTRjNE1ZOXdRaWZ1Mk1oZjdjVXhMVkdCamNNbFFQQmRpSFppQWQyd24yQVozaW96NHV6WGRfN2RjeXpVN1lVNXFqRDlibUtkaWVNbkhvMXQ5UkZxUFByNUp2MzUzVDBoQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Israeli attacks kill dozens in Lebanon as US, Iran to hold talks on truce - Al Jazeera",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Al Jazeera",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDl2OG5XVG5xYXVhY2xOd2I3QXV3T2d0dDVGOTdZNk1NMDRVUFJMX2FFVjdrNkVkRzhOYURfS3ppUF9rLVZ2SDM5UU41Yk1HZWhWX0hvbFlpVUlBdjNmbE83ZmVLYzdfUXc2Q1FqMUFnaEhMaFNDR3JnUlJ1SjBpeFNkVTN2V215VlZCT2piTlRqZU82ZnB4dVlfTnBpS3k5UEZpajEtczg1Nkw1VFNQbk1jU1bSAboBQVVfeXFMTmx0dHpURVpIa0lJU1N1U01wMlBTUmFuamFZTTZPWEQyamhsdy1vTHlGTmxxTDRJYmFDN1hIVHE0Tm1HbmRUQUM5MUNiNG5sTFJhWE9vUzFnRHdicnAzN0RuNksxNkp6WjFOTm9wMkxrUkdQbTFNYnRKN00zblU0U3d0bmU3Y3JCbm5vVkdDcWdkWGt2X1RzSjZRWkw3QnJ1Mm1nb2xNMUhHdi1NSkhGbHhzSUpkc20wU3pn?oc=5\" target=\"_blank\">Israeli attacks kill dozens in Lebanon as US, Iran to hold talks on truce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2VhZ1VFZEtWUThOS3ZIcVBVWEF2alF5S2M3NXdvSGVZYUZtbUtvSVhXWnpLanl1T0p6aXNnUGV2amU0SWE4QWNXWHZqZjJtak9Ia19WTHRjQXoxYWtCQjZ3Vk1WVkdleEFxYXNFRVRKYWdsVWFxd1BtNC0zQXVIajJLa0JKZlZPOThqWlN2Q2tVWEt0LTU5Mg?oc=5\" target=\"_blank\">Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5\" target=\"_blank\">Israeli strikes kill at least 20 in Lebanon hours after ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2Zwa3hvcHVfWVpmSXR0ak8yVEwyaXFtTUxFVGdDd1Jyc0ZWel9lelJubVlnbmtCYVc3VjJXOGNtdkJlVUF1S2VqbVBGTXczSnFCNURyWDFfX2hzS3BwSVdXeWJsY3ZwQUQyR3lKb0FVNzl3TWFkN3MwbVlFZjc0NjczZ1Bya0M4LXBjU1VyRXlTR25Xb20za29iQ0hxN1JyNXYzN1UwN3l4NVBaQ0QycEpWV3TSAboBQVVfeXFMTk9XQVhKaDIwazhXak53NzRYcjFkYld4RVlsNXVwd0JQOUFUU05PNWtkblpPRGZIcTlMbjlBa2t2a25WQzlEbjU2MmlmX2s3YzBNWHlZT0FJYy02b19DSDJzVm13c1h4YkFfbFcyaWdGdzdud3F2eDlZVF9ITG50OUJOQ1FPa2ZEVnF3TEhBTWFtcVdTUTlrajQ3aFdVNWREUlJ3bHJsbXhoUTZDcUFpTVQyanNEalJQRlNR?oc=5\" target=\"_blank\">IDF soldier killed, 13 injured in overnight Hezbollah attack in southern Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1PSXVXRXZUTlpjSUVHajZWbVlEdGJwSVZmWkp0cVRlWEQ2alZlMDZQeXVud0xCbFVTWXVvb2xlSVp2UkpMbjVJSE12ejhYYTEyYWFTbkx3LVlsTVhIWk9wSVNtUTBDUzFPRTc5eDRB?oc=5\" target=\"_blank\">IDF soldiers pin dozens of Hezbollah terrorists in secret tunnel base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDl2OG5XVG5xYXVhY2xOd2I3QXV3T2d0dDVGOTdZNk1NMDRVUFJMX2FFVjdrNkVkRzhOYURfS3ppUF9rLVZ2SDM5UU41Yk1HZWhWX0hvbFlpVUlBdjNmbE83ZmVLYzdfUXc2Q1FqMUFnaEhMaFNDR3JnUlJ1SjBpeFNkVTN2V215VlZCT2piTlRqZU82ZnB4dVlfTnBpS3k5UEZpajEtczg1Nkw1VFNQbk1jU1bSAboBQVVfeXFMTmx0dHpURVpIa0lJU1N1U01wMlBTUmFuamFZTTZPWEQyamhsdy1vTHlGTmxxTDRJYmFDN1hIVHE0Tm1HbmRUQUM5MUNiNG5sTFJhWE9vUzFnRHdicnAzN0RuNksxNkp6WjFOTm9wMkxrUkdQbTFNYnRKN00zblU0U3d0bmU3Y3JCbm5vVkdDcWdkWGt2X1RzSjZRWkw3QnJ1Mm1nb2xNMUhHdi1NSkhGbHhzSUpkc20wU3pn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Fires Reported at Crimean Ports, Chonhar Bridge, and Air Defense Sites Following Drone Strikes - Kyiv Post",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Shipping disruption / freight stress",
+              "supportive_exposures": [],
+              "theme_id": "shipping_disruption"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.010526315789473684,
+          "source": "Kyiv Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BcEJIaUdRZnlrb1Y1M0dJS29CRGdkNDdOSGlBNFdCRXFUQkF6dlF4ZWFvbGFEallzcjNtR3dUdUluQ3ZQNlQ4ai15cw?oc=5\" target=\"_blank\">Fires Reported at Crimean Ports, Chonhar Bridge, and Air Defense Sites Following Drone Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONTBaLVdKYVBOYUJaQzY1SXFDNG1sUm9fYVAtRTNpcGRxZGRpWWs2WEIySGxnREx5VFhHOE9SSk9JRG04TWUtSHB2UEdwRFVLa296TkRlbGlnMk9BZ2luUGxrWmNEVWpNZUl2eHNWSXZVS2hBbUo0eVlWNkRCbjlqb3d4QUtDVGpCZ2JaLVBsSGdJMkVZb0ppYjc0cXBXbzNIZ2p2NUlEaw?oc=5\" target=\"_blank\">Russian Offensive Campaign Assessment, June 20, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institute for the Study of War</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2RYR01LdV9OcVpmMDdEeTNuNkpTVUJVVWdkTGllNVRjLWZHZHFkMWFWNi0wM1ZVVlI1SXlCMzJXeUVpbldPVkRzM1VMZ1RvSXN4Rk5PT295UmhTanFfdjFSNGYyaDJiWUFUWVdRb0pabHRidER2NTNNUEZXWUF5QzQ0blh2TFZwUF91NWQ3cGhvejA?oc=5\" target=\"_blank\">Sending Fuel Trucks Up in Flames, Ukraine Tries to Cut Off Crimea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2VYY3VxbU00NXR3R0xtZFBEdXdGN3dyclFTTXd6UXZKd09HMVpoU1VwOVJwLVFuM090TUxIVmJVNkM2U2hjV3Uzb04xejhpbXRMWGNHd016eFVlMWV1ZHIyM0VSdzVBUFg0SXV5ZmpfSWVvcEFOVzA0R3plYkNVTUNGaGJfMGoxbUtaVVladFk?oc=5\" target=\"_blank\">Oil terminal, port infrastructure reportedly set ablaze on both sides of Kerch Strait following Ukrainian attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kyiv Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeU0wazBqQzRWX2pxd3ZhYmZTSlhUWW9LejVwSGU3M2tKbDR0WUhLRXhURUQ0c3JUSnFVakJia2dZb2VUb215S1FhZFozQk9VbWQ0bzRHWDRhY2NOY0kweU4xOWVDdmQ3My0xQjZFQks1bi01Nm1nRFhfajXSAXxBVV95cUxQNmJRbVRnUHk0Q3FVWG9VMTh0bG1qaldydDNIa3lzNVN1T3B1ZHhKcUphVkxDbHRrSjA5bjZLekFCekdGbDhjc01JZ2YzdGt6RDB2VGNOdEZjMGZORXRjdXNPUFIyVjlQZG8xTW5jMThpMExmR29JXzN4VS0w?oc=5\" target=\"_blank\">Ukraine hits Russia-controlled Crimea in deadly drone attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BcEJIaUdRZnlrb1Y1M0dJS29CRGdkNDdOSGlBNFdCRXFUQkF6dlF4ZWFvbGFEallzcjNtR3dUdUluQ3ZQNlQ4ai15cw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Vance travels to Switzerland for nuclear talks with Iran - Axios",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Axios",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBnckVEWGdpeEMwTVRqeXdqaHpJNjBzOVdoLWU2VV9WM1JXcVVJM2F3VFBsX0p6NndwQmx3MFNzY1pTaGRRZGZFblRudy1HbHR1YzhUVXZDUnM5SkRZQTkwZmRVRm5ONHE5UklxY3JR?oc=5\" target=\"_blank\">Vance travels to Switzerland for nuclear talks with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG5XRXhqYllSMDk1cko0aTRtX2dLWTFEVjMxYjhBVUh0WVZueEN4NEtLMUowNkVwNE1SRHFEUE5PMUhVY2o2MGJUbjEwMTlUalZrVzQtOUdxZG96YXFjc1c4LUFnaGtiMDFIeVdEaThKakJsdEJiVXZaX3ZHMFNDRk5R?oc=5\" target=\"_blank\">Vance arrives in Switzerland as fighting in Lebanon threatens to derail talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FjZXl6NnNTa3N4ZndtVW8xTnY3WFl2ekNjbTJzZGRGMnBLZUhzaTNUWk01QTRSQXgwTmVRakdybFhjdmt5WlpDYmxzZ1QtR3ZhZHV5YmlMOXBya3lTZ0VvY2twVWNyTlhhdUN2VWp2RXlNbTNoYUU2Ml9vX25DWDFRZkpwOFpGOENxY2RxbFPSAZYBQVVfeXFMT1hya0JhY05hOVVuQUpIbFk3T2xscFBsMHJuYjU2V09SQXV1NW04VktLWkZfRGlUYl9JUlRXLWxJUDhYVHBhSHdkdlBLeWI3bUJhQW9ZLWF0T28weW0zSV95dHNlMjY0WldueUxjZW5BTzRidDQ4N1BNQmpBaGFDZ1FwcDc2SVZpNF8xa3NqSUxxT3phQW5B?oc=5\" target=\"_blank\">Vance arrives in Switzerland for US-Iran talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGdIcV9qa0RUb2RlUkV0N3BDejNERmg0Mi00aGhKTUVONnFsUGFrNV9Rd0lmNXdqLUo4WHNGMG9uWVBqYlpRaEtzUlFEZHdLNGhuT1FvVXpCZVVheGlmUi1rOXp4UGc1UkkxYi1MSWxhVkE4cmJYcWRYd3llQXZmUmFrVTBkSkxiYTQ3dC1jQXRRbVdmeHJTQXI1OUUzREVBVEJrMlliSWxOZUdaUWtzYVZNaw?oc=5\" target=\"_blank\">US-Iran Talks Set to Open as Vance Arrives in Switzerland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZOHMzZVd1RnV2YjY1RW11bV9DdHg5aWFkdzVWTHhWdFBZM2o3S3ktdzJ1VnRCSHEydmN4d3Jqc3NXZTNWdnFzcG9FVEFuaFNxajNIbFlnVjVyazBMYTdROVY5VU1TdDdiNV9JR0dzNmN2bTBpeTY2SHl30gF8QVVfeXFMT2pGRTFIcERkdDMtUnVyR2piRVlWYktNU2JpNThHMjJlVkJfV2Q2MVlQVWx5eDc1cGRQLWJ1VzRNLUswSC1lYmwzcGlnMmNmZTVEakpYYV9GNXVQU1RVQ0hBRXNCOHdpS0lla1RVV3Q0SlQ0OXRMTUdfdlVNSg?oc=5\" target=\"_blank\">Delegations Gather For US-Iran Summit Amid Fragile Regional Truce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Free Europe/Radio Liberty</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnckVEWGdpeEMwTVRqeXdqaHpJNjBzOVdoLWU2VV9WM1JXcVVJM2F3VFBsX0p6NndwQmx3MFNzY1pTaGRRZGZFblRudy1HbHR1YzhUVXZDUnM5SkRZQTkwZmRVRm5ONHE5UklxY3JR?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Luxury Kushner Project Collides With Albanian Discontent - The New York Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The New York Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE43N3BLeW42TWVnY2JkaUVWSHFKVTBjQU8tVzZ1b0xKLXNhRjlwV3JqaDgzT0dNQ3R4YnAyZlRxdjlmOEs1djJvU3R6clZhaHNWN0hfMmFrWkIxUTNMSjVZa3RWTXc0UzVRb3hUWElqRGtqZkR2eGExbVM4ZmxfZHRIc2tkdkV6OUszNFNn?oc=5\" target=\"_blank\">Luxury Kushner Project Collides With Albanian Discontent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXhnaW9sWmlwa2FFelBYWGRIVDJEWWdST3B5VUNoOFVPZmdzU3RNQU5HRU1SamhiZlE2clB6Sko5VV9GLVVBMVdPV1poOVc3cFY2ZUZIZ0N3aHRHTnJZdHpQM3M0QndULWY0empsYXY5V2kyOF8zNkdYcnZ5cWdObDZ3N2NWVGdUbkpZcWZzWk1mWTVtX0dzOHB6OERrVzdtUDRocA?oc=5\" target=\"_blank\">Albania\u2019s flamingo protests target Donald Trump\u2019s son-in-law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVkUxdS1QTTE3dlpuVWJoa0pGc2tBUDRGNFBzNDJwSEJZZ1E3dGJtdWRjZ2FuV3A3ZTZtOVFaTjZsZm1nU3pPRGd1dURLQ2dHUUo0czdZYkRBbUZLU3ZxTEhkbVh5bEFLTVBITm56QV9kLURadmw3QWlpRXAtdV9XZ3oxd2xEd2s0WlpLdXFCODd6T3Y5TG5scEZURXM3a2FURHlOYTlkQnZGbTRaTmRfRjZGYWZud1hBdzk2UUpkVnBESG8xbkE?oc=5\" target=\"_blank\">A controversial resort project in Albania linked to Jared Kushner and Ivanka Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnJxb3hQQ3VRWUlfN3NaWXBPelFweHZROV9QM09QaHBKcjlXbmVKcWs1eV9GNjYyREg0OU9NZVQ4aUJpZG9EOTE5TDJuYXREcE5oUUVWWTZtLV9ZYlBvSmRCSUZZbURUWTFLbGpPNnR1elQwSHQ3N2NBaEJOMnRkRE04T3p1NERBSUNneUx5RTNiSU9JYm0tWlc1Q2JUMFM4eHp4eElPdEhVV0Z2ZHEwZE5tTEhsZw?oc=5\" target=\"_blank\">Albanian Protesters Demand Premier Quit Over Kushner-Linked Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUU3WWZlaFcxOE1KTU5wX3F5cGZrTlA5dU1sMXNvVXBJMlMySkZIbXdpb3JOTDNFdVFOcGVYTnFEbFM4WERZVWJfTGR3d1pxVUJsTGQwQ0w3Vzd5VlIzcDVzOXdHRWlGejBPQ1NHd2RUMGoxZU9mZFhnQ1l0MzA1TXVUVEY?oc=5\" target=\"_blank\">Tens of thousands of Albanians join \u2018Flamingo Revolution\u2019 protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE43N3BLeW42TWVnY2JkaUVWSHFKVTBjQU8tVzZ1b0xKLXNhRjlwV3JqaDgzT0dNQ3R4YnAyZlRxdjlmOEs1djJvU3R6clZhaHNWN0hfMmFrWkIxUTNMSjVZa3RWTXc0UzVRb3hUWElqRGtqZkR2eGExbVM4ZmxfZHRIc2tkdkV6OUszNFNn?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Workers are emerging as the next big AI logjam - Financial Times",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "Financial Times",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzEwZEk2Y3F1eHlsSjV1dDJjTnFYczRkV0RTYms2MFAtT01Pa09wU2pUc2xFYXhWbHJZVzZORW1meHhvaXQ3VDVFdGNYNkxvQk9YLUNldWpyYXFyb2NzUTJHX3dKYzBYdFp3em1OR1ZLejRVOVBaUzVJbndETXZzdm9nQks?oc=5\" target=\"_blank\">Workers are emerging as the next big AI logjam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXY1bmVYUWVzOHhyQ1lxVzJYX2NwZUhQU2NnWUo1R3l0Z1dVMVFldV9KaS1OVWdGNTRKcklNd2NNV3pJVGZnRUVNSEpfdTNKaTlZZ1l2bDNqVnlnUnlMZGp0Rk9tV1ZxUnFtcDREazdVUEZaOF9wbDFmNjJnTkJnSjZvS1gtZERfS1piWno2V3VoLUZUV05FT3A1N3psQlh0NnhVREJVS2drWXlEOUxFNW9n?oc=5\" target=\"_blank\">AI may threaten some jobs, but skilled trades still have workforce shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1ZmcjhSVUtCY1hIWFR3Sk1FemU4ZnR6SjNDc295Z2FOWjZKM2N3UF9Nc1piMjVhaGhmXzY0bnVTWUZBSWQ4Vy16WXRwV25MYjZSaEFMX3lYcElIWTFjS1dPVVRBTzZSVUdCTHpGNkFvQllteGNrV1ItYlhnOWg5MTlTU1dwekxG?oc=5\" target=\"_blank\">Electricians and plumbers will power the AI race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roll Call</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbU1BYTVSYlNCMmw0UUNrRmNrN3dzZFVmQXJSOVI4dVJlVGk5X3BUbkpNYVZLTjNVOHRNNkxzcUFPWFVHNFptMm11LTBjc3lpbjU0emFGUHV2VTRkM0JfZFdyNFpzeFpCSURON3dRR0lzWnFsWEVFeTNDcmFzY3RSMDdOOEVhOE1VWW90VG44YzdCbldtN2c?oc=5\" target=\"_blank\">AI Boom Is Creating Jobs in the Trades\u2014But Locking Out Junior Workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Memeburn</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2hyeF9HRmRhUGYwdDl4UlBka3lkamxVNTdOQld0aWx4WGRJdGQ0aXJRWHh6cHZSYUNMa2trYm1wUm9HeXRGWnVTOHBneVhkazVwOUx2UnJpai04WEJtVk9JU1VEakVTR0RnTHQxUFRpajdyR1BTMFNKeE5EQWNzRUg4U3JwY2p6eU1IdjhuX1djQjgyRDZnNjBFdC0zS3NWQ1hvVEJiMXljNHhzRDdMdlBR?oc=5\" target=\"_blank\">A New AI Wave Is Supporting The Trades That Build Our World</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzEwZEk2Y3F1eHlsSjV1dDJjTnFYczRkV0RTYms2MFAtT01Pa09wU2pUc2xFYXhWbHJZVzZORW1meHhvaXQ3VDVFdGNYNkxvQk9YLUNldWpyYXFyb2NzUTJHX3dKYzBYdFp3em1OR1ZLejRVOVBaUzVJbndETXZzdm9nQks?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-06-21",
+          "headline": "Polish president strips Zelensky of honor after special forces unit\u2019s renaming - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": -0.012345679012345678,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3VmcFJkSmZSeEZGTTdiWEFfZjdrN1R5ZnBqLVp4d0p3VHRJbkc5UEFfbkJvY2ZuWHBLcW9lR2s4blVKSWhoNzZOMXl0VldnTmNCRHpRa3hyZ1Y1c0FFQzVfQXVnSHN2TkNjN19FQ2ZJYjdmcDNjT3BQYm1EMDJwMDRmdXhSMm43VTBCWE4yVHYtY3ZnVlhoUEdwam1yUzRlMDFVWjc5M1lEZlZJanlTOUdEdlhuRVAzY3BTOF9IcjU?oc=5\" target=\"_blank\">Polish president strips Zelensky of honor after special forces unit\u2019s renaming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDlYOG1YZDB3Vm9YX3d0SWlnMXlvVUN3ZzgwbXpza0RDTUJYT2pHZTktY1J1bjdTVFZ2bHpxczBYdVdZVG93Z1VaVVBJR0pocGJKOHZQZkxFVkNOM09CX3doWTVzOXRTcjhmYzRTM05HT3JKdmI1aFdzOVRzRGNDZHgzVVA?oc=5\" target=\"_blank\">Zelensky returns Poland\u2019s highest honor amid escalating row over nationalist wartime unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3UTBpTnFCRGRMQmlEb0ZYZzBMSVhERE1jaXh2YUxfNmFoYnlJNXgtR1dSeWVKak9XWXdoUGRTNmtJMlA0MXZyX3FwQWtIWkhtay16dm5hdEhzY2t0aWV4aDhRbkzSAXBBVV95cUxPUUowNldraTl6X1c4UGhuWF9sZGtTdTYySEdqZzB1TDV0VjNCRmF5d0poX080aHRUUVhkWHRxRlh4RnFmTldCUjdkVUwxM1Qtd0lCcFJSMGdPQlpPSTRyMDE3cDAyWkszTFJTa2p1SWhw?oc=5\" target=\"_blank\">Over half of Poles believe Zelenskyy has negative attitude towards Poland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XRGs3YVVMUkJKbUl1bjB6WDQyMzdFdXZJYnpfX1MyZ1JlTVhJRmVYaVZOcUpzMjZCeE5LRFMtY1dpZkJkLU5NM2tzZWdWeFJ0XzhWLW1Yd3d6UQ?oc=5\" target=\"_blank\">Zelensky returns highest Polish honour after award stripped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTVWam94X01wYklfbnZoWm5MajlCU1d1V3c3U1RZR0pYT0h4eUtNbVN0SzlZSzc1Y3pGSS14ZHNmR1BYa2dJcnUxSE11Y3RxZUprU0RnZ3ZRWnBVcTZLelZucFBzUGpvRE13aHdveGlFZ0poclJnVW5saXNrZi1FU1pTNjE?oc=5\" target=\"_blank\">Zelenskyy returns Polish state medal in escalating dispute with ally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3VmcFJkSmZSeEZGTTdiWEFfZjdrN1R5ZnBqLVp4d0p3VHRJbkc5UEFfbkJvY2ZuWHBLcW9lR2s4blVKSWhoNzZOMXl0VldnTmNCRHpRa3hyZ1Y1c0FFQzVfQXVnSHN2TkNjN19FQ2ZJYjdmcDNjT3BQYm1EMDJwMDRmdXhSMm43VTBCWE4yVHYtY3ZnVlhoUEdwam1yUzRlMDFVWjc5M1lEZlZJanlTOUdEdlhuRVAzY3BTOF9IcjU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Shop the Top 25+ Amazon Device Prime Day Deals Now With Savings on Ring, Kindle and More - CNET",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "CNET",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkdUUkFWUU5tdy1mQS1PZWhnQ0N3NjgtUUNJOWM1VTRjNE1ZOXdRaWZ1Mk1oZjdjVXhMVkdCamNNbFFQQmRpSFppQWQyd24yQVozaW96NHV6WGRfN2RjeXpVN1lVNXFqRDlibUtkaWVNbkhvMXQ5UkZxUFByNUp2MzUzVDBoQQ?oc=5\" target=\"_blank\">Shop the Top 25+ Amazon Device Prime Day Deals Now With Savings on Ring, Kindle and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0dvTzRqWnV0dHVaWkxwN0tDLUdHMW9DMDRWMkRLRnBPN0pTZWNkNnA5ZHJEenJnSFpuanV2WEprUmYxOU5VSF9jd09PSk9oak52VlM1MUhCRHpfeGdyZlZibUhNdlF0Q05SU1QtRVBjOTd4X1FNem9vWENyLUFod3d2cDVHaGM?oc=5\" target=\"_blank\">Amazon Prime Day is just days away. I found the 46 best deals worth shopping early</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxQZ0JmVGMzLWxGeEV5a2IwWDFOZjFTeHRsMTlHVHloSGlhNzdLdkdLMUJvaS1vbDlHY1FqV3Bhc2pXRU42QUlaSU40ampTeGFZZVJKVHRLSW1Ta01zVTEyZk5tZ2ctZjRFUWJPY1BUTXVRMG5IX0pVYXA5VGRFbUJtMm5jakxtTGViclJrRWZhNXlKUlZTWHhSNzBURzFkd0hvTnVpT01iSlZkWU45MUx3OHpJR0xWU3NXOU5NSDV3Ry03UjZ4MTY5Ql9qemFibUlCR2xveFpMSDV3ZkYwRzVFcElXS01CQjNPYU1Jc2FTUkFCVjNqOWtlTWFtaU1lR2otd2tTVWRxM1h3bTR6Wkt6Vk5qMG83ckozaW9rMlRsVk5kdHZJbDV5RURuSTFXU1daSllXYy1SZWhDUQ?oc=5\" target=\"_blank\">Amazon Prime Day 2026: The best early deals worth shopping from Apple, Keurig, Hanes, Shark and more, plus everything we know about the epic summer sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5KN3dwZWxORjNNazQ5R3VOZ1NlZlJrbXdyOVdrdjI3dkVTdFVpNUgwak8yOUE3em83a1Q2R0IwTTBJaUlWc3RjREViRW9tT0piOU5XSHdLSjN1dW1aU1QxWUVuazNLZHptNHRhS1JBV3ZPd2VRUEtN?oc=5\" target=\"_blank\">Prime Day 2026: The biggest deals to add to your wish list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1cyMFdldjRaWl80V0plcmZjREI2WHlTTVIyVWllU2QwbExCVS11NHlibFk3VFFJNHRsZkd6cXlvRkNCWldOTVpzTEd3eG05N0owVFU4Ml9ZZDJ2ZGhGakFTYTEzaHNNUm5LRUVfU1NkWDZIT1QyTXc2YzVrdDhVRg?oc=5\" target=\"_blank\">I Found 25 Early Amazon Prime Day Deals Under $50 to Shop Now\u2014From $7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkdUUkFWUU5tdy1mQS1PZWhnQ0N3NjgtUUNJOWM1VTRjNE1ZOXdRaWZ1Mk1oZjdjVXhMVkdCamNNbFFQQmRpSFppQWQyd24yQVozaW96NHV6WGRfN2RjeXpVN1lVNXFqRDlibUtkaWVNbkhvMXQ5UkZxUFByNUp2MzUzVDBoQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "commercial_followthrough"
+          ],
+          "date": "2026-06-21",
+          "headline": "Iran says it is closing Strait of Hormuz, testing fragile agreement with U.S. - The Washington Post",
+          "kind": "positive",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [
+            "commercial"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Washington Post",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOblNWVkhEOFJzaHNiYUloTjZYcWVuY2pTRkRuMDAwdTBFMV9obDVhdHA5UFNTUS1JVXBybWpXTFhDb1NWSktxeW1RTHdpRV80XzUwb1ZMMklFWWp1dVNmZHBOcEdGQW1YdU45UU5vaGJYNkFZb3FiNEI5amlheWRzejdSNnFJdG9lOEk5S3JRU3dPYlR1MUg1MzkwLXdPakxTenM1ZGkxZVhlMjZrRXF3VUpPdEprUnI4bTVOeA?oc=5\" target=\"_blank\">Iran says it is closing Strait of Hormuz, testing fragile agreement with U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejNxcUIzVlE0WXduRmE3Mlc2ZkktWnI0VHhDdXZuQUZkUUZVYXlEYThyd2VTMG5INWVMdG5MS3dMeFRTenRCM2Z1amI4eTh3a3VudG5lY0c1Y3hiZC13MHVNMU5jdVE1QTdWX051em4wdFpoMzllVm44bFhTU201Z0pBRkV5U0dZZjU3VFhwOExDMWJKeFEwREx1bVFKb2hxY2lKb185RWdULTjSAbABQVVfeXFMT3cteUZrSlRKUkVYTWpsaVdwVXJQM0tDQWtQdzJTZ1g2a2ZDRjBsNjJmRkx5c1E2Y09lQ2FCZzhrM0QweXdjbnhHYnlic0xiRHlxWXAzSldEOU9EQTRYb2t4dklFTHhSVlRQYUZSWlBkRU1kelB0a2pwRXA2RURjZy13V2VMdEk2X2FFUzQ2UVpCWFVqSzQzdmtvdnpyWUZsbmI3VmoybFRIM0lfSnY3LTQ?oc=5\" target=\"_blank\">Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbWVMSllVekxQel9PYkZhWlN0VHNkVGJyMGw4RVFkbk1lZ3ZKem14LWU0eWVn?oc=5\" target=\"_blank\">Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcW5feG5wTTdRUk9nb3JKUWFSaWdTbkZVSHAtaWdoWHU1Ym5iMXdqRldrNi13UEYtTF9OZlF6bUxsbE5pcHFtNDVzU05hbGxBRHpyVEpsalJ2Q3ZVZVlqZGZtNUdTdFhrN1d1b2Q5dWU4SnZuMmJCOU1rNVVqYU5tQ09Yd1lUejFiUWxfbWxLOA?oc=5\" target=\"_blank\">New Strait of Hormuz Closure Announcement Threatens the Slow Uptick in Traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1EQ0xWQ0dVUzM1UjJYOTFlNWtOZWVoSUJwZ3ZCS1BQRDVQSk5pSzB3d0N2SnlhTmxPZkRZbzVSUmlJazZfSVNsSUQwR3B4VFhHOFRYRm1oa0s4Vk5PYk5rMVZtVEc3XzFCUndYOHNsaDFRZw?oc=5\" target=\"_blank\">Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOblNWVkhEOFJzaHNiYUloTjZYcWVuY2pTRkRuMDAwdTBFMV9obDVhdHA5UFNTUS1JVXBybWpXTFhDb1NWSktxeW1RTHdpRV80XzUwb1ZMMklFWWp1dVNmZHBOcEdGQW1YdU45UU5vaGJYNkFZb3FiNEI5amlheWRzejdSNnFJdG9lOEk5S3JRU3dPYlR1MUg1MzkwLXdPakxTenM1ZGkxZVhlMjZrRXF3VUpPdEprUnI4bTVOeA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Ukraine war briefing: Drones strike Russia\u2019s Tyumen oil refinery 2,000km away, says Zelenskyy - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEFaU2UzRklrZ3hoaUptWkp1NU4xcnQzSEJWOUhvM2ZJckoyb0p3MmJIdUFQRG9fdmxBVDZ6WGlnUGlGMl83OWxiUlNXN1JDdVp0QWVURWo5Mlp4ZldzWl9UMkl5OEZJdmIxdVltemtMUVFkZmRQSUxzMmZBeTJRRGFhVHVDVW44VXNoS0xhMUJXSmlLeGU3SXNSVjRtb2lVcjk3M21tYmpEczZBbHRpcWRIV3BHa0htMF9sUTdUVkdvVG1qajhSMldXMFlYSDA?oc=5\" target=\"_blank\">Ukraine war briefing: Drones strike Russia\u2019s Tyumen oil refinery 2,000km away, says Zelenskyy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONmx4a0Q4R21PeTY5THM2Skl2VTRUb1QwTU9UY2xCVUZ4N3ZmTTVQc3VrR2xMSDdTbTlWUEJ4SXN3OG1kWkhjTHNhVkxLaDJ5akVUWjB5QUxBcUMySzVCSXE5cGVwU3pDcFZpdXZTWmszOTNUdGZNSy04SnluT0ktSUx1cnRqdWtJOHhDb3VmUTJKdw?oc=5\" target=\"_blank\">No fuel, no weapons: How Ukraine\u2019s new drone strategy is mauling Russian supply lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE83N2xZam91YkE0ZzNNbVBjS0JOaDZ4UWdGR2dvTlVWTlQzUmxycGo3ZmRNR0N3eElFeG1xWkluX2lORE1QUU1tMVdmNWRIYm1Uejh4UFdWajdXdw?oc=5\" target=\"_blank\">Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXl4dmo0SFdHSkJwbV8wUUZueV9SaW0zdG1IclU3ZThEZEk1emdOUG5hQ3haRGlpMjB6Z3pob3g4MHk3YWtXRzB4dFo4X2djWDdjY3RyRFZXTUtwamdjTXJpelpCRmJ0Yi1YbVhXaUR2NExWV2s4bmtlOXh0Q3NrbzNwT2tPTjhScTVaQnhWSVI?oc=5\" target=\"_blank\">\u2018This War Has Now Reached Your Homes\u2019: Ukraine\u2019s Startling New Message for Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHllblVGa2lYcHdGRjFNWEpUc1k1c3g1cWQ0OUFTWXJRMEV0azBEZlBFcEpOODF4OGVTZVlwOERVWTBrdkNhYW1rbWZ0LWp5Um9mXzZxNC03SVd1NFdoUTVpR3pDd2dRYWtIZFRCa2JNa0lLek9Mc2FjUzYxQS10U1AtMlJrNDdlWW4zZTAyX0FlbkJNUEHSAZYBQVVfeXFMT0JmbWhJbzBHY0JhMVhqN2xDa0tUb3M5ek1rRkVPMEh6MXpaWnE0UGFUeVN4QzJ3UnZBQ05wb2diZEpCTGpsZ2lfcVUzQnkyM3VMaXRQSWFYUkxrM21hb21PQURSQmxLcjdodmZqOXBPTi1VMk9RTzh1VUVHT2ZyY2o4TWRFWWh1T0JDMjctZFNFRVJyM0Vn?oc=5\" target=\"_blank\">Are Ukraine drones really exposing gaps in Russia's defense?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEFaU2UzRklrZ3hoaUptWkp1NU4xcnQzSEJWOUhvM2ZJckoyb0p3MmJIdUFQRG9fdmxBVDZ6WGlnUGlGMl83OWxiUlNXN1JDdVp0QWVURWo5Mlp4ZldzWl9UMkl5OEZJdmIxdVltemtMUVFkZmRQSUxzMmZBeTJRRGFhVHVDVW44VXNoS0xhMUJXSmlLeGU3SXNSVjRtb2lVcjk3M21tYmpEczZBbHRpcWRIV3BHa0htMF9sUTdUVkdvVG1qajhSMldXMFlYSDA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Terror probe into suspected anti-Muslim attacks in Edinburgh - dw.com",
+          "kind": "negative",
+          "matched_effects": [],
+          "negative_tags": [
+            "legal"
+          ],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.029411764705882353,
+          "source": "dw.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWJYdUVNQ3dSaXRNYkw0UVFReGxhS05rS0VNeGNCX1hxbmMyUzc1ZWNIY2hTd2c2TG1QeFBkVG5HMG15QjAzTVRiOE5OQUlIOTdwdFloUkpnSHpzZHBRNUdJdW9wbkdrYXY2QS1WQUpSS1JyYmdhX2NkRk5XZFVBLWMxLU03YlB5UG84Mzl0RFlvTDhidkMxd1VjVdIBmwFBVV95cUxOMEpIRmVKRWRBbHExNFY4ajM2YVhPYkhaX0NXcE1yRVQ3QnlfY29DMWVJME1vTHJGUnI0RXZWeVVJQlBjejVaQ1ZUVEdzbDFMYlpPNUFPSmZGenQ3cDBfenktLWxoM3pMSVdSbmlKNjR1ZUNXVDFhRmtTSGt1VnQyYnpnR1pVQWNKcUl3RjJYQmVQU0FYVnVrSVcxOA?oc=5\" target=\"_blank\">Terror probe into suspected anti-Muslim attacks in Edinburgh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SbFVRLUNGNUd2UWlfM3B6Wkl4YlVIX3NhVFVaUUhDQ29TdmZ1OTgzUVdUdlBnVFlYT0VDQ1U2dVJRWnBaSU80blNnMFY3eTNuTnNzTHhYRExHdw?oc=5\" target=\"_blank\">Man charged after suspected anti-Muslim attacks in Edinburgh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZVR6UWlPQjFnZ0FVLVVEWjUtRk0wdFhadFU3akZfZzhJcFNlZENSZ3h1NmVfNWJKZl9PV2dkblNuV2htTHp0WlZfU0o3aHNraFZSd1FKY0U5c1RybzN0NjJHaUVWalVhdTA0Ui1aZ0hsZGNlNFJ3OWRyMVI5VnFDbVQ2NmNzRFFtTEEwZ0pXa19Fb2RvU095Wm9vNlR6WU5feEU0ZHZlTXlUVkhub0NjNlhiYlBpWFU2TWZpdTRPR1ZBSzV0LUJVUlh4QU8xZVc0RUJGbnlB?oc=5\" target=\"_blank\">Man charged after series of attacks across Edinburgh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWxkSnpIakFERk41bEwtbmM3TGVFVkFpN3BKQ3JOQ2tJcm52dG01OHl3YUNtX2VlR3YtLVBRclVGbW0ySTN2QW9ScG1vSW0tSGpVcXFCbnNWd3BKSmNaLU5hMkh4MzNzckswMEt4TTlhUUNEUDlYX3pYTWhaMm9Uc0ZjUG1KTEo5b2lMdURFYng?oc=5\" target=\"_blank\">Man Arrested in Scotland After Rampage Leaves 5 Hurt, Police Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBteUtoTGdLcmtwd1dKQlJ5M0ZzbWtySlU1VnhGNEZRWmxfdHVGdUtOZzJSTkhjOG1Ua1Q1YTdSWjhzSGdJTDhaNnM3ejEyUGJBS3Y2cXNOLXI1OUdsVzNV?oc=5\" target=\"_blank\">Counter-terror police investigating series of Scotland attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWJYdUVNQ3dSaXRNYkw0UVFReGxhS05rS0VNeGNCX1hxbmMyUzc1ZWNIY2hTd2c2TG1QeFBkVG5HMG15QjAzTVRiOE5OQUlIOTdwdFloUkpnSHpzZHBRNUdJdW9wbkdrYXY2QS1WQUpSS1JyYmdhX2NkRk5XZFVBLWMxLU03YlB5UG84Mzl0RFlvTDhidkMxd1VjVdIBmwFBVV95cUxOMEpIRmVKRWRBbHExNFY4ajM2YVhPYkhaX0NXcE1yRVQ3QnlfY29DMWVJME1vTHJGUnI0RXZWeVVJQlBjejVaQ1ZUVEdzbDFMYlpPNUFPSmZGenQ3cDBfenktLWxoM3pMSVdSbmlKNjR1ZUNXVDFhRmtTSGt1VnQyYnpnR1pVQWNKcUl3RjJYQmVQU0FYVnVrSVcxOA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Ukraine war briefing: Drones strike Russia\u2019s Tyumen oil refinery 2,000km away, says Zelenskyy - The Guardian",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Guardian",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEFaU2UzRklrZ3hoaUptWkp1NU4xcnQzSEJWOUhvM2ZJckoyb0p3MmJIdUFQRG9fdmxBVDZ6WGlnUGlGMl83OWxiUlNXN1JDdVp0QWVURWo5Mlp4ZldzWl9UMkl5OEZJdmIxdVltemtMUVFkZmRQSUxzMmZBeTJRRGFhVHVDVW44VXNoS0xhMUJXSmlLeGU3SXNSVjRtb2lVcjk3M21tYmpEczZBbHRpcWRIV3BHa0htMF9sUTdUVkdvVG1qajhSMldXMFlYSDA?oc=5\" target=\"_blank\">Ukraine war briefing: Drones strike Russia\u2019s Tyumen oil refinery 2,000km away, says Zelenskyy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONmx4a0Q4R21PeTY5THM2Skl2VTRUb1QwTU9UY2xCVUZ4N3ZmTTVQc3VrR2xMSDdTbTlWUEJ4SXN3OG1kWkhjTHNhVkxLaDJ5akVUWjB5QUxBcUMySzVCSXE5cGVwU3pDcFZpdXZTWmszOTNUdGZNSy04SnluT0ktSUx1cnRqdWtJOHhDb3VmUTJKdw?oc=5\" target=\"_blank\">No fuel, no weapons: How Ukraine\u2019s new drone strategy is mauling Russian supply lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE83N2xZam91YkE0ZzNNbVBjS0JOaDZ4UWdGR2dvTlVWTlQzUmxycGo3ZmRNR0N3eElFeG1xWkluX2lORE1QUU1tMVdmNWRIYm1Uejh4UFdWajdXdw?oc=5\" target=\"_blank\">Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHllblVGa2lYcHdGRjFNWEpUc1k1c3g1cWQ0OUFTWXJRMEV0azBEZlBFcEpOODF4OGVTZVlwOERVWTBrdkNhYW1rbWZ0LWp5Um9mXzZxNC03SVd1NFdoUTVpR3pDd2dRYWtIZFRCa2JNa0lLek9Mc2FjUzYxQS10U1AtMlJrNDdlWW4zZTAyX0FlbkJNUEHSAZYBQVVfeXFMT0JmbWhJbzBHY0JhMVhqN2xDa0tUb3M5ek1rRkVPMEh6MXpaWnE0UGFUeVN4QzJ3UnZBQ05wb2diZEpCTGpsZ2lfcVUzQnkyM3VMaXRQSWFYUkxrM21hb21PQURSQmxLcjdodmZqOXBPTi1VMk9RTzh1VUVHT2ZyY2o4TWRFWWh1T0JDMjctZFNFRVJyM0Vn?oc=5\" target=\"_blank\">Are Ukraine drones really exposing gaps in Russia's defense?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXl4dmo0SFdHSkJwbV8wUUZueV9SaW0zdG1IclU3ZThEZEk1emdOUG5hQ3haRGlpMjB6Z3pob3g4MHk3YWtXRzB4dFo4X2djWDdjY3RyRFZXTUtwamdjTXJpelpCRmJ0Yi1YbVhXaUR2NExWV2s4bmtlOXh0Q3NrbzNwT2tPTjhScTVaQnhWSVI?oc=5\" target=\"_blank\">\u2018This War Has Now Reached Your Homes\u2019: Ukraine\u2019s Startling New Message for Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEFaU2UzRklrZ3hoaUptWkp1NU4xcnQzSEJWOUhvM2ZJckoyb0p3MmJIdUFQRG9fdmxBVDZ6WGlnUGlGMl83OWxiUlNXN1JDdVp0QWVURWo5Mlp4ZldzWl9UMkl5OEZJdmIxdVltemtMUVFkZmRQSUxzMmZBeTJRRGFhVHVDVW44VXNoS0xhMUJXSmlLeGU3SXNSVjRtb2lVcjk3M21tYmpEczZBbHRpcWRIV3BHa0htMF9sUTdUVkdvVG1qajhSMldXMFlYSDA?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Democrats thought Fed Chair Kevin Warsh would be a Trump loyalist \u2014 his opening move proves he\u2019s nothing of the sort - New York Post",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "New York Post",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEVMV1pCQk9hZTdrNUVFTTBsNklGN3pOT2ZnRzVfYlVKUEpHa2lwRVU1Z1lraUZnbTUtSWFqOVd6NFhJU0xhZVhhR25qVUdMenljOWQyWHBXTVNueGhpTGhnYWEyUnZWcDdVT3RQRENnSkc2ZklQYVRoTXlWcUpjSVZkVFI5UkdodnhHaUc1S1dCSkZIcFcycW1Iem55NEx3WHFKS2hTWkZiSms2emZHWHVtS0JKWFlFMHFkWk90UQ?oc=5\" target=\"_blank\">Democrats thought Fed Chair Kevin Warsh would be a Trump loyalist \u2014 his opening move proves he\u2019s nothing of the sort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ljMGFXekVSR0hmX1dsNnlQYXFpZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEVMV1pCQk9hZTdrNUVFTTBsNklGN3pOT2ZnRzVfYlVKUEpHa2lwRVU1Z1lraUZnbTUtSWFqOVd6NFhJU0xhZVhhR25qVUdMenljOWQyWHBXTVNueGhpTGhnYWEyUnZWcDdVT3RQRENnSkc2ZklQYVRoTXlWcUpjSVZkVFI5UkdodnhHaUc1S1dCSkZIcFcycW1Iem55NEx3WHFKS2hTWkZiSms2emZHWHVtS0JKWFlFMHFkWk90UQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Century-old bakery chain closing nationwide July 4 - thestreet.com",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "thestreet.com",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0FIbW9SZVVBazI0dmpmUEswbWUwT0o3S28xckk5QjJteVlDQVBRYUh4VUlmcHJDTVRJYWExbVZmRV9jd19hZGtBa09OMjh3MDRqMzc4Um9SeFBLVFdGRlhUSkE1Tm5LVmN2dnk4VlNNRGJnaGVCeGNCUEU3ZEZqVmltRGZtWVpHdzBBUER1N1ljX0llY0pV?oc=5\" target=\"_blank\">Century-old bakery chain closing nationwide July 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFEtMXc4Z2poMWlGTjZlRDAyc21JczEtSm9TdjlDSkJCMVd4MVdPY0lSMmR5UGptZHBuTF9Nam43bE5rZkxIeG1IOFpheDR3SzFBRVhYSzFicFJ5VUg5OWt1cnY4am00NzB2S2ZfbHlJT01pc1lSLXBZTzU5ZnMxdFZlcE15NFlWZmJYdm5tcUlFWUQ1UDQ5d0dn?oc=5\" target=\"_blank\">Schwebel Baking Company will close all operations this summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pittsburgh Post-Gazette</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlM0ZUMta1JEZTd2MG5tNUlGNGRJZl9YYkVXempmTXhsMERZQ09ESnotcW9hVzVia3dBWnJtNEtoZlQxbGkxYkVSWnJXYUhNb0ZiU3Y4NVQ3NDlESHpDR3lRRkNEczZxM3NrMUNFMlhDbGtyTFpLdUVUZmlkbEw4NkJlanp0X2NkdXV4cXJuYjdVY2xBRFJvXzdHY0hMdWpmb3loadIBqgFBVV95cUxPbDd4bmhEeVlwbEZLTWZETmdCZlRzbkhoV0RoTVBSRjIzc1RWNE53MXgwV1hxZnByakdfNTNlNVJnZXNOQUVwUGM2RFE3Zm4wTWw1bkdSNm5IOHUzLTZxMjh3QlU2OXRidENzSEtxdjZ5dHg1cFl2Zy1TT3drdkVqQ3NzalV1MnF2SlNCRXMzcXdzdmFTR2MwVk9TVmZUY1NYeUN1dUlpdDRBZw?oc=5\" target=\"_blank\">After 120 years, locals search for new bread staple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKBN.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPbEQ1QkN1b2VPWE90OTlqbG1QT1JFTy1lLU1FZG1EVjlMaVdrTThOaVRyWGxYVjNmVlVCUHdoVGszcEh3czd1YXlJV1BCUFZ5UUlEWWFtc281Tkx4N0V4QzFGMGtyaDkxMzNNS1VvdnNJd1dCdENyZzhlSkdteEdBd0xkV1pkLWVzTEFEYmlwX3RwZnVRSlBKbmVUOEEwN05YcG4zZm5kX250cEk5bExRUGdabXNTOEt4SjdQZWU4QzNtS3hab1d0RmFfbEk0cHY0a3JSMElZaEhOeXMtNWpMMlRlY1dQRDdMS1RTdEhkWjF5M2V4OEN6SF9Od1ZlR3NMRnc?oc=5\" target=\"_blank\">General Extrusions offering jobs to Schwebel employees following liquidation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFMJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8ta2dIZW5tTUJxM2tJb19BZWtQQzBZdXdBVHJMWHpMWUFDeloyUFJWazdZbDRDT0N1cXB6ZzAtYmFYS0ZOQ3dqN3hNUkktWDZYaGE1dkEyeDVmMXR6WGd5RTRCNVg5ekRwVk1Sa3Z6VmpodE9WX0R2ZFpRMWM?oc=5\" target=\"_blank\">Schwebel Baking Company shutting down after 120 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0FIbW9SZVVBazI0dmpmUEswbWUwT0o3S28xckk5QjJteVlDQVBRYUh4VUlmcHJDTVRJYWExbVZmRV9jd19hZGtBa09OMjh3MDRqMzc4Um9SeFBLVFdGRlhUSkE1Tm5LVmN2dnk4VlNNRGJnaGVCeGNCUEU3ZEZqVmltRGZtWVpHdzBBUER1N1ljX0llY0pV?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Tesla driver says it was on Autopilot before fatal Texas home crash - Electrek",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": -0.009708737864077669,
+          "source": "Electrek",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnhiQjY3VEJNM0ZxLVcxaVhEd2lla3U0UmFvcUQ5MDBiZXNEeS1yM09WaEIxTUMzRnNJc1dxanA3MHo2TXlyY3ByLWRRbDVVc2lQM0xJS0ZIUEo5anZNN3pzNm1UTTZYalVYTEJ1RHpnLUZiMXhtRDEzT0JUNmtscWZBMTVzb1pVa0E?oc=5\" target=\"_blank\">Tesla driver says it was on Autopilot before fatal Texas home crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electrek</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFFDYzFkejR6Qm1Mb25JWk1ScTRaNTl5STQ5VFJ3NGJrcUZRVktNRDZFLVJYeWlLN1N6RUNDSFh6LUZVUmo3bDdxQ0o0Q25ma2pDR0s4WFhGbXB5cS1yRXlHUWZPWUpWOVFFZ2R3ZTlXcF9adEh2TmZ4ekloNl93bEZaR1o0WkhMYnFpRFhuSEROU0ZGdU5XSVZoc0Q0bGlhSVJyQU80WFpyS1N6dUh0UERjVS1jbGcybGNpZlZRRFVjd9IBxwFBVV95cUxQRE90SDJkUTlPNEJXaTlYQlRqQ2NFeXRaWXJ4Vk5MbVdHVVFaeFM5YVFHN2hLY1FiTk9ULUdvWHVvWVlxZFFUQkV6a3BKRTRsWWF6OVRoYTk4Q19qTE05TkNsR2JYekVTZFpVTWlfVUFsWWpxbGd2bUtmVEMtZXpwbEJuSE9KLVpfa0YycndrM0RYWTZCOUgwbjVtaDRWaFNiVEFSQ01oWjVOZ3JzLUVLNUVaMG9pWThPSWhWZGN5OFJmMG5IaXFZ?oc=5\" target=\"_blank\">Woman killed, driver injured after Tesla crashes through Katy-area home, Harris County Sheriff's Office says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC13 Houston</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWdQRzQ3dzl3SXI5aGdCSDlDNS1Wd3F1b2FZVE00ZlNqVGZkZnhVcTQ5THhFSGNRVjRXUXJkT042Uzd3QlVHNWozOVh6R0Yyc1NfMHg4Z19KTnprVXNpNUpQSzZjMnJRbDAwdUdacThJTnNBQ2QtSVJTTkNPTWxadVpJaXRGdFg3LVBtMXlXRlJ5UDZoZDJTNldvVTV4MEHSAaQBQVVfeXFMTjZ0Uy1uZjFTWWQyLVE0T05qWjgzMHpKUzRTMEdXUVZHRFU2VDlYdHpna294M2RrWng2Y0NZTzBYVm5mSEhZM3NKNkw0UUtON1BSdjRRbWhMOE5jU2xjUGFQeXdHdHdJdjBqcHFXTGdWZDllV1ZuTzRab1BHSmE0ajB6ekVPdmREYzVVQkZoR0NnczZITW4zdklkbDFuNjI0OHpNTi0?oc=5\" target=\"_blank\">Tesla allegedly in autopilot mode crashes into Texas house, woman killed: Investigators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTFvaXpSa1REanN0ZkJWLXRMTzZseWJpQnFFemZ0NUpmLTI5SllMNnM3UVVDeXdTYjFFUjlKSW1ocEFtb0ZsbzNWTldZR0hTRmkySkkwdkFHSTNBVUdjaVcxa2VCc3JCNzRDREdncWtJQnpZNC1RMEVNVkNpMW01VmotdFI5dVMzTktuZXcwdk9RWU0w0gGaAUFVX3lxTE1QaDVNQWNxeXBEOXJCeG5VYVdzSVVGZ1E5cDFEMXRld1JtM0p2UW95ck1QZU8wblNzcHRvX1RNdC1jU0N6RVJOV3NReXRyc1RPRGk3ZHNhNGUzLXJob1hWQkNYblluN2xIZDhYblZuV1laNnlfUVRCc1NpRXlEUkdaLWdzbDgwVTFLQ29JZ1piUXU4YTJXT2FiNEE?oc=5\" target=\"_blank\">Katy crash: Tesla crashes into house on Rose Hollow Lane, elderly woman killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 26 Houston</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelU3ZFozdzFSX2o0QTRKQW9OdG13Q19VNV9ydGtoeExaMnhlRGd3dVg1ZkZoZXRHay1nd2swRmtRLXZtZ3hCUnYyNnF3UXRYY3N6aHdGMUNXMDRPSkVFRzlGa0R6TlQ0OUNnODIxNXQ2Zk44ZVZvMV9aaHdwNXlsdk5sVUJFVlRmb2toWngwaWY1MzNjVnhtMkh1cGlORlFRaG0teWxDQ0dESGRJVExVYW5WTG5lc0J3?oc=5\" target=\"_blank\">'Her life was cut very short' | Family mourns grandmother killed after Tesla crashes into Katy-area home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHOU</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnhiQjY3VEJNM0ZxLVcxaVhEd2lla3U0UmFvcUQ5MDBiZXNEeS1yM09WaEIxTUMzRnNJc1dxanA3MHo2TXlyY3ByLWRRbDVVc2lQM0xJS0ZIUEo5anZNN3pzNm1UTTZYalVYTEJ1RHpnLUZiMXhtRDEzT0JUNmtscWZBMTVzb1pVa0E?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "Woman killed, driver injured after Tesla crashes through Katy-area home, Harris County Sheriff's Office says - ABC13 Houston",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "ABC13 Houston",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFFDYzFkejR6Qm1Mb25JWk1ScTRaNTl5STQ5VFJ3NGJrcUZRVktNRDZFLVJYeWlLN1N6RUNDSFh6LUZVUmo3bDdxQ0o0Q25ma2pDR0s4WFhGbXB5cS1yRXlHUWZPWUpWOVFFZ2R3ZTlXcF9adEh2TmZ4ekloNl93bEZaR1o0WkhMYnFpRFhuSEROU0ZGdU5XSVZoc0Q0bGlhSVJyQU80WFpyS1N6dUh0UERjVS1jbGcybGNpZlZRRFVjd9IBxwFBVV95cUxQRE90SDJkUTlPNEJXaTlYQlRqQ2NFeXRaWXJ4Vk5MbVdHVVFaeFM5YVFHN2hLY1FiTk9ULUdvWHVvWVlxZFFUQkV6a3BKRTRsWWF6OVRoYTk4Q19qTE05TkNsR2JYekVTZFpVTWlfVUFsWWpxbGd2bUtmVEMtZXpwbEJuSE9KLVpfa0YycndrM0RYWTZCOUgwbjVtaDRWaFNiVEFSQ01oWjVOZ3JzLUVLNUVaMG9pWThPSWhWZGN5OFJmMG5IaXFZ?oc=5\" target=\"_blank\">Woman killed, driver injured after Tesla crashes through Katy-area home, Harris County Sheriff's Office says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC13 Houston</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVFlVnlqNERHeGJHQnRpNUhNRDhJdEdQNDVOUU9mY3FmQWprX2djekxucW5DLWRVdk1YeUNGS3BSaDhfeElsQllOTGRPSG5EbVI3c3JNZ0tza04xVVJuQkoxLW14dFhhelctUnBLdHQ5U2ZmNDBBZjVUOHN3T25xWnVSbTEyWm5vU0lnZkVMVm8zNFZBWmZiSWpuQTNGbzFQeElOaGRvZXVaVzAzRzBMV3dxSDhkZ19DdThMYl9PdkdyMGx5RktmZDZR?oc=5\" target=\"_blank\">Tesla allegedly on autopilot crashes into Katy home, killing 76-year-old woman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTFvaXpSa1REanN0ZkJWLXRMTzZseWJpQnFFemZ0NUpmLTI5SllMNnM3UVVDeXdTYjFFUjlKSW1ocEFtb0ZsbzNWTldZR0hTRmkySkkwdkFHSTNBVUdjaVcxa2VCc3JCNzRDREdncWtJQnpZNC1RMEVNVkNpMW01VmotdFI5dVMzTktuZXcwdk9RWU0w0gGaAUFVX3lxTE1QaDVNQWNxeXBEOXJCeG5VYVdzSVVGZ1E5cDFEMXRld1JtM0p2UW95ck1QZU8wblNzcHRvX1RNdC1jU0N6RVJOV3NReXRyc1RPRGk3ZHNhNGUzLXJob1hWQkNYblluN2xIZDhYblZuV1laNnlfUVRCc1NpRXlEUkdaLWdzbDgwVTFLQ29JZ1piUXU4YTJXT2FiNEE?oc=5\" target=\"_blank\">Katy crash: Tesla crashes into house on Rose Hollow Lane, elderly woman killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 26 Houston</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelU3ZFozdzFSX2o0QTRKQW9OdG13Q19VNV9ydGtoeExaMnhlRGd3dVg1ZkZoZXRHay1nd2swRmtRLXZtZ3hCUnYyNnF3UXRYY3N6aHdGMUNXMDRPSkVFRzlGa0R6TlQ0OUNnODIxNXQ2Zk44ZVZvMV9aaHdwNXlsdk5sVUJFVlRmb2toWngwaWY1MzNjVnhtMkh1cGlORlFRaG0teWxDQ0dESGRJVExVYW5WTG5lc0J3?oc=5\" target=\"_blank\">Family mourns grandmother killed after Tesla crashes into Katy-area home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHOU</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnhiQjY3VEJNM0ZxLVcxaVhEd2lla3U0UmFvcUQ5MDBiZXNEeS1yM09WaEIxTUMzRnNJc1dxanA3MHo2TXlyY3ByLWRRbDVVc2lQM0xJS0ZIUEo5anZNN3pzNm1UTTZYalVYTEJ1RHpnLUZiMXhtRDEzT0JUNmtscWZBMTVzb1pVa0E?oc=5\" target=\"_blank\">Tesla driver says it was on Autopilot before fatal Texas home crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electrek</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFFDYzFkejR6Qm1Mb25JWk1ScTRaNTl5STQ5VFJ3NGJrcUZRVktNRDZFLVJYeWlLN1N6RUNDSFh6LUZVUmo3bDdxQ0o0Q25ma2pDR0s4WFhGbXB5cS1yRXlHUWZPWUpWOVFFZ2R3ZTlXcF9adEh2TmZ4ekloNl93bEZaR1o0WkhMYnFpRFhuSEROU0ZGdU5XSVZoc0Q0bGlhSVJyQU80WFpyS1N6dUh0UERjVS1jbGcybGNpZlZRRFVjd9IBxwFBVV95cUxQRE90SDJkUTlPNEJXaTlYQlRqQ2NFeXRaWXJ4Vk5MbVdHVVFaeFM5YVFHN2hLY1FiTk9ULUdvWHVvWVlxZFFUQkV6a3BKRTRsWWF6OVRoYTk4Q19qTE05TkNsR2JYekVTZFpVTWlfVUFsWWpxbGd2bUtmVEMtZXpwbEJuSE9KLVpfa0YycndrM0RYWTZCOUgwbjVtaDRWaFNiVEFSQ01oWjVOZ3JzLUVLNUVaMG9pWThPSWhWZGN5OFJmMG5IaXFZ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "US disputes Iranian claims about closing Strait of Hormuz as negotiators arrive in Switzerland - The Detroit News",
+          "kind": "neutral",
+          "matched_effects": [
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Middle East conflict / defense tailwind",
+              "supportive_exposures": [],
+              "theme_id": "middle_east_conflict"
+            },
+            {
+              "adverse_exposures": [
+                "industrials"
+              ],
+              "direction": "adverse",
+              "label": "Oil supply shock / energy tailwind",
+              "supportive_exposures": [],
+              "theme_id": "oil_supply_shock"
+            }
+          ],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "The Detroit News",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1cwMldYb3kxY1N1TWtoT25ONDk5Q1Rjb082eUROMUlWMURZT0ZUejk2YV80cmVvREQ0b0ZBY2Y0NU9HRUJjNVU3WDlJMHBVc3hoWjdXbDlTV1dXc09PRm1BZlJTcXE3ZG1VMXZvM3BlaDNHaW1fd2tvSGV5MzA2TlljQ1VtQ0N3YmViWVhiYnVpZ2Z5VGNpSDQ0c2RDZUE1M05uTERMaHFRVEN5T3VETWNiOW5TOWN1NHFTaVd1M19RQQ?oc=5\" target=\"_blank\">US disputes Iranian claims about closing Strait of Hormuz as negotiators arrive in Switzerland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Detroit News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejNxcUIzVlE0WXduRmE3Mlc2ZkktWnI0VHhDdXZuQUZkUUZVYXlEYThyd2VTMG5INWVMdG5MS3dMeFRTenRCM2Z1amI4eTh3a3VudG5lY0c1Y3hiZC13MHVNMU5jdVE1QTdWX051em4wdFpoMzllVm44bFhTU201Z0pBRkV5U0dZZjU3VFhwOExDMWJKeFEwREx1bVFKb2hxY2lKb185RWdULTjSAbABQVVfeXFMT3cteUZrSlRKUkVYTWpsaVdwVXJQM0tDQWtQdzJTZ1g2a2ZDRjBsNjJmRkx5c1E2Y09lQ2FCZzhrM0QweXdjbnhHYnlic0xiRHlxWXAzSldEOU9EQTRYb2t4dklFTHhSVlRQYUZSWlBkRU1kelB0a2pwRXA2RURjZy13V2VMdEk2X2FFUzQ2UVpCWFVqSzQzdmtvdnpyWUZsbmI3VmoybFRIM0lfSnY3LTQ?oc=5\" target=\"_blank\">Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5\" target=\"_blank\">Iran negotiators, Vance head for Switzerland but Lebanon fighting continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1EQ0xWQ0dVUzM1UjJYOTFlNWtOZWVoSUJwZ3ZCS1BQRDVQSk5pSzB3d0N2SnlhTmxPZkRZbzVSUmlJazZfSVNsSUQwR3B4VFhHOFRYRm1oa0s4Vk5PYk5rMVZtVEc3XzFCUndYOHNsaDFRZw?oc=5\" target=\"_blank\">Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcW5feG5wTTdRUk9nb3JKUWFSaWdTbkZVSHAtaWdoWHU1Ym5iMXdqRldrNi13UEYtTF9OZlF6bUxsbE5pcHFtNDVzU05hbGxBRHpyVEpsalJ2Q3ZVZVlqZGZtNUdTdFhrN1d1b2Q5dWU4SnZuMmJCOU1rNVVqYU5tQ09Yd1lUejFiUWxfbWxLOA?oc=5\" target=\"_blank\">New Strait of Hormuz Closure Announcement Threatens the Slow Uptick in Traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1cwMldYb3kxY1N1TWtoT25ONDk5Q1Rjb082eUROMUlWMURZT0ZUejk2YV80cmVvREQ0b0ZBY2Y0NU9HRUJjNVU3WDlJMHBVc3hoWjdXbDlTV1dXc09PRm1BZlJTcXE3ZG1VMXZvM3BlaDNHaW1fd2tvSGV5MzA2TlljQ1VtQ0N3YmViWVhiYnVpZ2Z5VGNpSDQ0c2RDZUE1M05uTERMaHFRVEN5T3VETWNiOW5TOWN1NHFTaVd1M19RQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "product_followthrough"
+          ],
+          "date": "2026-06-21",
+          "headline": "M&M\u2019s to remove artificial dyes, eliminate two iconic colors - NewsNation",
+          "kind": "positive",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [
+            "product"
+          ],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "NewsNation",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUEyREw4ZWlBaXhLWGh6MUVoQkMwVGxVS0lhbk5fZUlrenlrLU1vRkgzclI4VVpkSzdTMkVWRXBuSmpkbDBqSkN4MjJqUlN0bXRIVDZGZktOeFE1Z3Zub0FOS2hPQ1hUdzlJYXlvZGhrZ05uSk5HSlFJLWFIbU5EbVhyRkIyUU1QMk5UZHUzR090YVnSAZgBQVVfeXFMT0E3ZVA1WUpyRjZ1eEp2V0pXT3dsUFo4OE85bzVaM1VZZGNqRjNlaHpPMExiOHg2amJPaW9ZMW11dnN0VkNuWFNtaTZnel9Ga0dWTWZxbzhUeUFaUW53aEZRV05CNlA1b3FuSDRQdWRtb0xVQVdGMVpKSHJGR0E1eFZ4S2d5ZXliNXVmdHVEb1E1dXloWE1Pc0I?oc=5\" target=\"_blank\">M&M\u2019s to remove artificial dyes, eliminate two iconic colors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVW1wN0Z6ZmZkaUdsaVpidlFJQnI2SS0zSGdfZmVIcjlxODRnOGJQY3p2aHlHZENHRVFpbDBLdFh1Nl95b3I3NFpCMFR3bDhJTDd3RHRUSTlsRkNrSWtVbWtFTV83T2NDZ2lvamRNbzlEMXhEQVJDWTRIWVJrRXV2Rk9kWHhUOUpWNEUtUDBUazFmcGJINVd4NXFfNENZaVRhT0dYNHlhalRIeVdxRkFTU0pSd1ZFTkJhR3Juelpnaw?oc=5\" target=\"_blank\">M&M's maker scrapping two iconic colors amid push to remove artificial dyes, reports say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KING5.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHRsOXdPS0M2S2NPWTA5cDR2RjVoZ0p2MUZ5bkFyb3c1QjNMSHNraWFjSkFhVjJmaUpLbHg1MHRFNy1VR1NZRnF3MC1qYkptSDhBR25LX3FrLUo4OFR0Mm41bExMbHB6ZDN0SDRpNndVUkd6dXpiVVRlc1VYcENURlFkOTlZRVBMRXI1UHZnX2liQkYzNTdJ?oc=5\" target=\"_blank\">Exclusive | Mars Is Spending Millions to Give M&M\u2019s a MAHA Makeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkRJRzQ0TDJka083YTllendQcFROS0hCaXlHOFhzUEVvRUpOQ0NIU09RT252WkI5VkFlUUgxRktlNHY4TnZSalIwYXFMclFfRGR0MF9fZXNUNmZyOTU2aGhJLW1CaXo2R3JJei1JVkJQNklyZlhlMzJxN3N5djQ4SzBha3p4WElXRm5HWlZUUXF0YXhqYnfSAZsBQVVfeXFMTmdCUzRnRG42aUhlVWw4VVVweEJWdm9Bd0xxM3NiQmNpUVVjTkRGSDdWQ2l0d0M5UjFFVXQzMG96WTJuXzQ3RDhkZWI3YjlrQXpkQndvVHd2RDA2bWEzZHRURHh2NUc5alhVc1J3Z3p6MUdBRnhiQ0I1VUFJa19RbFVLT0lJN3hNSEdLSEhmSUpBamZHRXhPUmFON1U?oc=5\" target=\"_blank\">M&M's set August launch for dye-free candies, with 2 colors absent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9jYXExLWlNLXBMcE05VEJTTEJsSUs1cV9oNkZUYUFLb2JPQmRQZ1I1VTBlcFJ2SzNMc19kY1FkZThSMnRBa2hZVGllNW1rSXJXVVJRSFlWQ0Vfd3lqY0phWTdfWmEyZUpESEtIRUE2NA?oc=5\" target=\"_blank\">A Popular Candy and Piece of Van Halen Legend Will Soon Disappear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ultimate Classic Rock</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUEyREw4ZWlBaXhLWGh6MUVoQkMwVGxVS0lhbk5fZUlrenlrLU1vRkgzclI4VVpkSzdTMkVWRXBuSmpkbDBqSkN4MjJqUlN0bXRIVDZGZktOeFE1Z3Zub0FOS2hPQ1hUdzlJYXlvZGhrZ05uSk5HSlFJLWFIbU5EbVhyRkIyUU1QMk5UZHUzR090YVnSAZgBQVVfeXFMT0E3ZVA1WUpyRjZ1eEp2V0pXT3dsUFo4OE85bzVaM1VZZGNqRjNlaHpPMExiOHg2amJPaW9ZMW11dnN0VkNuWFNtaTZnel9Ga0dWTWZxbzhUeUFaUW53aEZRV05CNlA1b3FuSDRQdWRtb0xVQVdGMVpKSHJGR0E1eFZ4S2d5ZXliNXVmdHVEb1E1dXloWE1Pc0I?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "They Looked Like They Were Getting Rich on Polymarket\u2014but None of It Was Real - WSJ",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "WSJ",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVR5MHA0UHhoMUVyOGZfTFRLaUtpQ1AxTjBpeHBoeS1hTnZwMjB6d3VBQmhuVmsyS3FYVUdPTk0za09VOWE2VnVOdjduN245UXJtemRtalpVNGhCOHFiU0pybkVXWHVmZzBBbHUzRHZaVTB2d1A4SUxGV3RYZ05FV1lBUmRGMzluTmwzQzhkNlN4NWhK?oc=5\" target=\"_blank\">They Looked Like They Were Getting Rich on Polymarket\u2014but None of It Was Real</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlJSRE1KS0U2T3JaZTRBbXYzRFFCQUtXdDdYSDk0SjJUUGJUQ0JCNG1JWU94ZTB2VzZiLXJFRjZNX184QTNtSUJ1NlY4eGlWUjl6cmtLTjdfbWNhcEpjUmEtWlp3N0hSWU1wMk9FbnFGeTBTLWdrNzFfMlQ1cEhURXFKN3FRYUxFaXVGNFdtdkJVVk5YbVN2dzc5cEJqR1da?oc=5\" target=\"_blank\">Polymarket Faces WSJ Scrutiny Over Fake-Win Videos Targeting U.S. Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Adventure</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVR5MHA0UHhoMUVyOGZfTFRLaUtpQ1AxTjBpeHBoeS1hTnZwMjB6d3VBQmhuVmsyS3FYVUdPTk0za09VOWE2VnVOdjduN245UXJtemRtalpVNGhCOHFiU0pybkVXWHVmZzBBbHUzRHZaVTB2d1A4SUxGV3RYZ05FV1lBUmRGMzluTmwzQzhkNlN4NWhK?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-21",
+          "headline": "France bans alcohol consumption at music festival events under red headwave alert - BBC",
+          "kind": "neutral",
+          "matched_effects": [],
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "rss",
+          "sentiment": 0.0,
+          "source": "BBC",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE82QkNxTGhwT0lZMFFxZ3FOcVU2Ri1hT0JDRklqbWFwWnN1MS14SVJVd1J5YksxZEY0UW9DYlB3UXVkNmpTS3JieVhfMmxzTE9DeHVoLVNGcmFSZw?oc=5\" target=\"_blank\">France bans alcohol consumption at music festival events under red headwave alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtVZWxoSnhzR3BkMnRVbjVlZ0tjdGduQXNpWDR1cVhXeDhsR21iUS1oT2pKS2dnYTRNaDg1TjJqSm42eURTRjB5dDZZZ2pxZzhXQVdsRVhVV180MHlJX3F4LWVDQjhHMmJjaXNud3d6NE5ENlBBd25LTmhhaG80ZEE0ZDU5U1M4VWgxdzM0N0NtaEZvaEtQWEdEVU53YWlkVnZrUE9NelYtaURsWW5SQ18wRHBxQ1RL?oc=5\" target=\"_blank\">Europe swelters under heatwave, France restricts alcohol consumption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5aODdpU0Y4bEpfUmFicXp3M0ZRTkdVQ3JEdmVKNXN5S1ZDMGF5djdvOFRLWS1xaGpicVRGazJCbUxKam1kOFZSUU14N2FaUDJ0MUU5U3VyYWl6NnFwVHBlcTZ3aGVkVm9UN0xheVh2UTVEUzhsWVp4c2VRNA?oc=5\" target=\"_blank\">Western Europe Braces for Another Round of Heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEhjaW5NMkZfQXpVQkNCRnR0QXBqaWxXZHNNTnBnTFp0RElOX2NjVjROOVIzeVNzbzV0bFBPbWRxeG00endLaXNDc3lyU2hCUlpMTkdhOXc2a3N6ZDJkbGZyVkR0cnRlb01SWWJ0SGVGUTJtNmx2SmtUVUlYV3dZN2ttMEl1eXhaS2tlZkdobVdzVVdUc3ZRS2hkMm1GMEh6T2lfSUhibkVCeUEtUGc?oc=5\" target=\"_blank\">France swelters in heatwave as temperatures look set to hit 40C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDJLZkxkM2hFLTNnZ0ExQzBuS1ZkcXNKc181dlpEWXc1bTYtWHlidmNYSmJuazAxWTgwTmVnbUhMTjlrZkd6MVVPcUhLakRlOE1MdnRLdHk0d0hDMWJ1QTVaTW5LQl9KTEIxUmtHaG96U05uU0xFUTlRZ2ZjU1FzMkFTUFdIUlpyVmQzR0dNRkNjdWM?oc=5\" target=\"_blank\">Extreme Heat Warnings Issued Across Europe: What to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82QkNxTGhwT0lZMFFxZ3FOcVU2Ri1hT0JDRklqbWFwWnN1MS14SVJVd1J5YksxZEY0UW9DYlB3UXVkNmpTS3JieVhfMmxzTE9DeHVoLVNGcmFSZw?oc=5"
+        }
+      ],
+      "company_exposures": [
+        "industrials"
+      ],
+      "company_profile": {
+        "industry": "Specialty Industrial Machinery",
+        "provider": "yfinance",
+        "sector": "Industrials"
+      },
+      "effective_adverse_effect_count": 7,
+      "effective_supportive_effect_count": 0,
+      "matched_effects": [
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Shipping disruption / freight stress",
+          "supportive_exposures": [],
+          "theme_id": "shipping_disruption"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Middle East conflict / defense tailwind",
+          "supportive_exposures": [],
+          "theme_id": "middle_east_conflict"
+        },
+        {
+          "adverse_exposures": [
+            "industrials"
+          ],
+          "direction": "adverse",
+          "label": "Oil supply shock / energy tailwind",
+          "supportive_exposures": [],
+          "theme_id": "oil_supply_shock"
+        }
+      ],
+      "supportive_effect_count": 0,
+      "weight_scale": 1.0
+    },
+    "news": {
+      "article_count": 15,
+      "catalyst_signal_count": 1,
+      "classified_articles": [
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-20",
+          "headline": "Oppenheimer Initiates The Middleby(MIDD.US) With Buy Rating, Announces Target Price $205 - \u5bcc\u9014\u725b\u725b",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "\u5bcc\u9014\u725b\u725b",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTlNSU82cEJQWUIwMW1wbksxQ0pJUmsxbVVQY3RGdUxuNDI0Q0t0LS1EbEtQZXp0c05rSkpYQU9VYUdWaDNPWUh4NUVfOEYtaXNnczg1dDVjaUdOS0FMZjBKTjJOZDJ2bDduMTlQUDItejU1WEZMeDZ6SHMxRzdLYlBmZVZsMmlobXdtSUtLOHM1RFNlZVNINmZRcFBkV0lwUEdSanhFVWpRSzBQMzF0SWdhdzhCdw?oc=5\" target=\"_blank\">Oppenheimer Initiates The Middleby(MIDD.US) With Buy Rating, Announces Target Price $205</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u5bcc\u9014\u725b\u725b</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTlNSU82cEJQWUIwMW1wbksxQ0pJUmsxbVVQY3RGdUxuNDI0Q0t0LS1EbEtQZXp0c05rSkpYQU9VYUdWaDNPWUh4NUVfOEYtaXNnczg1dDVjaUdOS0FMZjBKTjJOZDJ2bDduMTlQUDItejU1WEZMeDZ6SHMxRzdLYlBmZVZsMmlobXdtSUtLOHM1RFNlZVNINmZRcFBkV0lwUEdSanhFVWpRSzBQMzF0SWdhdzhCdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-19",
+          "headline": "The Middleby Corporation (MIDD) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbk1IVlhTcUotdE9WQzU5YW9rVVJuWlVDY1lXcTdESnJEd0loc0d2bC02VzJJTWx5VjJfM2dvYm96VFlDZEhUSGJJY3o3bERoRTV5VERFUUk2NWh2QTk5UnpKc2JUMDNjaUtoVDh2bTN6VVJuaHpMdzFIOU9FZTYtUTFlVm1YVmxJbkxCZ0pKeFRqWHhyMmJBb3NIRTVhdw?oc=5\" target=\"_blank\">The Middleby Corporation (MIDD) Hit a 52 Week High, Can the Run Continue?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk1IVlhTcUotdE9WQzU5YW9rVVJuWlVDY1lXcTdESnJEd0loc0d2bC02VzJJTWx5VjJfM2dvYm96VFlDZEhUSGJJY3o3bERoRTV5VERFUUk2NWh2QTk5UnpKc2JUMDNjaUtoVDh2bTN6VVJuaHpMdzFIOU9FZTYtUTFlVm1YVmxJbkxCZ0pKeFRqWHhyMmJBb3NIRTVhdw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-19",
+          "headline": "The Middleby Corporation (MIDD) Hit a 52 Week High, Can the Run Continue? - Yahoo! Finance Canada",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Yahoo! Finance Canada",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkFkY0ZGRDRDc1hrNGw2T3Y5Mk8xd0Y4aXpPbXR2Zjl4NG11TTlzNjZJSEdrUm1jYThhd1dRelhxNm9wSjVxZVdwZ3NPUzJXZU5WX1VQaEZDalJfME4yNHlmeHF6QkM5ZkNNUWhzNUE2aVpNRDV2NDN0WU1tRVA2NnJibFE0cVcy?oc=5\" target=\"_blank\">The Middleby Corporation (MIDD) Hit a 52 Week High, Can the Run Continue?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkFkY0ZGRDRDc1hrNGw2T3Y5Mk8xd0Y4aXpPbXR2Zjl4NG11TTlzNjZJSEdrUm1jYThhd1dRelhxNm9wSjVxZVdwZ3NPUzJXZU5WX1VQaEZDalJfME4yNHlmeHF6QkM5ZkNNUWhzNUE2aVpNRDV2NDN0WU1tRVA2NnJibFE0cVcy?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-19",
+          "headline": "Middleby (MIDD) Surges 4.6%: Is This an Indication of Further Gains? - Yahoo! Finance Canada",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.03333333333333333,
+          "source": "Yahoo! Finance Canada",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZUc2MXhveFhIQW9DcHJQSEVfeE5NaG9GMkxkcldVb1N1UkdZclQ3aU1JejRXV09QSnpreUFLTk9KUG5rUWI1NVFlNmE0MmVjTFhxSk85UlJJUnFOZW9Yb3pNRHVDQVdWQ0wtdmRrVDhvNWpVelhxaXF2M3Q5Zw?oc=5\" target=\"_blank\">Middleby (MIDD) Surges 4.6%: Is This an Indication of Further Gains?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZUc2MXhveFhIQW9DcHJQSEVfeE5NaG9GMkxkcldVb1N1UkdZclQ3aU1JejRXV09QSnpreUFLTk9KUG5rUWI1NVFlNmE0MmVjTFhxSk85UlJJUnFOZW9Yb3pNRHVDQVdWQ0wtdmRrVDhvNWpVelhxaXF2M3Q5Zw?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-18",
+          "headline": "Is The Middleby Corp (MIDD) Overvalued After 4.5% Rally? GF Valu - GuruFocus",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONG5rNURKWVNlbnR4bEJMUkw4LVg2V0hlMTZ2U1pXLVFSNzdCdUNEbHRmV0tDck1mc1l4Q0FJVko0bE5wdWhkZVJXam5oejlwLU5oQlVkbEU3dXJEN3NpcTZaV1dzeEdka0NZVUdGenhOMVdFVmIyN1U5NEVuMkR0cDlEZWotckxfUmJSRjh5Ukc4NUZIM1Q2MzU5aklpRzRxbDhoT2tfcjZyNmRfdEc1VlQ0WGhrY0d6eFU1b29qUFNWWERnQlE?oc=5\" target=\"_blank\">Is The Middleby Corp (MIDD) Overvalued After 4.5% Rally? GF Valu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONG5rNURKWVNlbnR4bEJMUkw4LVg2V0hlMTZ2U1pXLVFSNzdCdUNEbHRmV0tDck1mc1l4Q0FJVko0bE5wdWhkZVJXam5oejlwLU5oQlVkbEU3dXJEN3NpcTZaV1dzeEdka0NZVUdGenhOMVdFVmIyN1U5NEVuMkR0cDlEZWotckxfUmJSRjh5Ukc4NUZIM1Q2MzU5aklpRzRxbDhoT2tfcjZyNmRfdEc1VlQ0WGhrY0d6eFU1b29qUFNWWERnQlE?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-18",
+          "headline": "Middleby Corp stock hits 52-week high at 169.48 USD By Investing.com - Investing.com Nigeria",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Investing.com Nigeria",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUxpYV9iZnVFaG50ZWx1QzlFTkJnUDVfLWE2NXlNMkFIdG03cVVBZkZGLTJfQ1lxUi15NzNpWEJGWWlhMDRabFZvNDNTUFAxcS1COVpJcE9nQ1VjdFZwT09mNG5ZRXRwaFNUcExkTkZlZGQwdXhLSGFpTTFNUHNYdTFLdkY5ZkdrM3FKNVYzM2lGUGJ5Sm5CRnF0NjNINjRzSDVFSy1KdFU?oc=5\" target=\"_blank\">Middleby Corp stock hits 52-week high at 169.48 USD By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUxpYV9iZnVFaG50ZWx1QzlFTkJnUDVfLWE2NXlNMkFIdG03cVVBZkZGLTJfQ1lxUi15NzNpWEJGWWlhMDRabFZvNDNTUFAxcS1COVpJcE9nQ1VjdFZwT09mNG5ZRXRwaFNUcExkTkZlZGQwdXhLSGFpTTFNUHNYdTFLdkY5ZkdrM3FKNVYzM2lGUGJ5Sm5CRnF0NjNINjRzSDVFSy1KdFU?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-18",
+          "headline": "Middleby Corp (MIDD) Institutional Confidence - TradingKey",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "TradingKey",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE44ZzNtT0xvbGt3OEJnWmpZazdzN29hbFotSFFNaGpxOU11WWFkLU15azhWcXBab29sQm9lME9pLVI1UE0tLWtrMWFEdXA4UEY2ckpkUGdCc2pJWDZqNEtrbS1MV3NuT0cyUElKOHpaUWs?oc=5\" target=\"_blank\">Middleby Corp (MIDD) Institutional Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44ZzNtT0xvbGt3OEJnWmpZazdzN29hbFotSFFNaGpxOU11WWFkLU15azhWcXBab29sQm9lME9pLVI1UE0tLWtrMWFEdXA4UEY2ckpkUGdCc2pJWDZqNEtrbS1MV3NuT0cyUElKOHpaUWs?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-18",
+          "headline": "MIDDLEBY CORP (MIDD) Stock Chart - ChartMill",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "ChartMill",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KR1pWSzNGdWttNUc5N2JVQ1BONlI5UGc4UmxHR21JM3JzNmRLUHFPRl9ZM04zYnVraFUwb2NOMEhvdm1pdlZRYk5HTURmdUxqYmdleGhISzRWNHFPRnZrZVlteHU?oc=5\" target=\"_blank\">MIDDLEBY CORP (MIDD) Stock Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChartMill</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KR1pWSzNGdWttNUc5N2JVQ1BONlI5UGc4UmxHR21JM3JzNmRLUHFPRl9ZM04zYnVraFUwb2NOMEhvdm1pdlZRYk5HTURmdUxqYmdleGhISzRWNHFPRnZrZVlteHU?oc=5"
+        },
+        {
+          "catalyst_tags": [
+            "scheduled_event"
+          ],
+          "date": "2026-06-17",
+          "headline": "Middleby Corp (MIDD) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07692307692307693,
+          "source": "TradingKey",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0zczR4ZmYxWG1ZaE1salhXTGd2MjkydFNsM1ZvY0JJLVBQZ2dESTRGaVh3Q2x6Zk5yRzdSTlAzcFJUc0VNbDNueko2dUdlX1hJdHhYMWtWMGwtSFhCOTBqb0V0bkRlbWs4R0JWN2M1VQ?oc=5\" target=\"_blank\">Middleby Corp (MIDD) Earnings Forecast: Future EPS & Revenue Growth Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zczR4ZmYxWG1ZaE1salhXTGd2MjkydFNsM1ZvY0JJLVBQZ2dESTRGaVh3Q2x6Zk5yRzdSTlAzcFJUc0VNbDNueko2dUdlX1hJdHhYMWtWMGwtSFhCOTBqb0V0bkRlbWs4R0JWN2M1VQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-17",
+          "headline": "Middleby announces record date for Midera spin-off after SEC declares Form 10 effective - TradingView",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.06666666666666667,
+          "source": "TradingView",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQk5aaXhhMW5xSS1zeXFGQ3dmSXZQWFhtZ2hKNVg5NFJRTlUwX05PWGVaZGxZZFEwbWxuNEdESVUzNlFzOFNvOFpnUnp0MnZKWEtEbWZkSDZ1M3lXV3BKTThYTHRCVlFzYzdXQWczakhoNmEweEpidnNZWWZxR05LV3FkM3dSMWZmWHQzWHNtbm5Jci1ESFlmaE5tbEl0RmxVVWl6WURkYzI0MlJGdWpGMGl0MkItUnEzSzRiOW9tOEJhdVZvNjdMbVpQTHg3NkItT2VrUUdqN09BZ195UE1MRWZWUQ?oc=5\" target=\"_blank\">Middleby announces record date for Midera spin-off after SEC declares Form 10 effective</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQk5aaXhhMW5xSS1zeXFGQ3dmSXZQWFhtZ2hKNVg5NFJRTlUwX05PWGVaZGxZZFEwbWxuNEdESVUzNlFzOFNvOFpnUnp0MnZKWEtEbWZkSDZ1M3lXV3BKTThYTHRCVlFzYzdXQWczakhoNmEweEpidnNZWWZxR05LV3FkM3dSMWZmWHQzWHNtbm5Jci1ESFlmaE5tbEl0RmxVVWl6WURkYzI0MlJGdWpGMGl0MkItUnEzSzRiOW9tOEJhdVZvNjdMbVpQTHg3NkItT2VrUUdqN09BZ195UE1MRWZWUQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-17",
+          "headline": "Middleby (NASDAQ: MIDD) details Midera spin-off record date and 1-for-1 payout - Stock Titan",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.07142857142857142,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0RtZFRuVzFNcFFPRjd6NUJIUm1zZXNvS1BzMUo3cFpfeHR5R3VBQklqUGVtSUROaEl5MUxfTnhQWExuVGpDR0dBenlCbnM1dEFZdkxmM0xVQVk3eGN4OTUzUTJtMl9ycEdjRmtDWE1hREcyemk1SXk1MTYzNTh3cWc0eGdxcEJNYlRfR1lpeGZCLUxna3pLS09vWDlaT1c4NmR1Ug?oc=5\" target=\"_blank\">Middleby (NASDAQ: MIDD) details Midera spin-off record date and 1-for-1 payout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0RtZFRuVzFNcFFPRjd6NUJIUm1zZXNvS1BzMUo3cFpfeHR5R3VBQklqUGVtSUROaEl5MUxfTnhQWExuVGpDR0dBenlCbnM1dEFZdkxmM0xVQVk3eGN4OTUzUTJtMl9ycEdjRmtDWE1hREcyemk1SXk1MTYzNTh3cWc0eGdxcEJNYlRfR1lpeGZCLUxna3pLS09vWDlaT1c4NmR1Ug?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-17",
+          "headline": "MIDDLEBY Corp (MIDD) reports initial Midera Food Processing Form 3 ownership - Stock Titan",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Stock Titan",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1JRMWR3SkVKOFVmS0ExamFxcVU4SWZteGlfOTl4WkpnX2Vybk43Z2lBdm43ZDdzS0hKN3FNalFuT0RoQ0dBN1dQNER3T3ZjMjVrXzdMY0FrT3BsSENXV3dGWXBZUHdQMUYtb3Y3QnJ5RFpGYXZGdVlUamp4ZEc3TVNYTnNLcTJ3eGlTMXNLLVg1UjRwTjZnQkktRk00U2ZOOElmbFVsTkVaSGpmVldCTVZ5aS1ObnBDYm9VcWM0U21QQQ?oc=5\" target=\"_blank\">MIDDLEBY Corp (MIDD) reports initial Midera Food Processing Form 3 ownership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1JRMWR3SkVKOFVmS0ExamFxcVU4SWZteGlfOTl4WkpnX2Vybk43Z2lBdm43ZDdzS0hKN3FNalFuT0RoQ0dBN1dQNER3T3ZjMjVrXzdMY0FrT3BsSENXV3dGWXBZUHdQMUYtb3Y3QnJ5RFpGYXZGdVlUamp4ZEc3TVNYTnNLcTJ3eGlTMXNLLVg1UjRwTjZnQkktRk00U2ZOOElmbFVsTkVaSGpmVldCTVZ5aS1ObnBDYm9VcWM0U21QQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-17",
+          "headline": "Middleby (MIDD) Receives Outperform Rating from Oppenheimer with $205 Target - GuruFocus",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.08333333333333333,
+          "source": "GuruFocus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGZIZHFkZW5pODd2V0NPS1hYVDRhQy1DZGtQVTNfcC10aVYtTktMNHVoRnd1cUk2SndTc3BiZU1rXzFQYlYxTHl3SmpKSU9tcTlUQ2RMNEJtYUZYaWpPZmN3S01uaG4xR3p3d3ZOU2VLZ296LWdXRjNFTUdCektBeUl2OEs3RDRqVmxWV2o2SkZyNUJTcnZ5eVFxZmJ0WDQ3VGdkUnN4OUVpSDRWUG5yZGtXUW9jTThmZURVMVFDRGZrQQ?oc=5\" target=\"_blank\">Middleby (MIDD) Receives Outperform Rating from Oppenheimer with $205 Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGZIZHFkZW5pODd2V0NPS1hYVDRhQy1DZGtQVTNfcC10aVYtTktMNHVoRnd1cUk2SndTc3BiZU1rXzFQYlYxTHl3SmpKSU9tcTlUQ2RMNEJtYUZYaWpPZmN3S01uaG4xR3p3d3ZOU2VLZ296LWdXRjNFTUdCektBeUl2OEs3RDRqVmxWV2o2SkZyNUJTcnZ5eVFxZmJ0WDQ3VGdkUnN4OUVpSDRWUG5yZGtXUW9jTThmZURVMVFDRGZrQQ?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-17",
+          "headline": "Middleby Corp : Oppenheimer Initiates Coverag - Moomoo",
+          "kind": "neutral",
+          "negative_tags": [],
+          "positive_tags": [],
+          "provider": "google_news_rss",
+          "sentiment": 0.0,
+          "source": "Moomoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWY4WXhjckcxdTRCUk1jT3l2MS1MMWFWVW1XWHRwY3pFeWxkdnpJUlROb1BVVjBoUkpuVUwwQ01xdjgxbHZWcGtSZjhsNldBZzlqdU9LZ2tGTGVEODJJc1hxTDUzdGpHNmdkVFR4RzZ2TkE4Q2xKOW5MYTc4YV80QzIzaXNvakZScml2Q2ROY0Z3Qmc3bmsxMWlhUVM5SVlqRE1DbjBCV0NXUV9VQ1FZVTNuTGl5Rmw1S0VTSVVQclk?oc=5\" target=\"_blank\">Middleby Corp : Oppenheimer Initiates Coverag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWY4WXhjckcxdTRCUk1jT3l2MS1MMWFWVW1XWHRwY3pFeWxkdnpJUlROb1BVVjBoUkpuVUwwQ01xdjgxbHZWcGtSZjhsNldBZzlqdU9LZ2tGTGVEODJJc1hxTDUzdGpHNmdkVFR4RzZ2TkE4Q2xKOW5MYTc4YV80QzIzaXNvakZScml2Q2ROY0Z3Qmc3bmsxMWlhUVM5SVlqRE1DbjBCV0NXUV9VQ1FZVTNuTGl5Rmw1S0VTSVVQclk?oc=5"
+        },
+        {
+          "catalyst_tags": [],
+          "date": "2026-06-17",
+          "headline": "Oppenheimer initiates Middleby stock at Outperform ahead of spin-off - Investing.com",
+          "kind": "positive",
+          "negative_tags": [],
+          "positive_tags": [
+            "positive_tone",
+            "sell_side"
+          ],
+          "provider": "google_news_rss",
+          "sentiment": 0.09090909090909091,
+          "source": "Investing.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjJfaTROdHV6ZG16UWlLZFBPYmluN0FyX29HX1BvN3RrMWVQTmZaTVRtRHB6ZTZma0lrVVZ6VWRlNlA5VDZURnhrZDlIZF91NlhUbkdUa1lfMGVmLVdKblFiWXNudFZUVGNmYzhTSlp2TzBLOGpzVHNLRTIxd0RKeXdFR0gtTEF1MUxfd2V4Q3R3VXFXeDVHS0hsUzdkYWE0VmY2aTV3NExBVTVJcmlORFFtMnNGVkp1TGV0V2pLcUdRb2JoWGc?oc=5\" target=\"_blank\">Oppenheimer initiates Middleby stock at Outperform ahead of spin-off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjJfaTROdHV6ZG16UWlLZFBPYmluN0FyX29HX1BvN3RrMWVQTmZaTVRtRHB6ZTZma0lrVVZ6VWRlNlA5VDZURnhrZDlIZF91NlhUbkdUa1lfMGVmLVdKblFiWXNudFZUVGNmYzhTSlp2TzBLOGpzVHNLRTIxd0RKeXdFR0gtTEF1MUxfd2V4Q3R3VXFXeDVHS0hsUzdkYWE0VmY2aTV3NExBVTVJcmlORFFtMnNGVkp1TGV0V2pLcUdRb2JoWGc?oc=5"
+        }
+      ],
+      "coverage_quality": "strong",
+      "negative_signal_count": 0,
+      "positive_signal_count": 6
+    },
+    "sentiment": {
+      "days_sampled": 7,
+      "delta": 0.010808503665646525,
+      "prior_mean": 0.01853622567908282,
+      "recent_mean": 0.029344729344729346
+    },
+    "technical": {
+      "atr14": 5.57387725861228,
+      "close": 172.26,
+      "close_vs_ema200_pct": 18.302583864202997,
+      "close_vs_ema20_pct": 8.971561053452408,
+      "close_vs_ema50_pct": 13.15788824551833,
+      "close_vs_hh20_pct": 0.8961518186610444,
+      "ema20": 158.077941010227,
+      "ema200": 145.609668338042,
+      "ema50": 152.22977617455,
+      "entry_ready": false,
+      "hh20_prev": 170.73,
+      "selection_bucket": "candidate",
+      "vol_anom": 3.95997740593995
+    }
+  },
+  "market_overlay": {
+    "adverse_effects": 7,
+    "effective_adverse_effects": 7,
+    "effective_supportive_effects": 0,
+    "exposures": [
+      "industrials"
+    ],
+    "industry": "Specialty Industrial Machinery",
+    "sector": "Industrials",
+    "supportive_effects": 0,
+    "weight_scale": 1.0
+  },
+  "news_support": {
+    "explanation": "Python classified 15 stock-specific articles into 6 constructive, 0 adverse, and 1 catalyst-tagged signals. Coverage quality is strong. It matched 0 supportive and 7 adverse market-theme effects against this name's inferred sector exposures, then applied a 1.00 macro weight because company-specific coverage is strong.",
+    "stance": "mixed"
+  },
+  "recent_weakness": [
+    {
+      "confidence": "medium",
+      "point": "2026-06-21: Broader market headwind for this exposure set (Middle East conflict / defense tailwind): Israeli attacks kill dozens in Lebanon as US, Iran to hold talks on truce - Al Jazeera."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-21: Broader market headwind for this exposure set (Middle East conflict / defense tailwind, Shipping disruption / freight stress): Fires Reported at Crimean Ports, Chonhar Bridge, and Air Defense Sites Following Drone Strikes - Kyiv Post."
+    }
+  ],
+  "recovery_signals": [
+    {
+      "confidence": "high",
+      "point": "Price is holding above the prior 20-day high (170.73), a basic breakout confirmation signal."
+    },
+    {
+      "confidence": "high",
+      "point": "Volume anomaly is strong at 3.96, which supports the move."
+    },
+    {
+      "confidence": "medium",
+      "point": "Price is above EMA20, EMA50, EMA200, which keeps the medium-term trend supportive."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-20: Oppenheimer Initiates The Middleby(MIDD.US) With Buy Rating, Announces Target Price $205 - \u5bcc\u9014\u725b\u725b."
+    },
+    {
+      "confidence": "medium",
+      "point": "2026-06-17: Middleby Corp (MIDD) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey."
+    }
+  ],
+  "risks": [
+    {
+      "confidence": "medium",
+      "point": "The name is still only a candidate in the source feed, so the setup is not fully confirmed yet."
+    },
+    {
+      "confidence": "high",
+      "point": "A close back below 170.73 would weaken or invalidate the current breakout picture."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind): 2026-06-21: Israeli attacks kill dozens in Lebanon as US, Iran to hold talks on truce - Al Jazeera."
+    },
+    {
+      "confidence": "medium",
+      "point": "Broader market headwind remains relevant (Middle East conflict / defense tailwind, Shipping disruption / freight stress): 2026-06-21: Fires Reported at Crimean Ports, Chonhar Bridge, and Air Defense Sites Following Drone Strikes - Kyiv Post."
+    }
+  ],
+  "scorecard": {
+    "components": [
+      {
+        "label": "Base breakout score",
+        "points": 40
+      },
+      {
+        "label": "Name is still a candidate, not confirmed ENTRY_READY",
+        "points": -4
+      },
+      {
+        "label": "Price is holding above the 20-day high trigger",
+        "points": 7,
+        "value": 0.9
+      },
+      {
+        "label": "Volume confirmation is very strong",
+        "points": 9,
+        "value": 3.96
+      },
+      {
+        "label": "Price is above EMA20",
+        "points": 3,
+        "value": 8.97
+      },
+      {
+        "label": "Price is above EMA50",
+        "points": 3,
+        "value": 13.16
+      },
+      {
+        "label": "Price is above EMA200",
+        "points": 3,
+        "value": 18.3
+      },
+      {
+        "label": "Constructive local news signals",
+        "points": 8,
+        "value": 6
+      },
+      {
+        "label": "Adverse market / sector theme overlay",
+        "points": -6,
+        "value": 7
+      }
+    ],
+    "confidence": "high",
+    "label": "constructive_watch",
+    "score_0_to_100": 63
+  },
+  "sources": [
+    {
+      "published_at": "2026-06-20",
+      "publisher": "stock.sdc-fried.de",
+      "title": "Feed snapshot: Universe 3 US - CANDIDATES (Top 20)",
+      "url": "https://stock.sdc-fried.de/data/2026-06-20_universe_3_US_Results_CANDIDATES.txt"
+    },
+    {
+      "published_at": "2026-06-20",
+      "publisher": "\u5bcc\u9014\u725b\u725b",
+      "title": "Oppenheimer Initiates The Middleby(MIDD.US) With Buy Rating, Announces Target Price $205 - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTlNSU82cEJQWUIwMW1wbksxQ0pJUmsxbVVQY3RGdUxuNDI0Q0t0LS1EbEtQZXp0c05rSkpYQU9VYUdWaDNPWUh4NUVfOEYtaXNnczg1dDVjaUdOS0FMZjBKTjJOZDJ2bDduMTlQUDItejU1WEZMeDZ6SHMxRzdLYlBmZVZsMmlobXdtSUtLOHM1RFNlZVNINmZRcFBkV0lwUEdSanhFVWpRSzBQMzF0SWdhdzhCdw?oc=5"
+    },
+    {
+      "published_at": "2026-06-19",
+      "publisher": "Yahoo Finance",
+      "title": "The Middleby Corporation (MIDD) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk1IVlhTcUotdE9WQzU5YW9rVVJuWlVDY1lXcTdESnJEd0loc0d2bC02VzJJTWx5VjJfM2dvYm96VFlDZEhUSGJJY3o3bERoRTV5VERFUUk2NWh2QTk5UnpKc2JUMDNjaUtoVDh2bTN6VVJuaHpMdzFIOU9FZTYtUTFlVm1YVmxJbkxCZ0pKeFRqWHhyMmJBb3NIRTVhdw?oc=5"
+    },
+    {
+      "published_at": "2026-06-19",
+      "publisher": "Yahoo! Finance Canada",
+      "title": "The Middleby Corporation (MIDD) Hit a 52 Week High, Can the Run Continue? - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkFkY0ZGRDRDc1hrNGw2T3Y5Mk8xd0Y4aXpPbXR2Zjl4NG11TTlzNjZJSEdrUm1jYThhd1dRelhxNm9wSjVxZVdwZ3NPUzJXZU5WX1VQaEZDalJfME4yNHlmeHF6QkM5ZkNNUWhzNUE2aVpNRDV2NDN0WU1tRVA2NnJibFE0cVcy?oc=5"
+    },
+    {
+      "published_at": "2026-06-19",
+      "publisher": "Yahoo! Finance Canada",
+      "title": "Middleby (MIDD) Surges 4.6%: Is This an Indication of Further Gains? - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZUc2MXhveFhIQW9DcHJQSEVfeE5NaG9GMkxkcldVb1N1UkdZclQ3aU1JejRXV09QSnpreUFLTk9KUG5rUWI1NVFlNmE0MmVjTFhxSk85UlJJUnFOZW9Yb3pNRHVDQVdWQ0wtdmRrVDhvNWpVelhxaXF2M3Q5Zw?oc=5"
+    },
+    {
+      "published_at": "2026-06-18",
+      "publisher": "GuruFocus",
+      "title": "Is The Middleby Corp (MIDD) Overvalued After 4.5% Rally? GF Valu - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONG5rNURKWVNlbnR4bEJMUkw4LVg2V0hlMTZ2U1pXLVFSNzdCdUNEbHRmV0tDck1mc1l4Q0FJVko0bE5wdWhkZVJXam5oejlwLU5oQlVkbEU3dXJEN3NpcTZaV1dzeEdka0NZVUdGenhOMVdFVmIyN1U5NEVuMkR0cDlEZWotckxfUmJSRjh5Ukc4NUZIM1Q2MzU5aklpRzRxbDhoT2tfcjZyNmRfdEc1VlQ0WGhrY0d6eFU1b29qUFNWWERnQlE?oc=5"
+    },
+    {
+      "published_at": "2026-06-18",
+      "publisher": "Investing.com Nigeria",
+      "title": "Middleby Corp stock hits 52-week high at 169.48 USD By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUxpYV9iZnVFaG50ZWx1QzlFTkJnUDVfLWE2NXlNMkFIdG03cVVBZkZGLTJfQ1lxUi15NzNpWEJGWWlhMDRabFZvNDNTUFAxcS1COVpJcE9nQ1VjdFZwT09mNG5ZRXRwaFNUcExkTkZlZGQwdXhLSGFpTTFNUHNYdTFLdkY5ZkdrM3FKNVYzM2lGUGJ5Sm5CRnF0NjNINjRzSDVFSy1KdFU?oc=5"
+    },
+    {
+      "published_at": "2026-06-18",
+      "publisher": "TradingKey",
+      "title": "Middleby Corp (MIDD) Institutional Confidence - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44ZzNtT0xvbGt3OEJnWmpZazdzN29hbFotSFFNaGpxOU11WWFkLU15azhWcXBab29sQm9lME9pLVI1UE0tLWtrMWFEdXA4UEY2ckpkUGdCc2pJWDZqNEtrbS1MV3NuT0cyUElKOHpaUWs?oc=5"
+    }
+  ],
+  "summary": "MIDD scores 63/100 as a constructive_watch setup. The score is driven mainly by the technical breakout picture, with 6 constructive versus 0 adverse stock-specific signals and a market overlay impact of 0 supportive versus 7 adverse effects.",
+  "symbol": "MIDD"
+}

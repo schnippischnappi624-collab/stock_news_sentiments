@@ -675,6 +675,10 @@
     "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
   },
+  "DSCSY": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
+    "provider": "google_news_rss"
+  },
   "E3B": {
     "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
     "provider": "google_news_rss"
@@ -737,6 +741,10 @@
   },
   "ERCB": {
     "last_fetch_utc": "2026-05-26T04:00:06.531460+00:00",
+    "provider": "google_news_rss"
+  },
+  "ESE": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
     "provider": "google_news_rss"
   },
   "ESI": {
@@ -889,6 +897,10 @@
   },
   "GURN": {
     "last_fetch_utc": "2026-04-14T04:00:05.895077+00:00",
+    "provider": "google_news_rss"
+  },
+  "GWW": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
     "provider": "google_news_rss"
   },
   "HAFC": {
@@ -1131,6 +1143,10 @@
     "last_fetch_utc": "2026-04-27T09:15:07.385482+00:00",
     "provider": "google_news_rss"
   },
+  "LTH": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
+    "provider": "google_news_rss"
+  },
   "LTRX": {
     "last_fetch_utc": "2026-05-29T09:15:06.110559+00:00",
     "provider": "google_news_rss"
@@ -1167,6 +1183,10 @@
     "last_fetch_utc": "2026-04-15T04:00:06.210103+00:00",
     "provider": "google_news_rss"
   },
+  "MIDD": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
+    "provider": "google_news_rss"
+  },
   "MLGAL": {
     "last_fetch_utc": "2026-05-01T04:00:06.888283+00:00",
     "provider": "google_news_rss"
@@ -1197,6 +1217,10 @@
   },
   "MRCY": {
     "last_fetch_utc": "2026-06-01T09:15:05.563107+00:00",
+    "provider": "google_news_rss"
+  },
+  "MRNA": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
     "provider": "google_news_rss"
   },
   "MRVL": {
@@ -1289,6 +1313,10 @@
   },
   "NP3": {
     "last_fetch_utc": "2026-06-01T04:00:05.774397+00:00",
+    "provider": "google_news_rss"
+  },
+  "NPO": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
     "provider": "google_news_rss"
   },
   "NTAP": {
@@ -1627,6 +1655,10 @@
     "last_fetch_utc": "2026-04-22T09:15:05.785040+00:00",
     "provider": "google_news_rss"
   },
+  "SWBI": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
+    "provider": "google_news_rss"
+  },
   "SXT": {
     "last_fetch_utc": "2026-05-14T09:15:05.303730+00:00",
     "provider": "google_news_rss"
@@ -1684,7 +1716,7 @@
     "provider": "google_news_rss"
   },
   "TOELY": {
-    "last_fetch_utc": "2026-06-05T09:15:05.530568+00:00",
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
     "provider": "google_news_rss"
   },
   "TREL-B": {
@@ -1753,6 +1785,10 @@
   },
   "VIRP": {
     "last_fetch_utc": "2026-04-20T04:00:06.406977+00:00",
+    "provider": "google_news_rss"
+  },
+  "VIRT": {
+    "last_fetch_utc": "2026-06-21T09:15:05.691330+00:00",
     "provider": "google_news_rss"
   },
   "VLK": {
