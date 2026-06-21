@@ -4,9 +4,9 @@
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-06-20_eu_73119ed1`
-- Prior regional run: `2026-06-19_eu_c4805ead`
-- Feed dates: `2026-06-20`
+- Run ID: `2026-06-21_eu_d8cca808`
+- Prior regional run: `2026-06-20_eu_73119ed1`
+- Feed dates: `2026-06-21`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `0` of `0`
