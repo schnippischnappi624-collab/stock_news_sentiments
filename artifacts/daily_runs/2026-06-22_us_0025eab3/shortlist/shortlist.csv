@@ -1,0 +1,11 @@
+display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
+1,DSCSY,Disco Corp ADR,candidate,False,1,setup+breakout,ENTRY_READY,7.2,6.23627662173467,6.23627662173467,54.98,1035100.0,54.12,2.76312060441821,,,,,,,
+2,SWBI,Smith & Wesson Brands Inc,candidate,False,2,setup+breakout,ENTRY_READY,7.08,5.27826808664171,5.27826808664171,16.08,4654300.0,15.75,0.719125681118042,,,,,,,
+3,MIDD,Middleby Corp,candidate,False,3,setup+breakout,ENTRY_READY,7.06,3.95997740593995,3.95997740593995,172.26,2418700.0,170.73,5.57387725861228,,,,,,,
+4,NPO,Enpro Industries,candidate,False,4,setup,CANDIDATE,6.84,2.54373799347344,2.54373799347344,379.65,504300.0,367.61,12.9280340207932,,,,,,,
+5,VIRT,"Virtu Financial, Inc.",candidate,False,5,setup,CANDIDATE,6.83,2.53114474525687,2.53114474525687,63.07,2968400.0,60.7,1.88813362283523,,,,,,,
+6,MRNA,Moderna Inc,candidate,False,6,setup,CANDIDATE,6.66,3.4568071488784,3.4568071488784,63.96,24078800.0,62.3,3.76522507951605,,,,,,,
+7,GWW,WW Grainger Inc,candidate,False,7,setup,CANDIDATE,6.53,2.72653945484843,2.72653945484843,1365.41,715100.0,1349.74,28.3002936018169,,,,,,,
+8,TOELY,Tokyo Electron Ltd PK,candidate,False,8,setup,CANDIDATE,6.47,2.96677157438131,2.96677157438131,245.49,999786.0,238.0,11.0221980436295,,,,,,,
+9,LTH,Life Time Group Holdings Inc,candidate,False,9,setup,CANDIDATE,6.41,2.10676683439908,2.10676683439908,36.92,5148000.0,35.353,1.29884830386054,,,,,,,
+10,ESE,ESCO Technologies Inc,candidate,False,10,setup,CANDIDATE,6.2,2.39839079669533,2.39839079669533,343.5,547700.0,336.56,10.6237609484262,,,,,,,
