@@ -847,6 +847,10 @@
     "last_fetch_utc": "2026-06-03T09:15:08.882273+00:00",
     "provider": "google_news_rss"
   },
+  "GALDY": {
+    "last_fetch_utc": "2026-06-23T09:15:05.911164+00:00",
+    "provider": "google_news_rss"
+  },
   "GE": {
     "last_fetch_utc": "2026-06-01T09:15:05.563107+00:00",
     "provider": "google_news_rss"
@@ -1481,6 +1485,10 @@
   },
   "ROBA": {
     "last_fetch_utc": "2026-05-01T04:00:06.888283+00:00",
+    "provider": "google_news_rss"
+  },
+  "ROKU": {
+    "last_fetch_utc": "2026-06-23T09:15:05.911164+00:00",
     "provider": "google_news_rss"
   },
   "ROS": {

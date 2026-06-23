@@ -1,0 +1,14 @@
+{
+  "country": "Switzerland",
+  "exchange": "PNK",
+  "fetched_at_utc": "2026-06-23T09:15:16.595616+00:00",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "long_name": null,
+  "provider": "yfinance",
+  "query_symbol": "GALDY",
+  "quote_type": "EQUITY",
+  "requested_symbol": "GALDY",
+  "sector": "Healthcare",
+  "short_name": "GALDERMA GROUP AG",
+  "symbol": "GALDY"
+}

@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "exchange": "NMS",
+  "fetched_at_utc": "2026-06-23T09:15:16.595616+00:00",
+  "industry": "Entertainment",
+  "long_name": "Roku, Inc.",
+  "provider": "yfinance",
+  "query_symbol": "ROKU",
+  "quote_type": "EQUITY",
+  "requested_symbol": "ROKU",
+  "sector": "Communication Services",
+  "short_name": "Roku, Inc.",
+  "symbol": "ROKU"
+}
