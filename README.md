@@ -3,7 +3,7 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-06-24, 2026-06-25`
+- Feed dates: `2026-06-25`
 - Symbols analyzed: `2`
 
 Quick links:
@@ -35,9 +35,9 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-06-24_us_fcddd0e1`
-- Prior regional run: `2026-06-23_us_6ea84d87`
-- Feed dates: `2026-06-24`
+- Run ID: `2026-06-25_us_97fef97e`
+- Prior regional run: `2026-06-24_us_fcddd0e1`
+- Feed dates: `2026-06-25`
 - Symbols analyzed: `2`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `2` of `2`
@@ -52,7 +52,7 @@ No names from this section landed inside the current top-`15` cutoff.
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ROKU](<latest/us/analysis/markdown/ROKU.md>) | Roku Inc | $\color{#cf222e}{\textsf{+7.64\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 1 | [ROKU](<latest/us/analysis/markdown/ROKU.md>) | Roku Inc | $\color{#cf222e}{\textsf{+7.64\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
 
 ### Candidates
 
