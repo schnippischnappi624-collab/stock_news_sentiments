@@ -26,9 +26,9 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-06-25_us_97fef97e`
-- Prior regional run: `2026-06-24_us_fcddd0e1`
-- Feed dates: `2026-06-25`
+- Run ID: `2026-06-26_us_32f43c81`
+- Prior regional run: `2026-06-25_us_97fef97e`
+- Feed dates: `2026-06-26`
 - Symbols analyzed: `2`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `2` of `2`
@@ -37,7 +37,7 @@ No names from this section landed inside the current top-`15` cutoff.
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [GALDY](<us/analysis/markdown/GALDY.md>) | GALDERMA GROUP AG | $\color{#1a7f37}{\textsf{+0.05\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(5)}}$ |
+| 1 | [GALDY](<us/analysis/markdown/GALDY.md>) | GALDERMA GROUP AG | $\color{#1a7f37}{\textsf{+0.05\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(6)}}$ |
 
 ### Entry Ready But Already Spiked
 

@@ -1,13 +1,13 @@
 {
   "feed": {
-    "feed_date": "2026-06-25",
-    "filename": "2026-06-25_universe_3_US_Results.txt",
+    "feed_date": "2026-06-26",
+    "filename": "2026-06-26_universe_3_US_Results.txt",
     "kind": "Results",
     "region": "US",
     "universe": "3",
-    "url": "https://stock.sdc-fried.de/data/2026-06-25_universe_3_US_Results.txt"
+    "url": "https://stock.sdc-fried.de/data/2026-06-26_universe_3_US_Results.txt"
   },
-  "run_date": "2026-06-25",
+  "run_date": "2026-06-26",
   "table_count": 2,
   "tables": [
     {
@@ -52,14 +52,14 @@
           "exchange_code": "US",
           "hh20_prev": 133.46,
           "isin": null,
-          "last_run_id": 227,
+          "last_run_id": 229,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260612,
           "symbol": "ROKU",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-06-25T06:31:37Z",
+          "updated_ts_utc": "2026-06-26T06:31:37Z",
           "vol_anom": 5.48751881642543,
           "volume": 15006600.0
         },
@@ -77,14 +77,14 @@
           "exchange_code": "US",
           "hh20_prev": 43.29,
           "isin": null,
-          "last_run_id": 227,
+          "last_run_id": 229,
           "mic": null,
           "reason": "setup+breakout",
           "state": "ENTRY_READY",
           "state_since": 20260612,
           "symbol": "GALDY",
           "type": "Common Stock",
-          "updated_ts_utc": "2026-06-25T06:31:37Z",
+          "updated_ts_utc": "2026-06-26T06:31:37Z",
           "vol_anom": 3.9194286960314,
           "volume": 215694.0
         }
