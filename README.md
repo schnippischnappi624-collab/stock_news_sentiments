@@ -3,7 +3,7 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-06-26, 2026-06-27`
+- Feed dates: `2026-06-27`
 - Symbols analyzed: `2`
 
 Quick links:
@@ -35,9 +35,9 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-06-26_us_32f43c81`
-- Prior regional run: `2026-06-25_us_97fef97e`
-- Feed dates: `2026-06-26`
+- Run ID: `2026-06-27_us_1897e2f0`
+- Prior regional run: `2026-06-26_us_32f43c81`
+- Feed dates: `2026-06-27`
 - Symbols analyzed: `2`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `2` of `2`
@@ -46,13 +46,13 @@ No names from this section landed inside the current top-`15` cutoff.
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [GALDY](<latest/us/analysis/markdown/GALDY.md>) | GALDERMA GROUP AG | $\color{#1a7f37}{\textsf{+0.05\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{81}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(6)}}$ |
+| 1 | [GALDY](<latest/us/analysis/markdown/GALDY.md>) | GALDERMA GROUP AG | $\color{#1a7f37}{\textsf{+0.05\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{83}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(7)}}$ |
 
 ### Entry Ready But Already Spiked
 
 | Rank | Symbol | Company | Distance to entry | Bucket | Score | Confidence | Breakout stance | News stance | Coverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ROKU](<latest/us/analysis/markdown/ROKU.md>) | Roku Inc | $\color{#cf222e}{\textsf{+7.64\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{86}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
+| 1 | [ROKU](<latest/us/analysis/markdown/ROKU.md>) | Roku Inc | $\color{#cf222e}{\textsf{+7.64\%}}$ | $\color{#1a7f37}{\textsf{entry ready}}$ | $\color{#1a7f37}{\textsf{82}}$ | $\color{#1a7f37}{\textsf{high}}$ | $\color{#1a7f37}{\textsf{constructive bullish}}$ | $\color{#1a7f37}{\textsf{supportive}}$ | $\color{#1a7f37}{\textsf{strong(15)}}$ |
 
 ### Candidates
 
