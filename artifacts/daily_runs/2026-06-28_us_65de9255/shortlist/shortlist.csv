@@ -1,0 +1,3 @@
+display_rank,symbol,company_name,selection_bucket,entry_ready,candidate_rank,selection_reason,metric_state,metric_invest_score,metric_state_score,metric_vol_anom,metric_close,metric_volume,metric_hh20_prev,metric_atr14,metric_entry_limit,metric_stop_init,metric_r_dist,metric_tp_2r,metric_tp_3r,metric_risk_eur,metric_qty_for_risk
+1,ROKU,Roku Inc,entry_ready,True,,setup+breakout,ENTRY_READY,9.19,,5.48751881642543,143.66,15006600.0,133.46,6.83163911448636,133.46,123.2125,10.2475,153.9549,164.2024,,
+2,GALDY,GALDERMA GROUP AG,entry_ready,True,,setup+breakout,ENTRY_READY,5.02,,3.9194286960314,43.31,215694.0,43.29,0.996264532080344,43.29,41.7956,1.4944,46.2788,47.7732,,
