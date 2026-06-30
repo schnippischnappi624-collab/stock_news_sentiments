@@ -848,7 +848,7 @@
     "provider": "google_news_rss"
   },
   "GALDY": {
-    "last_fetch_utc": "2026-06-29T09:15:06.892238+00:00",
+    "last_fetch_utc": "2026-06-30T09:15:07.324983+00:00",
     "provider": "google_news_rss"
   },
   "GE": {
@@ -1488,7 +1488,7 @@
     "provider": "google_news_rss"
   },
   "ROKU": {
-    "last_fetch_utc": "2026-06-29T09:15:06.892238+00:00",
+    "last_fetch_utc": "2026-06-30T09:15:07.324983+00:00",
     "provider": "google_news_rss"
   },
   "ROS": {
