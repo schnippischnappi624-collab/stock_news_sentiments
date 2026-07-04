@@ -1,3 +1,0 @@
-asof_date,exchange_code,symbol,company_name,currency,country,close,volume,vol_anom,hh20_prev,atr14,atr_pct_pct,entry_limit,stop_init,r_dist,tp_1r,tp_2r,tp_3r,invest_score,score_factor,risk_factor,risk_eur_budget,invest_final,qty_final,actual_invest_eur,actual_risk_eur
-20260612,US,ROKU,Roku Inc,USD,USA,143.66,15006600.0,5.48751881642543,133.46,6.83163911448636,4.76,133.46,123.2125,10.2475,143.7075,153.9549,164.2024,9.19,1.0,,250.0,,,,
-20260612,US,GALDY,GALDERMA GROUP AG,USD,USA,43.31,215694.0,3.9194286960314,43.29,0.996264532080344,2.3,43.29,41.7956,1.4944,44.7844,46.2788,47.7732,5.02,0.5,,250.0,,,,
