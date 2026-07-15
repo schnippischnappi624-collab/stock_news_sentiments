@@ -4,17 +4,17 @@
   "extra_candidate_limit": 10,
   "feed_dates": [
     "2026-07-03",
-    "2026-07-14"
+    "2026-07-15"
   ],
   "filtered_out_symbols": [],
-  "generated_at_utc": "2026-07-14T09:15:06.786945+00:00",
-  "manifest_hash": "501ea3b6cd8753e9ab5c35ad45af005f09befeb1",
-  "run_id": "2026-07-14_us_501ea3b6",
+  "generated_at_utc": "2026-07-15T09:15:06.193069+00:00",
+  "manifest_hash": "147bab6701db80b09405c6f8e897f33dea6c66d4",
+  "run_id": "2026-07-15_us_147bab67",
   "symbols": [],
   "temporary_filters": {
     "filtered_count": 0,
     "kind": "min_price_eur",
     "min_price_eur": 1.0,
-    "rate_date": "2026-07-13"
+    "rate_date": "2026-07-14"
   }
 }
