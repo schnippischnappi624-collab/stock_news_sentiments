@@ -1,17 +1,17 @@
 {
-  "completed_at_utc": "2026-07-20T04:00:17.490862+00:00",
+  "completed_at_utc": "2026-07-21T04:00:16.466980+00:00",
   "feed_dates": [
     "2026-06-29",
-    "2026-07-20"
+    "2026-07-21"
   ],
   "feeds": [
     {
-      "feed_date": "2026-07-20",
-      "filename": "2026-07-20_universe_5_EU_Results.txt",
+      "feed_date": "2026-07-21",
+      "filename": "2026-07-21_universe_5_EU_Results.txt",
       "kind": "Results",
       "region": "EU",
       "universe": "5",
-      "url": "https://stock.sdc-fried.de/data/2026-07-20_universe_5_EU_Results.txt"
+      "url": "https://stock.sdc-fried.de/data/2026-07-21_universe_5_EU_Results.txt"
     },
     {
       "feed_date": "2026-06-29",
@@ -22,8 +22,8 @@
       "url": "https://stock.sdc-fried.de/data/2026-06-29_universe_5_EU_Results_CANDIDATES.txt"
     }
   ],
-  "manifest_hash": "e82808ffb68113c027517114b3b4607215e4e98d",
+  "manifest_hash": "c5557e4678bb0e168b02656eb1d734f1d07eb9ed",
   "region": "EU",
-  "run_id": "2026-07-20_eu_e82808ff",
+  "run_id": "2026-07-21_eu_c5557e46",
   "status": "ok"
 }
