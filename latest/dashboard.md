@@ -26,9 +26,9 @@ No names are currently classified as `candidates`.
 
 ## US Monitoring Dashboard
 
-- Run ID: `2026-07-26_us_6da8d9df`
-- Prior regional run: `2026-07-25_us_22a18781`
-- Feed dates: `2026-07-03, 2026-07-26`
+- Run ID: `2026-07-29_us_9e8e665d`
+- Prior regional run: `2026-07-26_us_6da8d9df`
+- Feed dates: `2026-07-03, 2026-07-29`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 
