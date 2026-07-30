@@ -1,0 +1,20 @@
+{
+  "candidate_count": 0,
+  "entry_ready_count": 0,
+  "extra_candidate_limit": 10,
+  "feed_dates": [
+    "2026-06-29",
+    "2026-07-30"
+  ],
+  "filtered_out_symbols": [],
+  "generated_at_utc": "2026-07-30T04:00:09.627657+00:00",
+  "manifest_hash": "1ed88f7be65a033132cebc6b969ade7be3dd8772",
+  "run_id": "2026-07-30_eu_1ed88f7b",
+  "symbols": [],
+  "temporary_filters": {
+    "filtered_count": 0,
+    "kind": "min_price_eur",
+    "min_price_eur": 1.0,
+    "rate_date": "2026-07-29"
+  }
+}
