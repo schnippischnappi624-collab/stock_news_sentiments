@@ -3,14 +3,14 @@
   "outputs": [
     {
       "feed": {
-        "feed_date": "2026-08-13",
-        "filename": "2026-08-13_universe_5_EU_Results.txt",
+        "feed_date": "2026-08-14",
+        "filename": "2026-08-14_universe_5_EU_Results.txt",
         "kind": "Results",
         "region": "EU",
         "universe": "5",
-        "url": "https://stock.sdc-fried.de/data/2026-08-13_universe_5_EU_Results.txt"
+        "url": "https://stock.sdc-fried.de/data/2026-08-14_universe_5_EU_Results.txt"
       },
-      "parsed_json_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/daily_runs/2026-08-13_eu_bf7c9631/parsed/2026-08-13_universe_5_EU_Results.json",
+      "parsed_json_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/daily_runs/2026-08-14_eu_80b6a868/parsed/2026-08-14_universe_5_EU_Results.json",
       "table_count": 0,
       "table_csv_paths": []
     },
@@ -23,11 +23,11 @@
         "universe": "5",
         "url": "https://stock.sdc-fried.de/data/2026-06-29_universe_5_EU_Results_CANDIDATES.txt"
       },
-      "parsed_json_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/daily_runs/2026-08-13_eu_bf7c9631/parsed/2026-06-29_universe_5_EU_Results_CANDIDATES.json",
+      "parsed_json_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/daily_runs/2026-08-14_eu_80b6a868/parsed/2026-06-29_universe_5_EU_Results_CANDIDATES.json",
       "table_count": 0,
       "table_csv_paths": []
     }
   ],
   "parsed_files": 2,
-  "run_id": "2026-08-13_eu_bf7c9631"
+  "run_id": "2026-08-14_eu_80b6a868"
 }
