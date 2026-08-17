@@ -3,7 +3,7 @@
 Auto-generated breakout monitoring dashboard for the latest committed regional runs.
 
 - Regions available: `EU, US`
-- Feed dates: `2026-06-29, 2026-07-03, 2026-08-16`
+- Feed dates: `2026-06-29, 2026-07-03, 2026-08-16, 2026-08-17`
 - Symbols analyzed: `0`
 
 Quick links:
@@ -13,9 +13,9 @@ Quick links:
 
 ## EU Best Candidates by Actionability and Score
 
-- Run ID: `2026-08-16_eu_fed72e35`
-- Prior regional run: `2026-08-15_eu_2423840b`
-- Feed dates: `2026-06-29, 2026-08-16`
+- Run ID: `2026-08-17_eu_d481a38c`
+- Prior regional run: `2026-08-16_eu_fed72e35`
+- Feed dates: `2026-06-29, 2026-08-17`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `0` of `0`
