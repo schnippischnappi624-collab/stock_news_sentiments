@@ -5,9 +5,9 @@
 
 ## EU Monitoring Dashboard
 
-- Run ID: `2026-08-25_eu_675841a5`
-- Prior regional run: `2026-08-24_eu_a9b5df66`
-- Feed dates: `2026-06-29, 2026-08-25`
+- Run ID: `2026-08-26_eu_bef97cec`
+- Prior regional run: `2026-08-25_eu_675841a5`
+- Feed dates: `2026-06-29, 2026-08-26`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 
