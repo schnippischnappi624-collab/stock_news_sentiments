@@ -26,9 +26,9 @@ No names from this section landed inside the current top-`15` cutoff.
 
 ## US Best Candidates by Actionability and Score
 
-- Run ID: `2026-08-26_us_8d80d59d`
-- Prior regional run: `2026-08-25_us_e88a2c3e`
-- Feed dates: `2026-07-03, 2026-08-26`
+- Run ID: `2026-08-27_us_554694f7`
+- Prior regional run: `2026-08-26_us_8d80d59d`
+- Feed dates: `2026-07-03, 2026-08-27`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `0` of `0`
