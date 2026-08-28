@@ -1,6 +1,6 @@
 {
   "analysis_mode": "hybrid",
-  "generated_at_utc": "2026-08-27T09:15:09.080465+00:00",
+  "generated_at_utc": "2026-08-28T09:15:08.582968+00:00",
   "investing_quote_links": {
     "cache_hits": 0,
     "lookup_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/maintenance/investing_quote_links.json",
@@ -14,6 +14,6 @@
   "ok": true,
   "reports_failed": 0,
   "reports_written": 0,
-  "run_id": "2026-08-27_us_554694f7",
+  "run_id": "2026-08-28_us_7a7857cd",
   "symbols_total": 0
 }
