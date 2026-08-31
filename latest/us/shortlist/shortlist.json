@@ -4,12 +4,12 @@
   "extra_candidate_limit": 10,
   "feed_dates": [
     "2026-07-03",
-    "2026-08-30"
+    "2026-08-31"
   ],
   "filtered_out_symbols": [],
-  "generated_at_utc": "2026-08-30T09:15:05.720608+00:00",
-  "manifest_hash": "0cb0559bb7ba8b253c438cb46c635d79bceb7497",
-  "run_id": "2026-08-30_us_0cb0559b",
+  "generated_at_utc": "2026-08-31T09:15:06.460573+00:00",
+  "manifest_hash": "c7ad2de58a3855a78abee8c9f1572f607100f2d2",
+  "run_id": "2026-08-31_us_c7ad2de5",
   "symbols": [],
   "temporary_filters": {
     "filtered_count": 0,
