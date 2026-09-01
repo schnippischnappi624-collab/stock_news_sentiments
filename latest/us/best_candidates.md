@@ -2,9 +2,9 @@
 
 Top regional names using the same sectioned monitoring sort as the main dashboard.
 
-- Run ID: `2026-08-31_us_c7ad2de5`
-- Prior regional run: `2026-08-30_us_0cb0559b`
-- Feed dates: `2026-07-03, 2026-08-31`
+- Run ID: `2026-09-01_us_6ff18e33`
+- Prior regional run: `2026-08-31_us_c7ad2de5`
+- Feed dates: `2026-07-03, 2026-09-01`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 - Rows shown: `0` of `0`
