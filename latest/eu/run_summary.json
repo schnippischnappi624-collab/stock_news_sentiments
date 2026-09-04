@@ -1,7 +1,7 @@
 {
   "analysis_summary": {
     "analysis_mode": "hybrid",
-    "generated_at_utc": "2026-09-03T04:00:09.409623+00:00",
+    "generated_at_utc": "2026-09-04T04:00:12.486293+00:00",
     "investing_quote_links": {
       "cache_hits": 0,
       "lookup_path": "/home/mothe-server/python/stock_news_sentiments/stock_news_sentiments/artifacts/maintenance/investing_quote_links.json",
@@ -15,12 +15,12 @@
     "ok": true,
     "reports_failed": 0,
     "reports_written": 0,
-    "run_id": "2026-09-03_eu_3f1c375f",
+    "run_id": "2026-09-04_eu_c60819a8",
     "symbols_total": 0
   },
   "candidate_count": 0,
   "entry_ready_count": 0,
-  "generated_at_utc": "2026-09-03T04:00:09.410247+00:00",
+  "generated_at_utc": "2026-09-04T04:00:12.487350+00:00",
   "news_summary": {
     "company_profiles": {
       "ok": true,
@@ -30,7 +30,7 @@
       "symbols_total": 0
     },
     "market_news": {
-      "articles_appended": 142,
+      "articles_appended": 125,
       "errors": [],
       "feeds_total": 3,
       "ok": true,
@@ -44,6 +44,6 @@
     "symbols_total": 0
   },
   "ok": true,
-  "run_id": "2026-09-03_eu_3f1c375f",
+  "run_id": "2026-09-04_eu_c60819a8",
   "shortlist_size": 0
 }
