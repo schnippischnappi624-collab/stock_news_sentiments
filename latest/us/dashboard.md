@@ -2,9 +2,9 @@
 
 Explicit monitoring view for one regional run.
 
-- Run ID: `2026-09-04_us_fb652be7`
-- Prior regional run: `2026-09-03_us_f61897b1`
-- Feed dates: `2026-07-03, 2026-09-04`
+- Run ID: `2026-09-05_us_7b61ca2a`
+- Prior regional run: `2026-09-04_us_fb652be7`
+- Feed dates: `2026-07-03, 2026-09-05`
 - Symbols analyzed: `0`
 - Sort mode: sections `Entry Ready Near Trigger -> Entry Ready But Already Spiked -> Candidates`; in-section rank = `score desc -> confidence desc -> abs(distance to entry) asc -> symbol asc`; near-trigger cutoff = `5%`
 
